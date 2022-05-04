@@ -9,7 +9,7 @@
       "properties": {
 		"biom" : "any",
 		"cr" : "6",
-		"fightingstyle" : ["melee","berserker"],
+		"fightingstyle" : ["melee","berserk"],
 		"movement" : "walk",		
 		"purpose" : "damage",
 		"releaseurl" : "https://www.patreon.com/posts/special-creature-51753197",
@@ -33,7 +33,7 @@
 		"biom" : "forest",
 		"cr" : "9",
 		"movement" : ["walk", "climb"],		
-		"fightingstyle" : ["berserker", "damage", "melee"],
+		"fightingstyle" : ["berserk", "damage", "melee"],
 		"releaseurl" : "https://www.patreon.com/posts/wendigo-65132787",
 		"size" : "medium",
 		"stat_ac" : "17",
