@@ -7,7 +7,7 @@
       "name": "Cave Entrance",
       "description": "A modular cave entrance. Available as camp version as well.",
       "properties": {
-        "adventure" : "none",
+        "adventure" : [""],
 		"biom" : ["cave", "forest", "day", "outside"],
 		"brightness" : "medium",
 		"grid" : "32x18",  
@@ -22,7 +22,7 @@
       "name": "Cave Entrance",
       "description": "A modular cave entrance. Available as camp version as well.",
       "properties": {
-        "adventure" : "none",
+        "adventure" : [""],
 		"biom" : ["cave", "forest", "day", "outside"],
 		"brightness" : "medium",
 		"grid" : "none",  
@@ -37,8 +37,8 @@
       "name": "SciFi Base Interiour",
       "description": "A destroyed scifi machine or laboratory room.",
       "properties": {
-        "adventure" : "none",
-		"biom" : ["Scifi", "base", "laboratory", "inside"],
+        "adventure" : [""],
+		"biom" : ["scifi", "base", "laboratory", "inside"],
 		"brightness" : "dark",
 		"grid" : "32x18",  
 		"pack" : "Scifi_2",
@@ -52,8 +52,8 @@
       "name": "SciFi Base Interiour",
       "description": "A destroyed scifi machine or laboratory room.",
       "properties": {
-        "adventure" : "none",
-		"biom" : ["Scifi", "base", "laboratory", "inside"],
+        "adventure" : [""],
+		"biom" : ["scifi", "base", "laboratory", "inside"],
 		"brightness" : "dark",
 		"grid" : "none",  
 		"pack" : "Scifi_2",
@@ -67,16 +67,13 @@
       "name": "Castle Ravenloft B1: Servant's Hall",
       "description": "B1 of castle ravenloft.",
       "properties": {
-        "adventure" : "Curse of Strahd",
-		"biom" : ["Castle", "dungeon", "inside"],
+        "adventure" : ["Curse of Strahd"],
+		"biom" : ["castle", "dungeon", "inside"],
 		"brightness" : "dark",
-		"environment" : "Dungeon",
 		"grid" : "32x18",  
-		"location" : "inside",
 		"pack" : "Castle Ravenloft",
 		"releaseurl" : "https://www.patreon.com/posts/pack-25-curse-of-53809027",
         "sibling" : "25-01_Ravenloft_B1_Servants_Hall-4K_Scenery",
-		"style" : "fantasy",
 		"type" : "battlemap",
 		"videourl" : "https://www.youtube.com/watch?v=zsZ7PgGp4NI"
       }
@@ -85,8 +82,8 @@
       "name": "Castle Ravenloft B1: Servant's Hall",
       "description": "B1 of castle ravenloft.",
       "properties": {
-        "adventure" : "Curse of Strahd",
-		"biom" : ["Castle", "dungeon", "inside"],
+        "adventure" : ["Curse of Strahd"],
+		"biom" : ["dastle", "dungeon", "inside"],
 		"brightness" : "dark",
 		"grid" : "none",  
 		"pack" : "Castle Ravenloft",
