@@ -9,12 +9,10 @@
       "properties": {
 		"biom" : "any",
 		"cr" : "6",
-		"fightingstyle" : "melee",
+		"fightingstyle" : ["melee","berserker"],
 		"movement" : "walk",		
 		"purpose" : "damage",
-		"regeneration" : "no",
 		"releaseurl" : "https://www.patreon.com/posts/special-creature-51753197",
-		"role" : "berserker",
 		"size" : "large",
 		"stat_ac" : "16",
 		"stat_hp" : "100",
@@ -24,8 +22,7 @@
 		"stat_int" : "7",
 		"stat_wis" : "12",
 		"stat_cha" : "7",
-		"subtype" : "vampire",
-		"type" : "undead",
+		"type" : ["undead","vampire"],
 		"videourl" : "https://www.youtube.com/watch?v=GLNZy5sujd0"
       }
     },
@@ -35,12 +32,9 @@
       "properties": {
 		"biom" : "forest",
 		"cr" : "9",
-		"fightingstyle" : "melee",
-		"movement" : "walk",		
-		"purpose" : "damage",
-		"regeneration" : "yes",
+		"movement" : ["walk", "climb"],		
+		"fightingstyle" : ["berserker", "damage", "melee"],
 		"releaseurl" : "https://www.patreon.com/posts/wendigo-65132787",
-		"role" : "berserker",
 		"size" : "medium",
 		"stat_ac" : "17",
 		"stat_hp" : "137",
@@ -50,8 +44,7 @@
 		"stat_int" : "8",
 		"stat_wis" : "18",
 		"stat_cha" : "7",
-		"subtype" : "spirit",
-		"type" : "monstrousity",
+		"type" : "monstrosity",
 		"videourl" : "https://www.youtube.com/watch?v=tP_DM5pwSpA"
       }
     },
@@ -61,12 +54,9 @@
       "properties": {
 		"biom" : "swamp",
 		"cr" : "4",
-		"fightingstyle" : "melee",
 		"movement" : "walk",		
-		"purpose" : "hunter",
-		"regeneration" : "no",
+		"fightingstyle" : ["hunter", "fighter", "melee", "regeneration"],
 		"releaseurl" : "https://www.patreon.com/posts/bog-strider-65662794",
-		"role" : "fighter",
 		"size" : "large",
 		"stat_ac" : "14",
 		"stat_hp" : "71",
@@ -76,8 +66,7 @@
 		"stat_int" : "3",
 		"stat_wis" : "10",
 		"stat_cha" : "1",
-		"subtype" : "insect",
-		"type" : "beast",
+		"type" : ["beast", "insect"],
 		"videourl" : "https://www.youtube.com/watch?v=zppwFyrxD0g"
       }
     }

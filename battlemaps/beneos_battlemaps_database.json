@@ -8,15 +8,12 @@
       "description": "A modular cave entrance. Available as camp version as well.",
       "properties": {
         "adventure" : "none",
-		"biom" : "cave",
+		"biom" : ["cave", "forest", "day", "outside"],
 		"brightness" : "medium",
-		"environment" : "forest",
 		"grid" : "32x18",  
-		"location" : "outside",
 		"pack" : "Fantasy Cave",
 		"releaseurl" : "https://www.patreon.com/posts/pack-1-crystal-41209963",
 		"sibling" : "01-01_Cave_Entrance-4K_Scenery",  
-		"style" : "fantasy",
 		"type" : "battlemap",
 		"videourl" : "https://www.youtube.com/watch?v=PMYkMRrWnEg"
       }
@@ -26,15 +23,12 @@
       "description": "A modular cave entrance. Available as camp version as well.",
       "properties": {
         "adventure" : "none",
-		"biom" : "cave",
+		"biom" : ["cave", "forest", "day", "outside"],
 		"brightness" : "medium",
-		"environment" : "forest",
-		"grid" : "32x18",  
-		"location" : "outside",
+		"grid" : "none",  
 		"pack" : "Fantasy Cave",
 		"releaseurl" : "https://www.patreon.com/posts/pack-1-crystal-41209963",
-		"sibling" : "01-01_Cave_Entrance-4K_Scenery",  
-		"style" : "fantasy",
+		"sibling" : "01-01_Cave_Entrance-4K_Battlemap",  
 		"type" : "scenery",
 		"videourl" : "https://www.youtube.com/watch?v=PMYkMRrWnEg"
       }
@@ -44,15 +38,12 @@
       "description": "A destroyed scifi machine or laboratory room.",
       "properties": {
         "adventure" : "none",
-		"biom" : "Scifi Base",
+		"biom" : ["Scifi", "base", "laboratory", "inside"],
 		"brightness" : "dark",
-		"environment" : "laboratory",
 		"grid" : "32x18",  
-		"location" : "inside",
 		"pack" : "Scifi_2",
 		"releaseurl" : "https://www.patreon.com/posts/pack-7-sci-fi-41213163",
         "sibling" : "07-01_Scifi_Base_1-4K_Scenery",
-		"style" : "scifi",
 		"type" : "battlemap",
 		"videourl" : "https://www.youtube.com/watch?v=5mTBJljeXZU"
       }
@@ -62,15 +53,12 @@
       "description": "A destroyed scifi machine or laboratory room.",
       "properties": {
         "adventure" : "none",
-		"biom" : "Scifi Base",
+		"biom" : ["Scifi", "base", "laboratory", "inside"],
 		"brightness" : "dark",
-		"environment" : "laboratory",
 		"grid" : "none",  
-		"location" : "inside",
 		"pack" : "Scifi_2",
 		"releaseurl" : "https://www.patreon.com/posts/pack-7-sci-fi-41213163",
         "sibling" : "07-01_Scifi_Base_1-4K_Battlemap",
-		"style" : "scifi",
 		"type" : "scenery",
 		"videourl" : "https://www.youtube.com/watch?v=D9YSbpHp0Xw"
       }
@@ -80,12 +68,12 @@
       "description": "B1 of castle ravenloft.",
       "properties": {
         "adventure" : "Curse of Strahd",
-		"biom" : "Castle",
+		"biom" : ["Castle", "dungeon", "inside"],
 		"brightness" : "dark",
 		"environment" : "Dungeon",
 		"grid" : "32x18",  
 		"location" : "inside",
-		"pack" : "Curse of Strahd - Castle Ravenloft B1",
+		"pack" : "Castle Ravenloft",
 		"releaseurl" : "https://www.patreon.com/posts/pack-25-curse-of-53809027",
         "sibling" : "25-01_Ravenloft_B1_Servants_Hall-4K_Scenery",
 		"style" : "fantasy",
@@ -98,15 +86,12 @@
       "description": "B1 of castle ravenloft.",
       "properties": {
         "adventure" : "Curse of Strahd",
-		"biom" : "Castle",
+		"biom" : ["Castle", "dungeon", "inside"],
 		"brightness" : "dark",
-		"environment" : "Dungeon",
 		"grid" : "none",  
-		"location" : "inside",
-		"pack" : "Curse of Strahd - Castle Ravenloft B1",
+		"pack" : "Castle Ravenloft",
 		"releaseurl" : "https://www.patreon.com/posts/pack-25-curse-of-53809027",
         "sibling" : "25-01_Ravenloft_B1_Servants_Hall-4K_Battlemap",
-		"style" : "fantasy",
 		"type" : "scenery",
 		"videourl" : "https://www.youtube.com/watch?v=zsZ7PgGp4NI"
       }
