@@ -7,90 +7,126 @@
       "name": "Cave Entrance",
       "description": "A modular cave entrance. Available as camp version as well.",
       "properties": {
-        "adventure" : [""],
-		"biom" : ["cave", "forest", "day", "outside"],
-		"brightness" : "medium",
-		"grid" : "32x18",  
-		"pack" : "Fantasy Cave",
-		"releaseurl" : "https://www.patreon.com/posts/pack-1-crystal-41209963",
-		"sibling" : "01-01_Cave_Entrance-4K_Scenery",  
-		"type" : "battlemap",
-		"videourl" : "https://www.youtube.com/watch?v=PMYkMRrWnEg"
+        "adventure": [
+        ],
+        "biom": [
+          "cave",
+          "forest",
+          "day",
+          "outside"
+        ],
+        "brightness": "medium",
+        "grid": "32x18",
+        "pack": "Fantasy Cave",
+        "releaseurl": "https://www.patreon.com/posts/pack-1-crystal-41209963",
+        "sibling": "01-01_Cave_Entrance-4K_Scenery",
+        "type": "battlemap",
+        "videourl": "https://www.youtube.com/watch?v=PMYkMRrWnEg"
       }
     },
     "01-01_Cave_Entrance-4K_Scenery": {
       "name": "Cave Entrance",
       "description": "A modular cave entrance. Available as camp version as well.",
       "properties": {
-        "adventure" : [""],
-		"biom" : ["cave", "forest", "day", "outside"],
-		"brightness" : "medium",
-		"grid" : "none",  
-		"pack" : "Fantasy Cave",
-		"releaseurl" : "https://www.patreon.com/posts/pack-1-crystal-41209963",
-		"sibling" : "01-01_Cave_Entrance-4K_Battlemap",  
-		"type" : "scenery",
-		"videourl" : "https://www.youtube.com/watch?v=PMYkMRrWnEg"
+        "adventure": [
+        ],
+        "biom": [
+          "cave",
+          "forest",
+          "day",
+          "outside"
+        ],
+        "brightness": "medium",
+        "grid": "none",
+        "pack": "Fantasy Cave",
+        "releaseurl": "https://www.patreon.com/posts/pack-1-crystal-41209963",
+        "sibling": "01-01_Cave_Entrance-4K_Battlemap",
+        "type": "scenery",
+        "videourl": "https://www.youtube.com/watch?v=PMYkMRrWnEg"
       }
     },
     "07-01_Scifi_Base_1-4K_Battlemap": {
       "name": "SciFi Base Interiour",
       "description": "A destroyed scifi machine or laboratory room.",
       "properties": {
-        "adventure" : [""],
-		"biom" : ["scifi", "base", "laboratory", "inside"],
-		"brightness" : "dark",
-		"grid" : "32x18",  
-		"pack" : "Scifi_2",
-		"releaseurl" : "https://www.patreon.com/posts/pack-7-sci-fi-41213163",
-        "sibling" : "07-01_Scifi_Base_1-4K_Scenery",
-		"type" : "battlemap",
-		"videourl" : "https://www.youtube.com/watch?v=5mTBJljeXZU"
+        "adventure": [
+        ],
+        "biom": [
+          "scifi",
+          "base",
+          "laboratory",
+          "inside"
+        ],
+        "brightness": "dark",
+        "grid": "32x18",
+        "pack": "Scifi_2",
+        "releaseurl": "https://www.patreon.com/posts/pack-7-sci-fi-41213163",
+        "sibling": "07-01_Scifi_Base_1-4K_Scenery",
+        "type": "battlemap",
+        "videourl": "https://www.youtube.com/watch?v=5mTBJljeXZU"
       }
     },
     "07-01_Scifi_Base_1-4K_Scenery": {
       "name": "SciFi Base Interiour",
       "description": "A destroyed scifi machine or laboratory room.",
       "properties": {
-        "adventure" : [""],
-		"biom" : ["scifi", "base", "laboratory", "inside"],
-		"brightness" : "dark",
-		"grid" : "none",  
-		"pack" : "Scifi_2",
-		"releaseurl" : "https://www.patreon.com/posts/pack-7-sci-fi-41213163",
-        "sibling" : "07-01_Scifi_Base_1-4K_Battlemap",
-		"type" : "scenery",
-		"videourl" : "https://www.youtube.com/watch?v=D9YSbpHp0Xw"
+        "adventure": [
+        ],
+        "biom": [
+          "scifi",
+          "base",
+          "laboratory",
+          "inside"
+        ],
+        "brightness": "dark",
+        "grid": "none",
+        "pack": "Scifi_2",
+        "releaseurl": "https://www.patreon.com/posts/pack-7-sci-fi-41213163",
+        "sibling": "07-01_Scifi_Base_1-4K_Battlemap",
+        "type": "scenery",
+        "videourl": "https://www.youtube.com/watch?v=D9YSbpHp0Xw"
       }
     },
     "25-01_Ravenloft_B1_Servants_Hall-4K_Battlemap": {
       "name": "Castle Ravenloft B1: Servant's Hall",
       "description": "B1 of castle ravenloft.",
       "properties": {
-        "adventure" : ["Curse of Strahd"],
-		"biom" : ["castle", "dungeon", "inside"],
-		"brightness" : "dark",
-		"grid" : "32x18",  
-		"pack" : "Castle Ravenloft",
-		"releaseurl" : "https://www.patreon.com/posts/pack-25-curse-of-53809027",
-        "sibling" : "25-01_Ravenloft_B1_Servants_Hall-4K_Scenery",
-		"type" : "battlemap",
-		"videourl" : "https://www.youtube.com/watch?v=zsZ7PgGp4NI"
+        "adventure": [
+          "Curse of Strahd"
+        ],
+        "biom": [
+          "castle",
+          "dungeon",
+          "inside"
+        ],
+        "brightness": "dark",
+        "grid": "32x18",
+        "pack": "Castle Ravenloft",
+        "releaseurl": "https://www.patreon.com/posts/pack-25-curse-of-53809027",
+        "sibling": "25-01_Ravenloft_B1_Servants_Hall-4K_Scenery",
+        "type": "battlemap",
+        "videourl": "https://www.youtube.com/watch?v=zsZ7PgGp4NI"
       }
     },
     "25-01_Ravenloft_B1_Servants_Hall-4K_Scenery": {
       "name": "Castle Ravenloft B1: Servant's Hall",
       "description": "B1 of castle ravenloft.",
       "properties": {
-        "adventure" : ["Curse of Strahd"],
-		"biom" : ["dastle", "dungeon", "inside"],
-		"brightness" : "dark",
-		"grid" : "none",  
-		"pack" : "Castle Ravenloft",
-		"releaseurl" : "https://www.patreon.com/posts/pack-25-curse-of-53809027",
-        "sibling" : "25-01_Ravenloft_B1_Servants_Hall-4K_Battlemap",
-		"type" : "scenery",
-		"videourl" : "https://www.youtube.com/watch?v=zsZ7PgGp4NI"
+        "adventure": [
+          "Curse of Strahd"
+        ],
+        "biom": [
+          "dastle",
+          "dungeon",
+          "inside"
+        ],
+        "brightness": "dark",
+        "grid": "none",
+        "pack": "Castle Ravenloft",
+        "releaseurl": "https://www.patreon.com/posts/pack-25-curse-of-53809027",
+        "sibling": "25-01_Ravenloft_B1_Servants_Hall-4K_Battlemap",
+        "type": "scenery",
+        "videourl": "https://www.youtube.com/watch?v=zsZ7PgGp4NI"
       }
     }
   }
