@@ -1,0 +1,15 @@
+{
+  "id": "beneos_battlemaps_database",
+  "type": "battlemap",
+  "version": "0.1.0",
+  "content": {
+    "battlemapename1": {
+      "name": "",
+      "description": "",
+      "properties": {
+        "field1" : "xxxx",
+        "field2" : "xxxx"
+      }
+    }
+  }
+}
