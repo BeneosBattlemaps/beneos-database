@@ -57,7 +57,7 @@
         "stat_int": "8",
         "stat_wis": "18",
         "stat_cha": "7",
-        "type": "monstrosity",
+        "type": ["monstrosity"],
         "videourl": "https://www.youtube.com/watch?v=tP_DM5pwSpA"
       }
     },
