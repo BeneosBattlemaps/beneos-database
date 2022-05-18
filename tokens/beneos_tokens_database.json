@@ -1,1 +1,2556 @@
-{"type":"token","content":{"019_reef_keeper":{"description":"","properties":{"stat_ac":10,"thumbnail":"019_reef_keeper-idle_face_still.webp","stat_str":10,"type":[{"value":"elemental","swarm":"","custom":"","subtype":""},""],"stat_dex":5,"stat_con":16,"stat_int":6,"stat_wis":7,"stat_cha":3,"videourl":"","biom":["any"],"cr":2,"stat_hp":33,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"019 Reef Keeper"},"044_amygdalyan":{"description":"","properties":{"stat_ac":10,"thumbnail":"044_amygdalyan-idle_face_still.webp","stat_str":11,"type":[{"value":"aberration","swarm":"","custom":"","subtype":""},""],"stat_dex":16,"stat_con":12,"stat_int":16,"stat_wis":14,"stat_cha":19,"videourl":"","biom":["any"],"cr":7,"stat_hp":88,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"044 Amygdalyan"},"012_cipactli":{"description":"","properties":{"stat_ac":40,"thumbnail":"012_cipactli-idle_face_still.webp","stat_str":18,"type":[{"value":"monstrosity","swarm":"","custom":"","subtype":""},""],"stat_dex":9,"stat_con":16,"stat_int":7,"stat_wis":13,"stat_cha":7,"videourl":"","biom":["any"],"cr":4,"stat_hp":40,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"lg"},"name":"012 Cipactli"},"027_revenant_knight_1":{"description":"","properties":{"thumbnail":"027_revenant_knight_1-idle_face_still.webp","stat_str":18,"type":[{"value":"undead","swarm":"","custom":"","subtype":""},""],"stat_dex":14,"stat_con":18,"stat_int":13,"stat_wis":16,"stat_cha":18,"videourl":"","biom":["any"],"cr":5,"stat_hp":116,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"027 Revenant Knight 1"},"025_trained_archer_3":{"description":"","properties":{"thumbnail":"025_trained_archer_3-idle_face_still.webp","stat_str":13,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":""},""],"stat_dex":16,"stat_con":12,"stat_int":10,"stat_wis":14,"stat_cha":11,"videourl":"","biom":["any"],"cr":2,"stat_hp":27,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"025 Trained Archer 3"},"033_yeti":{"description":"","properties":{"thumbnail":"033_yeti-idle_face_still.webp","stat_str":22,"type":[{"value":"giant","swarm":"","custom":"","subtype":""},""],"stat_dex":10,"stat_con":24,"stat_int":6,"stat_wis":14,"stat_cha":6,"videourl":"","biom":["any"],"cr":9,"stat_hp":127,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"huge"},"name":"033 Yeti"},"025_trained_archer_1":{"description":"","properties":{"thumbnail":"025_trained_archer_1-idle_face_still.webp","stat_str":13,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":""},""],"stat_dex":16,"stat_con":12,"stat_int":10,"stat_wis":14,"stat_cha":11,"videourl":"","biom":["any"],"cr":2,"stat_hp":27,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"025 Trained Archer 1"},"032_night_hag_2":{"description":"","properties":{"thumbnail":"032_night_hag_2-idle_face_still.webp","stat_str":18,"type":[{"value":"fiend","swarm":"","custom":"","subtype":""},""],"stat_dex":15,"stat_con":16,"stat_int":16,"stat_wis":14,"stat_cha":16,"videourl":"","biom":["any"],"cr":6,"stat_hp":112,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"032 Night Hag 2"},"007_umber_spinner":{"description":"","properties":{"stat_ac":14,"thumbnail":"007_umber_spinner-idle_face_still.webp","stat_str":11,"type":["Chaotic Evil",""],"stat_dex":14,"stat_con":15,"stat_int":6,"stat_wis":10,"stat_cha":5,"videourl":"","biom":["any"],"cr":3,"stat_hp":45,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"007 Umber Spinner"},"006_shield_guardian_1":{"description":"","properties":{"stat_ac":17,"thumbnail":"006_shield_guardian_1-idle_face_still.webp","stat_str":18,"type":["Construct",""],"stat_dex":8,"stat_con":18,"stat_int":8,"stat_wis":11,"stat_cha":5,"videourl":"","biom":["any"],"cr":8,"stat_hp":142,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"lg"},"name":"006 Polarized Shield Guardian 1"},"030_commoner_6_m_peasant_1":{"description":"","properties":{"thumbnail":"030_commoner_6_m_peasant_1-idle_face_still.webp","stat_str":12,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":"any"},""],"stat_dex":10,"stat_con":11,"stat_int":9,"stat_wis":11,"stat_cha":10,"videourl":"","biom":["any"],"cr":0.25,"stat_hp":14,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"030 Commoner 6 Male Peasant 1"},"045_shattermaw":{"description":"","properties":{"stat_ac":10,"thumbnail":"045_shattermaw-idle_face_still.webp","stat_str":22,"type":["",""],"stat_dex":7,"stat_con":22,"stat_int":4,"stat_wis":12,"stat_cha":6,"videourl":"","biom":["any"],"cr":9,"stat_hp":172,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"huge"},"name":"045 Shattermaw"},"026_vampire_spawn_4":{"description":"","properties":{"thumbnail":"026_vampire_spawn_4-idle_face_still.webp","stat_str":16,"type":[{"value":"undead","swarm":"","custom":"","subtype":""},""],"stat_dex":16,"stat_con":16,"stat_int":13,"stat_wis":13,"stat_cha":16,"videourl":"","biom":["any"],"cr":5,"stat_hp":86,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"026 Vampire Spawn 4"},"030_commoner_17_f_maid":{"description":"","properties":{"thumbnail":"030_commoner_17_f_maid-idle_face_still.webp","stat_str":12,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":"any"},""],"stat_dex":10,"stat_con":11,"stat_int":9,"stat_wis":11,"stat_cha":10,"videourl":"","biom":["any"],"cr":0.25,"stat_hp":14,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"030 Commoner 17 Female Maid"},"032_night_hag_3":{"description":"","properties":{"thumbnail":"032_night_hag_3-idle_face_still.webp","stat_str":18,"type":[{"value":"fiend","swarm":"","custom":"","subtype":""},""],"stat_dex":15,"stat_con":16,"stat_int":16,"stat_wis":14,"stat_cha":16,"videourl":"","biom":["any"],"cr":6,"stat_hp":112,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"032 Night Hag 3"},"035_roc":{"description":"","properties":{"thumbnail":"035_roc-idle_face_still.webp","stat_str":28,"type":[{"value":"monstrosity","swarm":"","custom":"","subtype":""},""],"stat_dex":10,"stat_con":20,"stat_int":3,"stat_wis":14,"stat_cha":9,"videourl":"","biom":["any"],"cr":11,"stat_hp":256,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"grg"},"name":"035 Roc"},"040_ossian_debt_collector":{"description":"","properties":{"stat_ac":10,"thumbnail":"040_ossian_debt_collector-idle_face_still.webp","stat_str":19,"type":[{"value":"undead","swarm":"","custom":"","subtype":""},""],"stat_dex":13,"stat_con":17,"stat_int":14,"stat_wis":15,"stat_cha":18,"videourl":"","biom":["any"],"cr":7,"stat_hp":84,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"040 Ossian Debt Collector"},"030_commoner_19_f":{"description":"","properties":{"thumbnail":"030_commoner_19_f-idle_face_still.webp","stat_str":12,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":"any"},""],"stat_dex":10,"stat_con":11,"stat_int":9,"stat_wis":11,"stat_cha":10,"videourl":"","biom":["any"],"cr":0.25,"stat_hp":14,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"030 Commoner 19 Female"},"022_orc_shaman":{"description":"","properties":{"thumbnail":"022_orc_shaman-idle_face_still.webp","stat_str":15,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":"Orc"},""],"stat_dex":13,"stat_con":16,"stat_int":12,"stat_wis":18,"stat_cha":14,"videourl":"","biom":["any"],"cr":6,"stat_hp":59,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"022 Orc Shaman"},"004_undead_centipede":{"description":"","properties":{"stat_ac":17,"thumbnail":"004_undead_centipede-idle_face_still.webp","stat_str":15,"type":["Fiend (Devil)",""],"stat_dex":12,"stat_con":16,"stat_int":17,"stat_wis":19,"stat_cha":22,"videourl":"","biom":["any"],"cr":16,"stat_hp":230,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"huge"},"name":"004 The Curseweaver"},"036_winter_empress_1":{"description":"","properties":{"thumbnail":"036_winter_empress_1-idle_face_still.webp","stat_str":16,"type":[{"value":"construct","swarm":"","custom":"","subtype":""},""],"stat_dex":14,"stat_con":18,"stat_int":18,"stat_wis":20,"stat_cha":22,"videourl":"","biom":["any"],"cr":1,"stat_hp":38,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"036 Black Ice Effigy 1"},"030_commoner_13_f_herbalist":{"description":"","properties":{"thumbnail":"030_commoner_13_f_herbalist-idle_face_still.webp","stat_str":12,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":"any"},""],"stat_dex":10,"stat_con":11,"stat_int":9,"stat_wis":11,"stat_cha":10,"videourl":"","biom":["any"],"cr":0.25,"stat_hp":14,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"030 Commoner 13 Female Herbalist"},"030_commoner_18_f_mother":{"description":"","properties":{"thumbnail":"030_commoner_18_f_mother-idle_face_still.webp","stat_str":12,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":"any"},""],"stat_dex":10,"stat_con":11,"stat_int":9,"stat_wis":11,"stat_cha":10,"videourl":"","biom":["any"],"cr":0.25,"stat_hp":14,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"030 Commoner 18 Female Mother"},"026_vampire_spawn_3":{"description":"","properties":{"thumbnail":"026_vampire_spawn_3-idle_face_still.webp","stat_str":16,"type":[{"value":"undead","swarm":"","custom":"","subtype":""},""],"stat_dex":16,"stat_con":16,"stat_int":13,"stat_wis":13,"stat_cha":16,"videourl":"","biom":["any"],"cr":5,"stat_hp":86,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"026 Vampire Spawn 3"},"025_trained_archer_2":{"description":"","properties":{"thumbnail":"025_trained_archer_2-idle_face_still.webp","stat_str":13,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":""},""],"stat_dex":16,"stat_con":12,"stat_int":10,"stat_wis":14,"stat_cha":11,"videourl":"","biom":["any"],"cr":2,"stat_hp":27,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"025 Trained Archer 2"},"036_winter_empress_2":{"description":"","properties":{"thumbnail":"036_winter_empress_2-idle_face_still.webp","stat_str":16,"type":[{"value":"construct","swarm":"","custom":"","subtype":""},""],"stat_dex":14,"stat_con":18,"stat_int":18,"stat_wis":20,"stat_cha":22,"videourl":"","biom":["any"],"cr":1,"stat_hp":38,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"036 Black Ice Effigy 2"},"037_royal_griffon":{"description":"","properties":{"thumbnail":"037_royal_griffon-idle_face_still.webp","stat_str":18,"type":[{"value":"monstrosity","swarm":"","custom":"","subtype":""},""],"stat_dex":14,"stat_con":16,"stat_int":4,"stat_wis":13,"stat_cha":8,"videourl":"","biom":["any"],"cr":3,"stat_hp":64,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"lg"},"name":"037 Royal Griffon"},"014_dragon":{"description":"","properties":{"stat_ac":20,"thumbnail":"014_dragon-idle_face_still.webp","stat_str":27,"type":[{"value":"dragon","swarm":"","custom":"","subtype":""},""],"stat_dex":15,"stat_con":24,"stat_int":18,"stat_wis":18,"stat_cha":25,"videourl":"","biom":["any"],"cr":19,"stat_hp":320,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"grg"},"name":"014 Dragon"},"026_vampire_spawn_2":{"description":"","properties":{"thumbnail":"026_vampire_spawn_2-idle_face_still.webp","stat_str":16,"type":[{"value":"undead","swarm":"","custom":"","subtype":""},""],"stat_dex":16,"stat_con":16,"stat_int":13,"stat_wis":13,"stat_cha":16,"videourl":"","biom":["any"],"cr":5,"stat_hp":86,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"026 Vampire Spawn 2"},"046_garghoul":{"description":"","properties":{"stat_ac":10,"thumbnail":"046_garghoul-idle_face_still.webp","stat_str":14,"type":[{"value":"undead","swarm":"","custom":"","subtype":""},""],"stat_dex":16,"stat_con":10,"stat_int":7,"stat_wis":12,"stat_cha":6,"videourl":"","biom":["any"],"cr":3,"stat_hp":42,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"046 Garghoul"},"016_wolf_1":{"description":"","properties":{"stat_ac":10,"thumbnail":"016_wolf_1-idle_face_still.webp","stat_str":14,"type":[{"value":"beast","swarm":"","custom":"","subtype":""},""],"stat_dex":14,"stat_con":14,"stat_int":5,"stat_wis":12,"stat_cha":6,"videourl":"","biom":["any"],"cr":1,"stat_hp":19,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"016 Wolf 1"},"030_commoner_20_f_peasant":{"description":"","properties":{"thumbnail":"030_commoner_20_f_peasant-idle_face_still.webp","stat_str":12,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":"any"},""],"stat_dex":10,"stat_con":11,"stat_int":9,"stat_wis":11,"stat_cha":10,"videourl":"","biom":["any"],"cr":0.25,"stat_hp":14,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"030 Commoner 20 Female Peasant"},"001_vampire_beast":{"description":"","properties":{"stat_ac":16,"thumbnail":"001_vampire_beast-idle_face_still.webp","stat_str":18,"type":["Undead","Vampire"],"stat_dex":18,"stat_con":18,"stat_int":7,"stat_wis":12,"stat_cha":7,"videourl":"","biom":["any"],"cr":6,"stat_hp":100,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"lg"},"name":"001 Primal Vampire Spawn"},"038_arcane_incursor":{"description":"","properties":{"thumbnail":"038_arcane_incursor-idle_face_still.webp","stat_str":14,"type":[{"value":"aberration","swarm":"","custom":"","subtype":""},""],"stat_dex":16,"stat_con":13,"stat_int":14,"stat_wis":13,"stat_cha":16,"videourl":"","biom":["any"],"cr":5,"stat_hp":57,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"lg"},"name":"038 Arcane Incursor"},"047_swifttalon_raptor":{"description":"","properties":{"stat_ac":10,"thumbnail":"047_swifttalon_raptor-idle_face_still.webp","stat_str":11,"type":[{"value":"beast","swarm":"","custom":"","subtype":"Dinosaur"},""],"stat_dex":16,"stat_con":10,"stat_int":7,"stat_wis":12,"stat_cha":6,"videourl":"","biom":["any"],"cr":2,"stat_hp":22,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"047 Swifttalon raptor"},"030_commoner_7_m_peasant_2":{"description":"","properties":{"thumbnail":"030_commoner_7_m_peasant_2-idle_face_still.webp","stat_str":12,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":"any"},""],"stat_dex":10,"stat_con":11,"stat_int":9,"stat_wis":11,"stat_cha":10,"videourl":"","biom":["any"],"cr":0.25,"stat_hp":14,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"030 Commoner 7 Male Peasant 2"},"030_commoner_3_m_beggar":{"description":"","properties":{"thumbnail":"030_commoner_3_m_beggar-idle_face_still.webp","stat_str":12,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":"any"},""],"stat_dex":10,"stat_con":11,"stat_int":9,"stat_wis":11,"stat_cha":10,"videourl":"","biom":["any"],"cr":0.25,"stat_hp":14,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"030 Commoner 3 Male Beggar"},"013_harpyia":{"description":"","properties":{"stat_ac":12,"thumbnail":"013_harpyia-idle_face_still.webp","stat_str":10,"type":[{"value":"monstrosity","swarm":"","custom":"","subtype":""},""],"stat_dex":18,"stat_con":12,"stat_int":14,"stat_wis":16,"stat_cha":8,"videourl":"","biom":["any"],"cr":3,"stat_hp":32,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"013 Harpyia"},"009_skeleton_henchman_1":{"description":"","properties":{"stat_ac":14,"thumbnail":"009_skeleton_henchman_1-idle_face_still.webp","stat_str":14,"type":["Undead",""],"stat_dex":10,"stat_con":16,"stat_int":5,"stat_wis":10,"stat_cha":6,"videourl":"","biom":["any"],"cr":2,"stat_hp":25,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"009 Skeleton Henchman 1"},"030_commoner_14_f_old":{"description":"","properties":{"thumbnail":"030_commoner_14_f_old-idle_face_still.webp","stat_str":12,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":"any"},""],"stat_dex":10,"stat_con":11,"stat_int":9,"stat_wis":11,"stat_cha":10,"videourl":"","biom":["any"],"cr":0.25,"stat_hp":14,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"030 Commoner 14 Female Old"},"028_unchained_armor":{"description":"","properties":{"thumbnail":"028_unchained_armor-idle_face_still.webp","stat_str":18,"type":[{"value":"","swarm":"","custom":"","subtype":""},""],"stat_dex":13,"stat_con":16,"stat_int":9,"stat_wis":10,"stat_cha":9,"videourl":"","biom":["any"],"cr":7,"stat_hp":92,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"028 Unchained Armor"},"011_trained_fighter":{"description":"","properties":{"stat_ac":15,"thumbnail":"011_trained_fighter-idle_face_still.webp","stat_str":17,"type":["",""],"stat_dex":15,"stat_con":16,"stat_int":14,"stat_wis":13,"stat_cha":10,"videourl":"","biom":["any"],"cr":2,"stat_hp":33,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"011 Trained Fighter"},"030_commoner_2_m_merchant":{"description":"","properties":{"thumbnail":"030_commoner_2_m_merchant-idle_face_still.webp","stat_str":12,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":"any"},""],"stat_dex":10,"stat_con":11,"stat_int":9,"stat_wis":11,"stat_cha":10,"videourl":"","biom":["any"],"cr":0.25,"stat_hp":14,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"030 Commoner 2 Male Merchant"},"030_commoner_9_m_noble":{"description":"","properties":{"thumbnail":"030_commoner_9_m_noble-idle_face_still.webp","stat_str":12,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":"any"},""],"stat_dex":10,"stat_con":11,"stat_int":9,"stat_wis":11,"stat_cha":10,"videourl":"","biom":["any"],"cr":0.25,"stat_hp":14,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"030 Commoner 9 Male Noble 1"},"048_stormwyvern":{"description":"","properties":{"stat_ac":10,"thumbnail":"048_stormwyvern-idle_face_still.webp","stat_str":19,"type":[{"value":"dragon","swarm":"","custom":"","subtype":""},""],"stat_dex":10,"stat_con":17,"stat_int":8,"stat_wis":14,"stat_cha":7,"videourl":"","biom":["any"],"cr":7,"stat_hp":130,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"lg"},"name":"048 stormwyvern"},"015_werewolf_1":{"description":"","properties":{"stat_ac":14,"thumbnail":"015_werewolf_1-idle_face_still.webp","stat_str":17,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":""},""],"stat_dex":16,"stat_con":15,"stat_int":10,"stat_wis":12,"stat_cha":11,"videourl":"","biom":["any"],"cr":5,"stat_hp":53,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"015_werewolf_1"},"030_commoner_15_f_noble":{"description":"","properties":{"thumbnail":"030_commoner_15_f_noble-idle_face_still.webp","stat_str":12,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":"any"},""],"stat_dex":10,"stat_con":11,"stat_int":9,"stat_wis":11,"stat_cha":10,"videourl":"","biom":["any"],"cr":0.25,"stat_hp":14,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"030 Commoner 15 Female Noble 1"},"002_glutony":{"description":"","properties":{"stat_ac":15,"thumbnail":"002_glutony-idle_face_still.webp","stat_str":18,"type":["Fiend (Demon)",""],"stat_dex":6,"stat_con":24,"stat_int":11,"stat_wis":13,"stat_cha":16,"videourl":"","biom":["any"],"cr":20,"stat_hp":322,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"huge"},"name":"002 Gluttony"},"005_assassin_1":{"description":"","properties":{"stat_ac":16,"thumbnail":"005_assassin_1-idle_face_still.webp","stat_str":13,"type":["Any Race",""],"stat_dex":18,"stat_con":13,"stat_int":14,"stat_wis":16,"stat_cha":12,"videourl":"","biom":["any"],"cr":3,"stat_hp":45,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"005 Assassin 1"},"030_commoner_1_m_worker":{"description":"","properties":{"thumbnail":"030_commoner_1_m_worker-idle_face_still.webp","stat_str":12,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":"any"},""],"stat_dex":10,"stat_con":11,"stat_int":9,"stat_wis":11,"stat_cha":10,"videourl":"","biom":["any"],"cr":0.25,"stat_hp":14,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"030 Commoner 1 Male Worker"},"043_mind_golem":{"description":"","properties":{"stat_ac":10,"thumbnail":"043_mind_golem-idle_face_still.webp","stat_str":19,"type":[{"value":"construct","swarm":"","custom":"","subtype":""},""],"stat_dex":10,"stat_con":20,"stat_int":22,"stat_wis":14,"stat_cha":11,"videourl":"","biom":["any"],"cr":16,"stat_hp":130,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"lg"},"name":"043 Mind Golem"},"042_mournbride":{"description":"","properties":{"stat_ac":10,"thumbnail":"042_mournbride-idle_face_still.webp","stat_str":8,"type":[{"value":"undead","swarm":"","custom":"","subtype":""},""],"stat_dex":14,"stat_con":13,"stat_int":13,"stat_wis":8,"stat_cha":16,"videourl":"","biom":["any"],"cr":4,"stat_hp":56,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"042 Mournbride"},"018_giant_spider_1":{"description":"","properties":{"stat_ac":14,"thumbnail":"018_giant_spider_1-idle_face_still.webp","stat_str":14,"type":[{"value":"monstrosity","swarm":"","custom":"","subtype":""},""],"stat_dex":16,"stat_con":13,"stat_int":4,"stat_wis":10,"stat_cha":3,"videourl":"","biom":["any"],"cr":4,"stat_hp":46,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"lg"},"name":"018 Spider 1"},"041_elephant":{"description":"","properties":{"stat_ac":10,"thumbnail":"041_elephant-idle_face_still.webp","stat_str":22,"type":[{"value":"beast","swarm":"","custom":"","subtype":""},""],"stat_dex":9,"stat_con":17,"stat_int":5,"stat_wis":11,"stat_cha":6,"videourl":"","biom":["any"],"cr":5,"stat_hp":76,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"huge"},"name":"041 Elephant"},"016_wolf_2":{"description":"","properties":{"stat_ac":10,"thumbnail":"016_wolf_2-idle_face_still.webp","stat_str":14,"type":[{"value":"beast","swarm":"","custom":"","subtype":""},""],"stat_dex":14,"stat_con":14,"stat_int":5,"stat_wis":12,"stat_cha":6,"videourl":"","biom":["any"],"cr":1,"stat_hp":19,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"016 Wolf 2"},"021_ghoul_wretchling":{"description":"","properties":{"thumbnail":"021_ghoul_wretchling-idle_face_still.webp","stat_str":8,"type":[{"value":"undead","swarm":"","custom":"","subtype":""},""],"stat_dex":14,"stat_con":11,"stat_int":6,"stat_wis":7,"stat_cha":2,"videourl":"","biom":["any"],"cr":1,"stat_hp":13,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"sm"},"name":"021 Ghoul Wretchling"},"029_infernal_steed_1":{"description":"","properties":{"thumbnail":"029_infernal_steed_1-idle_face_still.webp","stat_str":18,"type":[{"value":"fiend","swarm":"","custom":"","subtype":""},""],"stat_dex":16,"stat_con":16,"stat_int":10,"stat_wis":13,"stat_cha":14,"videourl":"","biom":["any"],"cr":4,"stat_hp":94,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"lg"},"name":"029 Infernal Steed 1"},"008_aspect_of_gluttony":{"description":"","properties":{"stat_ac":9,"thumbnail":"008_aspect_of_gluttony-idle_face_still.webp","stat_str":14,"type":["Fiend (demon)",""],"stat_dex":7,"stat_con":18,"stat_int":7,"stat_wis":9,"stat_cha":6,"videourl":"","biom":["any"],"cr":1,"stat_hp":20,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"sm"},"name":"008 Aspect of Gluttony"},"016_wolf_4":{"description":"","properties":{"stat_ac":13,"thumbnail":"016_wolf_4-idle_face_still.webp","stat_str":15,"type":[{"value":"beast","swarm":"","custom":"","subtype":""},""],"stat_dex":14,"stat_con":16,"stat_int":6,"stat_wis":16,"stat_cha":6,"videourl":"","biom":["any"],"cr":2,"stat_hp":28,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"016 Lone Wolf"},"039_elder_curseroot":{"description":"","properties":{"thumbnail":"039_elder_curseroot-idle_face_still.webp","stat_str":22,"type":[{"value":"plant","swarm":"","custom":"","subtype":""},""],"stat_dex":9,"stat_con":20,"stat_int":6,"stat_wis":13,"stat_cha":3,"videourl":"","biom":["any"],"cr":7,"stat_hp":150,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"huge"},"name":"039 Elder Curseroot"},"023_orc_warchief":{"description":"","properties":{"thumbnail":"023_orc_warchief-idle_face_still.webp","stat_str":19,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":"Orc"},""],"stat_dex":1,"stat_con":8,"stat_int":12,"stat_wis":14,"stat_cha":16,"videourl":"","biom":["any"],"cr":7,"stat_hp":79,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"023 Orc Warchief"},"024_kentauros":{"description":"","properties":{"thumbnail":"024_kentauros-idle_face_still.webp","stat_str":15,"type":[{"value":"monstrosity","swarm":"","custom":"","subtype":""},""],"stat_dex":16,"stat_con":16,"stat_int":10,"stat_wis":14,"stat_cha":8,"videourl":"","biom":["any"],"cr":4,"stat_hp":38,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"lg"},"name":"024 Kentauros"},"020_grimgheist":{"description":"","properties":{"thumbnail":"020_grimgheist-idle_face_still.webp","stat_str":14,"type":[{"value":"","swarm":"","custom":"","subtype":""},""],"stat_dex":16,"stat_con":14,"stat_int":13,"stat_wis":12,"stat_cha":16,"videourl":"","biom":["any"],"cr":6,"stat_hp":58,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"020 Grimgheist"},"010_horse_1":{"description":"","properties":{"stat_ac":16,"thumbnail":"010_horse_1-idle_face_still.webp","stat_str":16,"type":[{"value":"beast","swarm":"","custom":"","subtype":""},""],"stat_dex":14,"stat_con":14,"stat_int":3,"stat_wis":10,"stat_cha":10,"videourl":"","biom":["any"],"cr":1,"stat_hp":33,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"lg"},"name":"010 Warhorse 3"},"029_infernal_steed_2":{"description":"","properties":{"thumbnail":"029_infernal_steed_2-idle_face_still.webp","stat_str":18,"type":[{"value":"fiend","swarm":"","custom":"","subtype":""},""],"stat_dex":16,"stat_con":16,"stat_int":10,"stat_wis":13,"stat_cha":14,"videourl":"","biom":["any"],"cr":4,"stat_hp":94,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"lg"},"name":"029 Infernal Steed 2"},"032_night_hag_1":{"description":"","properties":{"thumbnail":"032_night_hag_1-idle_face_still.webp","stat_str":18,"type":[{"value":"fiend","swarm":"","custom":"","subtype":""},""],"stat_dex":15,"stat_con":16,"stat_int":16,"stat_wis":14,"stat_cha":16,"videourl":"","biom":["any"],"cr":6,"stat_hp":112,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"032 Night Hag 1"},"029_infernal_steed_3":{"description":"","properties":{"thumbnail":"029_infernal_steed_3-idle_face_still.webp","stat_str":18,"type":[{"value":"fiend","swarm":"","custom":"","subtype":""},""],"stat_dex":16,"stat_con":16,"stat_int":10,"stat_wis":13,"stat_cha":14,"videourl":"","biom":["any"],"cr":4,"stat_hp":94,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"lg"},"name":"029 Infernal Steed 3"},"030_commoner_11_f_priest":{"description":"","properties":{"thumbnail":"030_commoner_11_f_priest-idle_face_still.webp","stat_str":12,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":"any"},""],"stat_dex":10,"stat_con":11,"stat_int":9,"stat_wis":11,"stat_cha":10,"videourl":"","biom":["any"],"cr":0.25,"stat_hp":14,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"030 Commoner 11 Female Priest"},"030_commoner_10_m_noble":{"description":"","properties":{"thumbnail":"030_commoner_10_m_noble-idle_face_still.webp","stat_str":12,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":"any"},""],"stat_dex":10,"stat_con":11,"stat_int":9,"stat_wis":11,"stat_cha":10,"videourl":"","biom":["any"],"cr":0.25,"stat_hp":14,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"030 Commoner 10 Male Noble 2"},"026_vampire_spawn_1":{"description":"","properties":{"thumbnail":"026_vampire_spawn_1-idle_face_still.webp","stat_str":16,"type":[{"value":"undead","swarm":"","custom":"","subtype":""},""],"stat_dex":16,"stat_con":16,"stat_int":13,"stat_wis":13,"stat_cha":16,"videourl":"","biom":["any"],"cr":5,"stat_hp":86,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"026 Vampire Spawn 1"},"031_swarm_of_vampire_bats":{"description":"","properties":{"thumbnail":"031_swarm_of_vampire_bats-idle_face_still.webp","stat_str":3,"type":[{"value":"beast","swarm":"tiny","custom":"","subtype":""},""],"stat_dex":15,"stat_con":10,"stat_int":2,"stat_wis":13,"stat_cha":4,"videourl":"","biom":["any"],"cr":3,"stat_hp":72,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"lg"},"name":"031 Swarm of Vampire Bats"},"003_female_knight_1":{"description":"","properties":{"stat_ac":16,"thumbnail":"003_female_knight_1-idle_face_still.webp","stat_str":11,"type":["Undead","Vampire"],"stat_dex":14,"stat_con":12,"stat_int":14,"stat_wis":14,"stat_cha":18,"videourl":"","biom":["any"],"cr":5,"stat_hp":100,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"lg"},"name":"003 Inquisitorial Penitent 1"},"029_infernal_steed_4":{"description":"","properties":{"thumbnail":"029_infernal_steed_4-idle_face_still.webp","stat_str":18,"type":[{"value":"fiend","swarm":"","custom":"","subtype":""},""],"stat_dex":16,"stat_con":16,"stat_int":10,"stat_wis":13,"stat_cha":14,"videourl":"","biom":["any"],"cr":4,"stat_hp":94,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"lg"},"name":"029 Infernal Steed 4"},"030_commoner_16_f_noble_2":{"description":"","properties":{"thumbnail":"030_commoner_16_f_noble_2-idle_face_still.webp","stat_str":12,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":"any"},""],"stat_dex":10,"stat_con":11,"stat_int":9,"stat_wis":11,"stat_cha":10,"videourl":"","biom":["any"],"cr":0.25,"stat_hp":14,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"030 Commoner 16 Female Noble 2"},"030_commoner_4_m_priest_1":{"description":"","properties":{"thumbnail":"030_commoner_4_m_priest_1-idle_face_still.webp","stat_str":12,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":"any"},""],"stat_dex":10,"stat_con":11,"stat_int":9,"stat_wis":11,"stat_cha":10,"videourl":"","biom":["any"],"cr":0.25,"stat_hp":14,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"030 Commoner 4 Male Priest 1"},"030_commoner_8_m":{"description":"","properties":{"thumbnail":"030_commoner_8_m-idle_face_still.webp","stat_str":12,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":"any"},""],"stat_dex":10,"stat_con":11,"stat_int":9,"stat_wis":11,"stat_cha":10,"videourl":"","biom":["any"],"cr":0.25,"stat_hp":14,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"030 Commoner 8 Male"},"016_wolf_3":{"description":"","properties":{"stat_ac":13,"thumbnail":"016_wolf_3-idle_face_still.webp","stat_str":16,"type":[{"value":"beast","swarm":"","custom":"","subtype":""},""],"stat_dex":14,"stat_con":14,"stat_int":6,"stat_wis":13,"stat_cha":5,"videourl":"","biom":["any"],"cr":5,"stat_hp":33,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"015 Wolfkin"},"030_commoner_12_f_worker":{"description":"","properties":{"thumbnail":"030_commoner_12_f_worker-idle_face_still.webp","stat_str":12,"type":[{"value":"humanoid","swarm":"","custom":"","subtype":"any"},""],"stat_dex":10,"stat_con":11,"stat_int":9,"stat_wis":11,"stat_cha":10,"videourl":"","biom":["any"],"cr":0.25,"stat_hp":14,"fightingstyle":{},"movement":"","purpose":"","releaseurl":"","size":"med"},"name":"030 Commoner 12 Female Worker"}},"version":"0.2.0","id":"beneos_tokens_database"}
+{
+  "content": {
+    "001_vampire_beast": {
+      "description": "",
+      "name": "001 Primal Vampire Spawn",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 6,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "lg",
+        "stat_ac": 16,
+        "stat_cha": 7,
+        "stat_con": 18,
+        "stat_dex": 18,
+        "stat_hp": 100,
+        "stat_int": 7,
+        "stat_str": 18,
+        "stat_wis": 12,
+        "thumbnail": "001_vampire_beast-idle_face_still.webp",
+        "type": [
+          "Undead",
+          "Vampire"
+        ],
+        "videourl": ""
+      }
+    },
+    "002_glutony": {
+      "description": "",
+      "name": "002 Gluttony",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 20,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "huge",
+        "stat_ac": 15,
+        "stat_cha": 16,
+        "stat_con": 24,
+        "stat_dex": 6,
+        "stat_hp": 322,
+        "stat_int": 11,
+        "stat_str": 18,
+        "stat_wis": 13,
+        "thumbnail": "002_glutony-idle_face_still.webp",
+        "type": [
+          "Fiend (Demon)",
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "003_female_knight_1": {
+      "description": "",
+      "name": "003 Inquisitorial Penitent 1",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 5,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "lg",
+        "stat_ac": 16,
+        "stat_cha": 18,
+        "stat_con": 12,
+        "stat_dex": 14,
+        "stat_hp": 100,
+        "stat_int": 14,
+        "stat_str": 11,
+        "stat_wis": 14,
+        "thumbnail": "003_female_knight_1-idle_face_still.webp",
+        "type": [
+          "Undead",
+          "Vampire"
+        ],
+        "videourl": ""
+      }
+    },
+    "004_undead_centipede": {
+      "description": "",
+      "name": "004 The Curseweaver",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 16,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "huge",
+        "stat_ac": 17,
+        "stat_cha": 22,
+        "stat_con": 16,
+        "stat_dex": 12,
+        "stat_hp": 230,
+        "stat_int": 17,
+        "stat_str": 15,
+        "stat_wis": 19,
+        "thumbnail": "004_undead_centipede-idle_face_still.webp",
+        "type": [
+          "Fiend (Devil)",
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "005_assassin_1": {
+      "description": "",
+      "name": "005 Assassin 1",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 3,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_ac": 16,
+        "stat_cha": 12,
+        "stat_con": 13,
+        "stat_dex": 18,
+        "stat_hp": 45,
+        "stat_int": 14,
+        "stat_str": 13,
+        "stat_wis": 16,
+        "thumbnail": "005_assassin_1-idle_face_still.webp",
+        "type": [
+          "Any Race",
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "006_shield_guardian_1": {
+      "description": "",
+      "name": "006 Polarized Shield Guardian 1",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 8,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "lg",
+        "stat_ac": 17,
+        "stat_cha": 5,
+        "stat_con": 18,
+        "stat_dex": 8,
+        "stat_hp": 142,
+        "stat_int": 8,
+        "stat_str": 18,
+        "stat_wis": 11,
+        "thumbnail": "006_shield_guardian_1-idle_face_still.webp",
+        "type": [
+          "Construct",
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "007_umber_spinner": {
+      "description": "",
+      "name": "007 Umber Spinner",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 3,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_ac": 14,
+        "stat_cha": 5,
+        "stat_con": 15,
+        "stat_dex": 14,
+        "stat_hp": 45,
+        "stat_int": 6,
+        "stat_str": 11,
+        "stat_wis": 10,
+        "thumbnail": "007_umber_spinner-idle_face_still.webp",
+        "type": [
+          "Chaotic Evil",
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "008_aspect_of_gluttony": {
+      "description": "",
+      "name": "008 Aspect of Gluttony",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 1,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "sm",
+        "stat_ac": 9,
+        "stat_cha": 6,
+        "stat_con": 18,
+        "stat_dex": 7,
+        "stat_hp": 20,
+        "stat_int": 7,
+        "stat_str": 14,
+        "stat_wis": 9,
+        "thumbnail": "008_aspect_of_gluttony-idle_face_still.webp",
+        "type": [
+          "Fiend (demon)",
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "009_skeleton_henchman_1": {
+      "description": "",
+      "name": "009 Skeleton Henchman 1",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 2,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_ac": 14,
+        "stat_cha": 6,
+        "stat_con": 16,
+        "stat_dex": 10,
+        "stat_hp": 25,
+        "stat_int": 5,
+        "stat_str": 14,
+        "stat_wis": 10,
+        "thumbnail": "009_skeleton_henchman_1-idle_face_still.webp",
+        "type": [
+          "Undead",
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "010_horse_1": {
+      "description": "",
+      "name": "010 Warhorse 3",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 1,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "lg",
+        "stat_ac": 16,
+        "stat_cha": 10,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 33,
+        "stat_int": 3,
+        "stat_str": 16,
+        "stat_wis": 10,
+        "thumbnail": "010_horse_1-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "beast"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "011_trained_fighter": {
+      "description": "",
+      "name": "011 Trained Fighter",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 2,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_ac": 15,
+        "stat_cha": 10,
+        "stat_con": 16,
+        "stat_dex": 15,
+        "stat_hp": 33,
+        "stat_int": 14,
+        "stat_str": 17,
+        "stat_wis": 13,
+        "thumbnail": "011_trained_fighter-idle_face_still.webp",
+        "type": [
+          "",
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "012_cipactli": {
+      "description": "",
+      "name": "012 Cipactli",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 4,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "lg",
+        "stat_ac": 40,
+        "stat_cha": 7,
+        "stat_con": 16,
+        "stat_dex": 9,
+        "stat_hp": 40,
+        "stat_int": 7,
+        "stat_str": 18,
+        "stat_wis": 13,
+        "thumbnail": "012_cipactli-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "monstrosity"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "013_harpyia": {
+      "description": "",
+      "name": "013 Harpyia",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 3,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_ac": 12,
+        "stat_cha": 8,
+        "stat_con": 12,
+        "stat_dex": 18,
+        "stat_hp": 32,
+        "stat_int": 14,
+        "stat_str": 10,
+        "stat_wis": 16,
+        "thumbnail": "013_harpyia-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "monstrosity"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "014_dragon": {
+      "description": "",
+      "name": "014 Dragon",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 19,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "grg",
+        "stat_ac": 20,
+        "stat_cha": 25,
+        "stat_con": 24,
+        "stat_dex": 15,
+        "stat_hp": 320,
+        "stat_int": 18,
+        "stat_str": 27,
+        "stat_wis": 18,
+        "thumbnail": "014_dragon-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "dragon"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "015_werewolf_1": {
+      "description": "",
+      "name": "015_werewolf_1",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 5,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_ac": 14,
+        "stat_cha": 11,
+        "stat_con": 15,
+        "stat_dex": 16,
+        "stat_hp": 53,
+        "stat_int": 10,
+        "stat_str": 17,
+        "stat_wis": 12,
+        "thumbnail": "015_werewolf_1-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "016_wolf_1": {
+      "description": "",
+      "name": "016 Wolf 1",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 1,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_ac": 10,
+        "stat_cha": 6,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 19,
+        "stat_int": 5,
+        "stat_str": 14,
+        "stat_wis": 12,
+        "thumbnail": "016_wolf_1-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "beast"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "016_wolf_2": {
+      "description": "",
+      "name": "016 Wolf 2",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 1,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_ac": 10,
+        "stat_cha": 6,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 19,
+        "stat_int": 5,
+        "stat_str": 14,
+        "stat_wis": 12,
+        "thumbnail": "016_wolf_2-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "beast"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "016_wolf_3": {
+      "description": "",
+      "name": "015 Wolfkin",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 5,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_ac": 13,
+        "stat_cha": 5,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 33,
+        "stat_int": 6,
+        "stat_str": 16,
+        "stat_wis": 13,
+        "thumbnail": "016_wolf_3-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "beast"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "016_wolf_4": {
+      "description": "",
+      "name": "016 Lone Wolf",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 2,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_ac": 13,
+        "stat_cha": 6,
+        "stat_con": 16,
+        "stat_dex": 14,
+        "stat_hp": 28,
+        "stat_int": 6,
+        "stat_str": 15,
+        "stat_wis": 16,
+        "thumbnail": "016_wolf_4-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "beast"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "018_giant_spider_1": {
+      "description": "",
+      "name": "018 Spider 1",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 4,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "lg",
+        "stat_ac": 14,
+        "stat_cha": 3,
+        "stat_con": 13,
+        "stat_dex": 16,
+        "stat_hp": 46,
+        "stat_int": 4,
+        "stat_str": 14,
+        "stat_wis": 10,
+        "thumbnail": "018_giant_spider_1-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "monstrosity"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "019_reef_keeper": {
+      "description": "",
+      "name": "019 Reef Keeper",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 2,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_ac": 10,
+        "stat_cha": 3,
+        "stat_con": 16,
+        "stat_dex": 5,
+        "stat_hp": 33,
+        "stat_int": 6,
+        "stat_str": 10,
+        "stat_wis": 7,
+        "thumbnail": "019_reef_keeper-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "elemental"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "020_grimgheist": {
+      "description": "",
+      "name": "020 Grimgheist",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 6,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 16,
+        "stat_con": 14,
+        "stat_dex": 16,
+        "stat_hp": 58,
+        "stat_int": 13,
+        "stat_str": 14,
+        "stat_wis": 12,
+        "thumbnail": "020_grimgheist-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": ""
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "021_ghoul_wretchling": {
+      "description": "",
+      "name": "021 Ghoul Wretchling",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 1,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "sm",
+        "stat_cha": 2,
+        "stat_con": 11,
+        "stat_dex": 14,
+        "stat_hp": 13,
+        "stat_int": 6,
+        "stat_str": 8,
+        "stat_wis": 7,
+        "thumbnail": "021_ghoul_wretchling-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "undead"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "022_orc_shaman": {
+      "description": "",
+      "name": "022 Orc Shaman",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 6,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 14,
+        "stat_con": 16,
+        "stat_dex": 13,
+        "stat_hp": 59,
+        "stat_int": 12,
+        "stat_str": 15,
+        "stat_wis": 18,
+        "thumbnail": "022_orc_shaman-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "Orc",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "023_orc_warchief": {
+      "description": "",
+      "name": "023 Orc Warchief",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 7,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 16,
+        "stat_con": 8,
+        "stat_dex": 1,
+        "stat_hp": 79,
+        "stat_int": 12,
+        "stat_str": 19,
+        "stat_wis": 14,
+        "thumbnail": "023_orc_warchief-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "Orc",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "024_kentauros": {
+      "description": "",
+      "name": "024 Kentauros",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 4,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "lg",
+        "stat_cha": 8,
+        "stat_con": 16,
+        "stat_dex": 16,
+        "stat_hp": 38,
+        "stat_int": 10,
+        "stat_str": 15,
+        "stat_wis": 14,
+        "thumbnail": "024_kentauros-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "monstrosity"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "025_trained_archer_1": {
+      "description": "",
+      "name": "025 Trained Archer 1",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 2,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 11,
+        "stat_con": 12,
+        "stat_dex": 16,
+        "stat_hp": 27,
+        "stat_int": 10,
+        "stat_str": 13,
+        "stat_wis": 14,
+        "thumbnail": "025_trained_archer_1-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "025_trained_archer_2": {
+      "description": "",
+      "name": "025 Trained Archer 2",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 2,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 11,
+        "stat_con": 12,
+        "stat_dex": 16,
+        "stat_hp": 27,
+        "stat_int": 10,
+        "stat_str": 13,
+        "stat_wis": 14,
+        "thumbnail": "025_trained_archer_2-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "025_trained_archer_3": {
+      "description": "",
+      "name": "025 Trained Archer 3",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 2,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 11,
+        "stat_con": 12,
+        "stat_dex": 16,
+        "stat_hp": 27,
+        "stat_int": 10,
+        "stat_str": 13,
+        "stat_wis": 14,
+        "thumbnail": "025_trained_archer_3-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "026_vampire_spawn_1": {
+      "description": "",
+      "name": "026 Vampire Spawn 1",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 5,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 16,
+        "stat_con": 16,
+        "stat_dex": 16,
+        "stat_hp": 86,
+        "stat_int": 13,
+        "stat_str": 16,
+        "stat_wis": 13,
+        "thumbnail": "026_vampire_spawn_1-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "undead"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "026_vampire_spawn_2": {
+      "description": "",
+      "name": "026 Vampire Spawn 2",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 5,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 16,
+        "stat_con": 16,
+        "stat_dex": 16,
+        "stat_hp": 86,
+        "stat_int": 13,
+        "stat_str": 16,
+        "stat_wis": 13,
+        "thumbnail": "026_vampire_spawn_2-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "undead"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "026_vampire_spawn_3": {
+      "description": "",
+      "name": "026 Vampire Spawn 3",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 5,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 16,
+        "stat_con": 16,
+        "stat_dex": 16,
+        "stat_hp": 86,
+        "stat_int": 13,
+        "stat_str": 16,
+        "stat_wis": 13,
+        "thumbnail": "026_vampire_spawn_3-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "undead"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "026_vampire_spawn_4": {
+      "description": "",
+      "name": "026 Vampire Spawn 4",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 5,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 16,
+        "stat_con": 16,
+        "stat_dex": 16,
+        "stat_hp": 86,
+        "stat_int": 13,
+        "stat_str": 16,
+        "stat_wis": 13,
+        "thumbnail": "026_vampire_spawn_4-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "undead"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "027_revenant_knight_1": {
+      "description": "",
+      "name": "027 Revenant Knight 1",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 5,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 18,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 116,
+        "stat_int": 13,
+        "stat_str": 18,
+        "stat_wis": 16,
+        "thumbnail": "027_revenant_knight_1-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "undead"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "028_unchained_armor": {
+      "description": "",
+      "name": "028 Unchained Armor",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 7,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 9,
+        "stat_con": 16,
+        "stat_dex": 13,
+        "stat_hp": 92,
+        "stat_int": 9,
+        "stat_str": 18,
+        "stat_wis": 10,
+        "thumbnail": "028_unchained_armor-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": ""
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "029_infernal_steed_1": {
+      "description": "",
+      "name": "029 Infernal Steed 1",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 4,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "lg",
+        "stat_cha": 14,
+        "stat_con": 16,
+        "stat_dex": 16,
+        "stat_hp": 94,
+        "stat_int": 10,
+        "stat_str": 18,
+        "stat_wis": 13,
+        "thumbnail": "029_infernal_steed_1-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "fiend"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "029_infernal_steed_2": {
+      "description": "",
+      "name": "029 Infernal Steed 2",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 4,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "lg",
+        "stat_cha": 14,
+        "stat_con": 16,
+        "stat_dex": 16,
+        "stat_hp": 94,
+        "stat_int": 10,
+        "stat_str": 18,
+        "stat_wis": 13,
+        "thumbnail": "029_infernal_steed_2-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "fiend"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "029_infernal_steed_3": {
+      "description": "",
+      "name": "029 Infernal Steed 3",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 4,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "lg",
+        "stat_cha": 14,
+        "stat_con": 16,
+        "stat_dex": 16,
+        "stat_hp": 94,
+        "stat_int": 10,
+        "stat_str": 18,
+        "stat_wis": 13,
+        "thumbnail": "029_infernal_steed_3-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "fiend"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "029_infernal_steed_4": {
+      "description": "",
+      "name": "029 Infernal Steed 4",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 4,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "lg",
+        "stat_cha": 14,
+        "stat_con": 16,
+        "stat_dex": 16,
+        "stat_hp": 94,
+        "stat_int": 10,
+        "stat_str": 18,
+        "stat_wis": 13,
+        "thumbnail": "029_infernal_steed_4-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "fiend"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "030_commoner_1_m_worker": {
+      "description": "",
+      "name": "030 Commoner 1 Male Worker",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 0.25,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 10,
+        "stat_con": 11,
+        "stat_dex": 10,
+        "stat_hp": 14,
+        "stat_int": 9,
+        "stat_str": 12,
+        "stat_wis": 11,
+        "thumbnail": "030_commoner_1_m_worker-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "any",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "030_commoner_2_m_merchant": {
+      "description": "",
+      "name": "030 Commoner 2 Male Merchant",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 0.25,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 10,
+        "stat_con": 11,
+        "stat_dex": 10,
+        "stat_hp": 14,
+        "stat_int": 9,
+        "stat_str": 12,
+        "stat_wis": 11,
+        "thumbnail": "030_commoner_2_m_merchant-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "any",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "030_commoner_3_m_beggar": {
+      "description": "",
+      "name": "030 Commoner 3 Male Beggar",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 0.25,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 10,
+        "stat_con": 11,
+        "stat_dex": 10,
+        "stat_hp": 14,
+        "stat_int": 9,
+        "stat_str": 12,
+        "stat_wis": 11,
+        "thumbnail": "030_commoner_3_m_beggar-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "any",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "030_commoner_4_m_priest_1": {
+      "description": "",
+      "name": "030 Commoner 4 Male Priest 1",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 0.25,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 10,
+        "stat_con": 11,
+        "stat_dex": 10,
+        "stat_hp": 14,
+        "stat_int": 9,
+        "stat_str": 12,
+        "stat_wis": 11,
+        "thumbnail": "030_commoner_4_m_priest_1-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "any",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "030_commoner_6_m_peasant_1": {
+      "description": "",
+      "name": "030 Commoner 6 Male Peasant 1",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 0.25,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 10,
+        "stat_con": 11,
+        "stat_dex": 10,
+        "stat_hp": 14,
+        "stat_int": 9,
+        "stat_str": 12,
+        "stat_wis": 11,
+        "thumbnail": "030_commoner_6_m_peasant_1-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "any",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "030_commoner_7_m_peasant_2": {
+      "description": "",
+      "name": "030 Commoner 7 Male Peasant 2",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 0.25,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 10,
+        "stat_con": 11,
+        "stat_dex": 10,
+        "stat_hp": 14,
+        "stat_int": 9,
+        "stat_str": 12,
+        "stat_wis": 11,
+        "thumbnail": "030_commoner_7_m_peasant_2-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "any",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "030_commoner_8_m": {
+      "description": "",
+      "name": "030 Commoner 8 Male",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 0.25,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 10,
+        "stat_con": 11,
+        "stat_dex": 10,
+        "stat_hp": 14,
+        "stat_int": 9,
+        "stat_str": 12,
+        "stat_wis": 11,
+        "thumbnail": "030_commoner_8_m-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "any",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "030_commoner_9_m_noble": {
+      "description": "",
+      "name": "030 Commoner 9 Male Noble 1",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 0.25,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 10,
+        "stat_con": 11,
+        "stat_dex": 10,
+        "stat_hp": 14,
+        "stat_int": 9,
+        "stat_str": 12,
+        "stat_wis": 11,
+        "thumbnail": "030_commoner_9_m_noble-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "any",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "030_commoner_10_m_noble": {
+      "description": "",
+      "name": "030 Commoner 10 Male Noble 2",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 0.25,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 10,
+        "stat_con": 11,
+        "stat_dex": 10,
+        "stat_hp": 14,
+        "stat_int": 9,
+        "stat_str": 12,
+        "stat_wis": 11,
+        "thumbnail": "030_commoner_10_m_noble-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "any",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "030_commoner_11_f_priest": {
+      "description": "",
+      "name": "030 Commoner 11 Female Priest",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 0.25,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 10,
+        "stat_con": 11,
+        "stat_dex": 10,
+        "stat_hp": 14,
+        "stat_int": 9,
+        "stat_str": 12,
+        "stat_wis": 11,
+        "thumbnail": "030_commoner_11_f_priest-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "any",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "030_commoner_12_f_worker": {
+      "description": "",
+      "name": "030 Commoner 12 Female Worker",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 0.25,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 10,
+        "stat_con": 11,
+        "stat_dex": 10,
+        "stat_hp": 14,
+        "stat_int": 9,
+        "stat_str": 12,
+        "stat_wis": 11,
+        "thumbnail": "030_commoner_12_f_worker-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "any",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "030_commoner_13_f_herbalist": {
+      "description": "",
+      "name": "030 Commoner 13 Female Herbalist",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 0.25,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 10,
+        "stat_con": 11,
+        "stat_dex": 10,
+        "stat_hp": 14,
+        "stat_int": 9,
+        "stat_str": 12,
+        "stat_wis": 11,
+        "thumbnail": "030_commoner_13_f_herbalist-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "any",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "030_commoner_14_f_old": {
+      "description": "",
+      "name": "030 Commoner 14 Female Old",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 0.25,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 10,
+        "stat_con": 11,
+        "stat_dex": 10,
+        "stat_hp": 14,
+        "stat_int": 9,
+        "stat_str": 12,
+        "stat_wis": 11,
+        "thumbnail": "030_commoner_14_f_old-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "any",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "030_commoner_15_f_noble": {
+      "description": "",
+      "name": "030 Commoner 15 Female Noble 1",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 0.25,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 10,
+        "stat_con": 11,
+        "stat_dex": 10,
+        "stat_hp": 14,
+        "stat_int": 9,
+        "stat_str": 12,
+        "stat_wis": 11,
+        "thumbnail": "030_commoner_15_f_noble-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "any",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "030_commoner_16_f_noble_2": {
+      "description": "",
+      "name": "030 Commoner 16 Female Noble 2",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 0.25,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 10,
+        "stat_con": 11,
+        "stat_dex": 10,
+        "stat_hp": 14,
+        "stat_int": 9,
+        "stat_str": 12,
+        "stat_wis": 11,
+        "thumbnail": "030_commoner_16_f_noble_2-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "any",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "030_commoner_17_f_maid": {
+      "description": "",
+      "name": "030 Commoner 17 Female Maid",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 0.25,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 10,
+        "stat_con": 11,
+        "stat_dex": 10,
+        "stat_hp": 14,
+        "stat_int": 9,
+        "stat_str": 12,
+        "stat_wis": 11,
+        "thumbnail": "030_commoner_17_f_maid-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "any",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "030_commoner_18_f_mother": {
+      "description": "",
+      "name": "030 Commoner 18 Female Mother",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 0.25,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 10,
+        "stat_con": 11,
+        "stat_dex": 10,
+        "stat_hp": 14,
+        "stat_int": 9,
+        "stat_str": 12,
+        "stat_wis": 11,
+        "thumbnail": "030_commoner_18_f_mother-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "any",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "030_commoner_19_f": {
+      "description": "",
+      "name": "030 Commoner 19 Female",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 0.25,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 10,
+        "stat_con": 11,
+        "stat_dex": 10,
+        "stat_hp": 14,
+        "stat_int": 9,
+        "stat_str": 12,
+        "stat_wis": 11,
+        "thumbnail": "030_commoner_19_f-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "any",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "030_commoner_20_f_peasant": {
+      "description": "",
+      "name": "030 Commoner 20 Female Peasant",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 0.25,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 10,
+        "stat_con": 11,
+        "stat_dex": 10,
+        "stat_hp": 14,
+        "stat_int": 9,
+        "stat_str": 12,
+        "stat_wis": 11,
+        "thumbnail": "030_commoner_20_f_peasant-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "any",
+            "swarm": "",
+            "value": "humanoid"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "031_swarm_of_vampire_bats": {
+      "description": "",
+      "name": "031 Swarm of Vampire Bats",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 3,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "lg",
+        "stat_cha": 4,
+        "stat_con": 10,
+        "stat_dex": 15,
+        "stat_hp": 72,
+        "stat_int": 2,
+        "stat_str": 3,
+        "stat_wis": 13,
+        "thumbnail": "031_swarm_of_vampire_bats-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "tiny",
+            "value": "beast"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "032_night_hag_1": {
+      "description": "",
+      "name": "032 Night Hag 1",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 6,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 16,
+        "stat_con": 16,
+        "stat_dex": 15,
+        "stat_hp": 112,
+        "stat_int": 16,
+        "stat_str": 18,
+        "stat_wis": 14,
+        "thumbnail": "032_night_hag_1-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "fiend"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "032_night_hag_2": {
+      "description": "",
+      "name": "032 Night Hag 2",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 6,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 16,
+        "stat_con": 16,
+        "stat_dex": 15,
+        "stat_hp": 112,
+        "stat_int": 16,
+        "stat_str": 18,
+        "stat_wis": 14,
+        "thumbnail": "032_night_hag_2-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "fiend"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "032_night_hag_3": {
+      "description": "",
+      "name": "032 Night Hag 3",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 6,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 16,
+        "stat_con": 16,
+        "stat_dex": 15,
+        "stat_hp": 112,
+        "stat_int": 16,
+        "stat_str": 18,
+        "stat_wis": 14,
+        "thumbnail": "032_night_hag_3-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "fiend"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "033_yeti": {
+      "description": "",
+      "name": "033 Yeti",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 9,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "huge",
+        "stat_cha": 6,
+        "stat_con": 24,
+        "stat_dex": 10,
+        "stat_hp": 127,
+        "stat_int": 6,
+        "stat_str": 22,
+        "stat_wis": 14,
+        "thumbnail": "033_yeti-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "giant"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "035_roc": {
+      "description": "",
+      "name": "035 Roc",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 11,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "grg",
+        "stat_cha": 9,
+        "stat_con": 20,
+        "stat_dex": 10,
+        "stat_hp": 256,
+        "stat_int": 3,
+        "stat_str": 28,
+        "stat_wis": 14,
+        "thumbnail": "035_roc-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "monstrosity"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "036_winter_empress_1": {
+      "description": "",
+      "name": "036 Black Ice Effigy 1",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 1,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 22,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 38,
+        "stat_int": 18,
+        "stat_str": 16,
+        "stat_wis": 20,
+        "thumbnail": "036_winter_empress_1-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "construct"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "036_winter_empress_2": {
+      "description": "",
+      "name": "036 Black Ice Effigy 2",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 1,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_cha": 22,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 38,
+        "stat_int": 18,
+        "stat_str": 16,
+        "stat_wis": 20,
+        "thumbnail": "036_winter_empress_2-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "construct"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "037_royal_griffon": {
+      "description": "",
+      "name": "037 Royal Griffon",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 3,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "lg",
+        "stat_cha": 8,
+        "stat_con": 16,
+        "stat_dex": 14,
+        "stat_hp": 64,
+        "stat_int": 4,
+        "stat_str": 18,
+        "stat_wis": 13,
+        "thumbnail": "037_royal_griffon-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "monstrosity"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "038_arcane_incursor": {
+      "description": "",
+      "name": "038 Arcane Incursor",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 5,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "lg",
+        "stat_cha": 16,
+        "stat_con": 13,
+        "stat_dex": 16,
+        "stat_hp": 57,
+        "stat_int": 14,
+        "stat_str": 14,
+        "stat_wis": 13,
+        "thumbnail": "038_arcane_incursor-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "aberration"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "039_elder_curseroot": {
+      "description": "",
+      "name": "039 Elder Curseroot",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 7,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "huge",
+        "stat_cha": 3,
+        "stat_con": 20,
+        "stat_dex": 9,
+        "stat_hp": 150,
+        "stat_int": 6,
+        "stat_str": 22,
+        "stat_wis": 13,
+        "thumbnail": "039_elder_curseroot-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "plant"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "040_ossian_debt_collector": {
+      "description": "",
+      "name": "040 Ossian Debt Collector",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 7,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_ac": 10,
+        "stat_cha": 18,
+        "stat_con": 17,
+        "stat_dex": 13,
+        "stat_hp": 84,
+        "stat_int": 14,
+        "stat_str": 19,
+        "stat_wis": 15,
+        "thumbnail": "040_ossian_debt_collector-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "undead"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "041_elephant": {
+      "description": "",
+      "name": "041 Elephant",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 5,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "huge",
+        "stat_ac": 10,
+        "stat_cha": 6,
+        "stat_con": 17,
+        "stat_dex": 9,
+        "stat_hp": 76,
+        "stat_int": 5,
+        "stat_str": 22,
+        "stat_wis": 11,
+        "thumbnail": "041_elephant-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "beast"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "042_mournbride": {
+      "description": "",
+      "name": "042 Mournbride",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 4,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_ac": 10,
+        "stat_cha": 16,
+        "stat_con": 13,
+        "stat_dex": 14,
+        "stat_hp": 56,
+        "stat_int": 13,
+        "stat_str": 8,
+        "stat_wis": 8,
+        "thumbnail": "042_mournbride-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "undead"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "043_mind_golem": {
+      "description": "",
+      "name": "043 Mind Golem",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 16,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "lg",
+        "stat_ac": 10,
+        "stat_cha": 11,
+        "stat_con": 20,
+        "stat_dex": 10,
+        "stat_hp": 130,
+        "stat_int": 22,
+        "stat_str": 19,
+        "stat_wis": 14,
+        "thumbnail": "043_mind_golem-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "construct"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "044_amygdalyan": {
+      "description": "",
+      "name": "044 Amygdalyan",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 7,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_ac": 10,
+        "stat_cha": 19,
+        "stat_con": 12,
+        "stat_dex": 16,
+        "stat_hp": 88,
+        "stat_int": 16,
+        "stat_str": 11,
+        "stat_wis": 14,
+        "thumbnail": "044_amygdalyan-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "aberration"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "045_shattermaw": {
+      "description": "",
+      "name": "045 Shattermaw",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 9,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "huge",
+        "stat_ac": 10,
+        "stat_cha": 6,
+        "stat_con": 22,
+        "stat_dex": 7,
+        "stat_hp": 172,
+        "stat_int": 4,
+        "stat_str": 22,
+        "stat_wis": 12,
+        "thumbnail": "045_shattermaw-idle_face_still.webp",
+        "type": [
+          "",
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "046_garghoul": {
+      "description": "",
+      "name": "046 Garghoul",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 3,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_ac": 10,
+        "stat_cha": 6,
+        "stat_con": 10,
+        "stat_dex": 16,
+        "stat_hp": 42,
+        "stat_int": 7,
+        "stat_str": 14,
+        "stat_wis": 12,
+        "thumbnail": "046_garghoul-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "undead"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "047_swifttalon_raptor": {
+      "description": "",
+      "name": "047 Swifttalon raptor",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 2,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "med",
+        "stat_ac": 10,
+        "stat_cha": 6,
+        "stat_con": 10,
+        "stat_dex": 16,
+        "stat_hp": 22,
+        "stat_int": 7,
+        "stat_str": 11,
+        "stat_wis": 12,
+        "thumbnail": "047_swifttalon_raptor-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "Dinosaur",
+            "swarm": "",
+            "value": "beast"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    },
+    "048_stormwyvern": {
+      "description": "",
+      "name": "048 stormwyvern",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": 7,
+        "fightingstyle": {},
+        "movement": "",
+        "purpose": "",
+        "releaseurl": "",
+        "size": "lg",
+        "stat_ac": 10,
+        "stat_cha": 7,
+        "stat_con": 17,
+        "stat_dex": 10,
+        "stat_hp": 130,
+        "stat_int": 8,
+        "stat_str": 19,
+        "stat_wis": 14,
+        "thumbnail": "048_stormwyvern-idle_face_still.webp",
+        "type": [
+          {
+            "custom": "",
+            "subtype": "",
+            "swarm": "",
+            "value": "dragon"
+          },
+          ""
+        ],
+        "videourl": ""
+      }
+    }
+  },
+  "id": "beneos_tokens_database",
+  "type": "token",
+  "version": "0.2.0"
+}
