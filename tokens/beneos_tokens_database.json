@@ -7,8 +7,10 @@
         "biom": [
           "any"
         ],
-        "cr": 6,
-        "fightingstyle": {},
+        "cr": "6",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -36,8 +38,10 @@
         "biom": [
           "any"
         ],
-        "cr": 20,
-        "fightingstyle": {},
+        "cr": "20",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -65,8 +69,10 @@
         "biom": [
           "any"
         ],
-        "cr": 5,
-        "fightingstyle": {},
+        "cr": "5",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -94,8 +100,10 @@
         "biom": [
           "any"
         ],
-        "cr": 16,
-        "fightingstyle": {},
+        "cr": "16",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -123,8 +131,10 @@
         "biom": [
           "any"
         ],
-        "cr": 3,
-        "fightingstyle": {},
+        "cr": "3",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -152,8 +162,10 @@
         "biom": [
           "any"
         ],
-        "cr": 8,
-        "fightingstyle": {},
+        "cr": "8",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -181,8 +193,10 @@
         "biom": [
           "any"
         ],
-        "cr": 3,
-        "fightingstyle": {},
+        "cr": "3",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -210,8 +224,10 @@
         "biom": [
           "any"
         ],
-        "cr": 1,
-        "fightingstyle": {},
+        "cr": "1",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -239,8 +255,10 @@
         "biom": [
           "any"
         ],
-        "cr": 2,
-        "fightingstyle": {},
+        "cr": "2",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -268,8 +286,10 @@
         "biom": [
           "any"
         ],
-        "cr": 1,
-        "fightingstyle": {},
+        "cr": "1",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -302,8 +322,10 @@
         "biom": [
           "any"
         ],
-        "cr": 2,
-        "fightingstyle": {},
+        "cr": "2",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -331,8 +353,10 @@
         "biom": [
           "any"
         ],
-        "cr": 4,
-        "fightingstyle": {},
+        "cr": "4",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -365,8 +389,10 @@
         "biom": [
           "any"
         ],
-        "cr": 3,
-        "fightingstyle": {},
+        "cr": "3",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -399,8 +425,10 @@
         "biom": [
           "any"
         ],
-        "cr": 19,
-        "fightingstyle": {},
+        "cr": "19",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -433,8 +461,10 @@
         "biom": [
           "any"
         ],
-        "cr": 5,
-        "fightingstyle": {},
+        "cr": "5",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -467,8 +497,10 @@
         "biom": [
           "any"
         ],
-        "cr": 1,
-        "fightingstyle": {},
+        "cr": "1",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -501,8 +533,10 @@
         "biom": [
           "any"
         ],
-        "cr": 1,
-        "fightingstyle": {},
+        "cr": "1",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -535,8 +569,10 @@
         "biom": [
           "any"
         ],
-        "cr": 5,
-        "fightingstyle": {},
+        "cr": "5",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -569,8 +605,10 @@
         "biom": [
           "any"
         ],
-        "cr": 2,
-        "fightingstyle": {},
+        "cr": "2",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -603,8 +641,10 @@
         "biom": [
           "any"
         ],
-        "cr": 4,
-        "fightingstyle": {},
+        "cr": "4",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -637,8 +677,10 @@
         "biom": [
           "any"
         ],
-        "cr": 2,
-        "fightingstyle": {},
+        "cr": "2",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -671,8 +713,10 @@
         "biom": [
           "any"
         ],
-        "cr": 6,
-        "fightingstyle": {},
+        "cr": "6",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -704,8 +748,10 @@
         "biom": [
           "any"
         ],
-        "cr": 1,
-        "fightingstyle": {},
+        "cr": "1",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -737,8 +783,10 @@
         "biom": [
           "any"
         ],
-        "cr": 6,
-        "fightingstyle": {},
+        "cr": "6",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -770,8 +818,10 @@
         "biom": [
           "any"
         ],
-        "cr": 7,
-        "fightingstyle": {},
+        "cr": "7",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -803,8 +853,10 @@
         "biom": [
           "any"
         ],
-        "cr": 4,
-        "fightingstyle": {},
+        "cr": "4",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -836,8 +888,10 @@
         "biom": [
           "any"
         ],
-        "cr": 2,
-        "fightingstyle": {},
+        "cr": "2",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -869,8 +923,10 @@
         "biom": [
           "any"
         ],
-        "cr": 2,
-        "fightingstyle": {},
+        "cr": "2",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -902,8 +958,10 @@
         "biom": [
           "any"
         ],
-        "cr": 2,
-        "fightingstyle": {},
+        "cr": "2",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -935,8 +993,10 @@
         "biom": [
           "any"
         ],
-        "cr": 5,
-        "fightingstyle": {},
+        "cr": "5",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -968,8 +1028,10 @@
         "biom": [
           "any"
         ],
-        "cr": 5,
-        "fightingstyle": {},
+        "cr": "5",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1001,8 +1063,10 @@
         "biom": [
           "any"
         ],
-        "cr": 5,
-        "fightingstyle": {},
+        "cr": "5",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1034,8 +1098,10 @@
         "biom": [
           "any"
         ],
-        "cr": 5,
-        "fightingstyle": {},
+        "cr": "5",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1067,8 +1133,10 @@
         "biom": [
           "any"
         ],
-        "cr": 5,
-        "fightingstyle": {},
+        "cr": "5",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1100,8 +1168,10 @@
         "biom": [
           "any"
         ],
-        "cr": 7,
-        "fightingstyle": {},
+        "cr": "7",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1133,8 +1203,10 @@
         "biom": [
           "any"
         ],
-        "cr": 4,
-        "fightingstyle": {},
+        "cr": "4",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1166,8 +1238,10 @@
         "biom": [
           "any"
         ],
-        "cr": 4,
-        "fightingstyle": {},
+        "cr": "4",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1199,8 +1273,10 @@
         "biom": [
           "any"
         ],
-        "cr": 4,
-        "fightingstyle": {},
+        "cr": "4",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1232,8 +1308,10 @@
         "biom": [
           "any"
         ],
-        "cr": 4,
-        "fightingstyle": {},
+        "cr": "4",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1265,8 +1343,10 @@
         "biom": [
           "any"
         ],
-        "cr": 0.25,
-        "fightingstyle": {},
+        "cr": "0.25",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1298,8 +1378,10 @@
         "biom": [
           "any"
         ],
-        "cr": 0.25,
-        "fightingstyle": {},
+        "cr": "0.25",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1331,8 +1413,10 @@
         "biom": [
           "any"
         ],
-        "cr": 0.25,
-        "fightingstyle": {},
+        "cr": "0.25",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1364,8 +1448,10 @@
         "biom": [
           "any"
         ],
-        "cr": 0.25,
-        "fightingstyle": {},
+        "cr": "0.25",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1397,8 +1483,10 @@
         "biom": [
           "any"
         ],
-        "cr": 0.25,
-        "fightingstyle": {},
+        "cr": "0.25",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1430,8 +1518,10 @@
         "biom": [
           "any"
         ],
-        "cr": 0.25,
-        "fightingstyle": {},
+        "cr": "0.25",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1463,8 +1553,10 @@
         "biom": [
           "any"
         ],
-        "cr": 0.25,
-        "fightingstyle": {},
+        "cr": "0.25",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1496,8 +1588,10 @@
         "biom": [
           "any"
         ],
-        "cr": 0.25,
-        "fightingstyle": {},
+        "cr": "0.25",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1529,8 +1623,10 @@
         "biom": [
           "any"
         ],
-        "cr": 0.25,
-        "fightingstyle": {},
+        "cr": "0.25",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1562,8 +1658,10 @@
         "biom": [
           "any"
         ],
-        "cr": 0.25,
-        "fightingstyle": {},
+        "cr": "0.25",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1595,8 +1693,10 @@
         "biom": [
           "any"
         ],
-        "cr": 0.25,
-        "fightingstyle": {},
+        "cr": "0.25",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1628,8 +1728,10 @@
         "biom": [
           "any"
         ],
-        "cr": 0.25,
-        "fightingstyle": {},
+        "cr": "0.25",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1661,8 +1763,10 @@
         "biom": [
           "any"
         ],
-        "cr": 0.25,
-        "fightingstyle": {},
+        "cr": "0.25",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1694,8 +1798,10 @@
         "biom": [
           "any"
         ],
-        "cr": 0.25,
-        "fightingstyle": {},
+        "cr": "0.25",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1727,8 +1833,10 @@
         "biom": [
           "any"
         ],
-        "cr": 0.25,
-        "fightingstyle": {},
+        "cr": "0.25",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1760,8 +1868,10 @@
         "biom": [
           "any"
         ],
-        "cr": 0.25,
-        "fightingstyle": {},
+        "cr": "0.25",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1793,8 +1903,10 @@
         "biom": [
           "any"
         ],
-        "cr": 0.25,
-        "fightingstyle": {},
+        "cr": "0.25",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1826,8 +1938,10 @@
         "biom": [
           "any"
         ],
-        "cr": 0.25,
-        "fightingstyle": {},
+        "cr": "0.25",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1859,8 +1973,10 @@
         "biom": [
           "any"
         ],
-        "cr": 0.25,
-        "fightingstyle": {},
+        "cr": "0.25",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1892,8 +2008,10 @@
         "biom": [
           "any"
         ],
-        "cr": 3,
-        "fightingstyle": {},
+        "cr": "3",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1925,8 +2043,10 @@
         "biom": [
           "any"
         ],
-        "cr": 6,
-        "fightingstyle": {},
+        "cr": "6",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1958,8 +2078,10 @@
         "biom": [
           "any"
         ],
-        "cr": 6,
-        "fightingstyle": {},
+        "cr": "6",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -1991,8 +2113,10 @@
         "biom": [
           "any"
         ],
-        "cr": 6,
-        "fightingstyle": {},
+        "cr": "6",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -2024,8 +2148,10 @@
         "biom": [
           "any"
         ],
-        "cr": 9,
-        "fightingstyle": {},
+        "cr": "9",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -2057,8 +2183,10 @@
         "biom": [
           "any"
         ],
-        "cr": 11,
-        "fightingstyle": {},
+        "cr": "11",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -2090,8 +2218,10 @@
         "biom": [
           "any"
         ],
-        "cr": 1,
-        "fightingstyle": {},
+        "cr": "1",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -2123,8 +2253,10 @@
         "biom": [
           "any"
         ],
-        "cr": 1,
-        "fightingstyle": {},
+        "cr": "1",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -2156,8 +2288,10 @@
         "biom": [
           "any"
         ],
-        "cr": 3,
-        "fightingstyle": {},
+        "cr": "3",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -2189,8 +2323,10 @@
         "biom": [
           "any"
         ],
-        "cr": 5,
-        "fightingstyle": {},
+        "cr": "5",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -2222,8 +2358,10 @@
         "biom": [
           "any"
         ],
-        "cr": 7,
-        "fightingstyle": {},
+        "cr": "7",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -2255,8 +2393,10 @@
         "biom": [
           "any"
         ],
-        "cr": 7,
-        "fightingstyle": {},
+        "cr": "7",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -2289,8 +2429,10 @@
         "biom": [
           "any"
         ],
-        "cr": 5,
-        "fightingstyle": {},
+        "cr": "5",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -2323,8 +2465,10 @@
         "biom": [
           "any"
         ],
-        "cr": 4,
-        "fightingstyle": {},
+        "cr": "4",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -2357,8 +2501,10 @@
         "biom": [
           "any"
         ],
-        "cr": 16,
-        "fightingstyle": {},
+        "cr": "16",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -2391,8 +2537,10 @@
         "biom": [
           "any"
         ],
-        "cr": 7,
-        "fightingstyle": {},
+        "cr": "7",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -2425,8 +2573,10 @@
         "biom": [
           "any"
         ],
-        "cr": 9,
-        "fightingstyle": {},
+        "cr": "9",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -2454,8 +2604,10 @@
         "biom": [
           "any"
         ],
-        "cr": 3,
-        "fightingstyle": {},
+        "cr": "3",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -2488,8 +2640,10 @@
         "biom": [
           "any"
         ],
-        "cr": 2,
-        "fightingstyle": {},
+        "cr": "2",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
@@ -2522,8 +2676,10 @@
         "biom": [
           "any"
         ],
-        "cr": 7,
-        "fightingstyle": {},
+        "cr": "7",
+        "fightingstyle": [
+          "any"
+        ],
         "movement": "",
         "purpose": "",
         "releaseurl": "",
