@@ -11,7 +11,7 @@
         "fightingstyle": [
           "any"
         ],
-        "movement": "",
+        "movement": "walk",
         "purpose": "",
         "releaseurl": "",
         "size": "lg",
