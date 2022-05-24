@@ -2,19 +2,19 @@
   "content": {
     "001_vampire_beast": {
       "description": "",
-      "name": "001 Primal Vampire Spawn",
+      "name": "Primal Vampire Spawn",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "6",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "walk",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "lg",
+        "releaseurl": "https://www.patreon.com/posts/special-creature-51753197",
+        "size": "Large",
         "stat_ac": 16,
         "stat_cha": 7,
         "stat_con": 18,
@@ -28,24 +28,24 @@
           "Undead",
           "Vampire"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/GLNZy5sujd0"
       }
     },
     "002_glutony": {
       "description": "",
-      "name": "002 Gluttony",
+      "name": "Gluttony",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "20",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "huge",
+        "releaseurl": "https://www.patreon.com/posts/boss-creature-51753486",
+        "size": "Huge",
         "stat_ac": 15,
         "stat_cha": 16,
         "stat_con": 24,
@@ -56,27 +56,27 @@
         "stat_wis": 13,
         "thumbnail": "002_glutony-idle_face_still.webp",
         "type": [
-          "Fiend (Demon)",
-          ""
+          "Fiend",
+          "Demon"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/wdnXJBQW0lo"
       }
     },
     "003_female_knight_1": {
       "description": "",
-      "name": "003 Inquisitorial Penitent 1",
+      "name": "Inquisitorial Penitent 1",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "5",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "lg",
+        "releaseurl": "https://www.patreon.com/posts/special-creature-51753582",
+        "size": "Large",
         "stat_ac": 16,
         "stat_cha": 18,
         "stat_con": 12,
@@ -87,27 +87,27 @@
         "stat_wis": 14,
         "thumbnail": "003_female_knight_1-idle_face_still.webp",
         "type": [
-          "Undead",
-          "Vampire"
+          "Human",
+          "Humanoid"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/PPu5pyvSP5Y"
       }
     },
-    "004_undead_centipede": {
+    "004_Undead_centipede": {
       "description": "",
-      "name": "004 The Curseweaver",
+      "name": "The Curseweaver",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "16",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "huge",
+        "releaseurl": "https://www.patreon.com/posts/boss-creature-51753670",
+        "size": "Huge",
         "stat_ac": 17,
         "stat_cha": 22,
         "stat_con": 16,
@@ -116,29 +116,29 @@
         "stat_int": 17,
         "stat_str": 15,
         "stat_wis": 19,
-        "thumbnail": "004_undead_centipede-idle_face_still.webp",
+        "thumbnail": "004_Undead_centipede-idle_face_still.webp",
         "type": [
-          "Fiend (Devil)",
-          ""
+          "Fiend",
+          "Devil"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/7qCnxpsQ2wA"
       }
     },
     "005_assassin_1": {
       "description": "",
-      "name": "005 Assassin 1",
+      "name": "Assassin 1",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "3",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-51753769",
+        "size": "Medium",
         "stat_ac": 16,
         "stat_cha": 12,
         "stat_con": 13,
@@ -149,27 +149,27 @@
         "stat_wis": 16,
         "thumbnail": "005_assassin_1-idle_face_still.webp",
         "type": [
-          "Any Race",
-          ""
+          "Humanoid",
+		  "Human"
         ],
-        "videourl": ""
+        "videourl": "https://www.youtube.com/watch?v=5VUPwtoq4ps"
       }
     },
     "006_shield_guardian_1": {
       "description": "",
-      "name": "006 Polarized Shield Guardian 1",
+      "name": "Polarized Shield Guardian Skin 1",
       "properties": {
         "biom": [
-          "any"
+          "Any", "SciFi"
         ],
         "cr": "8",
         "fightingstyle": [
-          "any"
+          "Melee", "Fistfight"
         ],
-        "movement": "",
-        "purpose": "",
-        "releaseurl": "",
-        "size": "lg",
+        "movement": "Walk",
+        "purpose": "Damage",
+        "releaseurl": "https://www.patreon.com/posts/special-creature-51753864",
+        "size": "Large",
         "stat_ac": 17,
         "stat_cha": 5,
         "stat_con": 18,
@@ -180,27 +180,56 @@
         "stat_wis": 11,
         "thumbnail": "006_shield_guardian_1-idle_face_still.webp",
         "type": [
-          "Construct",
-          ""
+          "Construct", "Robot"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/Z0jOdBi4oFA"
+      }
+    },
+    "006_shield_guardian_2": {
+      "description": "",
+      "name": "Polarized Shield Guardian Skin 2",
+      "properties": {
+        "biom": [
+          "Any", "SciFi"
+        ],
+        "cr": "8",
+        "fightingstyle": [
+          "Melee", "Fistfight"
+        ],
+        "movement": "Walk",
+        "purpose": "Damage",
+        "releaseurl": "https://www.patreon.com/posts/special-creature-51753864",
+        "size": "Large",
+        "stat_ac": 17,
+        "stat_cha": 5,
+        "stat_con": 18,
+        "stat_dex": 8,
+        "stat_hp": 142,
+        "stat_int": 8,
+        "stat_str": 18,
+        "stat_wis": 11,
+        "thumbnail": "006_shield_guardian_2-idle_face_still.webp",
+        "type": [
+          "Construct", "Robot"
+        ],
+        "videourl": "https://youtu.be/Z0jOdBi4oFA"
       }
     },
     "007_umber_spinner": {
       "description": "",
-      "name": "007 Umber Spinner",
+      "name": "Umber Spinner",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "3",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/special-creature-52102315",
+        "size": "Medium",
         "stat_ac": 14,
         "stat_cha": 5,
         "stat_con": 15,
@@ -211,27 +240,26 @@
         "stat_wis": 10,
         "thumbnail": "007_umber_spinner-idle_face_still.webp",
         "type": [
-          "Chaotic Evil",
-          ""
+          "Monstrousity"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/Ak26m-571QU"
       }
     },
     "008_aspect_of_gluttony": {
       "description": "",
-      "name": "008 Aspect of Gluttony",
+      "name": "Aspect of Gluttony",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "1",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "sm",
+        "releaseurl": "https://www.patreon.com/posts/boss-creature-51753486",
+        "size": "Small",
         "stat_ac": 9,
         "stat_cha": 6,
         "stat_con": 18,
@@ -242,27 +270,26 @@
         "stat_wis": 9,
         "thumbnail": "008_aspect_of_gluttony-idle_face_still.webp",
         "type": [
-          "Fiend (demon)",
-          ""
+          "Fiend","Demon"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/wdnXJBQW0lo"
       }
     },
     "009_skeleton_henchman_1": {
       "description": "",
-      "name": "009 Skeleton Henchman 1",
+      "name": "Skeleton Henchman Skin 1",
       "properties": {
         "biom": [
-          "any"
+          "Dungeon", "Horror", "Catacomb", "Ruin"
         ],
         "cr": "2",
         "fightingstyle": [
-          "any"
+          "Melee"
         ],
-        "movement": "",
-        "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "movement": "Walk",
+        "purpose": "Minion",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52379988",
+        "size": "Medium",
         "stat_ac": 14,
         "stat_cha": 6,
         "stat_con": 16,
@@ -273,27 +300,176 @@
         "stat_wis": 10,
         "thumbnail": "009_skeleton_henchman_1-idle_face_still.webp",
         "type": [
-          "Undead",
-          ""
+          "Undead", "Skeleton"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/3p_dN5Pk1jY"
+      }
+    },
+    "009_skeleton_henchman_2": {
+      "description": "",
+      "name": "Skeleton Henchman Skin 2",
+      "properties": {
+        "biom": [
+          "Dungeon", "Horror", "Catacomb", "Ruin"
+        ],
+        "cr": "2",
+        "fightingstyle": [
+          "Melee"
+        ],
+        "movement": "Walk",
+        "purpose": "Minion",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52379988",
+        "size": "Medium",
+        "stat_ac": 14,
+        "stat_cha": 6,
+        "stat_con": 16,
+        "stat_dex": 10,
+        "stat_hp": 25,
+        "stat_int": 5,
+        "stat_str": 14,
+        "stat_wis": 10,
+        "thumbnail": "009_skeleton_henchman_2-idle_face_still.webp",
+        "type": [
+          "Undead", "Skeleton"
+        ],
+        "videourl": "https://youtu.be/3p_dN5Pk1jY"
+      }
+    },
+    "009_skeleton_henchman_3": {
+      "description": "",
+      "name": "Skeleton Henchman Skin 3",
+      "properties": {
+        "biom": [
+          "Dungeon", "Horror", "Catacomb", "Ruin"
+        ],
+        "cr": "2",
+        "fightingstyle": [
+          "Melee"
+        ],
+        "movement": "Walk",
+        "purpose": "Minion",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52379988",
+        "size": "Medium",
+        "stat_ac": 14,
+        "stat_cha": 6,
+        "stat_con": 16,
+        "stat_dex": 10,
+        "stat_hp": 25,
+        "stat_int": 5,
+        "stat_str": 14,
+        "stat_wis": 10,
+        "thumbnail": "009_skeleton_henchman_3-idle_face_still.webp",
+        "type": [
+          "Undead", "Skeleton"
+        ],
+        "videourl": "https://youtu.be/3p_dN5Pk1jY"
+      }
+    },
+    "009_skeleton_henchman_4": {
+      "description": "",
+      "name": "Skeleton Henchman Skin 4",
+      "properties": {
+        "biom": [
+          "Dungeon", "Horror", "Catacomb", "Ruin"
+        ],
+        "cr": "2",
+        "fightingstyle": [
+          "Melee"
+        ],
+        "movement": "Walk",
+        "purpose": "Minion",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52379988",
+        "size": "Medium",
+        "stat_ac": 14,
+        "stat_cha": 6,
+        "stat_con": 16,
+        "stat_dex": 10,
+        "stat_hp": 25,
+        "stat_int": 5,
+        "stat_str": 14,
+        "stat_wis": 10,
+        "thumbnail": "009_skeleton_henchman_4-idle_face_still.webp",
+        "type": [
+          "Undead", "Skeleton"
+        ],
+        "videourl": "https://youtu.be/3p_dN5Pk1jY"
+      }
+    },
+    "009_skeleton_henchman_5": {
+      "description": "",
+      "name": "Skeleton Henchman Skin 5",
+      "properties": {
+        "biom": [
+          "Dungeon", "Horror", "Catacomb", "Ruin"
+        ],
+        "cr": "2",
+        "fightingstyle": [
+          "Melee"
+        ],
+        "movement": "Walk",
+        "purpose": "Minion",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52379988",
+        "size": "Medium",
+        "stat_ac": 14,
+        "stat_cha": 6,
+        "stat_con": 16,
+        "stat_dex": 10,
+        "stat_hp": 25,
+        "stat_int": 5,
+        "stat_str": 14,
+        "stat_wis": 10,
+        "thumbnail": "009_skeleton_henchman_5-idle_face_still.webp",
+        "type": [
+          "Undead", "Skeleton"
+        ],
+        "videourl": "https://youtu.be/3p_dN5Pk1jY"
+      }
+    },
+    "009_skeleton_henchman_6": {
+      "description": "",
+      "name": "Skeleton Henchman Skin 6",
+      "properties": {
+        "biom": [
+          "Dungeon", "Horror", "Catacomb", "Ruin"
+        ],
+        "cr": "2",
+        "fightingstyle": [
+          "Melee"
+        ],
+        "movement": "Walk",
+        "purpose": "Minion",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52379988",
+        "size": "Medium",
+        "stat_ac": 14,
+        "stat_cha": 6,
+        "stat_con": 16,
+        "stat_dex": 10,
+        "stat_hp": 25,
+        "stat_int": 5,
+        "stat_str": 14,
+        "stat_wis": 10,
+        "thumbnail": "009_skeleton_henchman_6-idle_face_still.webp",
+        "type": [
+          "Undead", "Skeleton"
+        ],
+        "videourl": "https://youtu.be/3p_dN5Pk1jY"
       }
     },
     "010_horse_1": {
       "description": "",
-      "name": "010 Warhorse 3",
+      "name": "Horse Skin 1",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "1",
         "fightingstyle": [
-          "any"
+          "Melee", "Charge"
         ],
-        "movement": "",
-        "purpose": "",
-        "releaseurl": "",
-        "size": "lg",
+        "movement": "Walk",
+        "purpose": "Mount",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
+        "size": "Large",
         "stat_ac": 16,
         "stat_cha": 10,
         "stat_con": 14,
@@ -304,32 +480,386 @@
         "stat_wis": 10,
         "thumbnail": "010_horse_1-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "beast"
-          },
-          ""
+          "Beast"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/7TGK7ozG7xw"
+      }
+    },
+    "010_horse_2": {
+      "description": "",
+      "name": "Horse Skin 2",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "1",
+        "fightingstyle": [
+          "Melee", "Charge"
+        ],
+        "movement": "Walk",
+        "purpose": "Mount",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 10,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 33,
+        "stat_int": 3,
+        "stat_str": 16,
+        "stat_wis": 10,
+        "thumbnail": "010_horse_2-idle_face_still.webp",
+        "type": [
+          "Beast"
+        ],
+        "videourl": "https://youtu.be/7TGK7ozG7xw"
+      }
+    },
+    "010_horse_3": {
+      "description": "",
+      "name": "Horse Skin 3",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "1",
+        "fightingstyle": [
+          "Melee", "Charge"
+        ],
+        "movement": "Walk",
+        "purpose": "Mount",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 10,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 33,
+        "stat_int": 3,
+        "stat_str": 16,
+        "stat_wis": 10,
+        "thumbnail": "010_horse_3-idle_face_still.webp",
+        "type": [
+          "Beast"
+        ],
+        "videourl": "https://youtu.be/7TGK7ozG7xw"
+      }
+    },
+    "010_horse_4": {
+      "description": "",
+      "name": "Horse Skin 4",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "1",
+        "fightingstyle": [
+          "Melee", "Charge"
+        ],
+        "movement": "Walk",
+        "purpose": "Mount",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 10,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 33,
+        "stat_int": 3,
+        "stat_str": 16,
+        "stat_wis": 10,
+        "thumbnail": "010_horse_4-idle_face_still.webp",
+        "type": [
+          "Beast"
+        ],
+        "videourl": "https://youtu.be/7TGK7ozG7xw"
+      }
+    },
+    "010_horse_5": {
+      "description": "",
+      "name": "Horse Skin 5",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "1",
+        "fightingstyle": [
+          "Melee", "Charge"
+        ],
+        "movement": "Walk",
+        "purpose": "Mount",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 10,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 33,
+        "stat_int": 3,
+        "stat_str": 16,
+        "stat_wis": 10,
+        "thumbnail": "010_horse_5-idle_face_still.webp",
+        "type": [
+          "Beast"
+        ],
+        "videourl": "https://youtu.be/7TGK7ozG7xw"
+      }
+    },
+    "010_horse_6": {
+      "description": "",
+      "name": "Horse Skin 6",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "1",
+        "fightingstyle": [
+          "Melee", "Charge"
+        ],
+        "movement": "Walk",
+        "purpose": "Mount",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 10,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 33,
+        "stat_int": 3,
+        "stat_str": 16,
+        "stat_wis": 10,
+        "thumbnail": "010_horse_6-idle_face_still.webp",
+        "type": [
+          "Beast"
+        ],
+        "videourl": "https://youtu.be/7TGK7ozG7xw"
+      }
+    },
+    "010_horse_7": {
+      "description": "",
+      "name": "Horse Skin 7",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "1",
+        "fightingstyle": [
+          "Melee", "Charge"
+        ],
+        "movement": "Walk",
+        "purpose": "Mount",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 10,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 33,
+        "stat_int": 3,
+        "stat_str": 16,
+        "stat_wis": 10,
+        "thumbnail": "010_horse_7-idle_face_still.webp",
+        "type": [
+          "Beast"
+        ],
+        "videourl": "https://youtu.be/7TGK7ozG7xw"
+      }
+    },
+    "010_horse_8": {
+      "description": "",
+      "name": "Horse Skin 8",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "1",
+        "fightingstyle": [
+          "Melee", "Charge"
+        ],
+        "movement": "Walk",
+        "purpose": "Mount",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 10,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 33,
+        "stat_int": 3,
+        "stat_str": 16,
+        "stat_wis": 10,
+        "thumbnail": "010_horse_8-idle_face_still.webp",
+        "type": [
+          "Beast"
+        ],
+        "videourl": "https://youtu.be/7TGK7ozG7xw"
+      }
+    },
+    "010_horse_9": {
+      "description": "",
+      "name": "Warhorse Skin 1",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "1",
+        "fightingstyle": [
+          "Melee", "Charge"
+        ],
+        "movement": "Walk",
+        "purpose": "Mount",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 10,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 33,
+        "stat_int": 3,
+        "stat_str": 16,
+        "stat_wis": 10,
+        "thumbnail": "010_horse_9-idle_face_still.webp",
+        "type": [
+          "Beast"
+        ],
+        "videourl": "https://youtu.be/7TGK7ozG7xw"
+      }
+    },
+    "010_horse_10": {
+      "description": "",
+      "name": "Warhorse Skin 2",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "1",
+        "fightingstyle": [
+          "Melee", "Charge"
+        ],
+        "movement": "Walk",
+        "purpose": "Mount",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 10,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 33,
+        "stat_int": 3,
+        "stat_str": 16,
+        "stat_wis": 10,
+        "thumbnail": "010_horse_10-idle_face_still.webp",
+        "type": [
+          "Beast"
+        ],
+        "videourl": "https://youtu.be/7TGK7ozG7xw"
+      }
+    },
+    "010_horse_11": {
+      "description": "",
+      "name": "Horse Skin 8",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "1",
+        "fightingstyle": [
+          "Melee", "Charge"
+        ],
+        "movement": "Walk",
+        "purpose": "Mount",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 10,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 33,
+        "stat_int": 3,
+        "stat_str": 16,
+        "stat_wis": 10,
+        "thumbnail": "010_horse_11-idle_face_still.webp",
+        "type": [
+          "Beast"
+        ],
+        "videourl": "https://youtu.be/7TGK7ozG7xw"
+      }
+    },
+    "010_horse_12": {
+      "description": "",
+      "name": "Warhorse Skin 3",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "1",
+        "fightingstyle": [
+          "Melee", "Charge"
+        ],
+        "movement": "Walk",
+        "purpose": "Mount",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 10,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 33,
+        "stat_int": 3,
+        "stat_str": 16,
+        "stat_wis": 10,
+        "thumbnail": "010_horse_12-idle_face_still.webp",
+        "type": [
+          "Beast"
+        ],
+        "videourl": "https://youtu.be/7TGK7ozG7xw"
+      }
+    },
+    "010_horse_13": {
+      "description": "",
+      "name": "Warhorse Skin 4",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "1",
+        "fightingstyle": [
+          "Melee", "Charge"
+        ],
+        "movement": "Walk",
+        "purpose": "Mount",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 10,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 33,
+        "stat_int": 3,
+        "stat_str": 16,
+        "stat_wis": 10,
+        "thumbnail": "010_horse_13-idle_face_still.webp",
+        "type": [
+          "Beast"
+        ],
+        "videourl": "https://youtu.be/7TGK7ozG7xw"
       }
     },
     "011_trained_fighter": {
       "description": "",
-      "name": "011 Trained Fighter",
+      "name": "Trained Fighter",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "2",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52930930",
+        "size": "Medium",
         "stat_ac": 15,
         "stat_cha": 10,
         "stat_con": 16,
@@ -340,27 +870,26 @@
         "stat_wis": 13,
         "thumbnail": "011_trained_fighter-idle_face_still.webp",
         "type": [
-          "",
-          ""
+			"Humanoid", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/Htl7NhZueY4"
       }
     },
     "012_cipactli": {
       "description": "",
-      "name": "012 Cipactli",
+      "name": "Cipactli",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "4",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "lg",
+        "releaseurl": "https://www.patreon.com/posts/special-creature-53233232",
+        "size": "Large",
         "stat_ac": 40,
         "stat_cha": 7,
         "stat_con": 16,
@@ -371,32 +900,26 @@
         "stat_wis": 13,
         "thumbnail": "012_cipactli-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "monstrosity"
-          },
-          ""
+			"Monstrosity"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/rRU2TjfxrbI"
       }
     },
     "013_harpyia": {
       "description": "",
-      "name": "013 Harpyia",
+      "name": "Harpyia",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "3",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": ["Walk", "Fly"],
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-53489969",
+        "size": "Medium",
         "stat_ac": 12,
         "stat_cha": 8,
         "stat_con": 12,
@@ -407,31 +930,25 @@
         "stat_wis": 16,
         "thumbnail": "013_harpyia-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "monstrosity"
-          },
-          ""
+			"Monstrosity"
         ],
-        "videourl": ""
+        "videourl": "https://www.youtube.com/watch?v=INKJw3Ha0tc"
       }
     },
-    "014_dragon": {
+    "014_Dragon": {
       "description": "",
-      "name": "014 Dragon",
+      "name": "Dragon",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "19",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": ["Walk", "Fly"],
         "purpose": "",
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-53778634",
         "size": "grg",
         "stat_ac": 20,
         "stat_cha": 25,
@@ -441,34 +958,28 @@
         "stat_int": 18,
         "stat_str": 27,
         "stat_wis": 18,
-        "thumbnail": "014_dragon-idle_face_still.webp",
+        "thumbnail": "014_Dragon-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "dragon"
-          },
-          ""
+			"Dragon"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/b0dlNkBpOJE"
       }
     },
     "015_werewolf_1": {
       "description": "",
-      "name": "015_werewolf_1",
+      "name": "Werewolf Skin 1",
       "properties": {
         "biom": [
-          "any"
+          "Horror", "Forest"
         ],
         "cr": "5",
         "fightingstyle": [
-          "any"
+          "Melee"
         ],
-        "movement": "",
-        "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "movement": "Walk",
+        "purpose": ["Damage","Hunt"]
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-54042065",
+        "size": "Medium",
         "stat_ac": 14,
         "stat_cha": 11,
         "stat_con": 15,
@@ -479,32 +990,86 @@
         "stat_wis": 12,
         "thumbnail": "015_werewolf_1-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+			"Humanoid", "Shapeshifter", "Monstrosity"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/rU2-Ph6Gp4Y"
+      }
+    },
+    "015_werewolf_2": {
+      "description": "",
+      "name": "Werewolf Skin 2",
+      "properties": {
+        "biom": [
+          "Horror", "Forest"
+        ],
+        "cr": "5",
+        "fightingstyle": [
+          "Melee"
+        ],
+        "movement": "Walk",
+        "purpose": ["Damage","Hunt"]
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-54042065",
+        "size": "Medium",
+        "stat_ac": 14,
+        "stat_cha": 11,
+        "stat_con": 15,
+        "stat_dex": 16,
+        "stat_hp": 53,
+        "stat_int": 10,
+        "stat_str": 17,
+        "stat_wis": 12,
+        "thumbnail": "015_werewolf_2-idle_face_still.webp",
+        "type": [
+			"Humanoid", "Shapeshifter", "Monstrosity"
+        ],
+        "videourl": "https://youtu.be/rU2-Ph6Gp4Y"
+      }
+    },
+    "015_werewolf_3": {
+      "description": "",
+      "name": "Werewolf Skin 3",
+      "properties": {
+        "biom": [
+          "Horror", "Wilderness"
+        ],
+        "cr": "5",
+        "fightingstyle": [
+          "Melee"
+        ],
+        "movement": "Walk",
+        "purpose": ["Damage","Hunt"]
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-54042065",
+        "size": "Medium",
+        "stat_ac": 14,
+        "stat_cha": 11,
+        "stat_con": 15,
+        "stat_dex": 16,
+        "stat_hp": 53,
+        "stat_int": 10,
+        "stat_str": 17,
+        "stat_wis": 12,
+        "thumbnail": "015_werewolf_3-idle_face_still.webp",
+        "type": [
+			"Humanoid", "Shapeshifter", "Monstrosity"
+        ],
+        "videourl": "https://youtu.be/rU2-Ph6Gp4Y"
       }
     },
     "016_wolf_1": {
       "description": "",
-      "name": "016 Wolf 1",
+      "name": "Wolf 1",
       "properties": {
         "biom": [
-          "any"
+          "Wilderness"
         ],
         "cr": "1",
         "fightingstyle": [
-          "any"
+          "Melee", "Pack"
         ],
-        "movement": "",
-        "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "movement": "Walk",
+        "purpose": "Minion",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-54387652",
+        "size": "Medium",
         "stat_ac": 10,
         "stat_cha": 6,
         "stat_con": 14,
@@ -515,32 +1080,26 @@
         "stat_wis": 12,
         "thumbnail": "016_wolf_1-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "beast"
-          },
-          ""
+			"Beast"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/r2QZhKXzaT4"
       }
     },
     "016_wolf_2": {
       "description": "",
-      "name": "016 Wolf 2",
+      "name": "Wolf 2",
       "properties": {
         "biom": [
-          "any"
+          "Wilderness"
         ],
         "cr": "1",
         "fightingstyle": [
-          "any"
+          "Melee", "Pack"
         ],
-        "movement": "",
-        "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "movement": "Walk",
+        "purpose": "Minion",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-54387652",
+        "size": "Medium",
         "stat_ac": 10,
         "stat_cha": 6,
         "stat_con": 14,
@@ -551,32 +1110,26 @@
         "stat_wis": 12,
         "thumbnail": "016_wolf_2-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "beast"
-          },
-          ""
+			"Beast"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/r2QZhKXzaT4"
       }
     },
     "016_wolf_3": {
       "description": "",
-      "name": "015 Wolfkin",
+      "name": "Wolfkin",
       "properties": {
         "biom": [
-          "any"
+          "Wilderness"
         ],
         "cr": "5",
         "fightingstyle": [
-          "any"
+          "Melee", "Hunt"
         ],
-        "movement": "",
-        "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "movement": "Walk",
+        "purpose": "Damage",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-54387652",
+        "size": "Medium",
         "stat_ac": 13,
         "stat_cha": 5,
         "stat_con": 14,
@@ -587,32 +1140,26 @@
         "stat_wis": 13,
         "thumbnail": "016_wolf_3-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "beast"
-          },
-          ""
+			"Beast"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/r2QZhKXzaT4"
       }
     },
     "016_wolf_4": {
       "description": "",
-      "name": "016 Lone Wolf",
+      "name": "Lone Wolf",
       "properties": {
         "biom": [
-          "any"
+          "Wilderness"
         ],
-        "cr": "2",
+        "cr": "1",
         "fightingstyle": [
-          "any"
+          "Melee", "Pack"
         ],
-        "movement": "",
-        "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "movement": "Walk",
+        "purpose": "Minion",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-54387652",
+        "size": "Medium",
         "stat_ac": 13,
         "stat_cha": 6,
         "stat_con": 16,
@@ -623,32 +1170,56 @@
         "stat_wis": 16,
         "thumbnail": "016_wolf_4-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "beast"
-          },
-          ""
+			"Beast"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/r2QZhKXzaT4"
+      }
+    },
+    "017_dwarven_king": {
+      "description": "",
+      "name": "Dwarven King",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "2",
+        "fightingstyle": [
+          "Any"
+        ],
+        "movement": "Walk",
+        "purpose": "",
+        "releaseurl": "https://www.patreon.com/posts/special-creature-54675823",
+        "size": "Medium",
+        "stat_ac": 19,
+        "stat_cha": 18,
+        "stat_con": 19,
+        "stat_dex": 8,
+        "stat_hp": 76,
+        "stat_int": 14,
+        "stat_str": 18,
+        "stat_wis": 16,
+        "thumbnail": "017_dwarven_king-idle_face_still.webp",
+        "type": [
+			"Humanoid", "Dwarf"
+        ],
+        "videourl": "https://youtu.be/rXAJfQAVKwE"
       }
     },
     "018_giant_spider_1": {
-      "description": "",
-      "name": "018 Spider 1",
+      "description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
+      "name": "Spider Skin 1",
       "properties": {
         "biom": [
-          "any"
+          "Cave", "Forest", "Underdark"
         ],
         "cr": "4",
         "fightingstyle": [
-          "any"
+          "Melee", "Venomous", "Ambusher"
         ],
-        "movement": "",
-        "purpose": "",
-        "releaseurl": "",
-        "size": "lg",
+        "movement": ["Walk", "Climb"],
+        "purpose": ["Damage","Debuff"],
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
+        "size": "Large",
         "stat_ac": 14,
         "stat_cha": 3,
         "stat_con": 13,
@@ -659,32 +1230,236 @@
         "stat_wis": 10,
         "thumbnail": "018_giant_spider_1-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "monstrosity"
-          },
-          ""
+			"Monstrosity"
         ],
-        "videourl": ""
+        "videourl": "https://www.youtube.com/watch?v=dP7ke9ldExA"
+      }
+    },
+    "018_giant_spider_2": {
+      "description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
+      "name": "Spider Skin 2",
+      "properties": {
+        "biom": [
+          "Cave", "Forest", "Underdark"
+        ],
+        "cr": "4",
+        "fightingstyle": [
+          "Melee", "Venomous", "Ambusher"
+        ],
+        "movement": ["Walk", "Climb"],
+        "purpose": ["Damage","Debuff"],
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
+        "size": "Large",
+        "stat_ac": 14,
+        "stat_cha": 3,
+        "stat_con": 13,
+        "stat_dex": 16,
+        "stat_hp": 46,
+        "stat_int": 4,
+        "stat_str": 14,
+        "stat_wis": 10,
+        "thumbnail": "018_giant_spider_2-idle_face_still.webp",
+        "type": [
+			"Monstrosity"
+        ],
+        "videourl": "https://www.youtube.com/watch?v=dP7ke9ldExA"
+      }
+    },
+    "018_giant_spider_3": {
+      "description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
+      "name": "Spider Skin 3",
+      "properties": {
+        "biom": [
+          "Cave", "Forest", "Underdark"
+        ],
+        "cr": "4",
+        "fightingstyle": [
+          "Melee", "Venomous", "Ambusher"
+        ],
+        "movement": ["Walk", "Climb"],
+        "purpose": ["Damage","Debuff"],
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
+        "size": "Large",
+        "stat_ac": 14,
+        "stat_cha": 3,
+        "stat_con": 13,
+        "stat_dex": 16,
+        "stat_hp": 46,
+        "stat_int": 4,
+        "stat_str": 14,
+        "stat_wis": 10,
+        "thumbnail": "018_giant_spider_3-idle_face_still.webp",
+        "type": [
+			"Monstrosity"
+        ],
+        "videourl": "https://www.youtube.com/watch?v=dP7ke9ldExA"
+      }
+    },
+    "018_giant_spider_4": {
+      "description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
+      "name": "Spider Skin 4",
+      "properties": {
+        "biom": [
+          "Cave", "Forest", "Underdark"
+        ],
+        "cr": "4",
+        "fightingstyle": [
+          "Melee", "Venomous", "Ambusher"
+        ],
+        "movement": ["Walk", "Climb"],
+        "purpose": ["Damage","Debuff"],
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
+        "size": "Large",
+        "stat_ac": 14,
+        "stat_cha": 3,
+        "stat_con": 13,
+        "stat_dex": 16,
+        "stat_hp": 46,
+        "stat_int": 4,
+        "stat_str": 14,
+        "stat_wis": 10,
+        "thumbnail": "018_giant_spider_4-idle_face_still.webp",
+        "type": [
+			"Monstrosity"
+        ],
+        "videourl": "https://www.youtube.com/watch?v=dP7ke9ldExA"
+      }
+    },
+    "018_giant_spider_5": {
+      "description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
+      "name": "Spider Skin 5",
+      "properties": {
+        "biom": [
+          "Cave", "Forest", "Underdark"
+        ],
+        "cr": "4",
+        "fightingstyle": [
+          "Melee", "Venomous", "Ambusher"
+        ],
+        "movement": ["Walk", "Climb"],
+        "purpose": ["Damage","Debuff"],
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
+        "size": "Large",
+        "stat_ac": 14,
+        "stat_cha": 3,
+        "stat_con": 13,
+        "stat_dex": 16,
+        "stat_hp": 46,
+        "stat_int": 4,
+        "stat_str": 14,
+        "stat_wis": 10,
+        "thumbnail": "018_giant_spider_5-idle_face_still.webp",
+        "type": [
+			"Monstrosity"
+        ],
+        "videourl": "https://www.youtube.com/watch?v=dP7ke9ldExA"
+      }
+    },
+    "018_giant_spider_6": {
+      "description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
+      "name": "Spider Skin 6",
+      "properties": {
+        "biom": [
+          "Cave", "Forest", "Underdark"
+        ],
+        "cr": "4",
+        "fightingstyle": [
+          "Melee", "Venomous", "Ambusher"
+        ],
+        "movement": ["Walk", "Climb"],
+        "purpose": ["Damage","Debuff"],
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
+        "size": "Large",
+        "stat_ac": 14,
+        "stat_cha": 3,
+        "stat_con": 13,
+        "stat_dex": 16,
+        "stat_hp": 46,
+        "stat_int": 4,
+        "stat_str": 14,
+        "stat_wis": 10,
+        "thumbnail": "018_giant_spider_6-idle_face_still.webp",
+        "type": [
+			"Monstrosity"
+        ],
+        "videourl": "https://www.youtube.com/watch?v=dP7ke9ldExA"
+      }
+    },
+    "018_giant_spider_7": {
+      "description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
+      "name": "Spider Skin 7",
+      "properties": {
+        "biom": [
+          "Cave", "Forest", "Underdark"
+        ],
+        "cr": "4",
+        "fightingstyle": [
+          "Melee", "Venomous", "Ambusher"
+        ],
+        "movement": ["Walk", "Climb"],
+        "purpose": ["Damage","Debuff"],
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
+        "size": "Large",
+        "stat_ac": 14,
+        "stat_cha": 3,
+        "stat_con": 13,
+        "stat_dex": 16,
+        "stat_hp": 46,
+        "stat_int": 4,
+        "stat_str": 14,
+        "stat_wis": 10,
+        "thumbnail": "018_giant_spider_7-idle_face_still.webp",
+        "type": [
+			"Monstrosity"
+        ],
+        "videourl": "https://www.youtube.com/watch?v=dP7ke9ldExA"
+      }
+    },
+    "018_giant_spider_8": {
+      "description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
+      "name": "Spider Skin 8",
+      "properties": {
+        "biom": [
+          "Cave", "Forest", "Underdark"
+        ],
+        "cr": "4",
+        "fightingstyle": [
+          "Melee", "Venomous", "Ambusher"
+        ],
+        "movement": ["Walk", "Climb"],
+        "purpose": ["Damage","Debuff"],
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
+        "size": "Large",
+        "stat_ac": 14,
+        "stat_cha": 3,
+        "stat_con": 13,
+        "stat_dex": 16,
+        "stat_hp": 46,
+        "stat_int": 4,
+        "stat_str": 14,
+        "stat_wis": 10,
+        "thumbnail": "018_giant_spider_8-idle_face_still.webp",
+        "type": [
+			"Monstrosity"
+        ],
+        "videourl": "https://www.youtube.com/watch?v=dP7ke9ldExA"
       }
     },
     "019_reef_keeper": {
       "description": "",
-      "name": "019 Reef Keeper",
+      "name": "Reef Keeper",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "2",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/special-creature-55213338",
+        "size": "Medium",
         "stat_ac": 10,
         "stat_cha": 3,
         "stat_con": 16,
@@ -695,32 +1470,26 @@
         "stat_wis": 7,
         "thumbnail": "019_reef_keeper-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "elemental"
-          },
-          ""
+			"Elemental", "Aquatic"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/hULy2uZe2ho"
       }
     },
     "020_grimgheist": {
       "description": "",
-      "name": "020 Grimgheist",
+      "name": "Grimgheist",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "6",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/special-creature-55495677",
+        "size": "Medium",
         "stat_cha": 16,
         "stat_con": 14,
         "stat_dex": 16,
@@ -730,32 +1499,26 @@
         "stat_wis": 12,
         "thumbnail": "020_grimgheist-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": ""
-          },
-          ""
+			"Undead", "Spirit"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/QiNEu3NUXwQ"
       }
     },
     "021_ghoul_wretchling": {
       "description": "",
-      "name": "021 Ghoul Wretchling",
+      "name": "Ghoul Wretchling",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "1",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": ["Walk", "Fly"],
         "purpose": "",
-        "releaseurl": "",
-        "size": "sm",
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-55799053",
+        "size": "Small",
         "stat_cha": 2,
         "stat_con": 11,
         "stat_dex": 14,
@@ -765,32 +1528,26 @@
         "stat_wis": 7,
         "thumbnail": "021_ghoul_wretchling-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "undead"
-          },
-          ""
+			"Undead", "Ghoul"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/2YPQ9DwUW8k"
       }
     },
     "022_orc_shaman": {
       "description": "",
-      "name": "022 Orc Shaman",
+      "name": "Orc Shaman",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "6",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/orc-shaman-56073315",
+        "size": "Medium",
         "stat_cha": 14,
         "stat_con": 16,
         "stat_dex": 13,
@@ -800,32 +1557,26 @@
         "stat_wis": 18,
         "thumbnail": "022_orc_shaman-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "Orc",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+			"Humanoid", "Orc"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/hxTwTGOCkKk"
       }
     },
     "023_orc_warchief": {
       "description": "",
-      "name": "023 Orc Warchief",
+      "name": "Orc Warchief",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "7",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/orc-warchief-and-56356150",
+        "size": "Medium",
         "stat_cha": 16,
         "stat_con": 8,
         "stat_dex": 1,
@@ -835,32 +1586,26 @@
         "stat_wis": 14,
         "thumbnail": "023_orc_warchief-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "Orc",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+			"Humanoid", "Orc"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/Xrc-zdqXjq4"
       }
     },
     "024_kentauros": {
       "description": "",
-      "name": "024 Kentauros",
+      "name": "Kentauros",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "4",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "lg",
+        "releaseurl": "https://www.patreon.com/posts/centaur-56629774",
+        "size": "Large",
         "stat_cha": 8,
         "stat_con": 16,
         "stat_dex": 16,
@@ -870,32 +1615,26 @@
         "stat_wis": 14,
         "thumbnail": "024_kentauros-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "monstrosity"
-          },
-          ""
+			"Humanoid", "Centaur"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/QYWFEbCk5Eg"
       }
     },
     "025_trained_archer_1": {
       "description": "",
-      "name": "025 Trained Archer 1",
+      "name": "Trained Archer Skin 1",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "2",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/trained-archer-56943791",
+        "size": "Medium",
         "stat_cha": 11,
         "stat_con": 12,
         "stat_dex": 16,
@@ -905,32 +1644,26 @@
         "stat_wis": 14,
         "thumbnail": "025_trained_archer_1-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+			"Humanoid", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/fE41AfAovCQ"
       }
     },
     "025_trained_archer_2": {
       "description": "",
-      "name": "025 Trained Archer 2",
+      "name": "Trained Archer Skin 2",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "2",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/trained-archer-56943791",
+        "size": "Medium",
         "stat_cha": 11,
         "stat_con": 12,
         "stat_dex": 16,
@@ -940,32 +1673,26 @@
         "stat_wis": 14,
         "thumbnail": "025_trained_archer_2-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+			"Humanoid", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/fE41AfAovCQ"
       }
     },
     "025_trained_archer_3": {
       "description": "",
-      "name": "025 Trained Archer 3",
+      "name": "Trained Archer Skin 3",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "2",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/trained-archer-56943791",
+        "size": "Medium",
         "stat_cha": 11,
         "stat_con": 12,
         "stat_dex": 16,
@@ -975,32 +1702,26 @@
         "stat_wis": 14,
         "thumbnail": "025_trained_archer_3-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+			"Humanoid", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/fE41AfAovCQ"
       }
     },
     "026_vampire_spawn_1": {
       "description": "",
-      "name": "026 Vampire Spawn 1",
+      "name": "Vampire Spawn Skin 1",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "5",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/vampire-spawn-57268303",
+        "size": "Medium",
         "stat_cha": 16,
         "stat_con": 16,
         "stat_dex": 16,
@@ -1010,32 +1731,26 @@
         "stat_wis": 13,
         "thumbnail": "026_vampire_spawn_1-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "undead"
-          },
-          ""
+			"Undead", "Vampire"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/LXhyJtSYF2s"
       }
     },
     "026_vampire_spawn_2": {
       "description": "",
-      "name": "026 Vampire Spawn 2",
+      "name": "Vampire Spawn Skin 2",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "5",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/vampire-spawn-57268303",
+        "size": "Medium",
         "stat_cha": 16,
         "stat_con": 16,
         "stat_dex": 16,
@@ -1045,32 +1760,26 @@
         "stat_wis": 13,
         "thumbnail": "026_vampire_spawn_2-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "undead"
-          },
-          ""
+			"Undead", "Vampire"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/LXhyJtSYF2s"
       }
     },
     "026_vampire_spawn_3": {
       "description": "",
-      "name": "026 Vampire Spawn 3",
+      "name": "Vampire Spawn Skin 3",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "5",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/vampire-spawn-57268303",
+        "size": "Medium",
         "stat_cha": 16,
         "stat_con": 16,
         "stat_dex": 16,
@@ -1080,32 +1789,26 @@
         "stat_wis": 13,
         "thumbnail": "026_vampire_spawn_3-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "undead"
-          },
-          ""
+			"Undead", "Vampire"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/LXhyJtSYF2s"
       }
     },
     "026_vampire_spawn_4": {
       "description": "",
-      "name": "026 Vampire Spawn 4",
+      "name": "Vampire Spawn Skin 4",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "5",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/vampire-spawn-57268303",
+        "size": "Medium",
         "stat_cha": 16,
         "stat_con": 16,
         "stat_dex": 16,
@@ -1115,32 +1818,26 @@
         "stat_wis": 13,
         "thumbnail": "026_vampire_spawn_4-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "undead"
-          },
-          ""
+			"Undead", "Vampire"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/LXhyJtSYF2s"
       }
     },
     "027_revenant_knight_1": {
       "description": "",
-      "name": "027 Revenant Knight 1",
+      "name": "Revenant Knight Skin 1",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "5",
         "fightingstyle": [
-          "any"
+          "Regeneration", "Melee"
         ],
-        "movement": "",
-        "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "movement": "Walk",
+        "purpose": ["Damage", "Tank", "Debuff"],
+        "releaseurl": "https://www.patreon.com/posts/revenant-knight-57567686",
+        "size": "Medium",
         "stat_cha": 18,
         "stat_con": 18,
         "stat_dex": 14,
@@ -1150,32 +1847,113 @@
         "stat_wis": 16,
         "thumbnail": "027_revenant_knight_1-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "undead"
-          },
-          ""
+			"Undead", "Human", "Knight"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/Ntb0R0njJSI"
+      }
+    },
+    "027_revenant_knight_2": {
+      "description": "",
+      "name": "Revenant Knight Skin 2",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "5",
+        "fightingstyle": [
+          "Regeneration", "Melee"
+        ],
+        "movement": "Walk",
+        "purpose": ["Damage", "Tank", "Debuff"],
+        "releaseurl": "https://www.patreon.com/posts/revenant-knight-57567686",
+        "size": "Medium",
+        "stat_cha": 18,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 116,
+        "stat_int": 13,
+        "stat_str": 18,
+        "stat_wis": 16,
+        "thumbnail": "027_revenant_knight_2-idle_face_still.webp",
+        "type": [
+			"Undead", "Human", "Knight"
+        ],
+        "videourl": "https://youtu.be/Ntb0R0njJSI"
+      }
+    },
+    "027_revenant_knight_3": {
+      "description": "",
+      "name": "Revenant Knight Skin 3",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "5",
+        "fightingstyle": [
+          "Regeneration", "Melee"
+        ],
+        "movement": "Walk",
+        "purpose": ["Damage", "Tank", "Debuff"],
+        "releaseurl": "https://www.patreon.com/posts/revenant-knight-57567686",
+        "size": "Medium",
+        "stat_cha": 18,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 116,
+        "stat_int": 13,
+        "stat_str": 18,
+        "stat_wis": 16,
+        "thumbnail": "027_revenant_knight_3-idle_face_still.webp",
+        "type": [
+			"Undead", "Human", "Knight"
+        ],
+        "videourl": "https://youtu.be/Ntb0R0njJSI"
+      }
+    },
+    "027_revenant_knight_4": {
+      "description": "",
+      "name": "Revenant Knight Skin 1",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "5",
+        "fightingstyle": [
+          "Regeneration", "Melee"
+        ],
+        "movement": "Walk",
+        "purpose": ["Damage", "Tank", "Debuff"],
+        "releaseurl": "https://www.patreon.com/posts/revenant-knight-57567686",
+        "size": "Medium",
+        "stat_cha": 18,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 116,
+        "stat_int": 13,
+        "stat_str": 18,
+        "stat_wis": 16,
+        "thumbnail": "027_revenant_knight_4-idle_face_still.webp",
+        "type": [
+			"Undead", "Human", "Knight"
+        ],
+        "videourl": "https://youtu.be/Ntb0R0njJSI"
       }
     },
     "028_unchained_armor": {
       "description": "",
-      "name": "028 Unchained Armor",
+      "name": "Unchained Armor",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "7",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/unchained-armor-57886127",
+        "size": "Medium",
         "stat_cha": 9,
         "stat_con": 16,
         "stat_dex": 13,
@@ -1185,32 +1963,26 @@
         "stat_wis": 10,
         "thumbnail": "028_unchained_armor-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": ""
-          },
-          ""
+			"Construct"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/3Phm1eIYhDc"
       }
     },
     "029_infernal_steed_1": {
       "description": "",
-      "name": "029 Infernal Steed 1",
+      "name": "Infernal Steed Skin 1",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "4",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "lg",
+        "releaseurl": "https://www.patreon.com/posts/infernal-steed-58171308",
+        "size": "Large",
         "stat_cha": 14,
         "stat_con": 16,
         "stat_dex": 16,
@@ -1220,32 +1992,26 @@
         "stat_wis": 13,
         "thumbnail": "029_infernal_steed_1-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "fiend"
-          },
-          ""
+			"Fiend", "Horse"
         ],
         "videourl": ""
       }
     },
     "029_infernal_steed_2": {
       "description": "",
-      "name": "029 Infernal Steed 2",
+      "name": "Infernal Steed Skin 2",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "4",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "lg",
+        "releaseurl": "https://www.patreon.com/posts/infernal-steed-58171308",
+        "size": "Large",
         "stat_cha": 14,
         "stat_con": 16,
         "stat_dex": 16,
@@ -1255,32 +2021,26 @@
         "stat_wis": 13,
         "thumbnail": "029_infernal_steed_2-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "fiend"
-          },
-          ""
+			"Fiend", "Horse"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/JMJU_U_P5BU"
       }
     },
     "029_infernal_steed_3": {
       "description": "",
-      "name": "029 Infernal Steed 3",
+      "name": "Infernal Steed Skin 3",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "4",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "lg",
+        "releaseurl": "https://www.patreon.com/posts/infernal-steed-58171308",
+        "size": "Large",
         "stat_cha": 14,
         "stat_con": 16,
         "stat_dex": 16,
@@ -1290,32 +2050,26 @@
         "stat_wis": 13,
         "thumbnail": "029_infernal_steed_3-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "fiend"
-          },
-          ""
+			"Fiend", "Horse"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/JMJU_U_P5BU"
       }
     },
     "029_infernal_steed_4": {
       "description": "",
-      "name": "029 Infernal Steed 4",
+      "name": "Infernal Steed Skin 4",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "4",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "lg",
+        "releaseurl": "https://www.patreon.com/posts/infernal-steed-58171308",
+        "size": "Large",
         "stat_cha": 14,
         "stat_con": 16,
         "stat_dex": 16,
@@ -1325,32 +2079,26 @@
         "stat_wis": 13,
         "thumbnail": "029_infernal_steed_4-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "fiend"
-          },
-          ""
+			"Fiend", "Horse"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/JMJU_U_P5BU"
       }
     },
     "030_commoner_1_m_worker": {
       "description": "",
-      "name": "030 Commoner 1 Male Worker",
+      "name": "Commoner 1 Male Worker",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
+        "size": "Medium",
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -1360,32 +2108,26 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_1_m_worker-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "any",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+			"Humanoid", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_2_m_merchant": {
       "description": "",
-      "name": "030 Commoner 2 Male Merchant",
+      "name": "Commoner 2 Male Merchant",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
+        "size": "Medium",
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -1395,32 +2137,26 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_2_m_merchant-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "any",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+			"Humanoid", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_3_m_beggar": {
       "description": "",
-      "name": "030 Commoner 3 Male Beggar",
+      "name": "Commoner 3 Male Beggar",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
+        "size": "Medium",
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -1430,32 +2166,26 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_3_m_beggar-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "any",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+			"Humanoid", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_4_m_priest_1": {
       "description": "",
-      "name": "030 Commoner 4 Male Priest 1",
+      "name": "Commoner 4 Male Priest 1",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
+        "size": "Medium",
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -1465,32 +2195,26 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_4_m_priest_1-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "any",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+			"Humanoid", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_6_m_peasant_1": {
       "description": "",
-      "name": "030 Commoner 6 Male Peasant 1",
+      "name": "Commoner 6 Male Peasant 1",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
+        "size": "Medium",
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -1500,32 +2224,26 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_6_m_peasant_1-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "any",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+			"Humanoid", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_7_m_peasant_2": {
       "description": "",
-      "name": "030 Commoner 7 Male Peasant 2",
+      "name": "Commoner 7 Male Peasant 2",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
+        "size": "Medium",
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -1535,32 +2253,26 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_7_m_peasant_2-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "any",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+			"Humanoid", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_8_m": {
       "description": "",
-      "name": "030 Commoner 8 Male",
+      "name": "Commoner 8 Male",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
+        "size": "Medium",
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -1570,32 +2282,26 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_8_m-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "any",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+  			"Humanoid", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_9_m_noble": {
       "description": "",
-      "name": "030 Commoner 9 Male Noble 1",
+      "name": "Commoner 9 Male Noble 1",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
+        "size": "Medium",
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -1605,32 +2311,26 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_9_m_noble-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "any",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+			"Humanoid", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_10_m_noble": {
       "description": "",
-      "name": "030 Commoner 10 Male Noble 2",
+      "name": "Commoner 10 Male Noble 2",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
+        "size": "Medium",
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -1640,32 +2340,26 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_10_m_noble-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "any",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+			"Humanoid", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_11_f_priest": {
       "description": "",
-      "name": "030 Commoner 11 Female Priest",
+      "name": "Commoner 11 Female Priest",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
+        "size": "Medium",
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -1675,32 +2369,26 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_11_f_priest-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "any",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+			"Humanoid", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_12_f_worker": {
       "description": "",
-      "name": "030 Commoner 12 Female Worker",
+      "name": "Commoner 12 Female Worker",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
+        "size": "Medium",
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -1710,32 +2398,26 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_12_f_worker-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "any",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+			"Humanoid", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_13_f_herbalist": {
       "description": "",
-      "name": "030 Commoner 13 Female Herbalist",
+      "name": "Commoner 13 Female Herbalist",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
+        "size": "Medium",
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -1745,32 +2427,26 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_13_f_herbalist-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "any",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+  			"Humanoid", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_14_f_old": {
       "description": "",
-      "name": "030 Commoner 14 Female Old",
+      "name": "Commoner 14 Female Old",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
+        "size": "Medium",
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -1780,32 +2456,26 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_14_f_old-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "any",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+			"Humanoid", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_15_f_noble": {
       "description": "",
-      "name": "030 Commoner 15 Female Noble 1",
+      "name": "Commoner 15 Female Noble 1",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
+        "size": "Medium",
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -1815,32 +2485,26 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_15_f_noble-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "any",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+			"Humanoid", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_16_f_noble_2": {
       "description": "",
-      "name": "030 Commoner 16 Female Noble 2",
+      "name": "Commoner 16 Female Noble 2",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
+        "size": "Medium",
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -1850,32 +2514,26 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_16_f_noble_2-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "any",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+			"Humanoid", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_17_f_maid": {
       "description": "",
-      "name": "030 Commoner 17 Female Maid",
+      "name": "Commoner 17 Female Maid",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
+        "size": "Medium",
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -1885,32 +2543,26 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_17_f_maid-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "any",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+ 			"Humanoid", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_18_f_mother": {
       "description": "",
-      "name": "030 Commoner 18 Female Mother",
+      "name": "Commoner 18 Female Mother",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
+        "size": "Medium",
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -1920,32 +2572,26 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_18_f_mother-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "any",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+ 			"Humanoid", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_19_f": {
       "description": "",
-      "name": "030 Commoner 19 Female",
+      "name": "Commoner 19 Female",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
+        "size": "Medium",
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -1955,32 +2601,26 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_19_f-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "any",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+			"Humanoid", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_20_f_peasant": {
       "description": "",
-      "name": "030 Commoner 20 Female Peasant",
+      "name": "Commoner 20 Female Peasant",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
+        "size": "Medium",
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -1990,32 +2630,26 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_20_f_peasant-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "any",
-            "swarm": "",
-            "value": "humanoid"
-          },
-          ""
+			"Humanoid", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "031_swarm_of_vampire_bats": {
       "description": "",
-      "name": "031 Swarm of Vampire Bats",
+      "name": "Swarm of Vampire Bats",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "3",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "lg",
+        "releaseurl": "https://www.patreon.com/posts/vampire-bat-58786013",
+        "size": "Large",
         "stat_cha": 4,
         "stat_con": 10,
         "stat_dex": 15,
@@ -2025,32 +2659,26 @@
         "stat_wis": 13,
         "thumbnail": "031_swarm_of_vampire_bats-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "tiny",
-            "value": "beast"
-          },
-          ""
+			"Humanoid", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/zp3E-BojPVM"
       }
     },
     "032_night_hag_1": {
       "description": "",
-      "name": "032 Night Hag 1",
+      "name": "Night Hag Skin 1",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "6",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/night-hag-58981560",
+        "size": "Medium",
         "stat_cha": 16,
         "stat_con": 16,
         "stat_dex": 15,
@@ -2060,32 +2688,26 @@
         "stat_wis": 14,
         "thumbnail": "032_night_hag_1-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "fiend"
-          },
-          ""
+			"Fey", "Hag"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/CkrpBIvW0wU"
       }
     },
     "032_night_hag_2": {
       "description": "",
-      "name": "032 Night Hag 2",
+      "name": "Night Hag Skin 2",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "6",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/night-hag-58981560",
+        "size": "Medium",
         "stat_cha": 16,
         "stat_con": 16,
         "stat_dex": 15,
@@ -2095,32 +2717,26 @@
         "stat_wis": 14,
         "thumbnail": "032_night_hag_2-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "fiend"
-          },
-          ""
+			"Fey", "Hag"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/CkrpBIvW0wU"
       }
     },
     "032_night_hag_3": {
       "description": "",
-      "name": "032 Night Hag 3",
+      "name": "Night Hag Skin 3",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "6",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/night-hag-58981560",
+        "size": "Medium",
         "stat_cha": 16,
         "stat_con": 16,
         "stat_dex": 15,
@@ -2130,32 +2746,26 @@
         "stat_wis": 14,
         "thumbnail": "032_night_hag_3-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "fiend"
-          },
-          ""
+			"Fey", "Hag"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/CkrpBIvW0wU"
       }
     },
     "033_yeti": {
       "description": "",
-      "name": "033 Yeti",
+      "name": "Yeti",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "9",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "huge",
+        "releaseurl": "https://www.patreon.com/posts/yeti-59381193",
+        "size": "Huge",
         "stat_cha": 6,
         "stat_con": 24,
         "stat_dex": 10,
@@ -2165,32 +2775,55 @@
         "stat_wis": 14,
         "thumbnail": "033_yeti-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "giant"
-          },
-          ""
+			"Giant"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/gu_GlBT6faU"
+      }
+    },
+    "034_war-troll": {
+      "description": "",
+      "name": "Roc",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "8",
+        "fightingstyle": [
+          "Charge", "Melee", "Regeneration"
+        ],
+        "movement": "Walk",
+        "purpose": "Damage",
+        "releaseurl": "https://www.patreon.com/posts/war-troll-59470079",
+        "size": "Large",
+        "stat_cha": 7,
+        "stat_con": 20,
+        "stat_dex": 13,
+        "stat_hp": 90,
+        "stat_int": 8,
+        "stat_str": 18,
+        "stat_wis": 10,
+        "thumbnail": "034_war-troll-idle_face_still.webp",
+        "type": [
+			"Fey", "Troll"
+        ],
+        "videourl": "https://youtu.be/LjZ3xvm9iK4"
       }
     },
     "035_roc": {
       "description": "",
-      "name": "035 Roc",
+      "name": "Roc",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "11",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "grg",
+        "releaseurl": "https://www.patreon.com/posts/roc-59825905",
+        "size": "Gargantuan",
         "stat_cha": 9,
         "stat_con": 20,
         "stat_dex": 10,
@@ -2200,32 +2833,26 @@
         "stat_wis": 14,
         "thumbnail": "035_roc-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "monstrosity"
-          },
-          ""
+			"Monstrosity", "Bird"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/tuZkcDQJCEc"
       }
     },
     "036_winter_empress_1": {
       "description": "",
-      "name": "036 Black Ice Effigy 1",
+      "name": "Black Ice Effigy 1",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "1",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/winter-empress-60103806",
+        "size": "Medium",
         "stat_cha": 22,
         "stat_con": 18,
         "stat_dex": 14,
@@ -2235,32 +2862,26 @@
         "stat_wis": 20,
         "thumbnail": "036_winter_empress_1-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "construct"
-          },
-          ""
+			"Fey", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/Kv4Iy1BW7Qg"
       }
     },
     "036_winter_empress_2": {
       "description": "",
-      "name": "036 Black Ice Effigy 2",
+      "name": "Black Ice Effigy 2",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "1",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/winter-empress-60103806",
+        "size": "Medium",
         "stat_cha": 22,
         "stat_con": 18,
         "stat_dex": 14,
@@ -2270,32 +2891,26 @@
         "stat_wis": 20,
         "thumbnail": "036_winter_empress_2-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "construct"
-          },
-          ""
+			"Fey", "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/Kv4Iy1BW7Qg"
       }
     },
     "037_royal_griffon": {
       "description": "",
-      "name": "037 Royal Griffon",
+      "name": "Royal Griffon",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "3",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "lg",
+        "releaseurl": "https://www.patreon.com/posts/royal-griffon-60350104",
+        "size": "Large",
         "stat_cha": 8,
         "stat_con": 16,
         "stat_dex": 14,
@@ -2305,32 +2920,26 @@
         "stat_wis": 13,
         "thumbnail": "037_royal_griffon-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "monstrosity"
-          },
-          ""
+			"Monstrosity", "Bird"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/qVg2HY4u3OY"
       }
     },
     "038_arcane_incursor": {
       "description": "",
-      "name": "038 Arcane Incursor",
+      "name": "Arcane Incursor",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "5",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "lg",
+        "releaseurl": "https://www.patreon.com/posts/arcane-incursor-60722159",
+        "size": "Large",
         "stat_cha": 16,
         "stat_con": 13,
         "stat_dex": 16,
@@ -2340,32 +2949,26 @@
         "stat_wis": 13,
         "thumbnail": "038_arcane_incursor-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "aberration"
-          },
-          ""
+			"Aberration"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/fHfPWWASs2s"
       }
     },
     "039_elder_curseroot": {
       "description": "",
-      "name": "039 Elder Curseroot",
+      "name": "Elder Curseroot",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "7",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "huge",
+        "releaseurl": "https://www.patreon.com/posts/elder-curseroot-60897390",
+        "size": "Huge",
         "stat_cha": 3,
         "stat_con": 20,
         "stat_dex": 9,
@@ -2375,32 +2978,26 @@
         "stat_wis": 13,
         "thumbnail": "039_elder_curseroot-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "plant"
-          },
-          ""
+			"Plant"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/r2J7iACxfd4"
       }
     },
     "040_ossian_debt_collector": {
       "description": "",
-      "name": "040 Ossian Debt Collector",
+      "name": "Ossian Debt Collector",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "7",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/ossian-debt-61274297",
+        "size": "Medium",
         "stat_ac": 10,
         "stat_cha": 18,
         "stat_con": 17,
@@ -2411,32 +3008,26 @@
         "stat_wis": 15,
         "thumbnail": "040_ossian_debt_collector-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "undead"
-          },
-          ""
+			"Undead", "Spirit"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/SJEqnCpK1Z4"
       }
     },
     "041_elephant": {
       "description": "",
-      "name": "041 Elephant",
+      "name": "Elephant",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "5",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "huge",
+        "releaseurl": "https://www.patreon.com/posts/elephant-61535194",
+        "size": "Huge",
         "stat_ac": 10,
         "stat_cha": 6,
         "stat_con": 17,
@@ -2447,32 +3038,26 @@
         "stat_wis": 11,
         "thumbnail": "041_elephant-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "beast"
-          },
-          ""
+			"Beast"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/JlZT3g9t2Aw"
       }
     },
     "042_mournbride": {
       "description": "",
-      "name": "042 Mournbride",
+      "name": "Mournbride",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "4",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/mournbride-62015180",
+        "size": "Medium",
         "stat_ac": 10,
         "stat_cha": 16,
         "stat_con": 13,
@@ -2483,32 +3068,26 @@
         "stat_wis": 8,
         "thumbnail": "042_mournbride-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "undead"
-          },
-          ""
+			"Undead", "Spirit"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/H2cjzuYoJ74"
       }
     },
     "043_mind_golem": {
       "description": "",
-      "name": "043 Mind Golem",
+      "name": "Mind Golem",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "16",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "lg",
+        "releaseurl": "https://www.patreon.com/posts/mind-golem-62285535",
+        "size": "Large",
         "stat_ac": 10,
         "stat_cha": 11,
         "stat_con": 20,
@@ -2519,32 +3098,26 @@
         "stat_wis": 14,
         "thumbnail": "043_mind_golem-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "construct"
-          },
-          ""
+			"Construct", "Golem"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/ttATZdEONXM"
       }
     },
     "044_amygdalyan": {
       "description": "",
-      "name": "044 Amygdalyan",
+      "name": "Amygdalyan",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "7",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/amygdalyan-62903185",
+        "size": "Medium",
         "stat_ac": 10,
         "stat_cha": 19,
         "stat_con": 12,
@@ -2555,32 +3128,26 @@
         "stat_wis": 14,
         "thumbnail": "044_amygdalyan-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "aberration"
-          },
-          ""
+			"Aberration"
         ],
         "videourl": ""
       }
     },
     "045_shattermaw": {
       "description": "",
-      "name": "045 Shattermaw",
+      "name": "Shattermaw",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "9",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "huge",
+        "releaseurl": "https://www.patreon.com/posts/shattermaw-62911527",
+        "size": "Huge",
         "stat_ac": 10,
         "stat_cha": 6,
         "stat_con": 22,
@@ -2590,28 +3157,25 @@
         "stat_str": 22,
         "stat_wis": 12,
         "thumbnail": "045_shattermaw-idle_face_still.webp",
-        "type": [
-          "",
-          ""
-        ],
-        "videourl": ""
+        "type": ["Monstrosity"],
+        "videourl": "https://youtu.be/1I_nT8gry4Q"
       }
     },
     "046_garghoul": {
       "description": "",
-      "name": "046 Garghoul",
+      "name": "Garghoul",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "3",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/garghoul-63222139",
+        "size": "Medium",
         "stat_ac": 10,
         "stat_cha": 6,
         "stat_con": 10,
@@ -2622,32 +3186,26 @@
         "stat_wis": 12,
         "thumbnail": "046_garghoul-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "undead"
-          },
-          ""
+			"Undead"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/lfM3VpYcCgI"
       }
     },
     "047_swifttalon_raptor": {
       "description": "",
-      "name": "047 Swifttalon raptor",
+      "name": "Swifttalon raptor",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "2",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": "Walk",
         "purpose": "",
-        "releaseurl": "",
-        "size": "med",
+        "releaseurl": "https://www.patreon.com/posts/swifttalon-is-63666888",
+        "size": "Medium",
         "stat_ac": 10,
         "stat_cha": 6,
         "stat_con": 10,
@@ -2658,32 +3216,26 @@
         "stat_wis": 12,
         "thumbnail": "047_swifttalon_raptor-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "Dinosaur",
-            "swarm": "",
-            "value": "beast"
-          },
-          ""
+			"Beast", "Dinosaur"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/oTq8t-rD6xI"
       }
     },
     "048_stormwyvern": {
       "description": "",
-      "name": "048 stormwyvern",
+      "name": "Stormwyvern",
       "properties": {
         "biom": [
-          "any"
+          "Any"
         ],
         "cr": "7",
         "fightingstyle": [
-          "any"
+          "Any"
         ],
-        "movement": "",
+        "movement": ["Walk","Fly"],
         "purpose": "",
-        "releaseurl": "",
-        "size": "lg",
+        "releaseurl": "https://www.patreon.com/posts/stormwyvern-63841777",
+        "size": "Large",
         "stat_ac": 10,
         "stat_cha": 7,
         "stat_con": 17,
@@ -2694,18 +3246,371 @@
         "stat_wis": 14,
         "thumbnail": "048_stormwyvern-idle_face_still.webp",
         "type": [
-          {
-            "custom": "",
-            "subtype": "",
-            "swarm": "",
-            "value": "dragon"
-          },
-          ""
+			"Dragon"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/BPCRFd3JQoQ"
       }
-    }
-  },
+    },
+    "049_poisonfang": {
+      "description": "",
+      "name": "Poisonfang",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "7",
+        "fightingstyle": [
+          "Any"
+        ],
+        "movement": [""],
+        "purpose": "",
+        "releaseurl": "https://www.patreon.com/posts/poison-fang-64208373",
+        "size": "",
+        "stat_ac": 10,
+        "stat_cha": 10,
+        "stat_con": 10,
+        "stat_dex": 10,
+        "stat_hp": 10,
+        "stat_int": 10,
+        "stat_str": 10,
+        "stat_wis": 10,
+        "thumbnail": "049_poisonfang-idle_face_still.webp",
+        "type": [
+			""
+        ],
+        "videourl": "https://youtu.be/hOridEWNlvE"
+      }
+    },
+    "050_amber_idol": {
+      "description": "",
+      "name": "Amber Idol",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "7",
+        "fightingstyle": [
+          "Any"
+        ],
+        "movement": [""],
+        "purpose": "",
+        "releaseurl": "https://www.patreon.com/posts/amber-idol-64420736",
+        "size": "",
+        "stat_ac": 10,
+        "stat_cha": 10,
+        "stat_con": 10,
+        "stat_dex": 10,
+        "stat_hp": 10,
+        "stat_int": 10,
+        "stat_str": 10,
+        "stat_wis": 10,
+        "thumbnail": "050_amber_idol-idle_face_still.webp",
+        "type": [
+			"Construct", "Golem"
+        ],
+        "videourl": "https://www.youtube.com/watch?v=sEoI5ukLSQ4"
+      }
+    },
+    "051_toxic_gobbler": {
+      "description": "",
+      "name": "Toxic Gobler",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "7",
+        "fightingstyle": [
+          "Any"
+        ],
+        "movement": [""],
+        "purpose": "",
+        "releaseurl": "https://www.patreon.com/posts/toxic-gobbler-64773211",
+        "size": "",
+        "stat_ac": 10,
+        "stat_cha": 10,
+        "stat_con": 10,
+        "stat_dex": 10,
+        "stat_hp": 10,
+        "stat_int": 10,
+        "stat_str": 10,
+        "stat_wis": 10,
+        "thumbnail": "051_toxic_gobbler-idle_face_still.webp",
+        "type": [
+			"Construct", "Golem"
+        ],
+        "videourl": "https://youtu.be/txdC1xEC1-0"
+      }
+    },
+    "052_wendigo_1": {
+      "description": "",
+      "name": "Wendigo Skin 1",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "7",
+        "fightingstyle": [
+          "Any"
+        ],
+        "movement": [""],
+        "purpose": "",
+        "releaseurl": "https://www.patreon.com/posts/wendigo-65132787",
+        "size": "",
+        "stat_ac": 10,
+        "stat_cha": 10,
+        "stat_con": 10,
+        "stat_dex": 10,
+        "stat_hp": 10,
+        "stat_int": 10,
+        "stat_str": 10,
+        "stat_wis": 10,
+        "thumbnail": "052_wendigo_1-idle_face_still.webp",
+        "type": [
+			""
+        ],
+        "videourl": "https://youtu.be/tP_DM5pwSpA"
+      }
+    },
+    "052_wendigo_2": {
+      "description": "",
+      "name": "Wendigo Skin 2",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "7",
+        "fightingstyle": [
+          "Any"
+        ],
+        "movement": [""],
+        "purpose": "",
+        "releaseurl": "https://www.patreon.com/posts/wendigo-65132787",
+        "size": "",
+        "stat_ac": 10,
+        "stat_cha": 10,
+        "stat_con": 10,
+        "stat_dex": 10,
+        "stat_hp": 10,
+        "stat_int": 10,
+        "stat_str": 10,
+        "stat_wis": 10,
+        "thumbnail": "052_wendigo_2-idle_face_still.webp",
+        "type": [
+			""
+        ],
+        "videourl": "https://youtu.be/tP_DM5pwSpA"
+      }
+    },
+    "052_wendigo_3": {
+      "description": "",
+      "name": "Wendigo Skin 3",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "7",
+        "fightingstyle": [
+          "Any"
+        ],
+        "movement": [""],
+        "purpose": "",
+        "releaseurl": "https://www.patreon.com/posts/wendigo-65132787",
+        "size": "",
+        "stat_ac": 10,
+        "stat_cha": 10,
+        "stat_con": 10,
+        "stat_dex": 10,
+        "stat_hp": 10,
+        "stat_int": 10,
+        "stat_str": 10,
+        "stat_wis": 10,
+        "thumbnail": "052_wendigo_3-idle_face_still.webp",
+        "type": [
+			""
+        ],
+        "videourl": "https://youtu.be/tP_DM5pwSpA"
+      }
+    },
+    "052_wendigo_4": {
+      "description": "",
+      "name": "Wendigo Skin 4",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "7",
+        "fightingstyle": [
+          "Any"
+        ],
+        "movement": [""],
+        "purpose": "",
+        "releaseurl": "https://www.patreon.com/posts/wendigo-65132787",
+        "size": "",
+        "stat_ac": 10,
+        "stat_cha": 10,
+        "stat_con": 10,
+        "stat_dex": 10,
+        "stat_hp": 10,
+        "stat_int": 10,
+        "stat_str": 10,
+        "stat_wis": 10,
+        "thumbnail": "052_wendigo_4-idle_face_still.webp",
+        "type": [
+			""
+        ],
+        "videourl": "https://youtu.be/tP_DM5pwSpA"
+      }
+    },
+    "053_magmatic_coreborn": {
+      "description": "",
+      "name": "Magmatic Coreborn",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "7",
+        "fightingstyle": [
+          "Any"
+        ],
+        "movement": [""],
+        "purpose": "",
+        "releaseurl": "https://www.patreon.com/posts/magmatic-65371189",
+        "size": "",
+        "stat_ac": 10,
+        "stat_cha": 10,
+        "stat_con": 10,
+        "stat_dex": 10,
+        "stat_hp": 10,
+        "stat_int": 10,
+        "stat_str": 10,
+        "stat_wis": 10,
+        "thumbnail": "053_magmatic_coreborn-idle_face_still.webp",
+        "type": [
+			""
+        ],
+        "videourl": "https://youtu.be/fqqVRVpEHYA"
+      }
+    },
+    "054_bog_strider": {
+      "description": "",
+      "name": "Bog Strider",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "7",
+        "fightingstyle": [
+          "Any"
+        ],
+        "movement": [""],
+        "purpose": "",
+        "releaseurl": "https://www.patreon.com/posts/bog-strider-65662794",
+        "size": "",
+        "stat_ac": 10,
+        "stat_cha": 10,
+        "stat_con": 10,
+        "stat_dex": 10,
+        "stat_hp": 10,
+        "stat_int": 10,
+        "stat_str": 10,
+        "stat_wis": 10,
+        "thumbnail": "054_bog_strider-idle_face_still.webp",
+        "type": [
+			""
+        ],
+        "videourl": "https://youtu.be/zppwFyrxD0g"
+      }
+    },
+    "055_klabautermann": {
+      "description": "",
+      "name": "Klabautermann",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "7",
+        "fightingstyle": [
+          "Any"
+        ],
+        "movement": [""],
+        "purpose": "",
+        "releaseurl": "https://www.patreon.com/posts/klabautermann-66017529",
+        "size": "",
+        "stat_ac": 10,
+        "stat_cha": 10,
+        "stat_con": 10,
+        "stat_dex": 10,
+        "stat_hp": 10,
+        "stat_int": 10,
+        "stat_str": 10,
+        "stat_wis": 10,
+        "thumbnail": "055_klabautermann-idle_face_still.webp",
+        "type": [
+			""
+        ],
+        "videourl": "https://youtu.be/1H_2xVLzQtw"
+      }
+    },
+    "056_sword_guardian": {
+      "description": "",
+      "name": "Sword Guardian",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "7",
+        "fightingstyle": [
+          "Any"
+        ],
+        "movement": [""],
+        "purpose": "",
+        "releaseurl": "https://www.patreon.com/posts/sword-guardian-66289434",
+        "size": "",
+        "stat_ac": 10,
+        "stat_cha": 10,
+        "stat_con": 10,
+        "stat_dex": 10,
+        "stat_hp": 10,
+        "stat_int": 10,
+        "stat_str": 10,
+        "stat_wis": 10,
+        "thumbnail": "056_sword_guardian-idle_face_still.webp",
+        "type": [
+			""
+        ],
+        "videourl": "https://youtu.be/NxhGJbMqvuw"
+      }
+    },
+    "057_ridgeback_dunecrawler": {
+      "description": "",
+      "name": "Ridgeback Dunecrawler",
+      "properties": {
+        "biom": [
+          "Any"
+        ],
+        "cr": "7",
+        "fightingstyle": [
+          "Any"
+        ],
+        "movement": [""],
+        "purpose": "",
+        "releaseurl": "https://www.patreon.com/posts/ridgeback-66577201",
+        "size": "",
+        "stat_ac": 10,
+        "stat_cha": 10,
+        "stat_con": 10,
+        "stat_dex": 10,
+        "stat_hp": 10,
+        "stat_int": 10,
+        "stat_str": 10,
+        "stat_wis": 10,
+        "thumbnail": "057_ridgeback_dunecrawler-idle_face_still.webp",
+        "type": [
+			""
+        ],
+        "videourl": "https://youtu.be/V_Mr_R-ARpg"
+      }
+    },
   "id": "beneos_tokens_database",
   "type": "token",
   "version": "0.2.0"
