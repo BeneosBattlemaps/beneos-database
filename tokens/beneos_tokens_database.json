@@ -40,7 +40,7 @@
         ],
         "cr": "20",
         "fightingstyle": [
-          "Lethal", "Area Damage", "Tactical"
+          "Lethal", "AoE", "Tactical"
         ],
         "movement": "Walk",
         "purpose": "Boss", "Pressure", "Tank"
