@@ -1,7 +1,7 @@
-{
+﻿{
   "content": {
     "001_vampire_beast": {
-      "description": "Sometimes Vampires impart the dubious gift of spawndom upon the wrong soul, stirring primordial horrors from their sleep. These vampire spawns regress to a primal state, detached from the rules that even compel their creators, driven only by their lust for terror and agony.  Primal Spawns are beyond their unwilling creators' control and they in turn feel disdain for their more ‘evolved’ kin. Despite not having a weakness to sunlight, they prefer the shadows, as the darkness supports their preferred hunting style. And if the right opportunity arises, a Primal Vampire Spawn will not hesitate to hunt during broad daylight to indulge in the screams of horrified onlookers.",
+      "description": "Sometimes Vampires impart the dubious gift of spawndom upon the wrong soul, stirring primordial horrors from their sleep. These vampire spawns regress to a primal state, detached from the rules that even compel their creators, driven only by their lust for terror and agony.  Primal Spawns are beyond their unwilling creators' control and they in turn feel disdain for their more â€˜evolvedâ€™ kin. Despite not having a weakness to sunlight, they prefer the shadows, as the darkness supports their preferred hunting style. And if the right opportunity arises, a Primal Vampire Spawn will not hesitate to hunt during broad daylight to indulge in the screams of horrified onlookers.",
       "name": "Primal Vampire Spawn",
       "properties": {
         "biom": [
@@ -12,7 +12,7 @@
           "Predator", "Demanding", "Shock"
         ],
         "movement": "Walk",
-        "purpose": "Damage", "Pressure"
+        "purpose": ["Damage", "Pressure"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-51753197",
         "size": "Large",
         "stat_ac": 16,
@@ -43,7 +43,7 @@
           "Lethal", "AoE", "Tactical"
         ],
         "movement": "Walk",
-        "purpose": "Boss", "Pressure", "Tank"
+        "purpose": ["Boss", "Pressure", "Tank"],
         "releaseurl": "https://www.patreon.com/posts/boss-creature-51753486",
         "size": "Huge",
         "stat_ac": 15,
@@ -74,7 +74,7 @@
          "Debuff", "Melee", "Interactive"
         ],
         "movement": "Walk",
-        "purpose": "Counter (Spellcaster)", "Hunter"
+        "purpose": ["Counter (Spellcaster)", "Hunter"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-51753582",
         "size": "Large",
         "stat_ac": 16,
@@ -3613,5 +3613,5 @@
     },
   "id": "beneos_tokens_database",
   "type": "token",
-  "version": "0.2.0"
-}
+  "version": "1.0.1"
+}}
