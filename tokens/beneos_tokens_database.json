@@ -977,7 +977,7 @@
           "Melee"
         ],
         "movement": "Walk",
-        "purpose": ["Damage","Hunt"]
+        "purpose": ["Damage","Hunt"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54042065",
         "size": "Medium",
         "stat_ac": 14,
@@ -1007,7 +1007,7 @@
           "Melee"
         ],
         "movement": "Walk",
-        "purpose": ["Damage","Hunt"]
+        "purpose": ["Damage","Hunt"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54042065",
         "size": "Medium",
         "stat_ac": 14,
@@ -1037,7 +1037,7 @@
           "Melee"
         ],
         "movement": "Walk",
-        "purpose": ["Damage","Hunt"]
+        "purpose": ["Damage","Hunt"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54042065",
         "size": "Medium",
         "stat_ac": 14,
