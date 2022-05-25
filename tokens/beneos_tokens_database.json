@@ -3611,7 +3611,8 @@
         "videourl": "https://youtu.be/V_Mr_R-ARpg"
       }
     },
+  },
   "id": "beneos_tokens_database",
   "type": "token",
   "version": "1.0.1"
-}}
+}
