@@ -3611,8 +3611,35 @@
         "videourl": "https://youtu.be/V_Mr_R-ARpg"
       }
     }
+    },
+    "058_vrubel": {
+      "description": "Test Description",
+      "name": "Vrubel",
+      "properties": {
+        "biom": ["Test Biom"],
+        "cr": "5",
+        "fightingstyle": ["Test Style 1", "Test Style 2"],
+        "movement": ["Test movement"],
+        "purpose": ["Test Purpose 1","Test Purpose 2"],
+        "releaseurl": "",
+        "size": "Test Size",
+        "stat_ac": 14,
+        "stat_cha": 16,
+        "stat_con": 14,
+        "stat_dex": 13,
+        "stat_hp": 63,
+        "stat_int": 6,
+        "stat_str": 16,
+        "stat_wis": 10,
+        "thumbnail": "058_vrubel-idle_face_still.webp",
+        "type": [
+          "Test Type",
+          "Test SubType"
+        ],
+        "videourl": ""
+    }
   },
   "id": "beneos_tokens_database",
   "type": "token",
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
