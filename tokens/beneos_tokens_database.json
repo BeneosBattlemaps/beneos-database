@@ -94,18 +94,18 @@
       }
     },
     "004_undead_centipede": {
-      "description": "",
+      "description": "Curseweavers are sinister creatures exhibiting a perverse interest in the political dealings of mortal beings. This morbid curiosity draws them from their natural homes within the seven hells and causes them to establish lairs at the heart of sprawling cities or similiar centers of power and influence. Through networks of both mortal and infernal spies and agents they seek out those in pursuit of dominion over others and offer their cursework in exchange for souls and chess pieces on the political board. Curseweavers enjoy pitting their numerous minions against each other, slowly ascending as the true éminence grise behind the curtain. Civil wars, revolts or revolutions follow in the wake of a Curseweaver, the fiend oftentimes playing both sides for nourishment and sadistic pleasure in equal measure.",
       "name": "The Curseweaver",
       "properties": {
         "biom": [
-          "Any"
+          "Lair","City","Infernal"
         ],
         "cr": "16",
         "fightingstyle": [
-          "Any"
+          "Tactical", "Demanding", "Spellcasting"
         ],
         "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "purpose": ["Boss","Debuff"],
         "releaseurl": "https://www.patreon.com/posts/boss-creature-51753670",
         "size": "Huge",
         "stat_ac": 17,
@@ -125,18 +125,18 @@
       }
     },
     "005_assassin_1": {
-      "description": "",
+      "description": "If one seeks to end a life, one does not necessarily have to get their hands dirty. There are professionals trained in the art of killing, who are eager to be of service - either to earn some coin, further a dark agenda or for personal pleasure. The play of murder has thousands of scripts and props, but a knife in the dark remains an all time classic.",
       "name": "Assassin 1",
       "properties": {
         "biom": [
-          "Any"
+          "City","Civilised","Road"
         ],
         "cr": "3",
         "fightingstyle": [
-          "Any"
+          "Mobile", "Simple"
         ],
         "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "purpose": ["Minion", "Hunter"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-51753769",
         "size": "Medium",
         "stat_ac": 16,
@@ -156,15 +156,15 @@
       }
     },
     "006_shield_guardian_1": {
-      "description": "",
+      "description": "Exposure to extreme instances of magnetism might cause an as of yet unexplained transformation within Shield Guardians.The docile automatons undergo a rapid evolution, triggering both a physical transformation and a severe change in behaviour. A Polarized Shield Guardian is no longer bound to its master, resisting any attempt of external control with violent means. Their physique adapts to support a construct now geared towards offensive conflict resolution, rather than silent endurance. These creatures are exceedingly rare and, if able to break their shackles for good, wander the lands guided by their mysterious connection to both magical and magnetic forces.",
       "name": "Polarized Shield Guardian Skin 1",
       "properties": {
         "biom": [
-          "Any", "SciFi"
+          "Civilized", "SciFi"
         ],
         "cr": "8",
         "fightingstyle": [
-          "Melee", "Fistfight"
+          "Melee", "Interactive"
         ],
         "movement": ["Walk"],
         "purpose": ["Damage"],
@@ -186,15 +186,15 @@
       }
     },
     "006_shield_guardian_2": {
-      "description": "",
+      "description": "Exposure to extreme instances of magnetism might cause an as of yet unexplained transformation within Shield Guardians.The docile automatons undergo a rapid evolution, triggering both a physical transformation and a severe change in behaviour. A Polarized Shield Guardian is no longer bound to its master, resisting any attempt of external control with violent means. Their physique adapts to support a construct now geared towards offensive conflict resolution, rather than silent endurance. These creatures are exceedingly rare and, if able to break their shackles for good, wander the lands guided by their mysterious connection to both magical and magnetic forces.",
       "name": "Polarized Shield Guardian Skin 2",
       "properties": {
         "biom": [
-          "Any", "SciFi"
+          "Civilized", "SciFi"
         ],
         "cr": "8",
         "fightingstyle": [
-          "Melee", "Fistfight"
+          "Melee", "Interactive"
         ],
         "movement": ["Walk"],
         "purpose": ["Damage"],
@@ -216,18 +216,18 @@
       }
     },
     "007_umber_spinner": {
-      "description": "",
+      "description": "Umber Hulks spend their youthful days terrorising the Underdark or similar subterranean spaces. In this harsh environment, few survive long enough to see their powerful frame diminish with age, shedding the recognizable heavy chitinous plating and finally sprouting wings and a wicked stinger. On buzzing wings the now pubescent Umber Spinners set out, seeking weakened or isolated humanoids in their mission to preserve the dominion of their kind...",
       "name": "Umber Spinner",
       "properties": {
         "biom": [
-          "Any"
+          "Underground","Wilderness", "Dungeon"
         ],
         "cr": "3",
         "fightingstyle": [
-          "Any"
+          "Ambush", "Pack"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["Fly"],
+        "purpose": ["Debuff"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-52102315",
         "size": "Medium",
         "stat_ac": 14,
@@ -240,24 +240,24 @@
         "stat_wis": 10,
         "thumbnail": "007_umber_spinner-idle_face_still.webp",
         "type": [
-          "Monstrousity"
+          "Monstrousity", "Insect" 
         ],
         "videourl": "https://youtu.be/Ak26m-571QU"
       }
     },
     "008_aspect_of_gluttony": {
-      "description": "",
+      "description": "Dull-looking, dimwitted and bloated creatures, filled to the brim with noxious gas and disgusting thoughts. They nest within the fleshy crevasses of Gluttony's lumpy body and swarm out on its command, eager to gather offerings to gain their master's favour.",
       "name": "Aspect of Gluttony",
       "properties": {
         "biom": [
-          "Any"
+          "Lair", "Abyssal", 
         ],
         "cr": "1",
         "fightingstyle": [
-          "Any"
+          "Debuff"
         ],
         "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "purpose": ["Minion"],
         "releaseurl": "https://www.patreon.com/posts/boss-creature-51753486",
         "size": "Small",
         "stat_ac": 9,
@@ -276,7 +276,7 @@
       }
     },
     "009_skeleton_henchman_1": {
-      "description": "",
+      "description": "If you are interested in exercising cross-regional influence and could not care less about your image,  Skeleton Henchmen are the ideal lynchpin for your entourage. They are loyal, cheap and, if you know your way around the local cemetery, rather easy to aquire. The basic Skeleton Henchman is a great foundation to expand upon, as they are highly customizable and require minimal upkeep and maintenance. Guard duty, law enforcement or warfare, Skeleton Henchmen provide satisfactory service in diverse work environments.",
       "name": "Skeleton Henchman Skin 1",
       "properties": {
         "biom": [
@@ -306,7 +306,7 @@
       }
     },
     "009_skeleton_henchman_2": {
-      "description": "",
+      "description": "If you are interested in exercising cross-regional influence and could not care less about your image,  Skeleton Henchmen are the ideal lynchpin for your entourage. They are loyal, cheap and, if you know your way around the local cemetery, rather easy to aquire. The basic Skeleton Henchman is a great foundation to expand upon, as they are highly customizable and require minimal upkeep and maintenance. Guard duty, law enforcement or warfare, Skeleton Henchmen provide satisfactory service in diverse work environments.",
       "name": "Skeleton Henchman Skin 2",
       "properties": {
         "biom": [
@@ -336,7 +336,7 @@
       }
     },
     "009_skeleton_henchman_3": {
-      "description": "",
+      "description": "If you are interested in exercising cross-regional influence and could not care less about your image,  Skeleton Henchmen are the ideal lynchpin for your entourage. They are loyal, cheap and, if you know your way around the local cemetery, rather easy to aquire. The basic Skeleton Henchman is a great foundation to expand upon, as they are highly customizable and require minimal upkeep and maintenance. Guard duty, law enforcement or warfare, Skeleton Henchmen provide satisfactory service in diverse work environments.",
       "name": "Skeleton Henchman Skin 3",
       "properties": {
         "biom": [
@@ -366,7 +366,7 @@
       }
     },
     "009_skeleton_henchman_4": {
-      "description": "",
+      "description": "If you are interested in exercising cross-regional influence and could not care less about your image,  Skeleton Henchmen are the ideal lynchpin for your entourage. They are loyal, cheap and, if you know your way around the local cemetery, rather easy to aquire. The basic Skeleton Henchman is a great foundation to expand upon, as they are highly customizable and require minimal upkeep and maintenance. Guard duty, law enforcement or warfare, Skeleton Henchmen provide satisfactory service in diverse work environments.",
       "name": "Skeleton Henchman Skin 4",
       "properties": {
         "biom": [
@@ -396,7 +396,7 @@
       }
     },
     "009_skeleton_henchman_5": {
-      "description": "",
+      "description": "If you are interested in exercising cross-regional influence and could not care less about your image,  Skeleton Henchmen are the ideal lynchpin for your entourage. They are loyal, cheap and, if you know your way around the local cemetery, rather easy to aquire. The basic Skeleton Henchman is a great foundation to expand upon, as they are highly customizable and require minimal upkeep and maintenance. Guard duty, law enforcement or warfare, Skeleton Henchmen provide satisfactory service in diverse work environments.",
       "name": "Skeleton Henchman Skin 5",
       "properties": {
         "biom": [
@@ -426,7 +426,7 @@
       }
     },
     "009_skeleton_henchman_6": {
-      "description": "",
+      "description": "If you are interested in exercising cross-regional influence and could not care less about your image,  Skeleton Henchmen are the ideal lynchpin for your entourage. They are loyal, cheap and, if you know your way around the local cemetery, rather easy to aquire. The basic Skeleton Henchman is a great foundation to expand upon, as they are highly customizable and require minimal upkeep and maintenance. Guard duty, law enforcement or warfare, Skeleton Henchmen provide satisfactory service in diverse work environments.",
       "name": "Skeleton Henchman Skin 6",
       "properties": {
         "biom": [
@@ -456,7 +456,7 @@
       }
     },
     "010_horse_1": {
-      "description": "",
+      "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
       "name": "Horse Skin 1",
       "properties": {
         "biom": [
@@ -464,7 +464,7 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Charge"
+          "Mobile", "Melee", "Charge"
         ],
         "movement": ["Walk"],
         "purpose": ["Mount"],
@@ -486,7 +486,7 @@
       }
     },
     "010_horse_2": {
-      "description": "",
+      "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
       "name": "Horse Skin 2",
       "properties": {
         "biom": [
@@ -494,7 +494,7 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Charge"
+          "Mobile", "Melee", "Charge"
         ],
         "movement": ["Walk"],
         "purpose": ["Mount"],
@@ -516,7 +516,7 @@
       }
     },
     "010_horse_3": {
-      "description": "",
+      "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
       "name": "Horse Skin 3",
       "properties": {
         "biom": [
@@ -524,7 +524,7 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Charge"
+          "Mobile", "Melee", "Charge"
         ],
         "movement": ["Walk"],
         "purpose": ["Mount"],
@@ -546,7 +546,7 @@
       }
     },
     "010_horse_4": {
-      "description": "",
+      "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
       "name": "Horse Skin 4",
       "properties": {
         "biom": [
@@ -554,7 +554,7 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Charge"
+          "Melee", "Mobile", "Charge"
         ],
         "movement": ["Walk"],
         "purpose": ["Mount"],
@@ -576,7 +576,7 @@
       }
     },
     "010_horse_5": {
-      "description": "",
+      "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
       "name": "Horse Skin 5",
       "properties": {
         "biom": [
@@ -584,7 +584,7 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Charge"
+          "Melee", "Charge", "Charge"
         ],
         "movement": ["Walk"],
         "purpose": ["Mount"],
@@ -606,7 +606,7 @@
       }
     },
     "010_horse_6": {
-      "description": "",
+      "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
       "name": "Horse Skin 6",
       "properties": {
         "biom": [
@@ -614,7 +614,7 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Charge"
+          "Melee", "Charge", "Mobile"
         ],
         "movement": ["Walk"],
         "purpose": ["Mount"],
@@ -636,7 +636,7 @@
       }
     },
     "010_horse_7": {
-      "description": "",
+      "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
       "name": "Horse Skin 7",
       "properties": {
         "biom": [
@@ -644,7 +644,7 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Charge"
+          "Melee", "Charge", "Mobile"
         ],
         "movement": ["Walk"],
         "purpose": ["Mount"],
@@ -666,7 +666,7 @@
       }
     },
     "010_horse_8": {
-      "description": "",
+      "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
       "name": "Horse Skin 8",
       "properties": {
         "biom": [
@@ -674,7 +674,7 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Charge"
+          "Melee", "Charge", "Mobile"
         ],
         "movement": ["Walk"],
         "purpose": ["Mount"],
@@ -696,7 +696,7 @@
       }
     },
     "010_horse_9": {
-      "description": "",
+      "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
       "name": "Warhorse Skin 1",
       "properties": {
         "biom": [
@@ -704,7 +704,7 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Charge"
+          "Melee", "Charge", "Mobile"
         ],
         "movement": ["Walk"],
         "purpose": ["Mount"],
@@ -726,7 +726,7 @@
       }
     },
     "010_horse_10": {
-      "description": "",
+      "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
       "name": "Warhorse Skin 2",
       "properties": {
         "biom": [
@@ -734,7 +734,7 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Charge"
+          "Melee", "Charge", "Mobile"
         ],
         "movement": ["Walk"],
         "purpose": ["Mount"],
@@ -756,7 +756,7 @@
       }
     },
     "010_horse_11": {
-      "description": "",
+      "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
       "name": "Horse Skin 8",
       "properties": {
         "biom": [
@@ -764,7 +764,7 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Charge"
+          "Melee", "Charge", "Mobile"
         ],
         "movement": ["Walk"],
         "purpose": ["Mount"],
@@ -786,7 +786,7 @@
       }
     },
     "010_horse_12": {
-      "description": "",
+      "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
       "name": "Warhorse Skin 3",
       "properties": {
         "biom": [
@@ -794,7 +794,7 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Charge"
+          "Melee", "Charge", "Mobile"
         ],
         "movement": ["Walk"],
         "purpose": ["Mount"],
@@ -816,7 +816,7 @@
       }
     },
     "010_horse_13": {
-      "description": "",
+      "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
       "name": "Warhorse Skin 4",
       "properties": {
         "biom": [
@@ -824,7 +824,7 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Charge"
+          "Melee", "Charge", "Mobile"
         ],
         "movement": ["Walk"],
         "purpose": ["Mount"],
@@ -846,7 +846,7 @@
       }
     },
     "011_trained_fighter": {
-      "description": "",
+      "description": "War veterans, gang members with military experience or nobles who spent a fair share of their youth under the watchful eyes of combat instructors - the Trained Fighter represents all of them and more. They are trained in the art of melee, have seen various combat scenarios and lived to tell the tale. While a rabble of peasants or a gang of highwaymen can be disposed of rather quickly and with little effort, an organized troop of Trained Fighters makes for a varitable fighting force, leading to a complex and tactical encounter for a low or even mid-level party.",
       "name": "Trained Fighter",
       "properties": {
         "biom": [
@@ -854,10 +854,10 @@
         ],
         "cr": "2",
         "fightingstyle": [
-          "Any"
+          "Melee","Interactive", "Tactical"
         ],
         "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "purpose": ["Minion", "Pack"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52930930",
         "size": "Medium",
         "stat_ac": 15,
@@ -876,18 +876,18 @@
       }
     },
     "012_cipactli": {
-      "description": "",
+      "description": "Cipactli are the alleged offspring of a reptilian river god feared for his boundless rage. They roam mangrove forests and tropical river banks in packs, behaving very territorial and highly aggressive towards any kind of encroachment. Their social behaviour is suprisingly complex, with them displaying their martial skills through ritualized combat among each other. However, if isolated from its pack, a Cipactli can form an equally strong bond with any creature able to gain the Cipactli's respect by demonstrating superior prowess. Indigenous tribes have been observed utilizing bonded Cipactli as status symbols, as well as beasts of burden or instruments of war. Tribal legends tell of champions riding into battle mounted on a rampaging Cipactli, battering aside enemies and jungle trees alike in a display of rage worthy of their eponymous genitor.",
       "name": "Cipactli",
       "properties": {
         "biom": [
-          "Any"
+          "Tropical", "Swamp", "Wildnerness"
         ],
         "cr": "4",
         "fightingstyle": [
-          "Any"
+          "Charge", "Melee", "Simple"
         ],
         "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "purpose": ["Damage","Mount"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-53233232",
         "size": "Large",
         "stat_ac": 40,
@@ -906,18 +906,18 @@
       }
     },
     "013_harpyia": {
-      "description": "",
+      "description": "Not many a  creature is as unjustly feared and detested as the Harpyia. Decried as carriers of bad omen, death and evil magic, they have been hunted to near extinction. The remaining Harpyies prefer to nest on storm-wreathed cliffsides and within coastal ravines, seeking safety in isolation. Legend has them born from wind and water, which might explain their affinity to the sea. Colonies, or *parliaments*, of Harpyies can be often found nesting atop the salt-encrusted masts and rigging of beached shipwrecks. This behaviour unfortunately further feeds the hate and fear towards them, as they stand accused of gloating over the misfortune of others, when in reality Harpyies are inclined to protect shipwrecked sailors from actual malicious creatures like the alluring Sirens.",
       "name": "Harpyia",
       "properties": {
         "biom": [
-          "Any"
+          "Wilderness", "Coastal", "Road"
         ],
         "cr": "3",
         "fightingstyle": [
-          "Any"
+          "Airborne", "Pack", "AoE"
         ],
         "movement": ["Walk"], "Fly"],
-        "purpose": ["Placeholder"],
+        "purpose": ["Damage", "Minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-53489969",
         "size": "Medium",
         "stat_ac": 12,
@@ -930,13 +930,13 @@
         "stat_wis": 16,
         "thumbnail": "013_harpyia-idle_face_still.webp",
         "type": [
-			"Monstrosity"
+			"Monstrosity", "Demi-Human"
         ],
         "videourl": "https://www.youtube.com/watch?v=INKJw3Ha0tc"
       }
     },
     "014_dragon": {
-      "description": "",
+      "description": "The Dragon might be the ultimate mythical creature. Almost every human culture has a being with the shared traits of a snake-like body, mighty wings, supernatural cunning and indomitable might. In some myths and folktales they are benevolent and wise, in most they are cruel and despotic. Our Dragon makes no attempt at being an ambivalent creature, skirting the border of good and evil or trying to paint the picture of a complex and often misunderstood creature. This Dragon is a scaled tyrant, a megalomaniacal lizard corrupted by the arcane energies flowing through its veins. It is avaricious, gluttonous, wrathful and treacherous - the worst traits humanity can offer, but enabled by inhabiting a body of a living and breathing natural disaster.",
       "name": "Dragon",
       "properties": {
         "biom": [
@@ -944,10 +944,10 @@
         ],
         "cr": "19",
         "fightingstyle": [
-          "Any"
+          "Airborne",  "Interactive",  "Lethal",
         ],
         "movement": ["Walk"], "Fly"],
-        "purpose": ["Placeholder"],
+        "purpose": ["Boss",  "Pressure", "Damage",],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-53778634",
         "size": "grg",
         "stat_ac": 20,
@@ -966,18 +966,18 @@
       }
     },
     "015_werewolf_1": {
-      "description": "",
+      "description": "The Wulfen Curse is an affliction of the soul. Some humanoids already carry the seed of beasthood with them, nurturing a dark hunger for violence and bloodshed. If they give in to this hunger, the dread curse takes hold, shaping the body in accordance to the soul. Over time the Wulfen comes to detest its humanoid body, the metaphysical affliction of the soul mirrored in the physical realm. They are, however, forever trapped between worlds, for they are neither wolf nor man, but a chimeric soul burdened with an appetite for both the chase and the catch.",
       "name": "Werewolf Skin 1",
       "properties": {
         "biom": [
-          "Horror", "Forest"
+          "Horror", "Forest", "Road", "Wilderness"
         ],
         "cr": "5",
         "fightingstyle": [
-          "Melee"
+          "Melee", "Predator"
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage","Hunt"],
+        "purpose": ["Damage","Hunter"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54042065",
         "size": "Medium",
         "stat_ac": 14,
@@ -996,18 +996,18 @@
       }
     },
     "015_werewolf_2": {
-      "description": "",
+      "description": "The Wulfen Curse is an affliction of the soul. Some humanoids already carry the seed of beasthood with them, nurturing a dark hunger for violence and bloodshed. If they give in to this hunger, the dread curse takes hold, shaping the body in accordance to the soul. Over time the Wulfen comes to detest its humanoid body, the metaphysical affliction of the soul mirrored in the physical realm. They are, however, forever trapped between worlds, for they are neither wolf nor man, but a chimeric soul burdened with an appetite for both the chase and the catch.",
       "name": "Werewolf Skin 2",
       "properties": {
         "biom": [
-          "Horror", "Forest"
+          "Horror", "Forest", "Road", "Wilderness"
         ],
         "cr": "5",
         "fightingstyle": [
-          "Melee"
+          "Melee", "Predator"
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage","Hunt"],
+        "purpose": ["Damage","Hunter"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54042065",
         "size": "Medium",
         "stat_ac": 14,
@@ -1026,18 +1026,18 @@
       }
     },
     "015_werewolf_3": {
-      "description": "",
+      "description": "The Wulfen Curse is an affliction of the soul. Some humanoids already carry the seed of beasthood with them, nurturing a dark hunger for violence and bloodshed. If they give in to this hunger, the dread curse takes hold, shaping the body in accordance to the soul. Over time the Wulfen comes to detest its humanoid body, the metaphysical affliction of the soul mirrored in the physical realm. They are, however, forever trapped between worlds, for they are neither wolf nor man, but a chimeric soul burdened with an appetite for both the chase and the catch.",
       "name": "Werewolf Skin 3",
       "properties": {
         "biom": [
-          "Horror", "Wilderness"
+          "Horror", "Forest", "Road", "Wilderness"
         ],
         "cr": "5",
         "fightingstyle": [
-          "Melee"
+          "Melee", "Predator"
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage","Hunt"],
+        "purpose": ["Damage","Hunter"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54042065",
         "size": "Medium",
         "stat_ac": 14,
@@ -1050,13 +1050,13 @@
         "stat_wis": 12,
         "thumbnail": "015_werewolf_3-idle_face_still.webp",
         "type": [
-			"Humanoid", "Shapeshifter", "Monstrosity"
+			"Humanoid", "Shapeshifter", "Monstrosity", "Demi-Human"
         ],
         "videourl": "https://youtu.be/rU2-Ph6Gp4Y"
       }
     },
     "016_wolf_1": {
-      "description": "",
+      "description": "Those afflicted by the Curse of the Wulfen slowly lose themselves to the bestial urges festering within their soul. After each hunt it gets harder to take on human form and even the horrid shape of the man-wolf becomes difficult to maintain. Soon the Wolfkin have all but forgotten what it means to be human and gather around a strong Wulfen to lead them on their eternal hunt. Or just a normal Wolf. ",
       "name": "Wolf 1",
       "properties": {
         "biom": [
@@ -1086,11 +1086,11 @@
       }
     },
     "016_wolf_2": {
-      "description": "",
+      "description": "Those afflicted by the Curse of the Wulfen slowly lose themselves to the bestial urges festering within their soul. After each hunt it gets harder to take on human form and even the horrid shape of the man-wolf becomes difficult to maintain. Soon the Wolfkin have all but forgotten what it means to be human and gather around a strong Wulfen to lead them on their eternal hunt. Or just a normal Wolf.",
       "name": "Wolf 2",
       "properties": {
         "biom": [
-          "Wilderness"
+          "Wilderness", "Forest", "Horror"
         ],
         "cr": "1",
         "fightingstyle": [
@@ -1116,15 +1116,15 @@
       }
     },
     "016_wolf_3": {
-      "description": "",
+      "description": "Those afflicted by the Curse of the Wulfen slowly lose themselves to the bestial urges festering within their soul. After each hunt it gets harder to take on human form and even the horrid shape of the man-wolf becomes difficult to maintain. Soon the Wolfkin have all but forgotten what it means to be human and fully dedicate themselves to the hunt. Bigger, stronger and blessed with remaining spark of malicious intellect, Wolfkin soon find themselves in charge of a pack of regular wolves, often answering the call of other hunting Wulfen, eager to redden their snout in the ensuing bloodbath. Or just a normal Wolf.",
       "name": "Wolfkin",
       "properties": {
         "biom": [
-          "Wilderness"
+          "Wilderness", "Forest", "Horror"
         ],
         "cr": "5",
         "fightingstyle": [
-          "Melee", "Hunt"
+          "Melee", "Hunter"
         ],
         "movement": ["Walk"],
         "purpose": ["Damage"],
@@ -1150,7 +1150,7 @@
       "name": "Lone Wolf",
       "properties": {
         "biom": [
-          "Wilderness"
+          "Wilderness", "Forest", "Horror"
         ],
         "cr": "1",
         "fightingstyle": [
@@ -1176,18 +1176,18 @@
       }
     },
     "017_dwarven_king": {
-      "description": "",
+      "description": "Dwarven Kings do not rule by birthright alone, but command respect earned by dilligence, grit and merit. Dwarves are a proud and stubborn folk and while they appreciate the rigid structures of monarchy, they need a reason for why a specific individual should hold the power to rule the grand cave cities, vast mountain halls and stalwart hill fortresses of dwarvenkind. However, if an aspirant to the throne manages to endure the ordeals and rites necessary to claim the title of king, their subjects serve them with unwavering loyalty. Each Dwarven King is a statesman, general and master craftsman with a body of granite, a soul of iron and a heart of gold.",
       "name": "Dwarven King",
       "properties": {
         "biom": [
-          "Any"
+          "Underground", "City", "Civilised"
         ],
-        "cr": "2",
+        "cr": "5",
         "fightingstyle": [
-          "Any"
+          "Melee", "Simple", "Spellcasting"
         ],
         "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "purpose": ["Leader", "Damage"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-54675823",
         "size": "Medium",
         "stat_ac": 19,
@@ -1210,11 +1210,11 @@
       "name": "Spider Skin 1",
       "properties": {
         "biom": [
-          "Cave", "Forest", "Underdark"
+          "Cave", "Forest","Underground", "Dungeon", "Wilderness", "Catacomb", "Ruins", "Road", "Horror"
         ],
         "cr": "4",
         "fightingstyle": [
-          "Melee", "Venomous", "Ambusher"
+          "Melee", "Pack", "Ambusher"
         ],
         "movement": ["Walk"], "Climb"],
         "purpose": ["Damage","Debuff"],
@@ -1240,11 +1240,11 @@
       "name": "Spider Skin 2",
       "properties": {
         "biom": [
-          "Cave", "Forest", "Underdark"
+          "Cave", "Forest","Underground", "Dungeon", "Wilderness", "Catacomb", "Ruins", "Road", "Horror"
         ],
         "cr": "4",
         "fightingstyle": [
-          "Melee", "Venomous", "Ambusher"
+          "Melee", "Pack", "Ambusher"
         ],
         "movement": ["Walk"], "Climb"],
         "purpose": ["Damage","Debuff"],
@@ -1270,11 +1270,11 @@
       "name": "Spider Skin 3",
       "properties": {
         "biom": [
-          "Cave", "Forest", "Underdark"
+          "Cave", "Forest","Underground", "Dungeon", "Wilderness", "Catacomb", "Ruins", "Road", "Horror"
         ],
         "cr": "4",
         "fightingstyle": [
-          "Melee", "Venomous", "Ambusher"
+          "Melee", "Pack", "Ambusher"
         ],
         "movement": ["Walk"], "Climb"],
         "purpose": ["Damage","Debuff"],
@@ -1300,11 +1300,11 @@
       "name": "Spider Skin 4",
       "properties": {
         "biom": [
-          "Cave", "Forest", "Underdark"
+          "Cave", "Forest","Underground", "Dungeon", "Wilderness", "Catacomb", "Ruins", "Road", "Horror"
         ],
         "cr": "4",
         "fightingstyle": [
-          "Melee", "Venomous", "Ambusher"
+          "Melee", "Pack", "Ambusher"
         ],
         "movement": ["Walk"], "Climb"],
         "purpose": ["Damage","Debuff"],
@@ -1330,11 +1330,11 @@
       "name": "Spider Skin 5",
       "properties": {
         "biom": [
-          "Cave", "Forest", "Underdark"
+          "Cave", "Forest","Underground", "Dungeon", "Wilderness", "Catacomb", "Ruins", "Road", "Horror"
         ],
         "cr": "4",
         "fightingstyle": [
-          "Melee", "Venomous", "Ambusher"
+          "Melee", "Pack", "Ambusher"
         ],
         "movement": ["Walk"], "Climb"],
         "purpose": ["Damage","Debuff"],
@@ -1360,11 +1360,11 @@
       "name": "Spider Skin 6",
       "properties": {
         "biom": [
-          "Cave", "Forest", "Underdark"
+          "Cave", "Forest","Underground", "Dungeon", "Wilderness", "Catacomb", "Ruins", "Road", "Horror"
         ],
         "cr": "4",
         "fightingstyle": [
-          "Melee", "Venomous", "Ambusher"
+          "Melee", "Pack", "Ambusher"
         ],
         "movement": ["Walk"], "Climb"],
         "purpose": ["Damage","Debuff"],
@@ -1390,11 +1390,11 @@
       "name": "Spider Skin 7",
       "properties": {
         "biom": [
-          "Cave", "Forest", "Underdark"
+         "Cave", "Forest","Underground", "Dungeon", "Wilderness", "Catacomb", "Ruins", "Road", "Horror"
         ],
         "cr": "4",
         "fightingstyle": [
-          "Melee", "Venomous", "Ambusher"
+          "Melee", "Pack", "Ambusher"
         ],
         "movement": ["Walk"], "Climb"],
         "purpose": ["Damage","Debuff"],
@@ -1420,11 +1420,11 @@
       "name": "Spider Skin 8",
       "properties": {
         "biom": [
-          "Cave", "Forest", "Underdark"
+          "Cave", "Forest","Underground", "Dungeon", "Wilderness", "Catacomb", "Ruins", "Road", "Horror"
         ],
         "cr": "4",
         "fightingstyle": [
-          "Melee", "Venomous", "Ambusher"
+          "Melee", "Pack", "Ambusher"
         ],
         "movement": ["Walk"], "Climb"],
         "purpose": ["Damage","Debuff"],
@@ -1446,18 +1446,18 @@
       }
     },
     "019_reef_keeper": {
-      "description": "",
+      "description": "Reef Keepers manifest around hydrothermal vents and venture the sea bed in search of untouched subnautic ecosystems like lush coral reefs or kelp forests, where they guard the native lifeforms against invasive species or destructive unnatural forces. Their true form is hard to discern, as they are overgrown with a thick crust of mineral-rich sediment. This crust acts both as natural armor, as well as a rich source of nutrients for nearby flora and fauna. Reef Keepers are usually docile, but if they consider their chosen protectorate endangered they make use of a vast arsenal of exotic defensive capabilities",
       "name": "Reef Keeper",
       "properties": {
         "biom": [
-          "Any"
+          "Ocean", "Coastal"
         ],
         "cr": "2",
         "fightingstyle": [
-          "Any"
+          "Simple"
         ],
         "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "purpose": ["Support", "Ally"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-55213338",
         "size": "Medium",
         "stat_ac": 10,
@@ -1476,7 +1476,7 @@
       }
     },
     "020_grimgheist": {
-      "description": "",
+      "description": "Grimgheists are soul-constructs fashioned from murderous and vengeful souls by particularly ruthless practicers of dark and forbidden arts. Driven by an innate thirst for murder and furtherly incited by their creators, the Grimgheist are tasked to either haunt a specific target or to just wreak havoc among the enemies of its master. As they can effortlessly travel between the profane and the ethereal world, they make for efficient assassins, being able to materialize infront of their hapless target and unleash horrible acts of violence upon it, fueled by pure hatred for the living.",
       "name": "Grimgheist",
       "properties": {
         "biom": [
@@ -1484,10 +1484,10 @@
         ],
         "cr": "6",
         "fightingstyle": [
-          "Any"
+          "Melee", "Interactive", "Mobile" 
         ],
         "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "purpose": ["Hunter", "Damage"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-55495677",
         "size": "Medium",
         "stat_cha": 16,
@@ -1499,24 +1499,24 @@
         "stat_wis": 12,
         "thumbnail": "020_grimgheist-idle_face_still.webp",
         "type": [
-			"Undead", "Spirit"
+			"Construct", "Etheral"
         ],
         "videourl": "https://youtu.be/QiNEu3NUXwQ"
       }
     },
     "021_ghoul_wretchling": {
-      "description": "",
+      "description": "The scratching and scrawling noises of Ghoul Wretchlings in the walls and under the floor boards herald an incoming Ghoul Invasion. In the following nights people disappear from the streets or the safety of their homes, overwhelmed and paralyzed by  swarms of the scrawny Ghoul Wretchlings, before being dragged to the underground lairs as nourishment for the advancing main force of ghoulish invaders.",
       "name": "Ghoul Wretchling",
       "properties": {
         "biom": [
-          "Any"
+          "Dungeon", "Ruins", "Catacomb", "Horror", "Underground",
         ],
         "cr": "1",
         "fightingstyle": [
-          "Any"
+          "Abusher", "Simple", "Pack"
         ],
-        "movement": ["Walk"], "Fly"],
-        "purpose": ["Placeholder"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-55799053",
         "size": "Small",
         "stat_cha": 2,
@@ -1534,18 +1534,18 @@
       }
     },
     "022_orc_shaman": {
-      "description": "",
+      "description": "Shamans are the spiritual leaders of an orc warhost. They maintain the moral of the troops by conducting bonding rituals and are generally tasked with a wide array of ceremonial duties. Even though they are feared and respected, Shamans often are outsiders, as their reclusive nature and connection to the spiritual world warps them into capricious eccentrics. Most Shamans are not bound to any host, as their true loyalty lies with the shamanistic covens they belong to, often only supporting a host chief when their reign of terror furthers the Shamans own, often concealed, agenda. In combat, Shamans are fearsome opponents who may call upon forces of nature to bring their enemies to their knees. They are able to call upon aid from beyond the grave and inspire the troops surrounding them to fight even harder, as they feel their ancestor's gaze upon them.",
       "name": "Orc Shaman",
       "properties": {
         "biom": [
-          "Any"
+          "Dungeon", "Ruins", "Wilderness", "Forest", "Wasteland", "Road" 
         ],
         "cr": "6",
         "fightingstyle": [
-          "Any"
+          "Spellcasting", "Interactive", "Tactical"
         ],
         "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "purpose": ["Support","Leader"],
         "releaseurl": "https://www.patreon.com/posts/orc-shaman-56073315",
         "size": "Medium",
         "stat_cha": 14,
@@ -1563,18 +1563,18 @@
       }
     },
     "023_orc_warchief": {
-      "description": "",
+      "description": "The Warchief is the single greatest authority within the ranks of a war host - an inspiring, or at least intimidating, leader, a successful commander and a powerful warrior. If they set foot onto a battlefield, their troops throw themselves every more recklessly at the enemy ranks, seeking the approval of their sovereign. Every trace of weakness must purged and every defeat could spell doom for an aspiring conqueror. This realisation often leaves War Chiefs paranoid and choleric, while their constant need to prove their might and tactical acumen drives them to ever greater bloodshed and destruction.",
       "name": "Orc Warchief",
       "properties": {
         "biom": [
-          "Any"
+          "Dungeon", "Ruins", "Wilderness", "Forest", "Wasteland", "Road"
         ],
         "cr": "7",
         "fightingstyle": [
-          "Any"
+          "Tactical", "Interactive", "Leader"
         ],
         "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "purpose": ["Leader","Support","Damage"],
         "releaseurl": "https://www.patreon.com/posts/orc-warchief-and-56356150",
         "size": "Medium",
         "stat_cha": 16,
@@ -1592,18 +1592,18 @@
       }
     },
     "024_kentauros": {
-      "description": "",
+      "description": "Where the azure sky and the lush green of viridian grasslands meet, the Kentauroi reign without equal. They are the undisputed lords of vast plains, steppes, taigas or savannahs. Being nomadic and reclusive, most live in tribal herd-clans, eternally roaming the sacred lands of their forebearers. But there are tales from the eastern fringes, describing hordes of Kentauroi coming together under the banners of a Great Khan, blocking out the skies with thousands of arrows and grinding villages, armies and fortress gates into the dust below their hooves.",
       "name": "Kentauros",
       "properties": {
         "biom": [
-          "Any"
+          "Wilderness", "Road"
         ],
         "cr": "4",
         "fightingstyle": [
-          "Any"
+          "Mobile", "Ranged"
         ],
         "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "purpose": ["Damage", "Pressure"],
         "releaseurl": "https://www.patreon.com/posts/centaur-56629774",
         "size": "Large",
         "stat_cha": 8,
@@ -1615,13 +1615,13 @@
         "stat_wis": 14,
         "thumbnail": "024_kentauros-idle_face_still.webp",
         "type": [
-			"Humanoid", "Centaur"
+			"Humanoid", "Centaur", "Demi-Human"
         ],
         "videourl": "https://youtu.be/QYWFEbCk5Eg"
       }
     },
     "025_trained_archer_1": {
-      "description": "",
+      "description": "Ranger, hunters or city guards standing watch on battlements or rooftops - the Trained Archer is a stand-in for every man and woman well versed in the art of the bow. They are capable sharpshooters and can be relied upon in the heat of battle, an ambush or even an assassination. With the weaker members of a party threatened with a barrage of arrows, an organized unit of Trained Archers makes for a flexible and deadly force, leading to a complex and tactical encounter for a low or even mid-level party.",
       "name": "Trained Archer Skin 1",
       "properties": {
         "biom": [
@@ -1629,10 +1629,10 @@
         ],
         "cr": "2",
         "fightingstyle": [
-          "Any"
+          "Ranged",  "Simple"
         ],
         "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "purpose": ["Damage", "Hunter"],
         "releaseurl": "https://www.patreon.com/posts/trained-archer-56943791",
         "size": "Medium",
         "stat_cha": 11,
@@ -1650,7 +1650,7 @@
       }
     },
     "025_trained_archer_2": {
-      "description": "",
+      "description": "Ranger, hunters or city guards standing watch on battlements or rooftops - the Trained Archer is a stand-in for every man and woman well versed in the art of the bow. They are capable sharpshooters and can be relied upon in the heat of battle, an ambush or even an assassination. With the weaker members of a party threatened with a barrage of arrows, an organized unit of Trained Archers makes for a flexible and deadly force, leading to a complex and tactical encounter for a low or even mid-level party.",
       "name": "Trained Archer Skin 2",
       "properties": {
         "biom": [
@@ -1658,10 +1658,10 @@
         ],
         "cr": "2",
         "fightingstyle": [
-          "Any"
+          "Ranged", "Simple" 
         ],
         "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "purpose": ["Damage", "Hunter"],
         "releaseurl": "https://www.patreon.com/posts/trained-archer-56943791",
         "size": "Medium",
         "stat_cha": 11,
@@ -1679,7 +1679,7 @@
       }
     },
     "025_trained_archer_3": {
-      "description": "",
+      "description": "Ranger, hunters or city guards standing watch on battlements or rooftops - the Trained Archer is a stand-in for every man and woman well versed in the art of the bow. They are capable sharpshooters and can be relied upon in the heat of battle, an ambush or even an assassination. With the weaker members of a party threatened with a barrage of arrows, an organized unit of Trained Archers makes for a flexible and deadly force, leading to a complex and tactical encounter for a low or even mid-level party.",
       "name": "Trained Archer Skin 3",
       "properties": {
         "biom": [
@@ -1687,10 +1687,10 @@
         ],
         "cr": "2",
         "fightingstyle": [
-          "Any"
+          "Ranged", "Simple"
         ],
         "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "purpose": ["Damage", "Hunter"],
         "releaseurl": "https://www.patreon.com/posts/trained-archer-56943791",
         "size": "Medium",
         "stat_cha": 11,
