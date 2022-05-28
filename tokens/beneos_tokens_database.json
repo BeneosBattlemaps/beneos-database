@@ -250,7 +250,7 @@
       "name": "Aspect of Gluttony",
       "properties": {
         "biom": [
-          "Lair", "Abyssal", 
+          "Lair", "Abyssal"
         ],
         "cr": "1",
         "fightingstyle": [
@@ -916,7 +916,7 @@
         "fightingstyle": [
           "Airborne", "Pack", "AoE"
         ],
-        "movement": ["Walk"], "Fly"],
+        "movement": ["Walk", "Fly"],
         "purpose": ["Damage", "Minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-53489969",
         "size": "Medium",
@@ -944,10 +944,10 @@
         ],
         "cr": "19",
         "fightingstyle": [
-          "Airborne",  "Interactive",  "Lethal",
+          "Airborne",  "Interactive",  "Lethal"
         ],
-        "movement": ["Walk"], "Fly"],
-        "purpose": ["Boss",  "Pressure", "Damage",],
+        "movement": ["Walk", "Fly"],
+        "purpose": ["Boss",  "Pressure", "Damage"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-53778634",
         "size": "grg",
         "stat_ac": 20,
@@ -1216,7 +1216,7 @@
         "fightingstyle": [
           "Melee", "Pack", "Ambusher"
         ],
-        "movement": ["Walk"], "Climb"],
+        "movement": ["Walk", "Climb"],
         "purpose": ["Damage","Debuff"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
         "size": "Large",
@@ -1246,7 +1246,7 @@
         "fightingstyle": [
           "Melee", "Pack", "Ambusher"
         ],
-        "movement": ["Walk"], "Climb"],
+        "movement": ["Walk", "Climb"],
         "purpose": ["Damage","Debuff"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
         "size": "Large",
@@ -1276,7 +1276,7 @@
         "fightingstyle": [
           "Melee", "Pack", "Ambusher"
         ],
-        "movement": ["Walk"], "Climb"],
+        "movement": ["Walk", "Climb"],
         "purpose": ["Damage","Debuff"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
         "size": "Large",
@@ -1306,7 +1306,7 @@
         "fightingstyle": [
           "Melee", "Pack", "Ambusher"
         ],
-        "movement": ["Walk"], "Climb"],
+        "movement": ["Walk", "Climb"],
         "purpose": ["Damage","Debuff"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
         "size": "Large",
@@ -1336,7 +1336,7 @@
         "fightingstyle": [
           "Melee", "Pack", "Ambusher"
         ],
-        "movement": ["Walk"], "Climb"],
+        "movement": ["Walk", "Climb"],
         "purpose": ["Damage","Debuff"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
         "size": "Large",
@@ -1366,7 +1366,7 @@
         "fightingstyle": [
           "Melee", "Pack", "Ambusher"
         ],
-        "movement": ["Walk"], "Climb"],
+        "movement": ["Walk", "Climb"],
         "purpose": ["Damage","Debuff"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
         "size": "Large",
@@ -1396,7 +1396,7 @@
         "fightingstyle": [
           "Melee", "Pack", "Ambusher"
         ],
-        "movement": ["Walk"], "Climb"],
+        "movement": ["Walk", "Climb"],
         "purpose": ["Damage","Debuff"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
         "size": "Large",
@@ -1426,7 +1426,7 @@
         "fightingstyle": [
           "Melee", "Pack", "Ambusher"
         ],
-        "movement": ["Walk"], "Climb"],
+        "movement": ["Walk", "Climb"],
         "purpose": ["Damage","Debuff"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
         "size": "Large",
@@ -1509,7 +1509,7 @@
       "name": "Ghoul Wretchling",
       "properties": {
         "biom": [
-          "Dungeon", "Ruins", "Catacomb", "Horror", "Underground",
+          "Dungeon", "Ruins", "Catacomb", "Horror", "Underground"
         ],
         "cr": "1",
         "fightingstyle": [
@@ -3232,7 +3232,7 @@
         "fightingstyle": [
           "Any"
         ],
-        "movement": ["Walk"],"Fly"],
+        "movement": ["Walk","Fly"],
         "purpose": ["Placeholder"],
         "releaseurl": "https://www.patreon.com/posts/stormwyvern-63841777",
         "size": "Large",
