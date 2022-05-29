@@ -3637,6 +3637,60 @@
         ],
         "videourl": ""
     }
+	},
+	 "059_gladiator_retiarius": {
+      "description": "Dummy Description",
+      "name": "Vrubel",
+      "properties": {
+        "biom": ["Dummy Biom"],
+        "cr": "5",
+        "fightingstyle": ["Dummy Style 1", "Dummy Style 2"],
+        "movement": ["Dummy movement"],
+        "purpose": ["Dummy Purpose 1","Dummy Purpose 2"],
+        "releaseurl": "",
+        "size": "Dummy Size",
+        "stat_ac": 14,
+        "stat_cha": 16,
+        "stat_con": 14,
+        "stat_dex": 13,
+        "stat_hp": 63,
+        "stat_int": 6,
+        "stat_str": 16,
+        "stat_wis": 10,
+        "thumbnail": "058_vrubel-idle_face_still.webp",
+        "type": [
+          "Dummy Type",
+          "Dummy SubType"
+        ],
+        "videourl": ""
+    }
+	},
+	 "059_gladiator_murmillo": {
+      "description": "Dummy Description",
+      "name": "Vrubel",
+      "properties": {
+        "biom": ["Dummy Biom"],
+        "cr": "5",
+        "fightingstyle": ["Dummy Style 1", "Dummy Style 2"],
+        "movement": ["Dummy movement"],
+        "purpose": ["Dummy Purpose 1","Dummy Purpose 2"],
+        "releaseurl": "",
+        "size": "Dummy Size",
+        "stat_ac": 14,
+        "stat_cha": 16,
+        "stat_con": 14,
+        "stat_dex": 13,
+        "stat_hp": 63,
+        "stat_int": 6,
+        "stat_str": 16,
+        "stat_wis": 10,
+        "thumbnail": "058_vrubel-idle_face_still.webp",
+        "type": [
+          "Dummy Type",
+          "Dummy SubType"
+        ],
+        "videourl": ""
+    }
 	}
   },
   "id": "beneos_tokens_database",
