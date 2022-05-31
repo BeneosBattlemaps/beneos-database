@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "beneos_battlemaps_database",
   "type": "battlemap",
   "version": "0.1.0",
@@ -37,7 +37,7 @@
           "outside"
         ],
         "brightness": "medium",
-        "grid": "none",
+        "grid": "None",
         "pack": "Fantasy Cave",
         "releaseurl": "https://www.patreon.com/posts/pack-1-crystal-41209963",
         "sibling": "01-01_Cave_Entrance-4K_Battlemap",
@@ -79,7 +79,7 @@
           "inside"
         ],
         "brightness": "dark",
-        "grid": "none",
+        "grid": "None",
         "pack": "Scifi_2",
         "releaseurl": "https://www.patreon.com/posts/pack-7-sci-fi-41213163",
         "sibling": "07-01_Scifi_Base_1-4K_Battlemap",
@@ -121,12 +121,132 @@
           "inside"
         ],
         "brightness": "dark",
-        "grid": "none",
+        "grid": "None",
         "pack": "Castle Ravenloft",
         "releaseurl": "https://www.patreon.com/posts/pack-25-curse-of-53809027",
         "sibling": "25-01_Ravenloft_B1_Servants_Hall-4K_Battlemap",
         "type": "scenery",
         "videourl": "https://www.youtube.com/watch?v=zsZ7PgGp4NI"
+      }
+     },
+    "45-01_Vallaki_Church_1F-4K_BM": {
+       "name": "Vallaki Church 1F",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Graves", "Dungeon"],
+         "brightness": "Dark",
+         "grid": "32x18",
+         "pack": "45_CoS_St_Andrals_Church",
+         "releaseurl": "",
+         "sibling": "45-01_Vallaki_Church_1F-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "45-01_Vallaki_Church_1F-4K_Scen": {
+       "name": "Vallaki Church 1F",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Graves", "Dungeon"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "45_CoS_St_Andrals_Church",
+         "releaseurl": "",
+         "sibling": "45-01_Vallaki_Church_1F-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "45-02_Vallaki_Church_2F-4K_BM": {
+       "name": "Vallaki Church 2F",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Graves", "Dungeon"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "45_CoS_St_Andrals_Church",
+         "releaseurl": "",
+         "sibling": "45-02_Vallaki_Church_2F-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "45-02_Vallaki_Church_2F-4K_Scen": {
+       "name": "Vallaki Church 2F",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Graves", "Dungeon"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "45_CoS_St_Andrals_Church",
+         "releaseurl": "",
+         "sibling": "45-02_Vallaki_Church_2F-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "45-03_Vallaki_Church_3F-4K_BM": {
+       "name": "Vallaki Church 3F",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Graves", "Dungeon"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "45_CoS_St_Andrals_Church",
+         "releaseurl": "",
+         "sibling": "45-03_Vallaki_Church_3F-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "45-03_Vallaki_Church_3F-4K_Scen": {
+       "name": "Vallaki Church 3F",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Graves", "Dungeon"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "45_CoS_St_Andrals_Church",
+         "releaseurl": "",
+         "sibling": "45-03_Vallaki_Church_3F-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "45-04_Vallaki_Church_B1-4K_BM": {
+       "name": "Vallaki Church B1",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Graves", "Dungeon"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "45_CoS_St_Andrals_Church",
+         "releaseurl": "",
+         "sibling": "45-04_Vallaki_Church_B1-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "45-04_Vallaki_Church_B1-4K_Scen": {
+       "name": "Vallaki Church B1",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Graves", "Dungeon"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "45_CoS_St_Andrals_Church",
+         "releaseurl": "",
+         "sibling": "45-04_Vallaki_Church_B1-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
       }
     }
   }
