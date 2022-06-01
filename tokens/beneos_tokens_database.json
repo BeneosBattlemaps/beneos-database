@@ -3612,10 +3612,10 @@
       }
     },
     "058_vrubel": {
-      "description": "Dummy Description",
+      "description": "Braying flocks of Vrubel cloud the multicoloured skies of the Abyss, their harrowing shrieks unnaturally reveberating through the twisted landscapes of madness. A gathering of Vrubel forms a choir, each of their voices intertwining into the abyssal dirge, a maddening song capable of twisting and breaking the minds of even the most stalwart individuals. The abyssal choirs act as demonic envoys, transmitting messages for higher demons to other planes of existence, carrying with them the innate chaos of the Abyss.",
       "name": "Vrubel",
       "properties": {
-        "biom": ["Dummy Biom"],
+        "biom": ["Abyssal"],
         "cr": "5",
         "fightingstyle": ["Dummy Style 1", "Dummy Style 2"],
         "movement": ["Dummy movement"],
@@ -3639,59 +3639,8 @@
     }
 	},
 	 "059_gladiator_retiarius": {
-      "description": "Dummy Description",
-      "name": "Vrubel",
-      "properties": {
-        "biom": ["Dummy Biom"],
-        "cr": "5",
-        "fightingstyle": ["Dummy Style 1", "Dummy Style 2"],
-        "movement": ["Dummy movement"],
-        "purpose": ["Dummy Purpose 1","Dummy Purpose 2"],
-        "releaseurl": "",
-        "size": "Dummy Size",
-        "stat_ac": 14,
-        "stat_cha": 16,
-        "stat_con": 14,
-        "stat_dex": 13,
-        "stat_hp": 63,
-        "stat_int": 6,
-        "stat_str": 16,
-        "stat_wis": 10,
-        "thumbnail": "058_vrubel-idle_face_still.webp",
-        "type": [
-          "Dummy Type",
-          "Dummy SubType"
-        ],
-        "videourl": ""
-    }
-	},
-	 "059_gladiator_murmillo": {
-      "description": "Dummy Description",
-      "name": "Vrubel",
-      "properties": {
-        "biom": ["Dummy Biom"],
-        "cr": "5",
-        "fightingstyle": ["Dummy Style 1", "Dummy Style 2"],
-        "movement": ["Dummy movement"],
-        "purpose": ["Dummy Purpose 1","Dummy Purpose 2"],
-        "releaseurl": "",
-        "size": "Dummy Size",
-        "stat_ac": 14,
-        "stat_cha": 16,
-        "stat_con": 14,
-        "stat_dex": 13,
-        "stat_hp": 63,
-        "stat_int": 6,
-        "stat_str": 16,
-        "stat_wis": 10,
-        "thumbnail": "058_vrubel-idle_face_still.webp",
-        "type": [
-          "Dummy Type",
-          "Dummy SubType"
-    },
-    "059_gladiator_dimachaerus": {
-      "description": "Test Description",
-      "name": "Gladiator Dimachaerus",
+      "description": "Gladiators are grouped into different types, varying heavily in both fighting style and equipment. Certain types of Gladiator exclusively fight their respective counterpart, each fight resembling a deadly choreography studied to perfection. Retiarius and Murmillo exclusively duel each other, both of their skills honed to overcome the other. The Retiarius is a flink-footed and more lightly armoured fighter who nimbly evades their more heavily armoured opponent, only to artfully entangle them with their net and set up the perfect thrust from their trident.",
+      "name": "Gladiator Retiarius",
       "properties": {
         "biom": ["City", "Civilized" ],
         "cr": "5",
@@ -3701,7 +3650,61 @@
         "releaseurl": "",
         "size": "Medium",
         "stat_ac": 16,
+        "stat_cha": 15,
+        "stat_con": 16,
+        "stat_dex": 17,
+        "stat_hp": 123,
+        "stat_int": 10,
+        "stat_str": 16,
+        "stat_wis": 10,
+        "thumbnail": "059_gladiator_retiarius-idle_face_still.webp",
+        "type": [
+          "Humanoid",
+          "Human"
+        ],
+        "videourl": ""
+    }
+	},
+	 "059_gladiator_murmillo": {
+      "description": "The brutish Murmillo however is recruited from the ranks of the most steadfast fighters, almost impossible to topple and capable of withstanding tremendous punishment. Both are evenly matched and capable of holding the audience's attention with their taunts and flourishes, their signature maneuvers and lethal finishers.",
+      "name": "Gladiator Murmillo",
+      "properties": {
+        "biom": ["City", "Civilized" ],
+        "cr": "5",
+        "fightingstyle": ["Melee", "Tactical"],
+        "movement": ["Walk"],
+        "purpose": ["Tank","Duelist"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 17,
         "stat_cha": 14,
+        "stat_con": 18,
+        "stat_dex": 13,
+        "stat_hp": 154,
+        "stat_int": 10,
+        "stat_str": 20,
+        "stat_wis": 13,
+        "thumbnail": "059_gladiator_murmillo-idle_face_still.webp",
+        "type": [
+          "Humanoid",
+          "Human"
+		],
+        "videourl": ""
+	}	
+    },
+    "059_gladiator_dimachaerus": {
+      "description": "The Dimachaerus is the diva of the arena, a master duelist who captivates the audience with artistic bladework and dizzying acrobatics. Fluidly switching between offensive and defensive fighting styles, the Dimachaerus prides themself on their ability to face any opponent, capable of outmaneuvering both the nimble Retiarius and outfighting the towering Murmillo. But a Dimachaerus balances on a knife's edge, any misstep in their complex choreography will be punished by their opponents - and the fickle audience, its favour as easily withdrawn as it is granted.",
+      "name": "Gladiator Dimachaerus",
+      "properties": {
+        "biom": ["City", "Civilized" ],
+        "cr": "5",
+        "fightingstyle": ["Melee", "Tactical"],
+        "movement": ["Walk"],
+        "purpose": ["Hunter","Duelist"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 15,
         "stat_con": 16,
         "stat_dex": 18,
         "stat_hp": 123,
@@ -3719,4 +3722,4 @@
   "id": "beneos_tokens_database",
   "type": "token",
   "version": "1.0.3"
-}
+}}
