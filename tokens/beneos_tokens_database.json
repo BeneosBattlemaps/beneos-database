@@ -3615,7 +3615,7 @@
       "description": "Braying flocks of Vrubel cloud the multicoloured skies of the Abyss, their harrowing shrieks unnaturally reveberating through the twisted landscapes of madness. A gathering of Vrubel forms a choir, each of their voices intertwining into the abyssal dirge, a maddening song capable of twisting and breaking the minds of even the most stalwart individuals. The abyssal choirs act as demonic envoys, transmitting messages for higher demons to other planes of existence, carrying with them the innate chaos of the Abyss.",
       "name": "Vrubel",
       "properties": {
-        "biom": ["Abyssal"],
+        "biom": ["Abyssal","Dungeon"],
         "cr": "5",
         "fightingstyle": ["Pack", "Airborne"],
         "movement": ["Fly", "Walk"],
