@@ -3617,11 +3617,11 @@
       "properties": {
         "biom": ["Abyssal"],
         "cr": "5",
-        "fightingstyle": ["Dummy Style 1", "Dummy Style 2"],
-        "movement": ["Dummy movement"],
-        "purpose": ["Dummy Purpose 1","Dummy Purpose 2"],
-        "releaseurl": "",
-        "size": "Dummy Size",
+        "fightingstyle": ["Pack", "Airborne"],
+        "movement": ["Fly", "Walk"],
+        "purpose": ["Debuff"],
+        "releaseurl": "https://www.patreon.com/posts/vrubel-66888868",
+        "size": "Large",
         "stat_ac": 14,
         "stat_cha": 16,
         "stat_con": 14,
@@ -3632,10 +3632,10 @@
         "stat_wis": 10,
         "thumbnail": "058_vrubel-idle_face_still.webp",
         "type": [
-          "Dummy Type",
-          "Dummy SubType"
+          "Fiend",
+          "Demon"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/68jgFqPApqg"
     }
 	},
 	 "059_gladiator_retiarius": {
