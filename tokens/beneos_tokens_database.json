@@ -2984,7 +2984,7 @@
       }
     },
     "040_ossian_debt_collector": {
-      "description": "",
+      "description": "The Debt Collectors are operatives of the Ossian Bank, tasked with tracking and retrieving especially elusive debtors. Despite their harrowing appearance, Ossian Debt Collectors are courteous and sophisticated negotiators, blessed with the endless patience of the undead and prodigious language skills. When approaching a debtor, they initially aim on settling things amicably, politely asking the transient debtor to accompany them to the Ossian Bank to stand before the Tribunal. When met with unreasonableness or hostility, the Debt Collectors begrudgingly change tactics in favour of more direct means of apprehension. It is unclear if their skeletal appearance reflects a Collector's true being or if it only appears as such to their targets, combining two of the things mortals fear most: death and tax collectors.",
       "name": "Ossian Debt Collector",
       "properties": {
         "biom": [
@@ -2992,13 +2992,13 @@
         ],
         "cr": "7",
         "fightingstyle": [
-          "Any"
+          "Tactical", "Interactive", "Demanding"
         ],
         "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "purpose": ["Hunter","Anti Caster"],
         "releaseurl": "https://www.patreon.com/posts/ossian-debt-61274297",
         "size": "Medium",
-        "stat_ac": 10,
+        "stat_ac": 18,
         "stat_cha": 18,
         "stat_con": 17,
         "stat_dex": 13,
@@ -3014,22 +3014,22 @@
       }
     },
     "041_elephant": {
-      "description": "",
+      "description": "Elephants are intelligent, social and awe-inspiring creatures inhabiting savannahs, jungles and deserts of countless realms. Many cultures consider them sacred, recognizing the gentle soul of a towering, but kind creature through their caring eyes. Elephants can coexist with many different folks, acting as support for the workforce or as devastating living siege weapons in warfare. Killing wild elephants however may draw the ire of its relatives and enraged elephants are able to tear down a settlement brick by brick, if so inclined.",
       "name": "Elephant",
       "properties": {
         "biom": [
-          "Any"
+          "Wilderness", "Forest", "Wasteland", "Desert", "Coastal", "Desert", "Civilised"
         ],
         "cr": "5",
         "fightingstyle": [
-          "Any"
+          "Charge", "Simple", "Melee"
         ],
         "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "purpose": ["Damage", "Mount"],
         "releaseurl": "https://www.patreon.com/posts/elephant-61535194",
         "size": "Huge",
-        "stat_ac": 10,
-        "stat_cha": 6,
+        "stat_ac": 12,
+        "stat_cha": 8,
         "stat_con": 17,
         "stat_dex": 9,
         "stat_hp": 76,
@@ -3044,21 +3044,21 @@
       }
     },
     "042_mournbride": {
-      "description": "",
+      "description": "Mournbrides are the tortured souls of women dying a violent death on what was promised to be the happiest day of their lifes: their wedding day. Great tragedy usually surrounds a Mournbride's ermergence, like murder at the hands of a jealous rival or the taking of ones own life after being left at the altar. Still wrapped in the tattered and blood splattered remains of their wedding gowns, Mournbrides haunt places of great significance to the departed individual, like their family home, wedding venue or secret a meeting place with their former beloved. If their would-be spouse is still alive, the Mournbride will jealously watch over them, often causing more harm than good in their twisted need to protect them.",
       "name": "Mournbride",
       "properties": {
         "biom": [
-          "Any"
+          "Horror", "Civilised", "Ruins", "Dungeon", "City", "Graves"
         ],
         "cr": "4",
         "fightingstyle": [
-          "Any"
+          "Demanding", "Shock"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["Fly"],
+        "purpose": ["Debuff", "Gimmick"],
         "releaseurl": "https://www.patreon.com/posts/mournbride-62015180",
         "size": "Medium",
-        "stat_ac": 10,
+        "stat_ac": 12,
         "stat_cha": 16,
         "stat_con": 13,
         "stat_dex": 14,
@@ -3074,21 +3074,21 @@
       }
     },
     "043_mind_golem": {
-      "description": "",
+      "description": "Mind Golems are enforcer-creatures crafted by Wizard councils, a mighty body shaped from synthetic flesh imbued with a powerful vat-grown brain, designed to contain the councils Mindmeld. A Mindmeld is psychic amalgamation of the wizards intellect and arcane potential, directly channeling their might and will into their creation, allowing it to act more independently than other forms of Golems. Their fused psyches birth new independent thought slaved to their will, which makes Mind Golems highly intelligent and capable of stratetic planning and tactical acumen. This, paired with their enourmous strength and innate magic abilities, makes for a truly dangerous living weapon, capable of completing the most daring operations for their masters.",
       "name": "Mind Golem",
       "properties": {
         "biom": [
-          "Any"
+          "Civilised", "City", "Dungeon", "Horror", "Road", "Lair"
         ],
         "cr": "16",
         "fightingstyle": [
-          "Any"
+          "Demanding", "Tactical", "Spellcasting"
         ],
         "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "purpose": ["Bodyguard", "Damage", "Pressure"],
         "releaseurl": "https://www.patreon.com/posts/mind-golem-62285535",
         "size": "Large",
-        "stat_ac": 10,
+        "stat_ac": 16,
         "stat_cha": 11,
         "stat_con": 20,
         "stat_dex": 10,
@@ -3104,21 +3104,21 @@
       }
     },
     "044_amygdalyan": {
-      "description": "",
+      "description": "Amygdalyan are predators from beyond the thin veil separating reality from the infinite ocean of madness beyond. They are drawn to trauma and tragedy like moths to a flame, first appearing in the dreams of their chosen victim, before infiltrating their mind, driving their hosts to bouts of insanity and paranoia before destroying their psyche and moving on, their perverse hunger seated for the time being. If cornered, an Amygdalyan is a cunning and perfidioius foe, using it enemies' greatest fears against them and until they perish from the strain the constant terror puts on their body and mind.",
       "name": "Amygdalyan",
       "properties": {
         "biom": [
-          "Any"
+          "Horror", "Planar", "Dungeon", "Dungeon", "Civilised", "City", "Lair"
         ],
         "cr": "7",
         "fightingstyle": [
-          "Any"
+          "Demanding", "Tactical", "Lethal"
         ],
         "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "purpose": ["Gimmick", "Debuff"],
         "releaseurl": "https://www.patreon.com/posts/amygdalyan-62903185",
         "size": "Medium",
-        "stat_ac": 10,
+        "stat_ac": 15,
         "stat_cha": 19,
         "stat_con": 12,
         "stat_dex": 16,
@@ -3130,25 +3130,25 @@
         "type": [
 			"Aberration"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/QisCqjvHD34"
       }
     },
     "045_shattermaw": {
-      "description": "",
+      "description": "Shattermaws are colossal bad-tempered monstrosities clad in nearly impenetrable osteodermic armour, consisting of bone knobs, plates and spine-like outgrows. Despite their turtle-like appearance, they appear to be an evolutionary offshoot of semi-aquatic sharks. Their thick leathery skin mirrors the swamp-green of their habitat and their cragged shells and bone protrusions become eventually overgrown by moss, algae and lichens, making Shattermaws surprisingly difficult to notice. Their diet consists of everything unlucky enough to wander in front of its eponymous maw, supplemented by anything barely resembling actual prey - including mossy logs, mid-sized boulders or small vehicles. This leads to swamps and river banks within Shattermaw territory being lined with the wreckage of skiffs or rafts displaying their signature corrosive bite marks.",
       "name": "Shattermaw",
       "properties": {
         "biom": [
-          "Any"
+          "Coastal", "Wilderness", "Forest","Lair", "Dungeon", "Desert", "Wasteland"
         ],
         "cr": "9",
         "fightingstyle": [
-          "Any"
+          "Ambusher", "Simple"
         ],
         "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "purpose": ["Damage", "Tank"],
         "releaseurl": "https://www.patreon.com/posts/shattermaw-62911527",
         "size": "Huge",
-        "stat_ac": 10,
+        "stat_ac": 19,
         "stat_cha": 6,
         "stat_con": 22,
         "stat_dex": 7,
@@ -3162,21 +3162,21 @@
       }
     },
     "046_garghoul": {
-      "description": "",
+      "description": "A variant form of the common Ghoul, its tattered wings making it capable of flight. After nightfall, Garghouls stalk the skies. They are to locate worthwile prey, alerting their swarm upon discovery. As one, the Garghouls descend, paralyzing their victims with their bite before carrying them off into the dark. If acting as part of a larger force of Ghouls under the command of a higher Ghoul unlifeform, Garghouls often form the second wave of a larger invasion, using their maddening screams to disorient their terrified victims, before the main force emerges from their hidden dwellings. Swarms of Garghouls also patrol the vast caverns of the subterran Ghoul realms, seeking out intruders and calling their pale brethren to join them in their feast.",
       "name": "Garghoul",
       "properties": {
         "biom": [
-          "Any"
+          "Dungeon", "Graves", "Horror", "Wilderness", "Road", "Forest", "Civilised", "City", "Underground", "Wasteland"
         ],
         "cr": "3",
         "fightingstyle": [
-          "Any"
+          "Airborne", "Pack", "Simple"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["Walk", "Fly"],
+        "purpose": ["Gimmick", "Minion", "Hunter"],
         "releaseurl": "https://www.patreon.com/posts/garghoul-63222139",
         "size": "Medium",
-        "stat_ac": 10,
+        "stat_ac": 14,
         "stat_cha": 6,
         "stat_con": 10,
         "stat_dex": 16,
@@ -3186,27 +3186,27 @@
         "stat_wis": 12,
         "thumbnail": "046_garghoul-idle_face_still.webp",
         "type": [
-			"Undead"
+			"Undead", "Ghoul"
         ],
         "videourl": "https://youtu.be/lfM3VpYcCgI"
       }
     },
     "047_swifttalon_raptor": {
-      "description": "",
+      "description": "Lightning fast, agile and deadly - Swifttalon Raptors showcase peak evolutionary efficiency. They hunt in small packs, stalking and outmaneuvering prey much larger than themselves. When the Raptors have their prey encircled, they first attack in waves, probing their quarry's defenses and opening up gashing wounds with their crooked talons. Lastly they overwhelm with numbers, bearing down on their exhausted prey in a flood of scales, teeth and claws.",
       "name": "Swifttalon raptor",
       "properties": {
         "biom": [
-          "Any"
+          "Wilderness", "Wasteland","Forest", "Road", "Desert", "Coastal"
         ],
         "cr": "2",
         "fightingstyle": [
-          "Any"
+          "Pack", "Ambush", "Melee"
         ],
         "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "purpose": ["Damage","Hunter"],
         "releaseurl": "https://www.patreon.com/posts/swifttalon-is-63666888",
         "size": "Medium",
-        "stat_ac": 10,
+        "stat_ac": 13,
         "stat_cha": 6,
         "stat_con": 10,
         "stat_dex": 16,
@@ -3222,21 +3222,21 @@
       }
     },
     "048_stormwyvern": {
-      "description": "",
+      "description": "An especially powerful Blue Dragon can infuse a wyvern with its arcane draconic energy, elevating it to a Stormwyvern. Stormwyverns are bestowed a semblance of their master's elemental affinity and cunning. They serve in the dragon's forces as heralds and subcommanders, their increased intelligence allowing for a rudimentary grasp on the draconic language and a crude understanding of battle tactics.",
       "name": "Stormwyvern",
       "properties": {
         "biom": [
-          "Any"
+          "Wilderness", "Lair", "Wasteland", "Mountains", "Forest", "Road", "Desert", "Coastal"
         ],
         "cr": "7",
         "fightingstyle": [
-          "Any"
+          "Airborne","AoE","Melee"
         ],
         "movement": ["Walk","Fly"],
-        "purpose": ["Placeholder"],
+        "purpose": ["Damage", "Leader","Pressure"],
         "releaseurl": "https://www.patreon.com/posts/stormwyvern-63841777",
         "size": "Large",
-        "stat_ac": 10,
+        "stat_ac": 13,
         "stat_cha": 7,
         "stat_con": 17,
         "stat_dex": 10,
@@ -3252,58 +3252,58 @@
       }
     },
     "049_poisonfang": {
-      "description": "",
+      "description": "Poison Fangs are the elite assassins of the various serpent cults infesting overgrown temple cities or infiltrating colonial societies. Promising candidates are singled out from their brood mates early on, undergoing harrowing psycho-indoctrination to increase their resistances to various poisons and toxins, hone their inherent hypnotic abilities and trigger the transformation into a even more snake-like being. Due to their unique talents they become excellent operatives, making Poison Fangs ideal tools for political assassinations, terror campaigns or insidious purges within the own ranks.",
       "name": "Poisonfang",
       "properties": {
         "biom": [
-          "Any"
+          "Forest", "Civilised", "City", "Dungen", "Ruins", "Sacral", "Wilderness", "Road"
         ],
-        "cr": "7",
+        "cr": "5",
         "fightingstyle": [
-          "Any"
+          "Mobile", "Tactical", "Predator"
         ],
-        "movement": [""],
-        "purpose": ["Placeholder"],
+        "movement": ["Walk"],
+        "purpose": ["Hunter", "Duelist"],
         "releaseurl": "https://www.patreon.com/posts/poison-fang-64208373",
-        "size": "",
-        "stat_ac": 10,
-        "stat_cha": 10,
-        "stat_con": 10,
-        "stat_dex": 10,
-        "stat_hp": 10,
-        "stat_int": 10,
-        "stat_str": 10,
-        "stat_wis": 10,
+        "size": "Medium",
+        "stat_ac": 16,
+        "stat_cha": 16,
+        "stat_con": 12,
+        "stat_dex": 18,
+        "stat_hp": 60,
+        "stat_int": 13,
+        "stat_str": 11,
+        "stat_wis": 14,
         "thumbnail": "049_poisonfang-idle_face_still.webp",
         "type": [
-			""
+			"Humanoid", "Shapeshifter"
         ],
         "videourl": "https://youtu.be/hOridEWNlvE"
       }
     },
     "050_amber_idol": {
-      "description": "",
+      "description": "Amber Idols are constructs crafted from anointed amber, fossilized resin obtained from sacred trees. While humanoid in stature and gait, their heads resemble bestial guardian spirits of old. Amber Idols are tasked with guarding hidden temples and lost sites that harbour great evil, tirelessly patrolling ancient gaols to ensure the continued confinement of the horrors sealed within.",
       "name": "Amber Idol",
       "properties": {
         "biom": [
-          "Any"
+          "Dungeon", "Ruins", "Graves", "Sacral", "Civilised", "Underground"
         ],
-        "cr": "7",
+        "cr": "10",
         "fightingstyle": [
-          "Any"
+          "Melee", "Simple"
         ],
-        "movement": [""],
-        "purpose": ["Placeholder"],
+        "movement": ["Walk"],
+        "purpose": ["Damage", "Tank"],
         "releaseurl": "https://www.patreon.com/posts/amber-idol-64420736",
-        "size": "",
-        "stat_ac": 10,
-        "stat_cha": 10,
-        "stat_con": 10,
-        "stat_dex": 10,
-        "stat_hp": 10,
-        "stat_int": 10,
-        "stat_str": 10,
-        "stat_wis": 10,
+        "size": "Large",
+        "stat_ac": 17,
+        "stat_cha": 1,
+        "stat_con": 20,
+        "stat_dex": 9,
+        "stat_hp": 178,
+        "stat_int": 3,
+        "stat_str": 22,
+        "stat_wis": 11,
         "thumbnail": "050_amber_idol-idle_face_still.webp",
         "type": [
 			"Construct", "Golem"
@@ -3312,211 +3312,211 @@
       }
     },
     "051_toxic_gobbler": {
-      "description": "",
+      "description": "Toxic as a Gobbler is a common idiom and yet it understates the danger posed by a Gobbler. Their garishly coloured, lumpy and spongy skin hides toxin glands which release a quickly evaporating colour- and odorless toxin that, upon skin contact or inhalation, leads to harrowing pain, long lasting paralysis and even death. Due to this feature, Gobblers have almost no natural predators, causing them to generally act carefree, curious and playful. This  makes them even more dangerous, as Gobblers fearlessly seek out the company of other beings to play with them - oftentimes accidently killing them in the process.  Some assume the toxicity to be a result of the Gobbler's diet, raising the question on what on earth Gobblers are eating.",
       "name": "Toxic Gobler",
       "properties": {
         "biom": [
-          "Any"
+          "Wilderness", "Forest", "Dungeon"
         ],
-        "cr": "7",
+        "cr": "2",
         "fightingstyle": [
-          "Any"
+          "Simple", "Lethal"
         ],
-        "movement": [""],
-        "purpose": ["Placeholder"],
+        "movement": ["Walk"],
+        "purpose": ["Damage", "Gimmick"],
         "releaseurl": "https://www.patreon.com/posts/toxic-gobbler-64773211",
-        "size": "",
-        "stat_ac": 10,
-        "stat_cha": 10,
-        "stat_con": 10,
-        "stat_dex": 10,
-        "stat_hp": 10,
-        "stat_int": 10,
-        "stat_str": 10,
-        "stat_wis": 10,
+        "size": "Small",
+        "stat_ac": 12,
+        "stat_cha": 7,
+        "stat_con": 12,
+        "stat_dex": 12,
+        "stat_hp": 32,
+        "stat_int": 5,
+        "stat_str": 13,
+        "stat_wis": 11,
         "thumbnail": "051_toxic_gobbler-idle_face_still.webp",
         "type": [
-			"Construct", "Golem"
+			"Monstrosity"
         ],
         "videourl": "https://youtu.be/txdC1xEC1-0"
       }
     },
     "052_wendigo_1": {
-      "description": "",
+      "description": "Wendigos plague humanoid civilization since the dawn of time. Nothing embodies the cruelty and danger of untamed wilderness as well as the Wendigo. They are the terror of the wilderness incarnate, primal fear given a gangly shape and raking claws. Their true origin remains unknown, but some cultures perceive them to be spirits of hunger and greed, possessing avaricious individuals and turning them into the ferocious predators that stalk dark woods and bleak frontiers, hunting and devouring their former kin. Wendigos are swift and silent hunters, terrifying stalkers and savage butchers, capable of outmaneuvering and outsmarting even well-armed and steadfast groups of adventurers before unleashing upon them a terrifying display of primal carnage, leaving red snow in their wake, as they adorn their hunting grounds with grisly trophies.",
       "name": "Wendigo Skin 1",
       "properties": {
         "biom": [
-          "Any"
+          "Horror", "Wilderness", "Forest", "Road", "Graves", "Ruins", "Dungeon", "Lair"
         ],
-        "cr": "7",
+        "cr": "9",
         "fightingstyle": [
-          "Any"
+          "Predator", "Shock", "Melee", "Lethal"
         ],
-        "movement": [""],
+        "movement": ["Walk", "Climb"],
         "purpose": ["Placeholder"],
         "releaseurl": "https://www.patreon.com/posts/wendigo-65132787",
-        "size": "",
-        "stat_ac": 10,
-        "stat_cha": 10,
-        "stat_con": 10,
-        "stat_dex": 10,
-        "stat_hp": 10,
-        "stat_int": 10,
-        "stat_str": 10,
-        "stat_wis": 10,
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 7,
+        "stat_con": 16,
+        "stat_dex": 18,
+        "stat_hp": 137,
+        "stat_int": 8,
+        "stat_str": 16,
+        "stat_wis": 18,
         "thumbnail": "052_wendigo_1-idle_face_still.webp",
         "type": [
-			""
+			"Monstrosity"
         ],
         "videourl": "https://youtu.be/tP_DM5pwSpA"
       }
     },
     "052_wendigo_2": {
-      "description": "",
+      "description": "Wendigos plague humanoid civilization since the dawn of time. Nothing embodies the cruelty and danger of untamed wilderness as well as the Wendigo. They are the terror of the wilderness incarnate, primal fear given a gangly shape and raking claws. Their true origin remains unknown, but some cultures perceive them to be spirits of hunger and greed, possessing avaricious individuals and turning them into the ferocious predators that stalk dark woods and bleak frontiers, hunting and devouring their former kin. Wendigos are swift and silent hunters, terrifying stalkers and savage butchers, capable of outmaneuvering and outsmarting even well-armed and steadfast groups of adventurers before unleashing upon them a terrifying display of primal carnage, leaving red snow in their wake, as they adorn their hunting grounds with grisly trophies.",
       "name": "Wendigo Skin 2",
       "properties": {
         "biom": [
-          "Any"
+          "Horror", "Wilderness", "Forest", "Road", "Graves", "Ruins", "Dungeon", "Lair"
         ],
-        "cr": "7",
+        "cr": "9",
         "fightingstyle": [
-          "Any"
+          "Predator", "Shock", "Melee", "Lethal"
         ],
-        "movement": [""],
-        "purpose": ["Placeholder"],
+        "movement": ["Walk", "Climb"],
+        "purpose": ["Damage", "Pressure", "Hunter"],
         "releaseurl": "https://www.patreon.com/posts/wendigo-65132787",
-        "size": "",
-        "stat_ac": 10,
-        "stat_cha": 10,
-        "stat_con": 10,
-        "stat_dex": 10,
-        "stat_hp": 10,
-        "stat_int": 10,
-        "stat_str": 10,
-        "stat_wis": 10,
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 7,
+        "stat_con": 16,
+        "stat_dex": 18,
+        "stat_hp": 137,
+        "stat_int": 8,
+        "stat_str": 16,
+        "stat_wis": 18,
         "thumbnail": "052_wendigo_2-idle_face_still.webp",
         "type": [
-			""
+			"Monstrosity"
         ],
         "videourl": "https://youtu.be/tP_DM5pwSpA"
       }
     },
     "052_wendigo_3": {
-      "description": "",
+      "description": "Wendigos plague humanoid civilization since the dawn of time. Nothing embodies the cruelty and danger of untamed wilderness as well as the Wendigo. They are the terror of the wilderness incarnate, primal fear given a gangly shape and raking claws. Their true origin remains unknown, but some cultures perceive them to be spirits of hunger and greed, possessing avaricious individuals and turning them into the ferocious predators that stalk dark woods and bleak frontiers, hunting and devouring their former kin. Wendigos are swift and silent hunters, terrifying stalkers and savage butchers, capable of outmaneuvering and outsmarting even well-armed and steadfast groups of adventurers before unleashing upon them a terrifying display of primal carnage, leaving red snow in their wake, as they adorn their hunting grounds with grisly trophies.",
       "name": "Wendigo Skin 3",
       "properties": {
         "biom": [
-          "Any"
+          "Horror", "Wilderness", "Forest", "Road", "Graves", "Ruins", "Dungeon", "Lair"
         ],
-        "cr": "7",
+        "cr": "9",
         "fightingstyle": [
-          "Any"
+          "Predator", "Shock", "Melee", "Lethal"
         ],
-        "movement": [""],
-        "purpose": ["Placeholder"],
+        "movement": ["Walk", "Climb"],
+        "purpose": ["Damage", "Pressure", "Hunter"],
         "releaseurl": "https://www.patreon.com/posts/wendigo-65132787",
-        "size": "",
-        "stat_ac": 10,
-        "stat_cha": 10,
-        "stat_con": 10,
-        "stat_dex": 10,
-        "stat_hp": 10,
-        "stat_int": 10,
-        "stat_str": 10,
-        "stat_wis": 10,
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 7,
+        "stat_con": 16,
+        "stat_dex": 18,
+        "stat_hp": 137,
+        "stat_int": 8,
+        "stat_str": 16,
+        "stat_wis": 18,
         "thumbnail": "052_wendigo_3-idle_face_still.webp",
         "type": [
-			""
+			"Monstrosity"
         ],
         "videourl": "https://youtu.be/tP_DM5pwSpA"
       }
     },
     "052_wendigo_4": {
-      "description": "",
+      "description": "Wendigos plague humanoid civilization since the dawn of time. Nothing embodies the cruelty and danger of untamed wilderness as well as the Wendigo. They are the terror of the wilderness incarnate, primal fear given a gangly shape and raking claws. Their true origin remains unknown, but some cultures perceive them to be spirits of hunger and greed, possessing avaricious individuals and turning them into the ferocious predators that stalk dark woods and bleak frontiers, hunting and devouring their former kin. Wendigos are swift and silent hunters, terrifying stalkers and savage butchers, capable of outmaneuvering and outsmarting even well-armed and steadfast groups of adventurers before unleashing upon them a terrifying display of primal carnage, leaving red snow in their wake, as they adorn their hunting grounds with grisly trophies.",
       "name": "Wendigo Skin 4",
       "properties": {
         "biom": [
-          "Any"
+          "Horror", "Wilderness", "Forest", "Road", "Graves", "Ruins", "Dungeon", "Lair"
         ],
-        "cr": "7",
+        "cr": "9",
         "fightingstyle": [
-          "Any"
+          "Predator", "Shock", "Melee", "Lethal"
         ],
-        "movement": [""],
-        "purpose": ["Placeholder"],
+        "movement": ["Walk", "Climb"],
+        "purpose": ["Damage", "Pressure", "Hunter"],
         "releaseurl": "https://www.patreon.com/posts/wendigo-65132787",
-        "size": "",
-        "stat_ac": 10,
-        "stat_cha": 10,
-        "stat_con": 10,
-        "stat_dex": 10,
-        "stat_hp": 10,
-        "stat_int": 10,
-        "stat_str": 10,
-        "stat_wis": 10,
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 7,
+        "stat_con": 16,
+        "stat_dex": 18,
+        "stat_hp": 137,
+        "stat_int": 8,
+        "stat_str": 16,
+        "stat_wis": 18,
         "thumbnail": "052_wendigo_4-idle_face_still.webp",
         "type": [
-			""
+			"Monstrosity"
         ],
         "videourl": "https://youtu.be/tP_DM5pwSpA"
       }
     },
     "053_magmatic_coreborn": {
-      "description": "",
+      "description": "Coreborn rise from fissures or smoldering calderas as a result of increased volcanic activity. Combining aspects of both fire and earth elementals, they differ from their kin due to their amiable disposition towards humanoids. A Magmatic Coreborn may choose to protect a village built on the slope of a volcano or at the heart of a high island, using its dominance over earth and fire to ward off both natural and unnatural disaster from their chosen people. Many Coreborn are worshipped as minor deities by their tribes, growing in power through veneration.",
       "name": "Magmatic Coreborn",
       "properties": {
         "biom": [
-          "Any"
+          "Wasteland", "Underground", "Dungeon", "Planar", "Desert", "Ocean"
         ],
-        "cr": "7",
+        "cr": "12",
         "fightingstyle": [
-          "Any"
+          "Charge", "AoE"
         ],
-        "movement": [""],
-        "purpose": ["Placeholder"],
+        "movement": ["Walk", "Burrow"],
+        "purpose": ["Damage"],
         "releaseurl": "https://www.patreon.com/posts/magmatic-65371189",
-        "size": "",
-        "stat_ac": 10,
-        "stat_cha": 10,
-        "stat_con": 10,
-        "stat_dex": 10,
-        "stat_hp": 10,
-        "stat_int": 10,
-        "stat_str": 10,
-        "stat_wis": 10,
+        "size": "Huge",
+        "stat_ac": 18,
+        "stat_cha": 7,
+        "stat_con": 24,
+        "stat_dex": 6,
+        "stat_hp": 271,
+        "stat_int": 8,
+        "stat_str": 22,
+        "stat_wis": 14,
         "thumbnail": "053_magmatic_coreborn-idle_face_still.webp",
         "type": [
-			""
+			"Elemental"
         ],
         "videourl": "https://youtu.be/fqqVRVpEHYA"
       }
     },
     "054_bog_strider": {
-      "description": "",
+      "description": "Bog Striders are large predatory insects towering on spindly legs, commonly found in swamps, marshes or the eponymous bogs. Bog Striders are attracted to their prey by ripples in the murky water, using their front legs as sensors for the vibrations. The Bog Strider aims to puncture its prey's body with its proboscis and injects acidic saliva that liquifies the innards, sucking out the resulting fluid. Due to their low intelligence and high dependency on pheromonal markings, they can be controlled with special pheromonal cocktails, making them ideal mounts for traversing wetlands.",
       "name": "Bog Strider",
       "properties": {
         "biom": [
-          "Any"
+          "Wilderness", "Wasteland"
         ],
-        "cr": "7",
+        "cr": "4",
         "fightingstyle": [
-          "Any"
+          "Melee", "Simple", "Pack"
         ],
-        "movement": [""],
-        "purpose": ["Placeholder"],
+        "movement": ["Walk"],
+        "purpose": ["Mount", "Damage"],
         "releaseurl": "https://www.patreon.com/posts/bog-strider-65662794",
-        "size": "",
-        "stat_ac": 10,
-        "stat_cha": 10,
-        "stat_con": 10,
-        "stat_dex": 10,
-        "stat_hp": 10,
-        "stat_int": 10,
-        "stat_str": 10,
+        "size": "Large",
+        "stat_ac": 14,
+        "stat_cha": 1,
+        "stat_con": 12,
+        "stat_dex": 13,
+        "stat_hp": 71,
+        "stat_int": 3,
+        "stat_str": 16,
         "stat_wis": 10,
         "thumbnail": "054_bog_strider-idle_face_still.webp",
         "type": [
-			""
+			"Beast", "Insect"
         ],
         "videourl": "https://youtu.be/zppwFyrxD0g"
       }
@@ -3619,7 +3619,7 @@
         "cr": "5",
         "fightingstyle": ["Pack", "Airborne"],
         "movement": ["Fly", "Walk"],
-        "purpose": ["Debuff"],
+        "purpose": ["Debuff", "Gimmick"],
         "releaseurl": "https://www.patreon.com/posts/vrubel-66888868",
         "size": "Large",
         "stat_ac": 14,
