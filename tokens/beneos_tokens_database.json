@@ -3522,91 +3522,91 @@
       }
     },
     "055_klabautermann": {
-      "description": "",
+      "description": "Klabautermänner are manifestations of a ships spirit, a result of a deep bond between a storied vessel and its crew. Mostly acting as an unseen force of good, when taking physical Klabautermänner love to manifest as a skeletal mariner, guiding their threatened vessel through a storm, repelling a boarding party or assisting in navigating treacherous waters. As a crew's bond and reputation grows, so does the Klabautermann's power - the mightiest of them being able to assert their control over weather and sea to prevent imminent disaster.",
       "name": "Klabautermann",
       "properties": {
         "biom": [
-          "Any"
+          "Ocean", "Coastal"
         ],
         "cr": "7",
         "fightingstyle": [
-          "Any"
+          "Spellcasting", "Tactical"
         ],
-        "movement": [""],
-        "purpose": ["Placeholder"],
+        "movement": ["Walk", "Climb", "Swim"],
+        "purpose": ["Support", "Ally"],
         "releaseurl": "https://www.patreon.com/posts/klabautermann-66017529",
-        "size": "",
-        "stat_ac": 10,
-        "stat_cha": 10,
-        "stat_con": 10,
-        "stat_dex": 10,
-        "stat_hp": 10,
-        "stat_int": 10,
-        "stat_str": 10,
-        "stat_wis": 10,
+        "size": "Medium",
+        "stat_ac": 16,
+        "stat_cha": 20,
+        "stat_con": 15,
+        "stat_dex": 16,
+        "stat_hp": 137,
+        "stat_int": 16,
+        "stat_str": 12,
+        "stat_wis": 18,
         "thumbnail": "055_klabautermann-idle_face_still.webp",
         "type": [
-			""
+			"Fey"
         ],
         "videourl": "https://youtu.be/1H_2xVLzQtw"
       }
     },
     "056_sword_guardian": {
-      "description": "",
+      "description": "Not long after the invention of the trusty Shield Guardian demand  for a more attack-oriented counterpart spiked. This lead to the development of the Sword Guardian, a more nimble, albeit less hardy construct that excels at close quarter combat. Their combat tactics can be switched at a moment's notice, making them both capable bodyguards and assertive enforcers. While their stiff movements appear predictable, incautious opponents often find themselves blocked in by an unending barrage of precise Greatsword blows. Like their defensive brother-constructs, they are valuable assets for wizards in need of some artifical muscle or wealthy merchants looking for an effective deterrent.",
       "name": "Sword Guardian",
       "properties": {
         "biom": [
-          "Any"
+          "Civilised", "City", "Dungeon", "Road"
         ],
         "cr": "7",
         "fightingstyle": [
-          "Any"
+          "Melee", "Regeneration", "Tactical"
         ],
-        "movement": [""],
-        "purpose": ["Placeholder"],
+        "movement": ["Walk"],
+        "purpose": ["Bodyguard"],
         "releaseurl": "https://www.patreon.com/posts/sword-guardian-66289434",
-        "size": "",
-        "stat_ac": 10,
-        "stat_cha": 10,
-        "stat_con": 10,
-        "stat_dex": 10,
-        "stat_hp": 10,
-        "stat_int": 10,
-        "stat_str": 10,
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 3,
+        "stat_con": 16,
+        "stat_dex": 16,
+        "stat_hp": 135,
+        "stat_int": 7,
+        "stat_str": 18,
         "stat_wis": 10,
         "thumbnail": "056_sword_guardian-idle_face_still.webp",
         "type": [
-			""
+			"Construct"
         ],
         "videourl": "https://youtu.be/NxhGJbMqvuw"
       }
     },
     "057_ridgeback_dunecrawler": {
-      "description": "",
+      "description": "Due to the spinal ougrowths on their upper shell, Ridgebacks can easily be mistaken for a cragged rock formation, especially when partially buried beneath the arid soil of their preferred habitat. They continually filter swathes of sand through gill-like structures, indiscriminately feeding on organic and non-organic matter, be it mineral deposits, plants, living creatures or dried out carcasses. A wandering or resting Ridgeback does not pose any particular danger, nomadic tribes are known to hitch a ride on a Dunecrawler's back to traverse the desert without the great beast paying them any mind. But their temper matches their size, and an angered Ridgeback resembles a force of nature, a walking mountain with titanic strength, shrouded in an ever-swirling tempest of sand.",
       "name": "Ridgeback Dunecrawler",
       "properties": {
         "biom": [
-          "Any"
+          "Wasteland", "Desert"
         ],
-        "cr": "7",
+        "cr": "17",
         "fightingstyle": [
-          "Any"
+          "Demanding", "Swallow"
         ],
-        "movement": [""],
-        "purpose": ["Placeholder"],
+        "movement": ["Walk"],
+        "purpose": ["Tank","Mount"],
         "releaseurl": "https://www.patreon.com/posts/ridgeback-66577201",
-        "size": "",
-        "stat_ac": 10,
-        "stat_cha": 10,
-        "stat_con": 10,
-        "stat_dex": 10,
-        "stat_hp": 10,
-        "stat_int": 10,
-        "stat_str": 10,
+        "size": "Gargantuan",
+        "stat_ac": 20,
+        "stat_cha": 3,
+        "stat_con": 24,
+        "stat_dex": 8,
+        "stat_hp": 320,
+        "stat_int": 6,
+        "stat_str": 25,
         "stat_wis": 10,
         "thumbnail": "057_ridgeback_dunecrawler-idle_face_still.webp",
         "type": [
-			""
+			"Monstrosity"
         ],
         "videourl": "https://youtu.be/V_Mr_R-ARpg"
       }
@@ -3718,6 +3718,7 @@
         ],
         "videourl": ""
     }
+
   },
   "id": "beneos_tokens_database",
   "type": "token",
