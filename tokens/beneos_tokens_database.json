@@ -1,4 +1,126 @@
 ﻿{
+  "tag_description": {
+    "melee": {
+      "name": "Melee",
+      "description": "This creature excels at close combat and has limited or no ranged combat capabilities."
+    },
+    "ranged": {
+      "name": "Ranged",
+      "description": "This creature attacks from afar and has limited or no melee combat capabilities."
+    },
+    "ambusher": {
+      "name": "ambusher",
+      "description": "This creature ideally starts combat from a hidden position and waits for the optimal moment to attack."
+    },
+    "airborne": {
+      "name": "airborne",
+      "description": "This creature has a flying speed and can continuously stay at a distance."
+    },
+    "charge": {
+      "name": "Charge",
+      "description": "This creature seeks close combat from the get-go and will continue to do so."
+    },
+    "predator": {
+      "name": "Predator",
+      "description": "This creature stalks its prey and will withdraw from combat to attack again later. "
+    },
+    "pack": {
+      "name": "Pack",
+      "description": "This creature is best utilized as part of a larger group of similar creatures."
+    },
+    "regeneration": {
+      "name": "Regeneration",
+      "description": "This creature has abilities allowing it to regenerate hit points during combat."
+    },
+    "mobile": {
+      "name": "Mobile",
+      "description": "This creature boasts superior speed and mobility, allowing it to quickly reposition itself or give chase to enemies. "
+    },
+    "tactical": {
+      "name": "Tactical",
+      "description": "This creature’s abilities facilitate powerful synergies, increasing its effectiveness. "
+    },
+    "shock": {
+      "name": "Shock",
+      "description": "This creature is most effective during the first turns of combat."
+    },
+    "spellcasting": {
+      "name": "Spellcasting",
+      "description": "This creature is capable of casting spells."
+    },
+    "demanding": {
+      "name": "Demanding",
+      "description": "Fighting this monster requires lots of saving throws."
+    },
+    "simple": {
+      "name": "Simple",
+      "description": "This creature excels at close combat and has limited or no ranged combat capabilities."
+    },
+    "lethal": {
+      "name": "Lethal",
+      "description": "This creature is more than capable of actually killing a player character."
+    },
+    "aoe": {
+      "name": "AoE",
+      "description": "This creature heavily utilizes >Area Of Effect< damage. "
+    },
+    "interactive": {
+      "name": "Interactive",
+      "description": "This creature utilizes a combination of abilities, actions, bonus actions and reactions."
+    },
+    "boss": {
+      "name": "Boss",
+      "description": "This creature boasts impressive stats and abilities, requiring several turns of intense combat that acts as a dramatic climax."
+    },
+    "bodyguard": {
+      "name": "Bodyguard",
+      "description": "This creature aims to protect another creature, rarely leaving its side and acting in the interest of keeping danger from it."
+    },
+    "support": {
+      "name": "Support",
+      "description": "This creature strengthens its allies, increasing their effectiveness, but poses less of a challenge on its own."
+    },
+    "tank": {
+      "name": "Tank",
+      "description": "This creature is extremely resilient, boasting a combination of a high hit point count, resistances or immunities."
+    },
+    "minion": {
+      "name": "Minion",
+      "description": "This creature is relatively harmless on its own and is best used as a meat shield."
+    },
+    "damage": {
+      "name": "Damage",
+      "description": "This creature is best utilized as a reliable source of damage."
+    },
+    "mount": {
+      "name": "Mount",
+      "description": "This creature can serve as a mount."
+    },
+    "ally": {
+      "name": "Ally",
+      "description": "This creature can act as an ally to a group of players."
+    },
+    "pressure": {
+      "name": "Pressure",
+      "description": "This creature provides unique challenges able to overwhelm its enemies. "
+    },
+    "hunter": {
+      "name": "Hunter",
+      "description": "This creature concentrates its attention on single targets."
+    },
+    "leader": {
+      "name": "Leader",
+      "description": "This creature is best utilized as the leader of a group of enemies, acting as a lynchpin for the encounter."
+    },
+    "duelist": {
+      "name": "Duelist",
+      "description": "This creature's set of abilites allows for an exciting back and forth with a single opponent. "
+    },
+    "gimmick": {
+      "name": "Gimmick",
+      "description": "This creature possesses one or more gimmicks that an encounter with this creature will revolve around."
+    }
+  },
   "content": {
     "001_vampire_beast": {
       "description": "Sometimes Vampires impart the dubious gift of spawndom upon the wrong soul, stirring primordial horrors from their sleep. These vampire spawns regress to a primal state, detached from the rules that even compel their creators, driven only by their lust for terror and agony.  Primal Spawns are beyond their unwilling creators' control and they in turn feel disdain for their more â€˜evolvedâ€™ kin. Despite not having a weakness to sunlight, they prefer the shadows, as the darkness supports their preferred hunting style. And if the right opportunity arises, a Primal Vampire Spawn will not hesitate to hunt during broad daylight to indulge in the screams of horrified onlookers.",
@@ -9,10 +131,10 @@
         ],
         "cr": "6",
         "fightingstyle": [
-          "Predator", "Demanding", "Shock"
+          "predator", "demanding", "shock"
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage", "Pressure"],
+        "purpose": ["damage", "pressure"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-51753197",
         "size": "Large",
         "stat_ac": 16,
@@ -40,10 +162,10 @@
         ],
         "cr": "20",
         "fightingstyle": [
-          "Lethal", "AoE", "Tactical"
+          "lethal", "aoe", "tactical"
         ],
         "movement": ["Walk"],
-        "purpose": ["Boss", "Pressure", "Tank"],
+        "purpose": ["boss", "pressure", "tank"],
         "releaseurl": "https://www.patreon.com/posts/boss-creature-51753486",
         "size": "Huge",
         "stat_ac": 15,
@@ -71,10 +193,10 @@
         ],
         "cr": "5",
         "fightingstyle": [
-         "Debuff", "Melee", "Interactive"
+         "Debuff", "melee", "interactive"
         ],
         "movement": ["Walk"],
-        "purpose": ["Anti Magic", "Hunter"],
+        "purpose": ["Anti Magic", "hunter"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-51753582",
         "size": "Large",
         "stat_ac": 16,
@@ -102,10 +224,10 @@
         ],
         "cr": "16",
         "fightingstyle": [
-          "Tactical", "Demanding", "Spellcasting"
+          "tactical", "demanding", "spellcasting"
         ],
         "movement": ["Walk"],
-        "purpose": ["Boss","Debuff"],
+        "purpose": ["boss","Debuff"],
         "releaseurl": "https://www.patreon.com/posts/boss-creature-51753670",
         "size": "Huge",
         "stat_ac": 17,
@@ -133,10 +255,10 @@
         ],
         "cr": "3",
         "fightingstyle": [
-          "Mobile", "Simple"
+          "mobile", "simple"
         ],
         "movement": ["Walk"],
-        "purpose": ["Minion", "Hunter"],
+        "purpose": ["minion", "hunter"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-51753769",
         "size": "Medium",
         "stat_ac": 16,
@@ -164,10 +286,10 @@
         ],
         "cr": "8",
         "fightingstyle": [
-          "Melee", "Interactive"
+          "melee", "interactive"
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage"],
+        "purpose": ["damage"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-51753864",
         "size": "Large",
         "stat_ac": 17,
@@ -194,10 +316,10 @@
         ],
         "cr": "8",
         "fightingstyle": [
-          "Melee", "Interactive"
+          "melee", "interactive"
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage"],
+        "purpose": ["damage"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-51753864",
         "size": "Large",
         "stat_ac": 17,
@@ -224,7 +346,7 @@
         ],
         "cr": "3",
         "fightingstyle": [
-          "Ambush", "Pack"
+          "Ambush", "pack"
         ],
         "movement": ["Fly"],
         "purpose": ["Debuff"],
@@ -257,7 +379,7 @@
           "Debuff"
         ],
         "movement": ["Walk"],
-        "purpose": ["Minion"],
+        "purpose": ["minion"],
         "releaseurl": "https://www.patreon.com/posts/boss-creature-51753486",
         "size": "Small",
         "stat_ac": 9,
@@ -284,10 +406,10 @@
         ],
         "cr": "2",
         "fightingstyle": [
-          "Melee"
+          "melee"
         ],
         "movement": ["Walk"],
-        "purpose": ["Minion"],
+        "purpose": ["minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52379988",
         "size": "Medium",
         "stat_ac": 14,
@@ -314,10 +436,10 @@
         ],
         "cr": "2",
         "fightingstyle": [
-          "Melee"
+          "melee"
         ],
         "movement": ["Walk"],
-        "purpose": ["Minion"],
+        "purpose": ["minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52379988",
         "size": "Medium",
         "stat_ac": 14,
@@ -344,10 +466,10 @@
         ],
         "cr": "2",
         "fightingstyle": [
-          "Melee"
+          "melee"
         ],
         "movement": ["Walk"],
-        "purpose": ["Minion"],
+        "purpose": ["minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52379988",
         "size": "Medium",
         "stat_ac": 14,
@@ -374,10 +496,10 @@
         ],
         "cr": "2",
         "fightingstyle": [
-          "Melee"
+          "melee"
         ],
         "movement": ["Walk"],
-        "purpose": ["Minion"],
+        "purpose": ["minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52379988",
         "size": "Medium",
         "stat_ac": 14,
@@ -404,10 +526,10 @@
         ],
         "cr": "2",
         "fightingstyle": [
-          "Melee"
+          "melee"
         ],
         "movement": ["Walk"],
-        "purpose": ["Minion"],
+        "purpose": ["minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52379988",
         "size": "Medium",
         "stat_ac": 14,
@@ -434,10 +556,10 @@
         ],
         "cr": "2",
         "fightingstyle": [
-          "Melee"
+          "melee"
         ],
         "movement": ["Walk"],
-        "purpose": ["Minion"],
+        "purpose": ["minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52379988",
         "size": "Medium",
         "stat_ac": 14,
@@ -464,10 +586,10 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Mobile", "Melee", "Charge"
+          "mobile", "melee", "charge"
         ],
         "movement": ["Walk"],
-        "purpose": ["Mount"],
+        "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
         "size": "Large",
         "stat_ac": 16,
@@ -494,10 +616,10 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Mobile", "Melee", "Charge"
+          "mobile", "melee", "charge"
         ],
         "movement": ["Walk"],
-        "purpose": ["Mount"],
+        "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
         "size": "Large",
         "stat_ac": 16,
@@ -524,10 +646,10 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Mobile", "Melee", "Charge"
+          "mobile", "melee", "charge"
         ],
         "movement": ["Walk"],
-        "purpose": ["Mount"],
+        "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
         "size": "Large",
         "stat_ac": 16,
@@ -554,10 +676,10 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Mobile", "Charge"
+          "melee", "mobile", "charge"
         ],
         "movement": ["Walk"],
-        "purpose": ["Mount"],
+        "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
         "size": "Large",
         "stat_ac": 16,
@@ -584,10 +706,10 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Charge", "Charge"
+          "melee", "charge", "charge"
         ],
         "movement": ["Walk"],
-        "purpose": ["Mount"],
+        "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
         "size": "Large",
         "stat_ac": 16,
@@ -614,10 +736,10 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Charge", "Mobile"
+          "melee", "charge", "mobile"
         ],
         "movement": ["Walk"],
-        "purpose": ["Mount"],
+        "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
         "size": "Large",
         "stat_ac": 16,
@@ -644,10 +766,10 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Charge", "Mobile"
+          "melee", "charge", "mobile"
         ],
         "movement": ["Walk"],
-        "purpose": ["Mount"],
+        "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
         "size": "Large",
         "stat_ac": 16,
@@ -674,10 +796,10 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Charge", "Mobile"
+          "melee", "charge", "mobile"
         ],
         "movement": ["Walk"],
-        "purpose": ["Mount"],
+        "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
         "size": "Large",
         "stat_ac": 16,
@@ -704,10 +826,10 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Charge", "Mobile"
+          "melee", "charge", "mobile"
         ],
         "movement": ["Walk"],
-        "purpose": ["Mount"],
+        "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
         "size": "Large",
         "stat_ac": 16,
@@ -734,10 +856,10 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Charge", "Mobile"
+          "melee", "charge", "mobile"
         ],
         "movement": ["Walk"],
-        "purpose": ["Mount"],
+        "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
         "size": "Large",
         "stat_ac": 16,
@@ -764,10 +886,10 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Charge", "Mobile"
+          "melee", "charge", "mobile"
         ],
         "movement": ["Walk"],
-        "purpose": ["Mount"],
+        "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
         "size": "Large",
         "stat_ac": 16,
@@ -794,10 +916,10 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Charge", "Mobile"
+          "melee", "charge", "mobile"
         ],
         "movement": ["Walk"],
-        "purpose": ["Mount"],
+        "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
         "size": "Large",
         "stat_ac": 16,
@@ -824,10 +946,10 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Charge", "Mobile"
+          "melee", "charge", "mobile"
         ],
         "movement": ["Walk"],
-        "purpose": ["Mount"],
+        "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
         "size": "Large",
         "stat_ac": 16,
@@ -854,10 +976,10 @@
         ],
         "cr": "2",
         "fightingstyle": [
-          "Melee","Interactive", "Tactical"
+          "melee","interactive", "tactical"
         ],
         "movement": ["Walk"],
-        "purpose": ["Minion", "Pack"],
+        "purpose": ["minion", "pack"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52930930",
         "size": "Medium",
         "stat_ac": 15,
@@ -884,10 +1006,10 @@
         ],
         "cr": "4",
         "fightingstyle": [
-          "Charge", "Melee", "Simple"
+          "charge", "melee", "simple"
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage","Mount"],
+        "purpose": ["damage","mount"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-53233232",
         "size": "Large",
         "stat_ac": 40,
@@ -914,10 +1036,10 @@
         ],
         "cr": "3",
         "fightingstyle": [
-          "Airborne", "Pack", "AoE"
+          "airborne", "pack", "aoe"
         ],
         "movement": ["Walk", "Fly"],
-        "purpose": ["Damage", "Minion"],
+        "purpose": ["damage", "minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-53489969",
         "size": "Medium",
         "stat_ac": 12,
@@ -944,10 +1066,10 @@
         ],
         "cr": "19",
         "fightingstyle": [
-          "Airborne",  "Interactive",  "Lethal"
+          "airborne",  "interactive",  "lethal"
         ],
         "movement": ["Walk", "Fly"],
-        "purpose": ["Boss",  "Pressure", "Damage"],
+        "purpose": ["boss",  "pressure", "damage"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-53778634",
         "size": "grg",
         "stat_ac": 20,
@@ -974,10 +1096,10 @@
         ],
         "cr": "5",
         "fightingstyle": [
-          "Melee", "Predator"
+          "melee", "predator"
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage","Hunter"],
+        "purpose": ["damage","hunter"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54042065",
         "size": "Medium",
         "stat_ac": 14,
@@ -1004,10 +1126,10 @@
         ],
         "cr": "5",
         "fightingstyle": [
-          "Melee", "Predator"
+          "melee", "predator"
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage","Hunter"],
+        "purpose": ["damage","hunter"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54042065",
         "size": "Medium",
         "stat_ac": 14,
@@ -1034,10 +1156,10 @@
         ],
         "cr": "5",
         "fightingstyle": [
-          "Melee", "Predator"
+          "melee", "predator"
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage","Hunter"],
+        "purpose": ["damage","hunter"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54042065",
         "size": "Medium",
         "stat_ac": 14,
@@ -1064,10 +1186,10 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Pack"
+          "melee", "pack"
         ],
         "movement": ["Walk"],
-        "purpose": ["Minion"],
+        "purpose": ["minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54387652",
         "size": "Medium",
         "stat_ac": 10,
@@ -1094,10 +1216,10 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Pack"
+          "melee", "pack"
         ],
         "movement": ["Walk"],
-        "purpose": ["Minion"],
+        "purpose": ["minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54387652",
         "size": "Medium",
         "stat_ac": 10,
@@ -1124,10 +1246,10 @@
         ],
         "cr": "5",
         "fightingstyle": [
-          "Melee", "Hunter"
+          "melee", "hunter"
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage"],
+        "purpose": ["damage"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54387652",
         "size": "Medium",
         "stat_ac": 13,
@@ -1154,10 +1276,10 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Melee", "Pack"
+          "melee", "pack"
         ],
         "movement": ["Walk"],
-        "purpose": ["Minion"],
+        "purpose": ["minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54387652",
         "size": "Medium",
         "stat_ac": 13,
@@ -1184,10 +1306,10 @@
         ],
         "cr": "5",
         "fightingstyle": [
-          "Melee", "Simple", "Spellcasting"
+          "melee", "simple", "spellcasting"
         ],
         "movement": ["Walk"],
-        "purpose": ["Leader", "Damage"],
+        "purpose": ["leader", "damage"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-54675823",
         "size": "Medium",
         "stat_ac": 19,
@@ -1214,10 +1336,10 @@
         ],
         "cr": "4",
         "fightingstyle": [
-          "Melee", "Pack", "Ambusher"
+          "melee", "pack", "ambusher"
         ],
         "movement": ["Walk", "Climb"],
-        "purpose": ["Damage","Debuff"],
+        "purpose": ["damage","Debuff"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
         "size": "Large",
         "stat_ac": 14,
@@ -1244,10 +1366,10 @@
         ],
         "cr": "4",
         "fightingstyle": [
-          "Melee", "Pack", "Ambusher"
+          "melee", "pack", "ambusher"
         ],
         "movement": ["Walk", "Climb"],
-        "purpose": ["Damage","Debuff"],
+        "purpose": ["damage","Debuff"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
         "size": "Large",
         "stat_ac": 14,
@@ -1274,10 +1396,10 @@
         ],
         "cr": "4",
         "fightingstyle": [
-          "Melee", "Pack", "Ambusher"
+          "melee", "pack", "ambusher"
         ],
         "movement": ["Walk", "Climb"],
-        "purpose": ["Damage","Debuff"],
+        "purpose": ["damage","Debuff"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
         "size": "Large",
         "stat_ac": 14,
@@ -1304,10 +1426,10 @@
         ],
         "cr": "4",
         "fightingstyle": [
-          "Melee", "Pack", "Ambusher"
+          "melee", "pack", "ambusher"
         ],
         "movement": ["Walk", "Climb"],
-        "purpose": ["Damage","Debuff"],
+        "purpose": ["damage","Debuff"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
         "size": "Large",
         "stat_ac": 14,
@@ -1334,10 +1456,10 @@
         ],
         "cr": "4",
         "fightingstyle": [
-          "Melee", "Pack", "Ambusher"
+          "melee", "pack", "ambusher"
         ],
         "movement": ["Walk", "Climb"],
-        "purpose": ["Damage","Debuff"],
+        "purpose": ["damage","Debuff"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
         "size": "Large",
         "stat_ac": 14,
@@ -1364,10 +1486,10 @@
         ],
         "cr": "4",
         "fightingstyle": [
-          "Melee", "Pack", "Ambusher"
+          "melee", "pack", "ambusher"
         ],
         "movement": ["Walk", "Climb"],
-        "purpose": ["Damage","Debuff"],
+        "purpose": ["damage","Debuff"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
         "size": "Large",
         "stat_ac": 14,
@@ -1394,10 +1516,10 @@
         ],
         "cr": "4",
         "fightingstyle": [
-          "Melee", "Pack", "Ambusher"
+          "melee", "pack", "ambusher"
         ],
         "movement": ["Walk", "Climb"],
-        "purpose": ["Damage","Debuff"],
+        "purpose": ["damage","Debuff"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
         "size": "Large",
         "stat_ac": 14,
@@ -1424,10 +1546,10 @@
         ],
         "cr": "4",
         "fightingstyle": [
-          "Melee", "Pack", "Ambusher"
+          "melee", "pack", "ambusher"
         ],
         "movement": ["Walk", "Climb"],
-        "purpose": ["Damage","Debuff"],
+        "purpose": ["damage","Debuff"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
         "size": "Large",
         "stat_ac": 14,
@@ -1454,10 +1576,10 @@
         ],
         "cr": "2",
         "fightingstyle": [
-          "Simple"
+          "simple"
         ],
         "movement": ["Walk"],
-        "purpose": ["Support", "Ally"],
+        "purpose": ["support", "ally"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-55213338",
         "size": "Medium",
         "stat_ac": 10,
@@ -1484,10 +1606,10 @@
         ],
         "cr": "6",
         "fightingstyle": [
-          "Melee", "Interactive", "Mobile" 
+          "melee", "interactive", "mobile" 
         ],
         "movement": ["Walk"],
-        "purpose": ["Hunter", "Damage"],
+        "purpose": ["hunter", "damage"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-55495677",
         "size": "Medium",
         "stat_cha": 16,
@@ -1513,10 +1635,10 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Abusher", "Simple", "Pack"
+          "Abusher", "simple", "pack"
         ],
         "movement": ["Walk"],
-        "purpose": ["Minion"],
+        "purpose": ["minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-55799053",
         "size": "Small",
         "stat_cha": 2,
@@ -1542,10 +1664,10 @@
         ],
         "cr": "6",
         "fightingstyle": [
-          "Spellcasting", "Interactive", "Tactical"
+          "spellcasting", "interactive", "tactical"
         ],
         "movement": ["Walk"],
-        "purpose": ["Support","Leader"],
+        "purpose": ["support","leader"],
         "releaseurl": "https://www.patreon.com/posts/orc-shaman-56073315",
         "size": "Medium",
         "stat_cha": 14,
@@ -1571,10 +1693,10 @@
         ],
         "cr": "7",
         "fightingstyle": [
-          "Tactical", "Interactive", "Leader"
+          "tactical", "interactive", "leader"
         ],
         "movement": ["Walk"],
-        "purpose": ["Leader","Support","Damage"],
+        "purpose": ["leader","support","damage"],
         "releaseurl": "https://www.patreon.com/posts/orc-warchief-and-56356150",
         "size": "Medium",
         "stat_cha": 16,
@@ -1600,10 +1722,10 @@
         ],
         "cr": "4",
         "fightingstyle": [
-          "Mobile", "Ranged"
+          "mobile", "ranged"
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage", "Pressure"],
+        "purpose": ["damage", "pressure"],
         "releaseurl": "https://www.patreon.com/posts/centaur-56629774",
         "size": "Large",
         "stat_cha": 8,
@@ -1629,10 +1751,10 @@
         ],
         "cr": "2",
         "fightingstyle": [
-          "Ranged",  "Simple"
+          "ranged",  "simple"
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage", "Hunter"],
+        "purpose": ["damage", "hunter"],
         "releaseurl": "https://www.patreon.com/posts/trained-archer-56943791",
         "size": "Medium",
         "stat_cha": 11,
@@ -1658,10 +1780,10 @@
         ],
         "cr": "2",
         "fightingstyle": [
-          "Ranged", "Simple" 
+          "ranged", "simple" 
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage", "Hunter"],
+        "purpose": ["damage", "hunter"],
         "releaseurl": "https://www.patreon.com/posts/trained-archer-56943791",
         "size": "Medium",
         "stat_cha": 11,
@@ -1687,10 +1809,10 @@
         ],
         "cr": "2",
         "fightingstyle": [
-          "Ranged", "Simple"
+          "ranged", "simple"
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage", "Hunter"],
+        "purpose": ["damage", "hunter"],
         "releaseurl": "https://www.patreon.com/posts/trained-archer-56943791",
         "size": "Medium",
         "stat_cha": 11,
@@ -1832,10 +1954,10 @@
         ],
         "cr": "5",
         "fightingstyle": [
-          "Regeneration", "Melee"
+          "regeneration", "melee"
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage", "Tank", "Debuff"],
+        "purpose": ["damage", "tank", "Debuff"],
         "releaseurl": "https://www.patreon.com/posts/revenant-knight-57567686",
         "size": "Medium",
         "stat_cha": 18,
@@ -1861,10 +1983,10 @@
         ],
         "cr": "5",
         "fightingstyle": [
-          "Regeneration", "Melee"
+          "regeneration", "melee"
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage", "Tank", "Debuff"],
+        "purpose": ["damage", "tank", "Debuff"],
         "releaseurl": "https://www.patreon.com/posts/revenant-knight-57567686",
         "size": "Medium",
         "stat_cha": 18,
@@ -1890,10 +2012,10 @@
         ],
         "cr": "5",
         "fightingstyle": [
-          "Regeneration", "Melee"
+          "regeneration", "melee"
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage", "Tank", "Debuff"],
+        "purpose": ["damage", "tank", "Debuff"],
         "releaseurl": "https://www.patreon.com/posts/revenant-knight-57567686",
         "size": "Medium",
         "stat_cha": 18,
@@ -1919,10 +2041,10 @@
         ],
         "cr": "5",
         "fightingstyle": [
-          "Regeneration", "Melee"
+          "regeneration", "melee"
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage", "Tank", "Debuff"],
+        "purpose": ["damage", "tank", "Debuff"],
         "releaseurl": "https://www.patreon.com/posts/revenant-knight-57567686",
         "size": "Medium",
         "stat_cha": 18,
@@ -2789,10 +2911,10 @@
         ],
         "cr": "8",
         "fightingstyle": [
-          "Charge", "Melee", "Regeneration"
+          "charge", "melee", "regeneration"
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage"],
+        "purpose": ["damage"],
         "releaseurl": "https://www.patreon.com/posts/war-troll-59470079",
         "size": "Large",
         "stat_cha": 7,
@@ -2992,10 +3114,10 @@
         ],
         "cr": "7",
         "fightingstyle": [
-          "Tactical", "Interactive", "Demanding"
+          "tactical", "interactive", "demanding"
         ],
         "movement": ["Walk"],
-        "purpose": ["Hunter","Anti Caster"],
+        "purpose": ["hunter","Anti Caster"],
         "releaseurl": "https://www.patreon.com/posts/ossian-debt-61274297",
         "size": "Medium",
         "stat_ac": 18,
@@ -3022,10 +3144,10 @@
         ],
         "cr": "5",
         "fightingstyle": [
-          "Charge", "Simple", "Melee"
+          "charge", "simple", "melee"
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage", "Mount"],
+        "purpose": ["damage", "mount"],
         "releaseurl": "https://www.patreon.com/posts/elephant-61535194",
         "size": "Huge",
         "stat_ac": 12,
@@ -3052,10 +3174,10 @@
         ],
         "cr": "4",
         "fightingstyle": [
-          "Demanding", "Shock"
+          "demanding", "shock"
         ],
         "movement": ["Fly"],
-        "purpose": ["Debuff", "Gimmick"],
+        "purpose": ["Debuff", "gimmick"],
         "releaseurl": "https://www.patreon.com/posts/mournbride-62015180",
         "size": "Medium",
         "stat_ac": 12,
@@ -3082,10 +3204,10 @@
         ],
         "cr": "16",
         "fightingstyle": [
-          "Demanding", "Tactical", "Spellcasting"
+          "demanding", "tactical", "spellcasting"
         ],
         "movement": ["Walk"],
-        "purpose": ["Bodyguard", "Damage", "Pressure"],
+        "purpose": ["bodyguard", "damage", "pressure"],
         "releaseurl": "https://www.patreon.com/posts/mind-golem-62285535",
         "size": "Large",
         "stat_ac": 16,
@@ -3112,10 +3234,10 @@
         ],
         "cr": "7",
         "fightingstyle": [
-          "Demanding", "Tactical", "Lethal"
+          "demanding", "tactical", "lethal"
         ],
         "movement": ["Walk"],
-        "purpose": ["Gimmick", "Debuff"],
+        "purpose": ["gimmick", "Debuff"],
         "releaseurl": "https://www.patreon.com/posts/amygdalyan-62903185",
         "size": "Medium",
         "stat_ac": 15,
@@ -3142,10 +3264,10 @@
         ],
         "cr": "9",
         "fightingstyle": [
-          "Ambusher", "Simple"
+          "ambusher", "simple"
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage", "Tank"],
+        "purpose": ["damage", "tank"],
         "releaseurl": "https://www.patreon.com/posts/shattermaw-62911527",
         "size": "Huge",
         "stat_ac": 19,
@@ -3170,10 +3292,10 @@
         ],
         "cr": "3",
         "fightingstyle": [
-          "Airborne", "Pack", "Simple"
+          "airborne", "pack", "simple"
         ],
         "movement": ["Walk", "Fly"],
-        "purpose": ["Gimmick", "Minion", "Hunter"],
+        "purpose": ["gimmick", "minion", "hunter"],
         "releaseurl": "https://www.patreon.com/posts/garghoul-63222139",
         "size": "Medium",
         "stat_ac": 14,
@@ -3200,10 +3322,10 @@
         ],
         "cr": "2",
         "fightingstyle": [
-          "Pack", "Ambush", "Melee"
+          "pack", "Ambush", "melee"
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage","Hunter"],
+        "purpose": ["damage","hunter"],
         "releaseurl": "https://www.patreon.com/posts/swifttalon-is-63666888",
         "size": "Medium",
         "stat_ac": 13,
@@ -3230,10 +3352,10 @@
         ],
         "cr": "7",
         "fightingstyle": [
-          "Airborne","AoE","Melee"
+          "airborne","aoe","melee"
         ],
         "movement": ["Walk","Fly"],
-        "purpose": ["Damage", "Leader","Pressure"],
+        "purpose": ["damage", "leader","pressure"],
         "releaseurl": "https://www.patreon.com/posts/stormwyvern-63841777",
         "size": "Large",
         "stat_ac": 13,
@@ -3260,10 +3382,10 @@
         ],
         "cr": "5",
         "fightingstyle": [
-          "Mobile", "Tactical", "Predator"
+          "mobile", "tactical", "predator"
         ],
         "movement": ["Walk"],
-        "purpose": ["Hunter", "Duelist"],
+        "purpose": ["hunter", "duelist"],
         "releaseurl": "https://www.patreon.com/posts/poison-fang-64208373",
         "size": "Medium",
         "stat_ac": 16,
@@ -3290,10 +3412,10 @@
         ],
         "cr": "10",
         "fightingstyle": [
-          "Melee", "Simple"
+          "melee", "simple"
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage", "Tank"],
+        "purpose": ["damage", "tank"],
         "releaseurl": "https://www.patreon.com/posts/amber-idol-64420736",
         "size": "Large",
         "stat_ac": 17,
@@ -3320,10 +3442,10 @@
         ],
         "cr": "2",
         "fightingstyle": [
-          "Simple", "Lethal"
+          "simple", "lethal"
         ],
         "movement": ["Walk"],
-        "purpose": ["Damage", "Gimmick"],
+        "purpose": ["damage", "gimmick"],
         "releaseurl": "https://www.patreon.com/posts/toxic-gobbler-64773211",
         "size": "Small",
         "stat_ac": 12,
@@ -3350,7 +3472,7 @@
         ],
         "cr": "9",
         "fightingstyle": [
-          "Predator", "Shock", "Melee", "Lethal"
+          "predator", "shock", "melee", "lethal"
         ],
         "movement": ["Walk", "Climb"],
         "purpose": ["Placeholder"],
@@ -3380,10 +3502,10 @@
         ],
         "cr": "9",
         "fightingstyle": [
-          "Predator", "Shock", "Melee", "Lethal"
+          "predator", "shock", "melee", "lethal"
         ],
         "movement": ["Walk", "Climb"],
-        "purpose": ["Damage", "Pressure", "Hunter"],
+        "purpose": ["damage", "pressure", "hunter"],
         "releaseurl": "https://www.patreon.com/posts/wendigo-65132787",
         "size": "Medium",
         "stat_ac": 17,
@@ -3410,10 +3532,10 @@
         ],
         "cr": "9",
         "fightingstyle": [
-          "Predator", "Shock", "Melee", "Lethal"
+          "predator", "shock", "melee", "lethal"
         ],
         "movement": ["Walk", "Climb"],
-        "purpose": ["Damage", "Pressure", "Hunter"],
+        "purpose": ["damage", "pressure", "hunter"],
         "releaseurl": "https://www.patreon.com/posts/wendigo-65132787",
         "size": "Medium",
         "stat_ac": 17,
@@ -3440,10 +3562,10 @@
         ],
         "cr": "9",
         "fightingstyle": [
-          "Predator", "Shock", "Melee", "Lethal"
+          "predator", "shock", "melee", "lethal"
         ],
         "movement": ["Walk", "Climb"],
-        "purpose": ["Damage", "Pressure", "Hunter"],
+        "purpose": ["damage", "pressure", "hunter"],
         "releaseurl": "https://www.patreon.com/posts/wendigo-65132787",
         "size": "Medium",
         "stat_ac": 17,
@@ -3470,10 +3592,10 @@
         ],
         "cr": "12",
         "fightingstyle": [
-          "Charge", "AoE"
+          "charge", "aoe"
         ],
         "movement": ["Walk", "Burrow"],
-        "purpose": ["Damage"],
+        "purpose": ["damage"],
         "releaseurl": "https://www.patreon.com/posts/magmatic-65371189",
         "size": "Huge",
         "stat_ac": 18,
@@ -3500,10 +3622,10 @@
         ],
         "cr": "4",
         "fightingstyle": [
-          "Melee", "Simple", "Pack"
+          "melee", "simple", "pack"
         ],
         "movement": ["Walk"],
-        "purpose": ["Mount", "Damage"],
+        "purpose": ["mount", "damage"],
         "releaseurl": "https://www.patreon.com/posts/bog-strider-65662794",
         "size": "Large",
         "stat_ac": 14,
@@ -3530,10 +3652,10 @@
         ],
         "cr": "7",
         "fightingstyle": [
-          "Spellcasting", "Tactical"
+          "spellcasting", "tactical"
         ],
         "movement": ["Walk", "Climb", "Swim"],
-        "purpose": ["Support", "Ally"],
+        "purpose": ["support", "ally"],
         "releaseurl": "https://www.patreon.com/posts/klabautermann-66017529",
         "size": "Medium",
         "stat_ac": 16,
@@ -3560,10 +3682,10 @@
         ],
         "cr": "7",
         "fightingstyle": [
-          "Melee", "Regeneration", "Tactical"
+          "melee", "regeneration", "tactical"
         ],
         "movement": ["Walk"],
-        "purpose": ["Bodyguard"],
+        "purpose": ["bodyguard"],
         "releaseurl": "https://www.patreon.com/posts/sword-guardian-66289434",
         "size": "Medium",
         "stat_ac": 17,
@@ -3590,10 +3712,10 @@
         ],
         "cr": "17",
         "fightingstyle": [
-          "Demanding", "Swallow"
+          "demanding", "Swallow"
         ],
         "movement": ["Walk"],
-        "purpose": ["Tank","Mount"],
+        "purpose": ["tank","mount"],
         "releaseurl": "https://www.patreon.com/posts/ridgeback-66577201",
         "size": "Gargantuan",
         "stat_ac": 20,
@@ -3617,9 +3739,9 @@
       "properties": {
         "biom": ["Abyssal","Dungeon"],
         "cr": "5",
-        "fightingstyle": ["Pack", "Airborne"],
+        "fightingstyle": ["pack", "airborne"],
         "movement": ["Fly", "Walk"],
-        "purpose": ["Debuff", "Gimmick"],
+        "purpose": ["Debuff", "gimmick"],
         "releaseurl": "https://www.patreon.com/posts/vrubel-66888868",
         "size": "Large",
         "stat_ac": 14,
@@ -3644,9 +3766,9 @@
       "properties": {
         "biom": ["City", "Civilized" ],
         "cr": "5",
-        "fightingstyle": ["Melee", "Tactical"],
+        "fightingstyle": ["melee", "tactical"],
         "movement": ["Walk"],
-        "purpose": ["Hunter","Duelist"],
+        "purpose": ["hunter","duelist"],
         "releaseurl": "",
         "size": "Medium",
         "stat_ac": 16,
@@ -3671,9 +3793,9 @@
       "properties": {
         "biom": ["City", "Civilized" ],
         "cr": "5",
-        "fightingstyle": ["Melee", "Tactical"],
+        "fightingstyle": ["melee", "tactical"],
         "movement": ["Walk"],
-        "purpose": ["Tank","Duelist"],
+        "purpose": ["tank","duelist"],
         "releaseurl": "",
         "size": "Medium",
         "stat_ac": 17,
@@ -3698,9 +3820,9 @@
       "properties": {
         "biom": ["City", "Civilized" ],
         "cr": "5",
-        "fightingstyle": ["Melee", "Tactical"],
+        "fightingstyle": ["melee", "tactical"],
         "movement": ["Walk"],
-        "purpose": ["Hunter","Duelist"],
+        "purpose": ["hunter","duelist"],
         "releaseurl": "",
         "size": "Medium",
         "stat_ac": 17,
