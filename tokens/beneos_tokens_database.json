@@ -3843,10 +3843,37 @@
           "Human"
         ],
         "videourl": ""
+    }
     },
- 
+    "060_crazed_reaper": {
+      "description": "Incessant screaming heralds the approach of the Crazed Reaper, a towering monstrosity filled with apoplectic madness and massive scythes for hands. It is to be assumed that these creatures did not came to be in a way even remotely considered natural and any means of reproduction short of mitosis by sheer force of anger seems unlikely. But until the source of their all-consuming madness is discovered, solitary Reapers will roam the lands, driven to murder anything that stands in their path, leaving a trail of severed limbs and burst ear drums in their wake, as well as more questions that could possibly be answered.",
+      "name": "Crazed Reaper",
+      "properties": {
+        "biom": ["dungeon", "underground", "wilderness", "road" ],
+        "cr": "5",
+        "fightingstyle": ["melee", "charge"],
+        "movement": ["walk"],
+        "purpose": ["gimmick","damage"],
+        "releaseurl": "",
+        "size": "large",
+        "stat_ac": 16,
+        "stat_cha": 1,
+        "stat_con": 16,
+        "stat_dex": 16,
+        "stat_hp": 101,
+        "stat_int": 6,
+        "stat_str": 18,
+        "stat_wis": 5,
+        "thumbnail": "060_crazed_reaper-idle_face_still.webp",
+        "type": [
+          "monstrosity",
+          ""
+        ],
+        "videourl": ""
+    }
+    }
+  },
   "id": "beneos_tokens_database",
   "type": "token",
-  "version": "1.0.3"
+  "version": "1.0.4"
 }
-}}
