@@ -200,7 +200,7 @@
          "debuff", "melee", "interactive"
         ],
         "movement": ["Walk"],
-        "purpose": ["Anti Magic", "hunter"],
+        "purpose": ["anti caster", "hunter"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-51753582",
         "size": "Large",
         "stat_ac": 16,
@@ -1639,7 +1639,7 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "Abusher", "simple", "pack"
+          "ambusher", "simple", "pack"
         ],
         "movement": ["Walk"],
         "purpose": ["minion"],
@@ -3875,5 +3875,5 @@
   },
   "id": "beneos_tokens_database",
   "type": "token",
-  "version": "1.0.4"
+  "version": "1.0.5"
 }
