@@ -3871,9 +3871,35 @@
         ],
         "videourl": ""
     }
+    },
+    "061_clangorsaurus": {
+      "description": "Test Description",
+      "name": "Clangorsaurus",
+      "properties": {
+        "biom": [ "wilderness", "road", "desert", "forest" ],
+        "cr": "6",
+        "fightingstyle": ["simple", "melee"],
+        "movement": ["walk"],
+        "purpose": ["damage"],
+        "releaseurl": "",
+        "size": "large",
+        "stat_ac": 15,
+        "stat_cha": 6,
+        "stat_con": 18,
+        "stat_dex": 8,
+        "stat_hp": 167,
+        "stat_int": 5,
+        "stat_str": 22,
+        "stat_wis": 12,
+        "thumbnail": "061_clangorsaurus-idle_face_still.webp",
+        "type": [
+          "beast",
+          "dinosaur"
+        ],
+        "videourl": ""
     }
   },
   "id": "beneos_tokens_database",
   "type": "token",
   "version": "1.0.5"
-}
+}}
