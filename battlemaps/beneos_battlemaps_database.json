@@ -248,6 +248,366 @@
          "type": "Scenery",
          "videourl": "https://www.youtube.com/watch?v=acrOqAs4gPI"
       }
+     },
+    "46-01_Modular_Tavern_1F_Bright-4K_BM": {
+       "name": "Modular Tavern 1F Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["City","Civilised","Tavern","Horror"],
+         "brightness": "Dark",
+         "grid": "32x18",
+         "pack": "46_Modular_Tavern",
+         "releaseurl": "",
+         "sibling": "46-01_Modular_Tavern_1F_Bright-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "46-01_Modular_Tavern_1F_Bright-4K_Scen": {
+       "name": "Modular Tavern 1F Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["City","Civilised","Tavern","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "46_Modular_Tavern",
+         "releaseurl": "",
+         "sibling": "46-01_Modular_Tavern_1F_Bright-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "46-02_Modular_Tavern_2F_Bright-4K_BM": {
+       "name": "Modular Tavern 2F Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["City","Civilised","Tavern","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "46_Modular_Tavern",
+         "releaseurl": "",
+         "sibling": "46-02_Modular_Tavern_2F_Bright-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "46-02_Modular_Tavern_2F_Bright-4K_Scen": {
+       "name": "Modular Tavern 2F Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["City","Civilised","Tavern","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "46_Modular_Tavern",
+         "releaseurl": "",
+         "sibling": "46-02_Modular_Tavern_2F_Bright-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "46-03_Modular_Tavern_3F_Bright-4K_BM": {
+       "name": "Modular Tavern 3F Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["City","Civilised","Tavern","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "46_Modular_Tavern",
+         "releaseurl": "",
+         "sibling": "46-03_Modular_Tavern_3F_Bright-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "46-03_Modular_Tavern_3F_Bright-4K_Scen": {
+       "name": "Modular Tavern 3F Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["City","Civilised","Tavern","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "46_Modular_Tavern",
+         "releaseurl": "",
+         "sibling": "46-03_Modular_Tavern_3F_Bright-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "46-04_Modular_Tavern_4F_Bright-4K_BM": {
+       "name": "Modular Tavern 4F Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["City","Civilised","Tavern","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "46_Modular_Tavern",
+         "releaseurl": "",
+         "sibling": "46-04_Modular_Tavern_4F_Bright-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "46-04_Modular_Tavern_4F_Bright-4K_Scen": {
+       "name": "Modular Tavern 4F Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["City","Civilised","Tavern","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "46_Modular_Tavern",
+         "releaseurl": "",
+         "sibling": "46-04_Modular_Tavern_4F_Bright-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "46-05_Modular_Tavern_5F_Bright-4K_BM": {
+       "name": "Modular Tavern 5F Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["City","Civilised","Tavern","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "46_Modular_Tavern",
+         "releaseurl": "",
+         "sibling": "46-05_Modular_Tavern_5F_Bright-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "46-05_Modular_Tavern_5F_Bright-4K_Scen": {
+       "name": "Modular Tavern 5F Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["City","Civilised","Tavern","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "46_Modular_Tavern",
+         "releaseurl": "",
+         "sibling": "46-05_Modular_Tavern_5F_Bright-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "46-06_Modular_Tavern_Roof_Bright-4K_BM": {
+       "name": "Modular Tavern Roof Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["City","Civilised","Tavern","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "46_Modular_Tavern",
+         "releaseurl": "",
+         "sibling": "46-06_Modular_Tavern_Roof_Bright-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "46-06_Modular_Tavern_Roof_Bright-4K_Scen": {
+       "name": "Modular Tavern Roof Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["City","Civilised","Tavern","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "46_Modular_Tavern",
+         "releaseurl": "",
+         "sibling": "46-06_Modular_Tavern_Roof_Bright-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "46-07_Modular_Tavern_1F_Dark-4K_BM": {
+       "name": "Modular Tavern 1F Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["City","Civilised","Tavern","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "46_Modular_Tavern",
+         "releaseurl": "",
+         "sibling": "46-07_Modular_Tavern_1F_Dark-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "46-07_Modular_Tavern_1F_Dark-4K_Scen": {
+       "name": "Modular Tavern 1F Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["City","Civilised","Tavern","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "46_Modular_Tavern",
+         "releaseurl": "",
+         "sibling": "46-07_Modular_Tavern_1F_Dark-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "46-08_Modular_Tavern_2F_Dark-4K_BM": {
+       "name": "Modular Tavern 2F Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["City","Civilised","Tavern","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "46_Modular_Tavern",
+         "releaseurl": "",
+         "sibling": "46-08_Modular_Tavern_2F_Dark-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "46-08_Modular_Tavern_2F_Dark-4K_Scen": {
+       "name": "Modular Tavern 2F Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["City","Civilised","Tavern","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "46_Modular_Tavern",
+         "releaseurl": "",
+         "sibling": "46-08_Modular_Tavern_2F_Dark-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "46-09_Modular_Tavern_3F_Dark-4K_BM": {
+       "name": "Modular Tavern 3F Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["City","Civilised","Tavern","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "46_Modular_Tavern",
+         "releaseurl": "",
+         "sibling": "46-09_Modular_Tavern_3F_Dark-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "46-09_Modular_Tavern_3F_Dark-4K_Scen": {
+       "name": "Modular Tavern 3F Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["City","Civilised","Tavern","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "46_Modular_Tavern",
+         "releaseurl": "",
+         "sibling": "46-09_Modular_Tavern_3F_Dark-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "46-10_Modular_Tavern_4F_Dark-4K_BM": {
+       "name": "Modular Tavern 4F Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["City","Civilised","Tavern","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "46_Modular_Tavern",
+         "releaseurl": "",
+         "sibling": "46-10_Modular_Tavern_4F_Dark-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "46-10_Modular_Tavern_4F_Dark-4K_Scen": {
+       "name": "Modular Tavern 4F Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["City","Civilised","Tavern","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "46_Modular_Tavern",
+         "releaseurl": "",
+         "sibling": "46-10_Modular_Tavern_4F_Dark-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "46-11_Modular_Tavern_5F_Dark-4K_BM": {
+       "name": "Modular Tavern 5F Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["City","Civilised","Tavern","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "46_Modular_Tavern",
+         "releaseurl": "",
+         "sibling": "46-11_Modular_Tavern_5F_Dark-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "46-11_Modular_Tavern_5F_Dark-4K_Scen": {
+       "name": "Modular Tavern 5F Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["City","Civilised","Tavern","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "46_Modular_Tavern",
+         "releaseurl": "",
+         "sibling": "46-11_Modular_Tavern_5F_Dark-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "46-12_Modular_Tavern_Roof_Dark-4K_BM": {
+       "name": "Modular Tavern Roof Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["City","Civilised","Tavern","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "46_Modular_Tavern",
+         "releaseurl": "",
+         "sibling": "46-12_Modular_Tavern_Roof_Dark-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "46-12_Modular_Tavern_Roof_Dark-4K_Scen": {
+       "name": "Modular Tavern Roof Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["City","Civilised","Tavern","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "46_Modular_Tavern",
+         "releaseurl": "",
+         "sibling": "46-12_Modular_Tavern_Roof_Dark-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
     }
   }
 }
