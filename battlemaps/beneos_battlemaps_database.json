@@ -1,7 +1,7 @@
 ﻿{
   "id": "beneos_battlemaps_database",
   "type": "battlemap",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "content": {
     "01-01_Cave_Entrance-4K_Battlemap": {
       "name": "Cave Entrance",
