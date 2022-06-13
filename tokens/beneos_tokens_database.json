@@ -3873,7 +3873,7 @@
     }
     },
     "061_clangorsaurus": {
-      "description": "Test Description",
+      "description": "Clangosaurs roam lost and forgotten parts of the world where unique circumstances allow for flora and fauna from primeval times to endure. Both male and female members of the species engange in territorial disputes by smashing their bone-plated heads against each other, a ritual that produces a sound that can be heard for miles. Clangorsaurs are highly aggressive, actively seeking confrontation with anything treading on their stomping grounds, crashing into their targets without any shreds of self preservation.",
       "name": "Clangorsaurus",
       "properties": {
         "biom": [ "wilderness", "road", "desert", "forest" ],
