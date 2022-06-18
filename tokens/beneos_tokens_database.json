@@ -3854,7 +3854,7 @@
         "fightingstyle": ["melee", "charge"],
         "movement": ["walk"],
         "purpose": ["gimmick","damage"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/crazed-reaper-67525115",
         "size": "large",
         "stat_ac": 16,
         "stat_cha": 1,
@@ -3869,7 +3869,7 @@
           "monstrosity",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/bbpvjBR3aqs"
     }
     },
     "061_clangorsaurus": {
@@ -3881,7 +3881,7 @@
         "fightingstyle": ["simple", "melee"],
         "movement": ["walk"],
         "purpose": ["damage"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/clangorsaurus-67848743",
         "size": "large",
         "stat_ac": 15,
         "stat_cha": 6,
@@ -3896,7 +3896,7 @@
           "beast",
           "dinosaur"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/TfzSOtaOzBI"
     }
   }
   },
