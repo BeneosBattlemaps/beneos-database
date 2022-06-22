@@ -3898,9 +3898,9 @@
         ],
         "videourl": "https://youtu.be/TfzSOtaOzBI"
     }
-  }
+    }
   },
   "id": "beneos_tokens_database",
   "type": "token",
-  "version": "1.0.5"
+  "version": "1.0.6"
 }
