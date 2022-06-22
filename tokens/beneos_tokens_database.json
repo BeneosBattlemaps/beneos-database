@@ -3898,6 +3898,58 @@
         ],
         "videourl": "https://youtu.be/TfzSOtaOzBI"
     }
+    },
+    "062_pit_abomination": {
+      "description": "Abominations are born from accursed breeding pits using forbidden biomancy, heretical alchemical formulae and mutagens harvested from countless monstrosities. Each Abomination comes out differently, as the primordial soup filling the pits is ever shifting in its makeup and consistency, but they all have an inherited hate for this cruel world that birthed them. Impervious to pain and unable to form complex thoughts, it is a living weapon capable of unfathomable destruction. A weapon wielded by Pit Broodmasters, a caste dedicated to training and bonding with the towering abominations, feeding their hate and driving them into combat, annihilating everything in their path.",
+      "name": "Pit Abomination",
+      "properties": {
+        "biom": [ "wilderness", "road", "desert", "forest" ],
+        "cr": "19",
+        "fightingstyle": ["simple", "melee"],
+        "movement": ["walk"],
+        "purpose": ["damage"],
+        "releaseurl": "",
+        "size": "gargantuan",
+        "stat_ac": 19,
+        "stat_cha": 1,
+        "stat_con": 22,
+        "stat_dex": 10,
+        "stat_hp": 295,
+        "stat_int": 3,
+        "stat_str": 25,
+        "stat_wis": 12,
+        "thumbnail": "062_pit_abomination-idle_face_still.webp",
+        "type": [
+          "monstrosity",
+          ""
+        ],
+        "videourl": ""
+    },
+    "062_pit_broodmaster": {
+      "description": "They themselves tainted by the vile alchemy and mutagens of the Breeding Pits, Broodmasters tear the pit spawn from their birthing sacs and beat their will into the mewling creature. What follows is an inhuman regiment of subjugation and conditioning, to form the pit spawn into an unfeeling instrument of war. The most vile creature birthed from the pits is the Abomination, a chimeric monstrosity combining traits from countless creatures into a looming behemoth capable of unfathomable destruction. These war-beasts are herded into slaughter by the Broodmasters, controlled by secret drugs and techniques only known to initiatives to their corrupted caste.",
+      "name": "Pit Broodmaster",
+      "properties": {
+        "biom": [ "wilderness", "road", "dungeon", "forest" ],
+        "cr": "2",
+        "fightingstyle": ["simple", "interactive"],
+        "movement": ["walk"],
+        "purpose": ["support"],
+        "releaseurl": "",
+        "size": "medium",
+        "stat_ac": 15,
+        "stat_cha": 20,
+        "stat_con": 19,
+        "stat_dex": 13,
+        "stat_hp": 146,
+        "stat_int": 14,
+        "stat_str": 18,
+        "stat_wis": 16,
+        "thumbnail": "062_pit_broodmaster-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "demi-human"
+        ],
+        "videourl": ""
     }
   },
   "id": "beneos_tokens_database",
