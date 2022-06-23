@@ -2928,7 +2928,7 @@
         "stat_int": 8,
         "stat_str": 18,
         "stat_wis": 10,
-        "thumbnail": "034_war-troll-idle_face_still.webp",
+        "thumbnail": "034_war_troll-idle_face_still.webp",
         "type": [
 			"Fey", "Troll"
         ],
