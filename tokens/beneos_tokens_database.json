@@ -1062,8 +1062,8 @@
       }
     },
     "014_dragon": {
-      "description": "The dragon might be the ultimate mythical creature. Almost every human culture has a being with the shared traits of a snake-like body, mighty wings, supernatural cunning and indomitable might. In some myths and folktales they are benevolent and wise, in most they are cruel and despotic. Our dragon makes no attempt at being an ambivalent creature, skirting the border of good and evil or trying to paint the picture of a complex and often misunderstood creature. This dragon is a scaled tyrant, a megalomaniacal lizard corrupted by the arcane energies flowing through its veins. It is avaricious, gluttonous, wrathful and treacherous - the worst traits humanity can offer, but enabled by inhabiting a body of a living and breathing natural disaster.",
-      "name": "dragon",
+      "description": "The Dragon might be the ultimate mythical creature. Almost every human culture has a being with the shared traits of a snake-like body, mighty wings, supernatural cunning and indomitable might. In some myths and folktales they are benevolent and wise, in most they are cruel and despotic. Our dragon makes no attempt at being an ambivalent creature, skirting the border of good and evil or trying to paint the picture of a complex and often misunderstood creature. This dragon is a scaled tyrant, a megalomaniacal lizard corrupted by the arcane energies flowing through its veins. It is avaricious, gluttonous, wrathful and treacherous - the worst traits humanity can offer, but enabled by inhabiting a body of a living and breathing natural disaster.",
+      "name": "Dragon",
       "properties": {
         "biom": [
           "any"
