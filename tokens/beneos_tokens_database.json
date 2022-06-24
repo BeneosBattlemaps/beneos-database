@@ -2979,10 +2979,11 @@
         "purpose": ["boss", "leader"],
         "releaseurl": "https://www.patreon.com/posts/winter-empress-60103806",
         "size": "medium",
+		"stat_ac": 18,
         "stat_cha": 22,
         "stat_con": 18,
         "stat_dex": 14,
-        "stat_hp": 38,
+        "stat_hp": 190,
         "stat_int": 18,
         "stat_str": 16,
         "stat_wis": 20,
@@ -3008,6 +3009,7 @@
         "purpose": ["boss", "leader"],
         "releaseurl": "https://www.patreon.com/posts/winter-empress-60103806",
         "size": "medium",
+		"stat_ac": 18,
         "stat_cha": 22,
         "stat_con": 18,
         "stat_dex": 14,
@@ -3201,7 +3203,7 @@
     },
     "043_mind_golem": {
       "description": "Mind golems are enforcer-creatures crafted by Wizard councils, a mighty body shaped from synthetic flesh imbued with a powerful vat-grown brain, designed to contain the councils Mindmeld. A Mindmeld is psychic amalgamation of the wizards intellect and arcane potential, directly channeling their might and will into their creation, allowing it to act more independently than other forms of golems. Their fused psyches birth new independent thought slaved to their will, which makes Mind golems highly intelligent and capable of stratetic planning and tactical acumen. This, paired with their enourmous strength and innate magic abilities, makes for a truly dangerous living weapon, capable of completing the most daring operations for their masters.",
-      "name": "Mind golem",
+      "name": "Mind Golem",
       "properties": {
         "biom": [
           "civilised", "city", "dungeon", "horror", "road", "lair"
@@ -3439,7 +3441,7 @@
     },
     "051_toxic_gobbler": {
       "description": "Toxic as a Gobbler is a common idiom and yet it understates the danger posed by a Gobbler. Their garishly coloured, lumpy and spongy skin hides toxin glands which release a quickly evaporating colour- and odorless toxin that, upon skin contact or inhalation, leads to harrowing pain, long lasting paralysis and even death. Due to this feature, Gobblers have almost no natural predators, causing them to generally act carefree, curious and playful. This  makes them even more dangerous, as Gobblers fearlessly seek out the company of other beings to play with them - oftentimes accidently killing them in the process.  Some assume the toxicity to be a result of the Gobbler's diet, raising the question on what on earth Gobblers are eating.",
-      "name": "Toxic Gobler",
+      "name": "Toxic Gobbler",
       "properties": {
         "biom": [
           "wilderness", "forest", "dungeon"
