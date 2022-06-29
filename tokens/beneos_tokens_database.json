@@ -1,11 +1,11 @@
 ﻿{
   "tag_description": {
     "melee": {
-      "name": "Melee",
+      "name": "melee",
       "description": "This creature excels at close combat and has limited or no ranged combat capabilities."
     },
     "ranged": {
-      "name": "Ranged",
+      "name": "ranged",
       "description": "This creature attacks from afar and has limited or no melee combat capabilities."
     },
     "ambusher": {
@@ -21,11 +21,11 @@
       "description": "This creature seeks close combat from the get-go and will continue to do so."
     },
     "predator": {
-      "name": "Predator",
+      "name": "predator",
       "description": "This creature stalks its prey and will withdraw from combat to attack again later. "
     },
     "pack": {
-      "name": "Pack",
+      "name": "pack",
       "description": "This creature is best utilized as part of a larger group of similar creatures."
     },
     "regeneration": {
@@ -61,7 +61,7 @@
       "description": "This creature is more than capable of actually killing a player character."
     },
     "aoe": {
-      "name": "AoE",
+      "name": "aoe",
       "description": "This creature heavily utilizes >Area Of Effect< damage. "
     },
     "interactive": {
@@ -98,7 +98,7 @@
     },
     "mount": {
       "name": "Mount",
-      "description": "This creature can serve as a mount."
+      "description": "This creature can serve as a mount for either a player or an enemy."
     },
     "ally": {
       "name": "Ally",
@@ -118,7 +118,7 @@
     },
     "duelist": {
       "name": "Duelist",
-      "description": "This creature's set of abilites allows for an exciting back and forth with a single opponent. "
+      "description": "This creature's set of abilities allows for an exciting back and forth with a single opponent. "
     },
     "gimmick": {
       "name": "Gimmick",
@@ -131,16 +131,16 @@
       "name": "Primal Vampire Spawn",
       "properties": {
         "biom": [
-          "Ruins", "Catacomb", "Horror"
+          "ruins", "graves", "horror"
         ],
         "cr": "6",
         "fightingstyle": [
           "predator", "demanding", "shock"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["damage", "pressure"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-51753197",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 16,
         "stat_cha": 7,
         "stat_con": 18,
@@ -151,7 +151,7 @@
         "stat_wis": 12,
         "thumbnail": "001_vampire_beast-idle_face_still.webp",
         "type": [
-          "Undead",
+          "undead",
           "Vampire"
         ],
         "videourl": "https://youtu.be/GLNZy5sujd0"
@@ -162,16 +162,16 @@
       "name": "Gluttony",
       "properties": {
         "biom": [
-          "Lair", "Abyssal"
+          "lair", "abyssal"
         ],
         "cr": "20",
         "fightingstyle": [
           "lethal", "aoe", "tactical"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["boss", "pressure", "tank"],
         "releaseurl": "https://www.patreon.com/posts/boss-creature-51753486",
-        "size": "Huge",
+        "size": "huge",
         "stat_ac": 15,
         "stat_cha": 16,
         "stat_con": 24,
@@ -182,8 +182,8 @@
         "stat_wis": 13,
         "thumbnail": "002_glutony-idle_face_still.webp",
         "type": [
-          "Fiend",
-          "Demon"
+          "fiend",
+          "demon"
         ],
         "videourl": "https://youtu.be/wdnXJBQW0lo"
       }
@@ -193,16 +193,16 @@
       "name": "Inquisitorial Penitent 1",
       "properties": {
         "biom": [
-          "Sacral", "City", "Civilised"
+          "Sacral", "city", "civilised"
         ],
         "cr": "5",
         "fightingstyle": [
          "debuff", "melee", "interactive"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["anti caster", "hunter"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-51753582",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 16,
         "stat_cha": 18,
         "stat_con": 12,
@@ -213,8 +213,8 @@
         "stat_wis": 14,
         "thumbnail": "003_female_knight_1-idle_face_still.webp",
         "type": [
-          "Human",
-          "Humanoid"
+          "human",
+          "humanoid"
         ],
         "videourl": "https://youtu.be/PPu5pyvSP5Y"
       }
@@ -224,16 +224,16 @@
       "name": "The Curseweaver",
       "properties": {
         "biom": [
-          "Lair","City","Infernal"
+          "lair","city","infernal"
         ],
         "cr": "16",
         "fightingstyle": [
           "tactical", "demanding", "spellcasting"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["boss","debuff"],
         "releaseurl": "https://www.patreon.com/posts/boss-creature-51753670",
-        "size": "Huge",
+        "size": "huge",
         "stat_ac": 17,
         "stat_cha": 22,
         "stat_con": 16,
@@ -242,10 +242,10 @@
         "stat_int": 17,
         "stat_str": 15,
         "stat_wis": 19,
-        "thumbnail": "004_Undead_centipede-idle_face_still.webp",
+        "thumbnail": "004_undead_centipede-idle_face_still.webp",
         "type": [
-          "Fiend",
-          "Devil"
+          "fiend",
+          "devil"
         ],
         "videourl": "https://youtu.be/7qCnxpsQ2wA"
       }
@@ -255,16 +255,16 @@
       "name": "Assassin 1",
       "properties": {
         "biom": [
-          "City","Civilised","Road"
+          "city","civilised","road"
         ],
         "cr": "3",
         "fightingstyle": [
           "mobile", "simple"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["minion", "hunter"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-51753769",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 16,
         "stat_cha": 12,
         "stat_con": 13,
@@ -275,8 +275,8 @@
         "stat_wis": 16,
         "thumbnail": "005_assassin_1-idle_face_still.webp",
         "type": [
-          "Humanoid",
-		  "Human"
+          "humanoid",
+		  "human"
         ],
         "videourl": "https://www.youtube.com/watch?v=5VUPwtoq4ps"
       }
@@ -286,16 +286,16 @@
       "name": "Polarized Shield Guardian Skin 1",
       "properties": {
         "biom": [
-          "Civilized", "SciFi"
+          "civilised", "futuristic"
         ],
         "cr": "8",
         "fightingstyle": [
           "melee", "interactive"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["damage"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-51753864",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 17,
         "stat_cha": 5,
         "stat_con": 18,
@@ -306,7 +306,7 @@
         "stat_wis": 11,
         "thumbnail": "006_shield_guardian_1-idle_face_still.webp",
         "type": [
-          "Construct", "Robot"
+          "construct", "robot"
         ],
         "videourl": "https://youtu.be/Z0jOdBi4oFA"
       }
@@ -316,16 +316,16 @@
       "name": "Polarized Shield Guardian Skin 2",
       "properties": {
         "biom": [
-          "Civilized", "SciFi"
+          "civilised", "futuristic"
         ],
         "cr": "8",
         "fightingstyle": [
           "melee", "interactive"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["damage"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-51753864",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 17,
         "stat_cha": 5,
         "stat_con": 18,
@@ -336,7 +336,7 @@
         "stat_wis": 11,
         "thumbnail": "006_shield_guardian_2-idle_face_still.webp",
         "type": [
-          "Construct", "Robot"
+          "construct", "robot"
         ],
         "videourl": "https://youtu.be/Z0jOdBi4oFA"
       }
@@ -346,16 +346,16 @@
       "name": "Umber Spinner",
       "properties": {
         "biom": [
-          "Underground","Wilderness", "Dungeon"
+          "underground","wilderness", "dungeon"
         ],
         "cr": "3",
         "fightingstyle": [
-          "Ambush", "pack"
+          "ambusher", "pack"
         ],
-        "movement": ["Fly"],
+        "movement": ["fly"],
         "purpose": ["debuff"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-52102315",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 14,
         "stat_cha": 5,
         "stat_con": 15,
@@ -366,7 +366,7 @@
         "stat_wis": 10,
         "thumbnail": "007_umber_spinner-idle_face_still.webp",
         "type": [
-          "Monstrousity", "Insect" 
+          "monstrosity", "insect" 
         ],
         "videourl": "https://youtu.be/Ak26m-571QU"
       }
@@ -376,16 +376,16 @@
       "name": "Aspect of Gluttony",
       "properties": {
         "biom": [
-          "Lair", "Abyssal"
+          "lair", "abyssal"
         ],
         "cr": "1",
         "fightingstyle": [
           "debuff"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["minion"],
         "releaseurl": "https://www.patreon.com/posts/boss-creature-51753486",
-        "size": "Small",
+        "size": "small",
         "stat_ac": 9,
         "stat_cha": 6,
         "stat_con": 18,
@@ -396,7 +396,7 @@
         "stat_wis": 9,
         "thumbnail": "008_aspect_of_gluttony-idle_face_still.webp",
         "type": [
-          "Fiend","Demon"
+          "fiend","demon"
         ],
         "videourl": "https://youtu.be/wdnXJBQW0lo"
       }
@@ -406,16 +406,16 @@
       "name": "Skeleton Henchman Skin 1",
       "properties": {
         "biom": [
-          "Dungeon", "Horror", "Catacomb", "Ruin"
+          "dungeon", "horror", "graves", "ruins"
         ],
         "cr": "2",
         "fightingstyle": [
           "melee"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52379988",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 14,
         "stat_cha": 6,
         "stat_con": 16,
@@ -426,7 +426,7 @@
         "stat_wis": 10,
         "thumbnail": "009_skeleton_henchman_1-idle_face_still.webp",
         "type": [
-          "Undead", "Skeleton"
+          "undead", "skeleton"
         ],
         "videourl": "https://youtu.be/3p_dN5Pk1jY"
       }
@@ -436,16 +436,16 @@
       "name": "Skeleton Henchman Skin 2",
       "properties": {
         "biom": [
-          "Dungeon", "Horror", "Catacomb", "Ruin"
+          "dungeon", "horror", "graves", "ruins"
         ],
         "cr": "2",
         "fightingstyle": [
           "melee"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52379988",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 14,
         "stat_cha": 6,
         "stat_con": 16,
@@ -456,7 +456,7 @@
         "stat_wis": 10,
         "thumbnail": "009_skeleton_henchman_2-idle_face_still.webp",
         "type": [
-          "Undead", "Skeleton"
+          "undead", "skeleton"
         ],
         "videourl": "https://youtu.be/3p_dN5Pk1jY"
       }
@@ -466,16 +466,16 @@
       "name": "Skeleton Henchman Skin 3",
       "properties": {
         "biom": [
-          "Dungeon", "Horror", "Catacomb", "Ruin"
+          "dungeon", "horror", "graves", "ruins"
         ],
         "cr": "2",
         "fightingstyle": [
           "melee"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52379988",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 14,
         "stat_cha": 6,
         "stat_con": 16,
@@ -486,7 +486,7 @@
         "stat_wis": 10,
         "thumbnail": "009_skeleton_henchman_3-idle_face_still.webp",
         "type": [
-          "Undead", "Skeleton"
+          "undead", "skeleton"
         ],
         "videourl": "https://youtu.be/3p_dN5Pk1jY"
       }
@@ -496,16 +496,16 @@
       "name": "Skeleton Henchman Skin 4",
       "properties": {
         "biom": [
-          "Dungeon", "Horror", "Catacomb", "Ruin"
+          "dungeon", "horror", "graves", "ruins"
         ],
         "cr": "2",
         "fightingstyle": [
           "melee"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52379988",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 14,
         "stat_cha": 6,
         "stat_con": 16,
@@ -516,7 +516,7 @@
         "stat_wis": 10,
         "thumbnail": "009_skeleton_henchman_4-idle_face_still.webp",
         "type": [
-          "Undead", "Skeleton"
+          "undead", "skeleton"
         ],
         "videourl": "https://youtu.be/3p_dN5Pk1jY"
       }
@@ -526,16 +526,16 @@
       "name": "Skeleton Henchman Skin 5",
       "properties": {
         "biom": [
-          "Dungeon", "Horror", "Catacomb", "Ruin"
+          "dungeon", "horror", "graves", "ruins"
         ],
         "cr": "2",
         "fightingstyle": [
           "melee"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52379988",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 14,
         "stat_cha": 6,
         "stat_con": 16,
@@ -546,7 +546,7 @@
         "stat_wis": 10,
         "thumbnail": "009_skeleton_henchman_5-idle_face_still.webp",
         "type": [
-          "Undead", "Skeleton"
+          "undead", "skeleton"
         ],
         "videourl": "https://youtu.be/3p_dN5Pk1jY"
       }
@@ -556,16 +556,16 @@
       "name": "Skeleton Henchman Skin 6",
       "properties": {
         "biom": [
-          "Dungeon", "Horror", "Catacomb", "Ruin"
+          "dungeon", "horror", "graves", "ruins"
         ],
         "cr": "2",
         "fightingstyle": [
           "melee"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52379988",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 14,
         "stat_cha": 6,
         "stat_con": 16,
@@ -576,7 +576,7 @@
         "stat_wis": 10,
         "thumbnail": "009_skeleton_henchman_6-idle_face_still.webp",
         "type": [
-          "Undead", "Skeleton"
+          "undead", "skeleton"
         ],
         "videourl": "https://youtu.be/3p_dN5Pk1jY"
       }
@@ -586,16 +586,16 @@
       "name": "Horse Skin 1",
       "properties": {
         "biom": [
-          "Any"
+          "any"
         ],
         "cr": "1",
         "fightingstyle": [
           "mobile", "melee", "charge"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 16,
         "stat_cha": 10,
         "stat_con": 14,
@@ -606,7 +606,7 @@
         "stat_wis": 10,
         "thumbnail": "010_horse_1-idle_face_still.webp",
         "type": [
-          "Beast"
+          "beast"
         ],
         "videourl": "https://youtu.be/7TGK7ozG7xw"
       }
@@ -616,16 +616,16 @@
       "name": "Horse Skin 2",
       "properties": {
         "biom": [
-          "Any"
+          "any"
         ],
         "cr": "1",
         "fightingstyle": [
           "mobile", "melee", "charge"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 16,
         "stat_cha": 10,
         "stat_con": 14,
@@ -636,7 +636,7 @@
         "stat_wis": 10,
         "thumbnail": "010_horse_2-idle_face_still.webp",
         "type": [
-          "Beast"
+          "beast"
         ],
         "videourl": "https://youtu.be/7TGK7ozG7xw"
       }
@@ -646,16 +646,16 @@
       "name": "Horse Skin 3",
       "properties": {
         "biom": [
-          "Any"
+          "any"
         ],
         "cr": "1",
         "fightingstyle": [
           "mobile", "melee", "charge"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 16,
         "stat_cha": 10,
         "stat_con": 14,
@@ -666,7 +666,7 @@
         "stat_wis": 10,
         "thumbnail": "010_horse_3-idle_face_still.webp",
         "type": [
-          "Beast"
+          "beast"
         ],
         "videourl": "https://youtu.be/7TGK7ozG7xw"
       }
@@ -676,16 +676,16 @@
       "name": "Horse Skin 4",
       "properties": {
         "biom": [
-          "Any"
+          "any"
         ],
         "cr": "1",
         "fightingstyle": [
           "melee", "mobile", "charge"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 16,
         "stat_cha": 10,
         "stat_con": 14,
@@ -696,7 +696,7 @@
         "stat_wis": 10,
         "thumbnail": "010_horse_4-idle_face_still.webp",
         "type": [
-          "Beast"
+          "beast"
         ],
         "videourl": "https://youtu.be/7TGK7ozG7xw"
       }
@@ -706,16 +706,16 @@
       "name": "Horse Skin 5",
       "properties": {
         "biom": [
-          "Any"
+          "any"
         ],
         "cr": "1",
         "fightingstyle": [
           "melee", "charge", "charge"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 16,
         "stat_cha": 10,
         "stat_con": 14,
@@ -726,7 +726,7 @@
         "stat_wis": 10,
         "thumbnail": "010_horse_5-idle_face_still.webp",
         "type": [
-          "Beast"
+          "beast"
         ],
         "videourl": "https://youtu.be/7TGK7ozG7xw"
       }
@@ -736,16 +736,16 @@
       "name": "Horse Skin 6",
       "properties": {
         "biom": [
-          "Any"
+          "any"
         ],
         "cr": "1",
         "fightingstyle": [
           "melee", "charge", "mobile"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 16,
         "stat_cha": 10,
         "stat_con": 14,
@@ -756,7 +756,7 @@
         "stat_wis": 10,
         "thumbnail": "010_horse_6-idle_face_still.webp",
         "type": [
-          "Beast"
+          "beast"
         ],
         "videourl": "https://youtu.be/7TGK7ozG7xw"
       }
@@ -766,16 +766,16 @@
       "name": "Horse Skin 7",
       "properties": {
         "biom": [
-          "Any"
+          "any"
         ],
         "cr": "1",
         "fightingstyle": [
           "melee", "charge", "mobile"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 16,
         "stat_cha": 10,
         "stat_con": 14,
@@ -786,7 +786,7 @@
         "stat_wis": 10,
         "thumbnail": "010_horse_7-idle_face_still.webp",
         "type": [
-          "Beast"
+          "beast"
         ],
         "videourl": "https://youtu.be/7TGK7ozG7xw"
       }
@@ -796,16 +796,16 @@
       "name": "Horse Skin 8",
       "properties": {
         "biom": [
-          "Any"
+          "any"
         ],
         "cr": "1",
         "fightingstyle": [
           "melee", "charge", "mobile"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 16,
         "stat_cha": 10,
         "stat_con": 14,
@@ -816,7 +816,7 @@
         "stat_wis": 10,
         "thumbnail": "010_horse_8-idle_face_still.webp",
         "type": [
-          "Beast"
+          "beast"
         ],
         "videourl": "https://youtu.be/7TGK7ozG7xw"
       }
@@ -826,16 +826,16 @@
       "name": "Warhorse Skin 1",
       "properties": {
         "biom": [
-          "Any"
+          "any"
         ],
         "cr": "1",
         "fightingstyle": [
           "melee", "charge", "mobile"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 16,
         "stat_cha": 10,
         "stat_con": 14,
@@ -846,7 +846,7 @@
         "stat_wis": 10,
         "thumbnail": "010_horse_9-idle_face_still.webp",
         "type": [
-          "Beast"
+          "beast"
         ],
         "videourl": "https://youtu.be/7TGK7ozG7xw"
       }
@@ -856,16 +856,16 @@
       "name": "Warhorse Skin 2",
       "properties": {
         "biom": [
-          "Any"
+          "any"
         ],
         "cr": "1",
         "fightingstyle": [
           "melee", "charge", "mobile"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 16,
         "stat_cha": 10,
         "stat_con": 14,
@@ -876,7 +876,7 @@
         "stat_wis": 10,
         "thumbnail": "010_horse_10-idle_face_still.webp",
         "type": [
-          "Beast"
+          "beast"
         ],
         "videourl": "https://youtu.be/7TGK7ozG7xw"
       }
@@ -886,16 +886,16 @@
       "name": "Horse Skin 8",
       "properties": {
         "biom": [
-          "Any"
+          "any"
         ],
         "cr": "1",
         "fightingstyle": [
           "melee", "charge", "mobile"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 16,
         "stat_cha": 10,
         "stat_con": 14,
@@ -906,7 +906,7 @@
         "stat_wis": 10,
         "thumbnail": "010_horse_11-idle_face_still.webp",
         "type": [
-          "Beast"
+          "beast"
         ],
         "videourl": "https://youtu.be/7TGK7ozG7xw"
       }
@@ -916,16 +916,16 @@
       "name": "Warhorse Skin 3",
       "properties": {
         "biom": [
-          "Any"
+          "any"
         ],
         "cr": "1",
         "fightingstyle": [
           "melee", "charge", "mobile"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 16,
         "stat_cha": 10,
         "stat_con": 14,
@@ -936,7 +936,7 @@
         "stat_wis": 10,
         "thumbnail": "010_horse_12-idle_face_still.webp",
         "type": [
-          "Beast"
+          "beast"
         ],
         "videourl": "https://youtu.be/7TGK7ozG7xw"
       }
@@ -946,16 +946,16 @@
       "name": "Warhorse Skin 4",
       "properties": {
         "biom": [
-          "Any"
+          "any"
         ],
         "cr": "1",
         "fightingstyle": [
           "melee", "charge", "mobile"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["mount"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52647466",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 16,
         "stat_cha": 10,
         "stat_con": 14,
@@ -966,7 +966,7 @@
         "stat_wis": 10,
         "thumbnail": "010_horse_13-idle_face_still.webp",
         "type": [
-          "Beast"
+          "beast"
         ],
         "videourl": "https://youtu.be/7TGK7ozG7xw"
       }
@@ -976,16 +976,16 @@
       "name": "Trained Fighter",
       "properties": {
         "biom": [
-          "Any"
+          "any"
         ],
         "cr": "2",
         "fightingstyle": [
           "melee","interactive", "tactical"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["minion", "pack"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-52930930",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 15,
         "stat_cha": 10,
         "stat_con": 16,
@@ -996,7 +996,7 @@
         "stat_wis": 13,
         "thumbnail": "011_trained_fighter-idle_face_still.webp",
         "type": [
-			"Humanoid", "Human"
+			"humanoid", "human"
         ],
         "videourl": "https://youtu.be/Htl7NhZueY4"
       }
@@ -1012,10 +1012,10 @@
         "fightingstyle": [
           "charge", "melee", "simple"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["damage","mount"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-53233232",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 40,
         "stat_cha": 7,
         "stat_con": 16,
@@ -1026,7 +1026,7 @@
         "stat_wis": 13,
         "thumbnail": "012_cipactli-idle_face_still.webp",
         "type": [
-			"Monstrosity"
+			"monstrosity"
         ],
         "videourl": "https://youtu.be/rRU2TjfxrbI"
       }
@@ -1036,16 +1036,16 @@
       "name": "Harpyia",
       "properties": {
         "biom": [
-          "Wilderness", "Coastal", "Road"
+          "wilderness", "coastal", "road"
         ],
         "cr": "3",
         "fightingstyle": [
           "airborne", "pack", "aoe"
         ],
-        "movement": ["Walk", "Fly"],
+        "movement": ["walk", "fly"],
         "purpose": ["damage", "minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-53489969",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 12,
         "stat_cha": 8,
         "stat_con": 12,
@@ -1056,23 +1056,23 @@
         "stat_wis": 16,
         "thumbnail": "013_harpyia-idle_face_still.webp",
         "type": [
-			"Monstrosity", "Demi-Human"
+			"monstrosity", "demi-human"
         ],
         "videourl": "https://www.youtube.com/watch?v=INKJw3Ha0tc"
       }
     },
     "014_dragon": {
-      "description": "The Dragon might be the ultimate mythical creature. Almost every human culture has a being with the shared traits of a snake-like body, mighty wings, supernatural cunning and indomitable might. In some myths and folktales they are benevolent and wise, in most they are cruel and despotic. Our Dragon makes no attempt at being an ambivalent creature, skirting the border of good and evil or trying to paint the picture of a complex and often misunderstood creature. This Dragon is a scaled tyrant, a megalomaniacal lizard corrupted by the arcane energies flowing through its veins. It is avaricious, gluttonous, wrathful and treacherous - the worst traits humanity can offer, but enabled by inhabiting a body of a living and breathing natural disaster.",
+      "description": "The Dragon might be the ultimate mythical creature. Almost every human culture has a being with the shared traits of a snake-like body, mighty wings, supernatural cunning and indomitable might. In some myths and folktales they are benevolent and wise, in most they are cruel and despotic. Our dragon makes no attempt at being an ambivalent creature, skirting the border of good and evil or trying to paint the picture of a complex and often misunderstood creature. This dragon is a scaled tyrant, a megalomaniacal lizard corrupted by the arcane energies flowing through its veins. It is avaricious, gluttonous, wrathful and treacherous - the worst traits humanity can offer, but enabled by inhabiting a body of a living and breathing natural disaster.",
       "name": "Dragon",
       "properties": {
         "biom": [
-          "Any"
+          "any"
         ],
         "cr": "19",
         "fightingstyle": [
           "airborne",  "interactive",  "lethal"
         ],
-        "movement": ["Walk", "Fly"],
+        "movement": ["walk", "fly"],
         "purpose": ["boss",  "pressure", "damage"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-53778634",
         "size": "grg",
@@ -1084,9 +1084,9 @@
         "stat_int": 18,
         "stat_str": 27,
         "stat_wis": 18,
-        "thumbnail": "014_Dragon-idle_face_still.webp",
+        "thumbnail": "014_dragon-idle_face_still.webp",
         "type": [
-			"Dragon"
+			"dragon"
         ],
         "videourl": "https://youtu.be/b0dlNkBpOJE"
       }
@@ -1096,16 +1096,16 @@
       "name": "Werewolf Skin 1",
       "properties": {
         "biom": [
-          "Horror", "Forest", "Road", "Wilderness"
+          "horror", "forest", "road", "wilderness"
         ],
         "cr": "5",
         "fightingstyle": [
           "melee", "predator"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["damage","hunter"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54042065",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 14,
         "stat_cha": 11,
         "stat_con": 15,
@@ -1116,7 +1116,7 @@
         "stat_wis": 12,
         "thumbnail": "015_werewolf_1-idle_face_still.webp",
         "type": [
-			"Humanoid", "Shapeshifter", "Monstrosity"
+			"humanoid", "shapeshifter", "monstrosity"
         ],
         "videourl": "https://youtu.be/rU2-Ph6Gp4Y"
       }
@@ -1126,16 +1126,16 @@
       "name": "Werewolf Skin 2",
       "properties": {
         "biom": [
-          "Horror", "Forest", "Road", "Wilderness"
+          "horror", "forest", "road", "wilderness"
         ],
         "cr": "5",
         "fightingstyle": [
           "melee", "predator"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["damage","hunter"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54042065",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 14,
         "stat_cha": 11,
         "stat_con": 15,
@@ -1146,7 +1146,7 @@
         "stat_wis": 12,
         "thumbnail": "015_werewolf_2-idle_face_still.webp",
         "type": [
-			"Humanoid", "Shapeshifter", "Monstrosity"
+			"humanoid", "shapeshifter", "monstrosity"
         ],
         "videourl": "https://youtu.be/rU2-Ph6Gp4Y"
       }
@@ -1156,16 +1156,16 @@
       "name": "Werewolf Skin 3",
       "properties": {
         "biom": [
-          "Horror", "Forest", "Road", "Wilderness"
+          "horror", "forest", "road", "wilderness"
         ],
         "cr": "5",
         "fightingstyle": [
           "melee", "predator"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["damage","hunter"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54042065",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 14,
         "stat_cha": 11,
         "stat_con": 15,
@@ -1176,7 +1176,7 @@
         "stat_wis": 12,
         "thumbnail": "015_werewolf_3-idle_face_still.webp",
         "type": [
-			"Humanoid", "Shapeshifter", "Monstrosity", "Demi-Human"
+			"humanoid", "shapeshifter", "monstrosity", "demi-human"
         ],
         "videourl": "https://youtu.be/rU2-Ph6Gp4Y"
       }
@@ -1186,16 +1186,16 @@
       "name": "Wolf 1",
       "properties": {
         "biom": [
-          "Wilderness"
+          "wilderness"
         ],
         "cr": "1",
         "fightingstyle": [
           "melee", "pack"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54387652",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 10,
         "stat_cha": 6,
         "stat_con": 14,
@@ -1206,7 +1206,7 @@
         "stat_wis": 12,
         "thumbnail": "016_wolf_1-idle_face_still.webp",
         "type": [
-			"Beast"
+			"beast"
         ],
         "videourl": "https://youtu.be/r2QZhKXzaT4"
       }
@@ -1216,16 +1216,16 @@
       "name": "Wolf 2",
       "properties": {
         "biom": [
-          "Wilderness", "Forest", "Horror"
+          "wilderness", "forest", "horror"
         ],
         "cr": "1",
         "fightingstyle": [
           "melee", "pack"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54387652",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 10,
         "stat_cha": 6,
         "stat_con": 14,
@@ -1236,7 +1236,7 @@
         "stat_wis": 12,
         "thumbnail": "016_wolf_2-idle_face_still.webp",
         "type": [
-			"Beast"
+			"beast"
         ],
         "videourl": "https://youtu.be/r2QZhKXzaT4"
       }
@@ -1246,16 +1246,16 @@
       "name": "Wolfkin",
       "properties": {
         "biom": [
-          "Wilderness", "Forest", "Horror"
+          "wilderness", "forest", "horror"
         ],
         "cr": "5",
         "fightingstyle": [
           "melee", "hunter"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["damage"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54387652",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 13,
         "stat_cha": 5,
         "stat_con": 14,
@@ -1266,7 +1266,7 @@
         "stat_wis": 13,
         "thumbnail": "016_wolf_3-idle_face_still.webp",
         "type": [
-			"Beast"
+			"beast"
         ],
         "videourl": "https://youtu.be/r2QZhKXzaT4"
       }
@@ -1276,16 +1276,16 @@
       "name": "Lone Wolf",
       "properties": {
         "biom": [
-          "Wilderness", "Forest", "Horror"
+          "wilderness", "forest", "horror"
         ],
         "cr": "1",
         "fightingstyle": [
           "melee", "pack"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54387652",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 13,
         "stat_cha": 6,
         "stat_con": 16,
@@ -1296,7 +1296,7 @@
         "stat_wis": 16,
         "thumbnail": "016_wolf_4-idle_face_still.webp",
         "type": [
-			"Beast"
+			"beast"
         ],
         "videourl": "https://youtu.be/r2QZhKXzaT4"
       }
@@ -1306,16 +1306,16 @@
       "name": "Dwarven King",
       "properties": {
         "biom": [
-          "Underground", "City", "Civilised"
+          "underground", "city", "civilised"
         ],
         "cr": "5",
         "fightingstyle": [
           "melee", "simple", "spellcasting"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["leader", "damage"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-54675823",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 19,
         "stat_cha": 18,
         "stat_con": 19,
@@ -1326,7 +1326,7 @@
         "stat_wis": 16,
         "thumbnail": "017_dwarven_king-idle_face_still.webp",
         "type": [
-			"Humanoid", "Dwarf"
+			"humanoid", "dwarf"
         ],
         "videourl": "https://youtu.be/rXAJfQAVKwE"
       }
@@ -1336,16 +1336,16 @@
       "name": "Spider Skin 1",
       "properties": {
         "biom": [
-          "Cave", "Forest","Underground", "Dungeon", "Wilderness", "Catacomb", "Ruins", "Road", "Horror"
+          "cave", "forest","underground", "dungeon", "wilderness", "graves", "ruins", "road", "horror"
         ],
         "cr": "4",
         "fightingstyle": [
           "melee", "pack", "ambusher"
         ],
-        "movement": ["Walk", "Climb"],
+        "movement": ["walk", "climb"],
         "purpose": ["damage","debuff"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 14,
         "stat_cha": 3,
         "stat_con": 13,
@@ -1356,7 +1356,7 @@
         "stat_wis": 10,
         "thumbnail": "018_giant_spider_1-idle_face_still.webp",
         "type": [
-			"Monstrosity"
+			"monstrosity"
         ],
         "videourl": "https://www.youtube.com/watch?v=dP7ke9ldExA"
       }
@@ -1366,16 +1366,16 @@
       "name": "Spider Skin 2",
       "properties": {
         "biom": [
-          "Cave", "Forest","Underground", "Dungeon", "Wilderness", "Catacomb", "Ruins", "Road", "Horror"
+          "cave", "forest","underground", "dungeon", "wilderness", "graves", "ruins", "road", "horror"
         ],
         "cr": "4",
         "fightingstyle": [
           "melee", "pack", "ambusher"
         ],
-        "movement": ["Walk", "Climb"],
+        "movement": ["walk", "climb"],
         "purpose": ["damage","debuff"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 14,
         "stat_cha": 3,
         "stat_con": 13,
@@ -1386,7 +1386,7 @@
         "stat_wis": 10,
         "thumbnail": "018_giant_spider_2-idle_face_still.webp",
         "type": [
-			"Monstrosity"
+			"monstrosity"
         ],
         "videourl": "https://www.youtube.com/watch?v=dP7ke9ldExA"
       }
@@ -1396,16 +1396,16 @@
       "name": "Spider Skin 3",
       "properties": {
         "biom": [
-          "Cave", "Forest","Underground", "Dungeon", "Wilderness", "Catacomb", "Ruins", "Road", "Horror"
+          "cave", "forest","underground", "dungeon", "wilderness", "graves", "ruins", "road", "horror"
         ],
         "cr": "4",
         "fightingstyle": [
           "melee", "pack", "ambusher"
         ],
-        "movement": ["Walk", "Climb"],
+        "movement": ["walk", "climb"],
         "purpose": ["damage","debuff"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 14,
         "stat_cha": 3,
         "stat_con": 13,
@@ -1416,7 +1416,7 @@
         "stat_wis": 10,
         "thumbnail": "018_giant_spider_3-idle_face_still.webp",
         "type": [
-			"Monstrosity"
+			"monstrosity"
         ],
         "videourl": "https://www.youtube.com/watch?v=dP7ke9ldExA"
       }
@@ -1426,16 +1426,16 @@
       "name": "Spider Skin 4",
       "properties": {
         "biom": [
-          "Cave", "Forest","Underground", "Dungeon", "Wilderness", "Catacomb", "Ruins", "Road", "Horror"
+          "cave", "forest","underground", "dungeon", "wilderness", "graves", "ruins", "road", "horror"
         ],
         "cr": "4",
         "fightingstyle": [
           "melee", "pack", "ambusher"
         ],
-        "movement": ["Walk", "Climb"],
+        "movement": ["walk", "climb"],
         "purpose": ["damage","debuff"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 14,
         "stat_cha": 3,
         "stat_con": 13,
@@ -1446,7 +1446,7 @@
         "stat_wis": 10,
         "thumbnail": "018_giant_spider_4-idle_face_still.webp",
         "type": [
-			"Monstrosity"
+			"monstrosity"
         ],
         "videourl": "https://www.youtube.com/watch?v=dP7ke9ldExA"
       }
@@ -1456,16 +1456,16 @@
       "name": "Spider Skin 5",
       "properties": {
         "biom": [
-          "Cave", "Forest","Underground", "Dungeon", "Wilderness", "Catacomb", "Ruins", "Road", "Horror"
+          "cave", "forest","underground", "dungeon", "wilderness", "graves", "ruins", "road", "horror"
         ],
         "cr": "4",
         "fightingstyle": [
           "melee", "pack", "ambusher"
         ],
-        "movement": ["Walk", "Climb"],
+        "movement": ["walk", "climb"],
         "purpose": ["damage","debuff"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 14,
         "stat_cha": 3,
         "stat_con": 13,
@@ -1476,7 +1476,7 @@
         "stat_wis": 10,
         "thumbnail": "018_giant_spider_5-idle_face_still.webp",
         "type": [
-			"Monstrosity"
+			"monstrosity"
         ],
         "videourl": "https://www.youtube.com/watch?v=dP7ke9ldExA"
       }
@@ -1486,16 +1486,16 @@
       "name": "Spider Skin 6",
       "properties": {
         "biom": [
-          "Cave", "Forest","Underground", "Dungeon", "Wilderness", "Catacomb", "Ruins", "Road", "Horror"
+          "cave", "forest","underground", "dungeon", "wilderness", "graves", "ruins", "road", "horror"
         ],
         "cr": "4",
         "fightingstyle": [
           "melee", "pack", "ambusher"
         ],
-        "movement": ["Walk", "Climb"],
+        "movement": ["walk", "climb"],
         "purpose": ["damage","debuff"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 14,
         "stat_cha": 3,
         "stat_con": 13,
@@ -1506,7 +1506,7 @@
         "stat_wis": 10,
         "thumbnail": "018_giant_spider_6-idle_face_still.webp",
         "type": [
-			"Monstrosity"
+			"monstrosity"
         ],
         "videourl": "https://www.youtube.com/watch?v=dP7ke9ldExA"
       }
@@ -1516,16 +1516,16 @@
       "name": "Spider Skin 7",
       "properties": {
         "biom": [
-         "Cave", "Forest","Underground", "Dungeon", "Wilderness", "Catacomb", "Ruins", "Road", "Horror"
+         "cave", "forest","underground", "dungeon", "wilderness", "graves", "ruins", "road", "horror"
         ],
         "cr": "4",
         "fightingstyle": [
           "melee", "pack", "ambusher"
         ],
-        "movement": ["Walk", "Climb"],
+        "movement": ["walk", "climb"],
         "purpose": ["damage","debuff"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 14,
         "stat_cha": 3,
         "stat_con": 13,
@@ -1536,7 +1536,7 @@
         "stat_wis": 10,
         "thumbnail": "018_giant_spider_7-idle_face_still.webp",
         "type": [
-			"Monstrosity"
+			"monstrosity"
         ],
         "videourl": "https://www.youtube.com/watch?v=dP7ke9ldExA"
       }
@@ -1546,16 +1546,16 @@
       "name": "Spider Skin 8",
       "properties": {
         "biom": [
-          "Cave", "Forest","Underground", "Dungeon", "Wilderness", "Catacomb", "Ruins", "Road", "Horror"
+          "cave", "forest","underground", "dungeon", "wilderness", "graves", "ruins", "road", "horror"
         ],
         "cr": "4",
         "fightingstyle": [
           "melee", "pack", "ambusher"
         ],
-        "movement": ["Walk", "Climb"],
+        "movement": ["walk", "climb"],
         "purpose": ["damage","debuff"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-54945272",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 14,
         "stat_cha": 3,
         "stat_con": 13,
@@ -1566,7 +1566,7 @@
         "stat_wis": 10,
         "thumbnail": "018_giant_spider_8-idle_face_still.webp",
         "type": [
-			"Monstrosity"
+			"monstrosity"
         ],
         "videourl": "https://www.youtube.com/watch?v=dP7ke9ldExA"
       }
@@ -1576,16 +1576,16 @@
       "name": "Reef Keeper",
       "properties": {
         "biom": [
-          "Ocean", "Coastal"
+          "ocean", "coastal"
         ],
         "cr": "2",
         "fightingstyle": [
           "simple"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["support", "ally"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-55213338",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 10,
         "stat_cha": 3,
         "stat_con": 16,
@@ -1596,7 +1596,7 @@
         "stat_wis": 7,
         "thumbnail": "019_reef_keeper-idle_face_still.webp",
         "type": [
-			"Elemental", "Aquatic"
+			"elemental", "aquatic"
         ],
         "videourl": "https://youtu.be/hULy2uZe2ho"
       }
@@ -1606,16 +1606,17 @@
       "name": "Grimgheist",
       "properties": {
         "biom": [
-          "Any"
+          "any"
         ],
         "cr": "6",
         "fightingstyle": [
           "melee", "interactive", "mobile" 
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["hunter", "damage"],
         "releaseurl": "https://www.patreon.com/posts/special-creature-55495677",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 14,
         "stat_cha": 16,
         "stat_con": 14,
         "stat_dex": 16,
@@ -1625,26 +1626,27 @@
         "stat_wis": 12,
         "thumbnail": "020_grimgheist-idle_face_still.webp",
         "type": [
-			"Construct", "Etheral"
+			"construct", "ethereal"
         ],
         "videourl": "https://youtu.be/QiNEu3NUXwQ"
       }
     },
-    "021_ghoul_wretchling": {
-      "description": "The scratching and scrawling noises of Ghoul Wretchlings in the walls and under the floor boards herald an incoming Ghoul Invasion. In the following nights people disappear from the streets or the safety of their homes, overwhelmed and paralyzed by  swarms of the scrawny Ghoul Wretchlings, before being dragged to the underground lairs as nourishment for the advancing main force of ghoulish invaders.",
+    "021_Ghoul_wretchling": {
+      "description": "The scratching and scrawling noises of Ghoul Wretchlings in the walls and under the floor boards herald an incoming Ghoul Invasion. In the following nights people disappear from the streets or the safety of their homes, overwhelmed and paralyzed by  swarms of the scrawny Ghoul Wretchlings, before being dragged to the underground lairs as nourishment for the advancing main force of Ghoulish invaders.",
       "name": "Ghoul Wretchling",
       "properties": {
         "biom": [
-          "Dungeon", "Ruins", "Catacomb", "Horror", "Underground"
+          "dungeon", "ruins", "graves", "horror", "underground"
         ],
         "cr": "1",
         "fightingstyle": [
           "ambusher", "simple", "pack"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["minion"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-55799053",
-        "size": "Small",
+        "size": "small",
+		"stat_ac": 11,
         "stat_cha": 2,
         "stat_con": 11,
         "stat_dex": 14,
@@ -1652,9 +1654,9 @@
         "stat_int": 6,
         "stat_str": 8,
         "stat_wis": 7,
-        "thumbnail": "021_ghoul_wretchling-idle_face_still.webp",
+        "thumbnail": "021_Ghoul_wretchling-idle_face_still.webp",
         "type": [
-			"Undead", "Ghoul"
+			"undead", "ghoul"
         ],
         "videourl": "https://youtu.be/2YPQ9DwUW8k"
       }
@@ -1664,16 +1666,17 @@
       "name": "Orc Shaman",
       "properties": {
         "biom": [
-          "Dungeon", "Ruins", "Wilderness", "Forest", "Wasteland", "Road" 
+          "dungeon", "ruins", "wilderness", "forest", "wasteland", "road" 
         ],
         "cr": "6",
         "fightingstyle": [
           "spellcasting", "interactive", "tactical"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["support","leader"],
         "releaseurl": "https://www.patreon.com/posts/orc-shaman-56073315",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 14,
         "stat_cha": 14,
         "stat_con": 16,
         "stat_dex": 13,
@@ -1683,7 +1686,7 @@
         "stat_wis": 18,
         "thumbnail": "022_orc_shaman-idle_face_still.webp",
         "type": [
-			"Humanoid", "Orc"
+			"humanoid", "orc"
         ],
         "videourl": "https://youtu.be/hxTwTGOCkKk"
       }
@@ -1693,16 +1696,17 @@
       "name": "Orc Warchief",
       "properties": {
         "biom": [
-          "Dungeon", "Ruins", "Wilderness", "Forest", "Wasteland", "Road"
+          "dungeon", "ruins", "wilderness", "forest", "wasteland", "road"
         ],
         "cr": "7",
         "fightingstyle": [
           "tactical", "interactive", "leader"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["leader","support","damage"],
         "releaseurl": "https://www.patreon.com/posts/orc-warchief-and-56356150",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 16,
         "stat_cha": 16,
         "stat_con": 8,
         "stat_dex": 1,
@@ -1712,7 +1716,7 @@
         "stat_wis": 14,
         "thumbnail": "023_orc_warchief-idle_face_still.webp",
         "type": [
-			"Humanoid", "Orc"
+			"humanoid", "orc"
         ],
         "videourl": "https://youtu.be/Xrc-zdqXjq4"
       }
@@ -1722,16 +1726,17 @@
       "name": "Kentauros",
       "properties": {
         "biom": [
-          "Wilderness", "Road"
+          "wilderness", "road"
         ],
         "cr": "4",
         "fightingstyle": [
           "mobile", "ranged"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["damage", "pressure"],
         "releaseurl": "https://www.patreon.com/posts/centaur-56629774",
-        "size": "Large",
+        "size": "large",
+		"stat_ac": 12,
         "stat_cha": 8,
         "stat_con": 16,
         "stat_dex": 16,
@@ -1741,7 +1746,7 @@
         "stat_wis": 14,
         "thumbnail": "024_kentauros-idle_face_still.webp",
         "type": [
-			"Humanoid", "Centaur", "Demi-Human"
+			"humanoid", "demi-human"
         ],
         "videourl": "https://youtu.be/QYWFEbCk5Eg"
       }
@@ -1751,16 +1756,17 @@
       "name": "Trained Archer Skin 1",
       "properties": {
         "biom": [
-          "Any"
+          "any"
         ],
         "cr": "2",
         "fightingstyle": [
           "ranged",  "simple"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["damage", "hunter"],
         "releaseurl": "https://www.patreon.com/posts/trained-archer-56943791",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 15,
         "stat_cha": 11,
         "stat_con": 12,
         "stat_dex": 16,
@@ -1770,7 +1776,7 @@
         "stat_wis": 14,
         "thumbnail": "025_trained_archer_1-idle_face_still.webp",
         "type": [
-			"Humanoid", "Human"
+			"humanoid", "human"
         ],
         "videourl": "https://youtu.be/fE41AfAovCQ"
       }
@@ -1780,16 +1786,17 @@
       "name": "Trained Archer Skin 2",
       "properties": {
         "biom": [
-          "Any"
+          "any"
         ],
         "cr": "2",
         "fightingstyle": [
           "ranged", "simple" 
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["damage", "hunter"],
         "releaseurl": "https://www.patreon.com/posts/trained-archer-56943791",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 15,
         "stat_cha": 11,
         "stat_con": 12,
         "stat_dex": 16,
@@ -1799,7 +1806,7 @@
         "stat_wis": 14,
         "thumbnail": "025_trained_archer_2-idle_face_still.webp",
         "type": [
-			"Humanoid", "Human"
+			"humanoid", "human"
         ],
         "videourl": "https://youtu.be/fE41AfAovCQ"
       }
@@ -1809,16 +1816,17 @@
       "name": "Trained Archer Skin 3",
       "properties": {
         "biom": [
-          "Any"
+          "any"
         ],
         "cr": "2",
         "fightingstyle": [
           "ranged", "simple"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["damage", "hunter"],
         "releaseurl": "https://www.patreon.com/posts/trained-archer-56943791",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 15,
         "stat_cha": 11,
         "stat_con": 12,
         "stat_dex": 16,
@@ -1828,258 +1836,267 @@
         "stat_wis": 14,
         "thumbnail": "025_trained_archer_3-idle_face_still.webp",
         "type": [
-			"Humanoid", "Human"
+			"humanoid", "human"
         ],
         "videourl": "https://youtu.be/fE41AfAovCQ"
       }
     },
     "026_vampire_spawn_1": {
-      "description": "",
+      "description": "Everlasting mist floods the land of Barovia, the cursed realm of Strahd von Zahrovich. Barovia teems with dreadful creatures, most of which are hellbent on making the player's stay in their realm a harrowing one. For Spooktober 2021 we decided to give the iconic Vampire Spawns roaming the crypts and castles of Curse of Strahd a unique spin! The Barovian Vampire spawn is closely bonded to Strahd, who is the land himself, as we all know! This is reflected by increased mental stats and a strange symbiotic relationship with the mist that wreathes it's masters domain, granting a formidable foe even more power and making for a creature able to haunt even veteran players' nightmares!",
       "name": "Vampire Spawn Skin 1",
       "properties": {
         "biom": [
-          "Any"
+          "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground", "desert"
         ],
         "cr": "5",
         "fightingstyle": [
-          "Any"
+          "melee", "regeneration"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk", "climb"],
+        "purpose": ["damage"],
         "releaseurl": "https://www.patreon.com/posts/vampire-spawn-57268303",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 14,
         "stat_cha": 16,
         "stat_con": 16,
         "stat_dex": 16,
-        "stat_hp": 86,
+        "stat_hp": 80,
         "stat_int": 13,
         "stat_str": 16,
         "stat_wis": 13,
         "thumbnail": "026_vampire_spawn_1-idle_face_still.webp",
         "type": [
-			"Undead", "Vampire"
+			"undead", "vampire"
         ],
         "videourl": "https://youtu.be/LXhyJtSYF2s"
       }
     },
     "026_vampire_spawn_2": {
-      "description": "",
+      "description": "Everlasting mist floods the land of Barovia, the cursed realm of Strahd von Zahrovich. Barovia teems with dreadful creatures, most of which are hellbent on making the player's stay in their realm a harrowing one. For Spooktober 2021 we decided to give the iconic Vampire Spawns roaming the crypts and castles of Curse of Strahd a unique spin! The Barovian Vampire spawn is closely bonded to Strahd, who is the land himself, as we all know! This is reflected by increased mental stats and a strange symbiotic relationship with the mist that wreathes it's masters domain, granting a formidable foe even more power and making for a creature able to haunt even veteran players' nightmares!",
       "name": "Vampire Spawn Skin 2",
       "properties": {
         "biom": [
-          "Any"
+          "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground", "desert"
         ],
         "cr": "5",
         "fightingstyle": [
-          "Any"
+          "melee", "regeneration"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk","climb"],
+        "purpose": ["damage"],
         "releaseurl": "https://www.patreon.com/posts/vampire-spawn-57268303",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 14,
         "stat_cha": 16,
         "stat_con": 16,
         "stat_dex": 16,
-        "stat_hp": 86,
+        "stat_hp": 80,
         "stat_int": 13,
         "stat_str": 16,
         "stat_wis": 13,
         "thumbnail": "026_vampire_spawn_2-idle_face_still.webp",
         "type": [
-			"Undead", "Vampire"
+			"undead", "vampire"
         ],
         "videourl": "https://youtu.be/LXhyJtSYF2s"
       }
     },
     "026_vampire_spawn_3": {
-      "description": "",
+      "description": "Everlasting mist floods the land of Barovia, the cursed realm of Strahd von Zahrovich. Barovia teems with dreadful creatures, most of which are hellbent on making the player's stay in their realm a harrowing one. For Spooktober 2021 we decided to give the iconic Vampire Spawns roaming the crypts and castles of Curse of Strahd a unique spin! The Barovian Vampire spawn is closely bonded to Strahd, who is the land himself, as we all know! This is reflected by increased mental stats and a strange symbiotic relationship with the mist that wreathes it's masters domain, granting a formidable foe even more power and making for a creature able to haunt even veteran players' nightmares!",
       "name": "Vampire Spawn Skin 3",
       "properties": {
         "biom": [
-          "Any"
+          "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground", "desert"
         ],
         "cr": "5",
         "fightingstyle": [
-          "Any"
+          "melee", "regeneration"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk", "climb"],
+        "purpose": ["damage"],
         "releaseurl": "https://www.patreon.com/posts/vampire-spawn-57268303",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 14,
         "stat_cha": 16,
         "stat_con": 16,
         "stat_dex": 16,
-        "stat_hp": 86,
+        "stat_hp": 80,
         "stat_int": 13,
         "stat_str": 16,
         "stat_wis": 13,
         "thumbnail": "026_vampire_spawn_3-idle_face_still.webp",
         "type": [
-			"Undead", "Vampire"
+			"undead", "vampire"
         ],
         "videourl": "https://youtu.be/LXhyJtSYF2s"
       }
     },
     "026_vampire_spawn_4": {
-      "description": "",
+      "description": "Everlasting mist floods the land of Barovia, the cursed realm of Strahd von Zahrovich. Barovia teems with dreadful creatures, most of which are hellbent on making the player's stay in their realm a harrowing one. For Spooktober 2021 we decided to give the iconic Vampire Spawns roaming the crypts and castles of Curse of Strahd a unique spin! The Barovian Vampire spawn is closely bonded to Strahd, who is the land himself, as we all know! This is reflected by increased mental stats and a strange symbiotic relationship with the mist that wreathes it's masters domain, granting a formidable foe even more power and making for a creature able to haunt even veteran players' nightmares!",
       "name": "Vampire Spawn Skin 4",
       "properties": {
         "biom": [
-          "Any"
+          "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground", "desert"
         ],
         "cr": "5",
         "fightingstyle": [
-          "Any"
+          "melee", "regeneration"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk", "climb"],
+        "purpose": ["damage"],
         "releaseurl": "https://www.patreon.com/posts/vampire-spawn-57268303",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 14,
         "stat_cha": 16,
         "stat_con": 16,
         "stat_dex": 16,
-        "stat_hp": 86,
+        "stat_hp": 80,
         "stat_int": 13,
         "stat_str": 16,
         "stat_wis": 13,
         "thumbnail": "026_vampire_spawn_4-idle_face_still.webp",
         "type": [
-			"Undead", "Vampire"
+			"undead", "vampire"
         ],
         "videourl": "https://youtu.be/LXhyJtSYF2s"
       }
     },
     "027_revenant_knight_1": {
-      "description": "",
+      "description": "The once great Knights of the Order are tragic figures, rust-flaked shades of their former selves, filled only with poisobous thoughts of vengeance and seething hatred. Our Revenant Knight is a tribute to the fallen Order of the Silver Dragon and leans more heaviliy into the tragic nobility of an undead order of Dragon-sworn Knights, with the icy essence of Argynvost still clinging to their ruined armour, in a desperate attempt to shield them from harm even in death. The lingering soul of the Silver Dragon still permeates his brothers in arms, empowering them in dynamic and unique ways.",
       "name": "Revenant Knight Skin 1",
       "properties": {
         "biom": [
-          "Any"
+          "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground"
         ],
         "cr": "5",
         "fightingstyle": [
-          "regeneration", "melee"
+          "simple", "melee"
         ],
-        "movement": ["Walk"],
-        "purpose": ["damage", "tank", "debuff"],
+        "movement": ["walk"],
+        "purpose": ["damage","debuff"],
         "releaseurl": "https://www.patreon.com/posts/revenant-knight-57567686",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 13,
         "stat_cha": 18,
         "stat_con": 18,
         "stat_dex": 14,
-        "stat_hp": 116,
+        "stat_hp": 120,
         "stat_int": 13,
         "stat_str": 18,
         "stat_wis": 16,
         "thumbnail": "027_revenant_knight_1-idle_face_still.webp",
         "type": [
-			"Undead", "Human", "Knight"
+			"undead"
         ],
         "videourl": "https://youtu.be/Ntb0R0njJSI"
       }
     },
     "027_revenant_knight_2": {
-      "description": "",
+      "description": "The once great Knights of the Order are tragic figures, rust-flaked shades of their former selves, filled only with poisobous thoughts of vengeance and seething hatred. Our Revenant Knight is a tribute to the fallen Order of the Silver Dragon and leans more heaviliy into the tragic nobility of an undead order of Dragon-sworn Knights, with the icy essence of Argynvost still clinging to their ruined armour, in a desperate attempt to shield them from harm even in death. The lingering soul of the Silver Dragon still permeates his brothers in arms, empowering them in dynamic and unique ways.",
       "name": "Revenant Knight Skin 2",
       "properties": {
         "biom": [
-          "Any"
+          "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground"
         ],
         "cr": "5",
         "fightingstyle": [
-          "regeneration", "melee"
+          "simple", "melee"
         ],
-        "movement": ["Walk"],
-        "purpose": ["damage", "tank", "debuff"],
+        "movement": ["walk"],
+        "purpose": ["damage","debuff"],
         "releaseurl": "https://www.patreon.com/posts/revenant-knight-57567686",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 13,
         "stat_cha": 18,
         "stat_con": 18,
         "stat_dex": 14,
-        "stat_hp": 116,
+        "stat_hp": 120,
         "stat_int": 13,
         "stat_str": 18,
         "stat_wis": 16,
         "thumbnail": "027_revenant_knight_2-idle_face_still.webp",
         "type": [
-			"Undead", "Human", "Knight"
+			"undead"
         ],
         "videourl": "https://youtu.be/Ntb0R0njJSI"
       }
     },
     "027_revenant_knight_3": {
-      "description": "",
+      "description": "The once great Knights of the Order are tragic figures, rust-flaked shades of their former selves, filled only with poisobous thoughts of vengeance and seething hatred. Our Revenant Knight is a tribute to the fallen Order of the Silver Dragon and leans more heaviliy into the tragic nobility of an undead order of Dragon-sworn Knights, with the icy essence of Argynvost still clinging to their ruined armour, in a desperate attempt to shield them from harm even in death. The lingering soul of the Silver Dragon still permeates his brothers in arms, empowering them in dynamic and unique ways.",
       "name": "Revenant Knight Skin 3",
       "properties": {
         "biom": [
-          "Any"
+          "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground"
         ],
         "cr": "5",
         "fightingstyle": [
-          "regeneration", "melee"
+          "simple", "melee"
         ],
-        "movement": ["Walk"],
-        "purpose": ["damage", "tank", "debuff"],
+        "movement": ["walk"],
+        "purpose": ["damage","debuff"],
         "releaseurl": "https://www.patreon.com/posts/revenant-knight-57567686",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 13,
         "stat_cha": 18,
         "stat_con": 18,
         "stat_dex": 14,
-        "stat_hp": 116,
+        "stat_hp": 120,
         "stat_int": 13,
         "stat_str": 18,
         "stat_wis": 16,
         "thumbnail": "027_revenant_knight_3-idle_face_still.webp",
         "type": [
-			"Undead", "Human", "Knight"
+			"undead"
         ],
         "videourl": "https://youtu.be/Ntb0R0njJSI"
       }
     },
     "027_revenant_knight_4": {
-      "description": "",
+      "description": "The once great Knights of the Order are tragic figures, rust-flaked shades of their former selves, filled only with poisobous thoughts of vengeance and seething hatred. Our Revenant Knight is a tribute to the fallen Order of the Silver Dragon and leans more heaviliy into the tragic nobility of an undead order of Dragon-sworn Knights, with the icy essence of Argynvost still clinging to their ruined armour, in a desperate attempt to shield them from harm even in death. The lingering soul of the Silver Dragon still permeates his brothers in arms, empowering them in dynamic and unique ways.",
       "name": "Revenant Knight Skin 1",
       "properties": {
         "biom": [
-          "Any"
+          "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground"
         ],
         "cr": "5",
         "fightingstyle": [
-          "regeneration", "melee"
+          "simple", "melee"
         ],
-        "movement": ["Walk"],
-        "purpose": ["damage", "tank", "debuff"],
+        "movement": ["walk"],
+        "purpose": ["damage", "debuff"],
         "releaseurl": "https://www.patreon.com/posts/revenant-knight-57567686",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 13,
         "stat_cha": 18,
         "stat_con": 18,
         "stat_dex": 14,
-        "stat_hp": 116,
+        "stat_hp": 120,
         "stat_int": 13,
         "stat_str": 18,
         "stat_wis": 16,
         "thumbnail": "027_revenant_knight_4-idle_face_still.webp",
         "type": [
-			"Undead", "Human", "Knight"
+			"undead"
         ],
         "videourl": "https://youtu.be/Ntb0R0njJSI"
       }
     },
     "028_unchained_armor": {
-      "description": "",
+      "description": "The second-to-last entry of our spooky tribute to our favourite vampire-centric D&D 5e module is here! The rattlinf of chains and metallic cling-clang noises coming from the basement where no illusion, as the big bads own suit of armor has come alive to terrorize nosey parties disturbing the slumber of its master. With lightning surging through the unholy metal and the aforementioned chains eagerly dangling from its black-iron frame, our interpretation if the animated armor is even more vicious than the orignal!",
       "name": "Unchained Armor",
       "properties": {
         "biom": [
-          "Any"
+          "dungeon", "ruins", "graves", "horror", "lair", "civilised", "underground"
         ],
         "cr": "7",
         "fightingstyle": [
-          "Any"
+          "demanding", "melee"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["bodyguard", "gimmick"],
         "releaseurl": "https://www.patreon.com/posts/unchained-armor-57886127",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 21,
         "stat_cha": 9,
         "stat_con": 16,
         "stat_dex": 13,
@@ -2089,26 +2106,27 @@
         "stat_wis": 10,
         "thumbnail": "028_unchained_armor-idle_face_still.webp",
         "type": [
-			"Construct"
+			"construct"
         ],
         "videourl": "https://youtu.be/3Phm1eIYhDc"
       }
     },
     "029_infernal_steed_1": {
-      "description": "",
-      "name": "Infernal Steed Skin 1",
+      "description": "This equine nightmare enjoys soaring through the nightly sky, terrorizing local villagers in their very, very flammable homes and (sometimes literally) booting uppity adventurers from its masters castle.",
+      "name": "infernal Steed Skin 1",
       "properties": {
         "biom": [
-          "Any"
+          "graves", "horror", "forest", "civilised", "infernal", "road", "wilderness"
         ],
         "cr": "4",
         "fightingstyle": [
-          "Any"
+          "charge", "mobile"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk","fly"],
+        "purpose": ["mount","damage"],
         "releaseurl": "https://www.patreon.com/posts/infernal-steed-58171308",
-        "size": "Large",
+        "size": "large",
+		"stat_ac": 14,
         "stat_cha": 14,
         "stat_con": 16,
         "stat_dex": 16,
@@ -2118,26 +2136,27 @@
         "stat_wis": 13,
         "thumbnail": "029_infernal_steed_1-idle_face_still.webp",
         "type": [
-			"Fiend", "Horse"
+			"fiend"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/JMJU_U_P5BU"
       }
     },
     "029_infernal_steed_2": {
-      "description": "",
-      "name": "Infernal Steed Skin 2",
+      "description": "This equine nightmare enjoys soaring through the nightly sky, terrorizing local villagers in their very, very flammable homes and (sometimes literally) booting uppity adventurers from its masters castle.",
+      "name": "infernal Steed Skin 2",
       "properties": {
         "biom": [
-          "Any"
+          "graves", "horror", "forest", "civilised", "infernal", "road", "wilderness"
         ],
         "cr": "4",
         "fightingstyle": [
-          "Any"
+          "charge", "mobile"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk", "fly"],
+        "purpose": ["mount", "damage"],
         "releaseurl": "https://www.patreon.com/posts/infernal-steed-58171308",
-        "size": "Large",
+        "size": "large",
+		"stat_ac": 14,
         "stat_cha": 14,
         "stat_con": 16,
         "stat_dex": 16,
@@ -2147,26 +2166,27 @@
         "stat_wis": 13,
         "thumbnail": "029_infernal_steed_2-idle_face_still.webp",
         "type": [
-			"Fiend", "Horse"
+			"fiend" 
         ],
         "videourl": "https://youtu.be/JMJU_U_P5BU"
       }
     },
     "029_infernal_steed_3": {
-      "description": "",
-      "name": "Infernal Steed Skin 3",
+      "description": "This equine nightmare enjoys soaring through the nightly sky, terrorizing local villagers in their very, very flammable homes and (sometimes literally) booting uppity adventurers from its masters castle.",
+      "name": "infernal Steed Skin 3",
       "properties": {
         "biom": [
-          "Any"
+          "graves", "horror", "forest", "civilised", "infernal", "road", "wilderness"
         ],
         "cr": "4",
         "fightingstyle": [
-          "Any"
+          "charge", "mobile"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk", "fly"],
+        "purpose": ["mount", "damage"],
         "releaseurl": "https://www.patreon.com/posts/infernal-steed-58171308",
-        "size": "Large",
+        "size": "large",
+		"stat_ac": 14,
         "stat_cha": 14,
         "stat_con": 16,
         "stat_dex": 16,
@@ -2176,26 +2196,27 @@
         "stat_wis": 13,
         "thumbnail": "029_infernal_steed_3-idle_face_still.webp",
         "type": [
-			"Fiend", "Horse"
+			"fiend"
         ],
         "videourl": "https://youtu.be/JMJU_U_P5BU"
       }
     },
     "029_infernal_steed_4": {
-      "description": "",
-      "name": "Infernal Steed Skin 4",
+      "description": "This equine nightmare enjoys soaring through the nightly sky, terrorizing local villagers in their very, very flammable homes and (sometimes literally) booting uppity adventurers from its masters castle.",
+      "name": "infernal Steed Skin 4",
       "properties": {
         "biom": [
-          "Any"
+           "graves", "horror", "forest", "civilised", "infernal", "road", "wilderness"
         ],
         "cr": "4",
         "fightingstyle": [
-          "Any"
+          "charge", "mobile"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk", "fly"],
+        "purpose": ["mount", "damage"],
         "releaseurl": "https://www.patreon.com/posts/infernal-steed-58171308",
-        "size": "Large",
+        "size": "large",
+		"stat_ac": 14,
         "stat_cha": 14,
         "stat_con": 16,
         "stat_dex": 16,
@@ -2205,26 +2226,27 @@
         "stat_wis": 13,
         "thumbnail": "029_infernal_steed_4-idle_face_still.webp",
         "type": [
-			"Fiend", "Horse"
+			"fiend"
         ],
         "videourl": "https://youtu.be/JMJU_U_P5BU"
       }
     },
     "030_commoner_1_m_worker": {
-      "description": "",
+      "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
       "name": "Commoner 1 Male Worker",
       "properties": {
         "biom": [
-          "Any"
+          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city" 
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "Any"
+          "simple"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["minion", "ally"],
         "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 7,
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -2234,26 +2256,27 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_1_m_worker-idle_face_still.webp",
         "type": [
-			"Humanoid", "Human"
+			"humanoid", "human"
         ],
         "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_2_m_merchant": {
-      "description": "",
+      "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
       "name": "Commoner 2 Male Merchant",
       "properties": {
         "biom": [
-          "Any"
+          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "Any"
+          "simple"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["minion", "ally"],
         "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 7,
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -2263,26 +2286,27 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_2_m_merchant-idle_face_still.webp",
         "type": [
-			"Humanoid", "Human"
+			"humanoid", "human"
         ],
         "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_3_m_beggar": {
-      "description": "",
+      "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
       "name": "Commoner 3 Male Beggar",
       "properties": {
         "biom": [
-          "Any"
+          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "Any"
+          "simple"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["minion", "ally"],
         "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 7,
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -2292,26 +2316,27 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_3_m_beggar-idle_face_still.webp",
         "type": [
-			"Humanoid", "Human"
+			"humanoid", "human"
         ],
         "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_4_m_priest_1": {
-      "description": "",
+      "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
       "name": "Commoner 4 Male Priest 1",
       "properties": {
         "biom": [
-          "Any"
+          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral","city" 
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "Any"
+          "simple"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["minion", "ally"],
         "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 7,
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -2321,26 +2346,27 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_4_m_priest_1-idle_face_still.webp",
         "type": [
-			"Humanoid", "Human"
+			"humanoid", "human"
         ],
         "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_6_m_peasant_1": {
-      "description": "",
+      "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
       "name": "Commoner 6 Male Peasant 1",
       "properties": {
         "biom": [
-          "Any"
+          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "Any"
+          "simple"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["ally", "minion"],
         "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 7,
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -2350,26 +2376,27 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_6_m_peasant_1-idle_face_still.webp",
         "type": [
-			"Humanoid", "Human"
+			"humanoid", "human"
         ],
         "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_7_m_peasant_2": {
-      "description": "",
+      "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
       "name": "Commoner 7 Male Peasant 2",
       "properties": {
         "biom": [
-          "Any"
+          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "Any"
+          "simple"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["minion", "ally"],
         "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 7,
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -2379,26 +2406,27 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_7_m_peasant_2-idle_face_still.webp",
         "type": [
-			"Humanoid", "Human"
+			"humanoid", "human"
         ],
         "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_8_m": {
-      "description": "",
+      "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
       "name": "Commoner 8 Male",
       "properties": {
         "biom": [
-          "Any"
+          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "Any"
+          "simple"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["ally", "minion"],
         "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 7,
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -2408,26 +2436,27 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_8_m-idle_face_still.webp",
         "type": [
-  			"Humanoid", "Human"
+  			"humanoid", "human"
         ],
         "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_9_m_noble": {
-      "description": "",
+      "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
       "name": "Commoner 9 Male Noble 1",
       "properties": {
         "biom": [
-          "Any"
+          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "Any"
+          "simple"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["minion", "ally"],
         "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 7,
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -2437,26 +2466,27 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_9_m_noble-idle_face_still.webp",
         "type": [
-			"Humanoid", "Human"
+			"humanoid", "human"
         ],
         "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_10_m_noble": {
-      "description": "",
+      "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
       "name": "Commoner 10 Male Noble 2",
       "properties": {
         "biom": [
-          "Any"
+          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "Any"
+          "simple"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["minion", "ally"],
         "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 7,
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -2466,26 +2496,27 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_10_m_noble-idle_face_still.webp",
         "type": [
-			"Humanoid", "Human"
+			"humanoid", "human"
         ],
         "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_11_f_priest": {
-      "description": "",
+      "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
       "name": "Commoner 11 Female Priest",
       "properties": {
         "biom": [
-          "Any"
+          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "Any"
+          "simple"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["minion", "ally"],
         "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 7,
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -2495,26 +2526,27 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_11_f_priest-idle_face_still.webp",
         "type": [
-			"Humanoid", "Human"
+			"humanoid", "human"
         ],
         "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_12_f_worker": {
-      "description": "",
+      "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
       "name": "Commoner 12 Female Worker",
       "properties": {
         "biom": [
-          "Any"
+          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "Any"
+          "simple"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["minion", "ally"],
         "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 7,
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -2524,26 +2556,27 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_12_f_worker-idle_face_still.webp",
         "type": [
-			"Humanoid", "Human"
+			"humanoid", "human"
         ],
         "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_13_f_herbalist": {
-      "description": "",
+      "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
       "name": "Commoner 13 Female Herbalist",
       "properties": {
         "biom": [
-          "Any"
+          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "Any"
+          "simple"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["minion", "ally"],
         "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 7,
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -2553,26 +2586,27 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_13_f_herbalist-idle_face_still.webp",
         "type": [
-  			"Humanoid", "Human"
+  			"humanoid", "human"
         ],
         "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_14_f_old": {
-      "description": "",
+      "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
       "name": "Commoner 14 Female Old",
       "properties": {
         "biom": [
-          "Any"
+          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "Any"
+          "simple"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["minion", "ally"],
         "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 7,
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -2582,26 +2616,27 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_14_f_old-idle_face_still.webp",
         "type": [
-			"Humanoid", "Human"
+			"humanoid", "human"
         ],
         "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_15_f_noble": {
-      "description": "",
+      "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
       "name": "Commoner 15 Female Noble 1",
       "properties": {
         "biom": [
-          "Any"
+          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city" 
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "Any"
+          "simple"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["minion", "ally"],
         "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 7,
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -2611,26 +2646,27 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_15_f_noble-idle_face_still.webp",
         "type": [
-			"Humanoid", "Human"
+			"humanoid", "human"
         ],
         "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_16_f_noble_2": {
-      "description": "",
+      "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
       "name": "Commoner 16 Female Noble 2",
       "properties": {
         "biom": [
-          "Any"
+          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "Any"
+          "simple"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["ally", "minion"],
         "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 7,
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -2640,26 +2676,27 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_16_f_noble_2-idle_face_still.webp",
         "type": [
-			"Humanoid", "Human"
+			"humanoid", "human"
         ],
         "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_17_f_maid": {
-      "description": "",
+      "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
       "name": "Commoner 17 Female Maid",
       "properties": {
         "biom": [
-          "Any"
+          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "Any"
+          "simple"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["minion", "ally"],
         "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 7,
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -2669,26 +2706,27 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_17_f_maid-idle_face_still.webp",
         "type": [
- 			"Humanoid", "Human"
+ 			"humanoid", "human"
         ],
         "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_18_f_mother": {
-      "description": "",
+      "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
       "name": "Commoner 18 Female Mother",
       "properties": {
         "biom": [
-          "Any"
+          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "Any"
+          "simple"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["minion", "ally"],
         "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 7,
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -2698,26 +2736,27 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_18_f_mother-idle_face_still.webp",
         "type": [
- 			"Humanoid", "Human"
+ 			"humanoid", "human"
         ],
         "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_19_f": {
-      "description": "",
+      "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
       "name": "Commoner 19 Female",
       "properties": {
         "biom": [
-          "Any"
+          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "Any"
+          "simple"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["minion", "ally"],
         "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 7,
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -2727,26 +2766,27 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_19_f-idle_face_still.webp",
         "type": [
-			"Humanoid", "Human"
+			"humanoid", "human"
         ],
         "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "030_commoner_20_f_peasant": {
-      "description": "",
+      "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
       "name": "Commoner 20 Female Peasant",
       "properties": {
         "biom": [
-          "Any"
+          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
-          "Any"
+          "simple"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["minion", "idle"],
         "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 7,
         "stat_cha": 10,
         "stat_con": 11,
         "stat_dex": 10,
@@ -2756,26 +2796,27 @@
         "stat_wis": 11,
         "thumbnail": "030_commoner_20_f_peasant-idle_face_still.webp",
         "type": [
-			"Humanoid", "Human"
+			"humanoid", "human"
         ],
         "videourl": "https://youtu.be/NHajks2Mkk8"
       }
     },
     "031_swarm_of_vampire_bats": {
-      "description": "",
+      "description": "Except as a carrier of disease, a single bat does not usually pose much of a challenge for both fledgling and seasoned adventurers. But add a few hundred or even thousand bats, and you're suddenly confronted with a shrieking inferno of razor claws and pointy teeth, able to gnaw any humanoid the meat from its bones by sheer mass of bodies. Now, regular swarms of bats normally don't show signs of aggression towards beings larger than their insect prey. But in a world steeped in dark magic and beset by evil forces, bats can become dangerous creatures, revelling in a vampiric nature normally only shown by a few select subspecies of bats. These bloodthirsty swarms of bats darken the moonlight sky with ominous intent and are said to only leave drained husks in their wake...",
       "name": "Swarm of Vampire Bats",
       "properties": {
         "biom": [
-          "Any"
+          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern","city", "ruins", "graves", "dungeon", "horror", "wilderness", "lair", "wasteland", "underground"
         ],
         "cr": "3",
         "fightingstyle": [
-          "Any"
+          "pack", "airborne"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["climb", "fly"],
+        "purpose": ["support", "minion"],
         "releaseurl": "https://www.patreon.com/posts/vampire-bat-58786013",
-        "size": "Large",
+        "size": "large",
+	    "stat_ac": 12,
         "stat_cha": 4,
         "stat_con": 10,
         "stat_dex": 15,
@@ -2785,26 +2826,27 @@
         "stat_wis": 13,
         "thumbnail": "031_swarm_of_vampire_bats-idle_face_still.webp",
         "type": [
-			"Humanoid", "Human"
+			"beast", "swarm"
         ],
         "videourl": "https://youtu.be/zp3E-BojPVM"
       }
     },
     "032_night_hag_1": {
-      "description": "",
+      "description": "Night Hags (sometimes literally) just scream ''Dungeons and Dragons'' to us, so we are happy to just bang out this classic a monster once in a while! Night hags are vile creatures, once proud denizens of the fae wild who's cruel inclinations got them banished to the Grey Wastes, an ever-gloomy hellscape out in the Far Realms. Not that it matters, for they are able to plane shift to freely spread their very own flavour of chaos, obsession and corruption by poisoning creatures dreams, driving them mad and eventually collecting their souls. Of course, we made some adjustments to the original creature, giving her two additional nightmarish abilities!",
       "name": "Night Hag Skin 1",
       "properties": {
         "biom": [
-          "Any"
+          "dungeon", "lair", "graves", "ruins", "horror", "wilderness", "forest", "mountains", "coastal", "wasteland", "road", "planar"
         ],
         "cr": "6",
         "fightingstyle": [
-          "Any"
+          "spellcasting", "tactical", "demanding"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["debuff", "pressure"],
         "releaseurl": "https://www.patreon.com/posts/night-hag-58981560",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 17,
         "stat_cha": 16,
         "stat_con": 16,
         "stat_dex": 15,
@@ -2814,26 +2856,27 @@
         "stat_wis": 14,
         "thumbnail": "032_night_hag_1-idle_face_still.webp",
         "type": [
-			"Fey", "Hag"
+			"fey", "hag"
         ],
         "videourl": "https://youtu.be/CkrpBIvW0wU"
       }
     },
     "032_night_hag_2": {
-      "description": "",
+      "description": "Night Hags (sometimes literally) just scream ''Dungeons and Dragons'' to us, so we are happy to just bang out this classic a monster once in a while! Night hags are vile creatures, once proud denizens of the fae wild who's cruel inclinations got them banished to the Grey Wastes, an ever-gloomy hellscape out in the Far Realms. Not that it matters, for they are able to plane shift to freely spread their very own flavour of chaos, obsession and corruption by poisoning creatures dreams, driving them mad and eventually collecting their souls. Of course, we made some adjustments to the original creature, giving her two additional nightmarish abilities!",
       "name": "Night Hag Skin 2",
       "properties": {
         "biom": [
-          "Any"
+           "dungeon", "lair", "graves", "ruins", "horror", "wilderness", "forest", "mountains", "coastal", "wasteland", "road", "planar"
         ],
         "cr": "6",
         "fightingstyle": [
-          "Any"
+            "spellcasting", "tactical", "demanding"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["debuff", "pressure"],
         "releaseurl": "https://www.patreon.com/posts/night-hag-58981560",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 17,
         "stat_cha": 16,
         "stat_con": 16,
         "stat_dex": 15,
@@ -2843,26 +2886,27 @@
         "stat_wis": 14,
         "thumbnail": "032_night_hag_2-idle_face_still.webp",
         "type": [
-			"Fey", "Hag"
+			"fey", "hag"
         ],
         "videourl": "https://youtu.be/CkrpBIvW0wU"
       }
     },
     "032_night_hag_3": {
-      "description": "",
+      "description": "Night Hags (sometimes literally) just scream ''Dungeons and Dragons'' to us, so we are happy to just bang out this classic a monster once in a while! Night hags are vile creatures, once proud denizens of the fae wild who's cruel inclinations got them banished to the Grey Wastes, an ever-gloomy hellscape out in the Far Realms. Not that it matters, for they are able to plane shift to freely spread their very own flavour of chaos, obsession and corruption by poisoning creatures dreams, driving them mad and eventually collecting their souls. Of course, we made some adjustments to the original creature, giving her two additional nightmarish abilities!",
       "name": "Night Hag Skin 3",
       "properties": {
         "biom": [
-          "Any"
+           "dungeon", "lair", "graves", "ruins", "horror", "wilderness", "forest", "mountains", "coastal", "wasteland", "road", "planar"
         ],
         "cr": "6",
         "fightingstyle": [
-          "Any"
+            "spellcasting", "tactical", "demanding"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["debuff", "pressure"],
         "releaseurl": "https://www.patreon.com/posts/night-hag-58981560",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 17,
         "stat_cha": 16,
         "stat_con": 16,
         "stat_dex": 15,
@@ -2872,27 +2916,28 @@
         "stat_wis": 14,
         "thumbnail": "032_night_hag_3-idle_face_still.webp",
         "type": [
-			"Fey", "Hag"
+			"fey", "hag"
         ],
         "videourl": "https://youtu.be/CkrpBIvW0wU"
       }
     },
     "033_yeti": {
-      "description": "",
+      "description": "Yetis are a chimeric breed, carrying an accumulation of odd traits from their ancestors. Who exactly those ancestors were is unclear, but the Yeti's immunity to even magical cold that far exceeds any natural resistances, as well as their regenerative healing abilites seem to imply a shared heritage based upon both the blood of Frost Giants as well as Trolls. How this unholy alliance came to pass remains mercifully unknown, but it is terrifying nonetheless.",
       "name": "Yeti",
       "properties": {
         "biom": [
-          "Any"
+          "mountains", "wilderness", "forest", "wasteland"
         ],
         "cr": "9",
         "fightingstyle": [
-          "Any"
+           "melee", "charge","demanding"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk", "climb"],
+        "purpose": ["damage", "debuff"],
         "releaseurl": "https://www.patreon.com/posts/yeti-59381193",
-        "size": "Huge",
-        "stat_cha": 6,
+        "size": "huge",
+		"stat_ac": 15,
+        "stat_cha": 16,
         "stat_con": 24,
         "stat_dex": 10,
         "stat_hp": 127,
@@ -2901,26 +2946,27 @@
         "stat_wis": 14,
         "thumbnail": "033_yeti-idle_face_still.webp",
         "type": [
-			"Giant"
+			"monstrosity"
         ],
         "videourl": "https://youtu.be/gu_GlBT6faU"
       }
     },
     "034_war-troll": {
-      "description": "",
-      "name": "Roc",
+      "description": "Despite Trolls not being particularly sociable, someone just went ahead and recruited some into his merry band of raiders. The prospect of loot and food might have been enough, but no honest Troll would ever pass up the chance to deal out some unchecked violence as well. Thanks to that brave and creative individual more and more bandit leaders, orc war chiefs or mercenary captains managed to coax one of the hulking brutes into joining their venture. These War-Trolls are a tad more intelligent than their truly feral kin and, if drilled correctly, will even follow basic orders. A well trained and experienced War-Troll is truly dangerous, as it knows to efficiently apply its devastating strength to crush its enemies with ease.",
+      "name": "Wartroll",
       "properties": {
         "biom": [
-          "Any"
+          "dungeon", "ruins", "wilderness", "wasteland", "forest", "civilised", "road", "mountains", "desert", "underground"
         ],
         "cr": "8",
         "fightingstyle": [
           "charge", "melee", "regeneration"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["damage"],
         "releaseurl": "https://www.patreon.com/posts/war-troll-59470079",
-        "size": "Large",
+        "size": "large",
+		"stat_ac": 15,
         "stat_cha": 7,
         "stat_con": 20,
         "stat_dex": 13,
@@ -2930,26 +2976,27 @@
         "stat_wis": 10,
         "thumbnail": "034_war_troll-idle_face_still.webp",
         "type": [
-			"Fey", "Troll"
+			"giant", "troll"
         ],
         "videourl": "https://youtu.be/LjZ3xvm9iK4"
       }
     },
     "035_roc": {
-      "description": "",
+      "description": "To describe Rocs as 'gigantic birds of prey' is accurate but vastly understates the horror of a creature able to carry off a fully grown elephant in its talons. They are both profane and mythical in nature, dominating their realm due to their sheer size alone, without any magical or primordial powers coursing through them. They are able to adapt to nearly any environment, causing regional differences in their appearance, as evidenced by sightings of vividly coloured tropical Rocs, as well as arctic variants with frost-wreathed pinions, preying on Yetis and Mammoths.",
       "name": "Roc",
       "properties": {
         "biom": [
-          "Any"
+          "mountains", "desert", "forest", "wilderness", "lair", "wasteland", "road", "coastal", "ocean"
         ],
         "cr": "11",
         "fightingstyle": [
-          "Any"
+          "airborne", "demanding", "mobile"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["fly", "walk"],
+        "purpose": ["damage", "boss"],
         "releaseurl": "https://www.patreon.com/posts/roc-59825905",
-        "size": "Gargantuan",
+        "size": "gargantuan",
+		"stat_ac": 15,
         "stat_cha": 9,
         "stat_con": 20,
         "stat_dex": 10,
@@ -2959,55 +3006,57 @@
         "stat_wis": 14,
         "thumbnail": "035_roc-idle_face_still.webp",
         "type": [
-			"Monstrosity", "Bird"
+			"monstrosity"
         ],
         "videourl": "https://youtu.be/tuZkcDQJCEc"
       }
     },
     "036_winter_empress_1": {
-      "description": "",
-      "name": "Black Ice Effigy 1",
+      "description": "The Winter Empress is a fey creature, the regent of a frost-wreathed realm of eternal ice. She is an ambitious monarch and often has her court venture out into the realm of man to bring unnatural winter in their wake. Although some claim to have bested or even slain her, tales of her defeat are often followed by even more frigid devastation at the hands of the vengeful queen of ice. With the utterly devoted Knights of Winter sworn to her service, she is considered one of the most enigmatic, yet powerful of the fair lords and ladies.",
+      "name": "Winter Empress",
       "properties": {
         "biom": [
-          "Any"
+          "planar", "lair", "civilised", "mountains"
         ],
-        "cr": "1",
+        "cr": "16",
         "fightingstyle": [
-          "Any"
+          "spellcasting", "tactical", "interactive"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["boss", "leader"],
         "releaseurl": "https://www.patreon.com/posts/winter-empress-60103806",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 18,
         "stat_cha": 22,
         "stat_con": 18,
         "stat_dex": 14,
-        "stat_hp": 38,
+        "stat_hp": 190,
         "stat_int": 18,
         "stat_str": 16,
         "stat_wis": 20,
         "thumbnail": "036_winter_empress_1-idle_face_still.webp",
         "type": [
-			"Fey", "Human"
+			"fey"
         ],
         "videourl": "https://youtu.be/Kv4Iy1BW7Qg"
       }
     },
     "036_winter_empress_2": {
-      "description": "",
-      "name": "Black Ice Effigy 2",
+      "description": "The Winter Empress is a fey creature, the regent of a frost-wreathed realm of eternal ice. She is an ambitious monarch and often has her court venture out into the realm of man to bring unnatural winter in their wake. Although some claim to have bested or even slain her, tales of her defeat are often followed by even more frigid devastation at the hands of the vengeful queen of ice. With the utterly devoted Knights of Winter sworn to her service, she is considered one of the most enigmatic, yet powerful of the fair lords and ladies.",
+      "name": "Winter Empress Armored",
       "properties": {
         "biom": [
-          "Any"
+            "planar", "lair", "civilised", "mountains"
         ],
-        "cr": "1",
+        "cr": "16",
         "fightingstyle": [
-          "Any"
+          "spellcasting", "tactical", "interactive"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["boss", "leader"],
         "releaseurl": "https://www.patreon.com/posts/winter-empress-60103806",
-        "size": "Medium",
+        "size": "medium",
+		"stat_ac": 18,
         "stat_cha": 22,
         "stat_con": 18,
         "stat_dex": 14,
@@ -3017,26 +3066,27 @@
         "stat_wis": 20,
         "thumbnail": "036_winter_empress_2-idle_face_still.webp",
         "type": [
-			"Fey", "Human"
+			"fey"
         ],
         "videourl": "https://youtu.be/Kv4Iy1BW7Qg"
       }
     },
     "037_royal_griffon": {
-      "description": "",
+      "description": "Since ages past, the Griffon has been a symbol of just and virtuos regency, earning their species the prefix 'royal'. Because of this symbolism, Royal Griffons are coveted mounts and familiars for any ambitious sovereign. Taming a feral Griffon is a dangerous and arduous undertaking, therefore most trained Griffons originate from Heralds Aerie, a mountain bastion held by an Order of Knights dedicated to forging a bond between a Griffon and its rider.",
       "name": "Royal Griffon",
       "properties": {
         "biom": [
-          "Any"
+          "wilderness", "civilised", "forest", "wasteland", "road", "desert", "mountains", "Coastal"
         ],
         "cr": "3",
         "fightingstyle": [
-          "Any"
+          "airborne", "predator"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["fly","walk"],
+        "purpose": ["damage", "mount"],
         "releaseurl": "https://www.patreon.com/posts/royal-griffon-60350104",
-        "size": "Large",
+        "size": "large",
+		"stat_ac": 13,
         "stat_cha": 8,
         "stat_con": 16,
         "stat_dex": 14,
@@ -3046,26 +3096,27 @@
         "stat_wis": 13,
         "thumbnail": "037_royal_griffon-idle_face_still.webp",
         "type": [
-			"Monstrosity", "Bird"
+			"monstrosity"
         ],
         "videourl": "https://youtu.be/qVg2HY4u3OY"
       }
     },
     "038_arcane_incursor": {
-      "description": "",
+      "description": "Arcane Incursors resemble interplanar trapdoor spiders, as they burrow into the veil between worlds where they are lying wait, only to burst forth from their lair if magic weakens the border between planes. Once the incursion is completed, they begin their hunt for raw arcane energy, usually starting with the unlucky caster of the spell that lured the Incursor into their world. Arcane Incursors usually hunt alone, but a sufficiently great source of magic might draw more specimens, marking the beginning of an infestation with catastrophic prospects for the local mage population.",
       "name": "Arcane Incursor",
       "properties": {
         "biom": [
-          "Any"
+          "dungeon", "ruins", "city", "horror", "planar", "abyssal", "civilised"
         ],
         "cr": "5",
         "fightingstyle": [
-          "Any"
+          "predator", "ambusher"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk", "climb"],
+        "purpose": ["anti caster", "hunter"],
         "releaseurl": "https://www.patreon.com/posts/arcane-incursor-60722159",
-        "size": "Large",
+        "size": "large",
+		"stat_ac": 15,
         "stat_cha": 16,
         "stat_con": 13,
         "stat_dex": 16,
@@ -3075,26 +3126,27 @@
         "stat_wis": 13,
         "thumbnail": "038_arcane_incursor-idle_face_still.webp",
         "type": [
-			"Aberration"
+			"aberration"
         ],
         "videourl": "https://youtu.be/fHfPWWASs2s"
       }
     },
     "039_elder_curseroot": {
-      "description": "",
+      "description": "There are many different Curseroots. Some are small, creeping vines and lumps of moss insidious in nature, some are looming and outright violent, thick-rooted and towering trees, roaring with anger. They are tainted plantlife, sprouted from evil seeds spread by a cursed tree. If even a single Cursewood is found, whole forests must be put to the torch, as the corruption spreads quickly and sometimes even a lone acorn may grow into an unfathomable evil.",
       "name": "Elder Curseroot",
       "properties": {
         "biom": [
-          "Any"
+          "forest", "wilderness", "planar", "mountains"
         ],
         "cr": "7",
         "fightingstyle": [
-          "Any"
+          "demanding", "melee"
         ],
-        "movement": ["Walk"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk"],
+        "purpose": ["damage", "gimmick", "leader"],
         "releaseurl": "https://www.patreon.com/posts/elder-curseroot-60897390",
-        "size": "Huge",
+        "size": "huge",
+	    "stat_ac": 16,
         "stat_cha": 3,
         "stat_con": 20,
         "stat_dex": 9,
@@ -3104,7 +3156,7 @@
         "stat_wis": 13,
         "thumbnail": "039_elder_curseroot-idle_face_still.webp",
         "type": [
-			"Plant"
+			"plant"
         ],
         "videourl": "https://youtu.be/r2J7iACxfd4"
       }
@@ -3114,16 +3166,16 @@
       "name": "Ossian Debt Collector",
       "properties": {
         "biom": [
-          "Any"
+          "any"
         ],
         "cr": "7",
         "fightingstyle": [
           "tactical", "interactive", "demanding"
         ],
-        "movement": ["Walk"],
-        "purpose": ["hunter","Anti Caster"],
+        "movement": ["walk"],
+        "purpose": ["hunter","anti caster"],
         "releaseurl": "https://www.patreon.com/posts/ossian-debt-61274297",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 18,
         "stat_cha": 18,
         "stat_con": 17,
@@ -3134,7 +3186,7 @@
         "stat_wis": 15,
         "thumbnail": "040_ossian_debt_collector-idle_face_still.webp",
         "type": [
-			"Undead", "Spirit"
+			"undead"
         ],
         "videourl": "https://youtu.be/SJEqnCpK1Z4"
       }
@@ -3144,16 +3196,16 @@
       "name": "Elephant",
       "properties": {
         "biom": [
-          "Wilderness", "Forest", "Wasteland", "Desert", "Coastal", "Desert", "Civilised"
+          "wilderness", "forest", "wasteland", "desert", "coastal", "desert", "civilised"
         ],
         "cr": "5",
         "fightingstyle": [
           "charge", "simple", "melee"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["damage", "mount"],
         "releaseurl": "https://www.patreon.com/posts/elephant-61535194",
-        "size": "Huge",
+        "size": "huge",
         "stat_ac": 12,
         "stat_cha": 8,
         "stat_con": 17,
@@ -3164,7 +3216,7 @@
         "stat_wis": 11,
         "thumbnail": "041_elephant-idle_face_still.webp",
         "type": [
-			"Beast"
+			"beast"
         ],
         "videourl": "https://youtu.be/JlZT3g9t2Aw"
       }
@@ -3174,16 +3226,16 @@
       "name": "Mournbride",
       "properties": {
         "biom": [
-          "Horror", "Civilised", "Ruins", "Dungeon", "City", "Graves"
+          "horror", "civilised", "ruins", "dungeon", "city", "graves"
         ],
         "cr": "4",
         "fightingstyle": [
           "demanding", "shock"
         ],
-        "movement": ["Fly"],
+        "movement": ["fly"],
         "purpose": ["debuff", "gimmick"],
         "releaseurl": "https://www.patreon.com/posts/mournbride-62015180",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 12,
         "stat_cha": 16,
         "stat_con": 13,
@@ -3194,26 +3246,26 @@
         "stat_wis": 8,
         "thumbnail": "042_mournbride-idle_face_still.webp",
         "type": [
-			"Undead", "Spirit"
+			"undead", "Spirit"
         ],
         "videourl": "https://youtu.be/H2cjzuYoJ74"
       }
     },
     "043_mind_golem": {
-      "description": "Mind Golems are enforcer-creatures crafted by Wizard councils, a mighty body shaped from synthetic flesh imbued with a powerful vat-grown brain, designed to contain the councils Mindmeld. A Mindmeld is psychic amalgamation of the wizards intellect and arcane potential, directly channeling their might and will into their creation, allowing it to act more independently than other forms of Golems. Their fused psyches birth new independent thought slaved to their will, which makes Mind Golems highly intelligent and capable of stratetic planning and tactical acumen. This, paired with their enourmous strength and innate magic abilities, makes for a truly dangerous living weapon, capable of completing the most daring operations for their masters.",
+      "description": "Mind golems are enforcer-creatures crafted by Wizard councils, a mighty body shaped from synthetic flesh imbued with a powerful vat-grown brain, designed to contain the councils Mindmeld. A Mindmeld is psychic amalgamation of the wizards intellect and arcane potential, directly channeling their might and will into their creation, allowing it to act more independently than other forms of golems. Their fused psyches birth new independent thought slaved to their will, which makes Mind golems highly intelligent and capable of stratetic planning and tactical acumen. This, paired with their enourmous strength and innate magic abilities, makes for a truly dangerous living weapon, capable of completing the most daring operations for their masters.",
       "name": "Mind Golem",
       "properties": {
         "biom": [
-          "Civilised", "City", "Dungeon", "Horror", "Road", "Lair"
+          "civilised", "city", "dungeon", "horror", "road", "lair"
         ],
         "cr": "16",
         "fightingstyle": [
           "demanding", "tactical", "spellcasting"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["bodyguard", "damage", "pressure"],
         "releaseurl": "https://www.patreon.com/posts/mind-golem-62285535",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 16,
         "stat_cha": 11,
         "stat_con": 20,
@@ -3224,7 +3276,7 @@
         "stat_wis": 14,
         "thumbnail": "043_mind_golem-idle_face_still.webp",
         "type": [
-			"Construct", "Golem"
+			"construct", "golem"
         ],
         "videourl": "https://youtu.be/ttATZdEONXM"
       }
@@ -3234,16 +3286,16 @@
       "name": "Amygdalyan",
       "properties": {
         "biom": [
-          "Horror", "Planar", "Dungeon", "Dungeon", "Civilised", "City", "Lair"
+          "horror", "planar", "dungeon", "dungeon", "civilised", "city", "lair"
         ],
         "cr": "7",
         "fightingstyle": [
           "demanding", "tactical", "lethal"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["gimmick", "debuff"],
         "releaseurl": "https://www.patreon.com/posts/amygdalyan-62903185",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 15,
         "stat_cha": 19,
         "stat_con": 12,
@@ -3264,16 +3316,16 @@
       "name": "Shattermaw",
       "properties": {
         "biom": [
-          "Coastal", "Wilderness", "Forest","Lair", "Dungeon", "Desert", "Wasteland"
+          "coastal", "wilderness", "forest","lair", "dungeon", "desert", "wasteland"
         ],
         "cr": "9",
         "fightingstyle": [
           "ambusher", "simple"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["damage", "tank"],
         "releaseurl": "https://www.patreon.com/posts/shattermaw-62911527",
-        "size": "Huge",
+        "size": "huge",
         "stat_ac": 19,
         "stat_cha": 6,
         "stat_con": 22,
@@ -3283,25 +3335,25 @@
         "stat_str": 22,
         "stat_wis": 12,
         "thumbnail": "045_shattermaw-idle_face_still.webp",
-        "type": ["Monstrosity"],
+        "type": ["monstrosity"],
         "videourl": "https://youtu.be/1I_nT8gry4Q"
       }
     },
-    "046_garghoul": {
-      "description": "A variant form of the common Ghoul, its tattered wings making it capable of flight. After nightfall, Garghouls stalk the skies. They are to locate worthwile prey, alerting their swarm upon discovery. As one, the Garghouls descend, paralyzing their victims with their bite before carrying them off into the dark. If acting as part of a larger force of Ghouls under the command of a higher Ghoul unlifeform, Garghouls often form the second wave of a larger invasion, using their maddening screams to disorient their terrified victims, before the main force emerges from their hidden dwellings. Swarms of Garghouls also patrol the vast caverns of the subterran Ghoul realms, seeking out intruders and calling their pale brethren to join them in their feast.",
-      "name": "Garghoul",
+    "046_garGhoul": {
+      "description": "A variant form of the common Ghoul, its tattered wings making it capable of flight. After nightfall, GarGhouls stalk the skies. They are to locate worthwile prey, alerting their swarm upon discovery. As one, the GarGhouls descend, paralyzing their victims with their bite before carrying them off into the dark. If acting as part of a larger force of Ghouls under the command of a higher Ghoul unlifeform, GarGhouls often form the second wave of a larger invasion, using their maddening screams to disorient their terrified victims, before the main force emerges from their hidden dwellings. Swarms of GarGhouls also patrol the vast caverns of the subterran Ghoul realms, seeking out intruders and calling their pale brethren to join them in their feast.",
+      "name": "GarGhoul",
       "properties": {
         "biom": [
-          "Dungeon", "Graves", "Horror", "Wilderness", "Road", "Forest", "Civilised", "City", "Underground", "Wasteland"
+          "dungeon", "graves", "horror", "wilderness", "road", "forest", "civilised", "city", "underground", "wasteland"
         ],
         "cr": "3",
         "fightingstyle": [
           "airborne", "pack", "simple"
         ],
-        "movement": ["Walk", "Fly"],
+        "movement": ["walk", "fly"],
         "purpose": ["gimmick", "minion", "hunter"],
-        "releaseurl": "https://www.patreon.com/posts/garghoul-63222139",
-        "size": "Medium",
+        "releaseurl": "https://www.patreon.com/posts/garGhoul-63222139",
+        "size": "medium",
         "stat_ac": 14,
         "stat_cha": 6,
         "stat_con": 10,
@@ -3310,9 +3362,9 @@
         "stat_int": 7,
         "stat_str": 14,
         "stat_wis": 12,
-        "thumbnail": "046_garghoul-idle_face_still.webp",
+        "thumbnail": "046_garGhoul-idle_face_still.webp",
         "type": [
-			"Undead", "Ghoul"
+			"undead", "Ghoul"
         ],
         "videourl": "https://youtu.be/lfM3VpYcCgI"
       }
@@ -3322,16 +3374,16 @@
       "name": "Swifttalon raptor",
       "properties": {
         "biom": [
-          "Wilderness", "Wasteland","Forest", "Road", "Desert", "Coastal"
+          "wilderness", "wasteland","forest", "road", "desert", "coastal"
         ],
         "cr": "2",
         "fightingstyle": [
-          "pack", "Ambush", "melee"
+          "pack", "ambusher", "melee"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["damage","hunter"],
         "releaseurl": "https://www.patreon.com/posts/swifttalon-is-63666888",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 13,
         "stat_cha": 6,
         "stat_con": 10,
@@ -3342,26 +3394,26 @@
         "stat_wis": 12,
         "thumbnail": "047_swifttalon_raptor-idle_face_still.webp",
         "type": [
-			"Beast", "Dinosaur"
+			"beast", "dinosaur"
         ],
         "videourl": "https://youtu.be/oTq8t-rD6xI"
       }
     },
     "048_stormwyvern": {
-      "description": "An especially powerful Blue Dragon can infuse a wyvern with its arcane draconic energy, elevating it to a Stormwyvern. Stormwyverns are bestowed a semblance of their master's elemental affinity and cunning. They serve in the dragon's forces as heralds and subcommanders, their increased intelligence allowing for a rudimentary grasp on the draconic language and a crude understanding of battle tactics.",
+      "description": "An especially powerful Blue dragon can infuse a wyvern with its arcane draconic energy, elevating it to a Stormwyvern. Stormwyverns are bestowed a semblance of their master's elemental affinity and cunning. They serve in the dragon's forces as heralds and subcommanders, their increased intelligence allowing for a rudimentary grasp on the draconic language and a crude understanding of battle tactics.",
       "name": "Stormwyvern",
       "properties": {
         "biom": [
-          "Wilderness", "Lair", "Wasteland", "Mountains", "Forest", "Road", "Desert", "Coastal"
+          "wilderness", "lair", "wasteland", "mountains", "forest", "road", "desert", "coastal"
         ],
         "cr": "7",
         "fightingstyle": [
           "airborne","aoe","melee"
         ],
-        "movement": ["Walk","Fly"],
+        "movement": ["walk","fly"],
         "purpose": ["damage", "leader","pressure"],
         "releaseurl": "https://www.patreon.com/posts/stormwyvern-63841777",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 13,
         "stat_cha": 7,
         "stat_con": 17,
@@ -3372,7 +3424,7 @@
         "stat_wis": 14,
         "thumbnail": "048_stormwyvern-idle_face_still.webp",
         "type": [
-			"Dragon"
+			"dragon"
         ],
         "videourl": "https://youtu.be/BPCRFd3JQoQ"
       }
@@ -3382,16 +3434,16 @@
       "name": "Poisonfang",
       "properties": {
         "biom": [
-          "Forest", "Civilised", "City", "Dungen", "Ruins", "Sacral", "Wilderness", "Road"
+          "forest", "civilised", "city", "dungeon", "ruins", "Sacral", "wilderness", "road"
         ],
         "cr": "5",
         "fightingstyle": [
           "mobile", "tactical", "predator"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["hunter", "duelist"],
         "releaseurl": "https://www.patreon.com/posts/poison-fang-64208373",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 16,
         "stat_cha": 16,
         "stat_con": 12,
@@ -3402,7 +3454,7 @@
         "stat_wis": 14,
         "thumbnail": "049_poisonfang-idle_face_still.webp",
         "type": [
-			"Humanoid", "Shapeshifter"
+			"humanoid", "shapeshifter"
         ],
         "videourl": "https://youtu.be/hOridEWNlvE"
       }
@@ -3412,16 +3464,16 @@
       "name": "Amber Idol",
       "properties": {
         "biom": [
-          "Dungeon", "Ruins", "Graves", "Sacral", "Civilised", "Underground"
+          "dungeon", "ruins", "graves", "Sacral", "civilised", "underground"
         ],
         "cr": "10",
         "fightingstyle": [
           "melee", "simple"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["damage", "tank"],
         "releaseurl": "https://www.patreon.com/posts/amber-idol-64420736",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 17,
         "stat_cha": 1,
         "stat_con": 20,
@@ -3432,26 +3484,26 @@
         "stat_wis": 11,
         "thumbnail": "050_amber_idol-idle_face_still.webp",
         "type": [
-			"Construct", "Golem"
+			"construct", "golem"
         ],
         "videourl": "https://www.youtube.com/watch?v=sEoI5ukLSQ4"
       }
     },
     "051_toxic_gobbler": {
       "description": "Toxic as a Gobbler is a common idiom and yet it understates the danger posed by a Gobbler. Their garishly coloured, lumpy and spongy skin hides toxin glands which release a quickly evaporating colour- and odorless toxin that, upon skin contact or inhalation, leads to harrowing pain, long lasting paralysis and even death. Due to this feature, Gobblers have almost no natural predators, causing them to generally act carefree, curious and playful. This  makes them even more dangerous, as Gobblers fearlessly seek out the company of other beings to play with them - oftentimes accidently killing them in the process.  Some assume the toxicity to be a result of the Gobbler's diet, raising the question on what on earth Gobblers are eating.",
-      "name": "Toxic Gobler",
+      "name": "Toxic Gobbler",
       "properties": {
         "biom": [
-          "Wilderness", "Forest", "Dungeon"
+          "wilderness", "forest", "dungeon"
         ],
         "cr": "2",
         "fightingstyle": [
           "simple", "lethal"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["damage", "gimmick"],
         "releaseurl": "https://www.patreon.com/posts/toxic-gobbler-64773211",
-        "size": "Small",
+        "size": "small",
         "stat_ac": 12,
         "stat_cha": 7,
         "stat_con": 12,
@@ -3462,7 +3514,7 @@
         "stat_wis": 11,
         "thumbnail": "051_toxic_gobbler-idle_face_still.webp",
         "type": [
-			"Monstrosity"
+			"monstrosity"
         ],
         "videourl": "https://youtu.be/txdC1xEC1-0"
       }
@@ -3472,16 +3524,16 @@
       "name": "Wendigo Skin 1",
       "properties": {
         "biom": [
-          "Horror", "Wilderness", "Forest", "Road", "Graves", "Ruins", "Dungeon", "Lair"
+          "horror", "wilderness", "forest", "road", "graves", "ruins", "dungeon", "lair"
         ],
         "cr": "9",
         "fightingstyle": [
           "predator", "shock", "melee", "lethal"
         ],
-        "movement": ["Walk", "Climb"],
-        "purpose": ["Placeholder"],
+        "movement": ["walk", "climb"],
+        "purpose": ["damage", "pressure", "hunter"],
         "releaseurl": "https://www.patreon.com/posts/wendigo-65132787",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 17,
         "stat_cha": 7,
         "stat_con": 16,
@@ -3492,7 +3544,7 @@
         "stat_wis": 18,
         "thumbnail": "052_wendigo_1-idle_face_still.webp",
         "type": [
-			"Monstrosity"
+			"monstrosity"
         ],
         "videourl": "https://youtu.be/tP_DM5pwSpA"
       }
@@ -3502,16 +3554,16 @@
       "name": "Wendigo Skin 2",
       "properties": {
         "biom": [
-          "Horror", "Wilderness", "Forest", "Road", "Graves", "Ruins", "Dungeon", "Lair"
+          "horror", "wilderness", "forest", "road", "graves", "ruins", "dungeon", "lair"
         ],
         "cr": "9",
         "fightingstyle": [
           "predator", "shock", "melee", "lethal"
         ],
-        "movement": ["Walk", "Climb"],
+        "movement": ["walk", "climb"],
         "purpose": ["damage", "pressure", "hunter"],
         "releaseurl": "https://www.patreon.com/posts/wendigo-65132787",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 17,
         "stat_cha": 7,
         "stat_con": 16,
@@ -3522,7 +3574,7 @@
         "stat_wis": 18,
         "thumbnail": "052_wendigo_2-idle_face_still.webp",
         "type": [
-			"Monstrosity"
+			"monstrosity"
         ],
         "videourl": "https://youtu.be/tP_DM5pwSpA"
       }
@@ -3532,16 +3584,16 @@
       "name": "Wendigo Skin 3",
       "properties": {
         "biom": [
-          "Horror", "Wilderness", "Forest", "Road", "Graves", "Ruins", "Dungeon", "Lair"
+          "horror", "wilderness", "forest", "road", "graves", "ruins", "dungeon", "lair"
         ],
         "cr": "9",
         "fightingstyle": [
           "predator", "shock", "melee", "lethal"
         ],
-        "movement": ["Walk", "Climb"],
+        "movement": ["walk", "climb"],
         "purpose": ["damage", "pressure", "hunter"],
         "releaseurl": "https://www.patreon.com/posts/wendigo-65132787",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 17,
         "stat_cha": 7,
         "stat_con": 16,
@@ -3552,7 +3604,7 @@
         "stat_wis": 18,
         "thumbnail": "052_wendigo_3-idle_face_still.webp",
         "type": [
-			"Monstrosity"
+			"monstrosity"
         ],
         "videourl": "https://youtu.be/tP_DM5pwSpA"
       }
@@ -3562,16 +3614,16 @@
       "name": "Wendigo Skin 4",
       "properties": {
         "biom": [
-          "Horror", "Wilderness", "Forest", "Road", "Graves", "Ruins", "Dungeon", "Lair"
+          "horror", "wilderness", "forest", "road", "graves", "ruins", "dungeon", "lair"
         ],
         "cr": "9",
         "fightingstyle": [
           "predator", "shock", "melee", "lethal"
         ],
-        "movement": ["Walk", "Climb"],
+        "movement": ["walk", "climb"],
         "purpose": ["damage", "pressure", "hunter"],
         "releaseurl": "https://www.patreon.com/posts/wendigo-65132787",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 17,
         "stat_cha": 7,
         "stat_con": 16,
@@ -3582,7 +3634,7 @@
         "stat_wis": 18,
         "thumbnail": "052_wendigo_4-idle_face_still.webp",
         "type": [
-			"Monstrosity"
+			"monstrosity"
         ],
         "videourl": "https://youtu.be/tP_DM5pwSpA"
       }
@@ -3592,16 +3644,16 @@
       "name": "Magmatic Coreborn",
       "properties": {
         "biom": [
-          "Wasteland", "Underground", "Dungeon", "Planar", "Desert", "Ocean"
+          "wasteland", "underground", "dungeon", "planar", "desert", "ocean"
         ],
         "cr": "12",
         "fightingstyle": [
           "charge", "aoe"
         ],
-        "movement": ["Walk", "Burrow"],
+        "movement": ["walk", "burrow"],
         "purpose": ["damage"],
         "releaseurl": "https://www.patreon.com/posts/magmatic-65371189",
-        "size": "Huge",
+        "size": "huge",
         "stat_ac": 18,
         "stat_cha": 7,
         "stat_con": 24,
@@ -3612,7 +3664,7 @@
         "stat_wis": 14,
         "thumbnail": "053_magmatic_coreborn-idle_face_still.webp",
         "type": [
-			"Elemental"
+			"elemental"
         ],
         "videourl": "https://youtu.be/fqqVRVpEHYA"
       }
@@ -3622,16 +3674,16 @@
       "name": "Bog Strider",
       "properties": {
         "biom": [
-          "Wilderness", "Wasteland"
+          "wilderness", "wasteland"
         ],
         "cr": "4",
         "fightingstyle": [
           "melee", "simple", "pack"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["mount", "damage"],
         "releaseurl": "https://www.patreon.com/posts/bog-strider-65662794",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 14,
         "stat_cha": 1,
         "stat_con": 12,
@@ -3642,7 +3694,7 @@
         "stat_wis": 10,
         "thumbnail": "054_bog_strider-idle_face_still.webp",
         "type": [
-			"Beast", "Insect"
+			"beast", "insect"
         ],
         "videourl": "https://youtu.be/zppwFyrxD0g"
       }
@@ -3652,16 +3704,16 @@
       "name": "Klabautermann",
       "properties": {
         "biom": [
-          "Ocean", "Coastal"
+          "ocean", "coastal"
         ],
         "cr": "7",
         "fightingstyle": [
           "spellcasting", "tactical"
         ],
-        "movement": ["Walk", "Climb", "Swim"],
+        "movement": ["walk", "climb", "Swim"],
         "purpose": ["support", "ally"],
         "releaseurl": "https://www.patreon.com/posts/klabautermann-66017529",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 16,
         "stat_cha": 20,
         "stat_con": 15,
@@ -3672,7 +3724,7 @@
         "stat_wis": 18,
         "thumbnail": "055_klabautermann-idle_face_still.webp",
         "type": [
-			"Fey"
+			"fey"
         ],
         "videourl": "https://youtu.be/1H_2xVLzQtw"
       }
@@ -3682,16 +3734,16 @@
       "name": "Sword Guardian",
       "properties": {
         "biom": [
-          "Civilised", "City", "Dungeon", "Road"
+          "civilised", "city", "dungeon", "road"
         ],
         "cr": "7",
         "fightingstyle": [
           "melee", "regeneration", "tactical"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["bodyguard"],
         "releaseurl": "https://www.patreon.com/posts/sword-guardian-66289434",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 17,
         "stat_cha": 3,
         "stat_con": 16,
@@ -3702,7 +3754,7 @@
         "stat_wis": 10,
         "thumbnail": "056_sword_guardian-idle_face_still.webp",
         "type": [
-			"Construct"
+			"construct"
         ],
         "videourl": "https://youtu.be/NxhGJbMqvuw"
       }
@@ -3712,16 +3764,16 @@
       "name": "Ridgeback Dunecrawler",
       "properties": {
         "biom": [
-          "Wasteland", "Desert"
+          "wasteland", "desert"
         ],
         "cr": "17",
         "fightingstyle": [
-          "demanding", "Swallow"
+          "demanding", "swallow"
         ],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["tank","mount"],
         "releaseurl": "https://www.patreon.com/posts/ridgeback-66577201",
-        "size": "Gargantuan",
+        "size": "gargantuan",
         "stat_ac": 20,
         "stat_cha": 3,
         "stat_con": 24,
@@ -3732,7 +3784,7 @@
         "stat_wis": 10,
         "thumbnail": "057_ridgeback_dunecrawler-idle_face_still.webp",
         "type": [
-			"Monstrosity"
+			"monstrosity"
         ],
         "videourl": "https://youtu.be/V_Mr_R-ARpg"
       }
@@ -3741,13 +3793,13 @@
       "description": "Braying flocks of Vrubel cloud the multicoloured skies of the Abyss, their harrowing shrieks unnaturally reveberating through the twisted landscapes of madness. A gathering of Vrubel forms a choir, each of their voices intertwining into the abyssal dirge, a maddening song capable of twisting and breaking the minds of even the most stalwart individuals. The abyssal choirs act as demonic envoys, transmitting messages for higher demons to other planes of existence, carrying with them the innate chaos of the Abyss.",
       "name": "Vrubel",
       "properties": {
-        "biom": ["Abyssal","Dungeon"],
+        "biom": ["abyssal","dungeon"],
         "cr": "5",
         "fightingstyle": ["pack", "airborne"],
-        "movement": ["Fly", "Walk"],
+        "movement": ["fly", "walk"],
         "purpose": ["debuff", "gimmick"],
         "releaseurl": "https://www.patreon.com/posts/vrubel-66888868",
-        "size": "Large",
+        "size": "large",
         "stat_ac": 14,
         "stat_cha": 16,
         "stat_con": 14,
@@ -3758,8 +3810,8 @@
         "stat_wis": 10,
         "thumbnail": "058_vrubel-idle_face_still.webp",
         "type": [
-          "Fiend",
-          "Demon"
+          "fiend",
+          "demon"
         ],
         "videourl": "https://youtu.be/68jgFqPApqg"
     }
@@ -3768,13 +3820,13 @@
       "description": "Gladiators are grouped into different types, varying heavily in both fighting style and equipment. Certain types of Gladiator exclusively fight their respective counterpart, each fight resembling a deadly choreography studied to perfection. Retiarius and Murmillo exclusively duel each other, both of their skills honed to overcome the other. The Retiarius is a flink-footed and more lightly armoured fighter who nimbly evades their more heavily armoured opponent, only to artfully entangle them with their net and set up the perfect thrust from their trident.",
       "name": "Gladiator Retiarius",
       "properties": {
-        "biom": ["City", "Civilized" ],
+        "biom": ["city", "civilised" ],
         "cr": "5",
         "fightingstyle": ["melee", "tactical"],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["hunter","duelist"],
         "releaseurl": "",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 16,
         "stat_cha": 15,
         "stat_con": 16,
@@ -3785,8 +3837,8 @@
         "stat_wis": 10,
         "thumbnail": "059_gladiator_retiarius-idle_face_still.webp",
         "type": [
-          "Humanoid",
-          "Human"
+          "humanoid",
+          "human"
         ],
         "videourl": ""
     }
@@ -3795,13 +3847,13 @@
       "description": "The brutish Murmillo however is recruited from the ranks of the most steadfast fighters, almost impossible to topple and capable of withstanding tremendous punishment. Both are evenly matched and capable of holding the audience's attention with their taunts and flourishes, their signature maneuvers and lethal finishers.",
       "name": "Gladiator Murmillo",
       "properties": {
-        "biom": ["City", "Civilized" ],
+        "biom": ["city", "civilised" ],
         "cr": "5",
         "fightingstyle": ["melee", "tactical"],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["tank","duelist"],
         "releaseurl": "",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 17,
         "stat_cha": 14,
         "stat_con": 18,
@@ -3812,8 +3864,8 @@
         "stat_wis": 13,
         "thumbnail": "059_gladiator_murmillo-idle_face_still.webp",
         "type": [
-          "Humanoid",
-          "Human"
+          "humanoid",
+          "human"
 		],
         "videourl": ""
 	}	
@@ -3822,13 +3874,13 @@
       "description": "The Dimachaerus is the diva of the arena, a master duelist who captivates the audience with artistic bladework and dizzying acrobatics. Fluidly switching between offensive and defensive fighting styles, the Dimachaerus prides themself on their ability to face any opponent, capable of outmaneuvering both the nimble Retiarius and outfighting the towering Murmillo. But a Dimachaerus balances on a knife's edge, any misstep in their complex choreography will be punished by their opponents - and the fickle audience, its favour as easily withdrawn as it is granted.",
       "name": "Gladiator Dimachaerus",
       "properties": {
-        "biom": ["City", "Civilized" ],
+        "biom": ["city", "civilised" ],
         "cr": "5",
         "fightingstyle": ["melee", "tactical"],
-        "movement": ["Walk"],
+        "movement": ["walk"],
         "purpose": ["hunter","duelist"],
         "releaseurl": "",
-        "size": "Medium",
+        "size": "medium",
         "stat_ac": 17,
         "stat_cha": 15,
         "stat_con": 16,
@@ -3839,8 +3891,8 @@
         "stat_wis": 13,
         "thumbnail": "059_gladiator_dimachaerus-idle_face_still.webp",
         "type": [
-          "Humanoid",
-          "Human"
+          "humanoid",
+          "human"
         ],
         "videourl": ""
     }
@@ -3903,11 +3955,11 @@
       "description": "Abominations are born from accursed breeding pits using forbidden biomancy, heretical alchemical formulae and mutagens harvested from countless monstrosities. Each Abomination comes out differently, as the primordial soup filling the pits is ever shifting in its makeup and consistency, but they all have an inherited hate for this cruel world that birthed them. Impervious to pain and unable to form complex thoughts, it is a living weapon capable of unfathomable destruction. A weapon wielded by Pit Broodmasters, a caste dedicated to training and bonding with the towering abominations, feeding their hate and driving them into combat, annihilating everything in their path.",
       "name": "Pit Abomination",
       "properties": {
-        "biom": [ "wilderness", "road", "desert", "forest" ],
+        "biom": [ "wilderness", "road", "dungeon", "wasteland", "civilised" , "city" ],
         "cr": "19",
-        "fightingstyle": ["simple", "melee"],
+        "fightingstyle": ["aoe", "melee", "lethal"],
         "movement": ["walk"],
-        "purpose": ["damage"],
+        "purpose": ["boss", "damage"],
         "releaseurl": "",
         "size": "gargantuan",
         "stat_ac": 19,
@@ -3923,13 +3975,13 @@
           "monstrosity",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/kbcMNESZB-s"
     },
     "062_pit_broodmaster": {
       "description": "They themselves tainted by the vile alchemy and mutagens of the Breeding Pits, Broodmasters tear the pit spawn from their birthing sacs and beat their will into the mewling creature. What follows is an inhuman regiment of subjugation and conditioning, to form the pit spawn into an unfeeling instrument of war. The most vile creature birthed from the pits is the Abomination, a chimeric monstrosity combining traits from countless creatures into a looming behemoth capable of unfathomable destruction. These war-beasts are herded into slaughter by the Broodmasters, controlled by secret drugs and techniques only known to initiatives to their corrupted caste.",
       "name": "Pit Broodmaster",
       "properties": {
-        "biom": [ "wilderness", "road", "dungeon", "forest" ],
+        "biom": [ "wilderness", "road", "dungeon", "wasteland", "civilised" , "city" ],
         "cr": "2",
         "fightingstyle": ["simple", "interactive"],
         "movement": ["walk"],
@@ -3949,7 +4001,7 @@
           "humanoid",
           "demi-human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/kbcMNESZB-s"
     }
   },
   "id": "beneos_tokens_database",
