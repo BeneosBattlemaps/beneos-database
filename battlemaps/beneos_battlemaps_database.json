@@ -608,6 +608,456 @@
          "type": "Scenery",
          "videourl": ""
       }
+     },
+    "47-01_Modular_Street_1_Bright-4K_BM": {
+       "name": "Modular Street 1 Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "16x9",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-01_Modular_Street_1_Bright-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "47-01_Modular_Street_1_Bright-4K_Scen": {
+       "name": "Modular Street 1 Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-01_Modular_Street_1_Bright-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "47-02_Modular_Street_2_Bright-4K_BM": {
+       "name": "Modular Street 2 Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-02_Modular_Street_2_Bright-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "47-02_Modular_Street_2_Bright-4K_Scen": {
+       "name": "Modular Street 2 Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-02_Modular_Street_2_Bright-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "47-03_Modular_Street_3_Bright-4K_BM": {
+       "name": "Modular Street 3 Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-03_Modular_Street_3_Bright-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "47-03_Modular_Street_3_Bright-4K_Scen": {
+       "name": "Modular Street 3 Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-03_Modular_Street_3_Bright-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "47-04_Modular_Street_4_Bright-4K_BM": {
+       "name": "Modular Street 4 Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-04_Modular_Street_4_Bright-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "47-04_Modular_Street_4_Bright-4K_Scen": {
+       "name": "Modular Street 4 Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-04_Modular_Street_4_Bright-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "47-05_Modular_Town_Square_Bright-4K_BM": {
+       "name": "Modular Town Square Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-05_Modular_Town_Square_Bright-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "47-05_Modular_Town_Square_Bright-4K_Scen": {
+       "name": "Modular Town Square Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-05_Modular_Town_Square_Bright-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "47-06_Modular_Town_Square_Festival-4K_BM": {
+       "name": "Modular Town Square Festival",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-06_Modular_Town_Square_Festival-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "47-06_Modular_Town_Square_Festival-4K_Scen": {
+       "name": "Modular Town Square Festival",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-06_Modular_Town_Square_Festival-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "47-07_Modular_Town_Square_Dark-4K_BM": {
+       "name": "Modular Town Square Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-07_Modular_Town_Square_Dark-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "47-07_Modular_Town_Square_Dark-4K_Scen": {
+       "name": "Modular Town Square Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-07_Modular_Town_Square_Dark-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "47-08_Modular_Street_1_Dark-4K_BM": {
+       "name": "Modular Street 1 Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-08_Modular_Street_1_Dark-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "47-08_Modular_Street_1_Dark-4K_Scen": {
+       "name": "Modular Street 1 Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-08_Modular_Street_1_Dark-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "47-09_Modular_Street_2_Dark-4K_BM": {
+       "name": "Modular Street 2 Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-09_Modular_Street_2_Dark-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "47-09_Modular_Street_2_Dark-4K_Scen": {
+       "name": "Modular Street 2 Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-09_Modular_Street_2_Dark-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "47-10_Modular_Street_3_Dark-4K_BM": {
+       "name": "Modular Street 3 Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-10_Modular_Street_3_Dark-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "47-10_Modular_Street_3_Dark-4K_Scen": {
+       "name": "Modular Street 3 Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-10_Modular_Street_3_Dark-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "47-11_Modular_Street_4_Dark-4K_BM": {
+       "name": "Modular Street 4 Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-11_Modular_Street_4_Dark-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "47-11_Modular_Street_4_Dark-4K_Scen": {
+       "name": "Modular Street 4 Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-11_Modular_Street_4_Dark-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "47-12_Modular_Shop_1-4K_BM": {
+       "name": "Modular Shop 1",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-12_Modular_Shop_1-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "47-12_Modular_Shop_1-4K_Scen": {
+       "name": "Modular Shop 1",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-12_Modular_Shop_1-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "47-13_Modular_Shop_2-4K_BM": {
+       "name": "Modular Shop 2",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-13_Modular_Shop_2-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "47-13_Modular_Shop_2-4K_Scen": {
+       "name": "Modular Shop 2",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-13_Modular_Shop_2-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "47-14_Modular_Blacksmith-4K_BM": {
+       "name": "Modular Blacksmith",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-14_Modular_Blacksmith-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "47-14_Modular_Blacksmith-4K_Scen": {
+       "name": "Modular Blacksmith",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-14_Modular_Blacksmith-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "47-15_Modular_Shop_Toy_Maker-4K_BM": {
+       "name": "Modular Shop Toy Maker",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-15_Modular_Shop_Toy_Maker-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "47-15_Modular_Shop_Toy_Maker-4K_Scen": {
+       "name": "Modular Shop Toy Maker",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["City","Civilised","Shop"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "47_Modular_Streets",
+         "releaseurl": "",
+         "sibling": "47-15_Modular_Shop_Toy_Maker-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
     }
   }
 }
