@@ -4025,10 +4025,14 @@
         "stat_wis": 15,
         "thumbnail": "063_beckoning_devil-idle_face_still.webp",
         "type": [
-          "fiend",
-          "devil"
-        ],
-        "videourl": ""
+          "fiend"
+		  
+		  ],
+		  "videourl": "https://youtu.be/kbcMNESZB-s"
     }
-
-}}}}
+    }
+  },
+  "id": "beneos_tokens_database",
+  "type": "token",
+  "version": "1.0.7"
+}}
