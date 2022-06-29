@@ -4003,9 +4003,35 @@
         ],
         "videourl": "https://youtu.be/kbcMNESZB-s"
     }
+    },
+    "063_beckoning_devil": {
+      "description": "Beckoning Devil's are favoured courtiers of the Father of Lies, one of the ruling Devils of the Nine Hells. With their seductive and corrupting powers, they seek to gain control over groups of powerful individuals to drive them into ruin, only to finally offer them salvation in their Lord's service. They possess a malign intelligence and relish their dark purpose, drawing great pleasure from the hunt. Once fixated on future servants worthy of their Lord, Beckoning Devils are relentless stalkers, quickly forcing their prey to question their sanity, as their paranoia swells and memories become unreliable. Those dominated by the Devil they are finally forced to commit harrowing atrocities, until they are left with no choice but to bow their knee to the dark patron of Lies. ",
+      "name": "Beckoning Devil",
+      "properties": {
+        "biom": [ "wilderness", "road", "dungeon", "infernal", "city", "civilised", "lair", "planar", "underground", "dungeon", "ruins", "horror" ],
+        "cr": "9",
+        "fightingstyle": ["tactical", "spellcasting","predator"],
+        "movement": ["walk"],
+        "purpose": ["gimmick", "leader"],
+        "releaseurl": "",
+        "size": "large",
+        "stat_ac": 15,
+        "stat_cha": 20,
+        "stat_con": 13,
+        "stat_dex": 11,
+        "stat_hp": 129,
+        "stat_int": 16,
+        "stat_str": 16,
+        "stat_wis": 15,
+        "thumbnail": "063_beckoning_devil-idle_face_still.webp",
+        "type": [
+          "fiend",
+          "devil"
+        ],
+        "videourl": ""
+    }
   },
   "id": "beneos_tokens_database",
   "type": "token",
-  "version": "1.0.6"
+  "version": "1.0.7"
 }
-}}
