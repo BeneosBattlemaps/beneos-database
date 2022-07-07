@@ -3960,7 +3960,7 @@
         "fightingstyle": ["aoe", "melee", "lethal"],
         "movement": ["walk"],
         "purpose": ["boss", "damage"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/68140681",
         "size": "gargantuan",
         "stat_ac": 19,
         "stat_cha": 1,
@@ -3986,7 +3986,7 @@
         "fightingstyle": ["simple", "interactive"],
         "movement": ["walk"],
         "purpose": ["support"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/68140681",
         "size": "medium",
         "stat_ac": 15,
         "stat_cha": 20,
@@ -4013,7 +4013,7 @@
         "fightingstyle": ["tactical", "spellcasting","predator"],
         "movement": ["walk"],
         "purpose": ["gimmick", "leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/68408269",
         "size": "large",
         "stat_ac": 15,
         "stat_cha": 20,
@@ -4025,14 +4025,41 @@
         "stat_wis": 15,
         "thumbnail": "063_beckoning_devil-idle_face_still.webp",
         "type": [
-          "fiend"
+          "fiend",
+		  "devil"
 		  
 		  ],
 		  "videourl": "https://youtu.be/kbcMNESZB-s"
     }
+    },
+    "064_grey_pilgrim": {
+      "description": "The unusual beings dubbed Grey Pilgrims wander the realms in search for enlightenment, be it in solitude, be it accompanied by disciples or mentors of their own choosing. Each of them has been given form by divine hands, created to study as much as to teach. They continuously reflect on the principles of divinity, the cosmos and the nature of mortality, each Pilgrim eventually reaching their own conclusion, before imparting their knowledge unto worthy souls and returning to the side of their creator. While on their journey, they go out of their way to inspire the ambition and resolve of those burdened by strife and suffering..",
+      "name": "Grey Pilgrim",
+      "properties": {
+        "biom": [ "wilderness", "road", "dungeon", "city", "civilised", "planar", "underground", "dungeon", "ruins", "sacral", "mountains"],
+        "cr": "5",
+        "fightingstyle": ["melee", "interactive"],
+        "movement": ["walk"],
+        "purpose": ["support", "ally"],
+        "releaseurl": "",
+        "size": "large",
+        "stat_ac": 18,
+        "stat_cha": 18,
+        "stat_con": 18,
+        "stat_dex": 7,
+        "stat_hp": 180,
+        "stat_int": 16,
+        "stat_str": 20,
+        "stat_wis": 18,
+        "thumbnail": "064_grey_pilgrim-idle_face_still.webp",
+        "type": [
+          "celestial",
+          ""
+        ],
+        "videourl": ""
     }
   },
   "id": "beneos_tokens_database",
   "type": "token",
-  "version": "1.0.7"
-}}
+  "version": "1.0.8"
+}}}
