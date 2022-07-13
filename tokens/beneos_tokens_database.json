@@ -4059,10 +4059,10 @@
         "videourl": ""
     },
     "065_sovereigns_guard": {
-      "description": "",
+      "description": "Test Description",
       "name": "Sovereigns Guard",
       "properties": {
-        "biom": [ "road","city", "civilised","sacral"],
+        "biom": ["road", "city", "civilised", "sacral" ],
         "cr": "5",
         "fightingstyle": ["melee", "interactive"],
         "movement": ["walk"],
@@ -4084,8 +4084,8 @@
         ],
         "videourl": ""
     }
-  },
-  "id": "beneos_tokens_database",
-  "type": "token",
-  "version": "1.0.9"
-}}}}
+  }
+  }
+  }
+  
+
