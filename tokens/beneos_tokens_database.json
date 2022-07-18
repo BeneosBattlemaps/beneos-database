@@ -4041,7 +4041,7 @@
         "fightingstyle": ["melee", "interactive"],
         "movement": ["walk"],
         "purpose": ["support", "ally"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/grey-pilgrim-68772626",
         "size": "large",
         "stat_ac": 18,
         "stat_cha": 18,
@@ -4056,10 +4056,10 @@
           "celestial",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/5v93EdOJRJs"
     },
     "065_sovereigns_guard": {
-      "description": "Test Description",
+      "description": "Kings and Queens, Hierophants and Arch-Bishops, Emperors and Empresses - these sovereigns dare not resting their wellbeing on the meek shoulders of regular guards or hired mercenaries. A true sovereign requires an elite guard, drilled fighters of supreme ability and mental strength, eager to continously prove their worth and unwavering loyalty. The Sovereign's Guard represent an elite cadre of bodyguards and combat specialists, well versed in both protecting their liege or carrying out special tasks all over the realm.",
       "name": "Sovereigns Guard",
       "properties": {
         "biom": ["road", "city", "civilised", "sacral" ],
@@ -4067,7 +4067,7 @@
         "fightingstyle": ["melee", "interactive"],
         "movement": ["walk"],
         "purpose": ["bodyguard","duelist"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/sovereigns-guard-69050786",
         "size": "medium",
         "stat_ac": 19,
         "stat_cha": 13,
@@ -4082,10 +4082,8 @@
           "humanoid",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/FrLIeuyCNwU"
     }
   }
   }
-  }
-  
-
+}}}
