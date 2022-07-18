@@ -1,5 +1,5 @@
 ﻿{
-  "tag_description": {
+ "tag_description": {
     "melee": {
       "name": "melee",
       "description": "This creature excels at close combat and has limited or no ranged combat capabilities."
@@ -125,7 +125,10 @@
       "description": "This creature possesses one or more gimmicks that an encounter with this creature will revolve around."
     }
   },
-  "content": {
+ "id": "beneos_tokens_database",
+ "type": "token",
+ "version": "1.0.8",
+ "content": {
     "001_vampire_beast": {
       "description": "Sometimes Vampires impart the dubious gift of spawndom upon the wrong soul, stirring primordial horrors from their sleep. These vampire spawns regress to a primal state, detached from the rules that even compel their creators, driven only by their lust for terror and agony.  Primal Spawns are beyond their unwilling creators' control and they in turn feel disdain for their more â€˜evolvedâ€™ kin. Despite not having a weakness to sunlight, they prefer the shadows, as the darkness supports their preferred hunting style. And if the right opportunity arises, a Primal Vampire Spawn will not hesitate to hunt during broad daylight to indulge in the screams of horrified onlookers.",
       "name": "Primal Vampire Spawn",
@@ -4057,35 +4060,6 @@
           ""
         ],
         "videourl": ""
-    },
-    "065_sovereigns_guard": {
-      "description": "Test Description",
-      "name": "Sovereigns Guard",
-      "properties": {
-        "biom": ["road", "city", "civilised", "sacral" ],
-        "cr": "5",
-        "fightingstyle": ["melee", "interactive"],
-        "movement": ["walk"],
-        "purpose": ["bodyguard","duelist"],
-        "releaseurl": "",
-        "size": "medium",
-        "stat_ac": 19,
-        "stat_cha": 13,
-        "stat_con": 16,
-        "stat_dex": 18,
-        "stat_hp": 89,
-        "stat_int": 14,
-        "stat_str": 16,
-        "stat_wis": 16,
-        "thumbnail": "065_sovereigns_guard-idle_face_still.webp",
-        "type": [
-          "humanoid",
-          ""
-        ],
-        "videourl": ""
     }
-  }
-  }
-  }
-  
-
+	}
+}}}
