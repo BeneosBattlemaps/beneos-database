@@ -1058,6 +1058,726 @@
          "type": "Scenery",
          "videourl": ""
       }
+     },
+    "Dourcrag_1F_Bright_A-4K_BM": {
+       "name": "ag 1F Bright A",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Bright_A-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Bright_A-4K_Scen": {
+       "name": "ag 1F Bright A",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Bright_A-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Bright_B-4K_BM": {
+       "name": "ag 1F Bright B",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Bright_B-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Bright_B-4K_Scen": {
+       "name": "ag 1F Bright B",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Bright_B-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Bright_C-4K_BM": {
+       "name": "ag 1F Bright C",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Bright_C-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Bright_C-4K_Scen": {
+       "name": "ag 1F Bright C",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Bright_C-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Bright_D-4K_BM": {
+       "name": "ag 1F Bright D",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Bright_D-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Bright_D-4K_Scen": {
+       "name": "ag 1F Bright D",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Bright_D-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Bright_E-4K_BM": {
+       "name": "ag 1F Bright E",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Bright_E-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Bright_E-4K_Scen": {
+       "name": "ag 1F Bright E",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Bright_E-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Bright_F-4K_BM": {
+       "name": "ag 1F Bright F",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Bright_F-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Bright_F-4K_Scen": {
+       "name": "ag 1F Bright F",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Bright_F-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Bright_G-4K_BM": {
+       "name": "ag 1F Bright G",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Bright_G-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Bright_G-4K_Scen": {
+       "name": "ag 1F Bright G",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Bright_G-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Bright_H-4K_BM": {
+       "name": "ag 1F Bright H",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Bright_H-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Bright_H-4K_Scen": {
+       "name": "ag 1F Bright H",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Bright_H-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Bright_I-4K_BM": {
+       "name": "ag 1F Bright I",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Bright_I-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Bright_I-4K_Scen": {
+       "name": "ag 1F Bright I",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Bright_I-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Bright_J-4K_BM": {
+       "name": "ag 1F Bright J",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Bright_J-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Bright_J-4K_Scen": {
+       "name": "ag 1F Bright J",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Bright_J-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Bright_K-4K_BM": {
+       "name": "ag 1F Bright K",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Bright_K-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Bright_K-4K_Scen": {
+       "name": "ag 1F Bright K",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Bright_K-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Bright_L-4K_BM": {
+       "name": "ag 1F Bright L",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Bright_L-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Bright_L-4K_Scen": {
+       "name": "ag 1F Bright L",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Bright_L-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Dark_A-4K_BM": {
+       "name": "ag 1F Dark A",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Dark_A-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Dark_A-4K_Scen": {
+       "name": "ag 1F Dark A",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Dark_A-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Dark_B-4K_BM": {
+       "name": "ag 1F Dark B",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Dark_B-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Dark_B-4K_Scen": {
+       "name": "ag 1F Dark B",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Dark_B-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Dark_C-4K_BM": {
+       "name": "ag 1F Dark C",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Dark_C-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Dark_C-4K_Scen": {
+       "name": "ag 1F Dark C",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Dark_C-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Dark_D-4K_BM": {
+       "name": "ag 1F Dark D",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Dark_D-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Dark_D-4K_Scen": {
+       "name": "ag 1F Dark D",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Dark_D-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Dark_E-4K_BM": {
+       "name": "ag 1F Dark E",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Dark_E-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Dark_E-4K_Scen": {
+       "name": "ag 1F Dark E",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Dark_E-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Dark_F-4K_BM": {
+       "name": "ag 1F Dark F",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Dark_F-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Dark_F-4K_Scen": {
+       "name": "ag 1F Dark F",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Dark_F-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Dark_G-4K_BM": {
+       "name": "ag 1F Dark G",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Dark_G-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Dark_G-4K_Scen": {
+       "name": "ag 1F Dark G",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Dark_G-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Dark_H-4K_BM": {
+       "name": "ag 1F Dark H",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Dark_H-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Dark_H-4K_Scen": {
+       "name": "ag 1F Dark H",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Dark_H-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Dark_I-4K_BM": {
+       "name": "ag 1F Dark I",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Dark_I-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Dark_I-4K_Scen": {
+       "name": "ag 1F Dark I",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Dark_I-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Dark_J-4K_BM": {
+       "name": "ag 1F Dark J",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Dark_J-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Dark_J-4K_Scen": {
+       "name": "ag 1F Dark J",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Dark_J-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Dark_K-4K_BM": {
+       "name": "ag 1F Dark K",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Dark_K-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Dark_K-4K_Scen": {
+       "name": "ag 1F Dark K",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Dark_K-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Dark_L-4K_BM": {
+       "name": "ag 1F Dark L",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Dark_L-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "Dourcrag_1F_Dark_L-4K_Scen": {
+       "name": "ag 1F Dark L",
+       "description": "",
+       "properties": {
+         "adventure": [],
+         "biom": [],
+         "brightness": "",
+         "grid": "None",
+         "pack": "48_Dourcrag_Castle_1F",
+         "releaseurl": "",
+         "sibling": "Dourcrag_1F_Dark_L-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
     }
   }
 }
