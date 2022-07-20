@@ -125,6 +125,9 @@
       "description": "This creature possesses one or more gimmicks that an encounter with this creature will revolve around."
     }
   },
+  "id": "beneos_tokens_database",
+  "type": "token",
+  "version": "1.0.11",
   "content": {
     "001_vampire_beast": {
       "description": "Sometimes Vampires impart the dubious gift of spawndom upon the wrong soul, stirring primordial horrors from their sleep. These vampire spawns regress to a primal state, detached from the rules that even compel their creators, driven only by their lust for terror and agony.  Primal Spawns are beyond their unwilling creators' control and they in turn feel disdain for their more â€˜evolvedâ€™ kin. Despite not having a weakness to sunlight, they prefer the shadows, as the darkness supports their preferred hunting style. And if the right opportunity arises, a Primal Vampire Spawn will not hesitate to hunt during broad daylight to indulge in the screams of horrified onlookers.",
