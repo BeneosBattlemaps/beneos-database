@@ -4100,7 +4100,7 @@
         "fightingstyle": ["melee", "pack"],
         "movement": ["walk"],
         "purpose": ["damage","minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/scorched-69345931",
         "size": "medium",
         "stat_ac": 17,
         "stat_cha": 7,
@@ -4115,10 +4115,11 @@
           "elemental",
           "fire"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/GbdR-Nsfd1s"
+    }
     }
   }
   }
-  }
+  
   
 
