@@ -4120,7 +4120,7 @@
     }
     },
     "067_rustmire_gadfly": {
-      "description": "0",
+      "description": "Rustmire Gadflies infest the auburn marshlands of the Rustmire, their incessant droning turning this already wicked place into even more of a hostile hellscape. By the dozens a swarm of Gadflies descents on a suitable victim - be it man or beast - and feed on them, leaving it bite-marked but alive, as they do not kill their victims (intentionally, at least), but prefer to feed on it over the span of days or weeks instead. They are, however, carriers of the unsavoury and often lethal Bloodscorch plague and can often be found feeding on the pustulent remains of their infected victim.",
       "name": "Rustmire Gadfly",
       "properties": {
         "biom": ["dungeon", "wilderness", "horror", "forest", "wasteland", "road", "graves"],
