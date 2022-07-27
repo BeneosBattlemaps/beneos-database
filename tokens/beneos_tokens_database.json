@@ -4118,8 +4118,35 @@
         "videourl": "https://youtu.be/GbdR-Nsfd1s"
     }
     }
-  }
-  }
+    },
+    "067_rustmire_gadfly": {
+      "description": "0",
+      "name": "Rustmire Gadfly",
+      "properties": {
+        "biom": ["dungeon", "wilderness", "horror", "forest", "wasteland", "road", "graves"],
+        "cr": "0,5",
+        "fightingstyle": ["airborne", "pack"],
+        "movement": ["fly"],
+        "purpose": ["debuff","minion"],
+        "releaseurl": "",
+        "size": "medium",
+        "stat_ac": 14,
+        "stat_cha": 1,
+        "stat_con": 12,
+        "stat_dex": 18,
+        "stat_hp": 17,
+        "stat_int": 2,
+        "stat_str": 6,
+        "stat_wis": 12,
+        "thumbnail": "067_rustmire_gadfly-idle_face_still.webp",
+        "type": [
+          "beast",
+          "insect"
+        ],
+        "videourl": ""
+    }
+    }
+    }
   
   
 
