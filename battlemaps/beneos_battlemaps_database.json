@@ -1778,6 +1778,726 @@
          "type": "Scenery",
          "videourl": ""
       }
+     },
+    "49-01_Dourcrag_2F_M_Bright-4K_BM": {
+       "name": "Dourcrag 2F M Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "48x27",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-01_Dourcrag_2F_M_Bright-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "49-01_Dourcrag_2F_M_Bright-4K_Scen": {
+       "name": "Dourcrag 2F M Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-01_Dourcrag_2F_M_Bright-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "49-02_Dourcrag_2F_N_Bright-4K_BM": {
+       "name": "Dourcrag 2F N Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-02_Dourcrag_2F_N_Bright-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "49-02_Dourcrag_2F_N_Bright-4K_Scen": {
+       "name": "Dourcrag 2F N Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-02_Dourcrag_2F_N_Bright-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "49-03_Dourcrag_2F_O_Bright-4K_BM": {
+       "name": "Dourcrag 2F O Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-03_Dourcrag_2F_O_Bright-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "49-03_Dourcrag_2F_O_Bright-4K_Scen": {
+       "name": "Dourcrag 2F O Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-03_Dourcrag_2F_O_Bright-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "49-04_Dourcrag_2F_P_Bright-4K_BM": {
+       "name": "Dourcrag 2F P Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-04_Dourcrag_2F_P_Bright-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "49-04_Dourcrag_2F_P_Bright-4K_Scen": {
+       "name": "Dourcrag 2F P Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-04_Dourcrag_2F_P_Bright-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "49-05_Dourcrag_2F_Q_Bright-4K_BM": {
+       "name": "Dourcrag 2F Q Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-05_Dourcrag_2F_Q_Bright-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "49-05_Dourcrag_2F_Q_Bright-4K_Scen": {
+       "name": "Dourcrag 2F Q Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-05_Dourcrag_2F_Q_Bright-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "49-06_Dourcrag_2F_R_Bright-4K_BM": {
+       "name": "Dourcrag 2F R Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-06_Dourcrag_2F_R_Bright-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "49-06_Dourcrag_2F_R_Bright-4K_Scen": {
+       "name": "Dourcrag 2F R Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-06_Dourcrag_2F_R_Bright-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "49-07_Dourcrag_2F_S_Bright-4K_BM": {
+       "name": "Dourcrag 2F S Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-07_Dourcrag_2F_S_Bright-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "49-07_Dourcrag_2F_S_Bright-4K_Scen": {
+       "name": "Dourcrag 2F S Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-07_Dourcrag_2F_S_Bright-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "49-08_Dourcrag_2F_T_Bright-4K_BM": {
+       "name": "Dourcrag 2F T Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-08_Dourcrag_2F_T_Bright-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "49-08_Dourcrag_2F_T_Bright-4K_Scen": {
+       "name": "Dourcrag 2F T Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-08_Dourcrag_2F_T_Bright-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "49-09_Dourcrag_2F_U_Bright-4K_BM": {
+       "name": "Dourcrag 2F U Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-09_Dourcrag_2F_U_Bright-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "49-09_Dourcrag_2F_U_Bright-4K_Scen": {
+       "name": "Dourcrag 2F U Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-09_Dourcrag_2F_U_Bright-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "49-10_Dourcrag_3F_V_Bright-4K_BM": {
+       "name": "Dourcrag 3F V Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-10_Dourcrag_3F_V_Bright-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "49-10_Dourcrag_3F_V_Bright-4K_Scen": {
+       "name": "Dourcrag 3F V Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-10_Dourcrag_3F_V_Bright-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "49-11_Dourcrag_3F_W_Bright-4K_BM": {
+       "name": "Dourcrag 3F W Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-11_Dourcrag_3F_W_Bright-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "49-11_Dourcrag_3F_W_Bright-4K_Scen": {
+       "name": "Dourcrag 3F W Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-11_Dourcrag_3F_W_Bright-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "49-12_Dourcrag_3F_X_Bright-4K_BM": {
+       "name": "Dourcrag 3F X Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-12_Dourcrag_3F_X_Bright-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "49-12_Dourcrag_3F_X_Bright-4K_Scen": {
+       "name": "Dourcrag 3F X Bright",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-12_Dourcrag_3F_X_Bright-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "49-13_Dourcrag_2F_M_Dark-4K_BM": {
+       "name": "Dourcrag 2F M Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-13_Dourcrag_2F_M_Dark-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "49-13_Dourcrag_2F_M_Dark-4K_Scen": {
+       "name": "Dourcrag 2F M Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-13_Dourcrag_2F_M_Dark-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "49-14_Dourcrag_2F_N_Dark-4K_BM": {
+       "name": "Dourcrag 2F N Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-14_Dourcrag_2F_N_Dark-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "49-14_Dourcrag_2F_N_Dark-4K_Scen": {
+       "name": "Dourcrag 2F N Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-14_Dourcrag_2F_N_Dark-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "49-15_Dourcrag_2F_O_Dark-4K_BM": {
+       "name": "Dourcrag 2F O Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-15_Dourcrag_2F_O_Dark-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "49-15_Dourcrag_2F_O_Dark-4K_Scen": {
+       "name": "Dourcrag 2F O Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-15_Dourcrag_2F_O_Dark-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "49-16_Dourcrag_2F_P_Dark-4K_BM": {
+       "name": "Dourcrag 2F P Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-16_Dourcrag_2F_P_Dark-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "49-16_Dourcrag_2F_P_Dark-4K_Scen": {
+       "name": "Dourcrag 2F P Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-16_Dourcrag_2F_P_Dark-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "49-17_Dourcrag_2F_Q_Dark-4K_BM": {
+       "name": "Dourcrag 2F Q Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-17_Dourcrag_2F_Q_Dark-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "49-17_Dourcrag_2F_Q_Dark-4K_Scen": {
+       "name": "Dourcrag 2F Q Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-17_Dourcrag_2F_Q_Dark-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "49-18_Dourcrag_2F_R_Dark-4K_BM": {
+       "name": "Dourcrag 2F R Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-18_Dourcrag_2F_R_Dark-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "49-18_Dourcrag_2F_R_Dark-4K_Scen": {
+       "name": "Dourcrag 2F R Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-18_Dourcrag_2F_R_Dark-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "49-19_Dourcrag_2F_S_Dark-4K_BM": {
+       "name": "Dourcrag 2F S Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-19_Dourcrag_2F_S_Dark-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "49-19_Dourcrag_2F_S_Dark-4K_Scen": {
+       "name": "Dourcrag 2F S Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-19_Dourcrag_2F_S_Dark-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "49-20_Dourcrag_2F_T_Dark-4K_BM": {
+       "name": "Dourcrag 2F T Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-20_Dourcrag_2F_T_Dark-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "49-20_Dourcrag_2F_T_Dark-4K_Scen": {
+       "name": "Dourcrag 2F T Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-20_Dourcrag_2F_T_Dark-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "49-21_Dourcrag_2F_U_Dark-4K_BM": {
+       "name": "Dourcrag 2F U Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-21_Dourcrag_2F_U_Dark-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "49-21_Dourcrag_2F_U_Dark-4K_Scen": {
+       "name": "Dourcrag 2F U Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-21_Dourcrag_2F_U_Dark-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "49-22_Dourcrag_3F_V_Dark-4K_BM": {
+       "name": "Dourcrag 3F V Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-22_Dourcrag_3F_V_Dark-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "49-22_Dourcrag_3F_V_Dark-4K_Scen": {
+       "name": "Dourcrag 3F V Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-22_Dourcrag_3F_V_Dark-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "49-23_Dourcrag_3F_W_Dark-4K_BM": {
+       "name": "Dourcrag 3F W Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-23_Dourcrag_3F_W_Dark-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "49-23_Dourcrag_3F_W_Dark-4K_Scen": {
+       "name": "Dourcrag 3F W Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-23_Dourcrag_3F_W_Dark-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "49-24_Dourcrag_3F_X_Dark-4K_BM": {
+       "name": "Dourcrag 3F X Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-24_Dourcrag_3F_X_Dark-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "49-24_Dourcrag_3F_X_Dark-4K_Scen": {
+       "name": "Dourcrag 3F X Dark",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","Horror", "City"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "49-24_Dourcrag_3F_X_Dark-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
     }
   }
 }
