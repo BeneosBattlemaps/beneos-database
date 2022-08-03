@@ -4145,8 +4145,63 @@
         ],
         "videourl": ""
     }
+    },
+    "068_wereboar": {
+      "description": "XXX",
+      "name": "Wereboar",
+      "properties": {
+        "biom": ["wilderness", "dungeon", "road"],
+        "cr": "4",
+        "fightingstyle": ["melee", "charge"],
+        "movement": ["walk"],
+        "purpose": ["damage","simple"],
+        "releaseurl": "",
+        "size": "medium",
+        "stat_ac": 14,
+        "stat_cha": 7,
+        "stat_con": 20,
+        "stat_dex": 13,
+        "stat_hp": 78,
+        "stat_int": 12,
+        "stat_str": 18,
+        "stat_wis": 12,
+        "thumbnail": "068_wereboar-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "shapechanger"
+        ],
+        "videourl": ""
     }
+    },
+  
+    "068_wereboar_2": {
+      "description": "Skinchangers come in any shape or size and even the cause of their transformation differs - be it affliction of body or mind, a curse, possession or even a blessing. The transformation into a Wereboar, however, seldom is anything but a curse, one reserved mostly for gluttonous and vulgar individuals, whose porcine characteristics where apparent even before their body took a shape their mind had already taken. Wereboars are boorish and brutish, bulky and barrelchested slabs of pure muscle, held together by a thick hide. But their cunning is not to be unterestimated and many would-be slayers fell to the goring tusks of a Wereboar after failing to discern the sparks of malign intellect within their deep-set eyes.",
+      "name": "Wereboar 2",
+      "properties": {
+        "biom": ["wilderness", "dungeon", "road"],
+        "cr": "4",
+        "fightingstyle": ["melee", "charge"],
+        "movement": ["walk"],
+        "purpose": ["damage","simple"],
+        "releaseurl": "",
+        "size": "medium",
+        "stat_ac": 14,
+        "stat_cha": 7,
+        "stat_con": 20,
+        "stat_dex": 13,
+        "stat_hp": 78,
+        "stat_int": 12,
+        "stat_str": 18,
+        "stat_wis": 12,
+        "thumbnail": "068_wereboar_2-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "shapechanger"
+        ],
+        "videourl": ""
     }
+  }
+  }
   
   
 
