@@ -4200,8 +4200,62 @@
         ],
         "videourl": ""
     }
+    },
+    "069_dollmaker_devil": {
+      "description": "Placeholder devil evil mwaha",
+      "name": "Dollmaker Devil",
+      "properties": {
+        "biom": ["wilderness", "dungeon", "road", "planar", "infernal", "ruins", "abyssal", "city", "lair", "horror", "civilised"],
+        "cr": "7",
+        "fightingstyle": ["demanding", "lethal"],
+        "movement": ["walk"],
+        "purpose": ["pressure","leader"],
+        "releaseurl": "",
+        "size": "large",
+        "stat_ac": 15,
+        "stat_cha": 19,
+        "stat_con": 15,
+        "stat_dex": 14,
+        "stat_hp": 157,
+        "stat_int": 18,
+        "stat_str": 16,
+        "stat_wis": 12,
+        "thumbnail": "069_dollmaker_devil-idle_face_still.webp",
+        "type": [
+          "fiend",
+          "devil"
+        ],
+        "videourl": ""
+    }
+    },
+    "069_dollmaker_devil": {
+      "description": "Placeholder devil evil mwaha",
+      "name": "Dollmaker Devil",
+      "properties": {
+        "biom": ["wilderness", "dungeon", "road", "planar", "infernal", "ruins", "abyssal", "city", "lair", "horror", "civilised"],
+        "cr": "7",
+        "fightingstyle": ["demanding", "lethal"],
+        "movement": ["walk"],
+        "purpose": ["pressure","leader"],
+        "releaseurl": "",
+        "size": "large",
+        "stat_ac": 15,
+        "stat_cha": 19,
+        "stat_con": 15,
+        "stat_dex": 14,
+        "stat_hp": 157,
+        "stat_int": 18,
+        "stat_str": 16,
+        "stat_wis": 12,
+        "thumbnail": "069_dollmaker_devil-idle_face_still.webp",
+        "type": [
+          "fiend",
+          "devil"
+        ],
+        "videourl": ""
+    }
   }
   }
-  
+  }
   
 
