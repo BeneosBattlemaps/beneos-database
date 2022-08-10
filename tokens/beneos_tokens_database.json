@@ -3828,7 +3828,7 @@
         "fightingstyle": ["melee", "tactical"],
         "movement": ["walk"],
         "purpose": ["hunter","duelist"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/gladiators-67230626",
         "size": "medium",
         "stat_ac": 16,
         "stat_cha": 15,
@@ -3843,7 +3843,7 @@
           "humanoid",
           "human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/R-zfAI5NARw"
     }
 	},
 	 "059_gladiator_murmillo": {
@@ -3855,7 +3855,7 @@
         "fightingstyle": ["melee", "tactical"],
         "movement": ["walk"],
         "purpose": ["tank","duelist"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/gladiators-67230626",
         "size": "medium",
         "stat_ac": 17,
         "stat_cha": 14,
@@ -3870,7 +3870,7 @@
           "humanoid",
           "human"
 		],
-        "videourl": ""
+        "videourl": "https://youtu.be/R-zfAI5NARw"
 	}	
     },
     "059_gladiator_dimachaerus": {
@@ -3882,7 +3882,7 @@
         "fightingstyle": ["melee", "tactical"],
         "movement": ["walk"],
         "purpose": ["hunter","duelist"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/gladiators-67230626",
         "size": "medium",
         "stat_ac": 17,
         "stat_cha": 15,
@@ -3897,7 +3897,7 @@
           "humanoid",
           "human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/R-zfAI5NARw"
     }
     },
     "060_crazed_reaper": {
