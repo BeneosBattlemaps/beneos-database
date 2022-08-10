@@ -4128,7 +4128,7 @@
         "fightingstyle": ["airborne", "pack"],
         "movement": ["fly"],
         "purpose": ["debuff","minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/rustmire-gadfly-69643596",
         "size": "medium",
         "stat_ac": 14,
         "stat_cha": 1,
@@ -4143,11 +4143,11 @@
           "beast",
           "insect"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/Hk2zaSin-nA"
     }
     },
     "068_wereboar": {
-      "description": "XXX",
+      "description": "Skinchangers come in any shape or size and even the cause of their transformation differs - be it affliction of body or mind, a curse, possession or even a blessing. The transformation into a Wereboar, however, seldom is anything but a curse, one reserved mostly for gluttonous and vulgar individuals, whose porcine characteristics where apparent even before their body took a shape their mind had already taken. Wereboars are boorish and brutish, bulky and barrelchested slabs of pure muscle, held together by a thick hide. But their cunning is not to be unterestimated and many would-be slayers fell to the goring tusks of a Wereboar after failing to discern the sparks of malign intellect within their deep-set eyes.",
       "name": "Wereboar",
       "properties": {
         "biom": ["wilderness", "dungeon", "road"],
@@ -4155,7 +4155,7 @@
         "fightingstyle": ["melee", "charge"],
         "movement": ["walk"],
         "purpose": ["damage","simple"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/wereboar-70000773",
         "size": "medium",
         "stat_ac": 14,
         "stat_cha": 7,
@@ -4170,7 +4170,7 @@
           "humanoid",
           "shapechanger"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/yZwHfFD6UTU"
     }
     },
   
@@ -4178,12 +4178,12 @@
       "description": "Skinchangers come in any shape or size and even the cause of their transformation differs - be it affliction of body or mind, a curse, possession or even a blessing. The transformation into a Wereboar, however, seldom is anything but a curse, one reserved mostly for gluttonous and vulgar individuals, whose porcine characteristics where apparent even before their body took a shape their mind had already taken. Wereboars are boorish and brutish, bulky and barrelchested slabs of pure muscle, held together by a thick hide. But their cunning is not to be unterestimated and many would-be slayers fell to the goring tusks of a Wereboar after failing to discern the sparks of malign intellect within their deep-set eyes.",
       "name": "Wereboar 2",
       "properties": {
-        "biom": ["wilderness", "dungeon", "road"],
+        "biom": ["wilderness", "dungeon", "road", "mountains", "forest", "wasteland", "tavern", "civilised", "city"],
         "cr": "4",
         "fightingstyle": ["melee", "charge"],
         "movement": ["walk"],
         "purpose": ["damage","simple"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/wereboar-70000773",
         "size": "medium",
         "stat_ac": 14,
         "stat_cha": 7,
@@ -4198,18 +4198,18 @@
           "humanoid",
           "shapechanger"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/yZwHfFD6UTU"
     }
     },
     "069_dollmaker_devil": {
-      "description": "Placeholder devil evil mwaha",
+      "description": "Like all of their infernal kindred, Dollmaker Devils relish in the seduction and eventual corruption of mortal souls. They take s rather direct approach, using their cursed touch to turn their victims into paralyzed dolls and binding them via infernal threads, entangling a creature's very soul. This allows the Devil to take on the role of a perverse puppeteer, controlling a creatures immediate actions by tugging the right strings or even ending their life with a swift severing of the threads. Dollmakers are craven creatures, relying on networks of worshippers or debtors to protect it, while it stalks nightly streets for fresh dolls.",
       "name": "Dollmaker Devil",
       "properties": {
         "biom": ["wilderness", "dungeon", "road", "planar", "infernal", "ruins", "abyssal", "city", "lair", "horror", "civilised"],
         "cr": "7",
         "fightingstyle": ["demanding", "lethal"],
         "movement": ["walk"],
-        "purpose": ["pressure","leader"],
+        "purpose": ["pressure","gimmick"],
         "releaseurl": "",
         "size": "large",
         "stat_ac": 15,
@@ -4218,34 +4218,7 @@
         "stat_dex": 14,
         "stat_hp": 157,
         "stat_int": 18,
-        "stat_str": 16,
-        "stat_wis": 12,
-        "thumbnail": "069_dollmaker_devil-idle_face_still.webp",
-        "type": [
-          "fiend",
-          "devil"
-        ],
-        "videourl": ""
-    }
-    },
-    "069_dollmaker_devil": {
-      "description": "Placeholder devil evil mwaha",
-      "name": "Dollmaker Devil",
-      "properties": {
-        "biom": ["wilderness", "dungeon", "road", "planar", "infernal", "ruins", "abyssal", "city", "lair", "horror", "civilised"],
-        "cr": "7",
-        "fightingstyle": ["demanding", "lethal"],
-        "movement": ["walk"],
-        "purpose": ["pressure","leader"],
-        "releaseurl": "",
-        "size": "large",
-        "stat_ac": 15,
-        "stat_cha": 19,
-        "stat_con": 15,
-        "stat_dex": 14,
-        "stat_hp": 157,
-        "stat_int": 18,
-        "stat_str": 16,
+        "stat_str": 18,
         "stat_wis": 12,
         "thumbnail": "069_dollmaker_devil-idle_face_still.webp",
         "type": [
@@ -4256,6 +4229,6 @@
     }
   }
   }
-  }
+  
   
 
