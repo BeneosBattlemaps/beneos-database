@@ -2498,6 +2498,366 @@
          "type": "Scenery",
          "videourl": ""
       }
+     },
+    "50-01_Storms_cry_front-4K_BM": {
+       "name": "Storms cry front",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","City"],
+         "brightness": "Bright",
+         "grid": "48x27",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "50-01_Storms_cry_front-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "50-01_Storms_cry_front-4K_Scen": {
+       "name": "Storms cry front",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","City"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "50-01_Storms_cry_front-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "50-02_Storms_cry_port-4K_BM": {
+       "name": "Storms cry port",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","City"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "50-02_Storms_cry_port-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "50-02_Storms_cry_port-4K_Scen": {
+       "name": "Storms cry port",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","City"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "50-02_Storms_cry_port-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "50-03_Storms_cry_starboard-4K_BM": {
+       "name": "Storms cry starboard",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","City"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "50-03_Storms_cry_starboard-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "50-03_Storms_cry_starboard-4K_Scen": {
+       "name": "Storms cry starboard",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","City"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "50-03_Storms_cry_starboard-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "50-04_Storms_cry_stairs-4K_BM": {
+       "name": "Storms cry stairs",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","City"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "50-04_Storms_cry_stairs-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "50-04_Storms_cry_stairs-4K_Scen": {
+       "name": "Storms cry stairs",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","City"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "50-04_Storms_cry_stairs-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "50-05_Storms_cry_stern-4K_BM": {
+       "name": "Storms cry stern",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","City"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "50-05_Storms_cry_stern-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "50-05_Storms_cry_stern-4K_Scen": {
+       "name": "Storms cry stern",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","City"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "50-05_Storms_cry_stern-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "50-06_Storms_cry_overlook-4K_BM": {
+       "name": "Storms cry overlook",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","City"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "50-06_Storms_cry_overlook-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "50-06_Storms_cry_overlook-4K_Scen": {
+       "name": "Storms cry overlook",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","City"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "50-06_Storms_cry_overlook-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "50-07_Storms_cry_bridge-4K_BM": {
+       "name": "Storms cry bridge",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","City"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "50-07_Storms_cry_bridge-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "50-07_Storms_cry_bridge-4K_Scen": {
+       "name": "Storms cry bridge",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","City"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "50-07_Storms_cry_bridge-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "50-08_Storms_cry_level_1-4K_BM": {
+       "name": "Storms cry level 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","City"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "50-08_Storms_cry_level_1-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "50-08_Storms_cry_level_1-4K_Scen": {
+       "name": "Storms cry level 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","City"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "50-08_Storms_cry_level_1-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "50-09_Storms_cry_reactor-4K_BM": {
+       "name": "Storms cry reactor",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","City"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "50-09_Storms_cry_reactor-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "50-09_Storms_cry_reactor-4K_Scen": {
+       "name": "Storms cry reactor",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","City"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "50-09_Storms_cry_reactor-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "50-10_Storms_cry_level_2-4K_BM": {
+       "name": "Storms cry level 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","City"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "50-10_Storms_cry_level_2-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "50-10_Storms_cry_level_2-4K_Scen": {
+       "name": "Storms cry level 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","City"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "50-10_Storms_cry_level_2-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "50-11_Storms_cry_engine_1-4K_BM": {
+       "name": "Storms cry engine 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","City"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "50-11_Storms_cry_engine_1-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "50-11_Storms_cry_engine_1-4K_Scen": {
+       "name": "Storms cry engine 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","City"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "50-11_Storms_cry_engine_1-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "50-12_Storms_cry_engine_2-4K_BM": {
+       "name": "Storms cry engine 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","City"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "50-12_Storms_cry_engine_2-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "50-12_Storms_cry_engine_2-4K_Scen": {
+       "name": "Storms cry engine 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Castle", "Civilised","Wall","City"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "49_Dourcrag_Castle_2F_3F",
+         "releaseurl": "",
+         "sibling": "50-12_Storms_cry_engine_2-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
     }
   }
 }
