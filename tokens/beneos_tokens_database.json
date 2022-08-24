@@ -4254,8 +4254,35 @@
         ],
         "videourl": ""
     }
+    },
+    "071_blade_slave": {
+      "description": "Blade Slaves are living weapons created by the dozens and hundreds, prisoners, heretics and other undesirables with their body and mind broken by confinement and torture. They now only crave the kiss of the blade, living vicariously through both the pain they suffer and the pain they inflict upon others. They are utilized by Ecclesiarchs and Inquisitors, driven before them as a showing of ruthlessness and intimidaton or unleashed from their mobile confines as shock troops, overwhelming their master's enemies as a cackling and foaming wave of bodies and blades.",
+      "name": "Blade Slave",
+      "properties": {
+        "biom": ["city", "civilised", "road", "dungeon", "sacral"],
+        "cr": "2",
+        "fightingstyle": ["melee", "charge"],
+        "movement": ["walk"],
+        "purpose": ["damage","minion"],
+        "releaseurl": "",
+        "size": "medium",
+        "stat_ac": 12,
+        "stat_cha": 3,
+        "stat_con": 16,
+        "stat_dex": 14,
+        "stat_hp": 27,
+        "stat_int": 6,
+        "stat_str": 16,
+        "stat_wis": 7,
+        "thumbnail": "071_blade_slave-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          ""
+        ],
+        "videourl": ""
+    }
   }
   }
-  
+  }
   
 
