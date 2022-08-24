@@ -4254,35 +4254,8 @@
         ],
         "videourl": ""
     }
-    },
-    "070_airship_sentry_automaton": {
-      "description": "Placeholder automaton beep boop",
-      "name": "Airship Sentry Automaton",
-      "properties": {
-        "biom": ["city", "civilised", "futuristic"],
-        "cr": "1",
-        "fightingstyle": ["melee", "pack"],
-        "movement": ["walk"],
-        "purpose": ["ally","minion"],
-        "releaseurl": "",
-        "size": "medium",
-        "stat_ac": 16,
-        "stat_cha": 5,
-        "stat_con": 18,
-        "stat_dex": 16,
-        "stat_hp": 35,
-        "stat_int": 5,
-        "stat_str": 16,
-        "stat_wis": 11,
-        "thumbnail": "070_airship_sentry_automaton-idle_face_still.webp",
-        "type": [
-          "construct",
-          ""
-        ],
-        "videourl": ""
-    }
   }
   }
-  }
+  
   
 
