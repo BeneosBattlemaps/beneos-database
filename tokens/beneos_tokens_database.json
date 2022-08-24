@@ -4210,7 +4210,7 @@
         "fightingstyle": ["demanding", "lethal"],
         "movement": ["walk"],
         "purpose": ["pressure","gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/dollmaker-devil-70327086",
         "size": "large",
         "stat_ac": 15,
         "stat_cha": 19,
@@ -4225,7 +4225,7 @@
           "fiend",
           "devil"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/QjQOGaOsdC0"
     }
     },
     "070_airship_sentry_automaton": {
@@ -4237,7 +4237,7 @@
         "fightingstyle": ["melee", "pack"],
         "movement": ["walk"],
         "purpose": ["ally","minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/airship-sentry-70643495",
         "size": "medium",
         "stat_ac": 16,
         "stat_cha": 5,
@@ -4252,7 +4252,7 @@
           "construct",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/sCv7D-KVmNY"
     }
     },
     "071_blade_slave": {
@@ -4283,6 +4283,6 @@
     }
   }
   }
-  }
+  
   
 
