@@ -4308,6 +4308,114 @@
         ],
         "videourl": "https://youtu.be/velOgWHJjDw"
     }
+    },
+    "073_gorgeleaper": {
+      "description": "yoooooooooooink placeholder",
+      "name": "Gorgeleaper",
+      "properties": {
+        "biom": ["wilderness", "forest"],
+        "cr": "2",
+        "fightingstyle": ["gimmick", "pack"],
+        "movement": ["walk"],
+        "purpose": ["damage","minion"],
+        "releaseurl": "",
+        "size": "large",
+        "stat_ac": 14,
+        "stat_cha": 4,
+        "stat_con": 14,
+        "stat_dex": 18,
+        "stat_hp": 57,
+        "stat_int": 2,
+        "stat_str": 14,
+        "stat_wis": 10,
+        "thumbnail": "073_gorgeleaper-idle_face_still.webp",
+        "type": [
+          "monstrosity",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "073_gorgeleaper_01": {
+      "description": "yoooooooooooink placeholder",
+      "name": "Gorgeleaper 01",
+      "properties": {
+        "biom": ["wilderness", "forest"],
+        "cr": "2",
+        "fightingstyle": ["gimmick", "pack"],
+        "movement": ["walk"],
+        "purpose": ["damage","minion"],
+        "releaseurl": "",
+        "size": "large",
+        "stat_ac": 14,
+        "stat_cha": 4,
+        "stat_con": 14,
+        "stat_dex": 18,
+        "stat_hp": 57,
+        "stat_int": 2,
+        "stat_str": 14,
+        "stat_wis": 10,
+        "thumbnail": "073_gorgeleaper_01-idle_face_still.webp",
+        "type": [
+          "monstrosity",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "073_gorgeleaper_03": {
+      "description": "yoooooooooooink placeholder",
+      "name": "Gorgeleaper 03",
+      "properties": {
+        "biom": ["wilderness", "forest"],
+        "cr": "2",
+        "fightingstyle": ["gimmick", "pack"],
+        "movement": ["walk"],
+        "purpose": ["damage","minion"],
+        "releaseurl": "",
+        "size": "large",
+        "stat_ac": 14,
+        "stat_cha": 4,
+        "stat_con": 14,
+        "stat_dex": 18,
+        "stat_hp": 57,
+        "stat_int": 2,
+        "stat_str": 14,
+        "stat_wis": 10,
+        "thumbnail": "073_gorgeleaper_03-idle_face_still.webp",
+        "type": [
+          "monstrosity",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "073_gorgeleaper_02": {
+      "description": "yoooooooooooink placeholder",
+      "name": "Gorgeleaper 02",
+      "properties": {
+        "biom": ["wilderness", "forest"],
+        "cr": "2",
+        "fightingstyle": ["gimmick", "pack"],
+        "movement": ["walk"],
+        "purpose": ["damage","minion"],
+        "releaseurl": "",
+        "size": "large",
+        "stat_ac": 14,
+        "stat_cha": 4,
+        "stat_con": 14,
+        "stat_dex": 18,
+        "stat_hp": 57,
+        "stat_int": 2,
+        "stat_str": 14,
+        "stat_wis": 10,
+        "thumbnail": "073_gorgeleaper_02-idle_face_still.webp",
+        "type": [
+          "monstrosity",
+          ""
+        ],
+        "videourl": ""
+    }
   }
   }
   
