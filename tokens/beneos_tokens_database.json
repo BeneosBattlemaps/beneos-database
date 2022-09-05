@@ -4281,8 +4281,35 @@
         ],
         "videourl": ""
     }
+    },
+    "072_slipstream_phaseknife": {
+      "description": "Equipped with experimental techno-arcane Slipstream Generators, Phaseknives are an elite cadre of operatives specialised in high-risk assassinations that require pinpoint accuracy and leave no room for errors. Seamlessly phasing in and out of a subspace corridor dubbed the Slipstream, they effortlessly outmaneuver and overwhelm conventional defenses and deliver a perfect killing strike. Traditionally, Phaseknives work in pairs to ensure the mission's success, coordinating their unpredictable attacks at a breackneck pace, relying on speed and accuracy honed to perfection to carry out their missions.",
+      "name": "Slipstream Phaseknife",
+      "properties": {
+        "biom": ["planar", "dungeon", "lair"],
+        "cr": "6",
+        "fightingstyle": ["melee", "pack"],
+        "movement": ["walk"],
+        "purpose": ["damage","minion"],
+        "releaseurl": "",
+        "size": "medium",
+        "stat_ac": 20,
+        "stat_cha": 10,
+        "stat_con": 13,
+        "stat_dex": 20,
+        "stat_hp": 55,
+        "stat_int": 18,
+        "stat_str": 9,
+        "stat_wis": 14,
+        "thumbnail": "072_slipstream_phaseknife-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "fire"
+        ],
+        "videourl": ""
+    }
   }
   }
-  
+  }
   
 
