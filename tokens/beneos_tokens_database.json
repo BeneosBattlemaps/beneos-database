@@ -4420,8 +4420,35 @@
         ],
         "videourl": ""
     }
+    },
+    "074_undead_pikeman": {
+      "description": "yoooooooooooink placeholder",
+      "name": "Undead Pikeman",
+      "properties": {
+        "biom": ["wilderness", "forest"],
+        "cr": "1",
+        "fightingstyle": ["simple", "pack"],
+        "movement": ["walk"],
+        "purpose": ["tank","minion"],
+        "releaseurl": "",
+        "size": "medium",
+        "stat_ac": 15,
+        "stat_cha": 4,
+        "stat_con": 16,
+        "stat_dex": 6,
+        "stat_hp": 27,
+        "stat_int": 5,
+        "stat_str": 14,
+        "stat_wis": 6,
+        "thumbnail": "074_undead_pikeman-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": ""
+    }
   }
   }
-  
+  }
   
 
