@@ -2858,6 +2858,186 @@
          "type": "Scenery",
          "videourl": ""
       }
+     },
+    "52-01_Lake_Jetty-4K_BM": {
+       "name": "Lake Jetty",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Lake","Water","Ocean","Fog"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "52_CoS_Lake_Zarovich",
+         "releaseurl": "",
+         "sibling": "52-01_Lake_Jetty-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "52-01_Lake_Jetty-4K_Scen": {
+       "name": "Lake Jetty",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Lake","Water","Ocean","Fog"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "52_CoS_Lake_Zarovich",
+         "releaseurl": "",
+         "sibling": "52-01_Lake_Jetty-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "52-02_Lake_House-4K_BM": {
+       "name": "Lake House",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Lake","Water","Ocean","Fog"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "52_CoS_Lake_Zarovich",
+         "releaseurl": "",
+         "sibling": "52-02_Lake_House-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "52-02_Lake_House-4K_Scen": {
+       "name": "Lake House",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Lake","Water","Ocean","Fog"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "52_CoS_Lake_Zarovich",
+         "releaseurl": "",
+         "sibling": "52-02_Lake_House-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "52-03_Lake_Beach_1-4K_BM": {
+       "name": "Lake Beach 1",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Lake","Water","Ocean","Fog"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "52_CoS_Lake_Zarovich",
+         "releaseurl": "",
+         "sibling": "52-03_Lake_Beach_1-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "52-03_Lake_Beach_1-4K_Scen": {
+       "name": "Lake Beach 1",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Lake","Water","Ocean","Fog"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "52_CoS_Lake_Zarovich",
+         "releaseurl": "",
+         "sibling": "52-03_Lake_Beach_1-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "52-04_Lake_Beach_2-4K_BM": {
+       "name": "Lake Beach 2",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Lake","Water","Ocean","Fog"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "52_CoS_Lake_Zarovich",
+         "releaseurl": "",
+         "sibling": "52-04_Lake_Beach_2-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "52-04_Lake_Beach_2-4K_Scen": {
+       "name": "Lake Beach 2",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Lake","Water","Ocean","Fog"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "52_CoS_Lake_Zarovich",
+         "releaseurl": "",
+         "sibling": "52-04_Lake_Beach_2-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "52-05_Lake_Surface-4K_BM": {
+       "name": "Lake Surface",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Lake","Water","Ocean","Fog"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "52_CoS_Lake_Zarovich",
+         "releaseurl": "",
+         "sibling": "52-05_Lake_Surface-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "52-05_Lake_Surface-4K_Scen": {
+       "name": "Lake Surface",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Lake","Water","Ocean","Fog"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "52_CoS_Lake_Zarovich",
+         "releaseurl": "",
+         "sibling": "52-05_Lake_Surface-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "52-06_Lake_Chase-4K_BM": {
+       "name": "Lake Chase",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Lake","Water","Ocean","Fog"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "52_CoS_Lake_Zarovich",
+         "releaseurl": "",
+         "sibling": "52-06_Lake_Chase-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "52-06_Lake_Chase-4K_Scen": {
+       "name": "Lake Chase",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Lake","Water","Ocean","Fog"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "52_CoS_Lake_Zarovich",
+         "releaseurl": "",
+         "sibling": "52-06_Lake_Chase-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
     }
   }
 }
