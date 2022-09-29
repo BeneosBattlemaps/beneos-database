@@ -4322,7 +4322,7 @@
         "fightingstyle": ["ambush", "swallow"],
         "movement": ["walk"],
         "purpose": ["gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/gorgeleaper-71641897",
         "size": "large",
         "stat_ac": 14,
         "stat_cha": 4,
@@ -4337,7 +4337,7 @@
           "monstrosity",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/x8uCc5_Pl10"
     }
     },
     "073_gorgeleaper_01": {
@@ -4349,7 +4349,7 @@
         "fightingstyle": ["ambush", "swallow"],
         "movement": ["walk"],
         "purpose": ["gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/gorgeleaper-71641897",
         "size": "large",
         "stat_ac": 14,
         "stat_cha": 4,
@@ -4364,7 +4364,7 @@
           "monstrosity",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/x8uCc5_Pl10"
     }
     },
     "073_gorgeleaper_03": {
@@ -4376,7 +4376,7 @@
         "fightingstyle": ["ambush", "swallow"],
         "movement": ["walk"],
         "purpose": ["gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/gorgeleaper-71641897",
         "size": "large",
         "stat_ac": 14,
         "stat_cha": 4,
@@ -4391,7 +4391,7 @@
           "monstrosity",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/x8uCc5_Pl10"
     }
     },
     "073_gorgeleaper_02": {
@@ -4403,7 +4403,7 @@
         "fightingstyle": ["ambush", "swallow"],
         "movement": ["walk"],
         "purpose": ["gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/gorgeleaper-71641897",
         "size": "large",
         "stat_ac": 14,
         "stat_cha": 4,
@@ -4417,6 +4417,87 @@
         "type": [
           "monstrosity",
           ""
+        ],
+        "videourl": "https://youtu.be/x8uCc5_Pl10"
+    }
+    },
+    "074_undead_pikeman": {
+      "description": "Hushed voices tell of the Burial Host, an endless column of shambling undead pressed into service by a council of necromancers, fleshgrafters and carnal artisans. Heralded by the buzzing of bloated flies, the Burial Host descends upon cities or countryside alike, overwhelming even the sturdiest defenses in an unending onslaught of rotten flesh and rusted blades. Gaps within the ranks of the host are quickly filled, as the war machinery grinds forward, a self-serving and self-sustaining perpetuum mobile of death and rebirth. Undead Pikemen form the front rows of the Host, forcing their enemies into exasperating wars of attrition",
+      "name": "Undead Pikeman",
+      "properties": {
+        "biom": ["wilderness", "forest"],
+        "cr": "1",
+        "fightingstyle": ["simple", "pack"],
+        "movement": ["walk"],
+        "purpose": ["tank","minion"],
+        "releaseurl": "https://www.patreon.com/posts/undead-pikeman-71971206",
+        "size": "medium",
+        "stat_ac": 15,
+        "stat_cha": 4,
+        "stat_con": 16,
+        "stat_dex": 6,
+        "stat_hp": 27,
+        "stat_int": 5,
+        "stat_str": 14,
+        "stat_wis": 6,
+        "thumbnail": "074_undead_pikeman-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": "https://youtu.be/P32IgR3lN1U"
+    }
+    },
+    "075_guild_artillerist": {
+      "description": "Due to government contracts, the (traditionally dwarven) members of the great Powder Guilds, those organisations authorized to research and develop mechanical firearms, are also utilized as a well-trained militia, often requiring mandatory service escorting the great Trade Fleets trawling the great Archipelago. This leaves many guild members with first-hand combat experience and some will stay within the military branch of the guilds, choosing the life of an Artillerist over that of an Artisan. They serve with a deep understanding of their craft, burning to further hone their skills as combat engineers, artillery and demolition specialists or expert marksmen. ",
+      "name": "Guild Artillerist",
+      "properties": {
+        "biom": ["civilised", "city", "wilderness", "coast", "road", "mountain"],
+        "cr": "3",
+        "fightingstyle": ["ranged", "interactive"],
+        "movement": ["walk"],
+        "purpose": ["hunter", "damage"],
+        "releaseurl": "https://www.patreon.com/posts/guild-72297874",
+        "size": "medium",
+        "stat_ac": 15,
+        "stat_cha": 10,
+        "stat_con": 15,
+        "stat_dex": 18,
+        "stat_hp": 47,
+        "stat_int": 16,
+        "stat_str": 12,
+        "stat_wis": 8,
+        "thumbnail": "075_guild_artillerist-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "Dwarf"
+        ],
+        "videourl": "https://youtu.be/QOBIr9gJC1s"
+    }
+    },
+    "076_deathsworn": {
+      "description": "Seeing a Deathsworn fight is witnessing a ceremonial choreography, as they seamlessly weave their opponents into an intimate dance of death. Deathsworn exhibit great respect towards their enemies, going so far as to carry the ritually cleaned and hallowed skulls of particularly worthy opponents alongside of those of their closest kin - signifying their bond forged in battle, either on equal or opposing sides. The certainty of their own death is meaningless to a Deathsworn, as they resign to it each time they take up their spear and shroud their face with the Sho’ufa, expressing their resolve to kill and die honorably in the eyes of their ancestors.",
+      "name": "Deathsworn",
+      "properties": {
+        "biom": ["civilised", "city", "wilderness","road", "mountain"],
+        "cr": "5",
+        "fightingstyle": ["charge", "interactive"],
+        "movement": ["walk"],
+        "purpose": ["duelist", "damage"],
+        "releaseurl": "",
+        "size": "medium",
+        "stat_ac": 16,
+        "stat_cha": 12,
+        "stat_con": 15,
+        "stat_dex": 18,
+        "stat_hp": 67,
+        "stat_int": 13,
+        "stat_str": 14,
+        "stat_wis": 16,
+        "thumbnail": "076_deathsworn-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "orc"
         ],
         "videourl": ""
     }
