@@ -4479,7 +4479,7 @@
       "description": "Seeing a Deathsworn fight is witnessing a ceremonial choreography, as they seamlessly weave their opponents into an intimate dance of death. Deathsworn exhibit great respect towards their enemies, going so far as to carry the ritually cleaned and hallowed skulls of particularly worthy opponents alongside of those of their closest kin - signifying their bond forged in battle, either on equal or opposing sides. The certainty of their own death is meaningless to a Deathsworn, as they resign to it each time they take up their spear and shroud their face with the Sho’ufa, expressing their resolve to kill and die honorably in the eyes of their ancestors.",
       "name": "Deathsworn",
       "properties": {
-        "biom": ["civilised", "city", "wilderness","road", "mountain"],
+        "biom": ["civilised", "city", "wilderness","road", "mountain", "desert", "ruins"],
         "cr": "5",
         "fightingstyle": ["charge", "interactive"],
         "movement": ["walk"],
@@ -4499,10 +4499,9 @@
           "humanoid",
           "orc"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/p9B4x9Vb38k"
+    }
     }
   }
-  }
-  
   
 
