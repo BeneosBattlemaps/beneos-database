@@ -3038,6 +3038,246 @@
          "type": "Scenery",
          "videourl": ""
       }
+     },
+    "53-01_Gate_Bright_Road-4K_BM": {
+       "name": "Gate Bright Road",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilized", "Road", "Horror"],
+         "brightness": "Dark",
+         "grid": "48x27",
+         "pack": "53_CoS_Gates_Of_Barovia",
+         "releaseurl": "",
+         "sibling": "53-01_Gate_Bright_Road-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "53-01_Gate_Bright_Road-4K_Scen": {
+       "name": "Gate Bright Road",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilized", "Road", "Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "53_CoS_Gates_Of_Barovia",
+         "releaseurl": "",
+         "sibling": "53-01_Gate_Bright_Road-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "53-02_Gate_Bright_Front-4K_BM": {
+       "name": "Gate Bright Front",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilized", "Road", "Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "53_CoS_Gates_Of_Barovia",
+         "releaseurl": "",
+         "sibling": "53-02_Gate_Bright_Front-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "53-02_Gate_Bright_Front-4K_Scen": {
+       "name": "Gate Bright Front",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilized", "Road", "Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "53_CoS_Gates_Of_Barovia",
+         "releaseurl": "",
+         "sibling": "53-02_Gate_Bright_Front-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "53-03_Gate_Bright_Back-4K_BM": {
+       "name": "Gate Bright Back",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilized", "Road", "Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "53_CoS_Gates_Of_Barovia",
+         "releaseurl": "",
+         "sibling": "53-03_Gate_Bright_Back-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "53-03_Gate_Bright_Back-4K_Scen": {
+       "name": "Gate Bright Back",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilized", "Road", "Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "53_CoS_Gates_Of_Barovia",
+         "releaseurl": "",
+         "sibling": "53-03_Gate_Bright_Back-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "53-04_Gate_Dark_Road-4K_BM": {
+       "name": "Gate Dark Road",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilized", "Road", "Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "53_CoS_Gates_Of_Barovia",
+         "releaseurl": "",
+         "sibling": "53-04_Gate_Dark_Road-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "53-04_Gate_Dark_Road-4K_Scen": {
+       "name": "Gate Dark Road",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilized", "Road", "Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "53_CoS_Gates_Of_Barovia",
+         "releaseurl": "",
+         "sibling": "53-04_Gate_Dark_Road-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "53-05_Gate_Dark_Front-4K_BM": {
+       "name": "Gate Dark Front",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilized", "Road", "Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "53_CoS_Gates_Of_Barovia",
+         "releaseurl": "",
+         "sibling": "53-05_Gate_Dark_Front-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "53-05_Gate_Dark_Front-4K_Scen": {
+       "name": "Gate Dark Front",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilized", "Road", "Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "53_CoS_Gates_Of_Barovia",
+         "releaseurl": "",
+         "sibling": "53-05_Gate_Dark_Front-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "53-06_Gate_Dark_Back-4K_BM": {
+       "name": "Gate Dark Back",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilized", "Road", "Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "53_CoS_Gates_Of_Barovia",
+         "releaseurl": "",
+         "sibling": "53-06_Gate_Dark_Back-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "53-06_Gate_Dark_Back-4K_Scen": {
+       "name": "Gate Dark Back",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilized", "Road", "Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "53_CoS_Gates_Of_Barovia",
+         "releaseurl": "",
+         "sibling": "53-06_Gate_Dark_Back-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "53-07_Gate_Undamaged_Front-4K_BM": {
+       "name": "Gate Undamaged Front",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilized", "Road", "Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "53_CoS_Gates_Of_Barovia",
+         "releaseurl": "",
+         "sibling": "53-07_Gate_Undamaged_Front-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "53-07_Gate_Undamaged_Front-4K_Scen": {
+       "name": "Gate Undamaged Front",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilized", "Road", "Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "53_CoS_Gates_Of_Barovia",
+         "releaseurl": "",
+         "sibling": "53-07_Gate_Undamaged_Front-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "53-08_Ivlis_Crossroads-4K_BM": {
+       "name": "Ivlis Crossroads",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilized", "Road", "Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "53_CoS_Gates_Of_Barovia",
+         "releaseurl": "",
+         "sibling": "53-08_Ivlis_Crossroads-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "53-08_Ivlis_Crossroads-4K_Scen": {
+       "name": "Ivlis Crossroads",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilized", "Road", "Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "53_CoS_Gates_Of_Barovia",
+         "releaseurl": "",
+         "sibling": "53-08_Ivlis_Crossroads-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
     }
   }
 }
