@@ -4502,8 +4502,36 @@
         "videourl": "https://youtu.be/p9B4x9Vb38k"
 
 
+    }
+    },
+    "077_necromancer": {
+      "description": "Necromancers are magic users who pursued the arcane arts beyond the restrictions that nature and mortality place upon less curious souls. Death is a strong metaphysical concept and those tapping into the domain of biological and metaphysical death quickly find themselves swelling with power, as they carry life into the realms of death to reanimate bodies or manipulate souls, or invite death into the realms of the living, turning flesh to dust and withering body and soul. This power quickly corrupts and many societies fear, shun or hunt those who passed the treshold and invited death into their life.",
+      "name": "Necromancer",
+      "properties": {
+        "biom": ["ruins", "underground","dungeon", "lair", "horror"],
+        "cr": "9",
+        "fightingstyle": ["demanding", "lethal", "tactical"],
+        "movement": ["walk"],
+        "purpose": ["leader", "support"],
+        "releaseurl": "https://www.patreon.com/posts/necromancer-72923802",
+        "size": "medium",
+        "stat_ac": 16,
+        "stat_cha": 18,
+        "stat_con": 16,
+        "stat_dex": 6,
+        "stat_hp": 187,
+        "stat_int": 20,
+        "stat_str": 8,
+        "stat_wis": 16,
+        "thumbnail": "077_necromancer-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          ""
+        ],
+        "videourl": "https://youtu.be/HwcT3rgZPrM"
+    }
   }
   }
-  }
+  
   
 
