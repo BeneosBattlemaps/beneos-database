@@ -4500,8 +4500,6 @@
           "orc"
         ],
         "videourl": "https://youtu.be/p9B4x9Vb38k"
-
-
     }
     },
     "077_necromancer": {
@@ -4530,7 +4528,60 @@
         ],
         "videourl": "https://youtu.be/HwcT3rgZPrM"
     }
-
+    },
+    "078_necrovolt_circuitslave": {
+      "description": "Circuitslaves are burned-out husks powered by the abyssal energies of the Netherstorm. Through the shapeless Necrovolt, a being of sentient lightning accidentally created and worshipped by the Reanimator Conclaves, they are connected to their masters in a cursed circuit, living lightning coursing continously coursing through them. They eternally hunger for more energy, seeking out living creatures to drain their bodies of it.",
+      "name": "Necrovolt Circuitslave",
+      "properties": {
+        "biom": ["ruins", "dungeon", "lair", "city", "civilised", "horror", "graves"],
+        "cr": "1",
+        "fightingstyle": ["melee", "pack"],
+        "movement": ["walk"],
+        "purpose": ["damage","minion"],
+        "releaseurl": "https://www.patreon.com/posts/necrovolt-73248375",
+        "size": "medium",
+        "stat_ac": 12,
+        "stat_cha": 4,
+        "stat_con": 16,
+        "stat_dex": 11,
+        "stat_hp": 20,
+        "stat_int": 5,
+        "stat_str": 14,
+        "stat_wis": 16,
+        "thumbnail": "078_necrovolt_circuitslave-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": "https://youtu.be/3gbegLEP7h0"
+    }
+    },
+    "078_necrovolt_reanimator": {
+      "description": "The Necrovolt Reanimators are a conclave of deranged scientists who discovered the abyssal Netherstorm, a sentient tempest of howling souls, charged with cracking aether-lightning. Reanimators harness the Netherstorm’s boundless energy with their Necrovoltaic Generators, using it to power various nightmarish machineries and undead constructs. Over time fanatical members of the Reanimator Conclave seemingly discerned sentience within their own devices, remnants of the soul-lightning powering them. This ghost in the machine was dubbed the Necrovolt, a being of unliving lightning made manifest.",
+      "name": "Necrovolt Reanimator",
+      "properties": {
+        "biom": ["ruins", "dungeon", "lair", "city", "civilised", "horror", "graves"],
+        "cr": "9",
+        "fightingstyle": ["demanding", "aoe"],
+        "movement": ["walk"],
+        "purpose": ["damage","leader"],
+        "releaseurl": "https://www.patreon.com/posts/necrovolt-73248375",
+        "size": "medium",
+        "stat_ac": 16,
+        "stat_cha": 17,
+        "stat_con": 16,
+        "stat_dex": 8,
+        "stat_hp": 154,
+        "stat_int": 19,
+        "stat_str": 9,
+        "stat_wis": 16,
+        "thumbnail": "078_necrovolt_reanimator-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          ""
+        ],
+        "videourl": "https://youtu.be/3gbegLEP7h0"
+    }
   }
   }
   
