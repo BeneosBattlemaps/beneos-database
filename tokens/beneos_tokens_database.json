@@ -4591,7 +4591,7 @@
         "fightingstyle": ["melee", "demanding"],
         "movement": ["walk"],
         "purpose": ["debuff","pressure"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/mummy-73546671",
         "size": "medium",
         "stat_ac": 12,
         "stat_cha": 12,
@@ -4606,7 +4606,7 @@
           "undead",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/eGQadVHAZUo"
     }
   }
   }
