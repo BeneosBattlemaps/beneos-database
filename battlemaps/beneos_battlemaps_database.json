@@ -3278,6 +3278,216 @@
          "type": "Scenery",
          "videourl": ""
       }
+     },
+    "54-01_Widowhall_Graveyard_1-4K_BM": {
+       "name": "Widowhall Graveyard 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Graveyard","Horror"],
+         "brightness": "Dark",
+         "grid": "32x18",
+         "pack": "54_Widowhall",
+         "releaseurl": "",
+         "sibling": "54-01_Widowhall_Graveyard_1-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "54-01_Widowhall_Graveyard_1-4K_Scen": {
+       "name": "Widowhall Graveyard 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Graveyard","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "54_Widowhall",
+         "releaseurl": "",
+         "sibling": "54-01_Widowhall_Graveyard_1-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "54-02_Widowhall_Graveyard_2-4K_BM": {
+       "name": "Widowhall Graveyard 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Graveyard","Horror"],
+         "brightness": "Dark",
+         "grid": "16x9",
+         "pack": "54_Widowhall",
+         "releaseurl": "",
+         "sibling": "54-02_Widowhall_Graveyard_2-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "54-02_Widowhall_Graveyard_2-4K_Scen": {
+       "name": "Widowhall Graveyard 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Graveyard","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "54_Widowhall",
+         "releaseurl": "",
+         "sibling": "54-02_Widowhall_Graveyard_2-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "54-03_Widowhall_Graveyard_3-4K_BM": {
+       "name": "Widowhall Graveyard 3",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Graveyard","Horror"],
+         "brightness": "Dark",
+         "grid": "32x18",
+         "pack": "54_Widowhall",
+         "releaseurl": "",
+         "sibling": "54-03_Widowhall_Graveyard_3-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "54-03_Widowhall_Graveyard_3-4K_Scen": {
+       "name": "Widowhall Graveyard 3",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Graveyard","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "54_Widowhall",
+         "releaseurl": "",
+         "sibling": "54-03_Widowhall_Graveyard_3-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "54-04_Widowhall_Street_1-4K_BM": {
+       "name": "Widowhall Street 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Street","Horror"],
+         "brightness": "Dark",
+         "grid": "16x9",
+         "pack": "54_Widowhall",
+         "releaseurl": "",
+         "sibling": "54-04_Widowhall_Street_1-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "54-04_Widowhall_Street_1-4K_Scen": {
+       "name": "Widowhall Street 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Street","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "54_Widowhall",
+         "releaseurl": "",
+         "sibling": "54-04_Widowhall_Street_1-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "54-05_Widowhall_Street_2-4K_BM": {
+       "name": "Widowhall Street 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Street","Horror"],
+         "brightness": "Dark",
+         "grid": "32x18",
+         "pack": "54_Widowhall",
+         "releaseurl": "",
+         "sibling": "54-05_Widowhall_Street_2-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "54-05_Widowhall_Street_2-4K_Scen": {
+       "name": "Widowhall Street 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Street","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "54_Widowhall",
+         "releaseurl": "",
+         "sibling": "54-05_Widowhall_Street_2-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "54-06_Widowhall_Backyard_1-4K_BM": {
+       "name": "Widowhall Backyard 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Street","Horror"],
+         "brightness": "Dark",
+         "grid": "16x9",
+         "pack": "54_Widowhall",
+         "releaseurl": "",
+         "sibling": "54-06_Widowhall_Backyard_1-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "54-06_Widowhall_Backyard_1-4K_Scen": {
+       "name": "Widowhall Backyard 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Street","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "54_Widowhall",
+         "releaseurl": "",
+         "sibling": "54-06_Widowhall_Backyard_1-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "54-07_Widowhall_Backyard_2-4K_BM": {
+       "name": "Widowhall Backyard 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Street","Horror"],
+         "brightness": "Dark",
+         "grid": "16x9",
+         "pack": "54_Widowhall",
+         "releaseurl": "",
+         "sibling": "54-07_Widowhall_Backyard_2-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "54-07_Widowhall_Backyard_2-4K_Scen": {
+       "name": "Widowhall Backyard 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Street","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "54_Widowhall",
+         "releaseurl": "",
+         "sibling": "54-07_Widowhall_Backyard_2-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
     }
   }
 }
