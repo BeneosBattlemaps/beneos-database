@@ -4609,6 +4609,33 @@
         "videourl": "https://youtu.be/eGQadVHAZUo"
     }
     
+    },
+    "080_sharakhul": {
+      "description": "Placeholder",
+      "name": "Sharakhul",
+      "properties": {
+        "biom": ["horror", "dungeon", "lair", "graves", "wasteland", "wilderness", "mountains" ],
+        "cr": "20",
+        "fightingstyle": ["lethal", "demanding", "damage"],
+        "movement": ["fly"],
+        "purpose": ["boss","pressure"],
+        "releaseurl": "",
+        "size": "gargantuan",
+        "stat_ac": 18,
+        "stat_cha": 18,
+        "stat_con": 22,
+        "stat_dex": 12,
+        "stat_hp": 180,
+        "stat_int": 20,
+        "stat_str": 25,
+        "stat_wis": 16,
+        "thumbnail": "080_sharakhul-idle_face_still.webp",
+        "type": [
+          "dragon",
+          ""
+        ],
+        "videourl": ""
+    }
   }
   }
   }
