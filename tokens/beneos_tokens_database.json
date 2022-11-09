@@ -4619,7 +4619,7 @@
         "fightingstyle": ["lethal", "demanding", "damage"],
         "movement": ["fly"],
         "purpose": ["boss","pressure"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/sharakhul-flayed-73927441?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator",
         "size": "gargantuan",
         "stat_ac": 18,
         "stat_cha": 18,
@@ -4634,35 +4634,7 @@
           "dragon",
           ""
         ],
-        "videourl": ""
-    }
-
-    },
-    "001_primal_vampire_spawn": {
-      "description": "Sometimes a vampire imparts the dubious gift of spawndom upon the wrong soul, stirring primordial horrors from their cursed sleep. These vampire spawns regress to a primal state, becoming a bestial horror of the distant past detached from the rules that even compel their creators, driven only by their lust for terror and agony. Vampires loathe their degenerated and empowered spawn, only those most versed in the lore of the vampiric curse even know about the possibility of creating a Primal Spawn. However, they are not beyond utilizing their cursed creations for personal use.",
-      "name": "Primal Vampire Spawn",
-      "properties": {
-        "biom": ["ruins", "graves", "horror"],
-        "cr": "6",
-        "fightingstyle": ["predator", "demanding", "shock"],
-        "movement": ["walk"],
-        "purpose": ["damage", "pressure"],
-        "releaseurl": "",
-        "size": "large",
-        "stat_ac": 16,
-        "stat_cha": 7,
-        "stat_con": 18,
-        "stat_dex": 18,
-        "stat_hp": 100,
-        "stat_int": 7,
-        "stat_str": 18,
-        "stat_wis": 12,
-        "thumbnail": "001_primal_vampire_spawn-idle_face_still.webp",
-        "type": [
-          "undead",
-          "vampire"
-        ],
-        "videourl": ""
+        "videourl": "https://youtu.be/dYtsdNRp5L8"
     }
     },
     "081_crusader": {
@@ -4674,7 +4646,7 @@
         "fightingstyle": ["melee", "charge"],
         "movement": ["walk"],
         "purpose": ["damage", "duelist"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/crusader-74184786?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator",
         "size": "medium",
         "stat_ac": 18,
         "stat_cha": 18,
@@ -4689,32 +4661,32 @@
           "humanoid",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/B1oOwbMlrDo"
     }
     },
-    "081_crusader": {
+    "082_shell_sage": {
       "description": "Placeholder",
-      "name": "Crusader",
+      "name": "Shell Sage",
       "properties": {
-        "biom": ["city", "road", "sacral", "civilised"],
-        "cr": "5",
-        "fightingstyle": ["melee", "charge"],
+        "biom": ["city", "road", "wilderness", "civilised", "dungeon", "forest", "wasteland", "desert", "mountains", "coast", "ocean"],
+        "cr": "2",
+        "fightingstyle": ["simple"],
         "movement": ["walk"],
-        "purpose": ["damage", "duelist"],
+        "purpose": ["ally", "support"],
         "releaseurl": "",
         "size": "medium",
         "stat_ac": 18,
         "stat_cha": 18,
-        "stat_con": 16,
-        "stat_dex": 11,
+        "stat_con": 20,
+        "stat_dex": 6,
         "stat_hp": 69,
-        "stat_int": 11,
-        "stat_str": 18,
-        "stat_wis": 14,
-        "thumbnail": "081_crusader-idle_face_still.webp",
+        "stat_int": 14,
+        "stat_str": 16,
+        "stat_wis": 20,
+        "thumbnail": "082_shell_sage-idle_face_still.webp",
         "type": [
           "humanoid",
-          ""
+          "demi-human"
         ],
         "videourl": ""
     }
