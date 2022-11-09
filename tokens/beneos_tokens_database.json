@@ -4611,7 +4611,7 @@
     
     },
     "080_sharakhul": {
-      "description": "Placeholder",
+      "description": "His body flayed and defiled, his mind fractured in unmendable ways, the broken husk of Sharakhul rose from the depths and sought exile, pouring himself into foul methods of blood magic in a desperate attempt to mend his flesh and restore his scales. He conducted excruciating experiments on himself, unable to find a way to regain what had been taken from him. He took up residence atop the Harrowspire, soon a twisted nightmare of flesh and blood rising from the scab-crusted ruins of a lost city, its name purposefully forgotten to not invoke the Skinless Scourge. ",
       "name": "Sharakhul",
       "properties": {
         "biom": ["horror", "dungeon", "lair", "graves", "wasteland", "wilderness", "mountains" ],
@@ -4638,7 +4638,7 @@
     }
     },
     "081_crusader": {
-      "description": "Placeholder",
+      "description": "Crusaders are chosen warriors infused with holy purpose, traveling the lands to retrieve lost relics, protect priests and pilgrims or enact divine judgement against sworn enemies of their patron saint or deity. They are singular in devotion, trained in the arts of war from a young age and eager to prove their worthiness at any cost.",
       "name": "Crusader",
       "properties": {
         "biom": ["city", "road", "sacral", "civilised"],
@@ -4665,7 +4665,7 @@
     }
     },
     "082_shell_sage": {
-      "description": "Placeholder",
+      "description": "Shell-Sages wander the lands oblivious to possible danger, protected only by their trusty shell, sheer legendary luck and the hesitation of possible predators, as their would-be prey moves through their territory with confusing self-assuredness and tranquility. Shell-Sages owe their title to the habit of withdrawing into the safety of their eponymous shell, spending days and even weeks in deep contemplation, from which they they only awake due to the excitement experienced by stumbling upon especially profound insights. Wild animals or curious people are drawn to the shell, listening to the calming, mumbled utterances echoing from within the shell.",
       "name": "Shell Sage",
       "properties": {
         "biom": ["city", "road", "wilderness", "civilised", "dungeon", "forest", "wasteland", "desert", "mountains", "coast", "ocean"],
@@ -4690,6 +4690,7 @@
         ],
         "videourl": ""
     }
+   
   }
   }
   }
