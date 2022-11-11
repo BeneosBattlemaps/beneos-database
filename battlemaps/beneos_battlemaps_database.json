@@ -3488,6 +3488,276 @@
          "type": "Scenery",
          "videourl": ""
       }
+     },
+    "55-01_Streets_1-4K_BM": {
+       "name": "Streets 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Street","Horror", "Exteriour"],
+         "brightness": "Dark",
+         "grid": "32x18",
+         "pack": "55_Widowhall",
+         "releaseurl": "",
+         "sibling": "55-01_Streets_1-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "55-01_Streets_1-4K_Scen": {
+       "name": "Streets 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Street","Horror", "Exteriour"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "55_Widowhall",
+         "releaseurl": "",
+         "sibling": "55-01_Streets_1-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "55-02_Shrine-4K_BM": {
+       "name": "Shrine",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Holy","Shrine", "Exteriour"],
+         "brightness": "Dark",
+         "grid": "16x9",
+         "pack": "55_Widowhall",
+         "releaseurl": "",
+         "sibling": "55-02_Shrine-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "55-02_Shrine-4K_Scen": {
+       "name": "Shrine",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Holy","Shrine", "Exteriour"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "55_Widowhall",
+         "releaseurl": "",
+         "sibling": "55-02_Shrine-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "55-03_Streets_2-4K_BM": {
+       "name": "Streets 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Gothic","Horror", "Exteriour"],
+         "brightness": "Dark",
+         "grid": "32x18",
+         "pack": "55_Widowhall",
+         "releaseurl": "",
+         "sibling": "55-03_Streets_2-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "55-03_Streets_2-4K_Scen": {
+       "name": "Streets 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Gothic","Horror", "Exteriour"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "55_Widowhall",
+         "releaseurl": "",
+         "sibling": "55-03_Streets_2-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "55-04_Bridge-4K_BM": {
+       "name": "Bridge",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Bridge","Horror", "Exteriour"],
+         "brightness": "Dark",
+         "grid": "32x18",
+         "pack": "55_Widowhall",
+         "releaseurl": "",
+         "sibling": "55-04_Bridge-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "55-04_Bridge-4K_Scen": {
+       "name": "Bridge",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Bridge","Horror", "Exteriour"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "55_Widowhall",
+         "releaseurl": "",
+         "sibling": "55-04_Bridge-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "55-05_Stairs_1-4K_BM": {
+       "name": "Stairs 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Stairs","Horror", "Exteriour"],
+         "brightness": "Dark",
+         "grid": "16x9",
+         "pack": "55_Widowhall",
+         "releaseurl": "",
+         "sibling": "55-05_Stairs_1-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "55-05_Stairs_1-4K_Scen": {
+       "name": "Stairs 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Stairs","Horror", "Exteriour"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "55_Widowhall",
+         "releaseurl": "",
+         "sibling": "55-05_Stairs_1-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "55-06_Yard-4K_BM": {
+       "name": "Yard",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Street","Horror", "Exteriour"],
+         "brightness": "Dark",
+         "grid": "32x18",
+         "pack": "55_Widowhall",
+         "releaseurl": "",
+         "sibling": "55-06_Yard-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "55-06_Yard-4K_Scen": {
+       "name": "Yard",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Street","Horror", "Exteriour"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "55_Widowhall",
+         "releaseurl": "",
+         "sibling": "55-06_Yard-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "55-07_Stairs_2-4K_BM": {
+       "name": "Stairs 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Stairs","Horror", "Exteriour"],
+         "brightness": "Dark",
+         "grid": "16x9",
+         "pack": "55_Widowhall",
+         "releaseurl": "",
+         "sibling": "55-07_Stairs_2-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "55-07_Stairs_2-4K_Scen": {
+       "name": "Stairs 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Stairs","Horror", "Exteriour"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "55_Widowhall",
+         "releaseurl": "",
+         "sibling": "55-07_Stairs_2-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "55-08_Backyard-4K_BM": {
+       "name": "Backyard",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Street","Horror", "Exteriour"],
+         "brightness": "Dark",
+         "grid": "32x18",
+         "pack": "55_Widowhall",
+         "releaseurl": "",
+         "sibling": "55-08_Backyard-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "55-08_Backyard-4K_Scen": {
+       "name": "Backyard",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Street","Horror", "Exteriour"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "55_Widowhall",
+         "releaseurl": "",
+         "sibling": "55-08_Backyard-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "55-09_Church-4K_BM": {
+       "name": "Church",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Church","Holy", "Interiour"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "55_Widowhall",
+         "releaseurl": "",
+         "sibling": "55-09_Church-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "55-09_Church-4K_Scen": {
+       "name": "Church",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","City","Church","Holy", "Interiour"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "55_Widowhall",
+         "releaseurl": "",
+         "sibling": "55-09_Church-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
     }
   }
 }
