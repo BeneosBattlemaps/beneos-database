@@ -4691,8 +4691,89 @@
         "videourl": ""
     }
     }
+    },
+    "082_shell_sage": {
+      "description": "Placeholder",
+      "name": "Shell Sage",
+      "properties": {
+        "biom": ["city", "road", "wilderness", "civilised", "dungeon", "forest", "wasteland", "desert", "mountains", "coast", "ocean"],
+        "cr": "2",
+        "fightingstyle": ["simple"],
+        "movement": ["walk"],
+        "purpose": ["ally", "support"],
+        "releaseurl": "",
+        "size": "medium",
+        "stat_ac": 18,
+        "stat_cha": 18,
+        "stat_con": 20,
+        "stat_dex": 6,
+        "stat_hp": 129,
+        "stat_int": 14,
+        "stat_str": 16,
+        "stat_wis": 20,
+        "thumbnail": "082_shell_sage-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "demi-human"
+        ],
+        "videourl": ""
+    }
+    },
+    "082_shell_sage": {
+      "description": "Placeholder",
+      "name": "Shell Sage",
+      "properties": {
+        "biom": ["city", "road", "wilderness", "civilised", "dungeon", "forest", "wasteland", "desert", "mountains", "coast", "ocean"],
+        "cr": "2",
+        "fightingstyle": ["simple"],
+        "movement": ["walk"],
+        "purpose": ["ally", "support"],
+        "releaseurl": "",
+        "size": "medium",
+        "stat_ac": 18,
+        "stat_cha": 18,
+        "stat_con": 20,
+        "stat_dex": 6,
+        "stat_hp": 129,
+        "stat_int": 14,
+        "stat_str": 16,
+        "stat_wis": 20,
+        "thumbnail": "082_shell_sage-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "demi-human"
+        ],
+        "videourl": ""
+    }
+    },
+    "002_gluttony": {
+      "description": "This creature is the embodiment of self indulgence, the nature-given love and need for sustenance perverted and twisted into a bloated creature of repulsive proportions. Gluttony poisons mind and body in equal measure and hungers endlessly, existing for the singular purpose to make everything in existence one with itself. Located within its abyssal bowls is Gluttony’s Gorge, a demi-plane where towering mountains of spoilt meat and decaying matter rise towards a sickly green sky, filled with the droning of well-fed flies and the fetid stench of endless rot.",
+      "name": "Gluttony",
+      "properties": {
+        "biom": ["lair", "abyssal"],
+        "cr": "20",
+        "fightingstyle": ["lethal", "aoe", "tactical"],
+        "movement": ["walk"],
+        "purpose": ["boss", "pressure", "tank"],
+        "releaseurl": "",
+        "size": "huge",
+        "stat_ac": 15,
+        "stat_cha": 18,
+        "stat_con": 24,
+        "stat_dex": 6,
+        "stat_hp": 342,
+        "stat_int": 11,
+        "stat_str": 22,
+        "stat_wis": 23,
+        "thumbnail": "002_gluttony-idle_face_still.webp",
+        "type": [
+          "fiend",
+          "demon"
+        ],
+        "videourl": ""
+    }
   }
   }
-  
+  }
   
 
