@@ -3758,6 +3758,246 @@
          "type": "Scenery",
          "videourl": ""
       }
+     },
+    "56-01_Jungle_River-4K_BM": {
+       "name": "Jungle River",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","River"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "56_Modular_Jungle_1",
+         "releaseurl": "",
+         "sibling": "56-01_Jungle_River-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "56-01_Jungle_River-4K_Scen": {
+       "name": "Jungle River",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","River"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "56_Modular_Jungle_1",
+         "releaseurl": "",
+         "sibling": "56-01_Jungle_River-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "56-02_Jungle_Path_1-4K_BM": {
+       "name": "Jungle Path 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","Path"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "56_Modular_Jungle_1",
+         "releaseurl": "",
+         "sibling": "56-02_Jungle_Path_1-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "56-02_Jungle_Path_1-4K_Scen": {
+       "name": "Jungle Path 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","Path"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "56_Modular_Jungle_1",
+         "releaseurl": "",
+         "sibling": "56-02_Jungle_Path_1-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "56-03_Jungle_Chasm-4K_BM": {
+       "name": "Jungle Chasm",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","Path"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "56_Modular_Jungle_1",
+         "releaseurl": "",
+         "sibling": "56-03_Jungle_Chasm-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "56-03_Jungle_Chasm-4K_Scen": {
+       "name": "Jungle Chasm",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","Path"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "56_Modular_Jungle_1",
+         "releaseurl": "",
+         "sibling": "56-03_Jungle_Chasm-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "56-04_Jungle_Hill-4K_BM": {
+       "name": "Jungle Hill",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","Hill"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "56_Modular_Jungle_1",
+         "releaseurl": "",
+         "sibling": "56-04_Jungle_Hill-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "56-04_Jungle_Hill-4K_Scen": {
+       "name": "Jungle Hill",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","Hill"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "56_Modular_Jungle_1",
+         "releaseurl": "",
+         "sibling": "56-04_Jungle_Hill-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "56-05_Jungle_Path_2-4K_BM": {
+       "name": "Jungle Path 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","Path"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "56_Modular_Jungle_1",
+         "releaseurl": "",
+         "sibling": "56-05_Jungle_Path_2-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "56-05_Jungle_Path_2-4K_Scen": {
+       "name": "Jungle Path 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","Path"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "56_Modular_Jungle_1",
+         "releaseurl": "",
+         "sibling": "56-05_Jungle_Path_2-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "56-06_Jungle_Camp-4K_BM": {
+       "name": "Jungle Camp",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","Camp"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "56_Modular_Jungle_1",
+         "releaseurl": "",
+         "sibling": "56-06_Jungle_Camp-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "56-06_Jungle_Camp-4K_Scen": {
+       "name": "Jungle Camp",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","Camp"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "56_Modular_Jungle_1",
+         "releaseurl": "",
+         "sibling": "56-06_Jungle_Camp-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "56-07_Jungle_Clearing-4K_BM": {
+       "name": "Jungle Clearing",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "56_Modular_Jungle_1",
+         "releaseurl": "",
+         "sibling": "56-07_Jungle_Clearing-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "56-07_Jungle_Clearing-4K_Scen": {
+       "name": "Jungle Clearing",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "56_Modular_Jungle_1",
+         "releaseurl": "",
+         "sibling": "56-07_Jungle_Clearing-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "56-08_Jungle_Path_3-4K_BM": {
+       "name": "Jungle Path 3",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","Path"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "56_Modular_Jungle_1",
+         "releaseurl": "",
+         "sibling": "56-08_Jungle_Path_3-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "56-08_Jungle_Path_3-4K_Scen": {
+       "name": "Jungle Path 3",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","Path"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "56_Modular_Jungle_1",
+         "releaseurl": "",
+         "sibling": "56-08_Jungle_Path_3-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
     }
   }
 }
