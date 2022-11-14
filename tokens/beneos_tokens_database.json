@@ -194,37 +194,7 @@
         ],
         "videourl": "https://youtu.be/wdnXJBQW0lo"
       }
-    },
-    "003_female_knight_1": {
-      "description": "Inquisitorial Penitents are former witches, persecuted and excruciatingly converted by those they now serve as living weapons. Their connection to the arcane has been perverted, the flow of magic reversed, as they now syphon arcane energies from others with their mere presence. They stalk the lands in packs, travel as independent operatives or are part of an inquisitorial retinue, acting as both bodyguards and executioners. The most dangerous penitents, however, are those who underwent the purifications voluntarily, eager to shed the taint of witchcraft. They are the most unforgiving and zealous of their kind, hunting their tainted kin without mercy or remorse.",
-      "name": "Inquisitorial Penitent 1",
-      "properties": {
-        "biom": [
-          "Sacral", "city", "civilised"
-        ],
-        "cr": "5",
-        "fightingstyle": [
-         "debuff", "melee", "interactive"
-        ],
-        "movement": ["walk"],
-        "purpose": ["anti caster", "hunter"],
-        "releaseurl": "https://www.patreon.com/posts/special-creature-51753582",
-        "size": "large",
-        "stat_ac": 16,
-        "stat_cha": 18,
-        "stat_con": 12,
-        "stat_dex": 14,
-        "stat_hp": 100,
-        "stat_int": 14,
-        "stat_str": 11,
-        "stat_wis": 14,
-        "thumbnail": "003_female_knight_1-idle_face_still.webp",
-        "type": [
-          "human",
-          "humanoid"
-        ],
-        "videourl": "https://youtu.be/PPu5pyvSP5Y"
-      }
+    }
     },
     "004_undead_centipede": {
       "description": "Curseweavers are sinister creatures exhibiting a perverse interest in the political dealings of mortal beings. This morbid curiosity draws them from their natural homes within the seven hells and causes them to establish lairs at the heart of sprawling cities or similiar centers of power and influence. Through networks of both mortal and infernal spies and agents they seek out those in pursuit of dominion over others and offer their cursework in exchange for souls and chess pieces on the political board. Curseweavers enjoy pitting their numerous minions against each other, slowly ascending as the true éminence grise behind the curtain. Civil wars, revolts or revolutions follow in the wake of a Curseweaver, the fiend oftentimes playing both sides for nourishment and sadistic pleasure in equal measure.",
@@ -4121,7 +4091,6 @@
         ],
         "videourl": "https://youtu.be/GbdR-Nsfd1s"
     }
-    }
     },
     "067_rustmire_gadfly": {
       "description": "Rustmire Gadflies infest the auburn marshlands of the Rustmire, their incessant droning turning this already wicked place into even more of a hostile hellscape. By the dozens a swarm of Gadflies descents on a suitable victim - be it man or beast - and feed on them, leaving it bite-marked but alive, as they do not kill their victims (intentionally, at least), but prefer to feed on it over the span of days or weeks instead. They are, however, carriers of the unsavoury and often lethal Bloodscorch plague and can often be found feeding on the pustulent remains of their infected victim.",
@@ -4665,34 +4634,6 @@
     }
     },
     "082_shell_sage": {
-      "description": "Shell-Sages wander the lands oblivious to possible danger, protected only by their trusty shell, sheer legendary luck and the hesitation of possible predators, as their would-be prey moves through their territory with confusing self-assuredness and tranquility. Shell-Sages owe their title to the habit of withdrawing into the safety of their eponymous shell, spending days and even weeks in deep contemplation, from which they they only awake due to the excitement experienced by stumbling upon especially profound insights. Wild animals or curious people are drawn to the shell, listening to the calming, mumbled utterances echoing from within the shell.",
-      "name": "Shell Sage",
-      "properties": {
-        "biom": ["city", "road", "wilderness", "civilised", "dungeon", "forest", "wasteland", "desert", "mountains", "coast", "ocean"],
-        "cr": "2",
-        "fightingstyle": ["simple"],
-        "movement": ["walk"],
-        "purpose": ["ally", "support"],
-        "releaseurl": "",
-        "size": "medium",
-        "stat_ac": 18,
-        "stat_cha": 18,
-        "stat_con": 20,
-        "stat_dex": 6,
-        "stat_hp": 69,
-        "stat_int": 14,
-        "stat_str": 16,
-        "stat_wis": 20,
-        "thumbnail": "082_shell_sage-idle_face_still.webp",
-        "type": [
-          "humanoid",
-          "demi-human"
-        ],
-        "videourl": ""
-    }
-    }
-    },
-    "082_shell_sage": {
       "description": "Placeholder",
       "name": "Shell Sage",
       "properties": {
@@ -4701,7 +4642,7 @@
         "fightingstyle": ["simple"],
         "movement": ["walk"],
         "purpose": ["ally", "support"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/shell-sage-74472629",
         "size": "medium",
         "stat_ac": 18,
         "stat_cha": 18,
@@ -4716,34 +4657,7 @@
           "humanoid",
           "demi-human"
         ],
-        "videourl": ""
-    }
-    },
-    "082_shell_sage": {
-      "description": "Placeholder",
-      "name": "Shell Sage",
-      "properties": {
-        "biom": ["city", "road", "wilderness", "civilised", "dungeon", "forest", "wasteland", "desert", "mountains", "coast", "ocean"],
-        "cr": "2",
-        "fightingstyle": ["simple"],
-        "movement": ["walk"],
-        "purpose": ["ally", "support"],
-        "releaseurl": "",
-        "size": "medium",
-        "stat_ac": 18,
-        "stat_cha": 18,
-        "stat_con": 20,
-        "stat_dex": 6,
-        "stat_hp": 129,
-        "stat_int": 14,
-        "stat_str": 16,
-        "stat_wis": 20,
-        "thumbnail": "082_shell_sage-idle_face_still.webp",
-        "type": [
-          "humanoid",
-          "demi-human"
-        ],
-        "videourl": ""
+        "videourl": "https://youtu.be/JpJb0Tq_qro"
     }
     },
     "002_gluttony": {
@@ -4770,10 +4684,35 @@
           "fiend",
           "demon"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/wdnXJBQW0lo"
+    }
+    },
+    "003_inquisitorial_penitent": {
+      "description": "In worlds rampant with magic, institutions condemning the use of the arcane arts are common. More often than not, they consider magic as anathema to the divine, for such power should not be wielded by mortal hands. Inquisitorial Penitents are former witches, persecuted and excruciatingly converted by those they now serve as living weapons. Their connection to the arcane has been perverted, the flow of magic reversed, as they now syphon arcane energies from others with their mere presence. They stalk the lands in packs, travel as independent operatives or are part of an inquisitorial retinue, acting as both bodyguards and executioners. The most dangerous penitents, however, are those who underwent the purifications voluntarily, eager to shed the taint of witchcraft. They are the most unforgiving and zealous of their kind, hunting their tainted kin without mercy or remorse..",
+      "name": "Inquisitorial Penitent",
+      "properties": {
+        "biom": ["sacral", "city", "civilised", "road"],
+        "cr": "3",
+        "fightingstyle": ["debuff", "melee", "interactive"],
+        "movement": ["walk"],
+        "purpose": ["hunter", "anti caster"],
+        "releaseurl": "",
+        "size": "medium",
+        "stat_ac": 17,
+        "stat_cha": 18,
+        "stat_con": 12,
+        "stat_dex": 14,
+        "stat_hp": 55,
+        "stat_int": 12,
+        "stat_str": 11,
+        "stat_wis": 14,
+        "thumbnail": "003_inquisitorial_penitent-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          ""
+        ],
+        "videourl": "https://youtu.be/PPu5pyvSP5Y"
     }
   }
-  }
-  }
   
-
+}}
