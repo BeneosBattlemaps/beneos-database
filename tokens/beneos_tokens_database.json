@@ -4690,7 +4690,35 @@
         ],
         "videourl": ""
     }
+    },
+    "084_hydra": {
+      "description": "The Hydra is an ancient nightmare given form, coiling serpent heads, their curved fangs dripping with lethal poison and a towering reptile body capable of moving with unsettling grace - there is nothing about the Hydra that does not evoke vivid imagery and primal fears whenever its name is whispered. Hydrae are dangerous to hunt, as even a mortally wounded beast might return after only days have passed and whole swathes of land have been put to the torch to drive such a monstrosity from its lair and finally put an end to it.",
+      "name": "hydra",
+      "properties": {
+        "biom": ["ruins", "dungeon", "lair", "wilderness", "forest", "wasteland", "underground", "coastal", "ocean"],
+        "cr": "15",
+        "fightingstyle": ["lethal", "interactive", "demanding"],
+        "movement": ["walk"],
+        "purpose": ["pressure","boss", "gimmick"],
+        "releaseurl": "",
+        "size": "gargantuan",
+        "stat_ac": 16,
+        "stat_cha": 7,
+        "stat_con": 20,
+        "stat_dex": 12,
+        "stat_hp": 240,
+        "stat_int": 5,
+        "stat_str": 22,
+        "stat_wis": 13,
+        "thumbnail": "084_hydra-idle_face_still.webp",
+        "type": [
+          "monstrosity",
+          ""
+        ],
+        "videourl": ""
     }
+    
+  }
   }
   }
   
