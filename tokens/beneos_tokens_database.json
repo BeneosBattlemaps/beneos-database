@@ -2241,7 +2241,7 @@
     },
     "030_commoner_1_m_worker": {
       "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
-      "name": "Commoner 1 Male Worker",
+      "name": "Commoner Male Worker",
       "properties": {
         "biom": [
           "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city" 
@@ -2271,7 +2271,7 @@
     },
     "030_commoner_2_m_merchant": {
       "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
-      "name": "Commoner 2 Male Merchant",
+      "name": "Commoner Male Merchant",
       "properties": {
         "biom": [
           "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
@@ -2301,7 +2301,7 @@
     },
     "030_commoner_3_m_beggar": {
       "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
-      "name": "Commoner 3 Male Beggar",
+      "name": "Commoner Male Beggar",
       "properties": {
         "biom": [
           "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
@@ -2331,7 +2331,7 @@
     },
     "030_commoner_4_m_priest_1": {
       "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
-      "name": "Commoner 4 Male Priest 1",
+      "name": "Commoner Male Priest",
       "properties": {
         "biom": [
           "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral","city" 
@@ -2361,7 +2361,7 @@
     },
     "030_commoner_6_m_peasant_1": {
       "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
-      "name": "Commoner 6 Male Peasant 1",
+      "name": "Commoner Male Peasant",
       "properties": {
         "biom": [
           "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
@@ -2391,7 +2391,7 @@
     },
     "030_commoner_7_m_peasant_2": {
       "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
-      "name": "Commoner 7 Male Peasant 2",
+      "name": "Commoner Male Peasant",
       "properties": {
         "biom": [
           "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
@@ -2421,7 +2421,7 @@
     },
     "030_commoner_8_m": {
       "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
-      "name": "Commoner 8 Male",
+      "name": "Commoner Male",
       "properties": {
         "biom": [
           "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
@@ -2451,7 +2451,7 @@
     },
     "030_commoner_9_m_noble": {
       "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
-      "name": "Commoner 9 Male Noble 1",
+      "name": "Commoner Male Noble",
       "properties": {
         "biom": [
           "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
@@ -2481,7 +2481,7 @@
     },
     "030_commoner_10_m_noble": {
       "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
-      "name": "Commoner 10 Male Noble 2",
+      "name": "Commoner Male Noble",
       "properties": {
         "biom": [
           "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
@@ -2511,7 +2511,7 @@
     },
     "030_commoner_11_f_priest": {
       "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
-      "name": "Commoner 11 Female Priest",
+      "name": "Commoner Female Priest",
       "properties": {
         "biom": [
           "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
@@ -2541,7 +2541,7 @@
     },
     "030_commoner_12_f_worker": {
       "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
-      "name": "Commoner 12 Female Worker",
+      "name": "Commoner Female Worker",
       "properties": {
         "biom": [
           "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
@@ -2571,7 +2571,7 @@
     },
     "030_commoner_13_f_herbalist": {
       "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
-      "name": "Commoner 13 Female Herbalist",
+      "name": "Commoner Female Herbalist",
       "properties": {
         "biom": [
           "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
@@ -2601,7 +2601,7 @@
     },
     "030_commoner_14_f_old": {
       "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
-      "name": "Commoner 14 Female Old",
+      "name": "Commoner Female Old",
       "properties": {
         "biom": [
           "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
@@ -2631,7 +2631,7 @@
     },
     "030_commoner_15_f_noble": {
       "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
-      "name": "Commoner 15 Female Noble 1",
+      "name": "Commoner Female Noble",
       "properties": {
         "biom": [
           "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city" 
@@ -2661,7 +2661,7 @@
     },
     "030_commoner_16_f_noble_2": {
       "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
-      "name": "Commoner 16 Female Noble 2",
+      "name": "Commoner Female Noble",
       "properties": {
         "biom": [
           "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
@@ -2691,7 +2691,7 @@
     },
     "030_commoner_17_f_maid": {
       "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
-      "name": "Commoner 17 Female Maid",
+      "name": "Commoner Female Maid",
       "properties": {
         "biom": [
           "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
@@ -2721,7 +2721,7 @@
     },
     "030_commoner_18_f_mother": {
       "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
-      "name": "Commoner 18 Female Mother",
+      "name": "Commoner Female Mother",
       "properties": {
         "biom": [
           "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
@@ -2751,7 +2751,7 @@
     },
     "030_commoner_19_f": {
       "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
-      "name": "Commoner 19 Female",
+      "name": "Commoner Female",
       "properties": {
         "biom": [
           "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
@@ -2781,7 +2781,7 @@
     },
     "030_commoner_20_f_peasant": {
       "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
-      "name": "Commoner 20 Female Peasant",
+      "name": "Commoner Female Peasant",
       "properties": {
         "biom": [
           "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
