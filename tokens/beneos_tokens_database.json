@@ -133,7 +133,7 @@
   "type": "token",
   "version": "1.0.11",
   "content": {
-    "001_vampire_beast": {
+    "001_primal_vampire_spawn": {
       "description": "Sometimes Vampires impart the dubious gift of spawndom upon the wrong soul, stirring primordial horrors from their sleep. These vampire spawns regress to a primal state, detached from the rules that even compel their creators, driven only by their lust for terror and agony.  Primal Spawns are beyond their unwilling creators' control and they in turn feel disdain for their more â€˜evolvedâ€™ kin. Despite not having a weakness to sunlight, they prefer the shadows, as the darkness supports their preferred hunting style. And if the right opportunity arises, a Primal Vampire Spawn will not hesitate to hunt during broad daylight to indulge in the screams of horrified onlookers.",
       "name": "Primal Vampire Spawn",
       "properties": {
@@ -164,7 +164,7 @@
         "videourl": "https://youtu.be/GLNZy5sujd0"
       }
     },
-    "002_glutony": {
+    "002_gluttony": {
       "description": "This creature is the embodiment of self indulgence, the nature-given love and need for sustenance perverted and twisted into a bloated creature of repulsive proportions. Gluttony poisons mind and body in equal measure and hungers endlessly, existing for the singular purpose to make everything in existence one with itself.",
       "name": "Gluttony",
       "properties": {
@@ -195,9 +195,9 @@
         "videourl": "https://youtu.be/wdnXJBQW0lo"
       }
     },
-    "003_female_knight_1": {
+    "003_inquisitorial_penitent": {
       "description": "Inquisitorial Penitents are former witches, persecuted and excruciatingly converted by those they now serve as living weapons. Their connection to the arcane has been perverted, the flow of magic reversed, as they now syphon arcane energies from others with their mere presence. They stalk the lands in packs, travel as independent operatives or are part of an inquisitorial retinue, acting as both bodyguards and executioners. The most dangerous penitents, however, are those who underwent the purifications voluntarily, eager to shed the taint of witchcraft. They are the most unforgiving and zealous of their kind, hunting their tainted kin without mercy or remorse.",
-      "name": "Inquisitorial Penitent 1",
+      "name": "Inquisitorial Penitent",
       "properties": {
         "biom": [
           "Sacral", "city", "civilised"
@@ -218,7 +218,7 @@
         "stat_int": 14,
         "stat_str": 11,
         "stat_wis": 14,
-        "thumbnail": "003_female_knight_1-idle_face_still.webp",
+        "thumbnail": "003_inquisitorial_penitent-idle_face_still.webp",
         "type": [
           "human",
           "humanoid"
@@ -259,7 +259,7 @@
     },
     "005_assassin_1": {
       "description": "If one seeks to end a life, one does not necessarily have to get their hands dirty. There are professionals trained in the art of killing, who are eager to be of service - either to earn some coin, further a dark agenda or for personal pleasure. The play of murder has thousands of scripts and props, but a knife in the dark remains an all time classic.",
-      "name": "Assassin 1",
+      "name": "Assassin",
       "properties": {
         "biom": [
           "city","civilised","road"
@@ -288,9 +288,40 @@
         "videourl": "https://www.youtube.com/watch?v=5VUPwtoq4ps"
       }
     },
+    "005_assassin_2": {
+      "description": "If one seeks to end a life, one does not necessarily have to get their hands dirty. There are professionals trained in the art of killing, who are eager to be of service - either to earn some coin, further a dark agenda or for personal pleasure. The play of murder has thousands of scripts and props, but a knife in the dark remains an all time classic.",
+      "name": "Assassin",
+      "properties": {
+        "biom": [
+          "city","civilised","road"
+        ],
+        "cr": "3",
+        "fightingstyle": [
+          "mobile", "simple"
+        ],
+        "movement": ["walk"],
+        "purpose": ["minion", "hunter"],
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-51753769",
+        "size": "medium",
+        "stat_ac": 16,
+        "stat_cha": 12,
+        "stat_con": 13,
+        "stat_dex": 18,
+        "stat_hp": 45,
+        "stat_int": 14,
+        "stat_str": 13,
+        "stat_wis": 16,
+        "thumbnail": "005_assassin_2-idle_face_still.webp",
+        "type": [
+          "humanoid",
+		  "human"
+        ],
+        "videourl": "https://www.youtube.com/watch?v=5VUPwtoq4ps"
+      }
+    },
     "006_shield_guardian_1": {
       "description": "Exposure to extreme instances of magnetism might cause an as of yet unexplained transformation within Shield Guardians.The docile automatons undergo a rapid evolution, triggering both a physical transformation and a severe change in behaviour. A Polarized Shield Guardian is no longer bound to its master, resisting any attempt of external control with violent means. Their physique adapts to support a construct now geared towards offensive conflict resolution, rather than silent endurance. These creatures are exceedingly rare and, if able to break their shackles for good, wander the lands guided by their mysterious connection to both magical and magnetic forces.",
-      "name": "Polarized Shield Guardian Skin 1",
+      "name": "Polarized Shield Guardian",
       "properties": {
         "biom": [
           "civilised", "futuristic"
@@ -320,7 +351,7 @@
     },
     "006_shield_guardian_2": {
       "description": "Exposure to extreme instances of magnetism might cause an as of yet unexplained transformation within Shield Guardians.The docile automatons undergo a rapid evolution, triggering both a physical transformation and a severe change in behaviour. A Polarized Shield Guardian is no longer bound to its master, resisting any attempt of external control with violent means. Their physique adapts to support a construct now geared towards offensive conflict resolution, rather than silent endurance. These creatures are exceedingly rare and, if able to break their shackles for good, wander the lands guided by their mysterious connection to both magical and magnetic forces.",
-      "name": "Polarized Shield Guardian Skin 2",
+      "name": "Polarized Shield Guardian",
       "properties": {
         "biom": [
           "civilised", "futuristic"
@@ -410,7 +441,7 @@
     },
     "009_skeleton_henchman_1": {
       "description": "If you are interested in exercising cross-regional influence and could not care less about your image,  Skeleton Henchmen are the ideal lynchpin for your entourage. They are loyal, cheap and, if you know your way around the local cemetery, rather easy to aquire. The basic Skeleton Henchman is a great foundation to expand upon, as they are highly customizable and require minimal upkeep and maintenance. Guard duty, law enforcement or warfare, Skeleton Henchmen provide satisfactory service in diverse work environments.",
-      "name": "Skeleton Henchman Skin 1",
+      "name": "Skeleton Henchman",
       "properties": {
         "biom": [
           "dungeon", "horror", "graves", "ruins"
@@ -440,7 +471,7 @@
     },
     "009_skeleton_henchman_2": {
       "description": "If you are interested in exercising cross-regional influence and could not care less about your image,  Skeleton Henchmen are the ideal lynchpin for your entourage. They are loyal, cheap and, if you know your way around the local cemetery, rather easy to aquire. The basic Skeleton Henchman is a great foundation to expand upon, as they are highly customizable and require minimal upkeep and maintenance. Guard duty, law enforcement or warfare, Skeleton Henchmen provide satisfactory service in diverse work environments.",
-      "name": "Skeleton Henchman Skin 2",
+      "name": "Skeleton Henchman",
       "properties": {
         "biom": [
           "dungeon", "horror", "graves", "ruins"
@@ -470,7 +501,7 @@
     },
     "009_skeleton_henchman_3": {
       "description": "If you are interested in exercising cross-regional influence and could not care less about your image,  Skeleton Henchmen are the ideal lynchpin for your entourage. They are loyal, cheap and, if you know your way around the local cemetery, rather easy to aquire. The basic Skeleton Henchman is a great foundation to expand upon, as they are highly customizable and require minimal upkeep and maintenance. Guard duty, law enforcement or warfare, Skeleton Henchmen provide satisfactory service in diverse work environments.",
-      "name": "Skeleton Henchman Skin 3",
+      "name": "Skeleton Henchman",
       "properties": {
         "biom": [
           "dungeon", "horror", "graves", "ruins"
@@ -500,7 +531,7 @@
     },
     "009_skeleton_henchman_4": {
       "description": "If you are interested in exercising cross-regional influence and could not care less about your image,  Skeleton Henchmen are the ideal lynchpin for your entourage. They are loyal, cheap and, if you know your way around the local cemetery, rather easy to aquire. The basic Skeleton Henchman is a great foundation to expand upon, as they are highly customizable and require minimal upkeep and maintenance. Guard duty, law enforcement or warfare, Skeleton Henchmen provide satisfactory service in diverse work environments.",
-      "name": "Skeleton Henchman Skin 4",
+      "name": "Skeleton Henchman",
       "properties": {
         "biom": [
           "dungeon", "horror", "graves", "ruins"
@@ -530,7 +561,7 @@
     },
     "009_skeleton_henchman_5": {
       "description": "If you are interested in exercising cross-regional influence and could not care less about your image,  Skeleton Henchmen are the ideal lynchpin for your entourage. They are loyal, cheap and, if you know your way around the local cemetery, rather easy to aquire. The basic Skeleton Henchman is a great foundation to expand upon, as they are highly customizable and require minimal upkeep and maintenance. Guard duty, law enforcement or warfare, Skeleton Henchmen provide satisfactory service in diverse work environments.",
-      "name": "Skeleton Henchman Skin 5",
+      "name": "Skeleton Henchman",
       "properties": {
         "biom": [
           "dungeon", "horror", "graves", "ruins"
@@ -560,7 +591,7 @@
     },
     "009_skeleton_henchman_6": {
       "description": "If you are interested in exercising cross-regional influence and could not care less about your image,  Skeleton Henchmen are the ideal lynchpin for your entourage. They are loyal, cheap and, if you know your way around the local cemetery, rather easy to aquire. The basic Skeleton Henchman is a great foundation to expand upon, as they are highly customizable and require minimal upkeep and maintenance. Guard duty, law enforcement or warfare, Skeleton Henchmen provide satisfactory service in diverse work environments.",
-      "name": "Skeleton Henchman Skin 6",
+      "name": "Skeleton Henchman",
       "properties": {
         "biom": [
           "dungeon", "horror", "graves", "ruins"
@@ -590,7 +621,7 @@
     },
     "010_horse_1": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Horse Skin 1",
+      "name": "Horse",
       "properties": {
         "biom": [
           "any"
@@ -620,7 +651,7 @@
     },
     "010_horse_2": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Horse Skin 2",
+      "name": "Horse",
       "properties": {
         "biom": [
           "any"
@@ -650,7 +681,7 @@
     },
     "010_horse_3": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Horse Skin 3",
+      "name": "Horse",
       "properties": {
         "biom": [
           "any"
@@ -680,7 +711,7 @@
     },
     "010_horse_4": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Horse Skin 4",
+      "name": "Horse",
       "properties": {
         "biom": [
           "any"
@@ -710,7 +741,7 @@
     },
     "010_horse_5": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Horse Skin 5",
+      "name": "Horse",
       "properties": {
         "biom": [
           "any"
@@ -740,7 +771,7 @@
     },
     "010_horse_6": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Horse Skin 6",
+      "name": "Horse",
       "properties": {
         "biom": [
           "any"
@@ -770,7 +801,7 @@
     },
     "010_horse_7": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Horse Skin 7",
+      "name": "Horse",
       "properties": {
         "biom": [
           "any"
@@ -800,7 +831,7 @@
     },
     "010_horse_8": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Horse Skin 8",
+      "name": "Horse",
       "properties": {
         "biom": [
           "any"
@@ -830,7 +861,7 @@
     },
     "010_horse_9": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Warhorse Skin 1",
+      "name": "Warhorse",
       "properties": {
         "biom": [
           "any"
@@ -860,7 +891,7 @@
     },
     "010_horse_10": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Warhorse Skin 2",
+      "name": "Warhorse",
       "properties": {
         "biom": [
           "any"
@@ -890,7 +921,7 @@
     },
     "010_horse_11": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Horse Skin 8",
+      "name": "Horse",
       "properties": {
         "biom": [
           "any"
@@ -920,7 +951,7 @@
     },
     "010_horse_12": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Warhorse Skin 3",
+      "name": "Warhorse",
       "properties": {
         "biom": [
           "any"
@@ -950,7 +981,7 @@
     },
     "010_horse_13": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Warhorse Skin 4",
+      "name": "Warhorse",
       "properties": {
         "biom": [
           "any"
@@ -976,36 +1007,6 @@
           "beast"
         ],
         "videourl": "https://youtu.be/7TGK7ozG7xw"
-      }
-    },
-    "011_trained_fighter": {
-      "description": "War veterans, gang members with military experience or nobles who spent a fair share of their youth under the watchful eyes of combat instructors - the Trained Fighter represents all of them and more. They are trained in the art of melee, have seen various combat scenarios and lived to tell the tale. While a rabble of peasants or a gang of highwaymen can be disposed of rather quickly and with little effort, an organized troop of Trained Fighters makes for a varitable fighting force, leading to a complex and tactical encounter for a low or even mid-level party.",
-      "name": "Trained Fighter",
-      "properties": {
-        "biom": [
-          "any"
-        ],
-        "cr": "2",
-        "fightingstyle": [
-          "melee","interactive", "tactical"
-        ],
-        "movement": ["walk"],
-        "purpose": ["minion", "pack"],
-        "releaseurl": "https://www.patreon.com/posts/basic-creature-52930930",
-        "size": "medium",
-        "stat_ac": 15,
-        "stat_cha": 10,
-        "stat_con": 16,
-        "stat_dex": 15,
-        "stat_hp": 33,
-        "stat_int": 14,
-        "stat_str": 17,
-        "stat_wis": 13,
-        "thumbnail": "011_trained_fighter-idle_face_still.webp",
-        "type": [
-			"humanoid", "human"
-        ],
-        "videourl": "https://youtu.be/Htl7NhZueY4"
       }
     },
     "012_cipactli": {
@@ -1100,7 +1101,7 @@
     },
     "015_werewolf_1": {
       "description": "The Wulfen Curse is an affliction of the soul. Some humanoids already carry the seed of beasthood with them, nurturing a dark hunger for violence and bloodshed. If they give in to this hunger, the dread curse takes hold, shaping the body in accordance to the soul. Over time the Wulfen comes to detest its humanoid body, the metaphysical affliction of the soul mirrored in the physical realm. They are, however, forever trapped between worlds, for they are neither wolf nor man, but a chimeric soul burdened with an appetite for both the chase and the catch.",
-      "name": "Werewolf Skin 1",
+      "name": "Werewolf",
       "properties": {
         "biom": [
           "horror", "forest", "road", "wilderness"
@@ -1130,7 +1131,7 @@
     },
     "015_werewolf_2": {
       "description": "The Wulfen Curse is an affliction of the soul. Some humanoids already carry the seed of beasthood with them, nurturing a dark hunger for violence and bloodshed. If they give in to this hunger, the dread curse takes hold, shaping the body in accordance to the soul. Over time the Wulfen comes to detest its humanoid body, the metaphysical affliction of the soul mirrored in the physical realm. They are, however, forever trapped between worlds, for they are neither wolf nor man, but a chimeric soul burdened with an appetite for both the chase and the catch.",
-      "name": "Werewolf Skin 2",
+      "name": "Werewolf",
       "properties": {
         "biom": [
           "horror", "forest", "road", "wilderness"
@@ -1160,7 +1161,7 @@
     },
     "015_werewolf_3": {
       "description": "The Wulfen Curse is an affliction of the soul. Some humanoids already carry the seed of beasthood with them, nurturing a dark hunger for violence and bloodshed. If they give in to this hunger, the dread curse takes hold, shaping the body in accordance to the soul. Over time the Wulfen comes to detest its humanoid body, the metaphysical affliction of the soul mirrored in the physical realm. They are, however, forever trapped between worlds, for they are neither wolf nor man, but a chimeric soul burdened with an appetite for both the chase and the catch.",
-      "name": "Werewolf Skin 3",
+      "name": "Werewolf",
       "properties": {
         "biom": [
           "horror", "forest", "road", "wilderness"
@@ -1189,7 +1190,7 @@
       }
     },
     "016_wolf_1": {
-      "description": "Those afflicted by the Curse of the Wulfen slowly lose themselves to the bestial urges festering within their soul. After each hunt it gets harder to take on human form and even the horrid shape of the man-wolf becomes difficult to maintain. Soon the Wolfkin have all but forgotten what it means to be human and gather around a strong Wulfen to lead them on their eternal hunt. Or just a normal Wolf. ",
+      "description": "Those afflicted by the Curse of the Wulfen slowly lose themselves to the bestial urges festering within their soul. After each hunt it gets harder to take on human form and even the horrid shape of the man-wolf becomes difficult to maintain. Soon the Wolfkin have all but forgotten what it means to be human and gather around a strong Wulfen to lead them on their eternal hunt. Or just a normal Wolf.",
       "name": "Wolf 1",
       "properties": {
         "biom": [
@@ -1340,7 +1341,7 @@
     },
     "018_giant_spider_1": {
       "description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
-      "name": "Spider Skin 1",
+      "name": "Spider",
       "properties": {
         "biom": [
           "cave", "forest","underground", "dungeon", "wilderness", "graves", "ruins", "road", "horror"
@@ -1370,7 +1371,7 @@
     },
     "018_giant_spider_2": {
       "description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
-      "name": "Spider Skin 2",
+      "name": "Spider",
       "properties": {
         "biom": [
           "cave", "forest","underground", "dungeon", "wilderness", "graves", "ruins", "road", "horror"
@@ -1400,7 +1401,7 @@
     },
     "018_giant_spider_3": {
       "description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
-      "name": "Spider Skin 3",
+      "name": "Spider",
       "properties": {
         "biom": [
           "cave", "forest","underground", "dungeon", "wilderness", "graves", "ruins", "road", "horror"
@@ -1430,7 +1431,7 @@
     },
     "018_giant_spider_4": {
       "description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
-      "name": "Spider Skin 4",
+      "name": "Spider",
       "properties": {
         "biom": [
           "cave", "forest","underground", "dungeon", "wilderness", "graves", "ruins", "road", "horror"
@@ -1460,7 +1461,7 @@
     },
     "018_giant_spider_5": {
       "description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
-      "name": "Spider Skin 5",
+      "name": "Spider",
       "properties": {
         "biom": [
           "cave", "forest","underground", "dungeon", "wilderness", "graves", "ruins", "road", "horror"
@@ -1490,7 +1491,7 @@
     },
     "018_giant_spider_6": {
       "description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
-      "name": "Spider Skin 6",
+      "name": "Spider",
       "properties": {
         "biom": [
           "cave", "forest","underground", "dungeon", "wilderness", "graves", "ruins", "road", "horror"
@@ -1520,7 +1521,7 @@
     },
     "018_giant_spider_7": {
       "description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
-      "name": "Spider Skin 7",
+      "name": "Spider",
       "properties": {
         "biom": [
          "cave", "forest","underground", "dungeon", "wilderness", "graves", "ruins", "road", "horror"
@@ -1550,7 +1551,7 @@
     },
     "018_giant_spider_8": {
       "description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
-      "name": "Spider Skin 8",
+      "name": "Spider",
       "properties": {
         "biom": [
           "cave", "forest","underground", "dungeon", "wilderness", "graves", "ruins", "road", "horror"
@@ -1638,7 +1639,7 @@
         "videourl": "https://youtu.be/QiNEu3NUXwQ"
       }
     },
-    "021_Ghoul_wretchling": {
+    "021_ghoul_wretchling": {
       "description": "The scratching and scrawling noises of Ghoul Wretchlings in the walls and under the floor boards herald an incoming Ghoul Invasion. In the following nights people disappear from the streets or the safety of their homes, overwhelmed and paralyzed by  swarms of the scrawny Ghoul Wretchlings, before being dragged to the underground lairs as nourishment for the advancing main force of Ghoulish invaders.",
       "name": "Ghoul Wretchling",
       "properties": {
@@ -1760,7 +1761,7 @@
     },
     "025_trained_archer_1": {
       "description": "Ranger, hunters or city guards standing watch on battlements or rooftops - the Trained Archer is a stand-in for every man and woman well versed in the art of the bow. They are capable sharpshooters and can be relied upon in the heat of battle, an ambush or even an assassination. With the weaker members of a party threatened with a barrage of arrows, an organized unit of Trained Archers makes for a flexible and deadly force, leading to a complex and tactical encounter for a low or even mid-level party.",
-      "name": "Trained Archer Skin 1",
+      "name": "Trained Archer",
       "properties": {
         "biom": [
           "any"
@@ -1790,7 +1791,7 @@
     },
     "025_trained_archer_2": {
       "description": "Ranger, hunters or city guards standing watch on battlements or rooftops - the Trained Archer is a stand-in for every man and woman well versed in the art of the bow. They are capable sharpshooters and can be relied upon in the heat of battle, an ambush or even an assassination. With the weaker members of a party threatened with a barrage of arrows, an organized unit of Trained Archers makes for a flexible and deadly force, leading to a complex and tactical encounter for a low or even mid-level party.",
-      "name": "Trained Archer Skin 2",
+      "name": "Trained Archer",
       "properties": {
         "biom": [
           "any"
@@ -1820,7 +1821,7 @@
     },
     "025_trained_archer_3": {
       "description": "Ranger, hunters or city guards standing watch on battlements or rooftops - the Trained Archer is a stand-in for every man and woman well versed in the art of the bow. They are capable sharpshooters and can be relied upon in the heat of battle, an ambush or even an assassination. With the weaker members of a party threatened with a barrage of arrows, an organized unit of Trained Archers makes for a flexible and deadly force, leading to a complex and tactical encounter for a low or even mid-level party.",
-      "name": "Trained Archer Skin 3",
+      "name": "Trained Archer",
       "properties": {
         "biom": [
           "any"
@@ -1850,7 +1851,7 @@
     },
     "026_vampire_spawn_1": {
       "description": "Everlasting mist floods the land of Barovia, the cursed realm of Strahd von Zahrovich. Barovia teems with dreadful creatures, most of which are hellbent on making the player's stay in their realm a harrowing one. For Spooktober 2021 we decided to give the iconic Vampire Spawns roaming the crypts and castles of Curse of Strahd a unique spin! The Barovian Vampire spawn is closely bonded to Strahd, who is the land himself, as we all know! This is reflected by increased mental stats and a strange symbiotic relationship with the mist that wreathes it's masters domain, granting a formidable foe even more power and making for a creature able to haunt even veteran players' nightmares!",
-      "name": "Vampire Spawn Skin 1",
+      "name": "Vampire Spawn",
       "properties": {
         "biom": [
           "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground", "desert"
@@ -1880,7 +1881,7 @@
     },
     "026_vampire_spawn_2": {
       "description": "Everlasting mist floods the land of Barovia, the cursed realm of Strahd von Zahrovich. Barovia teems with dreadful creatures, most of which are hellbent on making the player's stay in their realm a harrowing one. For Spooktober 2021 we decided to give the iconic Vampire Spawns roaming the crypts and castles of Curse of Strahd a unique spin! The Barovian Vampire spawn is closely bonded to Strahd, who is the land himself, as we all know! This is reflected by increased mental stats and a strange symbiotic relationship with the mist that wreathes it's masters domain, granting a formidable foe even more power and making for a creature able to haunt even veteran players' nightmares!",
-      "name": "Vampire Spawn Skin 2",
+      "name": "Vampire Spawn",
       "properties": {
         "biom": [
           "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground", "desert"
@@ -1910,7 +1911,7 @@
     },
     "026_vampire_spawn_3": {
       "description": "Everlasting mist floods the land of Barovia, the cursed realm of Strahd von Zahrovich. Barovia teems with dreadful creatures, most of which are hellbent on making the player's stay in their realm a harrowing one. For Spooktober 2021 we decided to give the iconic Vampire Spawns roaming the crypts and castles of Curse of Strahd a unique spin! The Barovian Vampire spawn is closely bonded to Strahd, who is the land himself, as we all know! This is reflected by increased mental stats and a strange symbiotic relationship with the mist that wreathes it's masters domain, granting a formidable foe even more power and making for a creature able to haunt even veteran players' nightmares!",
-      "name": "Vampire Spawn Skin 3",
+      "name": "Vampire Spawn",
       "properties": {
         "biom": [
           "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground", "desert"
@@ -1940,7 +1941,7 @@
     },
     "026_vampire_spawn_4": {
       "description": "Everlasting mist floods the land of Barovia, the cursed realm of Strahd von Zahrovich. Barovia teems with dreadful creatures, most of which are hellbent on making the player's stay in their realm a harrowing one. For Spooktober 2021 we decided to give the iconic Vampire Spawns roaming the crypts and castles of Curse of Strahd a unique spin! The Barovian Vampire spawn is closely bonded to Strahd, who is the land himself, as we all know! This is reflected by increased mental stats and a strange symbiotic relationship with the mist that wreathes it's masters domain, granting a formidable foe even more power and making for a creature able to haunt even veteran players' nightmares!",
-      "name": "Vampire Spawn Skin 4",
+      "name": "Vampire Spawn",
       "properties": {
         "biom": [
           "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground", "desert"
@@ -1970,7 +1971,7 @@
     },
     "027_revenant_knight_1": {
       "description": "The once great Knights of the Order are tragic figures, rust-flaked shades of their former selves, filled only with poisobous thoughts of vengeance and seething hatred. Our Revenant Knight is a tribute to the fallen Order of the Silver Dragon and leans more heaviliy into the tragic nobility of an undead order of Dragon-sworn Knights, with the icy essence of Argynvost still clinging to their ruined armour, in a desperate attempt to shield them from harm even in death. The lingering soul of the Silver Dragon still permeates his brothers in arms, empowering them in dynamic and unique ways.",
-      "name": "Revenant Knight Skin 1",
+      "name": "Revenant Knight",
       "properties": {
         "biom": [
           "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground"
@@ -2000,7 +2001,7 @@
     },
     "027_revenant_knight_2": {
       "description": "The once great Knights of the Order are tragic figures, rust-flaked shades of their former selves, filled only with poisobous thoughts of vengeance and seething hatred. Our Revenant Knight is a tribute to the fallen Order of the Silver Dragon and leans more heaviliy into the tragic nobility of an undead order of Dragon-sworn Knights, with the icy essence of Argynvost still clinging to their ruined armour, in a desperate attempt to shield them from harm even in death. The lingering soul of the Silver Dragon still permeates his brothers in arms, empowering them in dynamic and unique ways.",
-      "name": "Revenant Knight Skin 2",
+      "name": "Revenant Knight",
       "properties": {
         "biom": [
           "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground"
@@ -2030,7 +2031,7 @@
     },
     "027_revenant_knight_3": {
       "description": "The once great Knights of the Order are tragic figures, rust-flaked shades of their former selves, filled only with poisobous thoughts of vengeance and seething hatred. Our Revenant Knight is a tribute to the fallen Order of the Silver Dragon and leans more heaviliy into the tragic nobility of an undead order of Dragon-sworn Knights, with the icy essence of Argynvost still clinging to their ruined armour, in a desperate attempt to shield them from harm even in death. The lingering soul of the Silver Dragon still permeates his brothers in arms, empowering them in dynamic and unique ways.",
-      "name": "Revenant Knight Skin 3",
+      "name": "Revenant Knight",
       "properties": {
         "biom": [
           "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground"
@@ -2060,7 +2061,7 @@
     },
     "027_revenant_knight_4": {
       "description": "The once great Knights of the Order are tragic figures, rust-flaked shades of their former selves, filled only with poisobous thoughts of vengeance and seething hatred. Our Revenant Knight is a tribute to the fallen Order of the Silver Dragon and leans more heaviliy into the tragic nobility of an undead order of Dragon-sworn Knights, with the icy essence of Argynvost still clinging to their ruined armour, in a desperate attempt to shield them from harm even in death. The lingering soul of the Silver Dragon still permeates his brothers in arms, empowering them in dynamic and unique ways.",
-      "name": "Revenant Knight Skin 1",
+      "name": "Revenant Knight",
       "properties": {
         "biom": [
           "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground"
@@ -2120,7 +2121,7 @@
     },
     "029_infernal_steed_1": {
       "description": "This equine nightmare enjoys soaring through the nightly sky, terrorizing local villagers in their very, very flammable homes and (sometimes literally) booting uppity adventurers from its masters castle.",
-      "name": "infernal Steed Skin 1",
+      "name": "infernal Steed",
       "properties": {
         "biom": [
           "graves", "horror", "forest", "civilised", "infernal", "road", "wilderness"
@@ -2150,7 +2151,7 @@
     },
     "029_infernal_steed_2": {
       "description": "This equine nightmare enjoys soaring through the nightly sky, terrorizing local villagers in their very, very flammable homes and (sometimes literally) booting uppity adventurers from its masters castle.",
-      "name": "infernal Steed Skin 2",
+      "name": "infernal Steed",
       "properties": {
         "biom": [
           "graves", "horror", "forest", "civilised", "infernal", "road", "wilderness"
@@ -2180,7 +2181,7 @@
     },
     "029_infernal_steed_3": {
       "description": "This equine nightmare enjoys soaring through the nightly sky, terrorizing local villagers in their very, very flammable homes and (sometimes literally) booting uppity adventurers from its masters castle.",
-      "name": "infernal Steed Skin 3",
+      "name": "infernal Steed",
       "properties": {
         "biom": [
           "graves", "horror", "forest", "civilised", "infernal", "road", "wilderness"
@@ -2210,7 +2211,7 @@
     },
     "029_infernal_steed_4": {
       "description": "This equine nightmare enjoys soaring through the nightly sky, terrorizing local villagers in their very, very flammable homes and (sometimes literally) booting uppity adventurers from its masters castle.",
-      "name": "infernal Steed Skin 4",
+      "name": "infernal Steed",
       "properties": {
         "biom": [
            "graves", "horror", "forest", "civilised", "infernal", "road", "wilderness"
@@ -2840,7 +2841,7 @@
     },
     "032_night_hag_1": {
       "description": "Night Hags (sometimes literally) just scream ''Dungeons and Dragons'' to us, so we are happy to just bang out this classic a monster once in a while! Night hags are vile creatures, once proud denizens of the fae wild who's cruel inclinations got them banished to the Grey Wastes, an ever-gloomy hellscape out in the Far Realms. Not that it matters, for they are able to plane shift to freely spread their very own flavour of chaos, obsession and corruption by poisoning creatures dreams, driving them mad and eventually collecting their souls. Of course, we made some adjustments to the original creature, giving her two additional nightmarish abilities!",
-      "name": "Night Hag Skin 1",
+      "name": "Night Hag",
       "properties": {
         "biom": [
           "dungeon", "lair", "graves", "ruins", "horror", "wilderness", "forest", "mountains", "coastal", "wasteland", "road", "planar"
@@ -2870,7 +2871,7 @@
     },
     "032_night_hag_2": {
       "description": "Night Hags (sometimes literally) just scream ''Dungeons and Dragons'' to us, so we are happy to just bang out this classic a monster once in a while! Night hags are vile creatures, once proud denizens of the fae wild who's cruel inclinations got them banished to the Grey Wastes, an ever-gloomy hellscape out in the Far Realms. Not that it matters, for they are able to plane shift to freely spread their very own flavour of chaos, obsession and corruption by poisoning creatures dreams, driving them mad and eventually collecting their souls. Of course, we made some adjustments to the original creature, giving her two additional nightmarish abilities!",
-      "name": "Night Hag Skin 2",
+      "name": "Night Hag",
       "properties": {
         "biom": [
            "dungeon", "lair", "graves", "ruins", "horror", "wilderness", "forest", "mountains", "coastal", "wasteland", "road", "planar"
@@ -2900,7 +2901,7 @@
     },
     "032_night_hag_3": {
       "description": "Night Hags (sometimes literally) just scream ''Dungeons and Dragons'' to us, so we are happy to just bang out this classic a monster once in a while! Night hags are vile creatures, once proud denizens of the fae wild who's cruel inclinations got them banished to the Grey Wastes, an ever-gloomy hellscape out in the Far Realms. Not that it matters, for they are able to plane shift to freely spread their very own flavour of chaos, obsession and corruption by poisoning creatures dreams, driving them mad and eventually collecting their souls. Of course, we made some adjustments to the original creature, giving her two additional nightmarish abilities!",
-      "name": "Night Hag Skin 3",
+      "name": "Night Hag",
       "properties": {
         "biom": [
            "dungeon", "lair", "graves", "ruins", "horror", "wilderness", "forest", "mountains", "coastal", "wasteland", "road", "planar"
@@ -2958,7 +2959,7 @@
         "videourl": "https://youtu.be/gu_GlBT6faU"
       }
     },
-    "034_war-troll": {
+    "034_war_troll": {
       "description": "Despite Trolls not being particularly sociable, someone just went ahead and recruited some into his merry band of raiders. The prospect of loot and food might have been enough, but no honest Troll would ever pass up the chance to deal out some unchecked violence as well. Thanks to that brave and creative individual more and more bandit leaders, orc war chiefs or mercenary captains managed to coax one of the hulking brutes into joining their venture. These War-Trolls are a tad more intelligent than their truly feral kin and, if drilled correctly, will even follow basic orders. A well trained and experienced War-Troll is truly dangerous, as it knows to efficiently apply its devastating strength to crush its enemies with ease.",
       "name": "Wartroll",
       "properties": {
@@ -3346,7 +3347,7 @@
         "videourl": "https://youtu.be/1I_nT8gry4Q"
       }
     },
-    "046_garGhoul": {
+    "046_garghoul": {
       "description": "A variant form of the common Ghoul, its tattered wings making it capable of flight. After nightfall, GarGhouls stalk the skies. They are to locate worthwile prey, alerting their swarm upon discovery. As one, the GarGhouls descend, paralyzing their victims with their bite before carrying them off into the dark. If acting as part of a larger force of Ghouls under the command of a higher Ghoul unlifeform, GarGhouls often form the second wave of a larger invasion, using their maddening screams to disorient their terrified victims, before the main force emerges from their hidden dwellings. Swarms of GarGhouls also patrol the vast caverns of the subterran Ghoul realms, seeking out intruders and calling their pale brethren to join them in their feast.",
       "name": "GarGhoul",
       "properties": {
@@ -3528,7 +3529,7 @@
     },
     "052_wendigo_1": {
       "description": "Wendigos plague humanoid civilization since the dawn of time. Nothing embodies the cruelty and danger of untamed wilderness as well as the Wendigo. They are the terror of the wilderness incarnate, primal fear given a gangly shape and raking claws. Their true origin remains unknown, but some cultures perceive them to be spirits of hunger and greed, possessing avaricious individuals and turning them into the ferocious predators that stalk dark woods and bleak frontiers, hunting and devouring their former kin. Wendigos are swift and silent hunters, terrifying stalkers and savage butchers, capable of outmaneuvering and outsmarting even well-armed and steadfast groups of adventurers before unleashing upon them a terrifying display of primal carnage, leaving red snow in their wake, as they adorn their hunting grounds with grisly trophies.",
-      "name": "Wendigo Skin 1",
+      "name": "Wendigo",
       "properties": {
         "biom": [
           "horror", "wilderness", "forest", "road", "graves", "ruins", "dungeon", "lair"
@@ -3558,7 +3559,7 @@
     },
     "052_wendigo_2": {
       "description": "Wendigos plague humanoid civilization since the dawn of time. Nothing embodies the cruelty and danger of untamed wilderness as well as the Wendigo. They are the terror of the wilderness incarnate, primal fear given a gangly shape and raking claws. Their true origin remains unknown, but some cultures perceive them to be spirits of hunger and greed, possessing avaricious individuals and turning them into the ferocious predators that stalk dark woods and bleak frontiers, hunting and devouring their former kin. Wendigos are swift and silent hunters, terrifying stalkers and savage butchers, capable of outmaneuvering and outsmarting even well-armed and steadfast groups of adventurers before unleashing upon them a terrifying display of primal carnage, leaving red snow in their wake, as they adorn their hunting grounds with grisly trophies.",
-      "name": "Wendigo Skin 2",
+      "name": "Wendigo",
       "properties": {
         "biom": [
           "horror", "wilderness", "forest", "road", "graves", "ruins", "dungeon", "lair"
@@ -3588,7 +3589,7 @@
     },
     "052_wendigo_3": {
       "description": "Wendigos plague humanoid civilization since the dawn of time. Nothing embodies the cruelty and danger of untamed wilderness as well as the Wendigo. They are the terror of the wilderness incarnate, primal fear given a gangly shape and raking claws. Their true origin remains unknown, but some cultures perceive them to be spirits of hunger and greed, possessing avaricious individuals and turning them into the ferocious predators that stalk dark woods and bleak frontiers, hunting and devouring their former kin. Wendigos are swift and silent hunters, terrifying stalkers and savage butchers, capable of outmaneuvering and outsmarting even well-armed and steadfast groups of adventurers before unleashing upon them a terrifying display of primal carnage, leaving red snow in their wake, as they adorn their hunting grounds with grisly trophies.",
-      "name": "Wendigo Skin 3",
+      "name": "Wendigo",
       "properties": {
         "biom": [
           "horror", "wilderness", "forest", "road", "graves", "ruins", "dungeon", "lair"
@@ -3618,7 +3619,7 @@
     },
     "052_wendigo_4": {
       "description": "Wendigos plague humanoid civilization since the dawn of time. Nothing embodies the cruelty and danger of untamed wilderness as well as the Wendigo. They are the terror of the wilderness incarnate, primal fear given a gangly shape and raking claws. Their true origin remains unknown, but some cultures perceive them to be spirits of hunger and greed, possessing avaricious individuals and turning them into the ferocious predators that stalk dark woods and bleak frontiers, hunting and devouring their former kin. Wendigos are swift and silent hunters, terrifying stalkers and savage butchers, capable of outmaneuvering and outsmarting even well-armed and steadfast groups of adventurers before unleashing upon them a terrifying display of primal carnage, leaving red snow in their wake, as they adorn their hunting grounds with grisly trophies.",
-      "name": "Wendigo Skin 4",
+      "name": "Wendigo",
       "properties": {
         "biom": [
           "horror", "wilderness", "forest", "road", "graves", "ruins", "dungeon", "lair"
@@ -4013,7 +4014,7 @@
     }
     },
     "063_beckoning_devil": {
-      "description": "Beckoning Devil's are favoured courtiers of the Father of Lies, one of the ruling Devils of the Nine Hells. With their seductive and corrupting powers, they seek to gain control over groups of powerful individuals to drive them into ruin, only to finally offer them salvation in their Lord's service. They possess a malign intelligence and relish their dark purpose, drawing great pleasure from the hunt. Once fixated on future servants worthy of their Lord, Beckoning Devils are relentless stalkers, quickly forcing their prey to question their sanity, as their paranoia swells and memories become unreliable. Those dominated by the Devil they are finally forced to commit harrowing atrocities, until they are left with no choice but to bow their knee to the dark patron of Lies. ",
+      "description": "Beckoning Devil's are favoured courtiers of the Father of Lies, one of the ruling Devils of the Nine Hells. With their seductive and corrupting powers, they seek to gain control over groups of powerful individuals to drive them into ruin, only to finally offer them salvation in their Lord's service. They possess a malign intelligence and relish their dark purpose, drawing great pleasure from the hunt. Once fixated on future servants worthy of their Lord, Beckoning Devils are relentless stalkers, quickly forcing their prey to question their sanity, as their paranoia swells and memories become unreliable. Those dominated by the Devil they are finally forced to commit harrowing atrocities, until they are left with no choice but to bow their knee to the dark patron of Lies.",
       "name": "Beckoning Devil",
       "properties": {
         "biom": [ "wilderness", "road", "dungeon", "infernal", "city", "civilised", "lair", "planar", "underground", "dungeon", "ruins", "horror" ],
@@ -4449,7 +4450,7 @@
     }
     },
     "075_guild_artillerist": {
-      "description": "Due to government contracts, the (traditionally dwarven) members of the great Powder Guilds, those organisations authorized to research and develop mechanical firearms, are also utilized as a well-trained militia, often requiring mandatory service escorting the great Trade Fleets trawling the great Archipelago. This leaves many guild members with first-hand combat experience and some will stay within the military branch of the guilds, choosing the life of an Artillerist over that of an Artisan. They serve with a deep understanding of their craft, burning to further hone their skills as combat engineers, artillery and demolition specialists or expert marksmen. ",
+      "description": "Due to government contracts, the (traditionally dwarven) members of the great Powder Guilds, those organisations authorized to research and develop mechanical firearms, are also utilized as a well-trained militia, often requiring mandatory service escorting the great Trade Fleets trawling the great Archipelago. This leaves many guild members with first-hand combat experience and some will stay within the military branch of the guilds, choosing the life of an Artillerist over that of an Artisan. They serve with a deep understanding of their craft, burning to further hone their skills as combat engineers, artillery and demolition specialists or expert marksmen.",
       "name": "Guild Artillerist",
       "properties": {
         "biom": ["civilised", "city", "wilderness", "coast", "road", "mountain"],
@@ -4637,60 +4638,6 @@
         "videourl": ""
     }
     },
-    "006_shield_guardian_2": {
-      "description": "The Scorched Legion's origins lie within the ash-choked plains of the Realm of Fire. The lords of the realm are in constant warfare, their mortal troops long expended. Unyielding, relentless soldiers were formed from volcanic rock and embers of the Primordial Flame. Soon the Scorched Legionaries waged eternal war on their masters behalf, their conflicts soon encroaching onto the mortal realms. They are devastating heavy infantry, blindly following their master's commands, untiring and without mercy. Many a desperate sovereign turns to the lords of the Fire Realm as a means to aquire the might of the Legion for their own purpose, not knowing, that by doing so they may doom the very realm they try to protect or conquer.",
-      "name": "shield guardian 2",
-      "properties": {
-        "biom": ["planar", "dungeon", "lair"],
-        "cr": "4",
-        "fightingstyle": ["melee", "pack"],
-        "movement": ["walk"],
-        "purpose": ["damage","minion"],
-        "releaseurl": "",
-        "size": "medium",
-        "stat_ac": 17,
-        "stat_cha": 7,
-        "stat_con": 18,
-        "stat_dex": 10,
-        "stat_hp": 50,
-        "stat_int": 6,
-        "stat_str": 16,
-        "stat_wis": 12,
-        "thumbnail": "006_shield_guardian_2-idle_face_still.webp",
-        "type": [
-          "elemental",
-          "fire"
-        ],
-        "videourl": ""
-    }
-    },
-    "009_skeleton_henchman_1": {
-      "description": "The Scorched Legion's origins lie within the ash-choked plains of the Realm of Fire. The lords of the realm are in constant warfare, their mortal troops long expended. Unyielding, relentless soldiers were formed from volcanic rock and embers of the Primordial Flame. Soon the Scorched Legionaries waged eternal war on their masters behalf, their conflicts soon encroaching onto the mortal realms. They are devastating heavy infantry, blindly following their master's commands, untiring and without mercy. Many a desperate sovereign turns to the lords of the Fire Realm as a means to aquire the might of the Legion for their own purpose, not knowing, that by doing so they may doom the very realm they try to protect or conquer.",
-      "name": "skeleton henchman 1",
-      "properties": {
-        "biom": ["planar", "dungeon", "lair"],
-        "cr": "4",
-        "fightingstyle": ["melee", "pack"],
-        "movement": ["walk"],
-        "purpose": ["damage","minion"],
-        "releaseurl": "",
-        "size": "medium",
-        "stat_ac": 17,
-        "stat_cha": 7,
-        "stat_con": 18,
-        "stat_dex": 10,
-        "stat_hp": 50,
-        "stat_int": 6,
-        "stat_str": 16,
-        "stat_wis": 12,
-        "thumbnail": "009_skeleton_henchman_1-idle_face_still.webp",
-        "type": [
-          "elemental",
-          "fire"
-        ],
-        "videourl": ""
-    }
-    },
     "084_hydra": {
       "description": "The Hydra is an ancient nightmare given form, coiling serpent heads, their curved fangs dripping with lethal poison and a towering reptile body capable of moving with unsettling grace - there is nothing about the Hydra that does not evoke vivid imagery and primal fears whenever its name is whispered. Hydrae are dangerous to hunt, as even a mortally wounded beast might return after only days have passed and whole swathes of land have been put to the torch to drive such a monstrosity from its lair and finally put an end to it.",
       "name": "hydra",
@@ -4719,221 +4666,125 @@
     }
     
     },
-    "005_assassin_1": {
-      "description": "The Scorched Legion's origins lie within the ash-choked plains of the Realm of Fire. The lords of the realm are in constant warfare, their mortal troops long expended. Unyielding, relentless soldiers were formed from volcanic rock and embers of the Primordial Flame. Soon the Scorched Legionaries waged eternal war on their masters behalf, their conflicts soon encroaching onto the mortal realms. They are devastating heavy infantry, blindly following their master's commands, untiring and without mercy. Many a desperate sovereign turns to the lords of the Fire Realm as a means to aquire the might of the Legion for their own purpose, not knowing, that by doing so they may doom the very realm they try to protect or conquer.",
-      "name": "assassin 1",
-      "properties": {
-        "biom": ["planar", "dungeon", "lair"],
-        "cr": "4",
-        "fightingstyle": ["melee", "pack"],
-        "movement": ["walk"],
-        "purpose": ["damage","minion"],
-        "releaseurl": "",
-        "size": "medium",
-        "stat_ac": 17,
-        "stat_cha": 7,
-        "stat_con": 18,
-        "stat_dex": 10,
-        "stat_hp": 50,
-        "stat_int": 6,
-        "stat_str": 16,
-        "stat_wis": 12,
-        "thumbnail": "005_assassin_1-idle_face_still.webp",
-        "type": [
-          "elemental",
-          "fire"
-        ],
-        "videourl": ""
-    }
-    },
-    "005_assassin_2": {
-      "description": "The Scorched Legion's origins lie within the ash-choked plains of the Realm of Fire. The lords of the realm are in constant warfare, their mortal troops long expended. Unyielding, relentless soldiers were formed from volcanic rock and embers of the Primordial Flame. Soon the Scorched Legionaries waged eternal war on their masters behalf, their conflicts soon encroaching onto the mortal realms. They are devastating heavy infantry, blindly following their master's commands, untiring and without mercy. Many a desperate sovereign turns to the lords of the Fire Realm as a means to aquire the might of the Legion for their own purpose, not knowing, that by doing so they may doom the very realm they try to protect or conquer.",
-      "name": "assassin 2",
-      "properties": {
-        "biom": ["planar", "dungeon", "lair"],
-        "cr": "4",
-        "fightingstyle": ["melee", "pack"],
-        "movement": ["walk"],
-        "purpose": ["damage","minion"],
-        "releaseurl": "",
-        "size": "medium",
-        "stat_ac": 17,
-        "stat_cha": 7,
-        "stat_con": 18,
-        "stat_dex": 10,
-        "stat_hp": 50,
-        "stat_int": 6,
-        "stat_str": 16,
-        "stat_wis": 12,
-        "thumbnail": "005_assassin_2-idle_face_still.webp",
-        "type": [
-          "elemental",
-          "fire"
-        ],
-        "videourl": ""
-    }
-    },
     "011_trained_fighter_1": {
-      "description": "The Scorched Legion's origins lie within the ash-choked plains of the Realm of Fire. The lords of the realm are in constant warfare, their mortal troops long expended. Unyielding, relentless soldiers were formed from volcanic rock and embers of the Primordial Flame. Soon the Scorched Legionaries waged eternal war on their masters behalf, their conflicts soon encroaching onto the mortal realms. They are devastating heavy infantry, blindly following their master's commands, untiring and without mercy. Many a desperate sovereign turns to the lords of the Fire Realm as a means to aquire the might of the Legion for their own purpose, not knowing, that by doing so they may doom the very realm they try to protect or conquer.",
-      "name": "trained fighter 1",
+      "description": "War veterans, gang members with military experience or nobles who spent a fair share of their youth under the watchful eyes of combat instructors - the Trained Fighter represents all of them and more. They are trained in the art of melee, have seen various combat scenarios and lived to tell the tale. While a rabble of peasants or a gang of highwaymen can be disposed of rather quickly and with little effort, an organized troop of Trained Fighters makes for a varitable fighting force, leading to a complex and tactical encounter for a low or even mid-level party.",
+      "name": "Trained Fighter",
       "properties": {
-        "biom": ["planar", "dungeon", "lair"],
-        "cr": "4",
-        "fightingstyle": ["melee", "pack"],
-        "movement": ["walk"],
-        "purpose": ["damage","minion"],
-        "releaseurl": "",
-        "size": "medium",
-        "stat_ac": 17,
-        "stat_cha": 7,
-        "stat_con": 18,
-        "stat_dex": 10,
-        "stat_hp": 50,
-        "stat_int": 6,
-        "stat_str": 16,
-        "stat_wis": 12,
-        "thumbnail": "011_trained_fighter_1-idle_face_still.webp",
-        "type": [
-          "elemental",
-          "fire"
+        "biom": [
+          "any"
         ],
-        "videourl": ""
-    }
+        "cr": "2",
+        "fightingstyle": [
+          "melee","interactive", "tactical"
+        ],
+        "movement": ["walk"],
+        "purpose": ["minion", "pack"],
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52930930",
+        "size": "medium",
+        "stat_ac": 15,
+        "stat_cha": 10,
+        "stat_con": 16,
+        "stat_dex": 15,
+        "stat_hp": 33,
+        "stat_int": 14,
+        "stat_str": 17,
+        "stat_wis": 13,
+        "thumbnail": "011_trained_fighter-idle_face_still.webp",
+        "type": [
+			"humanoid", "human"
+        ],
+        "videourl": "https://youtu.be/Htl7NhZueY4"
+      }
     },
     "011_trained_fighter_2": {
-      "description": "The Scorched Legion's origins lie within the ash-choked plains of the Realm of Fire. The lords of the realm are in constant warfare, their mortal troops long expended. Unyielding, relentless soldiers were formed from volcanic rock and embers of the Primordial Flame. Soon the Scorched Legionaries waged eternal war on their masters behalf, their conflicts soon encroaching onto the mortal realms. They are devastating heavy infantry, blindly following their master's commands, untiring and without mercy. Many a desperate sovereign turns to the lords of the Fire Realm as a means to aquire the might of the Legion for their own purpose, not knowing, that by doing so they may doom the very realm they try to protect or conquer.",
-      "name": "trained fighter 2",
+      "description": "War veterans, gang members with military experience or nobles who spent a fair share of their youth under the watchful eyes of combat instructors - the Trained Fighter represents all of them and more. They are trained in the art of melee, have seen various combat scenarios and lived to tell the tale. While a rabble of peasants or a gang of highwaymen can be disposed of rather quickly and with little effort, an organized troop of Trained Fighters makes for a varitable fighting force, leading to a complex and tactical encounter for a low or even mid-level party.",
+      "name": "Trained Fighter",
       "properties": {
-        "biom": ["planar", "dungeon", "lair"],
-        "cr": "4",
-        "fightingstyle": ["melee", "pack"],
-        "movement": ["walk"],
-        "purpose": ["damage","minion"],
-        "releaseurl": "",
-        "size": "medium",
-        "stat_ac": 17,
-        "stat_cha": 7,
-        "stat_con": 18,
-        "stat_dex": 10,
-        "stat_hp": 50,
-        "stat_int": 6,
-        "stat_str": 16,
-        "stat_wis": 12,
-        "thumbnail": "011_trained_fighter_2-idle_face_still.webp",
-        "type": [
-          "elemental",
-          "fire"
+        "biom": [
+          "any"
         ],
-        "videourl": ""
-    }
-    },
-    "011_trained_fighter_1": {
-      "description": "The Scorched Legion's origins lie within the ash-choked plains of the Realm of Fire. The lords of the realm are in constant warfare, their mortal troops long expended. Unyielding, relentless soldiers were formed from volcanic rock and embers of the Primordial Flame. Soon the Scorched Legionaries waged eternal war on their masters behalf, their conflicts soon encroaching onto the mortal realms. They are devastating heavy infantry, blindly following their master's commands, untiring and without mercy. Many a desperate sovereign turns to the lords of the Fire Realm as a means to aquire the might of the Legion for their own purpose, not knowing, that by doing so they may doom the very realm they try to protect or conquer.",
-      "name": "trained fighter 1",
-      "properties": {
-        "biom": ["planar", "dungeon", "lair"],
-        "cr": "4",
-        "fightingstyle": ["melee", "pack"],
-        "movement": ["walk"],
-        "purpose": ["damage","minion"],
-        "releaseurl": "",
-        "size": "medium",
-        "stat_ac": 17,
-        "stat_cha": 7,
-        "stat_con": 18,
-        "stat_dex": 10,
-        "stat_hp": 50,
-        "stat_int": 6,
-        "stat_str": 16,
-        "stat_wis": 12,
-        "thumbnail": "011_trained_fighter_1-idle_face_still.webp",
-        "type": [
-          "elemental",
-          "fire"
+        "cr": "2",
+        "fightingstyle": [
+          "melee","interactive", "tactical"
         ],
-        "videourl": ""
-    }
-    },
-    "011_trained_fighter_2": {
-      "description": "The Scorched Legion's origins lie within the ash-choked plains of the Realm of Fire. The lords of the realm are in constant warfare, their mortal troops long expended. Unyielding, relentless soldiers were formed from volcanic rock and embers of the Primordial Flame. Soon the Scorched Legionaries waged eternal war on their masters behalf, their conflicts soon encroaching onto the mortal realms. They are devastating heavy infantry, blindly following their master's commands, untiring and without mercy. Many a desperate sovereign turns to the lords of the Fire Realm as a means to aquire the might of the Legion for their own purpose, not knowing, that by doing so they may doom the very realm they try to protect or conquer.",
-      "name": "trained fighter 2",
-      "properties": {
-        "biom": ["planar", "dungeon", "lair"],
-        "cr": "4",
-        "fightingstyle": ["melee", "pack"],
         "movement": ["walk"],
-        "purpose": ["damage","minion"],
-        "releaseurl": "",
+        "purpose": ["minion", "pack"],
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52930930",
         "size": "medium",
-        "stat_ac": 17,
-        "stat_cha": 7,
-        "stat_con": 18,
-        "stat_dex": 10,
-        "stat_hp": 50,
-        "stat_int": 6,
-        "stat_str": 16,
-        "stat_wis": 12,
-        "thumbnail": "011_trained_fighter_2-idle_face_still.webp",
+        "stat_ac": 15,
+        "stat_cha": 10,
+        "stat_con": 16,
+        "stat_dex": 15,
+        "stat_hp": 33,
+        "stat_int": 14,
+        "stat_str": 17,
+        "stat_wis": 13,
+        "thumbnail": "011_trained_fighter-idle_face_still.webp",
         "type": [
-          "elemental",
-          "fire"
+			"humanoid", "human"
         ],
-        "videourl": ""
-    }
+        "videourl": "https://youtu.be/Htl7NhZueY4"
+      }
     },
     "011_trained_fighter_3": {
-      "description": "The Scorched Legion's origins lie within the ash-choked plains of the Realm of Fire. The lords of the realm are in constant warfare, their mortal troops long expended. Unyielding, relentless soldiers were formed from volcanic rock and embers of the Primordial Flame. Soon the Scorched Legionaries waged eternal war on their masters behalf, their conflicts soon encroaching onto the mortal realms. They are devastating heavy infantry, blindly following their master's commands, untiring and without mercy. Many a desperate sovereign turns to the lords of the Fire Realm as a means to aquire the might of the Legion for their own purpose, not knowing, that by doing so they may doom the very realm they try to protect or conquer.",
-      "name": "trained fighter 3",
+      "description": "War veterans, gang members with military experience or nobles who spent a fair share of their youth under the watchful eyes of combat instructors - the Trained Fighter represents all of them and more. They are trained in the art of melee, have seen various combat scenarios and lived to tell the tale. While a rabble of peasants or a gang of highwaymen can be disposed of rather quickly and with little effort, an organized troop of Trained Fighters makes for a varitable fighting force, leading to a complex and tactical encounter for a low or even mid-level party.",
+      "name": "Trained Fighter",
       "properties": {
-        "biom": ["planar", "dungeon", "lair"],
-        "cr": "4",
-        "fightingstyle": ["melee", "pack"],
-        "movement": ["walk"],
-        "purpose": ["damage","minion"],
-        "releaseurl": "",
-        "size": "medium",
-        "stat_ac": 17,
-        "stat_cha": 7,
-        "stat_con": 18,
-        "stat_dex": 10,
-        "stat_hp": 50,
-        "stat_int": 6,
-        "stat_str": 16,
-        "stat_wis": 12,
-        "thumbnail": "011_trained_fighter_3-idle_face_still.webp",
-        "type": [
-          "elemental",
-          "fire"
+        "biom": [
+          "any"
         ],
-        "videourl": ""
-    }
+        "cr": "2",
+        "fightingstyle": [
+          "melee","interactive", "tactical"
+        ],
+        "movement": ["walk"],
+        "purpose": ["minion", "pack"],
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52930930",
+        "size": "medium",
+        "stat_ac": 15,
+        "stat_cha": 10,
+        "stat_con": 16,
+        "stat_dex": 15,
+        "stat_hp": 33,
+        "stat_int": 14,
+        "stat_str": 17,
+        "stat_wis": 13,
+        "thumbnail": "011_trained_fighter-idle_face_still.webp",
+        "type": [
+			"humanoid", "human"
+        ],
+        "videourl": "https://youtu.be/Htl7NhZueY4"
+      }
     },
     "011_trained_fighter_4": {
-      "description": "The Scorched Legion's origins lie within the ash-choked plains of the Realm of Fire. The lords of the realm are in constant warfare, their mortal troops long expended. Unyielding, relentless soldiers were formed from volcanic rock and embers of the Primordial Flame. Soon the Scorched Legionaries waged eternal war on their masters behalf, their conflicts soon encroaching onto the mortal realms. They are devastating heavy infantry, blindly following their master's commands, untiring and without mercy. Many a desperate sovereign turns to the lords of the Fire Realm as a means to aquire the might of the Legion for their own purpose, not knowing, that by doing so they may doom the very realm they try to protect or conquer.",
-      "name": "trained fighter 4",
+      "description": "War veterans, gang members with military experience or nobles who spent a fair share of their youth under the watchful eyes of combat instructors - the Trained Fighter represents all of them and more. They are trained in the art of melee, have seen various combat scenarios and lived to tell the tale. While a rabble of peasants or a gang of highwaymen can be disposed of rather quickly and with little effort, an organized troop of Trained Fighters makes for a varitable fighting force, leading to a complex and tactical encounter for a low or even mid-level party.",
+      "name": "Trained Fighter",
       "properties": {
-        "biom": ["planar", "dungeon", "lair"],
-        "cr": "4",
-        "fightingstyle": ["melee", "pack"],
-        "movement": ["walk"],
-        "purpose": ["damage","minion"],
-        "releaseurl": "",
-        "size": "medium",
-        "stat_ac": 17,
-        "stat_cha": 7,
-        "stat_con": 18,
-        "stat_dex": 10,
-        "stat_hp": 50,
-        "stat_int": 6,
-        "stat_str": 16,
-        "stat_wis": 12,
-        "thumbnail": "011_trained_fighter_4-idle_face_still.webp",
-        "type": [
-          "elemental",
-          "fire"
+        "biom": [
+          "any"
         ],
-        "videourl": ""
-    }
+        "cr": "2",
+        "fightingstyle": [
+          "melee","interactive", "tactical"
+        ],
+        "movement": ["walk"],
+        "purpose": ["minion", "pack"],
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52930930",
+        "size": "medium",
+        "stat_ac": 15,
+        "stat_cha": 10,
+        "stat_con": 16,
+        "stat_dex": 15,
+        "stat_hp": 33,
+        "stat_int": 14,
+        "stat_str": 17,
+        "stat_wis": 13,
+        "thumbnail": "011_trained_fighter-idle_face_still.webp",
+        "type": [
+			"humanoid", "human"
+        ],
+        "videourl": "https://youtu.be/Htl7NhZueY4"
+      }
   }
   }
   }
