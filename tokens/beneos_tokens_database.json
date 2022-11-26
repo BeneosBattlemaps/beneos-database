@@ -4718,6 +4718,60 @@
         "videourl": ""
     }
     
+    },
+    "084_mimic": {
+      "description": "Placeholder",
+      "name": "Mimic",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair"],
+        "cr": "3",
+        "fightingstyle": ["ambusher", "simple"],
+        "movement": ["Walk"],
+        "purpose": ["gimmick"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 12,
+        "stat_cha": 8,
+        "stat_con": 15,
+        "stat_dex": 12,
+        "stat_hp": 58,
+        "stat_int": 5,
+        "stat_str": 17,
+        "stat_wis": 13,
+        "thumbnail": "084_mimic-idle_face_still.webp",
+        "type": [
+          "monstrosity",
+          "shapechanger"
+        ],
+        "videourl": ""
+    }
+    },
+    "004_curseweaver": {
+      "description": "Curseweavers are sinister creatures exhibiting a perverse interest in the political dealings of mortal beings. This morbid curiosity draws them from their natural homes within the seven hells and causes them to establish lairs at the heart of sprawling cities or similiar centers of power and influence. Through networks of both mortal and infernal spies and agents they seek out those in pursuit of dominion over others and offer their cursework in exchange for souls and chess pieces on the political board. Curseweavers enjoy pitting their numerous minions against each other, slowly ascending as the true éminence grise behind the curtain. Civil wars, revolts or revolutions follow in the wake of a Curseweaver, the fiend oftentimes playing both sides for nourishment and sadistic pleasure in equal measure.",
+      "name": "Curseweaver",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "infernal"],
+        "cr": "16",
+        "fightingstyle": ["demanding", "tactical", "spellcasting"],
+        "movement": ["Walk"],
+        "purpose": ["gimmick", "boss", "debuff"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 17,
+        "stat_cha": 22,
+        "stat_con": 16,
+        "stat_dex": 12,
+        "stat_hp": 230,
+        "stat_int": 17,
+        "stat_str": 15,
+        "stat_wis": 19,
+        "thumbnail": "004_curseweaver-idle_face_still.webp",
+        "type": [
+          "fiend",
+          "devil"
+        ],
+        "videourl": ""
+    }
   }
   }
   }
