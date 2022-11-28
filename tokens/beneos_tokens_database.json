@@ -4755,7 +4755,7 @@
         "fightingstyle": ["demanding", "tactical", "spellcasting"],
         "movement": ["Walk"],
         "purpose": ["gimmick", "boss", "debuff"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/boss-creature-51753670?l=de",
         "size": "Huge",
         "stat_ac": 17,
         "stat_cha": 22,
@@ -4770,7 +4770,7 @@
           "fiend",
           "devil"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/7qCnxpsQ2wA"
     }
   }
   }
