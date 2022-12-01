@@ -4742,6 +4742,141 @@
         ],
         "videourl": "https://youtu.be/7qCnxpsQ2wA"
     }
+    },
+    "085_aberrant_tyrant": {
+      "description": "Placeholder.",
+      "name": "Aberrant Tyrant",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness"],
+        "cr": "14",
+        "fightingstyle": ["demanding", "lethal"],
+        "movement": ["Fly"],
+        "purpose": ["gimmick", "boss""],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 18,
+        "stat_cha": 17,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 230,
+        "stat_int": 17,
+        "stat_str": 10,
+        "stat_wis": 15,
+        "thumbnail": "085_aberrant_tyrant-idle_face_still.webp",
+        "type": [
+          "aberration",
+          "devil"
+        ],
+        "videourl": ""
+    }
+    },
+    "085_aberrant_tyrant": {
+      "description": "Placeholder.",
+      "name": "Aberrant Tyrant",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness"],
+        "cr": "14",
+        "fightingstyle": ["demanding", "lethal"],
+        "movement": ["Fly"],
+        "purpose": ["gimmick", "boss""],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 18,
+        "stat_cha": 17,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 230,
+        "stat_int": 17,
+        "stat_str": 10,
+        "stat_wis": 15,
+        "thumbnail": "085_aberrant_tyrant-idle_face_still.webp",
+        "type": [
+          "aberration",
+          "devil"
+        ],
+        "videourl": ""
+    }
+    },
+    "085_aberrant_tyrant_1": {
+      "description": "Placeholder.",
+      "name": "Aberrant Tyrant 1",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness"],
+        "cr": "14",
+        "fightingstyle": ["demanding", "lethal"],
+        "movement": ["Fly"],
+        "purpose": ["gimmick", "boss""],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 18,
+        "stat_cha": 17,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 230,
+        "stat_int": 17,
+        "stat_str": 10,
+        "stat_wis": 15,
+        "thumbnail": "085_aberrant_tyrant_1-idle_face_still.webp",
+        "type": [
+          "aberration",
+          "devil"
+        ],
+        "videourl": ""
+    }
+    },
+    "085_aberrant_tyrant_2": {
+      "description": "Placeholder.",
+      "name": "Aberrant Tyrant 2",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness"],
+        "cr": "14",
+        "fightingstyle": ["demanding", "lethal"],
+        "movement": ["Fly"],
+        "purpose": ["gimmick", "boss""],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 18,
+        "stat_cha": 17,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 230,
+        "stat_int": 17,
+        "stat_str": 10,
+        "stat_wis": 15,
+        "thumbnail": "085_aberrant_tyrant_2-idle_face_still.webp",
+        "type": [
+          "aberration",
+          "devil"
+        ],
+        "videourl": ""
+    }
+    },
+    "085_aberrant_tyrant_3": {
+      "description": "Placeholder.",
+      "name": "Aberrant Tyrant 3",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness"],
+        "cr": "14",
+        "fightingstyle": ["demanding", "lethal"],
+        "movement": ["Fly"],
+        "purpose": ["gimmick", "boss""],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 18,
+        "stat_cha": 17,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 230,
+        "stat_int": 17,
+        "stat_str": 10,
+        "stat_wis": 15,
+        "thumbnail": "085_aberrant_tyrant_3-idle_face_still.webp",
+        "type": [
+          "aberration",
+          "devil"
+        ],
+        "videourl": ""
+    }
   }
   }
   }
