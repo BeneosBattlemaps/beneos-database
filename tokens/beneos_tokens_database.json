@@ -197,7 +197,7 @@
     },
     "003_inquisitorial_penitent": {
       "description": "Inquisitorial Penitents are former witches, persecuted and excruciatingly converted by those they now serve as living weapons. Their connection to the arcane has been perverted, the flow of magic reversed, as they now syphon arcane energies from others with their mere presence. They stalk the lands in packs, travel as independent operatives or are part of an inquisitorial retinue, acting as both bodyguards and executioners. The most dangerous penitents, however, are those who underwent the purifications voluntarily, eager to shed the taint of witchcraft. They are the most unforgiving and zealous of their kind, hunting their tainted kin without mercy or remorse.",
-      "name": "Inquisitorial Penitent 1",
+      "name": "Inquisitorial Penitent",
       "properties": {
         "biom": [
           "Sacral", "city", "civilised"
@@ -2390,7 +2390,7 @@
     },
     "030_commoner_4_m_priest_1": {
       "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
-      "name": "Commoner Male Priest 1",
+      "name": "Commoner Male Priest",
       "properties": {
         "biom": [
           "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral","city" 
@@ -2420,7 +2420,7 @@
     },
     "030_commoner_6_m_peasant_1": {
       "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
-      "name": "Commoner Male Peasant 1",
+      "name": "Commoner Male Peasant",
       "properties": {
         "biom": [
           "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
@@ -2450,7 +2450,7 @@
     },
     "030_commoner_7_m_peasant_2": {
       "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
-      "name": "Commoner Male Peasant 2",
+      "name": "Commoner Male Peasant",
       "properties": {
         "biom": [
           "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
@@ -2510,7 +2510,7 @@
     },
     "030_commoner_9_m_noble": {
       "description": "Commoners are salt of the earth people inhabiting the various hamlets, villages, hovels and huts strewn around any country, kingdom or frontier. They can be barbers, bakers, bar- or beekeepers, hard working and tax paying folks that may welcome adventurers with open arms into the midst of their society or keep a keen eye on any outsider encroaching on their territory, threatening to make the rapidly shortening remainder of their lives more interesting.",
-      "name": "Commoner Male Noble 1",
+      "name": "Commoner Male Noble",
       "properties": {
         "biom": [
           "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
