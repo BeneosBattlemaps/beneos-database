@@ -133,7 +133,7 @@
   "type": "token",
   "version": "1.0.11",
   "content": {
-    "001_vampire_beast": {
+    "001_primal_vampire_spawn": {
       "description": "Sometimes Vampires impart the dubious gift of spawndom upon the wrong soul, stirring primordial horrors from their sleep. These vampire spawns regress to a primal state, detached from the rules that even compel their creators, driven only by their lust for terror and agony.  Primal Spawns are beyond their unwilling creators' control and they in turn feel disdain for their more â€˜evolvedâ€™ kin. Despite not having a weakness to sunlight, they prefer the shadows, as the darkness supports their preferred hunting style. And if the right opportunity arises, a Primal Vampire Spawn will not hesitate to hunt during broad daylight to indulge in the screams of horrified onlookers.",
       "name": "Primal Vampire Spawn",
       "properties": {
@@ -156,7 +156,7 @@
         "stat_int": 7,
         "stat_str": 18,
         "stat_wis": 12,
-        "thumbnail": "001_vampire_beast-idle_face_still.webp",
+        "thumbnail": "001_primal_vampire_spawn-idle_face_still.webp",
         "type": [
           "undead",
           "Vampire"
@@ -164,7 +164,7 @@
         "videourl": "https://youtu.be/GLNZy5sujd0"
       }
     },
-    "002_glutony": {
+    "002_gluttony": {
       "description": "This creature is the embodiment of self indulgence, the nature-given love and need for sustenance perverted and twisted into a bloated creature of repulsive proportions. Gluttony poisons mind and body in equal measure and hungers endlessly, existing for the singular purpose to make everything in existence one with itself.",
       "name": "Gluttony",
       "properties": {
@@ -187,7 +187,7 @@
         "stat_int": 11,
         "stat_str": 18,
         "stat_wis": 13,
-        "thumbnail": "002_glutony-idle_face_still.webp",
+        "thumbnail": "002_gluttony-idle_face_still.webp",
         "type": [
           "fiend",
           "demon"
@@ -195,7 +195,7 @@
         "videourl": "https://youtu.be/wdnXJBQW0lo"
       }
     },
-    "003_female_knight_1": {
+    "003_inquisitorial_penitent": {
       "description": "Inquisitorial Penitents are former witches, persecuted and excruciatingly converted by those they now serve as living weapons. Their connection to the arcane has been perverted, the flow of magic reversed, as they now syphon arcane energies from others with their mere presence. They stalk the lands in packs, travel as independent operatives or are part of an inquisitorial retinue, acting as both bodyguards and executioners. The most dangerous penitents, however, are those who underwent the purifications voluntarily, eager to shed the taint of witchcraft. They are the most unforgiving and zealous of their kind, hunting their tainted kin without mercy or remorse.",
       "name": "Inquisitorial Penitent 1",
       "properties": {
@@ -218,7 +218,7 @@
         "stat_int": 14,
         "stat_str": 11,
         "stat_wis": 14,
-        "thumbnail": "003_female_knight_1-idle_face_still.webp",
+        "thumbnail": "003_inquisitorial_penitent-idle_face_still.webp",
         "type": [
           "human",
           "humanoid"
@@ -348,9 +348,9 @@
         "videourl": "https://youtu.be/Ak26m-571QU"
       }
     },
-    "008_aspect_of_gluttony": {
+    "008_gluttonys_aspect": {
       "description": "Dull-looking, dimwitted and bloated creatures, filled to the brim with noxious gas and disgusting thoughts. They nest within the fleshy crevasses of Gluttony's lumpy body and swarm out on its command, eager to gather offerings to gain their master's favour.",
-      "name": "Aspect of Gluttony",
+      "name": "Gluttony's Aspect",
       "properties": {
         "biom": [
           "lair", "abyssal"
@@ -4578,90 +4578,89 @@
         ],
         "videourl": "https://youtu.be/eGQadVHAZUo"
     }
-    
     },
     "080_sharakhul": {
-      "description": "The Scorched Legion's origins lie within the ash-choked plains of the Realm of Fire. The lords of the realm are in constant warfare, their mortal troops long expended. Unyielding, relentless soldiers were formed from volcanic rock and embers of the Primordial Flame. Soon the Scorched Legionaries waged eternal war on their masters behalf, their conflicts soon encroaching onto the mortal realms. They are devastating heavy infantry, blindly following their master's commands, untiring and without mercy. Many a desperate sovereign turns to the lords of the Fire Realm as a means to aquire the might of the Legion for their own purpose, not knowing, that by doing so they may doom the very realm they try to protect or conquer.",
+      "description": "Ages ago, the great dragon Sharakhul fell victim to a hive of Mind Tyrants, a psionically gifted race of subterran conquerers and slavers. Seeking a new vessel for their abominable hive mind, they spend decades torturing the dragon into submission, bent on erasing his spirit, originally intent on leaving the body intact. But the great dragon resisted and as punishment they psychically flayed him, stripping away his indomitable scales and reducing his form to a mass of undulating flesh.His body flayed and defiled, his mind fractured in unmendable ways, the broken husk of Sharakhul rose from the depths and sought exile, pouring himself into foul methods of blood magic in a desperate attempt to mend his flesh and restore his scales",
       "name": "Sharakhul",
       "properties": {
-        "biom": ["planar", "dungeon", "lair"],
-        "cr": "4",
-        "fightingstyle": ["melee", "pack"],
-        "movement": ["walk"],
-        "purpose": ["damage","minion"],
-        "releaseurl": "",
-        "size": "medium",
-        "stat_ac": 17,
-        "stat_cha": 7,
-        "stat_con": 18,
-        "stat_dex": 10,
-        "stat_hp": 50,
-        "stat_int": 6,
-        "stat_str": 16,
-        "stat_wis": 12,
+        "biom": ["ruins", "dungeon", "lair", "horror", "wilderness", "mountains", "wasteland"],
+        "cr": "20",
+        "fightingstyle": ["demanding", "lethal"],
+        "movement": ["fly"],
+        "purpose": ["damage","boss", "pressure"],
+        "releaseurl": "https://www.patreon.com/posts/sharakhul-flayed-73927441",
+        "size": "gargantuan",
+        "stat_ac": 18,
+        "stat_cha": 18,
+        "stat_con": 22,
+        "stat_dex": 12,
+        "stat_hp": 180,
+        "stat_int": 20,
+        "stat_str": 25,
+        "stat_wis": 16,
         "thumbnail": "080_sharakhul-idle_face_still.webp",
         "type": [
-          "elemental",
-          "fire"
+          "dragon",
+          ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/dYtsdNRp5L8"
     }
-    },
-    "006_shield_guardian_2": {
-      "description": "The Scorched Legion's origins lie within the ash-choked plains of the Realm of Fire. The lords of the realm are in constant warfare, their mortal troops long expended. Unyielding, relentless soldiers were formed from volcanic rock and embers of the Primordial Flame. Soon the Scorched Legionaries waged eternal war on their masters behalf, their conflicts soon encroaching onto the mortal realms. They are devastating heavy infantry, blindly following their master's commands, untiring and without mercy. Many a desperate sovereign turns to the lords of the Fire Realm as a means to aquire the might of the Legion for their own purpose, not knowing, that by doing so they may doom the very realm they try to protect or conquer.",
-      "name": "shield guardian 2",
+	 },
+    "081_crusader": {
+      "description": "Crusaders are chosen warriors infused with holy purpose, traveling the lands to retrieve lost relics, protect priests and pilgrims or enact divine judgement against sworn enemies of their patron saint or deity. They are singular in devotion, trained in the arts of war from a young age and eager to prove their worthiness at any cost.",
+      "name": "Crusader",
       "properties": {
-        "biom": ["planar", "dungeon", "lair"],
-        "cr": "4",
-        "fightingstyle": ["melee", "pack"],
+        "biom": ["ruins", "sacral", "city", "civilised", "road", "tavern"],
+        "cr": "5",
+        "fightingstyle": ["melee", "tactical"],
         "movement": ["walk"],
-        "purpose": ["damage","minion"],
-        "releaseurl": "",
+        "purpose": ["duelist","hunter"],
+        "releaseurl": "https://www.patreon.com/posts/crusader-74184786",
         "size": "medium",
-        "stat_ac": 17,
-        "stat_cha": 7,
-        "stat_con": 18,
-        "stat_dex": 10,
-        "stat_hp": 50,
-        "stat_int": 6,
-        "stat_str": 16,
-        "stat_wis": 12,
-        "thumbnail": "006_shield_guardian_2-idle_face_still.webp",
+        "stat_ac": 18,
+        "stat_cha": 18,
+        "stat_con": 16,
+        "stat_dex": 11,
+        "stat_hp": 69,
+        "stat_int": 11,
+        "stat_str": 18,
+        "stat_wis": 14,
+        "thumbnail": "081_crusader-idle_face_still.webp",
         "type": [
-          "elemental",
-          "fire"
+          "humanoid",
+          ""
         ],
-        "videourl": ""
-    }
-    },
-    "009_skeleton_henchman_1": {
-      "description": "The Scorched Legion's origins lie within the ash-choked plains of the Realm of Fire. The lords of the realm are in constant warfare, their mortal troops long expended. Unyielding, relentless soldiers were formed from volcanic rock and embers of the Primordial Flame. Soon the Scorched Legionaries waged eternal war on their masters behalf, their conflicts soon encroaching onto the mortal realms. They are devastating heavy infantry, blindly following their master's commands, untiring and without mercy. Many a desperate sovereign turns to the lords of the Fire Realm as a means to aquire the might of the Legion for their own purpose, not knowing, that by doing so they may doom the very realm they try to protect or conquer.",
-      "name": "skeleton henchman 1",
+        "videourl": "https://youtu.be/B1oOwbMlrDo"
+	  }	
+	   },
+    "082_shell_sage": {
+      "description": "Shell-Sages wander the lands oblivious to possible danger, protected only by their trusty shell, sheer legendary luck and the hesitation of possible predators, as their would-be prey moves through their territory with confusing self-assuredness and tranquility. Shell-Sages owe their title to the habit of withdrawing into the safety of their eponymous shell, spending days and even weeks in deep contemplation, from which they they only awake due to the excitement experienced by stumbling upon especially profound insights. Wild animals or curious people are drawn to the shell, listening to the calming, mumbled utterances echoing from within the shell.",
+      "name": "Shell Sage",
       "properties": {
-        "biom": ["planar", "dungeon", "lair"],
-        "cr": "4",
-        "fightingstyle": ["melee", "pack"],
+        "biom": ["road", "wilderness", "mountains", "civilised", "coast", "forest", "ocean", "desert", "tavern", "city"],
+        "cr": "2",
+        "fightingstyle": ["spellcasting", "tactical"],
         "movement": ["walk"],
-        "purpose": ["damage","minion"],
-        "releaseurl": "",
+        "purpose": ["ally","debuff","tank"],
+        "releaseurl": "https://www.patreon.com/posts/shell-sage-74472629",
         "size": "medium",
-        "stat_ac": 17,
-        "stat_cha": 7,
-        "stat_con": 18,
-        "stat_dex": 10,
-        "stat_hp": 50,
-        "stat_int": 6,
+        "stat_ac": 18,
+        "stat_cha": 18,
+        "stat_con": 20,
+        "stat_dex": 6,
+        "stat_hp": 127,
+        "stat_int": 14,
         "stat_str": 16,
-        "stat_wis": 12,
-        "thumbnail": "009_skeleton_henchman_1-idle_face_still.webp",
+        "stat_wis": 20,
+        "thumbnail": "082_shell_sage-idle_face_still.webp",
         "type": [
-          "elemental",
-          "fire"
+          "humanoid",
+          ""
         ],
-        "videourl": ""
-    }
+        "videourl": "https://youtu.be/JpJb0Tq_qro"
+	  }	
     },
-    "084_hydra": {
+    "083_hydra": {
       "description": "The Hydra is an ancient nightmare given form, coiling serpent heads, their curved fangs dripping with lethal poison and a towering reptile body capable of moving with unsettling grace - there is nothing about the Hydra that does not evoke vivid imagery and primal fears whenever its name is whispered. Hydrae are dangerous to hunt, as even a mortally wounded beast might return after only days have passed and whole swathes of land have been put to the torch to drive such a monstrosity from its lair and finally put an end to it.",
       "name": "hydra",
       "properties": {
@@ -4670,7 +4669,7 @@
         "fightingstyle": ["lethal", "interactive", "demanding"],
         "movement": ["walk"],
         "purpose": ["pressure","boss", "gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/hydra-74810995",
         "size": "gargantuan",
         "stat_ac": 16,
         "stat_cha": 7,
@@ -4680,17 +4679,16 @@
         "stat_int": 5,
         "stat_str": 22,
         "stat_wis": 13,
-        "thumbnail": "084_hydra-idle_face_still.webp",
+        "thumbnail": "083_hydra-idle_face_still.webp",
         "type": [
           "monstrosity",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/zB4-ZgQPqrY"
     }
-    
     },
     "084_mimic": {
-      "description": "Placeholder",
+      "description": "It is unclear how exactly Mimics came to be. The leading theory proposes that a Wizard sought a way to secure his riches and enchanted a chest to simply make it come alive and eat intruders, which, knowing wizards, does not seem too far-fetched. How we ended up with the voracious ambush predators taking all manner of shapes or for ms still poses some unanswered questions. Similarly, unclear is how Mimics reproduce, even if the thought of pocket-sized chests with big eyes is delightful. Some theorize that Mimic eggs eerily resemble gold coins, allowing Mimics to mix their brood into the treasures they guard.",
       "name": "Mimic",
       "properties": {
         "biom": ["ruins", "dungeon", "civilised", "city", "lair"],
@@ -4698,7 +4696,7 @@
         "fightingstyle": ["ambusher", "simple"],
         "movement": ["Walk"],
         "purpose": ["gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/mimic-75057531",
         "size": "Medium",
         "stat_ac": 12,
         "stat_cha": 8,
@@ -4713,37 +4711,117 @@
           "monstrosity",
           "shapechanger"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/mKR6rvODscc"
     }
     },
-    "004_curseweaver": {
-      "description": "Curseweavers are sinister creatures exhibiting a perverse interest in the political dealings of mortal beings. This morbid curiosity draws them from their natural homes within the seven hells and causes them to establish lairs at the heart of sprawling cities or similiar centers of power and influence. Through networks of both mortal and infernal spies and agents they seek out those in pursuit of dominion over others and offer their cursework in exchange for souls and chess pieces on the political board. Curseweavers enjoy pitting their numerous minions against each other, slowly ascending as the true éminence grise behind the curtain. Civil wars, revolts or revolutions follow in the wake of a Curseweaver, the fiend oftentimes playing both sides for nourishment and sadistic pleasure in equal measure.",
-      "name": "Curseweaver",
+    "085_aberrant_tyrant": {
+      "description": "Aberrant Tyrants birth themselves into the Material Plane through their dreams and nightmares. Considering themselves the apex of creation, an Aberrant Tyrant’s worst nightmare is to be trapped in a world filled with inferior creatures. Due to the nature of the dreamlands beyond the veil, these nightmares are manifested, and the Tyrant is brought forth into the mundane world, where it promptly goes mad from the combined horrors of this experience and the utter contempt towards the vile inhabitants of this hellscape. Some Tyrants however dream of subjugating foreign worlds their inhabitants, only to wake up finally being able to do so. They are, however, no less insane.",
+      "name": "Aberrant Tyrant",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "infernal"],
-        "cr": "16",
-        "fightingstyle": ["demanding", "tactical", "spellcasting"],
-        "movement": ["Walk"],
-        "purpose": ["gimmick", "boss", "debuff"],
-        "releaseurl": "https://www.patreon.com/posts/boss-creature-51753670?l=de",
-        "size": "Huge",
-        "stat_ac": 17,
-        "stat_cha": 22,
-        "stat_con": 16,
-        "stat_dex": 12,
-        "stat_hp": 230,
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness"],
+        "cr": "14",
+        "fightingstyle": ["demanding", "lethal"],
+        "movement": ["Fly"],
+        "purpose": ["gimmick", "boss"],
+        "releaseurl": "https://www.patreon.com/posts/aberrant-tyrant-75407177",
+        "size": "Large",
+        "stat_ac": 18,
+        "stat_cha": 17,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 180,
         "stat_int": 17,
-        "stat_str": 15,
-        "stat_wis": 19,
-        "thumbnail": "004_curseweaver-idle_face_still.webp",
+        "stat_str": 10,
+        "stat_wis": 15,
+        "thumbnail": "085_aberrant_tyrant-idle_face_still.webp",
         "type": [
-          "fiend",
+          "aberration",
           "devil"
         ],
-        "videourl": "https://youtu.be/7qCnxpsQ2wA"
+        "videourl": "https://youtu.be/1fXYH0LBPtk"
+    }
+    },
+    "085_aberrant_tyrant_1": {
+      "description": "Aberrant Tyrants birth themselves into the Material Plane through their dreams and nightmares. Considering themselves the apex of creation, an Aberrant Tyrant’s worst nightmare is to be trapped in a world filled with inferior creatures. Due to the nature of the dreamlands beyond the veil, these nightmares are manifested, and the Tyrant is brought forth into the mundane world, where it promptly goes mad from the combined horrors of this experience and the utter contempt towards the vile inhabitants of this hellscape. Some Tyrants however dream of subjugating foreign worlds their inhabitants, only to wake up finally being able to do so. They are, however, no less insane.",
+      "name": "Aberrant Tyrant 1",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness"],
+        "cr": "14",
+        "fightingstyle": ["demanding", "lethal"],
+        "movement": ["Fly"],
+        "purpose": ["gimmick", "boss"],
+        "releaseurl": "https://www.patreon.com/posts/aberrant-tyrant-75407177",
+        "size": "Large",
+        "stat_ac": 18,
+        "stat_cha": 17,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 180,
+        "stat_int": 17,
+        "stat_str": 10,
+        "stat_wis": 15,
+        "thumbnail": "085_aberrant_tyrant_1-idle_face_still.webp",
+        "type": [
+          "aberration",
+          "devil"
+        ],
+        "videourl": "https://youtu.be/1fXYH0LBPtk"
+    }
+    },
+    "085_aberrant_tyrant_2": {
+      "description": "Aberrant Tyrants birth themselves into the Material Plane through their dreams and nightmares. Considering themselves the apex of creation, an Aberrant Tyrant’s worst nightmare is to be trapped in a world filled with inferior creatures. Due to the nature of the dreamlands beyond the veil, these nightmares are manifested, and the Tyrant is brought forth into the mundane world, where it promptly goes mad from the combined horrors of this experience and the utter contempt towards the vile inhabitants of this hellscape. Some Tyrants however dream of subjugating foreign worlds their inhabitants, only to wake up finally being able to do so. They are, however, no less insane.",
+      "name": "Aberrant Tyrant 2",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness"],
+        "cr": "14",
+        "fightingstyle": ["demanding", "lethal"],
+        "movement": ["Fly"],
+        "purpose": ["gimmick", "boss"],
+        "releaseurl": "https://www.patreon.com/posts/aberrant-tyrant-75407177",
+        "size": "Large",
+        "stat_ac": 18,
+        "stat_cha": 17,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 180,
+        "stat_int": 17,
+        "stat_str": 10,
+        "stat_wis": 15,
+        "thumbnail": "085_aberrant_tyrant_2-idle_face_still.webp",
+        "type": [
+          "aberration",
+          "devil"
+        ],
+        "videourl": "https://youtu.be/1fXYH0LBPtk"
+    }
+    },
+    "085_aberrant_tyrant_3": {
+      "description": "Aberrant Tyrants birth themselves into the Material Plane through their dreams and nightmares. Considering themselves the apex of creation, an Aberrant Tyrant’s worst nightmare is to be trapped in a world filled with inferior creatures. Due to the nature of the dreamlands beyond the veil, these nightmares are manifested, and the Tyrant is brought forth into the mundane world, where it promptly goes mad from the combined horrors of this experience and the utter contempt towards the vile inhabitants of this hellscape. Some Tyrants however dream of subjugating foreign worlds their inhabitants, only to wake up finally being able to do so. They are, however, no less insane.",
+      "name": "Aberrant Tyrant 3",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness"],
+        "cr": "14",
+        "fightingstyle": ["demanding", "lethal"],
+        "movement": ["Fly"],
+        "purpose": ["gimmick", "boss"],
+        "releaseurl": "https://www.patreon.com/posts/aberrant-tyrant-75407177",
+        "size": "Large",
+        "stat_ac": 18,
+        "stat_cha": 17,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 180,
+        "stat_int": 17,
+        "stat_str": 10,
+        "stat_wis": 15,
+        "thumbnail": "085_aberrant_tyrant_3-idle_face_still.webp",
+        "type": [
+          "aberration",
+          "devil"
+        ],
+        "videourl": "https://youtu.be/1fXYH0LBPtk"
     }
   }
   }
   }
   
-
