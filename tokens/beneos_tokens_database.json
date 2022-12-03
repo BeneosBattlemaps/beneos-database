@@ -4181,7 +4181,6 @@
         ],
         "videourl": "https://youtu.be/GbdR-Nsfd1s"
     }
-    }
     },
     "067_rustmire_gadfly": {
       "description": "Rustmire Gadflies infest the auburn marshlands of the Rustmire, their incessant droning turning this already wicked place into even more of a hostile hellscape. By the dozens a swarm of Gadflies descents on a suitable victim - be it man or beast - and feed on them, leaving it bite-marked but alive, as they do not kill their victims (intentionally, at least), but prefer to feed on it over the span of days or weeks instead. They are, however, carriers of the unsavoury and often lethal Bloodscorch plague and can often be found feeding on the pustulent remains of their infected victim.",
@@ -4833,7 +4832,7 @@
     },
     "085_aberrant_tyrant_1": {
       "description": "Aberrant Tyrants birth themselves into the Material Plane through their dreams and nightmares. Considering themselves the apex of creation, an Aberrant Tyrant’s worst nightmare is to be trapped in a world filled with inferior creatures. Due to the nature of the dreamlands beyond the veil, these nightmares are manifested, and the Tyrant is brought forth into the mundane world, where it promptly goes mad from the combined horrors of this experience and the utter contempt towards the vile inhabitants of this hellscape. Some Tyrants however dream of subjugating foreign worlds their inhabitants, only to wake up finally being able to do so. They are, however, no less insane.",
-      "name": "Aberrant Tyrant 1",
+      "name": "Aberrant Tyrant",
       "properties": {
         "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness"],
         "cr": "14",
@@ -4860,7 +4859,7 @@
     },
     "085_aberrant_tyrant_2": {
       "description": "Aberrant Tyrants birth themselves into the Material Plane through their dreams and nightmares. Considering themselves the apex of creation, an Aberrant Tyrant’s worst nightmare is to be trapped in a world filled with inferior creatures. Due to the nature of the dreamlands beyond the veil, these nightmares are manifested, and the Tyrant is brought forth into the mundane world, where it promptly goes mad from the combined horrors of this experience and the utter contempt towards the vile inhabitants of this hellscape. Some Tyrants however dream of subjugating foreign worlds their inhabitants, only to wake up finally being able to do so. They are, however, no less insane.",
-      "name": "Aberrant Tyrant 2",
+      "name": "Aberrant Tyrant",
       "properties": {
         "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness"],
         "cr": "14",
@@ -4887,7 +4886,7 @@
     },
     "085_aberrant_tyrant_3": {
       "description": "Aberrant Tyrants birth themselves into the Material Plane through their dreams and nightmares. Considering themselves the apex of creation, an Aberrant Tyrant’s worst nightmare is to be trapped in a world filled with inferior creatures. Due to the nature of the dreamlands beyond the veil, these nightmares are manifested, and the Tyrant is brought forth into the mundane world, where it promptly goes mad from the combined horrors of this experience and the utter contempt towards the vile inhabitants of this hellscape. Some Tyrants however dream of subjugating foreign worlds their inhabitants, only to wake up finally being able to do so. They are, however, no less insane.",
-      "name": "Aberrant Tyrant 3",
+      "name": "Aberrant Tyrant",
       "properties": {
         "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness"],
         "cr": "14",
