@@ -229,7 +229,7 @@
     },
     "005_assassin_1": {
       "description": "If one seeks to end a life, one does not necessarily have to get their hands dirty. There are professionals trained in the art of killing, who are eager to be of service - either to earn some coin, further a dark agenda or for personal pleasure. The play of murder has thousands of scripts and props, but a knife in the dark remains an all time classic.",
-      "name": "Assassin 1",
+      "name": "Assassin",
       "properties": {
         "biom": [
           "city","civilised","road"
@@ -260,7 +260,7 @@
     },
     "006_shield_guardian_1": {
       "description": "Exposure to extreme instances of magnetism might cause an as of yet unexplained transformation within Shield Guardians.The docile automatons undergo a rapid evolution, triggering both a physical transformation and a severe change in behaviour. A Polarized Shield Guardian is no longer bound to its master, resisting any attempt of external control with violent means. Their physique adapts to support a construct now geared towards offensive conflict resolution, rather than silent endurance. These creatures are exceedingly rare and, if able to break their shackles for good, wander the lands guided by their mysterious connection to both magical and magnetic forces.",
-      "name": "Polarized Shield Guardian Skin 1",
+      "name": "Polarized Shield Guardian",
       "properties": {
         "biom": [
           "civilised", "futuristic"
@@ -290,7 +290,7 @@
     },
     "006_shield_guardian_2": {
       "description": "Exposure to extreme instances of magnetism might cause an as of yet unexplained transformation within Shield Guardians.The docile automatons undergo a rapid evolution, triggering both a physical transformation and a severe change in behaviour. A Polarized Shield Guardian is no longer bound to its master, resisting any attempt of external control with violent means. Their physique adapts to support a construct now geared towards offensive conflict resolution, rather than silent endurance. These creatures are exceedingly rare and, if able to break their shackles for good, wander the lands guided by their mysterious connection to both magical and magnetic forces.",
-      "name": "Polarized Shield Guardian Skin 2",
+      "name": "Polarized Shield Guardian",
       "properties": {
         "biom": [
           "civilised", "futuristic"
@@ -380,7 +380,7 @@
     },
     "009_skeleton_henchman_1": {
       "description": "If you are interested in exercising cross-regional influence and could not care less about your image,  Skeleton Henchmen are the ideal lynchpin for your entourage. They are loyal, cheap and, if you know your way around the local cemetery, rather easy to aquire. The basic Skeleton Henchman is a great foundation to expand upon, as they are highly customizable and require minimal upkeep and maintenance. Guard duty, law enforcement or warfare, Skeleton Henchmen provide satisfactory service in diverse work environments.",
-      "name": "Skeleton Henchman Skin 1",
+      "name": "Skeleton Henchman",
       "properties": {
         "biom": [
           "dungeon", "horror", "graves", "ruins"
@@ -410,7 +410,7 @@
     },
     "009_skeleton_henchman_2": {
       "description": "If you are interested in exercising cross-regional influence and could not care less about your image,  Skeleton Henchmen are the ideal lynchpin for your entourage. They are loyal, cheap and, if you know your way around the local cemetery, rather easy to aquire. The basic Skeleton Henchman is a great foundation to expand upon, as they are highly customizable and require minimal upkeep and maintenance. Guard duty, law enforcement or warfare, Skeleton Henchmen provide satisfactory service in diverse work environments.",
-      "name": "Skeleton Henchman Skin 2",
+      "name": "Skeleton Henchman",
       "properties": {
         "biom": [
           "dungeon", "horror", "graves", "ruins"
@@ -440,7 +440,7 @@
     },
     "009_skeleton_henchman_3": {
       "description": "If you are interested in exercising cross-regional influence and could not care less about your image,  Skeleton Henchmen are the ideal lynchpin for your entourage. They are loyal, cheap and, if you know your way around the local cemetery, rather easy to aquire. The basic Skeleton Henchman is a great foundation to expand upon, as they are highly customizable and require minimal upkeep and maintenance. Guard duty, law enforcement or warfare, Skeleton Henchmen provide satisfactory service in diverse work environments.",
-      "name": "Skeleton Henchman Skin 3",
+      "name": "Skeleton Henchman",
       "properties": {
         "biom": [
           "dungeon", "horror", "graves", "ruins"
@@ -470,7 +470,7 @@
     },
     "009_skeleton_henchman_4": {
       "description": "If you are interested in exercising cross-regional influence and could not care less about your image,  Skeleton Henchmen are the ideal lynchpin for your entourage. They are loyal, cheap and, if you know your way around the local cemetery, rather easy to aquire. The basic Skeleton Henchman is a great foundation to expand upon, as they are highly customizable and require minimal upkeep and maintenance. Guard duty, law enforcement or warfare, Skeleton Henchmen provide satisfactory service in diverse work environments.",
-      "name": "Skeleton Henchman Skin 4",
+      "name": "Skeleton Henchman",
       "properties": {
         "biom": [
           "dungeon", "horror", "graves", "ruins"
@@ -500,7 +500,7 @@
     },
     "009_skeleton_henchman_5": {
       "description": "If you are interested in exercising cross-regional influence and could not care less about your image,  Skeleton Henchmen are the ideal lynchpin for your entourage. They are loyal, cheap and, if you know your way around the local cemetery, rather easy to aquire. The basic Skeleton Henchman is a great foundation to expand upon, as they are highly customizable and require minimal upkeep and maintenance. Guard duty, law enforcement or warfare, Skeleton Henchmen provide satisfactory service in diverse work environments.",
-      "name": "Skeleton Henchman Skin 5",
+      "name": "Skeleton Henchman",
       "properties": {
         "biom": [
           "dungeon", "horror", "graves", "ruins"
@@ -530,7 +530,7 @@
     },
     "009_skeleton_henchman_6": {
       "description": "If you are interested in exercising cross-regional influence and could not care less about your image,  Skeleton Henchmen are the ideal lynchpin for your entourage. They are loyal, cheap and, if you know your way around the local cemetery, rather easy to aquire. The basic Skeleton Henchman is a great foundation to expand upon, as they are highly customizable and require minimal upkeep and maintenance. Guard duty, law enforcement or warfare, Skeleton Henchmen provide satisfactory service in diverse work environments.",
-      "name": "Skeleton Henchman Skin 6",
+      "name": "Skeleton Henchman",
       "properties": {
         "biom": [
           "dungeon", "horror", "graves", "ruins"
@@ -560,7 +560,7 @@
     },
     "010_horse_1": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Horse Skin 1",
+      "name": "Horse",
       "properties": {
         "biom": [
           "any"
@@ -590,7 +590,7 @@
     },
     "010_horse_2": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Horse Skin 2",
+      "name": "Horse",
       "properties": {
         "biom": [
           "any"
@@ -620,7 +620,7 @@
     },
     "010_horse_3": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Horse Skin 3",
+      "name": "Horse",
       "properties": {
         "biom": [
           "any"
@@ -650,7 +650,7 @@
     },
     "010_horse_4": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Horse Skin 4",
+      "name": "Horse",
       "properties": {
         "biom": [
           "any"
@@ -680,7 +680,7 @@
     },
     "010_horse_5": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Horse Skin 5",
+      "name": "Horse",
       "properties": {
         "biom": [
           "any"
@@ -710,7 +710,7 @@
     },
     "010_horse_6": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Horse Skin 6",
+      "name": "Horse",
       "properties": {
         "biom": [
           "any"
@@ -740,7 +740,7 @@
     },
     "010_horse_7": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Horse Skin 7",
+      "name": "Horse",
       "properties": {
         "biom": [
           "any"
@@ -770,7 +770,7 @@
     },
     "010_horse_8": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Horse Skin 8",
+      "name": "Horse",
       "properties": {
         "biom": [
           "any"
@@ -800,7 +800,7 @@
     },
     "010_horse_9": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Warhorse Skin 1",
+      "name": "Warhorse",
       "properties": {
         "biom": [
           "any"
@@ -830,7 +830,7 @@
     },
     "010_horse_10": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Warhorse Skin 2",
+      "name": "Warhorse",
       "properties": {
         "biom": [
           "any"
@@ -860,7 +860,7 @@
     },
     "010_horse_11": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Horse Skin 8",
+      "name": "Horse",
       "properties": {
         "biom": [
           "any"
@@ -890,7 +890,7 @@
     },
     "010_horse_12": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Warhorse Skin 3",
+      "name": "Warhorse",
       "properties": {
         "biom": [
           "any"
@@ -920,7 +920,7 @@
     },
     "010_horse_13": {
       "description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
-      "name": "Warhorse Skin 4",
+      "name": "Warhorse",
       "properties": {
         "biom": [
           "any"
@@ -948,7 +948,7 @@
         "videourl": "https://youtu.be/7TGK7ozG7xw"
       }
     },
-    "011_trained_fighter": {
+    "011_trained_fighter_1": {
       "description": "War veterans, gang members with military experience or nobles who spent a fair share of their youth under the watchful eyes of combat instructors - the Trained Fighter represents all of them and more. They are trained in the art of melee, have seen various combat scenarios and lived to tell the tale. While a rabble of peasants or a gang of highwaymen can be disposed of rather quickly and with little effort, an organized troop of Trained Fighters makes for a varitable fighting force, leading to a complex and tactical encounter for a low or even mid-level party.",
       "name": "Trained Fighter",
       "properties": {
@@ -971,13 +971,103 @@
         "stat_int": 14,
         "stat_str": 17,
         "stat_wis": 13,
-        "thumbnail": "011_trained_fighter-idle_face_still.webp",
+        "thumbnail": "011_trained_fighter_1-idle_face_still.webp",
         "type": [
 			"humanoid", "human"
         ],
         "videourl": "https://youtu.be/Htl7NhZueY4"
       }
-    },
+	   },
+    "011_trained_fighter_2": {
+      "description": "War veterans, gang members with military experience or nobles who spent a fair share of their youth under the watchful eyes of combat instructors - the Trained Fighter represents all of them and more. They are trained in the art of melee, have seen various combat scenarios and lived to tell the tale. While a rabble of peasants or a gang of highwaymen can be disposed of rather quickly and with little effort, an organized troop of Trained Fighters makes for a varitable fighting force, leading to a complex and tactical encounter for a low or even mid-level party.",
+      "name": "Trained Fighter",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": "2",
+        "fightingstyle": [
+          "melee","interactive", "tactical"
+        ],
+        "movement": ["walk"],
+        "purpose": ["minion", "pack"],
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52930930",
+        "size": "medium",
+        "stat_ac": 15,
+        "stat_cha": 10,
+        "stat_con": 16,
+        "stat_dex": 15,
+        "stat_hp": 33,
+        "stat_int": 14,
+        "stat_str": 17,
+        "stat_wis": 13,
+        "thumbnail": "011_trained_fighter_2-idle_face_still.webp",
+        "type": [
+			"humanoid", "human"
+        ],
+        "videourl": "https://youtu.be/Htl7NhZueY4"
+      }
+	},
+    "011_trained_fighter_3": {
+      "description": "War veterans, gang members with military experience or nobles who spent a fair share of their youth under the watchful eyes of combat instructors - the Trained Fighter represents all of them and more. They are trained in the art of melee, have seen various combat scenarios and lived to tell the tale. While a rabble of peasants or a gang of highwaymen can be disposed of rather quickly and with little effort, an organized troop of Trained Fighters makes for a varitable fighting force, leading to a complex and tactical encounter for a low or even mid-level party.",
+      "name": "Trained Fighter",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": "2",
+        "fightingstyle": [
+          "melee","interactive", "tactical"
+        ],
+        "movement": ["walk"],
+        "purpose": ["minion", "pack"],
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52930930",
+        "size": "medium",
+        "stat_ac": 15,
+        "stat_cha": 10,
+        "stat_con": 16,
+        "stat_dex": 15,
+        "stat_hp": 33,
+        "stat_int": 14,
+        "stat_str": 17,
+        "stat_wis": 13,
+        "thumbnail": "011_trained_fighter_3-idle_face_still.webp",
+        "type": [
+			"humanoid", "human"
+        ],
+        "videourl": "https://youtu.be/Htl7NhZueY4"
+      }
+	   },
+    "011_trained_fighter_4": {
+      "description": "War veterans, gang members with military experience or nobles who spent a fair share of their youth under the watchful eyes of combat instructors - the Trained Fighter represents all of them and more. They are trained in the art of melee, have seen various combat scenarios and lived to tell the tale. While a rabble of peasants or a gang of highwaymen can be disposed of rather quickly and with little effort, an organized troop of Trained Fighters makes for a varitable fighting force, leading to a complex and tactical encounter for a low or even mid-level party.",
+      "name": "Trained Fighter",
+      "properties": {
+        "biom": [
+          "any"
+        ],
+        "cr": "2",
+        "fightingstyle": [
+          "melee","interactive", "tactical"
+        ],
+        "movement": ["walk"],
+        "purpose": ["minion", "pack"],
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-52930930",
+        "size": "medium",
+        "stat_ac": 15,
+        "stat_cha": 10,
+        "stat_con": 16,
+        "stat_dex": 15,
+        "stat_hp": 33,
+        "stat_int": 14,
+        "stat_str": 17,
+        "stat_wis": 13,
+        "thumbnail": "011_trained_fighter_4-idle_face_still.webp",
+        "type": [
+			"humanoid", "human"
+        ],
+        "videourl": "https://youtu.be/Htl7NhZueY4"
+      }
+	},
     "012_cipactli": {
       "description": "Cipactli are the alleged offspring of a reptilian river god feared for his boundless rage. They roam mangrove forests and tropical river banks in packs, behaving very territorial and highly aggressive towards any kind of encroachment. Their social behaviour is suprisingly complex, with them displaying their martial skills through ritualized combat among each other. However, if isolated from its pack, a Cipactli can form an equally strong bond with any creature able to gain the Cipactli's respect by demonstrating superior prowess. Indigenous tribes have been observed utilizing bonded Cipactli as status symbols, as well as beasts of burden or instruments of war. Tribal legends tell of champions riding into battle mounted on a rampaging Cipactli, battering aside enemies and jungle trees alike in a display of rage worthy of their eponymous genitor.",
       "name": "Cipactli",
@@ -1070,7 +1160,7 @@
     },
     "015_werewolf_1": {
       "description": "The Wulfen Curse is an affliction of the soul. Some humanoids already carry the seed of beasthood with them, nurturing a dark hunger for violence and bloodshed. If they give in to this hunger, the dread curse takes hold, shaping the body in accordance to the soul. Over time the Wulfen comes to detest its humanoid body, the metaphysical affliction of the soul mirrored in the physical realm. They are, however, forever trapped between worlds, for they are neither wolf nor man, but a chimeric soul burdened with an appetite for both the chase and the catch.",
-      "name": "Werewolf Skin 1",
+      "name": "Werewolf",
       "properties": {
         "biom": [
           "horror", "forest", "road", "wilderness"
@@ -1100,7 +1190,7 @@
     },
     "015_werewolf_2": {
       "description": "The Wulfen Curse is an affliction of the soul. Some humanoids already carry the seed of beasthood with them, nurturing a dark hunger for violence and bloodshed. If they give in to this hunger, the dread curse takes hold, shaping the body in accordance to the soul. Over time the Wulfen comes to detest its humanoid body, the metaphysical affliction of the soul mirrored in the physical realm. They are, however, forever trapped between worlds, for they are neither wolf nor man, but a chimeric soul burdened with an appetite for both the chase and the catch.",
-      "name": "Werewolf Skin 2",
+      "name": "Werewolf",
       "properties": {
         "biom": [
           "horror", "forest", "road", "wilderness"
@@ -1130,7 +1220,7 @@
     },
     "015_werewolf_3": {
       "description": "The Wulfen Curse is an affliction of the soul. Some humanoids already carry the seed of beasthood with them, nurturing a dark hunger for violence and bloodshed. If they give in to this hunger, the dread curse takes hold, shaping the body in accordance to the soul. Over time the Wulfen comes to detest its humanoid body, the metaphysical affliction of the soul mirrored in the physical realm. They are, however, forever trapped between worlds, for they are neither wolf nor man, but a chimeric soul burdened with an appetite for both the chase and the catch.",
-      "name": "Werewolf Skin 3",
+      "name": "Werewolf",
       "properties": {
         "biom": [
           "horror", "forest", "road", "wilderness"
@@ -1160,7 +1250,7 @@
     },
     "016_wolf_1": {
       "description": "Those afflicted by the Curse of the Wulfen slowly lose themselves to the bestial urges festering within their soul. After each hunt it gets harder to take on human form and even the horrid shape of the man-wolf becomes difficult to maintain. Soon the Wolfkin have all but forgotten what it means to be human and gather around a strong Wulfen to lead them on their eternal hunt. Or just a normal Wolf. ",
-      "name": "Wolf 1",
+      "name": "Wolf",
       "properties": {
         "biom": [
           "wilderness"
@@ -1190,7 +1280,7 @@
     },
     "016_wolf_2": {
       "description": "Those afflicted by the Curse of the Wulfen slowly lose themselves to the bestial urges festering within their soul. After each hunt it gets harder to take on human form and even the horrid shape of the man-wolf becomes difficult to maintain. Soon the Wolfkin have all but forgotten what it means to be human and gather around a strong Wulfen to lead them on their eternal hunt. Or just a normal Wolf.",
-      "name": "Wolf 2",
+      "name": "Wolf",
       "properties": {
         "biom": [
           "wilderness", "forest", "horror"
@@ -1249,7 +1339,7 @@
       }
     },
     "016_wolf_4": {
-      "description": "",
+      "description": "For all their might, wolf packs live dangerous lifes on a knife’s edge. Bad weather, lack of food or the confrontation with a superior opponent can spell certain death for a whole pack. And even those who narrowly escape death may succumb to the hardships of the wilderness. But some adapt to a life of solitude. Their constant fight for survival shapes them to be more ferocious in combat and forces them to rely on their keen senses even more. They develop a sharper instinct for survival and become more cunning than their pack-hunting kin, often stalking their chosen prey for days before deciding on the ideal moment to strike.",
       "name": "Lone Wolf",
       "properties": {
         "biom": [
@@ -1310,7 +1400,7 @@
     },
     "018_giant_spider_1": {
       "description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
-      "name": "Spider Skin 1",
+      "name": "Weblurker Arachnid",
       "properties": {
         "biom": [
           "cave", "forest","underground", "dungeon", "wilderness", "graves", "ruins", "road", "horror"
@@ -1340,7 +1430,7 @@
     },
     "018_giant_spider_2": {
       "description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
-      "name": "Spider Skin 2",
+      "name": "Weblurker Arachnid",
       "properties": {
         "biom": [
           "cave", "forest","underground", "dungeon", "wilderness", "graves", "ruins", "road", "horror"
@@ -1370,7 +1460,7 @@
     },
     "018_giant_spider_3": {
       "description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
-      "name": "Spider Skin 3",
+      "name": "Weblurker Arachnid",
       "properties": {
         "biom": [
           "cave", "forest","underground", "dungeon", "wilderness", "graves", "ruins", "road", "horror"
@@ -1400,7 +1490,7 @@
     },
     "018_giant_spider_4": {
       "description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
-      "name": "Spider Skin 4",
+      "name": "Weblurker Arachnid",
       "properties": {
         "biom": [
           "cave", "forest","underground", "dungeon", "wilderness", "graves", "ruins", "road", "horror"
@@ -1430,7 +1520,7 @@
     },
     "018_giant_spider_5": {
       "description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
-      "name": "Spider Skin 5",
+      "name": "Weblurker Arachnid",
       "properties": {
         "biom": [
           "cave", "forest","underground", "dungeon", "wilderness", "graves", "ruins", "road", "horror"
@@ -1460,7 +1550,7 @@
     },
     "018_giant_spider_6": {
       "description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
-      "name": "Spider Skin 6",
+      "name": "Weblurker Arachnid",
       "properties": {
         "biom": [
           "cave", "forest","underground", "dungeon", "wilderness", "graves", "ruins", "road", "horror"
@@ -1490,7 +1580,7 @@
     },
     "018_giant_spider_7": {
       "description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
-      "name": "Spider Skin 7",
+      "name": "Weblurker Arachnid",
       "properties": {
         "biom": [
          "cave", "forest","underground", "dungeon", "wilderness", "graves", "ruins", "road", "horror"
@@ -1520,7 +1610,7 @@
     },
     "018_giant_spider_8": {
       "description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
-      "name": "Spider Skin 8",
+      "name": "Weblurker Arachnid",
       "properties": {
         "biom": [
           "cave", "forest","underground", "dungeon", "wilderness", "graves", "ruins", "road", "horror"
@@ -1608,7 +1698,7 @@
         "videourl": "https://youtu.be/QiNEu3NUXwQ"
       }
     },
-    "021_Ghoul_wretchling": {
+    "021_ghoul_wretchling": {
       "description": "The scratching and scrawling noises of Ghoul Wretchlings in the walls and under the floor boards herald an incoming Ghoul Invasion. In the following nights people disappear from the streets or the safety of their homes, overwhelmed and paralyzed by  swarms of the scrawny Ghoul Wretchlings, before being dragged to the underground lairs as nourishment for the advancing main force of Ghoulish invaders.",
       "name": "Ghoul Wretchling",
       "properties": {
@@ -1631,7 +1721,7 @@
         "stat_int": 6,
         "stat_str": 8,
         "stat_wis": 7,
-        "thumbnail": "021_Ghoul_wretchling-idle_face_still.webp",
+        "thumbnail": "021_ghoul_wretchling-idle_face_still.webp",
         "type": [
 			"undead", "ghoul"
         ],
@@ -1730,7 +1820,7 @@
     },
     "025_trained_archer_1": {
       "description": "Ranger, hunters or city guards standing watch on battlements or rooftops - the Trained Archer is a stand-in for every man and woman well versed in the art of the bow. They are capable sharpshooters and can be relied upon in the heat of battle, an ambush or even an assassination. With the weaker members of a party threatened with a barrage of arrows, an organized unit of Trained Archers makes for a flexible and deadly force, leading to a complex and tactical encounter for a low or even mid-level party.",
-      "name": "Trained Archer Skin 1",
+      "name": "Trained Archer",
       "properties": {
         "biom": [
           "any"
@@ -1760,7 +1850,7 @@
     },
     "025_trained_archer_2": {
       "description": "Ranger, hunters or city guards standing watch on battlements or rooftops - the Trained Archer is a stand-in for every man and woman well versed in the art of the bow. They are capable sharpshooters and can be relied upon in the heat of battle, an ambush or even an assassination. With the weaker members of a party threatened with a barrage of arrows, an organized unit of Trained Archers makes for a flexible and deadly force, leading to a complex and tactical encounter for a low or even mid-level party.",
-      "name": "Trained Archer Skin 2",
+      "name": "Trained Archer",
       "properties": {
         "biom": [
           "any"
@@ -1790,7 +1880,7 @@
     },
     "025_trained_archer_3": {
       "description": "Ranger, hunters or city guards standing watch on battlements or rooftops - the Trained Archer is a stand-in for every man and woman well versed in the art of the bow. They are capable sharpshooters and can be relied upon in the heat of battle, an ambush or even an assassination. With the weaker members of a party threatened with a barrage of arrows, an organized unit of Trained Archers makes for a flexible and deadly force, leading to a complex and tactical encounter for a low or even mid-level party.",
-      "name": "Trained Archer Skin 3",
+      "name": "Trained Archer",
       "properties": {
         "biom": [
           "any"
@@ -1820,7 +1910,7 @@
     },
     "026_vampire_spawn_1": {
       "description": "Everlasting mist floods the land of Barovia, the cursed realm of Strahd von Zahrovich. Barovia teems with dreadful creatures, most of which are hellbent on making the player's stay in their realm a harrowing one. For Spooktober 2021 we decided to give the iconic Vampire Spawns roaming the crypts and castles of Curse of Strahd a unique spin! The Barovian Vampire spawn is closely bonded to Strahd, who is the land himself, as we all know! This is reflected by increased mental stats and a strange symbiotic relationship with the mist that wreathes it's masters domain, granting a formidable foe even more power and making for a creature able to haunt even veteran players' nightmares!",
-      "name": "Vampire Spawn Skin 1",
+      "name": "Vampire Spawn",
       "properties": {
         "biom": [
           "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground", "desert"
@@ -1850,7 +1940,7 @@
     },
     "026_vampire_spawn_2": {
       "description": "Everlasting mist floods the land of Barovia, the cursed realm of Strahd von Zahrovich. Barovia teems with dreadful creatures, most of which are hellbent on making the player's stay in their realm a harrowing one. For Spooktober 2021 we decided to give the iconic Vampire Spawns roaming the crypts and castles of Curse of Strahd a unique spin! The Barovian Vampire spawn is closely bonded to Strahd, who is the land himself, as we all know! This is reflected by increased mental stats and a strange symbiotic relationship with the mist that wreathes it's masters domain, granting a formidable foe even more power and making for a creature able to haunt even veteran players' nightmares!",
-      "name": "Vampire Spawn Skin 2",
+      "name": "Vampire Spawn",
       "properties": {
         "biom": [
           "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground", "desert"
@@ -1880,7 +1970,7 @@
     },
     "026_vampire_spawn_3": {
       "description": "Everlasting mist floods the land of Barovia, the cursed realm of Strahd von Zahrovich. Barovia teems with dreadful creatures, most of which are hellbent on making the player's stay in their realm a harrowing one. For Spooktober 2021 we decided to give the iconic Vampire Spawns roaming the crypts and castles of Curse of Strahd a unique spin! The Barovian Vampire spawn is closely bonded to Strahd, who is the land himself, as we all know! This is reflected by increased mental stats and a strange symbiotic relationship with the mist that wreathes it's masters domain, granting a formidable foe even more power and making for a creature able to haunt even veteran players' nightmares!",
-      "name": "Vampire Spawn Skin 3",
+      "name": "Vampire Spawn",
       "properties": {
         "biom": [
           "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground", "desert"
@@ -1910,7 +2000,7 @@
     },
     "026_vampire_spawn_4": {
       "description": "Everlasting mist floods the land of Barovia, the cursed realm of Strahd von Zahrovich. Barovia teems with dreadful creatures, most of which are hellbent on making the player's stay in their realm a harrowing one. For Spooktober 2021 we decided to give the iconic Vampire Spawns roaming the crypts and castles of Curse of Strahd a unique spin! The Barovian Vampire spawn is closely bonded to Strahd, who is the land himself, as we all know! This is reflected by increased mental stats and a strange symbiotic relationship with the mist that wreathes it's masters domain, granting a formidable foe even more power and making for a creature able to haunt even veteran players' nightmares!",
-      "name": "Vampire Spawn Skin 4",
+      "name": "Vampire Spawn",
       "properties": {
         "biom": [
           "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground", "desert"
@@ -1940,7 +2030,7 @@
     },
     "027_revenant_knight_1": {
       "description": "The once great Knights of the Order are tragic figures, rust-flaked shades of their former selves, filled only with poisobous thoughts of vengeance and seething hatred. Our Revenant Knight is a tribute to the fallen Order of the Silver Dragon and leans more heaviliy into the tragic nobility of an undead order of Dragon-sworn Knights, with the icy essence of Argynvost still clinging to their ruined armour, in a desperate attempt to shield them from harm even in death. The lingering soul of the Silver Dragon still permeates his brothers in arms, empowering them in dynamic and unique ways.",
-      "name": "Revenant Knight Skin 1",
+      "name": "Revenant Knight",
       "properties": {
         "biom": [
           "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground"
@@ -1970,7 +2060,7 @@
     },
     "027_revenant_knight_2": {
       "description": "The once great Knights of the Order are tragic figures, rust-flaked shades of their former selves, filled only with poisobous thoughts of vengeance and seething hatred. Our Revenant Knight is a tribute to the fallen Order of the Silver Dragon and leans more heaviliy into the tragic nobility of an undead order of Dragon-sworn Knights, with the icy essence of Argynvost still clinging to their ruined armour, in a desperate attempt to shield them from harm even in death. The lingering soul of the Silver Dragon still permeates his brothers in arms, empowering them in dynamic and unique ways.",
-      "name": "Revenant Knight Skin 2",
+      "name": "Revenant Knight",
       "properties": {
         "biom": [
           "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground"
@@ -2000,7 +2090,7 @@
     },
     "027_revenant_knight_3": {
       "description": "The once great Knights of the Order are tragic figures, rust-flaked shades of their former selves, filled only with poisobous thoughts of vengeance and seething hatred. Our Revenant Knight is a tribute to the fallen Order of the Silver Dragon and leans more heaviliy into the tragic nobility of an undead order of Dragon-sworn Knights, with the icy essence of Argynvost still clinging to their ruined armour, in a desperate attempt to shield them from harm even in death. The lingering soul of the Silver Dragon still permeates his brothers in arms, empowering them in dynamic and unique ways.",
-      "name": "Revenant Knight Skin 3",
+      "name": "Revenant Knight",
       "properties": {
         "biom": [
           "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground"
@@ -2030,7 +2120,7 @@
     },
     "027_revenant_knight_4": {
       "description": "The once great Knights of the Order are tragic figures, rust-flaked shades of their former selves, filled only with poisobous thoughts of vengeance and seething hatred. Our Revenant Knight is a tribute to the fallen Order of the Silver Dragon and leans more heaviliy into the tragic nobility of an undead order of Dragon-sworn Knights, with the icy essence of Argynvost still clinging to their ruined armour, in a desperate attempt to shield them from harm even in death. The lingering soul of the Silver Dragon still permeates his brothers in arms, empowering them in dynamic and unique ways.",
-      "name": "Revenant Knight Skin 1",
+      "name": "Revenant Knight",
       "properties": {
         "biom": [
           "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground"
@@ -2090,7 +2180,7 @@
     },
     "029_infernal_steed_1": {
       "description": "This equine nightmare enjoys soaring through the nightly sky, terrorizing local villagers in their very, very flammable homes and (sometimes literally) booting uppity adventurers from its masters castle.",
-      "name": "infernal Steed Skin 1",
+      "name": "infernal Steed",
       "properties": {
         "biom": [
           "graves", "horror", "forest", "civilised", "infernal", "road", "wilderness"
@@ -2120,7 +2210,7 @@
     },
     "029_infernal_steed_2": {
       "description": "This equine nightmare enjoys soaring through the nightly sky, terrorizing local villagers in their very, very flammable homes and (sometimes literally) booting uppity adventurers from its masters castle.",
-      "name": "infernal Steed Skin 2",
+      "name": "infernal Steed",
       "properties": {
         "biom": [
           "graves", "horror", "forest", "civilised", "infernal", "road", "wilderness"
@@ -2150,7 +2240,7 @@
     },
     "029_infernal_steed_3": {
       "description": "This equine nightmare enjoys soaring through the nightly sky, terrorizing local villagers in their very, very flammable homes and (sometimes literally) booting uppity adventurers from its masters castle.",
-      "name": "infernal Steed Skin 3",
+      "name": "infernal Steed",
       "properties": {
         "biom": [
           "graves", "horror", "forest", "civilised", "infernal", "road", "wilderness"
