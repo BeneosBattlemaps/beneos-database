@@ -4640,6 +4640,7 @@
           ""
         ],
         "videourl": "https://youtu.be/3gbegLEP7h0"
+	 }	
     },
     "079_mummy": {
       "description": "Ages ago Ankh was ruled by ancient god-beasts, forcing their subjects to conquer a vast empire in their name. The surrounding realms where powerless against the god-beasts otherworldly might and divine wrath and soon an empire was carved from bone, blood and sand with mighty monuments of worship rising from the desert ground wherever the slave-armies of Ankh marched. The god-beasts were cast down using the cthonian Duat Blades, their wielders were lauded as heroes and ruled Ankh for ages, their lifespan unnaturally extended by the cursed blades. As they eventually died, they would rise again and reclaim their blades, their embalmed and mummified bodies serving as hollow vessels for the energies of the Duat. Legions of shambling mummies follow in their wake, once more called to war by their queens and princes, now waging war on their own erstwhile kin-blood.",
@@ -5239,7 +5240,7 @@
       "description": "Soulshaper Shamans oversee a tribe’s death rites and stand vigil during the transition of a goblin’s soul beyond the mortal veil. They do this to take note of where this particular soul goes, to eventually drag it back to fulfill various purposes, should the need arise. Necessity is the mother of invention, goblins die in droves - why not capitalise on that? The goblins are thankful for their ancestor’s service and both live and die knowing that their duty does not end in death. A Shaman’s word carries a lot of weight, as they are known to converse with the spirits of the afterlife and carry the knowledge of the ancestors. Most shamans however quickly find out that dying does not automatically impart knowledge and most ancestors are as dense in death as they were in life. This realisation usually sours a Soulshaper Shaman’s mood and factors into their characteristic bitterness.",
       "name": "Goblin Soulshaper Shaman",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal","graves"],
         "cr": "1",
         "fightingstyle": ["interactive","pack"],
         "movement": ["Walk"],
@@ -5266,7 +5267,7 @@
       "description": "The shambling and frankly horrifying Soulstarved Abominations are Soulshaper Shaman’s failed attempt to just kind of stuff a goblin’s soul back into a vessel, be it their former body or an vaguely goblin-shaped flesh-construct. Still, something must have worked out as planned, as these aptly named Abominations walk and fight, despite their unsettling appearence and even more unsettling hunger for flesh. If a Soulshaper Shaman is part of a Raid Rabble, the Abominations can be found shuffling in its wake, herded by their creator into combat as unliving weapons.",
       "name": "Goblin Soulstarved Abomination",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal","graves","horror"],
         "cr": "0,5",
         "fightingstyle": ["charge","shock","regeneration"],
         "movement": ["Walk"],
@@ -5293,7 +5294,7 @@
       "description": "The shambling and frankly horrifying Soulstarved Abominations are Soulshaper Shaman’s failed attempt to just kind of stuff a goblin’s soul back into a vessel, be it their former body or an vaguely goblin-shaped flesh-construct. Still, something must have worked out as planned, as these aptly named Abominations walk and fight, despite their unsettling appearence and even more unsettling hunger for flesh. If a Soulshaper Shaman is part of a Raid Rabble, the Abominations can be found shuffling in its wake, herded by their creator into combat as unliving weapons.",
       "name": "Goblin Soulstarved Abomination",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal","graves","horror"],
         "cr": "0,5",
         "fightingstyle": ["charge","shock","regeneration"],
         "movement": ["Walk"],
@@ -5320,11 +5321,11 @@
       "description": "The shambling and frankly horrifying Soulstarved Abominations are Soulshaper Shaman’s failed attempt to just kind of stuff a goblin’s soul back into a vessel, be it their former body or an vaguely goblin-shaped flesh-construct. Still, something must have worked out as planned, as these aptly named Abominations walk and fight, despite their unsettling appearence and even more unsettling hunger for flesh. If a Soulshaper Shaman is part of a Raid Rabble, the Abominations can be found shuffling in its wake, herded by their creator into combat as unliving weapons.",
       "name": "Goblin Soulstarved Abomination",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal","graves" ],
         "cr": "0,5",
         "fightingstyle": ["charge","shock","regeneration"],
         "movement": ["Walk"],
-        "purpose": ["minion","gimmick", "damage"],
+        "purpose": ["minion","gimmick","damage"],
         "releaseurl": "",
         "size": "Small",
         "stat_ac": 13,
@@ -5345,4 +5346,3 @@
   }
   }
   }
-}
