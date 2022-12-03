@@ -3998,6 +3998,786 @@
          "type": "Scenery",
          "videourl": ""
       }
+     },
+    "57-01_Forest_Bright_Path_1-4K_BM": {
+       "name": "Forest Bright Path 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Path","Exteriour"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-01_Forest_Bright_Path_1-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-01_Forest_Bright_Path_1-4K_Scen": {
+       "name": "Forest Bright Path 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Path","Exteriour"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-01_Forest_Bright_Path_1-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-02_Forest_Bright_River_1-4K_BM": {
+       "name": "Forest Bright River 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","River","Exteriour"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-02_Forest_Bright_River_1-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-02_Forest_Bright_River_1-4K_Scen": {
+       "name": "Forest Bright River 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","River","Exteriour"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-02_Forest_Bright_River_1-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-03_Forest_Bright_Rocks-4K_BM": {
+       "name": "Forest Bright Rocks",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Rock","Exteriour"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-03_Forest_Bright_Rocks-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-03_Forest_Bright_Rocks-4K_Scen": {
+       "name": "Forest Bright Rocks",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Rock","Exteriour"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-03_Forest_Bright_Rocks-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-04_Forest_Bright_River_2-4K_BM": {
+       "name": "Forest Bright River 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","River","Exteriour"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-04_Forest_Bright_River_2-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-04_Forest_Bright_River_2-4K_Scen": {
+       "name": "Forest Bright River 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","River","Exteriour"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-04_Forest_Bright_River_2-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-05_Forest_Bright_Clearing-4K_BM": {
+       "name": "Forest Bright Clearing",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Exteriour"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-05_Forest_Bright_Clearing-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-05_Forest_Bright_Clearing-4K_Scen": {
+       "name": "Forest Bright Clearing",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Exteriour"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-05_Forest_Bright_Clearing-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-06_Forest_Bright_Path_2-4K_BM": {
+       "name": "Forest Bright Path 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Path","Exteriour"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-06_Forest_Bright_Path_2-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-06_Forest_Bright_Path_2-4K_Scen": {
+       "name": "Forest Bright Path 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Path","Exteriour"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-06_Forest_Bright_Path_2-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-07_Forest_Bright_Path_Camp-4K_BM": {
+       "name": "Forest Bright Path Camp",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Exteriour","Camp"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-07_Forest_Bright_Path_Camp-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-07_Forest_Bright_Path_Camp-4K_Scen": {
+       "name": "Forest Bright Path Camp",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Exteriour","Camp"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-07_Forest_Bright_Path_Camp-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-08_Forest_Dark_Path_1-4K_BM": {
+       "name": "Forest Dark Path 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Path","Exteriour","Horror"],
+         "brightness": "Dark",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-08_Forest_Dark_Path_1-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-08_Forest_Dark_Path_1-4K_Scen": {
+       "name": "Forest Dark Path 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Path","Exteriour","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-08_Forest_Dark_Path_1-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-09_Forest_Dark_River_1-4K_BM": {
+       "name": "Forest Dark River 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","River","Exteriour","Horror"],
+         "brightness": "Dark",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-09_Forest_Dark_River_1-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-09_Forest_Dark_River_1-4K_Scen": {
+       "name": "Forest Dark River 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","River","Exteriour","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-09_Forest_Dark_River_1-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-10_Forest_Dark_Rocks-4K_BM": {
+       "name": "Forest Dark Rocks",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Rock","Exteriour","Horror"],
+         "brightness": "Dark",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-10_Forest_Dark_Rocks-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-10_Forest_Dark_Rocks-4K_Scen": {
+       "name": "Forest Dark Rocks",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Rock","Exteriour","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-10_Forest_Dark_Rocks-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-11_Forest_Dark_River_2-4K_BM": {
+       "name": "Forest Dark River 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","River","Exteriour","Horror"],
+         "brightness": "Dark",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-11_Forest_Dark_River_2-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-11_Forest_Dark_River_2-4K_Scen": {
+       "name": "Forest Dark River 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","River","Exteriour","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-11_Forest_Dark_River_2-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-12_Forest_Dark_Clearing-4K_BM": {
+       "name": "Forest Dark Clearing",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Exteriour","Horror"],
+         "brightness": "Dark",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-12_Forest_Dark_Clearing-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-12_Forest_Dark_Clearing-4K_Scen": {
+       "name": "Forest Dark Clearing",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Exteriour","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-12_Forest_Dark_Clearing-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-13_Forest_Dark_Path_2-4K_BM": {
+       "name": "Forest Dark Path 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Path","Exteriour","Horror"],
+         "brightness": "Dark",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-13_Forest_Dark_Path_2-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-13_Forest_Dark_Path_2-4K_Scen": {
+       "name": "Forest Dark Path 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Path","Exteriour","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-13_Forest_Dark_Path_2-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-14_Forest_Dark_Path_Camp-4K_BM": {
+       "name": "Forest Dark Path Camp",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Exteriour","Camp","Horror"],
+         "brightness": "Dark",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-14_Forest_Dark_Path_Camp-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-14_Forest_Dark_Path_Camp-4K_Scen": {
+       "name": "Forest Dark Path Camp",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Exteriour","Camp","Horror"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-14_Forest_Dark_Path_Camp-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-15_Forest_Snow_Path_1-4K_BM": {
+       "name": "Forest Snow Path 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Path","Exteriour","Snow"],
+         "brightness": "Bright",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-15_Forest_Snow_Path_1-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-15_Forest_Snow_Path_1-4K_Scen": {
+       "name": "Forest Snow Path 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Path","Exteriour","Snow"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-15_Forest_Snow_Path_1-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-16_Forest_Snow_River_1-4K_BM": {
+       "name": "Forest Snow River 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","River","Exteriour","Snow"],
+         "brightness": "Bright",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-16_Forest_Snow_River_1-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-16_Forest_Snow_River_1-4K_Scen": {
+       "name": "Forest Snow River 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","River","Exteriour","Snow"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-16_Forest_Snow_River_1-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-17_Forest_Snow_Rocks-4K_BM": {
+       "name": "Forest Snow Rocks",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Rock","Exteriour","Snow"],
+         "brightness": "Bright",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-17_Forest_Snow_Rocks-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-17_Forest_Snow_Rocks-4K_Scen": {
+       "name": "Forest Snow Rocks",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Rock","Exteriour","Snow"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-17_Forest_Snow_Rocks-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-18_Forest_Snow_River_2-4K_BM": {
+       "name": "Forest Snow River 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","River","Exteriour","Snow"],
+         "brightness": "Bright",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-18_Forest_Snow_River_2-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-18_Forest_Snow_River_2-4K_Scen": {
+       "name": "Forest Snow River 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","River","Exteriour","Snow"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-18_Forest_Snow_River_2-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-19_Forest_Snow_Clearing-4K_BM": {
+       "name": "Forest Snow Clearing",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Exteriour","Snow"],
+         "brightness": "Bright",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-19_Forest_Snow_Clearing-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-19_Forest_Snow_Clearing-4K_Scen": {
+       "name": "Forest Snow Clearing",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Exteriour","Snow"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-19_Forest_Snow_Clearing-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-20_Forest_Snow_Path_2-4K_BM": {
+       "name": "Forest Snow Path 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Path","Exteriour","Snow"],
+         "brightness": "Bright",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-20_Forest_Snow_Path_2-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-20_Forest_Snow_Path_2-4K_Scen": {
+       "name": "Forest Snow Path 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Path","Exteriour","Snow"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-20_Forest_Snow_Path_2-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-21_Forest_Snow_Path_Camp-4K_BM": {
+       "name": "Forest Snow Path Camp",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Exteriour","Camp","Snow"],
+         "brightness": "Bright",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-21_Forest_Snow_Path_Camp-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-21_Forest_Snow_Path_Camp-4K_Scen": {
+       "name": "Forest Snow Path Camp",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Exteriour","Camp","Snow"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-21_Forest_Snow_Path_Camp-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-03_Forest_Bright_Rocks-4K_BM": {
+       "name": "Forest Bright Rocks",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Rock","Exteriour"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-03_Forest_Bright_Rocks-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-03_Forest_Bright_Rocks-4K_Scen": {
+       "name": "Forest Bright Rocks",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Rock","Exteriour"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-03_Forest_Bright_Rocks-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-04_Forest_Bright_River_2-4K_BM": {
+       "name": "Forest Bright River 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","River","Exteriour"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-04_Forest_Bright_River_2-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-04_Forest_Bright_River_2-4K_Scen": {
+       "name": "Forest Bright River 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","River","Exteriour"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-04_Forest_Bright_River_2-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-05_Forest_Bright_Clearing-4K_BM": {
+       "name": "Forest Bright Clearing",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Exteriour"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-05_Forest_Bright_Clearing-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-05_Forest_Bright_Clearing-4K_Scen": {
+       "name": "Forest Bright Clearing",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Exteriour"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-05_Forest_Bright_Clearing-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-06_Forest_Bright_Path_2-4K_BM": {
+       "name": "Forest Bright Path 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Path","Exteriour"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-06_Forest_Bright_Path_2-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-06_Forest_Bright_Path_2-4K_Scen": {
+       "name": "Forest Bright Path 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Path","Exteriour"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-06_Forest_Bright_Path_2-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "57-07_Forest_Bright_Path_Camp-4K_BM": {
+       "name": "Forest Bright Path Camp",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Exteriour","Camp"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-07_Forest_Bright_Path_Camp-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "57-07_Forest_Bright_Path_Camp-4K_Scen": {
+       "name": "Forest Bright Path Camp",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Forest","Exteriour","Camp"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "57_Modular_Forest_1",
+         "releaseurl": "",
+         "sibling": "57-07_Forest_Bright_Path_Camp-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
     }
   }
 }
