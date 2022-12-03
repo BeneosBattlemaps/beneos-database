@@ -4671,7 +4671,7 @@
     },
     "080_sharakhul": {
       "description": "Ages ago, the great dragon Sharakhul fell victim to a hive of Mind Tyrants, a psionically gifted race of subterran conquerers and slavers. Seeking a new vessel for their abominable hive mind, they spend decades torturing the dragon into submission, bent on erasing his spirit, originally intent on leaving the body intact. But the great dragon resisted and as punishment they psychically flayed him, stripping away his indomitable scales and reducing his form to a mass of undulating flesh.His body flayed and defiled, his mind fractured in unmendable ways, the broken husk of Sharakhul rose from the depths and sought exile, pouring himself into foul methods of blood magic in a desperate attempt to mend his flesh and restore his scales",
-      "name": "Sharakhul the Flayed",
+      "name": "Sharakhul",
       "properties": {
         "biom": ["ruins", "dungeon", "lair", "horror", "wilderness", "mountains", "wasteland"],
         "cr": "20",
