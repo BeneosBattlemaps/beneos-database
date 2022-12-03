@@ -1,19 +1,19 @@
 ﻿{
   "tag_description": {
     "melee": {
-      "name": "melee",
+      "name": "Melee",
       "description": "This creature excels at close combat and has limited or no ranged combat capabilities."
     },
     "ranged": {
-      "name": "ranged",
+      "name": "Ranged",
       "description": "This creature attacks from afar and has limited or no melee combat capabilities."
     },
     "ambusher": {
-      "name": "ambusher",
+      "name": "Ambusher",
       "description": "This creature ideally starts combat from a hidden position and waits for the optimal moment to attack."
     },
     "airborne": {
-      "name": "airborne",
+      "name": "Airborne",
       "description": "This creature has a flying speed and can continuously stay at a distance."
     },
     "charge": {
@@ -21,11 +21,11 @@
       "description": "This creature seeks close combat from the get-go and will continue to do so."
     },
     "predator": {
-      "name": "predator",
+      "name": "Predator",
       "description": "This creature stalks its prey and will withdraw from combat to attack again later. "
     },
     "pack": {
-      "name": "pack",
+      "name": "Pack",
       "description": "This creature is best utilized as part of a larger group of similar creatures."
     },
     "regeneration": {
@@ -61,7 +61,7 @@
       "description": "This creature is more than capable of actually killing a player character."
     },
     "aoe": {
-      "name": "aoe",
+      "name": "AoE",
       "description": "This creature heavily utilizes >Area Of Effect< damage. "
     },
     "interactive": {
@@ -4910,6 +4910,439 @@
         ],
         "videourl": "https://youtu.be/1fXYH0LBPtk"
     }
+	},
+    "000_goblin_pack_1_crookshank_1": {
+      "description": "Crooskhanks mark the rank and file of a Raid Rabble, both conscripted and willing participants of mixed age and skill. Most goblins are used to fight creatures larger than them and they make the most of it, trying to swarm enemies to bring them down, where their eponymous crooked blades are waiting. Goblins aren’t eager to die fighting, as each dead goblin weakens the tribe. This utilitarian view on survival has earned them a reputation of cowardice, but if Goblins commit to a fight, they do so without hesitation, fully aware of their mortality and knowing that their death will only empower the raid, as their Shaman draws great strength from them.",
+      "name": "Goblin Crookshank",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "cr": "0,5",
+        "fightingstyle": ["ambusher","pack"],
+        "movement": ["Walk"],
+        "purpose": ["minion","damage"],
+        "releaseurl": "",
+        "size": "Small",
+        "stat_ac": 12,
+        "stat_cha": 8,
+        "stat_con": 10,
+        "stat_dex": 14,
+        "stat_hp": 11,
+        "stat_int": 12,
+        "stat_str": 8,
+        "stat_wis": 13,
+        "thumbnail": "000_goblin_pack_1_crookshank_1-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "goblin"
+        ],
+        "videourl": ""
+    }
+	},
+    "000_goblin_pack_1_crookshank_2": {
+      "description": "Crooskhanks mark the rank and file of a Raid Rabble, both conscripted and willing participants of mixed age and skill. Most goblins are used to fight creatures larger than them and they make the most of it, trying to swarm enemies to bring them down, where their eponymous crooked blades are waiting. Goblins aren’t eager to die fighting, as each dead goblin weakens the tribe. This utilitarian view on survival has earned them a reputation of cowardice, but if Goblins commit to a fight, they do so without hesitation, fully aware of their mortality and knowing that their death will only empower the raid, as their Shaman draws great strength from them.",
+      "name": "Goblin Crookshank",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "cr": "0,5",
+        "fightingstyle": ["ambusher","pack"],
+        "movement": ["Walk"],
+        "purpose": ["minion","damage"],
+        "releaseurl": "",
+        "size": "Small",
+        "stat_ac": 12,
+        "stat_cha": 8,
+        "stat_con": 10,
+        "stat_dex": 14,
+        "stat_hp": 11,
+        "stat_int": 12,
+        "stat_str": 8,
+        "stat_wis": 13,
+        "thumbnail": "000_goblin_pack_1_crookshank_2-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "goblin"
+        ],
+        "videourl": ""
+    }
+	},
+    "000_goblin_pack_1_crookshank_3": {
+      "description": "Crooskhanks mark the rank and file of a Raid Rabble, both conscripted and willing participants of mixed age and skill. Most goblins are used to fight creatures larger than them and they make the most of it, trying to swarm enemies to bring them down, where their eponymous crooked blades are waiting. Goblins aren’t eager to die fighting, as each dead goblin weakens the tribe. This utilitarian view on survival has earned them a reputation of cowardice, but if Goblins commit to a fight, they do so without hesitation, fully aware of their mortality and knowing that their death will only empower the raid, as their Shaman draws great strength from them.",
+      "name": "Goblin Crookshank",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "cr": "0,5",
+        "fightingstyle": ["ambusher","pack"],
+        "movement": ["Walk"],
+        "purpose": ["minion","damage"],
+        "releaseurl": "",
+        "size": "Small",
+        "stat_ac": 12,
+        "stat_cha": 8,
+        "stat_con": 10,
+        "stat_dex": 14,
+        "stat_hp": 11,
+        "stat_int": 12,
+        "stat_str": 8,
+        "stat_wis": 13,
+        "thumbnail": "000_goblin_pack_1_crookshank_3-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "goblin"
+        ],
+        "videourl": ""
+    }
+	},
+    "000_goblin_pack_1_crookshank_4": {
+      "description": "Crooskhanks mark the rank and file of a Raid Rabble, both conscripted and willing participants of mixed age and skill. Most goblins are used to fight creatures larger than them and they make the most of it, trying to swarm enemies to bring them down, where their eponymous crooked blades are waiting. Goblins aren’t eager to die fighting, as each dead goblin weakens the tribe. This utilitarian view on survival has earned them a reputation of cowardice, but if Goblins commit to a fight, they do so without hesitation, fully aware of their mortality and knowing that their death will only empower the raid, as their Shaman draws great strength from them.",
+      "name": "Goblin Crookshank",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "cr": "0,5",
+        "fightingstyle": ["ambusher","pack"],
+        "movement": ["Walk"],
+        "purpose": ["minion","damage"],
+        "releaseurl": "",
+        "size": "Small",
+        "stat_ac": 12,
+        "stat_cha": 8,
+        "stat_con": 10,
+        "stat_dex": 14,
+        "stat_hp": 11,
+        "stat_int": 12,
+        "stat_str": 8,
+        "stat_wis": 13,
+        "thumbnail": "000_goblin_pack_1_crookshank_4-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "goblin"
+        ],
+        "videourl": ""
+    }
+	},
+    "000_goblin_pack_1_crookshank_5": {
+      "description": "Crooskhanks mark the rank and file of a Raid Rabble, both conscripted and willing participants of mixed age and skill. Most goblins are used to fight creatures larger than them and they make the most of it, trying to swarm enemies to bring them down, where their eponymous crooked blades are waiting. Goblins aren’t eager to die fighting, as each dead goblin weakens the tribe. This utilitarian view on survival has earned them a reputation of cowardice, but if Goblins commit to a fight, they do so without hesitation, fully aware of their mortality and knowing that their death will only empower the raid, as their Shaman draws great strength from them.",
+      "name": "Goblin Crookshank",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "cr": "0,5",
+        "fightingstyle": ["ambusher","pack"],
+        "movement": ["Walk"],
+        "purpose": ["minion","damage"],
+        "releaseurl": "",
+        "size": "Small",
+        "stat_ac": 12,
+        "stat_cha": 8,
+        "stat_con": 10,
+        "stat_dex": 14,
+        "stat_hp": 11,
+        "stat_int": 12,
+        "stat_str": 8,
+        "stat_wis": 13,
+        "thumbnail": "000_goblin_pack_1_crookshank_5-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "goblin"
+        ],
+        "videourl": ""
+    }
+	},
+    "000_goblin_pack_1_shrublurker_1": {
+      "description": "Shrublurkers spend most of their life outside the confines of a goblin village and are both feared and respected for it. Children like to test boundaries and explore their surroundings, goblin childred are no different. If they venture to far from the village, chances of survival are slim. But those who return exhibit a knack for survival and necessary amount of luck that qualifies them for adoption by a senior Shrublurker, the old veteran hoping to impart as much knowledge as possible on their successor before their inevitable death. Shrublurkers are expert trackers and trappers and are forced to quickly adapt to the flora and fauna surrounding their village or die an early death. During a raid, Shrublurkers act as scouts, sharpshooters and saboteurs, exposing key weaknesses or marking priority targets.",
+      "name": "Goblin Shrublurker",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "cr": "0,5",
+        "fightingstyle": ["ambusher","pack","ranged"],
+        "movement": ["Walk"],
+        "purpose": ["minion","hunter"],
+        "releaseurl": "",
+        "size": "Small",
+        "stat_ac": 12,
+        "stat_cha": 8,
+        "stat_con": 10,
+        "stat_dex": 14,
+        "stat_hp": 12,
+        "stat_int": 12,
+        "stat_str": 10,
+        "stat_wis": 14,
+        "thumbnail": "000_goblin_pack_1_shrublurker_1-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "goblin"
+        ],
+        "videourl": ""
+    }
+	},
+    "000_goblin_pack_1_shrublurker_2": {
+      "description": "Shrublurkers spend most of their life outside the confines of a goblin village and are both feared and respected for it. Children like to test boundaries and explore their surroundings, goblin childred are no different. If they venture to far from the village, chances of survival are slim. But those who return exhibit a knack for survival and necessary amount of luck that qualifies them for adoption by a senior Shrublurker, the old veteran hoping to impart as much knowledge as possible on their successor before their inevitable death. Shrublurkers are expert trackers and trappers and are forced to quickly adapt to the flora and fauna surrounding their village or die an early death. During a raid, Shrublurkers act as scouts, sharpshooters and saboteurs, exposing key weaknesses or marking priority targets.",
+      "name": "Goblin Shrublurker",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "cr": "0,5",
+        "fightingstyle": ["ambusher","pack","ranged"],
+        "movement": ["Walk"],
+        "purpose": ["minion","hunter"],
+        "releaseurl": "",
+        "size": "Small",
+        "stat_ac": 12,
+        "stat_cha": 8,
+        "stat_con": 10,
+        "stat_dex": 14,
+        "stat_hp": 12,
+        "stat_int": 12,
+        "stat_str": 10,
+        "stat_wis": 14,
+        "thumbnail": "000_goblin_pack_1_shrublurker_2-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "goblin"
+        ],
+        "videourl": ""
+    }
+	},
+    "000_goblin_pack_1_shrublurker_3": {
+      "description": "Shrublurkers spend most of their life outside the confines of a goblin village and are both feared and respected for it. Children like to test boundaries and explore their surroundings, goblin childred are no different. If they venture to far from the village, chances of survival are slim. But those who return exhibit a knack for survival and necessary amount of luck that qualifies them for adoption by a senior Shrublurker, the old veteran hoping to impart as much knowledge as possible on their successor before their inevitable death. Shrublurkers are expert trackers and trappers and are forced to quickly adapt to the flora and fauna surrounding their village or die an early death. During a raid, Shrublurkers act as scouts, sharpshooters and saboteurs, exposing key weaknesses or marking priority targets.",
+      "name": "Goblin Shrublurker",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "cr": "0,5",
+        "fightingstyle": ["ambusher","pack","ranged"],
+        "movement": ["Walk"],
+        "purpose": ["minion","hunter"],
+        "releaseurl": "",
+        "size": "Small",
+        "stat_ac": 12,
+        "stat_cha": 8,
+        "stat_con": 10,
+        "stat_dex": 14,
+        "stat_hp": 12,
+        "stat_int": 12,
+        "stat_str": 10,
+        "stat_wis": 14,
+        "thumbnail": "000_goblin_pack_1_shrublurker_3-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "goblin"
+        ],
+        "videourl": ""
+    }
+	},
+    "000_goblin_pack_1_rabble_rouser_1": {
+      "description": "Within the confines of a goblin village everyone has to pull their weight. There is no place for ego, grudges or feuds, as time is better spent improving the ever slim chances of the tribe’s survival than to indulge in petty conflicts. Some goblins chafe under this, for reasons of temper, personality or sheer stubborn obstinacy. A Raid Rabble is a great way to send these Rabble-Rousers to blow off some steam, before they start developing some dangerous thoughts. This is a win-win situation, as they make for furious warriors, passionate looters and grandstanding braggarts, taking their attention away from getting into trouble, continuously telling of their heroic deeds instead. That is, if they return.",
+      "name": "Goblin Rabble Rouser",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "cr": "0,5",
+        "fightingstyle": ["charge","pack","shock"],
+        "movement": ["Walk"],
+        "purpose": ["minion","damage","duelist"],
+        "releaseurl": "",
+        "size": "Small",
+        "stat_ac": 14,
+        "stat_cha": 6,
+        "stat_con": 12,
+        "stat_dex": 13,
+        "stat_hp": 14,
+        "stat_int": 6,
+        "stat_str": 14,
+        "stat_wis": 8,
+        "thumbnail": "000_goblin_pack_1_rabble_rouser_1-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "goblin"
+        ],
+        "videourl": ""
+    }
+	},
+    "000_goblin_pack_1_rabble_rouser_2": {
+      "description": "Within the confines of a goblin village everyone has to pull their weight. There is no place for ego, grudges or feuds, as time is better spent improving the ever slim chances of the tribe’s survival than to indulge in petty conflicts. Some goblins chafe under this, for reasons of temper, personality or sheer stubborn obstinacy. A Raid Rabble is a great way to send these Rabble-Rousers to blow off some steam, before they start developing some dangerous thoughts. This is a win-win situation, as they make for furious warriors, passionate looters and grandstanding braggarts, taking their attention away from getting into trouble, continuously telling of their heroic deeds instead. That is, if they return.",
+      "name": "Goblin Rabble Rouser",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "cr": "0,5",
+        "fightingstyle": ["charge","pack","shock"],
+        "movement": ["Walk"],
+        "purpose": ["minion","damage","duelist"],
+        "releaseurl": "",
+        "size": "Small",
+        "stat_ac": 12,
+        "stat_cha": 8,
+        "stat_con": 10,
+        "stat_dex": 14,
+        "stat_hp": 12,
+        "stat_int": 12,
+        "stat_str": 10,
+        "stat_wis": 14,
+        "thumbnail": "000_goblin_pack_1_rabble_rouser_2-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "goblin"
+        ],
+        "videourl": ""
+    }
+	},
+    "000_goblin_pack_1_hog_rider_1": {
+      "description": "Hog Riders are brawny and boorish, characteristics they share with their black-bristled mounts. They are veterans of several raids, having earned their place upon the back of a towering boar. They are fast in and fast out, barreling forth from the underbrush and into the thick of combat before turning on their heel, grabbing what they can and retreating once the rest of the Rabble swarms in. Once the baggage is secured, the rest of the Raid Rabble retreats back into cover, with arrows and grenades raining unto eventual pursuers from hidden Shrublurkers.",
+      "name": "Goblin Hog Rider",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "cr": "1",
+        "fightingstyle": ["charge","predator","mobile"],
+        "movement": ["Walk"],
+        "purpose": ["minion","damage"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 13,
+        "stat_cha": 13,
+        "stat_con": 16,
+        "stat_dex": 14,
+        "stat_hp": 20,
+        "stat_int": 10,
+        "stat_str": 16,
+        "stat_wis": 6,
+        "thumbnail": "000_goblin_pack_1_hog_rider_1-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "goblin"
+        ],
+        "videourl": ""
+    }
+	},
+    "000_goblin_pack_1_hog_rider_2": {
+      "description": "Hog Riders are brawny and boorish, characteristics they share with their black-bristled mounts. They are veterans of several raids, having earned their place upon the back of a towering boar. They are fast in and fast out, barreling forth from the underbrush and into the thick of combat before turning on their heel, grabbing what they can and retreating once the rest of the Rabble swarms in. Once the baggage is secured, the rest of the Raid Rabble retreats back into cover, with arrows and grenades raining unto eventual pursuers from hidden Shrublurkers.",
+      "name": "Goblin Hog Rider",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "cr": "1",
+        "fightingstyle": ["charge","predator","mobile"],
+        "movement": ["Walk"],
+        "purpose": ["minion","damage"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 13,
+        "stat_cha": 13,
+        "stat_con": 16,
+        "stat_dex": 14,
+        "stat_hp": 20,
+        "stat_int": 10,
+        "stat_str": 16,
+        "stat_wis": 6,
+        "thumbnail": "000_goblin_pack_1_hog_rider_2-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "goblin"
+        ],
+        "videourl": ""
+    }
+	},
+    "000_goblin_pack_1_soulshaper_shaman": {
+      "description": "Soulshaper Shamans oversee a tribe’s death rites and stand vigil during the transition of a goblin’s soul beyond the mortal veil. They do this to take note of where this particular soul goes, to eventually drag it back to fulfill various purposes, should the need arise. Necessity is the mother of invention, goblins die in droves - why not capitalise on that? The goblins are thankful for their ancestor’s service and both live and die knowing that their duty does not end in death. A Shaman’s word carries a lot of weight, as they are known to converse with the spirits of the afterlife and carry the knowledge of the ancestors. Most shamans however quickly find out that dying does not automatically impart knowledge and most ancestors are as dense in death as they were in life. This realisation usually sours a Soulshaper Shaman’s mood and factors into their characteristic bitterness.",
+      "name": "Goblin Soulshaper Shaman",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "cr": "1",
+        "fightingstyle": ["interactive","pack"],
+        "movement": ["Walk"],
+        "purpose": ["leader","support"],
+        "releaseurl": "",
+        "size": "Small",
+        "stat_ac": 15,
+        "stat_cha": 12,
+        "stat_con": 10,
+        "stat_dex": 14,
+        "stat_hp": 24,
+        "stat_int": 15,
+        "stat_str": 10,
+        "stat_wis": 16,
+        "thumbnail": "000_goblin_pack_1_soulshaper_shaman-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "goblin"
+        ],
+        "videourl": ""
+    }
+	},
+    "000_goblin_pack_1_soulstarved_abomination_1": {
+      "description": "The shambling and frankly horrifying Soulstarved Abominations are Soulshaper Shaman’s failed attempt to just kind of stuff a goblin’s soul back into a vessel, be it their former body or an vaguely goblin-shaped flesh-construct. Still, something must have worked out as planned, as these aptly named Abominations walk and fight, despite their unsettling appearence and even more unsettling hunger for flesh. If a Soulshaper Shaman is part of a Raid Rabble, the Abominations can be found shuffling in its wake, herded by their creator into combat as unliving weapons.",
+      "name": "Goblin Soulstarved Abomination",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "cr": "0,5",
+        "fightingstyle": ["charge","shock","regeneration"],
+        "movement": ["Walk"],
+        "purpose": ["minion","gimmick", "damage"],
+        "releaseurl": "",
+        "size": "Small",
+        "stat_ac": 13,
+        "stat_cha": 1,
+        "stat_con": 10,
+        "stat_dex": 14,
+        "stat_hp": 7,
+        "stat_int": 1,
+        "stat_str": 8,
+        "stat_wis": 8,
+        "thumbnail": "000_goblin_pack_1_soulstarved_abomination_1-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": ""
+    }
+	},
+    "000_goblin_pack_1_soulstarved_abomination_2": {
+      "description": "The shambling and frankly horrifying Soulstarved Abominations are Soulshaper Shaman’s failed attempt to just kind of stuff a goblin’s soul back into a vessel, be it their former body or an vaguely goblin-shaped flesh-construct. Still, something must have worked out as planned, as these aptly named Abominations walk and fight, despite their unsettling appearence and even more unsettling hunger for flesh. If a Soulshaper Shaman is part of a Raid Rabble, the Abominations can be found shuffling in its wake, herded by their creator into combat as unliving weapons.",
+      "name": "Goblin Soulstarved Abomination",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "cr": "0,5",
+        "fightingstyle": ["charge","shock","regeneration"],
+        "movement": ["Walk"],
+        "purpose": ["minion","gimmick", "damage"],
+        "releaseurl": "",
+        "size": "Small",
+        "stat_ac": 13,
+        "stat_cha": 1,
+        "stat_con": 10,
+        "stat_dex": 14,
+        "stat_hp": 7,
+        "stat_int": 1,
+        "stat_str": 8,
+        "stat_wis": 8,
+        "thumbnail": "000_goblin_pack_1_soulstarved_abomination_2-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": ""
+    }
+	},
+    "000_goblin_pack_1_soulstarved_abomination_3": {
+      "description": "The shambling and frankly horrifying Soulstarved Abominations are Soulshaper Shaman’s failed attempt to just kind of stuff a goblin’s soul back into a vessel, be it their former body or an vaguely goblin-shaped flesh-construct. Still, something must have worked out as planned, as these aptly named Abominations walk and fight, despite their unsettling appearence and even more unsettling hunger for flesh. If a Soulshaper Shaman is part of a Raid Rabble, the Abominations can be found shuffling in its wake, herded by their creator into combat as unliving weapons.",
+      "name": "Goblin Soulstarved Abomination",
+      "properties": {
+        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "cr": "0,5",
+        "fightingstyle": ["charge","shock","regeneration"],
+        "movement": ["Walk"],
+        "purpose": ["minion","gimmick", "damage"],
+        "releaseurl": "",
+        "size": "Small",
+        "stat_ac": 13,
+        "stat_cha": 1,
+        "stat_con": 10,
+        "stat_dex": 14,
+        "stat_hp": 7,
+        "stat_int": 1,
+        "stat_str": 8,
+        "stat_wis": 8,
+        "thumbnail": "000_goblin_pack_1_soulstarved_abomination_3-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": ""
+    }
   }
   }
   }
+}
