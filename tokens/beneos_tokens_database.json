@@ -5341,8 +5341,38 @@
           "undead",
           ""
         ],
+		 "videourl": ""
+	  }
+    },
+    "086_fire_manifestation": {
+      "description": "Fire Manifestations a living blazes inhabiting the ever-burning plane of Eternal Fire. Into this ash-choked realm of red sand and molten rock retreated the primordial beings of flame once the immense magic potential necessary to feed them slowly bled from the young world's bones into the beings of flesh and blood that slowly came to inhabit and shape it. The Manifestations are personified elemental forces, fire's unsatiable hunger and destructive nature given flickering form. In the profane world, Manifestations flock to places connected to their native plane or appear in the wake of fire-related disasters powerful enough to tear through the veil between planes.",
+      "name": "Fire Manifestation",
+      "properties": {
+        "biom": ["ruins", "dungeon", "planar","wilderness", "desert"],
+        "cr": "5",
+        "fightingstyle": ["simple", "melee"],
+        "movement": ["Walk"],
+        "purpose": ["damage", "gimmick"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 13,
+        "stat_cha": 7,
+        "stat_con": 16,
+        "stat_dex": 17,
+        "stat_hp": 102,
+        "stat_int": 8,
+        "stat_str": 12,
+        "stat_wis": 12,
+        "thumbnail": "086_fire_manifestation-idle_face_still.webp",
+        "type": [
+          "elemental",
+          "fire"
+        ],
         "videourl": ""
     }
+    
   }
   }
+ 
   }
+  
