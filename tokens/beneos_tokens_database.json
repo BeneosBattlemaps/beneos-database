@@ -5371,8 +5371,36 @@
         "videourl": ""
     }
     
+    },
+  
+    "087_wintergrim": {
+      "description": "Placeholder.",
+      "name": "Wintergrim",
+      "properties": {
+        "biom": ["ruins", "dungeon", "planar", "wilderness", "forest", "mountains", "horror", "lair" ],
+        "cr": "10",
+        "fightingstyle": ["demanding", "lethal"],
+        "movement": ["Walk"],
+        "purpose": ["gimmick", "pressure", "boss" ],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 14,
+        "stat_con": 18,
+        "stat_dex": 17,
+        "stat_hp": 177,
+        "stat_int": 8,
+        "stat_str": 16,
+        "stat_wis": 18,
+        "thumbnail": "087_wintergrim-idle_face_still.webp",
+        "type": [
+          "fey",
+          ""
+        ],
+        "videourl": ""
+    }
   }
   }
- 
   }
   
+
