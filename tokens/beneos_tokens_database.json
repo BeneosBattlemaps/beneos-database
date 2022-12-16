@@ -5370,15 +5370,14 @@
         ],
         "videourl": ""
     }
-    
     },
   
     "087_wintergrim": {
-      "description": "Placeholder.",
+      "description": "Sudden drops in temperature and billowing snowstorms herald the coming of a Wintergrim. Wintergrim are murderous fey creatures and intrude into the profane world during a time where the temperature drops to unnatural lows and the snow mantle becomes a burial shroud for humans and livestock alike. Hunters don’t return from the forest, rime coats windows and even a fire’s heat may no longer banish the exisential cold that has seeped into body and spirit. Until banished by the return of spring, the Wintergrim will hunt, its pale bestial hands choking life and and warmth from its victims, leaving behind only icy skin and blood on the snow. At the seasonal height of its power, even powerful iron wards may not keep a Wintergrim at bay and many a frontier village turns to ancient pacts sealed with blood and sacrifice instead.",
       "name": "Wintergrim",
       "properties": {
         "biom": ["ruins", "dungeon", "planar", "wilderness", "forest", "mountains", "horror", "lair" ],
-        "cr": "10",
+        "cr": "12",
         "fightingstyle": ["demanding", "lethal"],
         "movement": ["Walk"],
         "purpose": ["gimmick", "pressure", "boss" ],
