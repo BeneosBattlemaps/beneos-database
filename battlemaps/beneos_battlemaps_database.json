@@ -4778,6 +4778,186 @@
          "type": "Scenery",
          "videourl": ""
       }
+     },
+    "58-01_Temple_Ruin_1-4K_BM": {
+       "name": "Temple Ruin 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","Ruin", "Exteriour"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "58_Jungle_Tomb",
+         "releaseurl": "",
+         "sibling": "58-01_Temple_Ruin_1-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "58-01_Temple_Ruin_1-4K_Scen": {
+       "name": "Temple Ruin 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","Ruin", "Exteriour"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "58_Jungle_Tomb",
+         "releaseurl": "",
+         "sibling": "58-01_Temple_Ruin_1-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "58-02_Temple_Ruin_2-4K_BM": {
+       "name": "Temple Ruin 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","Ruin", "Exteriour"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "58_Jungle_Tomb",
+         "releaseurl": "",
+         "sibling": "58-02_Temple_Ruin_2-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "58-02_Temple_Ruin_2-4K_Scen": {
+       "name": "Temple Ruin 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","Ruin", "Exteriour"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "58_Jungle_Tomb",
+         "releaseurl": "",
+         "sibling": "58-02_Temple_Ruin_2-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "58-03_Temple_Ruin_3-4K_BM": {
+       "name": "Temple Ruin 3",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","Ruin", "Exteriour"],
+         "brightness": "Medium",
+         "grid": "48x27",
+         "pack": "58_Jungle_Tomb",
+         "releaseurl": "",
+         "sibling": "58-03_Temple_Ruin_3-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "58-03_Temple_Ruin_3-4K_Scen": {
+       "name": "Temple Ruin 3",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","Ruin", "Exteriour"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "58_Jungle_Tomb",
+         "releaseurl": "",
+         "sibling": "58-03_Temple_Ruin_3-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "58-04_Temple_Ruin_4-4K_BM": {
+       "name": "Temple Ruin 4",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","Ruin", "Exteriour"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "58_Jungle_Tomb",
+         "releaseurl": "",
+         "sibling": "58-04_Temple_Ruin_4-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "58-04_Temple_Ruin_4-4K_Scen": {
+       "name": "Temple Ruin 4",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","Ruin", "Exteriour"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "58_Jungle_Tomb",
+         "releaseurl": "",
+         "sibling": "58-04_Temple_Ruin_4-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "58-05_Temple_Ruin_5-4K_BM": {
+       "name": "Temple Ruin 5",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","Ruin", "Interiour","Dungeon"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "58_Jungle_Tomb",
+         "releaseurl": "",
+         "sibling": "58-05_Temple_Ruin_5-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "58-05_Temple_Ruin_5-4K_Scen": {
+       "name": "Temple Ruin 5",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","Ruin", "Interiour","Dungeon"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "58_Jungle_Tomb",
+         "releaseurl": "",
+         "sibling": "58-05_Temple_Ruin_5-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "58-06_Temple_Ruin_6-4K_BM": {
+       "name": "Temple Ruin 6",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","Ruin", "Interiour", "Holy","Dungeon", "Shrine"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "58_Jungle_Tomb",
+         "releaseurl": "",
+         "sibling": "58-06_Temple_Ruin_6-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "58-06_Temple_Ruin_6-4K_Scen": {
+       "name": "Temple Ruin 6",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Jungle","Ruin", "Interiour", "Holy","Dungeon", "Shrine"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "58_Jungle_Tomb",
+         "releaseurl": "",
+         "sibling": "58-06_Temple_Ruin_6-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
     }
   }
 }
