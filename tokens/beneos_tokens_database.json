@@ -5425,6 +5425,60 @@
         ],
         "videourl": ""
     }
+    },
+    "089_berserker": {
+      "description": "The Scorched Legion's origins lie within the ash-choked plains of the Realm of Fire. The lords of the realm are in constant warfare, their mortal troops long expended. Unyielding, relentless soldiers were formed from volcanic rock and embers of the Primordial Flame. Soon the Scorched Legionaries waged eternal war on their masters behalf, their conflicts soon encroaching onto the mortal realms. They are devastating heavy infantry, blindly following their master's commands, untiring and without mercy. Many a desperate sovereign turns to the lords of the Fire Realm as a means to aquire the might of the Legion for their own purpose, not knowing, that by doing so they may doom the very realm they try to protect or conquer.",
+      "name": "Berserker",
+      "properties": {
+        "biom": ["planar", "dungeon", "lair"],
+        "cr": "4",
+        "fightingstyle": ["melee", "pack"],
+        "movement": ["walk"],
+        "purpose": ["damage","minion"],
+        "releaseurl": "",
+        "size": "medium",
+        "stat_ac": 17,
+        "stat_cha": 7,
+        "stat_con": 18,
+        "stat_dex": 10,
+        "stat_hp": 50,
+        "stat_int": 6,
+        "stat_str": 16,
+        "stat_wis": 12,
+        "thumbnail": "089_berserker-idle_face_still.webp",
+        "type": [
+          "elemental",
+          "fire"
+        ],
+        "videourl": ""
+    }
+    },
+    "089_berserker": {
+      "description": "The Scorched Legion's origins lie within the ash-choked plains of the Realm of Fire. The lords of the realm are in constant warfare, their mortal troops long expended. Unyielding, relentless soldiers were formed from volcanic rock and embers of the Primordial Flame. Soon the Scorched Legionaries waged eternal war on their masters behalf, their conflicts soon encroaching onto the mortal realms. They are devastating heavy infantry, blindly following their master's commands, untiring and without mercy. Many a desperate sovereign turns to the lords of the Fire Realm as a means to aquire the might of the Legion for their own purpose, not knowing, that by doing so they may doom the very realm they try to protect or conquer.",
+      "name": "Berserker",
+      "properties": {
+        "biom": ["planar", "dungeon", "lair"],
+        "cr": "4",
+        "fightingstyle": ["melee", "pack"],
+        "movement": ["walk"],
+        "purpose": ["damage","minion"],
+        "releaseurl": "",
+        "size": "medium",
+        "stat_ac": 17,
+        "stat_cha": 7,
+        "stat_con": 18,
+        "stat_dex": 10,
+        "stat_hp": 50,
+        "stat_int": 6,
+        "stat_str": 16,
+        "stat_wis": 12,
+        "thumbnail": "089_berserker-idle_face_still.webp",
+        "type": [
+          "elemental",
+          "fire"
+        ],
+        "videourl": ""
+    }
   }
   }
   }
