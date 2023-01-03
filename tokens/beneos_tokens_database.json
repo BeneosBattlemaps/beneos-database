@@ -5398,6 +5398,33 @@
         ],
         "videourl": ""
     }
+    },
+    "088_magarach_sentinel": {
+      "description": "Magarach were created as an ancient warrior caste to serve the formless Waking One as temple guardians, but were abandoned by their creator. With the Magarach still tending to overgrown vestiges of past glory, nature has reclaimed the once thriving temple complexes and the Magarach, blessed with the right to bathe within the sacred waters they guard, are granted longevity bordering on immortality. The Magarach protect these hidden wells, as within the sacred waters the essence of the Waking One still lingers on. Upon death, a Magarach's soul returns to these wells and it will soon rise once more, accumulating hundreds of lifetimes worth of experience, knowledge and grudges over the centuries..",
+      "name": "Magarach Sentinel",
+      "properties": {
+        "biom": ["ruins", "dungeon", "planar", "wilderness", "forest", "mountains", "coast", "sacral"],
+        "cr": "7",
+        "fightingstyle": ["melee", "predator"],
+        "movement": ["Walk"],
+        "purpose": ["hunter", "pressure"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 17,
+        "stat_cha": 14,
+        "stat_con": 18,
+        "stat_dex": 8,
+        "stat_hp": 78,
+        "stat_int": 8,
+        "stat_str": 20,
+        "stat_wis": 16,
+        "thumbnail": "088_magarach_sentinel-idle_face_still.webp",
+        "type": [
+          "celestial",
+          ""
+        ],
+        "videourl": ""
+    }
   }
   }
   }
