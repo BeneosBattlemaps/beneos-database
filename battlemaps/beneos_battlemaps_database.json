@@ -4958,6 +4958,261 @@
          "type": "Scenery",
          "videourl": ""
       }
+     },
+    "59-01_Fidatov_Manor_1F-4K_BM": {
+       "name": "Fidatov Manor 1F",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Interiour","Noble", "House"],
+         "brightness": "Medium",
+         "grid": "48x27",
+         "pack": "59_CoS_Fidatov_Manor",
+         "releaseurl": "",
+         "sibling": "59-01_Fidatov_Manor_1F-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "59-01_Fidatov_Manor_1F-4K_Scen": {
+       "name": "Fidatov Manor 1F",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Interiour","Noble", "House"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "59_CoS_Fidatov_Manor",
+         "releaseurl": "",
+         "sibling": "59-01_Fidatov_Manor_1F-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "59-02_Fidatov_Manor_2F-4K_BM": {
+       "name": "Fidatov Manor 2F",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Interiour","Noble", "House"],
+         "brightness": "Medium",
+         "grid": "48x27",
+         "pack": "59_CoS_Fidatov_Manor",
+         "releaseurl": "",
+         "sibling": "59-02_Fidatov_Manor_2F-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "59-02_Fidatov_Manor_2F-4K_Scen": {
+       "name": "Fidatov Manor 2F",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Interiour","Noble", "House"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "59_CoS_Fidatov_Manor",
+         "releaseurl": "",
+         "sibling": "59-02_Fidatov_Manor_2F-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "59-03_Fidatov_Manor_B1-4K_BM": {
+       "name": "Fidatov Manor B1",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Interiour","Noble", "House","Underground"],
+         "brightness": "Medium",
+         "grid": "16x9",
+         "pack": "59_CoS_Fidatov_Manor",
+         "releaseurl": "",
+         "sibling": "59-03_Fidatov_Manor_B1-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "59-03_Fidatov_Manor_B1-4K_Scen": {
+       "name": "Fidatov Manor B1",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Interiour","Noble", "House","Underground"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "59_CoS_Fidatov_Manor",
+         "releaseurl": "",
+         "sibling": "59-03_Fidatov_Manor_B1-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "59-04_Fidatov_Manor_Mirror_Battle-4K_BM": {
+       "name": "Fidatov Manor Mirror Battle",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Interiour","Noble", "House","Planar"],
+         "brightness": "Medium",
+         "grid": "32x18",
+         "pack": "59_CoS_Fidatov_Manor",
+         "releaseurl": "",
+         "sibling": "59-04_Fidatov_Manor_Mirror_Battle-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "59-04_Fidatov_Manor_Mirror_Battle-4K_Scen": {
+       "name": "Fidatov Manor Mirror Battle",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Interiour","Noble", "House","Planar"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "59_CoS_Fidatov_Manor",
+         "releaseurl": "",
+         "sibling": "59-04_Fidatov_Manor_Mirror_Battle-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "59-05_Fidatov_Manor_Maze-4K_BM": {
+       "name": "Fidatov Manor Maze",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Exteriour","Noble", "Special"],
+         "brightness": "Medium",
+         "grid": "48x27",
+         "pack": "59_CoS_Fidatov_Manor",
+         "releaseurl": "",
+         "sibling": "59-05_Fidatov_Manor_Maze-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "59-05_Fidatov_Manor_Maze-4K_Scen": {
+       "name": "Fidatov Manor Maze",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Exteriour","Noble", "Special"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "59_CoS_Fidatov_Manor",
+         "releaseurl": "",
+         "sibling": "59-05_Fidatov_Manor_Maze-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "59-06_Fidatov_Manor_Crypt-4K_BM": {
+       "name": "Fidatov Manor Crypt",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Interiour","Dungeon", "Grave","Underground"],
+         "brightness": "Dark",
+         "grid": "32x18",
+         "pack": "59_CoS_Fidatov_Manor",
+         "releaseurl": "",
+         "sibling": "59-06_Fidatov_Manor_Crypt-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "59-06_Fidatov_Manor_Crypt-4K_Scen": {
+       "name": "Fidatov Manor Crypt",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Interiour","Dungeon", "Grave","Underground"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "59_CoS_Fidatov_Manor",
+         "releaseurl": "",
+         "sibling": "59-06_Fidatov_Manor_Crypt-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "59-07_Fidatov_Manor_1F_Horror-4K_BM": {
+       "name": "Fidatov Manor 1F Horror",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Interiour","Horror", "House"],
+         "brightness": "Dark",
+         "grid": "48x27",
+         "pack": "59_CoS_Fidatov_Manor",
+         "releaseurl": "",
+         "sibling": "59-07_Fidatov_Manor_1F_Horror-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "59-07_Fidatov_Manor_1F_Horror-4K_Scen": {
+       "name": "Fidatov Manor 1F Horror",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Interiour","Horror", "House"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "59_CoS_Fidatov_Manor",
+         "releaseurl": "",
+         "sibling": "59-07_Fidatov_Manor_1F_Horror-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "59-08_Fidatov_Manor_2F_Horror-4K_BM": {
+       "name": "Fidatov Manor 2F Horror",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Interiour","Horror","House"],
+         "brightness": "Dark",
+         "grid": "48x27",
+         "pack": "59_CoS_Fidatov_Manor",
+         "releaseurl": "",
+         "sibling": "59-08_Fidatov_Manor_2F_Horror-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
+     },
+    "59-08_Fidatov_Manor_2F_Horror-4K_Scen": {
+       "name": "Fidatov Manor 2F Horror",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Interiour","Horror","House"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "59_CoS_Fidatov_Manor",
+         "releaseurl": "",
+         "sibling": "59-08_Fidatov_Manor_2F_Horror-4K_BM",
+         "type": "Scenery",
+         "videourl": ""
+      }
+     },
+    "59-09_Fidatov_Manor_B1_Horror-4K_BM": {
+       "name": "Fidatov Manor B1 Horror",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Interiour","Horror", "House","Underground"],
+         "brightness": "Medium",
+         "grid": "16x9",
+         "pack": "59_CoS_Fidatov_Manor",
+         "releaseurl": "",
+         "sibling": "59-09_Fidatov_Manor_B1_Horror-4K_Scen",
+         "type": "Battlemap",
+         "videourl": ""
+      }
     }
   }
 }
