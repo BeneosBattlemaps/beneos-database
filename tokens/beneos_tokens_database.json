@@ -122,11 +122,15 @@
     },
     "gimmick": {
       "name": "Gimmick",
-      "description": "This creature possesses one or more gimmicks that an encounter with this creature will revolve around."
+      "description": "This creature possesses one or more gimmicks, specific and unique mechanics, that an encounter with this creature will revolve around."
 	},
     "swallow": {
       "name": "Swallow",
-      "description": "This creature can and will swallow players, splitting parties and possibly dealing damage over time.."
+      "description": "This creature can and will swallow players, splitting parties and possibly dealing damage over time."
+	},
+    "legendary": {
+      "name": "Legendary",
+      "description": "This creature poses a formidable and complex challenge, makes use of legendary actions and requires special attention regarding the conception and execution of an encounter with it."
     }
   },
   "id": "beneos_tokens_database",
@@ -176,7 +180,7 @@
           "lethal", "aoe", "tactical"
         ],
         "movement": ["walk"],
-        "purpose": ["boss", "pressure", "tank"],
+        "purpose": ["boss", "pressure", "tank", "legendary"],
         "releaseurl": "https://www.patreon.com/posts/boss-creature-51753486",
         "size": "huge",
         "stat_ac": 15,
@@ -3090,7 +3094,7 @@
           "spellcasting", "tactical", "interactive"
         ],
         "movement": ["walk"],
-        "purpose": ["boss", "leader"],
+        "purpose": ["boss", "leader", "legendary"],
         "releaseurl": "https://www.patreon.com/posts/winter-empress-60103806",
         "size": "medium",
 		"stat_ac": 18,
@@ -3120,7 +3124,7 @@
           "spellcasting", "tactical", "interactive"
         ],
         "movement": ["walk"],
-        "purpose": ["boss", "leader"],
+        "purpose": ["boss", "leader", "legendary"],
         "releaseurl": "https://www.patreon.com/posts/winter-empress-60103806",
         "size": "medium",
 		"stat_ac": 18,
@@ -4677,7 +4681,7 @@
         "cr": "20",
         "fightingstyle": ["demanding", "lethal"],
         "movement": ["fly"],
-        "purpose": ["damage","boss", "pressure"],
+        "purpose": ["damage","boss", "pressure","legendary"],
         "releaseurl": "https://www.patreon.com/posts/sharakhul-flayed-73927441",
         "size": "gargantuan",
         "stat_ac": 18,
@@ -4758,7 +4762,7 @@
         "cr": "15",
         "fightingstyle": ["lethal", "interactive", "demanding"],
         "movement": ["walk"],
-        "purpose": ["pressure","boss", "gimmick"],
+        "purpose": ["pressure","boss", "legendary", "gimmick"],
         "releaseurl": "https://www.patreon.com/posts/hydra-74810995",
         "size": "gargantuan",
         "stat_ac": 16,
@@ -5452,35 +5456,9 @@
         ],
         "videourl": ""
     }
-    },
-    "089_berserker": {
-      "description": "The Scorched Legion's origins lie within the ash-choked plains of the Realm of Fire. The lords of the realm are in constant warfare, their mortal troops long expended. Unyielding, relentless soldiers were formed from volcanic rock and embers of the Primordial Flame. Soon the Scorched Legionaries waged eternal war on their masters behalf, their conflicts soon encroaching onto the mortal realms. They are devastating heavy infantry, blindly following their master's commands, untiring and without mercy. Many a desperate sovereign turns to the lords of the Fire Realm as a means to aquire the might of the Legion for their own purpose, not knowing, that by doing so they may doom the very realm they try to protect or conquer.",
-      "name": "Berserker",
-      "properties": {
-        "biom": ["planar", "dungeon", "lair"],
-        "cr": "4",
-        "fightingstyle": ["melee", "pack"],
-        "movement": ["walk"],
-        "purpose": ["damage","minion"],
-        "releaseurl": "",
-        "size": "medium",
-        "stat_ac": 17,
-        "stat_cha": 7,
-        "stat_con": 18,
-        "stat_dex": 10,
-        "stat_hp": 50,
-        "stat_int": 6,
-        "stat_str": 16,
-        "stat_wis": 12,
-        "thumbnail": "089_berserker-idle_face_still.webp",
-        "type": [
-          "elemental",
-          "fire"
-        ],
-        "videourl": ""
+    }
     }
   }
-  }
-  }
+ 
   
 
