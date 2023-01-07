@@ -5457,8 +5457,36 @@
         "videourl": ""
     }
     }
+    },
+    "090_swordbearer_reliquary": {
+      "description": "Placeholder.",
+      "name": "Swordbearer Reliquary",
+      "properties": {
+        "biom": ["ruins", "dungeon", "road", "wilderness", "forest", "mountains", "coast", "sacral"],
+        "cr": "9",
+        "fightingstyle": ["anti x", "gimmick"],
+        "movement": ["Walk"],
+        "purpose": ["tank", "melee"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 22,
+        "stat_cha": 1,
+        "stat_con": 20,
+        "stat_dex": 6,
+        "stat_hp": 225,
+        "stat_int": 1,
+        "stat_str": 25,
+        "stat_wis": 16,
+        "thumbnail": "090_swordbearer_reliquary-idle_face_still.webp",
+        "type": [
+          "construct",
+          ""
+        ],
+        "videourl": ""
     }
+    
   }
- 
+  }
+  
   
 
