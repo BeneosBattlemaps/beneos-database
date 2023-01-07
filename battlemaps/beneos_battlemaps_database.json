@@ -1906,28 +1906,6 @@
             "videourl":""
          }
       },
-      "08-03_Snow_3-4K_Scenery":{
-         "name":"Snowscape 3",
-         "description":"",
-         "properties":{
-            "adventure":[
-               "None"
-            ],
-            "biom":[
-               "Snow",
-               "Exteriour",
-               "Camp"
-            ],
-            "brightness":"TBD",
-            "grid":"32 x 18",
-            "pack":"Snow Scape",
-            "releaseurl":"https://www.patreon.com/posts/pack-8-snow-41213448",
-            "sibling":"08-03_Snow_3-4K_Still_Battlemap_GRIDLESS",
-            "type":"Scenery",
-            "thumbnail":"08-03_Snow_3-4K_Scenery.webp",
-            "videourl":""
-         }
-      },
       "08-03_Snow_3-4K_Still_Battlemap_GRIDLESS":{
          "name":"Snowscape 3",
          "description":"",
@@ -4795,7 +4773,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Tower",
                "Exteriour",
@@ -4819,7 +4797,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Tower",
                "Exteriour",
@@ -4843,7 +4821,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Tower",
                "Exteriour",
@@ -4867,7 +4845,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Tower",
                "Exteriour",
@@ -4891,7 +4869,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Tower",
                "Interiour",
@@ -4915,7 +4893,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Tower",
                "Interiour",
@@ -4939,7 +4917,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Tower",
                "Interiour",
@@ -4963,7 +4941,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Tower",
                "Interiour",
@@ -4987,7 +4965,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Tower",
                "Interiour",
@@ -5011,7 +4989,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Tower",
                "Interiour",
@@ -5035,7 +5013,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Tower",
                "Interiour",
@@ -5059,7 +5037,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Tower",
                "Interiour",
@@ -5083,7 +5061,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Tower",
                "Exteriour",
@@ -5107,7 +5085,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Tower",
                "Exteriour",
@@ -5131,7 +5109,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Tower",
                "Interiour",
@@ -5155,7 +5133,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Tower",
                "Exteriour",
@@ -5179,7 +5157,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Interiour",
@@ -5205,7 +5183,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Interiour",
@@ -5231,7 +5209,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Interiour",
@@ -5257,7 +5235,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Interiour",
@@ -5283,7 +5261,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Interiour",
@@ -5309,7 +5287,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Interiour",
@@ -5335,7 +5313,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Interiour",
@@ -5361,7 +5339,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Interiour",
@@ -5387,7 +5365,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Exteriour",
@@ -5413,7 +5391,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Exteriour",
@@ -5439,7 +5417,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Interiour",
@@ -5465,7 +5443,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Interiour",
@@ -5491,7 +5469,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Interiour",
@@ -5517,7 +5495,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Interiour",
@@ -5543,7 +5521,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Interiour",
@@ -5569,7 +5547,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Interiour",
@@ -5595,7 +5573,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Interiour",
@@ -5621,7 +5599,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Interiour",
@@ -5647,7 +5625,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Interiour",
@@ -5673,7 +5651,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Interiour",
@@ -5699,7 +5677,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Exteriour",
@@ -5725,7 +5703,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Exteriour",
@@ -5751,7 +5729,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Exteriour",
@@ -5777,7 +5755,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Exteriour",
@@ -5803,7 +5781,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Interiour",
@@ -5829,7 +5807,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Interiour",
@@ -5855,7 +5833,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Interiour",
@@ -5881,7 +5859,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Interiour",
@@ -5907,7 +5885,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Exteriour",
@@ -5933,7 +5911,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Exteriour",
@@ -5959,7 +5937,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Exteriour",
@@ -5985,7 +5963,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Civilised",
+               "Civilized",
                "Ruin",
                "Castle",
                "Exteriour",
@@ -7225,13 +7203,10 @@
                "Curse of Strahd"
             ],
             "biom":[
+               "Manufacture",
                "Civilized",
-               "City",
-               "Street",
-               "Day",
-               "Fire",
-               "War",
-               "Exteriour"
+               "House",
+               "Interiour"
             ],
             "brightness":"TBD",
             "grid":"32 x 18",
@@ -10858,7 +10833,7 @@
                "Curse of Strahd"
             ],
             "biom":[
-               "Worldmap"
+               "World Map"
             ],
             "brightness":"TBD",
             "grid":"32 x 18",
@@ -12240,7 +12215,7 @@
                "Cave",
                "Snow",
                "Underground",
-               "Interour"
+               "Interiour"
             ],
             "brightness":"TBD",
             "grid":"32 x 18",
@@ -12263,7 +12238,7 @@
                "Cave",
                "Snow",
                "Underground",
-               "Interour"
+               "Interiour"
             ],
             "brightness":"TBD",
             "grid":"32 x 18",
@@ -12286,7 +12261,7 @@
                "Cave",
                "Snow",
                "Underground",
-               "Interour"
+               "Interiour"
             ],
             "brightness":"TBD",
             "grid":"32 x 18",
@@ -12309,7 +12284,7 @@
                "Cave",
                "Snow",
                "Underground",
-               "Interour"
+               "Interiour"
             ],
             "brightness":"TBD",
             "grid":"32 x 18",
@@ -12332,7 +12307,7 @@
                "Cave",
                "Snow",
                "Underground",
-               "Interour"
+               "Interiour"
             ],
             "brightness":"TBD",
             "grid":"32 x 18",
@@ -12355,7 +12330,7 @@
                "Cave",
                "Snow",
                "Underground",
-               "Interour"
+               "Interiour"
             ],
             "brightness":"TBD",
             "grid":"32 x 18",
@@ -13535,6 +13510,7 @@
             "biom":[
                "Dungeon",
                "Underground",
+			   "Gate",
                "Temple"
             ],
             "brightness":"TBD",
@@ -13557,6 +13533,7 @@
             "biom":[
                "Dungeon",
                "Underground",
+			   "Gate",
                "Temple"
             ],
             "brightness":"TBD",
@@ -13689,8 +13666,7 @@
             "biom":[
                "Mountain",
                "Snow",
-               "Temple",
-               "Gate"
+               "Temple"
             ],
             "brightness":"TBD",
             "grid":"32 x 18",
