@@ -5485,8 +5485,116 @@
         "videourl": ""
     }
     
+    },
+    "091_guild_heretic": {
+      "description": "Former artisans of the great Powder, Steam and Clockwork guilds disgraced for their continued interest in banned technologies gathered around Rekwyn Gharst, the master artisan often referred to as a heretic. Shunned and in hiding due to their perverse pursuit of Viscerart, a self-coined portmanteau elevating intricate bloodshed and indiscriminate bombings to a controversial artform, the Heretics are a collective of like-minded individuals, continually developing new mechanical abominations, which exist in mockery of the fragility of the humanoid form. Guild Heretics take great pride in their devastating arsenal and each drop of spilled blood is a badge of honour..",
+      "name": "Guild Heretic",
+      "properties": {
+        "biom": ["ruins", "dungeon", "road", "mountains", "coastal", "tavern", "civilised"],
+        "cr": "5",
+        "fightingstyle": ["range", "aoe", "interactive"],
+        "movement": ["Walk"],
+        "purpose": ["damage"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 10,
+        "stat_con": 16,
+        "stat_dex": 18,
+        "stat_hp": 78,
+        "stat_int": 16,
+        "stat_str": 13,
+        "stat_wis": 6,
+        "thumbnail": "091_guild_heretic-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "dwarf"
+        ],
+        "videourl": ""
+    }
+    },
+    "092_gargling_headtaker_1": {
+      "description": "Gargling Headtakers roam shallow waters and coastal regions, inhabiting flooded coves or stranded shipwrecks. They are an unsettling sight, lumbering mancrabs, foam dripping ceaselessly from their strange crustacean mouthparts, unfeeling eyes and wiggling antennas. As they hunt in small packs, their characteristic and disquieting gargling noises used to communicate oftentimes herald an incoming attack. When fighting, the Headtakers make use of their oversized pincers, grasping, impaling or crushing their prey, knowing no difference between man or animal.",
+      "name": "Gargling Headtaker 1",
+      "properties": {
+        "biom": ["ruins", "dungeon", "coastal", "ocean"],
+        "cr": "1",
+        "fightingstyle": ["shock", "pack"],
+        "movement": ["Walk"],
+        "purpose": ["minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 6,
+        "stat_con": 14,
+        "stat_dex": 13,
+        "stat_hp": 25,
+        "stat_int": 6,
+        "stat_str": 15,
+        "stat_wis": 9,
+        "thumbnail": "092_gargling_headtaker_1-idle_face_still.webp",
+        "type": [
+          "monstrosity",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "092_gargling_headtaker_2": {
+      "description": "Gargling Headtakers roam shallow waters and coastal regions, inhabiting flooded coves or stranded shipwrecks. They are an unsettling sight, lumbering mancrabs, foam dripping ceaselessly from their strange crustacean mouthparts, unfeeling eyes and wiggling antennas. As they hunt in small packs, their characteristic and disquieting gargling noises used to communicate oftentimes herald an incoming attack. When fighting, the Headtakers make use of their oversized pincers, grasping, impaling or crushing their prey, knowing no difference between man or animal.",
+      "name": "Gargling Headtaker 2",
+      "properties": {
+        "biom": ["ruins", "dungeon", "coastal", "ocean"],
+        "cr": "1",
+        "fightingstyle": ["shock", "pack"],
+        "movement": ["Walk"],
+        "purpose": ["minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 6,
+        "stat_con": 14,
+        "stat_dex": 13,
+        "stat_hp": 25,
+        "stat_int": 6,
+        "stat_str": 15,
+        "stat_wis": 9,
+        "thumbnail": "092_gargling_headtaker_2-idle_face_still.webp",
+        "type": [
+          "monstrosity",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "092_gargling_headtaker_3": {
+      "description": "Gargling Headtakers roam shallow waters and coastal regions, inhabiting flooded coves or stranded shipwrecks. They are an unsettling sight, lumbering mancrabs, foam dripping ceaselessly from their strange crustacean mouthparts, unfeeling eyes and wiggling antennas. As they hunt in small packs, their characteristic and disquieting gargling noises used to communicate oftentimes herald an incoming attack. When fighting, the Headtakers make use of their oversized pincers, grasping, impaling or crushing their prey, knowing no difference between man or animal.",
+      "name": "Gargling Headtaker 3",
+      "properties": {
+        "biom": ["ruins", "dungeon", "coastal", "ocean"],
+        "cr": "1",
+        "fightingstyle": ["shock", "pack"],
+        "movement": ["Walk"],
+        "purpose": ["minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 6,
+        "stat_con": 14,
+        "stat_dex": 13,
+        "stat_hp": 25,
+        "stat_int": 6,
+        "stat_str": 15,
+        "stat_wis": 9,
+        "thumbnail": "092_gargling_headtaker_3-idle_face_still.webp",
+        "type": [
+          "monstrosity",
+          ""
+        ],
+        "videourl": ""
+    }
   }
   }
-  
+  }
   
 
