@@ -5357,7 +5357,7 @@
         "fightingstyle": ["simple", "melee"],
         "movement": ["Walk"],
         "purpose": ["damage", "gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/fire-75912697",
         "size": "Large",
         "stat_ac": 13,
         "stat_cha": 7,
@@ -5372,7 +5372,7 @@
           "elemental",
           "fire"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/r2T_0XWlGGo"
     }
     },
   
@@ -5385,7 +5385,7 @@
         "fightingstyle": ["demanding", "lethal"],
         "movement": ["Walk"],
         "purpose": ["gimmick", "pressure", "boss" ],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/wintergrim-76099023",
         "size": "Large",
         "stat_ac": 16,
         "stat_cha": 14,
@@ -5400,7 +5400,7 @@
           "fey",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/oFqJnhlrizo"
     }
     },
     "088_magarach_sentinel": {
@@ -5412,7 +5412,7 @@
         "fightingstyle": ["melee", "predator"],
         "movement": ["Walk"],
         "purpose": ["hunter", "pressure"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/magarach-76113983",
         "size": "Large",
         "stat_ac": 17,
         "stat_cha": 14,
@@ -5427,11 +5427,11 @@
           "celestial",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/tHGW8-A68UA"
     }
     },
     "089_berserker": {
-      "description": "The Scorched Legion's origins lie within the ash-choked plains of the Realm of Fire. The lords of the realm are in constant warfare, their mortal troops long expended. Unyielding, relentless soldiers were formed from volcanic rock and embers of the Primordial Flame. Soon the Scorched Legionaries waged eternal war on their masters behalf, their conflicts soon encroaching onto the mortal realms. They are devastating heavy infantry, blindly following their master's commands, untiring and without mercy. Many a desperate sovereign turns to the lords of the Fire Realm as a means to aquire the might of the Legion for their own purpose, not knowing, that by doing so they may doom the very realm they try to protect or conquer.",
+      "description": "Berserkers are chosen warriors who rejected a normal life and embraced the savage nature of the Bear. Giving in to the totemic spirit they were transformed, taking on the form of the great Beast from which they draw their otherworldly strenghs. Either as nomadic sages or part of a group of warriors they seek glory and adventure, tightly wrapped by the strings of fate - a Berserker is sure to either become a scourge upon the land or a fabled folk hero, there is no room for mediocrity.",
       "name": "Berserker",
       "properties": {
         "biom": ["planar", "dungeon", "lair"],
@@ -5439,7 +5439,7 @@
         "fightingstyle": ["melee", "pack"],
         "movement": ["walk"],
         "purpose": ["damage","minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/berserker-76114406",
         "size": "medium",
         "stat_ac": 17,
         "stat_cha": 7,
@@ -5454,12 +5454,12 @@
           "elemental",
           "fire"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/Z7oA1YPXsVY"
     }
     }
     },
     "090_swordbearer_reliquary": {
-      "description": "Placeholder.",
+      "description": "Swordbearer Reliquaries are vestiges of past ages, walking shrines dedicated to a forgotten deity of war and valor. These silent effigies are named Swordbearers, for ancient blades are driven deeply into their craggy form, unclear to which purpose - remembrance or veneration? It is also unknown what causes life to spark within the overgrown form of the Reliquary, causing it to rise and wander. Maybe the souls of the ancient blades thirst for battle once more, or maybe the lost deity itself slowly wakes from its god-slumber, sending out these living shrines as solemn emissaries to seek out worthy warriors to receive the old god’s favor.",
       "name": "Swordbearer Reliquary",
       "properties": {
         "biom": ["ruins", "dungeon", "road", "wilderness", "forest", "mountains", "coast", "sacral"],
@@ -5467,7 +5467,7 @@
         "fightingstyle": ["anti x", "gimmick"],
         "movement": ["Walk"],
         "purpose": ["tank", "melee"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/swordbearer-76910448",
         "size": "Huge",
         "stat_ac": 22,
         "stat_cha": 1,
@@ -5482,7 +5482,7 @@
           "construct",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/ms4mWrBdPPA"
     }
     
     },
@@ -5495,7 +5495,7 @@
         "fightingstyle": ["range", "aoe", "interactive"],
         "movement": ["Walk"],
         "purpose": ["damage"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/guild-heretic-77136702",
         "size": "Medium",
         "stat_ac": 15,
         "stat_cha": 10,
@@ -5510,7 +5510,7 @@
           "humanoid",
           "dwarf"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/LJtDRBEKCfc"
     }
     },
     "092_gargling_headtaker_1": {
