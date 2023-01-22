@@ -3045,7 +3045,7 @@
         "stat_int": 8,
         "stat_str": 18,
         "stat_wis": 10,
-        "thumbnail": "034_war-troll-idle_face_still.webp",
+        "thumbnail": "034_wartroll-idle_face_still.webp",
         "type": [
 			"giant", "troll"
         ],
@@ -4773,7 +4773,7 @@
         "stat_int": 5,
         "stat_str": 22,
         "stat_wis": 13,
-        "thumbnail": "083_hydra-idle_face_still.webp",
+        "thumbnail": "084_hydra-idle_face_still.webp",
         "type": [
           "monstrosity",
           ""
@@ -5321,7 +5321,7 @@
         "videourl": "https://www.youtube.com/watch?v=Kj63gMA_pWI"
     }
 	},
-    "000_goblin_pack_1_soulstarved_abomination_3": {
+	"000_goblin_pack_1_soulstarved_abomination_3": {
       "description": "The shambling and frankly horrifying Soulstarved Abominations are Soulshaper Shaman’s failed attempt to just kind of stuff a goblin’s soul back into a vessel, be it their former body or an vaguely goblin-shaped flesh-construct. Still, something must have worked out as planned, as these aptly named Abominations walk and fight, despite their unsettling appearence and even more unsettling hunger for flesh. If a Soulshaper Shaman is part of a Raid Rabble, the Abominations can be found shuffling in its wake, herded by their creator into combat as unliving weapons.",
       "name": "Goblin Soulstarved Abomination",
       "properties": {
