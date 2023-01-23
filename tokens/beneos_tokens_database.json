@@ -5593,6 +5593,60 @@
         ],
         "videourl": ""
     }
+    },
+    "092_gargling_headtaker_1": {
+      "description": "Gargling Headtakers roam shallow waters and coastal regions, inhabiting flooded coves or stranded shipwrecks. They are an unsettling sight, lumbering mancrabs, foam dripping ceaselessly from their strange crustacean mouthparts, unfeeling eyes and wiggling antennas. As they hunt in small packs, their characteristic and disquieting gargling noises used to communicate oftentimes herald an incoming attack. When fighting, the Headtakers make use of their oversized pincers, grasping, impaling or crushing their prey, knowing no difference between man or animal.",
+      "name": "Gargling Headtaker 1",
+      "properties": {
+        "biom": ["ruins", "dungeon", "coastal", "ocean"],
+        "cr": "1",
+        "fightingstyle": ["shock", "pack"],
+        "movement": ["Walk"],
+        "purpose": ["minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 6,
+        "stat_con": 14,
+        "stat_dex": 13,
+        "stat_hp": 25,
+        "stat_int": 6,
+        "stat_str": 15,
+        "stat_wis": 9,
+        "thumbnail": "092_gargling_headtaker_1-idle_face_still.webp",
+        "type": [
+          "monstrosity",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "092_gargling_headtaker_1": {
+      "description": "Gargling Headtakers roam shallow waters and coastal regions, inhabiting flooded coves or stranded shipwrecks. They are an unsettling sight, lumbering mancrabs, foam dripping ceaselessly from their strange crustacean mouthparts, unfeeling eyes and wiggling antennas. As they hunt in small packs, their characteristic and disquieting gargling noises used to communicate oftentimes herald an incoming attack. When fighting, the Headtakers make use of their oversized pincers, grasping, impaling or crushing their prey, knowing no difference between man or animal.",
+      "name": "Gargling Headtaker 1",
+      "properties": {
+        "biom": ["ruins", "dungeon", "coastal", "ocean"],
+        "cr": "1",
+        "fightingstyle": ["shock", "pack"],
+        "movement": ["Walk"],
+        "purpose": ["minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 6,
+        "stat_con": 14,
+        "stat_dex": 13,
+        "stat_hp": 25,
+        "stat_int": 6,
+        "stat_str": 15,
+        "stat_wis": 9,
+        "thumbnail": "092_gargling_headtaker_1-idle_face_still.webp",
+        "type": [
+          "monstrosity",
+          ""
+        ],
+        "videourl": ""
+    }
   }
   }
   }
