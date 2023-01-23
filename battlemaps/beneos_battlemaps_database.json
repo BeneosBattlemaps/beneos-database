@@ -22804,6 +22804,198 @@
             "type":"Battlemap",
             "videourl":"https://youtu.be/PqTsIzlfRbk"
          }
+     },
+    "60-01_Molten_Court_Portal-4K_BM": {
+       "name": "Molten Court Portal",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell"],
+         "brightness": "Bright",
+         "grid": "48x27",
+         "pack": "60_Molten_Court",
+         "releaseurl": "https://www.patreon.com/posts/pack-60-molten-77268067",
+         "sibling": "60-01_Molten_Court_Portal-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"60-01_Molten_Court_Portal-SE_BM.webp",
+         "videourl": "https://youtu.be/wLGgkbLKPiA"
       }
-   }
+     },
+    "60-01_Molten_Court_Portal-4K_Scen": {
+       "name": "Molten Court Portal",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "60_Molten_Court",
+         "releaseurl": "https://www.patreon.com/posts/pack-60-molten-77268067",
+         "sibling": "60-01_Molten_Court_Portal-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"60-01_Molten_Court_Portal-SE_4K_Scen.webp",
+         "videourl": "https://youtu.be/wLGgkbLKPiA"
+      }
+     },
+    "60-02_Molten_Court_Bridge-4K_BM": {
+       "name": "Molten Court Bridge",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell"],
+         "brightness": "Bright",
+         "grid": "48x27",
+         "pack": "60_Molten_Court",
+         "releaseurl": "https://www.patreon.com/posts/pack-60-molten-77268067",
+         "sibling": "60-02_Molten_Court_Bridge-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"60-02_Molten_Court_Bridge-SE_BM.webp",
+         "videourl": "https://youtu.be/wLGgkbLKPiA"
+      }
+     },
+    "60-02_Molten_Court_Bridge-4K_Scen": {
+       "name": "Molten Court Bridge",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "60_Molten_Court",
+         "releaseurl": "https://www.patreon.com/posts/pack-60-molten-77268067",
+         "sibling": "60-02_Molten_Court_Bridge-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"60-02_Molten_Court_Bridge-SE_4K_Scen.webp",
+         "videourl": "https://youtu.be/wLGgkbLKPiA"
+      }
+     },
+    "60-03_Molten_Court_Platform_1-4K_BM": {
+       "name": "Molten Court Platform 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell"],
+         "brightness": "Bright",
+         "grid": "48x27",
+         "pack": "60_Molten_Court",
+         "releaseurl": "https://www.patreon.com/posts/pack-60-molten-77268067",
+         "sibling": "60-03_Molten_Court_Platform_1-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"60-03_Molten_Court_Platform_1-SE_BM.webp",
+         "videourl": "https://youtu.be/wLGgkbLKPiA"
+      }
+     },
+    "60-03_Molten_Court_Platform_1-4K_Scen": {
+       "name": "Molten Court Platform 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "60_Molten_Court",
+         "releaseurl": "https://www.patreon.com/posts/pack-60-molten-77268067",
+         "sibling": "60-03_Molten_Court_Platform_1-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"60-03_Molten_Court_Platform_1-SE_4K_Scen.webp",
+         "videourl": "https://youtu.be/wLGgkbLKPiA"
+      }
+     },
+    "60-04_Molten_Court_Platform_2-4K_BM": {
+       "name": "Molten Court Platform 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell"],
+         "brightness": "Bright",
+         "grid": "48x27",
+         "pack": "60_Molten_Court",
+         "releaseurl": "https://www.patreon.com/posts/pack-60-molten-77268067",
+         "sibling": "60-04_Molten_Court_Platform_2-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"60-04_Molten_Court_Platform_2-SE_BM.webp",
+         "videourl": "https://youtu.be/wLGgkbLKPiA"
+      }
+     },
+    "60-04_Molten_Court_Platform_2-4K_Scen": {
+       "name": "Molten Court Platform 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "60_Molten_Court",
+         "releaseurl": "https://www.patreon.com/posts/pack-60-molten-77268067",
+         "sibling": "60-04_Molten_Court_Platform_2-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"60-04_Molten_Court_Platform_2-SE_4K_Scen.webp",
+         "videourl": "https://youtu.be/wLGgkbLKPiA"
+      }
+     },
+    "60-05_Molten_Court_Gate-4K_BM": {
+       "name": "Molten Court Gate",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell"],
+         "brightness": "Bright",
+         "grid": "48x27",
+         "pack": "60_Molten_Court",
+         "releaseurl": "https://www.patreon.com/posts/pack-60-molten-77268067",
+         "sibling": "60-05_Molten_Court_Gate-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"60-05_Molten_Court_Gate-SE_BM.webp",
+         "videourl": "https://youtu.be/wLGgkbLKPiA"
+      }
+     },
+    "60-05_Molten_Court_Gate-4K_Scen": {
+       "name": "Molten Court Gate",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "60_Molten_Court",
+         "releaseurl": "https://www.patreon.com/posts/pack-60-molten-77268067",
+         "sibling": "60-05_Molten_Court_Gate-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"60-05_Molten_Court_Gate-SE_4K_Scen.webp",
+         "videourl": "https://youtu.be/wLGgkbLKPiA"
+      }
+     },
+    "60-06_Molten_Court_Temple-4K_BM": {
+       "name": "Molten Court Temple",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell"],
+         "brightness": "Bright",
+         "grid": "48x27",
+         "pack": "60_Molten_Court",
+         "releaseurl": "https://www.patreon.com/posts/pack-60-molten-77268067",
+         "sibling": "60-06_Molten_Court_Temple-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"60-06_Molten_Court_Temple-SE_BM.webp",
+         "videourl": "https://youtu.be/wLGgkbLKPiA"
+      }
+     },
+    "60-06_Molten_Court_Temple-4K_Scen": {
+       "name": "Molten Court Temple",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "60_Molten_Court",
+         "releaseurl": "https://www.patreon.com/posts/pack-60-molten-77268067",
+         "sibling": "60-06_Molten_Court_Temple-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"60-06_Molten_Court_Temple-SE_4K_Scen.webp",
+         "videourl": "https://youtu.be/wLGgkbLKPiA"
+      }
+    }
+  }
 }
