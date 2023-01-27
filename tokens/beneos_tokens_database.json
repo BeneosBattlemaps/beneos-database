@@ -5642,8 +5642,35 @@
           "monstrosity",
           ""
         ],
+    },
+    "093_faceless": {
+      "description": "Faceless are demons of murder, summoned by ritual and bound to a worldy anchor by its summoner. Faceless tirelessly hunt their prey, unhindered by locks, guards or castle walls. Despite acting independently, each Faceless is an aspect of a greater demonic entity, either unable or unwilling to leave its home plane. This makes Faceless all the more terrifying, as a designated victim oftentimes finds itself harried by a neverending stream of demonic incursions until it finally succumbs to the continuous assaults. A creature targeted by the Faceless can only hope for the summoner's death or to evade its own demise long enough to wear out the patience of the demon.",
+      "name": "Faceless",
+      "properties": {
+        "biom": ["ruins", "dungeon", "planar", "horror", "infernal" ],
+        "cr": "1",
+        "fightingstyle": ["ambush", "pack"],
+        "movement": ["Walk"],
+        "purpose": ["minion", "hunter"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 14,
+        "stat_cha": 6,
+        "stat_con": 14,
+        "stat_dex": 16,
+        "stat_hp": 15,
+        "stat_int": 6,
+        "stat_str": 13,
+        "stat_wis": 12,
+        "thumbnail": "093_faceless-idle_face_still.webp",
+        "type": [
+          "fiend",
+          "demon"
+        ],
         "videourl": ""
     }
   }
   }
-}
+  }
+  
+
