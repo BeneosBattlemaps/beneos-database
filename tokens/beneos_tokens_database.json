@@ -5519,7 +5519,7 @@
         "fightingstyle": ["shock", "pack"],
         "movement": ["Walk"],
         "purpose": ["minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/gargling-77491698",
         "size": "Medium",
         "stat_ac": 17,
         "stat_cha": 6,
@@ -5534,7 +5534,7 @@
           "monstrosity",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/vrx_TbDEj6Q"
     }
     },
     "092_gargling_headtaker_2": {
@@ -5546,7 +5546,7 @@
         "fightingstyle": ["shock", "pack"],
         "movement": ["Walk"],
         "purpose": ["minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/gargling-77491698",
         "size": "Medium",
         "stat_ac": 17,
         "stat_cha": 6,
@@ -5561,7 +5561,7 @@
           "monstrosity",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/vrx_TbDEj6Q"
     }
     },
     "092_gargling_headtaker_3": {
@@ -5573,7 +5573,7 @@
         "fightingstyle": ["shock", "pack"],
         "movement": ["Walk"],
         "purpose": ["minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/gargling-77491698",
         "size": "Medium",
         "stat_ac": 17,
         "stat_cha": 6,
@@ -5588,60 +5588,8 @@
           "monstrosity",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/vrx_TbDEj6Q"
     }
-    },
-    "092_gargling_headtaker_1": {
-      "description": "Gargling Headtakers roam shallow waters and coastal regions, inhabiting flooded coves or stranded shipwrecks. They are an unsettling sight, lumbering mancrabs, foam dripping ceaselessly from their strange crustacean mouthparts, unfeeling eyes and wiggling antennas. As they hunt in small packs, their characteristic and disquieting gargling noises used to communicate oftentimes herald an incoming attack. When fighting, the Headtakers make use of their oversized pincers, grasping, impaling or crushing their prey, knowing no difference between man or animal.",
-      "name": "Gargling Headtaker 1",
-      "properties": {
-        "biom": ["ruins", "dungeon", "coastal", "ocean"],
-        "cr": "1",
-        "fightingstyle": ["shock", "pack"],
-        "movement": ["Walk"],
-        "purpose": ["minion"],
-        "releaseurl": "",
-        "size": "Medium",
-        "stat_ac": 17,
-        "stat_cha": 6,
-        "stat_con": 14,
-        "stat_dex": 13,
-        "stat_hp": 25,
-        "stat_int": 6,
-        "stat_str": 15,
-        "stat_wis": 9,
-        "thumbnail": "092_gargling_headtaker_1-idle_face_still.webp",
-        "type": [
-          "monstrosity",
-          ""
-        ],
-        "videourl": ""
-    }
-    },
-    "092_gargling_headtaker_1": {
-      "description": "Gargling Headtakers roam shallow waters and coastal regions, inhabiting flooded coves or stranded shipwrecks. They are an unsettling sight, lumbering mancrabs, foam dripping ceaselessly from their strange crustacean mouthparts, unfeeling eyes and wiggling antennas. As they hunt in small packs, their characteristic and disquieting gargling noises used to communicate oftentimes herald an incoming attack. When fighting, the Headtakers make use of their oversized pincers, grasping, impaling or crushing their prey, knowing no difference between man or animal.",
-      "name": "Gargling Headtaker 1",
-      "properties": {
-        "biom": ["ruins", "dungeon", "coastal", "ocean"],
-        "cr": "1",
-        "fightingstyle": ["shock", "pack"],
-        "movement": ["Walk"],
-        "purpose": ["minion"],
-        "releaseurl": "",
-        "size": "Medium",
-        "stat_ac": 17,
-        "stat_cha": 6,
-        "stat_con": 14,
-        "stat_dex": 13,
-        "stat_hp": 25,
-        "stat_int": 6,
-        "stat_str": 15,
-        "stat_wis": 9,
-        "thumbnail": "092_gargling_headtaker_1-idle_face_still.webp",
-        "type": [
-          "monstrosity",
-          ""
-        ],
     },
     "093_faceless": {
       "description": "Faceless are demons of murder, summoned by ritual and bound to a worldy anchor by its summoner. Faceless tirelessly hunt their prey, unhindered by locks, guards or castle walls. Despite acting independently, each Faceless is an aspect of a greater demonic entity, either unable or unwilling to leave its home plane. This makes Faceless all the more terrifying, as a designated victim oftentimes finds itself harried by a neverending stream of demonic incursions until it finally succumbs to the continuous assaults. A creature targeted by the Faceless can only hope for the summoner's death or to evade its own demise long enough to wear out the patience of the demon.",
@@ -5652,7 +5600,7 @@
         "fightingstyle": ["ambush", "pack"],
         "movement": ["Walk"],
         "purpose": ["minion", "hunter"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/faceless-77737323",
         "size": "Medium",
         "stat_ac": 14,
         "stat_cha": 6,
@@ -5667,10 +5615,9 @@
           "fiend",
           "demon"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/iLW-58Ya11w"
     }
   }
   }
   }
   
-
