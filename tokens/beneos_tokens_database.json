@@ -5616,8 +5616,87 @@
           "demon"
         ],
         "videourl": "https://youtu.be/iLW-58Ya11w"
+    },
+    "094_skeletal_sapper": {
+      "description": "Skeletal Sappers were devised by the Bonemason Pioneers of the Burial Host. Sappers are driven towards fortified settlements to tear holes into their defenses, allowing the rest to advance through the ruined fortifications. These tactics were quickly adopted by ambitious necromancers and ossian artisans throughout the realms.",
+      "name": "Skeletal Sapper",
+      "properties": {
+        "biom": ["ruins", "dungeon", "road", "horror", "wilderness", "lair" ],
+        "cr": "1",
+        "fightingstyle": ["shock", "charge"],
+        "movement": ["Walk"],
+        "purpose": ["damage", "gimmick", "minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 14,
+        "stat_cha": 4,
+        "stat_con": 14,
+        "stat_dex": 16,
+        "stat_hp": 14,
+        "stat_int": 5,
+        "stat_str": 13,
+        "stat_wis": 6,
+        "thumbnail": "094_skeletal_sapper-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+    },
+    "094_skeletal_sapper": {
+      "description": "Skeletal Sappers were devised by the Bonemason Pioneers of the Burial Host. Sappers are driven towards fortified settlements to tear holes into their defenses, allowing the rest to advance through the ruined fortifications. These tactics were quickly adopted by ambitious necromancers and ossian artisans throughout the realms.",
+      "name": "Skeletal Sapper",
+      "properties": {
+        "biom": ["ruins", "dungeon", "road", "horror", "wilderness", "lair" ],
+        "cr": "1",
+        "fightingstyle": ["shock", "charge"],
+        "movement": ["Walk"],
+        "purpose": ["damage", "gimmick", "minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 14,
+        "stat_cha": 4,
+        "stat_con": 14,
+        "stat_dex": 16,
+        "stat_hp": 14,
+        "stat_int": 5,
+        "stat_str": 13,
+        "stat_wis": 6,
+        "thumbnail": "094_skeletal_sapper-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "094_skeletal_sapper": {
+      "description": "Skeletal Sappers were devised by the Bonemason Pioneers of the Burial Host. Sappers are driven towards fortified settlements to tear holes into their defenses, allowing the rest to advance through the ruined fortifications. These tactics were quickly adopted by ambitious necromancers and ossian artisans throughout the realms.",
+      "name": "Skeletal Sapper",
+      "properties": {
+        "biom": ["ruins", "dungeon", "road", "horror", "wilderness", "lair" ],
+        "cr": "1",
+        "fightingstyle": ["shock", "charge"],
+        "movement": ["Walk"],
+        "purpose": ["damage", "gimmick", "minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 14,
+        "stat_cha": 4,
+        "stat_con": 14,
+        "stat_dex": 16,
+        "stat_hp": 14,
+        "stat_int": 5,
+        "stat_str": 13,
+        "stat_wis": 6,
+        "thumbnail": "094_skeletal_sapper-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": ""
     }
   }
   }
   }
   
+
