@@ -22996,6 +22996,262 @@
          "thumbnail":"60-06_Molten_Court_Temple-SE_4K_Scen.webp",
          "videourl": "https://youtu.be/wLGgkbLKPiA"
       }
+     },
+    "61-01_Molten_Court_Entry-4K_BM": {
+       "name": "Molten Court Entry",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell"],
+         "brightness": "Bright",
+         "grid": "48x27",
+         "pack": "61_Scorched_City",
+         "releaseurl": "",
+         "sibling": "61-01_Molten_Court_Entry-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"61-01_Molten_Court_Entry-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "61-01_Molten_Court_Entry-4K_Scen": {
+       "name": "Molten Court Entry",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "61_Scorched_City",
+         "releaseurl": "",
+         "sibling": "61-01_Molten_Court_Entry-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"61-01_Molten_Court_Entry-4K_Scen.webp",
+         "videourl": ""
+      }
+     },
+    "61-02_Molten_Court-4K_BM": {
+       "name": "Molten Court",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell"],
+         "brightness": "Bright",
+         "grid": "48x27",
+         "pack": "61_Scorched_City",
+         "releaseurl": "",
+         "sibling": "61-02_Molten_Court-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"61-02_Molten_Court-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "61-02_Molten_Court-4K_Scen": {
+       "name": "Molten Court",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "61_Scorched_City",
+         "releaseurl": "",
+         "sibling": "61-02_Molten_Court-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"61-02_Molten_Court-4K_Scen.webp",
+         "videourl": ""
+      }
+     },
+    "61-03_Molten_Court_Portal_Temple-4K_BM": {
+       "name": "Molten Court Portal Temple",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell"],
+         "brightness": "Bright",
+         "grid": "48x27",
+         "pack": "61_Scorched_City",
+         "releaseurl": "",
+         "sibling": "61-03_Molten_Court_Portal_Temple-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"61-03_Molten_Court_Portal_Temple-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "61-03_Molten_Court_Portal_Temple-4K_Scen": {
+       "name": "Molten Court Portal Temple",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "61_Scorched_City",
+         "releaseurl": "",
+         "sibling": "61-03_Molten_Court_Portal_Temple-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"61-03_Molten_Court_Portal_Temple-4K_Scen.webp",
+         "videourl": ""
+      }
+     },
+    "61-04_Burning_City_1-4K_BM": {
+       "name": "Burning City 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell", "Civilized", "Jump&Run"],
+         "brightness": "Bright",
+         "grid": "48x27",
+         "pack": "61_Scorched_City",
+         "releaseurl": "",
+         "sibling": "61-04_Burning_City_1-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"61-04_Burning_City_1-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "61-04_Burning_City_1-4K_Scen": {
+       "name": "Burning City 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell", "Civilized", "Jump&Run"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "61_Scorched_City",
+         "releaseurl": "",
+         "sibling": "61-04_Burning_City_1-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"61-04_Burning_City_1-4K_Scen.webp",
+         "videourl": ""
+      }
+     },
+    "61-05_Burning_City_2-4K_BM": {
+       "name": "Burning City 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell", "Civilized", "Jump&Run"],
+         "brightness": "Bright",
+         "grid": "48x27",
+         "pack": "61_Scorched_City",
+         "releaseurl": "",
+         "sibling": "61-05_Burning_City_2-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"61-05_Burning_City_2-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "61-05_Burning_City_2-4K_Scen": {
+       "name": "Burning City 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell", "Civilized", "Jump&Run"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "61_Scorched_City",
+         "releaseurl": "",
+         "sibling": "61-05_Burning_City_2-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"61-05_Burning_City_2-4K_Scen.webp",
+         "videourl": ""
+      }
+     },
+    "61-06_Lava_Bridge-4K_BM": {
+       "name": "Lava Bridge",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell", "Civilized", "Bridge"],
+         "brightness": "Medium",
+         "grid": "48x27",
+         "pack": "61_Scorched_City",
+         "releaseurl": "",
+         "sibling": "61-06_Lava_Bridge-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"61-06_Lava_Bridge-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "61-06_Lava_Bridge-4K_Scen": {
+       "name": "Lava Bridge",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell", "Civilized", "Bridge"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "61_Scorched_City",
+         "releaseurl": "",
+         "sibling": "61-06_Lava_Bridge-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"61-06_Lava_Bridge-4K_Scen.webp",
+         "videourl": ""
+      }
+     },
+    "61-07_Last_Stand-4K_BM": {
+       "name": "Last Stand",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": [],
+         "brightness": "Bright",
+         "grid": "48x27",
+         "pack": "61_Scorched_City",
+         "releaseurl": "",
+         "sibling": "61-07_Last_Stand-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"61-07_Last_Stand-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "61-07_Last_Stand-4K_Scen": {
+       "name": "Last Stand",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": [],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "61_Scorched_City",
+         "releaseurl": "",
+         "sibling": "61-07_Last_Stand-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"61-07_Last_Stand-4K_Scen.webp",
+         "videourl": ""
+      }
+     },
+    "61-08_Lava_Camp-4K_BM": {
+       "name": "Lava Camp",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell", "Camp"],
+         "brightness": "Medium",
+         "grid": "48x27",
+         "pack": "61_Scorched_City",
+         "releaseurl": "",
+         "sibling": "61-08_Lava_Camp-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"61-08_Lava_Camp-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "61-08_Lava_Camp-4K_Scen": {
+       "name": "Lava Camp",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Lava","Fire","Planar", "Hell", "Camp"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "61_Scorched_City",
+         "releaseurl": "",
+         "sibling": "61-08_Lava_Camp-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"61-08_Lava_Camp-4K_Scen.webp",
+         "videourl": ""
+      }
     }
   }
 }
