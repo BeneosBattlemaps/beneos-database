@@ -5627,7 +5627,7 @@
         "fightingstyle": ["shock", "charge"],
         "movement": ["Walk"],
         "purpose": ["damage", "gimmick", "minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/skeletal-sapper-78112648",
         "size": "Medium",
         "stat_ac": 14,
         "stat_cha": 4,
@@ -5642,7 +5642,7 @@
           "undead",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/aqF0zkXoOOU"
     }
     },
     "095_auxiliary_automaton_1": {
@@ -5650,11 +5650,11 @@
       "name": "Auxiliary Automaton 1",
       "properties": {
         "biom": ["civilised", "city", "dungeon", "futuristic", "road"],
-        "cr": "6",
+        "cr": "5",
         "fightingstyle": ["support", "pack"],
         "movement": ["Fly"],
         "purpose": ["support", "tank"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/auxiliary-78506322",
         "size": "Large",
         "stat_ac": 16,
         "stat_cha": 5,
@@ -5669,7 +5669,7 @@
           "construct",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/0G8twvxOGcM"
     }
     },
     "095_auxiliary_automaton_2": {
@@ -5677,11 +5677,11 @@
       "name": "Auxiliary Automaton 2",
       "properties": {
         "biom": ["civilised", "city", "dungeon", "futuristic", "road"],
-        "cr": "6",
+        "cr": "5",
         "fightingstyle": ["support", "pack"],
         "movement": ["Fly"],
         "purpose": ["support", "tank"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/auxiliary-78506322",
         "size": "Large",
         "stat_ac": 16,
         "stat_cha": 5,
@@ -5696,7 +5696,7 @@
           "construct",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/0G8twvxOGcM"
     }
 
     }
