@@ -5646,7 +5646,7 @@
     }
     },
     "095_auxiliary_automaton_1": {
-      "description": "Placeholder.",
+      "description": "Auxiliary Automata are the next evolutionary step within the field of techno-arcane developments. It is outfitted with an advanced crystalline logic core that allows it to make decisions within a pre-defined perimeter, a sturdy chassis able to withstand considerable damage and gravity defying hover-generators, allowing it to navigate difficult terrain with ease. These prototypes are bristling with experimental weaponry and are designed for boarding actions within the tight confines of Airship corridors, being able to block off parts of the ship with geomantic hard-light barriers or act as a spearhead to breach fortified positions. ",
       "name": "Auxiliary Automaton 1",
       "properties": {
         "biom": ["civilised", "city", "dungeon", "futuristic", "road"],
@@ -5673,7 +5673,7 @@
     }
     },
     "095_auxiliary_automaton_2": {
-      "description": "Placeholder.",
+      "description": "Auxiliary Automata are the next evolutionary step within the field of techno-arcane developments. It is outfitted with an advanced crystalline logic core that allows it to make decisions within a pre-defined perimeter, a sturdy chassis able to withstand considerable damage and gravity defying hover-generators, allowing it to navigate difficult terrain with ease. These prototypes are bristling with experimental weaponry and are designed for boarding actions within the tight confines of Airship corridors, being able to block off parts of the ship with geomantic hard-light barriers or act as a spearhead to breach fortified positions. ",
       "name": "Auxiliary Automaton 2",
       "properties": {
         "biom": ["civilised", "city", "dungeon", "futuristic", "road"],
