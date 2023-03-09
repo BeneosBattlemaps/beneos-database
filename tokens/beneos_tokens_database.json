@@ -5709,7 +5709,7 @@
         "fightingstyle": ["pack", "shock"],
         "movement": ["Walk"],
         "purpose": ["minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/coastal-marauder-78866564",
         "size": "Medium",
         "stat_ac": 15,
         "stat_cha": 20,
@@ -5724,7 +5724,7 @@
           "humanoid",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/14buhmfD2uU"
     }
     },
     "096_coastal_marauder_2": {
@@ -5736,7 +5736,7 @@
         "fightingstyle": ["pack", "shock"],
         "movement": ["Walk"],
         "purpose": ["minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/coastal-marauder-78866564",
         "size": "Medium",
         "stat_ac": 15,
         "stat_cha": 20,
@@ -5751,7 +5751,7 @@
           "humanoid",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/14buhmfD2uU"
     }
     },
     "096_coastal_marauder_3": {
@@ -5763,7 +5763,7 @@
         "fightingstyle": ["pack", "shock"],
         "movement": ["Walk"],
         "purpose": ["minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/coastal-marauder-78866564",
         "size": "Medium",
         "stat_ac": 15,
         "stat_cha": 20,
@@ -5778,7 +5778,7 @@
           "humanoid",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/14buhmfD2uU"
     }
     },
     "096_stormwrath_marauder": {
@@ -5790,7 +5790,7 @@
         "fightingstyle": ["duelist", "shock"],
         "movement": ["Walk"],
         "purpose": ["damage", "tank"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/coastal-marauder-78866564",
         "size": "Medium",
         "stat_ac": 15,
         "stat_cha": 15,
@@ -5805,7 +5805,7 @@
           "humanoid",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/14buhmfD2uU"
     
     },
     "097_hoplite_1": {
@@ -5817,7 +5817,7 @@
         "fightingstyle": ["tactical", "pack"],
         "movement": ["Walk"],
         "purpose": ["minion", "tank"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/hoplites-79089468",
         "size": "Medium",
         "stat_ac": 17,
         "stat_cha": 10,
@@ -5832,7 +5832,7 @@
           "humanoid",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/AFc4LXcamZ4"
     }
     },
     "097_hoplite_2": {
@@ -5844,7 +5844,7 @@
         "fightingstyle": ["tactical", "pack"],
         "movement": ["Walk"],
         "purpose": ["minion", "tank"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/hoplites-79089468",
         "size": "Medium",
         "stat_ac": 17,
         "stat_cha": 10,
@@ -5859,7 +5859,7 @@
           "humanoid",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/AFc4LXcamZ4"
     }
     },
     "097_hoplite_3": {
@@ -5871,7 +5871,7 @@
         "fightingstyle": ["tactical", "pack"],
         "movement": ["Walk"],
         "purpose": ["minion", "tank"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/hoplites-79089468",
         "size": "Medium",
         "stat_ac": 17,
         "stat_cha": 10,
@@ -5886,7 +5886,7 @@
           "humanoid",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/AFc4LXcamZ4"
     }
     },
     "097_hoplite_4": {
@@ -5898,7 +5898,7 @@
         "fightingstyle": ["tactical", "pack"],
         "movement": ["Walk"],
         "purpose": ["minion", "tank"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/hoplites-79089468",
         "size": "Medium",
         "stat_ac": 17,
         "stat_cha": 10,
@@ -5913,7 +5913,7 @@
           "humanoid",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/AFc4LXcamZ4"
     }
     },
     "098_knight_of_tragedy": {
@@ -5925,7 +5925,7 @@
         "fightingstyle": ["melee", "lethal"],
         "movement": ["Walk"],
         "purpose": ["boss", "damage"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/knight-of-79493675",
         "size": "Medium",
         "stat_ac": 18,
         "stat_cha": 20,
@@ -5940,10 +5940,10 @@
           "undead",
           ""
         ],
-        "videourl": ""
-    }
+        "videourl": "https://youtu.be/pSt9puspSzU"
+    
   }
   }
   }
   
-}
+}}
