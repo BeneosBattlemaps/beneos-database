@@ -5942,8 +5942,62 @@
         ],
         "videourl": "https://youtu.be/pSt9puspSzU"
     
+    },
+    "099_shipbreaker_leviathan": {
+      "description": "Collapsed under the weight of their oaths, these fallen Knights are bound to ruined castles or abandoned chapels. Some sold their souls to protect their brethren, transgressed against their patron saint or broke their oath so severly that it resulted in the total corruption of their being. Whatever the reason for their downfall, these erstwhile epitomes of piety and righteousness have become dark mirrors of their past, now doomed to cause the same pain and suffering they were once sworn to fight. Steeped in tragedy, these Knights are solemn creatures, most harboring the secret desire to die in combat, being finally brought to justice by a righteous blade.",
+      "name": "Shipbreaker Leviathan",
+      "properties": {
+        "biom": ["dungeon", "ruins", "graves","sacral", "lair", "mountains", "civilised", "city"],
+        "cr": "11",
+        "fightingstyle": ["melee", "lethal"],
+        "movement": ["Walk"],
+        "purpose": ["boss", "damage"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 18,
+        "stat_cha": 20,
+        "stat_con": 18,
+        "stat_dex": 13,
+        "stat_hp": 180,
+        "stat_int": 14,
+        "stat_str": 20,
+        "stat_wis": 18,
+        "thumbnail": "099_shipbreaker_leviathan-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "099_shipbreaker_leviathan": {
+      "description": "Collapsed under the weight of their oaths, these fallen Knights are bound to ruined castles or abandoned chapels. Some sold their souls to protect their brethren, transgressed against their patron saint or broke their oath so severly that it resulted in the total corruption of their being. Whatever the reason for their downfall, these erstwhile epitomes of piety and righteousness have become dark mirrors of their past, now doomed to cause the same pain and suffering they were once sworn to fight. Steeped in tragedy, these Knights are solemn creatures, most harboring the secret desire to die in combat, being finally brought to justice by a righteous blade.",
+      "name": "Shipbreaker Leviathan",
+      "properties": {
+        "biom": ["dungeon", "ruins", "graves","sacral", "lair", "mountains", "civilised", "city"],
+        "cr": "11",
+        "fightingstyle": ["melee", "lethal"],
+        "movement": ["Walk"],
+        "purpose": ["boss", "damage"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 18,
+        "stat_cha": 20,
+        "stat_con": 18,
+        "stat_dex": 13,
+        "stat_hp": 180,
+        "stat_int": 14,
+        "stat_str": 20,
+        "stat_wis": 18,
+        "thumbnail": "099_shipbreaker_leviathan-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": ""
+    }
   }
   }
   }
   
-}}
+
