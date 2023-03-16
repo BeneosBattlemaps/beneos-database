@@ -5941,7 +5941,8 @@
           ""
         ],
         "videourl": "https://youtu.be/pSt9puspSzU"
-    
+ 
+    }
     },
     "099_shipbreaker_leviathan": {
       "description": "Collapsed under the weight of their oaths, these fallen Knights are bound to ruined castles or abandoned chapels. Some sold their souls to protect their brethren, transgressed against their patron saint or broke their oath so severly that it resulted in the total corruption of their being. Whatever the reason for their downfall, these erstwhile epitomes of piety and righteousness have become dark mirrors of their past, now doomed to cause the same pain and suffering they were once sworn to fight. Steeped in tragedy, these Knights are solemn creatures, most harboring the secret desire to die in combat, being finally brought to justice by a righteous blade.",
@@ -5970,28 +5971,82 @@
         "videourl": ""
     }
     },
-    "099_shipbreaker_leviathan": {
-      "description": "Collapsed under the weight of their oaths, these fallen Knights are bound to ruined castles or abandoned chapels. Some sold their souls to protect their brethren, transgressed against their patron saint or broke their oath so severly that it resulted in the total corruption of their being. Whatever the reason for their downfall, these erstwhile epitomes of piety and righteousness have become dark mirrors of their past, now doomed to cause the same pain and suffering they were once sworn to fight. Steeped in tragedy, these Knights are solemn creatures, most harboring the secret desire to die in combat, being finally brought to justice by a righteous blade.",
-      "name": "Shipbreaker Leviathan",
+    "100_luck_dragon_1": {
+      "description": "In stark contrast to their domineering and tyrannical brethren, these travel sized dragons usually prefer a friendly scratch behind the ears to worship and subjugation. They do not take themselves very seriously and admire this quality in others, known to both form strong bonds of friendship, as well as petty, but well-spirited rivalries. It is unclear if the Luck Dragon's existence implies the existence of a Bad Luck Dragon, but experts argue that regular Dragons could already be considered Bad Luck Dragons.",
+      "name": "Luck Dragon",
       "properties": {
-        "biom": ["dungeon", "ruins", "graves","sacral", "lair", "mountains", "civilised", "city"],
-        "cr": "11",
+        "biom": ["dungeon", "ruins","lair", "mountains", "civilised", "city", "planar", "wilderness"],
+        "cr": "1",
         "fightingstyle": ["melee", "lethal"],
-        "movement": ["Walk"],
-        "purpose": ["boss", "damage"],
+        "movement": ["Fly"],
+        "purpose": ["ally", "gimmick"],
         "releaseurl": "",
-        "size": "Medium",
-        "stat_ac": 18,
+        "size": "Small",
+        "stat_ac": 16,
         "stat_cha": 20,
-        "stat_con": 18,
-        "stat_dex": 13,
-        "stat_hp": 180,
-        "stat_int": 14,
-        "stat_str": 20,
-        "stat_wis": 18,
-        "thumbnail": "099_shipbreaker_leviathan-idle_face_still.webp",
+        "stat_con": 10,
+        "stat_dex": 20,
+        "stat_hp": 17,
+        "stat_int": 13,
+        "stat_str": 3,
+        "stat_wis": 8,
+        "thumbnail": "100_luck_dragon_1-idle_face_still.webp",
         "type": [
-          "undead",
+          "dragon",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "100_luck_dragon_2": {
+      "description": "In stark contrast to their domineering and tyrannical brethren, these travel sized dragons usually prefer a friendly scratch behind the ears to worship and subjugation. They do not take themselves very seriously and admire this quality in others, known to both form strong bonds of friendship, as well as petty, but well-spirited rivalries. It is unclear if the Luck Dragon's existence implies the existence of a Bad Luck Dragon, but experts argue that regular Dragons could already be considered Bad Luck Dragons.",
+      "name": "Luck Dragon",
+      "properties": {
+        "biom": ["dungeon", "ruins","lair", "mountains", "civilised", "city", "planar", "wilderness"],
+        "cr": "1",
+        "fightingstyle": ["melee", "lethal"],
+        "movement": ["Fly"],
+        "purpose": ["ally", "gimmick"],
+        "releaseurl": "",
+        "size": "Small",
+        "stat_ac": 16,
+        "stat_cha": 20,
+        "stat_con": 10,
+        "stat_dex": 20,
+        "stat_hp": 17,
+        "stat_int": 13,
+        "stat_str": 3,
+        "stat_wis": 8,
+        "thumbnail": "100_luck_dragon_2-idle_face_still.webp",
+        "type": [
+          "dragon",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "100_luck_dragon_3": {
+      "description": "In stark contrast to their domineering and tyrannical brethren, these travel sized dragons usually prefer a friendly scratch behind the ears to worship and subjugation. They do not take themselves very seriously and admire this quality in others, known to both form strong bonds of friendship, as well as petty, but well-spirited rivalries. It is unclear if the Luck Dragon's existence implies the existence of a Bad Luck Dragon, but experts argue that regular Dragons could already be considered Bad Luck Dragons.",
+      "name": "Luck Dragon",
+      "properties": {
+        "biom": ["dungeon", "ruins","lair", "mountains", "civilised", "city", "planar", "wilderness"],
+        "cr": "1",
+        "fightingstyle": ["melee", "lethal"],
+        "movement": ["Fly"],
+        "purpose": ["ally", "gimmick"],
+        "releaseurl": "",
+        "size": "Small",
+        "stat_ac": 16,
+        "stat_cha": 20,
+        "stat_con": 10,
+        "stat_dex": 20,
+        "stat_hp": 17,
+        "stat_int": 13,
+        "stat_str": 3,
+        "stat_wis": 8,
+        "thumbnail": "100_luck_dragon_3-idle_face_still.webp",
+        "type": [
+          "dragon",
           ""
         ],
         "videourl": ""
@@ -6000,4 +6055,4 @@
   }
   }
   
-
+ }
