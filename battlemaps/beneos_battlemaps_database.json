@@ -23252,6 +23252,294 @@
          "thumbnail":"61-08_Lava_Camp-4K_Scen.webp",
          "videourl": ""
       }
+     },
+    "62-01_Argynvostholt_West_Side-4K_BM": {
+       "name": "Argynvostholt West Side",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Castle","Ruin","Exteriour"],
+         "brightness": "Medium",
+         "grid": "48x27",
+         "pack": "62_Argynvostholt_Remake",
+         "releaseurl": "",
+         "sibling": "62-01_Argynvostholt_West_Side-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"62-01_Argynvostholt_West_Side-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "62-01_Argynvostholt_West_Side-4K_Scen": {
+       "name": "Argynvostholt West Side",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Castle","Ruin","Exteriour"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "62_Argynvostholt_Remake",
+         "releaseurl": "",
+         "sibling": "62-01_Argynvostholt_West_Side-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"62-01_Argynvostholt_West_Side-4K_Scen.webp",
+         "videourl": ""
+      }
+     },
+    "62-02_Argynvostholt_North_Side-4K_BM": {
+       "name": "Argynvostholt North Side",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Castle","Ruin","Exteriour"],
+         "brightness": "Medium",
+         "grid": "48x27",
+         "pack": "62_Argynvostholt_Remake",
+         "releaseurl": "",
+         "sibling": "62-02_Argynvostholt_North_Side-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"62-02_Argynvostholt_North_Side-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "62-02_Argynvostholt_North_Side-4K_Scen": {
+       "name": "Argynvostholt North Side",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Castle","Ruin","Exteriour"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "62_Argynvostholt_Remake",
+         "releaseurl": "",
+         "sibling": "62-02_Argynvostholt_North_Side-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"62-02_Argynvostholt_North_Side-4K_Scen.webp",
+         "videourl": ""
+      }
+     },
+    "62-03_Argynvostholt_South_Side-4K_BM": {
+       "name": "Argynvostholt South Side",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Castle","Ruin","Exteriour"],
+         "brightness": "Medium",
+         "grid": "48x27",
+         "pack": "62_Argynvostholt_Remake",
+         "releaseurl": "",
+         "sibling": "62-03_Argynvostholt_South_Side-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"62-03_Argynvostholt_South_Side-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "62-03_Argynvostholt_South_Side-4K_Scen": {
+       "name": "Argynvostholt South Side",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Castle","Ruin","Exteriour"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "62_Argynvostholt_Remake",
+         "releaseurl": "",
+         "sibling": "62-03_Argynvostholt_South_Side-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"62-03_Argynvostholt_South_Side-4K_Scen.webp",
+         "videourl": ""
+      }
+     },
+    "62-04_Argynvostholt_1F-4K_BM": {
+       "name": "Argynvostholt 1F",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Castle","Ruin","Interiour"],
+         "brightness": "Dark",
+         "grid": "48x27",
+         "pack": "62_Argynvostholt_Remake",
+         "releaseurl": "",
+         "sibling": "62-04_Argynvostholt_1F-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"62-04_Argynvostholt_1F-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "62-04_Argynvostholt_1F-4K_Scen": {
+       "name": "Argynvostholt 1F",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Castle","Ruin","Interiour"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "62_Argynvostholt_Remake",
+         "releaseurl": "",
+         "sibling": "62-04_Argynvostholt_1F-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"62-04_Argynvostholt_1F-4K_Scen.webp",
+         "videourl": ""
+      }
+     },
+    "62-05_Argynvostholt_2F-4K_BM": {
+       "name": "Argynvostholt 2F",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Castle","Ruin","Interiour"],
+         "brightness": "Dark",
+         "grid": "48x27",
+         "pack": "62_Argynvostholt_Remake",
+         "releaseurl": "",
+         "sibling": "62-05_Argynvostholt_2F-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"62-05_Argynvostholt_2F-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "62-05_Argynvostholt_2F-4K_Scen": {
+       "name": "Argynvostholt 2F",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Castle","Ruin","Interiour"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "62_Argynvostholt_Remake",
+         "releaseurl": "",
+         "sibling": "62-05_Argynvostholt_2F-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"62-05_Argynvostholt_2F-4K_Scen.webp",
+         "videourl": ""
+      }
+     },
+    "62-06_Argynvostholt_3F-4K_BM": {
+       "name": "Argynvostholt 3F",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Castle","Ruin","Interiour"],
+         "brightness": "Dark",
+         "grid": "48x27",
+         "pack": "62_Argynvostholt_Remake",
+         "releaseurl": "",
+         "sibling": "62-06_Argynvostholt_3F-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"62-06_Argynvostholt_3F-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "62-06_Argynvostholt_3F-4K_Scen": {
+       "name": "Argynvostholt 3F",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Castle","Ruin","Interiour"],
+         "brightness": "Dark",
+         "grid": "None",
+         "pack": "62_Argynvostholt_Remake",
+         "releaseurl": "",
+         "sibling": "62-06_Argynvostholt_3F-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"62-06_Argynvostholt_3F-4K_Scen.webp",
+         "videourl": ""
+      }
+     },
+    "62-07_Argynvostholt_4F-4K_BM": {
+       "name": "Argynvostholt 4F",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Castle","Ruin","Exteriour"],
+         "brightness": "Medium",
+         "grid": "48x27",
+         "pack": "62_Argynvostholt_Remake",
+         "releaseurl": "",
+         "sibling": "62-07_Argynvostholt_4F-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"62-07_Argynvostholt_4F-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "62-07_Argynvostholt_4F-4K_Scen": {
+       "name": "Argynvostholt 4F",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Castle","Ruin","Exteriour"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "62_Argynvostholt_Remake",
+         "releaseurl": "",
+         "sibling": "62-07_Argynvostholt_4F-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"62-07_Argynvostholt_4F-4K_Scen.webp",
+         "videourl": ""
+      }
+     },
+    "62-08_Argynvostholt_5F-4K_BM": {
+       "name": "Argynvostholt 5F",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Castle","Ruin","Interiour"],
+         "brightness": "Medium",
+         "grid": "48x27",
+         "pack": "62_Argynvostholt_Remake",
+         "releaseurl": "",
+         "sibling": "62-08_Argynvostholt_5F-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"62-08_Argynvostholt_5F-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "62-08_Argynvostholt_5F-4K_Scen": {
+       "name": "Argynvostholt 5F",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Castle","Ruin","Interiour"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "62_Argynvostholt_Remake",
+         "releaseurl": "",
+         "sibling": "62-08_Argynvostholt_5F-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"62-08_Argynvostholt_5F-4K_Scen.webp",
+         "videourl": ""
+      }
+     },
+    "62-09_Argynvostholt_6F-4K_BM": {
+       "name": "Argynvostholt 6F",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Castle","Ruin","Interiour"],
+         "brightness": "Medium",
+         "grid": "16x9",
+         "pack": "62_Argynvostholt_Remake",
+         "releaseurl": "",
+         "sibling": "62-09_Argynvostholt_6F-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"62-09_Argynvostholt_6F-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "62-09_Argynvostholt_6F-4K_Scen": {
+       "name": "Argynvostholt 6F",
+       "description": "",
+       "properties": {
+         "adventure": ["Curse of Strahd"],
+         "biom": ["Civilised","Castle","Ruin","Interiour"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "62_Argynvostholt_Remake",
+         "releaseurl": "",
+         "sibling": "62-09_Argynvostholt_6F-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"62-09_Argynvostholt_6F-4K_Scen.webp",
+         "videourl": ""
+      }
     }
   }
 }
