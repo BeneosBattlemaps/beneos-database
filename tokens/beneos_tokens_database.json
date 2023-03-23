@@ -6051,8 +6051,35 @@
         ],
         "videourl": ""
     }
+    },
+    "101_stonegorger": {
+      "description": "Stonegorgers are an enigmatic offshoot of giant-kin, lacking the majesty and grandeur of their mythical brethren. Called Skoldbærer in their native tongue, fables claim that Stonegorgers devour rock and stone to get to the gems, ores and minerals within in an attempt to reunite their earthen mother with her treasures. Accumulating these precious materials within their bodies, they slowly turn into stone themselves. As they approach the end of their life, they seek ever greater depths, finally succumbing to age and pressure, returning earth’s treasures to its womb. The earth welcomes its wayward children back and gracefully accepts the gifts they bring, rewarding the Stonegorger by slowly turning it into a being of pure diamond, in death finally achieving the beauty it always pursued.",
+      "name": "Stonegorger",
+      "properties": {
+        "biom": ["dungeon", "ruins","lair", "mountains", "civilised", "city", "planar", "wilderness"],
+        "cr": "6",
+        "fightingstyle": ["simple"],
+        "movement": ["Walk"],
+        "purpose": ["tank"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 18,
+        "stat_cha": 6,
+        "stat_con": 22,
+        "stat_dex": 5,
+        "stat_hp": 177,
+        "stat_int": 6,
+        "stat_str": 22,
+        "stat_wis": 12,
+        "thumbnail": "101_stonegorger-idle_face_still.webp",
+        "type": [
+          "giant",
+          ""
+        ],
+        "videourl": ""
+    }
   }
   }
   }
   
- }
+}
