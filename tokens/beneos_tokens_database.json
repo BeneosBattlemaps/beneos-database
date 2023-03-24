@@ -6061,7 +6061,7 @@
         "fightingstyle": ["simple"],
         "movement": ["Walk"],
         "purpose": ["tank"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/80473250",
         "size": "Huge",
         "stat_ac": 18,
         "stat_cha": 6,
@@ -6076,7 +6076,7 @@
           "giant",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/p_qYjlFjvOI"
     }
   }
   }
