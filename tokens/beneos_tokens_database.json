@@ -5953,7 +5953,7 @@
         "fightingstyle": ["melee", "lethal"],
         "movement": ["Walk"],
         "purpose": ["boss", "damage"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/shipbreaker-79790036",
         "size": "Medium",
         "stat_ac": 18,
         "stat_cha": 20,
@@ -5968,7 +5968,7 @@
           "undead",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/-5sZ6yRfqII"
     }
     },
     "100_luck_dragon_1": {
@@ -5980,7 +5980,7 @@
         "fightingstyle": ["melee", "lethal"],
         "movement": ["Fly"],
         "purpose": ["ally", "gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/luck-dragon-80147494",
         "size": "Small",
         "stat_ac": 16,
         "stat_cha": 20,
@@ -5995,7 +5995,7 @@
           "dragon",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/Wq-m7bl75Rs"
     }
     },
     "100_luck_dragon_2": {
@@ -6007,7 +6007,7 @@
         "fightingstyle": ["melee", "lethal"],
         "movement": ["Fly"],
         "purpose": ["ally", "gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/luck-dragon-80147494",
         "size": "Small",
         "stat_ac": 16,
         "stat_cha": 20,
@@ -6022,7 +6022,7 @@
           "dragon",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/Wq-m7bl75Rs"
     }
     },
     "100_luck_dragon_3": {
@@ -6034,7 +6034,7 @@
         "fightingstyle": ["melee", "lethal"],
         "movement": ["Fly"],
         "purpose": ["ally", "gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/luck-dragon-80147494",
         "size": "Small",
         "stat_ac": 16,
         "stat_cha": 20,
@@ -6049,7 +6049,7 @@
           "dragon",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/Wq-m7bl75Rs"
     }
     },
     "101_stonegorger": {
