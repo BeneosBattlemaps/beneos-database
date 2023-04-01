@@ -6078,6 +6078,34 @@
         ],
         "videourl": "https://youtu.be/p_qYjlFjvOI"
     }
+
+    },
+    "102_gatebreaker_devil": {
+      "description": "Lacking the subtleness of their more devious kin, Gatebreaker Devils are part of the infernal vanguard, leading the charge upon the event of an incursion, as they charge through the brimstone gates and trample anything in their way. Eager to inflict wrath and violence upon the world, they are often called upon by Diabolists and Summoners to enact violence in their service. As they are lesser devils in that sense that they merely represent an aspect of a sin, rather than holding command over it, they are less likely to intentionally try and corrupt their temporary master.",
+      "name": "Gatebreaker Devil",
+      "properties": {
+        "biom": ["dungeon", "ruins","infernal","desert", "planar", "wilderness"],
+        "cr": "8",
+        "fightingstyle": ["melee", "charge"],
+        "movement": ["Walk"],
+        "purpose": ["damage" , "gimmick" ],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 16,
+        "stat_cha": 13,
+        "stat_con": 22,
+        "stat_dex": 8,
+        "stat_hp": 167,
+        "stat_int": 8,
+        "stat_str": 22,
+        "stat_wis": 12,
+        "thumbnail": "102_gatebreaker_devil-idle_face_still.webp",
+        "type": [
+          "fiend",
+          "devil"
+        ],
+        "videourl": ""
+    }
   }
   }
   }
