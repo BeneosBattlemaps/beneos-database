@@ -6089,7 +6089,7 @@
         "fightingstyle": ["melee", "charge"],
         "movement": ["Walk"],
         "purpose": ["damage" , "gimmick" ],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/gatebreaker-80874801",
         "size": "Huge",
         "stat_ac": 16,
         "stat_cha": 13,
@@ -6103,6 +6103,33 @@
         "type": [
           "fiend",
           "devil"
+        ],
+        "videourl": "https://youtu.be/mh29BpjgIik"
+    }
+    },
+    "103_gloomspore_harvester": {
+      "description": "Gloomspore Harvesters haunt jungles and fungus forests, swamps, subterran groves and even occasionally overgrown city sewers. In dim light, their gaunt upper body resembles a scrawny tree, while it gently shifts its weight between its branch-like six legs, allowing it to silently stride through thick underbrush, as well as crawl-climb through the tree tops. A gentle rain of soft-glowing spores surrounds it, allowing the Harvester to sense its surroundings and infesting living creatures. Each infested creature appears as a radiant beacon to the Harvester, who in turn skulks towards it to harvest its weakened prey's dwindling energy.",
+      "name": "Gloomspore Harvester",
+      "properties": {
+        "biom": ["dungeon", "forest","underground", "planar", "wilderness"],
+        "cr": "7",
+        "fightingstyle": ["gimmick", "debuff"],
+        "movement": ["Walk"],
+        "purpose": ["regeneration" , "demanding" ],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 15,
+        "stat_cha": 8,
+        "stat_con": 18,
+        "stat_dex": 16,
+        "stat_hp": 137,
+        "stat_int": 6,
+        "stat_str": 18,
+        "stat_wis": 14,
+        "thumbnail": "103_gloomspore_harvester-idle_face_still.webp",
+        "type": [
+          "monstrosity",
+          ""
         ],
         "videourl": ""
     }
