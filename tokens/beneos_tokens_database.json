@@ -6133,6 +6133,33 @@
         ],
         "videourl": ""
     }
+    },
+    "104_bone_host": {
+      "description": "A Bone Host is no single demon, rather a tendril of a multifacteded demonic swarm-being inhabiting one of several host bodies of gnarled bone. This demonic consciousness, resembling a shoal of abyssal energy, is spread over several Bone Hosts, fighting and hunting together in fiendish synchronicity..",
+      "name": "Bone Host",
+      "properties": {
+        "biom": ["dungeon", "underground", "planar", "wilderness", "abyssal", "infernal", "horror"],
+        "cr": "4",
+        "fightingstyle": ["pack", "melee"],
+        "movement": ["Walk"],
+        "purpose": ["damage" , "minion" ],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 17,
+        "stat_cha": 9,
+        "stat_con": 18,
+        "stat_dex": 12,
+        "stat_hp": 69,
+        "stat_int": 8,
+        "stat_str": 18,
+        "stat_wis": 12,
+        "thumbnail": "104_bone_host-idle_face_still.webp",
+        "type": [
+          "fiend",
+          "demon"
+        ],
+        "videourl": ""
+    }
   }
   }
   }
