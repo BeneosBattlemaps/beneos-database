@@ -6159,6 +6159,61 @@
           "demon"
         ],
         "videourl": ""
+		
+		    }
+    },
+    "000_month_1_bone_hag_1": {
+      "description": "Bone Hags abhor civilization’s ever expanding need for greater cities and more farmland.They regard each village as nothing but a malign growth with the potential to mutate into a tumorous city if left unchecked. As they draw strength from their bindings to the bones of the earth, the very essence of the primordial titans who gave up their bodies to create room for earthbound life, they require earth and stone untouched by tools or stonecraft, violently subduing any outside attempts to encroach on their domains.",
+      "name": "Bone Hag",
+      "properties": {
+        "biom": ["dungeon", "underground", "planar", "wilderness", "abyssal", "wasteland", "wilderness", "mountain", "desert"],
+        "cr": "12",
+        "fightingstyle": ["aoe", "demanding"],
+        "movement": ["Walk"],
+        "purpose": ["boss", "debuff", "pressure" ],
+        "releaseurl": "https://www.patreon.com/posts/loyalty-token-81138008",
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 20,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 129,
+        "stat_int": 14,
+        "stat_str": 18,
+        "stat_wis": 18,
+        "thumbnail": "000_month_1_bone_hag_1-idle_face_still.webp",
+        "type": [
+          "fey",
+          "hag"
+        ],
+        "videourl": "https://youtu.be/RHuZD_GkJ3U"
+		    }
+    },
+    "000_month_1_bone_hag_2": {
+      "description": "Bone Hags abhor civilization’s ever expanding need for greater cities and more farmland.They regard each village as nothing but a malign growth with the potential to mutate into a tumorous city if left unchecked. As they draw strength from their bindings to the bones of the earth, the very essence of the primordial titans who gave up their bodies to create room for earthbound life, they require earth and stone untouched by tools or stonecraft, violently subduing any outside attempts to encroach on their domains.",
+      "name": "Bone Hag",
+      "properties": {
+        "biom": ["dungeon", "underground", "planar", "wilderness", "abyssal", "wasteland", "wilderness", "mountain", "desert"],
+        "cr": "12",
+        "fightingstyle": ["aoe", "demanding"],
+        "movement": ["Walk"],
+        "purpose": ["boss", "debuff", "pressure" ],
+        "releaseurl": "https://www.patreon.com/posts/loyalty-token-81138008",
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 20,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 129,
+        "stat_int": 14,
+        "stat_str": 18,
+        "stat_wis": 18,
+        "thumbnail": "000_month_1_bone_hag_2-idle_face_still.webp",
+        "type": [
+          "fey",
+          "hag"
+        ],
+        "videourl": "https://youtu.be/RHuZD_GkJ3U"
     }
   }
   }
