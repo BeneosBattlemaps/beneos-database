@@ -6221,7 +6221,7 @@
       "name": "Ogre Mercenary",
       "properties": {
         "biom": ["dungeon", "underground", "ruins", "wilderness", "raod", "mountains", "desert" , "civilised", "coastal", "tavern", "wasteland", "forest", "city"],
-        "cr": "3",
+        "cr": "4",
         "fightingstyle": ["simple", "pack", "melee"],
         "movement": ["Walk"],
         "purpose": ["debuff" , "minion" ],
