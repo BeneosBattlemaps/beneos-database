@@ -6225,7 +6225,7 @@
         "fightingstyle": ["simple", "pack", "melee"],
         "movement": ["Walk"],
         "purpose": ["debuff" , "minion" ],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/ogre-mercenary-81788257",
         "size": "Large",
         "stat_ac": 14,
         "stat_cha": 7,
@@ -6240,7 +6240,7 @@
           "giant",
           "ogre"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/ji00xqE-Pqw"
     }
     },
     "106_equiterrean": {
@@ -6273,4 +6273,4 @@
   }
   }
   
-
+}
