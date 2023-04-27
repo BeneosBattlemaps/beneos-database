@@ -6242,8 +6242,35 @@
         ],
         "videourl": ""
     }
+    },
+    "106_equiterrean": {
+      "description": "Equiterreans resemble horses carved from mossy rock, decked with a coat of rich earthy tones, adorned with vibrant greenery and blooming flowers. They are stalwart and gentle beings, channeling the lifegiving powers of earth and sun, mending wounds and restoring vigor. Loyal servants to those having dominion over the earthen aspect of the elemental spheres are often bestowed with such a steed as a boon, but Equiterreans may also choose to accept a worthy being as their rider themselves.",
+      "name": "Equiterrean",
+      "properties": {
+        "biom": ["forest", "underground", "ruins", "wilderness", "road", "mountains", "desert","wasteland"],
+        "cr": "4",
+        "fightingstyle": ["regeneration", "simple"],
+        "movement": ["Walk"],
+        "purpose": ["ally" , "mount" ],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 17,
+        "stat_cha": 10,
+        "stat_con": 16,
+        "stat_dex": 14,
+        "stat_hp": 53,
+        "stat_int": 5,
+        "stat_str": 17,
+        "stat_wis": 12,
+        "thumbnail": "106_equiterrean-idle_face_still.webp",
+        "type": [
+          "elemental",
+          ""
+        ],
+        "videourl": ""
+    }
   }
   }
   }
   
-}
+
