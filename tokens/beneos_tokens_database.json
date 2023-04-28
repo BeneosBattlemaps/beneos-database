@@ -6252,7 +6252,7 @@
         "fightingstyle": ["regeneration", "simple"],
         "movement": ["Walk"],
         "purpose": ["ally" , "mount" ],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/equiterrean-82175010?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
         "size": "Large",
         "stat_ac": 17,
         "stat_cha": 10,
@@ -6267,7 +6267,7 @@
           "elemental",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/rWHdnu3Qcuc"
     }
   }
   }
