@@ -6433,6 +6433,87 @@
         ],
         "videourl": ""
     }
+    },
+    "109_henge_guardian_1": {
+      "description": "Henge Guardians are ancient constructs carved by shamans from blessed rock, acting as arbiters of peace and bulwarks against intruders from beyond the veil of the mundane world. Within the Guardian reside ancestral spirits of ages past, souls of chiefs, warriors, shamans or figures of importance to the tribesfolk, empowering the towering stonework of their collective body with the desire to protect their kin and continually serve the tribe in death.",
+      "name": "Henge Guardian 1",
+      "properties": {
+        "biom": ["dungeon", "ruins", "wilderness", "planar", "sacral", "desert", "mountains", "forest", "wasteland", "civilised"],
+        "cr": "10",
+        "fightingstyle": ["Simple", "AoE"],
+        "movement": ["Walk"],
+        "purpose": ["Debuff", "Tank", "Ally"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 18,
+        "stat_cha": 14,
+        "stat_con": 24,
+        "stat_dex": 5,
+        "stat_hp": 223,
+        "stat_int": 12,
+        "stat_str": 26,
+        "stat_wis": 18,
+        "thumbnail": "109_henge_guardian_1-idle_face_still.webp",
+        "type": [
+          "construct",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "109_henge_guardian_2": {
+      "description": "Henge Guardians are ancient constructs carved by shamans from blessed rock, acting as arbiters of peace and bulwarks against intruders from beyond the veil of the mundane world. Within the Guardian reside ancestral spirits of ages past, souls of chiefs, warriors, shamans or figures of importance to the tribesfolk, empowering the towering stonework of their collective body with the desire to protect their kin and continually serve the tribe in death.",
+      "name": "Henge Guardian 2",
+      "properties": {
+        "biom": ["dungeon", "ruins", "wilderness", "planar", "sacral", "desert", "mountains", "forest", "wasteland", "civilised"],
+        "cr": "10",
+        "fightingstyle": ["Simple", "AoE"],
+        "movement": ["Walk"],
+        "purpose": ["Debuff", "Tank", "Ally"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 18,
+        "stat_cha": 14,
+        "stat_con": 24,
+        "stat_dex": 5,
+        "stat_hp": 223,
+        "stat_int": 12,
+        "stat_str": 26,
+        "stat_wis": 18,
+        "thumbnail": "109_henge_guardian_2-idle_face_still.webp",
+        "type": [
+          "construct",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "109_henge_guardian_3": {
+      "description": "Henge Guardians are ancient constructs carved by shamans from blessed rock, acting as arbiters of peace and bulwarks against intruders from beyond the veil of the mundane world. Within the Guardian reside ancestral spirits of ages past, souls of chiefs, warriors, shamans or figures of importance to the tribesfolk, empowering the towering stonework of their collective body with the desire to protect their kin and continually serve the tribe in death.",
+      "name": "Henge Guardian 3",
+      "properties": {
+        "biom": ["dungeon", "ruins", "wilderness", "planar", "sacral", "desert", "mountains", "forest", "wasteland", "civilised"],
+        "cr": "10",
+        "fightingstyle": ["Simple", "AoE"],
+        "movement": ["Walk"],
+        "purpose": ["Debuff", "Tank", "Ally"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 18,
+        "stat_cha": 14,
+        "stat_con": 24,
+        "stat_dex": 5,
+        "stat_hp": 223,
+        "stat_int": 12,
+        "stat_str": 26,
+        "stat_wis": 18,
+        "thumbnail": "109_henge_guardian_3-idle_face_still.webp",
+        "type": [
+          "construct",
+          ""
+        ],
+        "videourl": ""
+    }
   }
   }
   }
