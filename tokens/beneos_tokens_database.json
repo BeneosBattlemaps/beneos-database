@@ -6514,6 +6514,35 @@
         ],
         "videourl": ""
     }
+    
+    }
+    },
+    "110_apshait_ambusher": {
+      "description": "Apshait are named after mythical insects said to feast on the souls of the dead during their travels through the underworld. Those worrying about their immortal soul may be relieved to hear that the actual Apshait much prefer to feast on mortal bodies instead, making them a dangerous prospect for both lone travelers or armed transports traversing infested landscapes. Breeding in looming underground hives, the Asphait’s expansive tunnel networks stretch far beyond the central hive chambers, where the Apshait soldier swarms utilize them to coordinate intricate ambushes.",
+      "name": "Apshait Ambusher",
+      "properties": {
+        "biom": ["dungeon", "ruins", "wilderness", "desert", "mountains", "wasteland", "road"],
+        "cr": "2",
+        "fightingstyle": ["Ambusher", "Pack"],
+        "movement": ["Walk"],
+        "purpose": ["Debuff", "Pressure"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 14,
+        "stat_cha": 6,
+        "stat_con": 14,
+        "stat_dex": 13,
+        "stat_hp": 43,
+        "stat_int": 1,
+        "stat_str": 16,
+        "stat_wis": 13,
+        "thumbnail": "110_apshait_ambusher-idle_face_still.webp",
+        "type": [
+          "beast",
+          "insect"
+        ],
+        "videourl": ""
+    }
   }
   }
   }
