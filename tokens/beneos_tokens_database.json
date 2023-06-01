@@ -6706,8 +6706,35 @@
         "videourl": ""
     }
 
+    },
+    "111_aerocyte_floatling_inflated_2": {
+      "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
+      "name": "Aerocyte Floatling Inflated 2",
+      "properties": {
+        "biom": ["dungeon", "ruins", "wilderness", "desert", "mountains", "wasteland", "road", "civilised", "planar", "ocean", "horror", "futuristic"],
+        "cr": "8",
+        "fightingstyle": ["Airborne", "Pack"],
+        "movement": ["Fly"],
+        "purpose": ["Leader"],
+        "releaseurl": "",
+        "size": "Gargantuan",
+        "stat_ac": 15,
+        "stat_cha": 1,
+        "stat_con": 18,
+        "stat_dex": 5,
+        "stat_hp": 193,
+        "stat_int": 10,
+        "stat_str": 18,
+        "stat_wis": 14,
+        "thumbnail": "111_aerocyte_floatling_inflated_2-idle_face_still.webp",
+        "type": [
+          "aberration",
+          ""
+        ],
+        "videourl": ""
     }
   }
- 
+  }
+  }
   
 
