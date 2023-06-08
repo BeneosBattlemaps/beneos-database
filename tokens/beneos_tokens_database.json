@@ -6706,6 +6706,141 @@
         "videourl": ""
 
     }
+    },
+    "000_month_3_valkyrie": {
+      "description": "The Valkyrie’s purpose transcends mere escorts of the fallen, for they are seekers of the Allfather’s mightiest foes across all realms. Traversing the boundless expanse of countless worlds, they remain unyielding in their quest, the relentless pursuit of proving their mettle, that they may someday prove skillful enough to perceive the skeins of fate, recognizing warriors worthy of a place within the golden halls of heroism. Forged in the fires of battle and beaten into shape upon the anvil of her expectations, there are no greater warriors than those growing under the winged shadow of the Allfather’s champions.",
+      "name": "month 3 valkyrie",
+      "properties": {
+        "biom": ["dungeon", "ruins", "wilderness", "mountains", "wasteland", "road", "civilised", "planar", "sacral"],
+        "cr": "20",
+        "fightingstyle": ["Melee", "Mobile"],
+        "movement": ["Fly"],
+        "purpose": ["Damage", "Pressure", "Boss"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 22,
+        "stat_cha": 18,
+        "stat_con": 20,
+        "stat_dex": 22,
+        "stat_hp": 230,
+        "stat_int": 16,
+        "stat_str": 24,
+        "stat_wis": 22,
+        "thumbnail": "000_month_3_valkyrie-idle_face_still.webp",
+        "type": [
+          "celestial",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "112_witherflesh_colossus_2": {
+      "description": "First created by the expert Fleshgrafters of the Burial Host, an endless column of shambling undead pressed into service by a council of arcane artisans with special interest in the possibilities offered by a staunch rejection of morality and ethics, the Witherflesh Colossi quickly became a staple in the arsenal of aspiring necromancers due to their hulking size, unearthly strength and customizable number of tearing, smashing and crushing limbs. While requiring a considerable starting investment of both necromantic energy and dead meat, the results speak for themselves and an expertly grafted Colossus is worth its weight in (albeit often blood-stained) gold.",
+      "name": "Witherflesh Colossus 2",
+      "properties": {
+        "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "graves", "horror"],
+        "cr": "9",
+        "fightingstyle": ["Shock", "Simple"],
+        "movement": ["Walk"],
+        "purpose": ["Damage"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 15,
+        "stat_cha": 1,
+        "stat_con": 22,
+        "stat_dex": 5,
+        "stat_hp": 180,
+        "stat_int": 6,
+        "stat_str": 24,
+        "stat_wis": 8,
+        "thumbnail": "112_witherflesh_colossus_2-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "112_witherflesh_colossus_3": {
+      "description": "First created by the expert Fleshgrafters of the Burial Host, an endless column of shambling undead pressed into service by a council of arcane artisans with special interest in the possibilities offered by a staunch rejection of morality and ethics, the Witherflesh Colossi quickly became a staple in the arsenal of aspiring necromancers due to their hulking size, unearthly strength and customizable number of tearing, smashing and crushing limbs. While requiring a considerable starting investment of both necromantic energy and dead meat, the results speak for themselves and an expertly grafted Colossus is worth its weight in (albeit often blood-stained) gold.",
+      "name": "Witherflesh Colossus 3",
+      "properties": {
+        "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "graves", "horror"],
+        "cr": "9",
+        "fightingstyle": ["Shock", "Simple"],
+        "movement": ["Walk"],
+        "purpose": ["Damage"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 15,
+        "stat_cha": 1,
+        "stat_con": 22,
+        "stat_dex": 5,
+        "stat_hp": 180,
+        "stat_int": 6,
+        "stat_str": 24,
+        "stat_wis": 8,
+        "thumbnail": "112_witherflesh_colossus_3-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "112_witherflesh_colossus_4": {
+      "description": "First created by the expert Fleshgrafters of the Burial Host, an endless column of shambling undead pressed into service by a council of arcane artisans with special interest in the possibilities offered by a staunch rejection of morality and ethics, the Witherflesh Colossi quickly became a staple in the arsenal of aspiring necromancers due to their hulking size, unearthly strength and customizable number of tearing, smashing and crushing limbs. While requiring a considerable starting investment of both necromantic energy and dead meat, the results speak for themselves and an expertly grafted Colossus is worth its weight in (albeit often blood-stained) gold.",
+      "name": "Witherflesh Colossus 4",
+      "properties": {
+        "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "graves", "horror"],
+        "cr": "9",
+        "fightingstyle": ["Shock", "Simple"],
+        "movement": ["Walk"],
+        "purpose": ["Damage"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 15,
+        "stat_cha": 1,
+        "stat_con": 22,
+        "stat_dex": 5,
+        "stat_hp": 180,
+        "stat_int": 6,
+        "stat_str": 24,
+        "stat_wis": 8,
+        "thumbnail": "112_witherflesh_colossus_4-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "112_witherflesh_colossus_1": {
+      "description": "First created by the expert Fleshgrafters of the Burial Host, an endless column of shambling undead pressed into service by a council of arcane artisans with special interest in the possibilities offered by a staunch rejection of morality and ethics, the Witherflesh Colossi quickly became a staple in the arsenal of aspiring necromancers due to their hulking size, unearthly strength and customizable number of tearing, smashing and crushing limbs. While requiring a considerable starting investment of both necromantic energy and dead meat, the results speak for themselves and an expertly grafted Colossus is worth its weight in (albeit often blood-stained) gold.",
+      "name": "Witherflesh Colossus 1",
+      "properties": {
+        "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "graves", "horror"],
+        "cr": "9",
+        "fightingstyle": ["Shock", "Simple"],
+        "movement": ["Walk"],
+        "purpose": ["Damage"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 15,
+        "stat_cha": 1,
+        "stat_con": 22,
+        "stat_dex": 5,
+        "stat_hp": 180,
+        "stat_int": 6,
+        "stat_str": 24,
+        "stat_wis": 8,
+        "thumbnail": "112_witherflesh_colossus_1-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": ""
+    }
   }
   }
   
