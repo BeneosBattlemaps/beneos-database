@@ -6281,7 +6281,7 @@
         "fightingstyle": ["Spellcasting"],
         "movement": ["Walk"],
         "purpose": ["Support"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/trained-mage-82601259",
         "size": "Medium",
         "stat_ac": 17,
         "stat_cha": 12,
@@ -6296,7 +6296,7 @@
           "humanoid",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/8Qq9QQTJ47g"
     }
     },
     "107_trained_mage_2": {
@@ -6308,7 +6308,7 @@
         "fightingstyle": ["Spellcasting"],
         "movement": ["Walk"],
         "purpose": ["Support"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/trained-mage-82601259",
         "size": "Medium",
         "stat_ac": 17,
         "stat_cha": 12,
@@ -6323,7 +6323,7 @@
           "humanoid",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/8Qq9QQTJ47g"
     }
     },
     "107_trained_mage_3": {
@@ -6335,7 +6335,7 @@
         "fightingstyle": ["Spellcasting"],
         "movement": ["Walk"],
         "purpose": ["Support"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/trained-mage-82601259",
         "size": "Medium",
         "stat_ac": 17,
         "stat_cha": 12,
@@ -6350,7 +6350,7 @@
           "humanoid",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/8Qq9QQTJ47g"
     }
     },
     "107_trained_mage_4": {
@@ -6362,7 +6362,7 @@
         "fightingstyle": ["Spellcasting"],
         "movement": ["Walk"],
         "purpose": ["Support"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/trained-mage-82601259",
         "size": "Medium",
         "stat_ac": 17,
         "stat_cha": 12,
@@ -6377,7 +6377,7 @@
           "humanoid",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/8Qq9QQTJ47g"
     }
     },
     "108_deathrite_harrower_1": {
@@ -6389,7 +6389,7 @@
         "fightingstyle": ["Charge", "Shock"],
         "movement": ["Fly"],
         "purpose": ["Hunter"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/deathrite-82848995",
         "size": "Medium",
         "stat_ac": 15,
         "stat_cha": 16,
@@ -6404,7 +6404,7 @@
           "undead",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/j_pVOUmNWZo"
     }
     },
     "108_deathrite_harrower_2": {
@@ -6416,7 +6416,7 @@
         "fightingstyle": ["Charge", "Shock"],
         "movement": ["Fly"],
         "purpose": ["Hunter"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/deathrite-82848995",
         "size": "Medium",
         "stat_ac": 15,
         "stat_cha": 16,
@@ -6431,7 +6431,7 @@
           "undead",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/j_pVOUmNWZo"
     }
     },
     "109_henge_guardian_1": {
@@ -6443,7 +6443,7 @@
         "fightingstyle": ["Simple", "AoE"],
         "movement": ["Walk"],
         "purpose": ["Debuff", "Tank", "Ally"],
-        "releaseurl": "",
+        "releaseurl": "https://youtu.be/7ABZVh6Lgkk",
         "size": "Huge",
         "stat_ac": 18,
         "stat_cha": 14,
@@ -6458,7 +6458,7 @@
           "construct",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/FMWabZbEynQ"
     }
     },
     "109_henge_guardian_2": {
@@ -6470,7 +6470,7 @@
         "fightingstyle": ["Simple", "AoE"],
         "movement": ["Walk"],
         "purpose": ["Debuff", "Tank", "Ally"],
-        "releaseurl": "",
+        "releaseurl": "https://youtu.be/7ABZVh6Lgkk",
         "size": "Huge",
         "stat_ac": 18,
         "stat_cha": 14,
@@ -6485,7 +6485,7 @@
           "construct",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/FMWabZbEynQ"
     }
     },
     "109_henge_guardian_3": {
@@ -6497,7 +6497,7 @@
         "fightingstyle": ["Simple", "AoE"],
         "movement": ["Walk"],
         "purpose": ["Debuff", "Tank", "Ally"],
-        "releaseurl": "",
+        "releaseurl": "https://youtu.be/7ABZVh6Lgkk",
         "size": "Huge",
         "stat_ac": 18,
         "stat_cha": 14,
@@ -6512,7 +6512,7 @@
           "construct",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/FMWabZbEynQ"
     }
     
     }
@@ -6526,7 +6526,7 @@
         "fightingstyle": ["Ambusher", "Pack"],
         "movement": ["Walk"],
         "purpose": ["Debuff", "Pressure"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/apshait-ambusher-83576135",
         "size": "Large",
         "stat_ac": 14,
         "stat_cha": 6,
@@ -6541,7 +6541,7 @@
           "beast",
           "insect"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/7ABZVh6Lgkk"
     }
     },
     "111_aerocyte_floatling_1": {
@@ -6553,7 +6553,7 @@
         "fightingstyle": ["Airborne", "Pack"],
         "movement": ["Fly"],
         "purpose": ["Gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/aerocyte-83967773",
         "size": "Small",
         "stat_ac": 12,
         "stat_cha": 1,
@@ -6568,7 +6568,7 @@
           "aberration",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/ENVcMNUZfIo"
     }
     },
     "111_aerocyte_floatling_2": {
@@ -6580,7 +6580,7 @@
         "fightingstyle": ["Airborne", "Pack"],
         "movement": ["Fly"],
         "purpose": ["Gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/aerocyte-83967773",
         "size": "Small",
         "stat_ac": 12,
         "stat_cha": 1,
@@ -6595,7 +6595,7 @@
           "aberration",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/ENVcMNUZfIo"
     }
     },
     "111_aerocyte_floatling_inflated_1": {
@@ -6607,7 +6607,7 @@
         "fightingstyle": ["Airborne", "Pack"],
         "movement": ["Fly"],
         "purpose": ["Gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/aerocyte-83967773",
         "size": "Large",
         "stat_ac": 12,
         "stat_cha": 1,
@@ -6622,7 +6622,7 @@
           "aberration",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/ENVcMNUZfIo"
     }
     },
     "111_aerocyte_floatling_inflated_2": {
@@ -6634,7 +6634,7 @@
         "fightingstyle": ["Airborne", "Pack"],
         "movement": ["Fly"],
         "purpose": ["Gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/aerocyte-83967773",
         "size": "Large",
         "stat_ac": 12,
         "stat_cha": 1,
@@ -6649,7 +6649,7 @@
           "aberration",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/ENVcMNUZfIo"
     }
     },
     "111_aerocyte_stratohive_1": {
@@ -6661,7 +6661,7 @@
         "fightingstyle": ["Airborne", "Pack"],
         "movement": ["Fly"],
         "purpose": ["Leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/aerocyte-83967773",
         "size": "Gargantuan",
         "stat_ac": 15,
         "stat_cha": 1,
@@ -6676,7 +6676,7 @@
           "aberration",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/ENVcMNUZfIo"
     }
     },
     "111_aerocyte_stratohive_2": {
@@ -6688,7 +6688,7 @@
         "fightingstyle": ["Airborne", "Pack"],
         "movement": ["Fly"],
         "purpose": ["Leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/aerocyte-83967773",
         "size": "Gargantuan",
         "stat_ac": 15,
         "stat_cha": 1,
@@ -6703,7 +6703,7 @@
           "aberration",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/ENVcMNUZfIo"
 
     }
     },
@@ -6716,7 +6716,7 @@
         "fightingstyle": ["Melee", "Mobile"],
         "movement": ["Fly"],
         "purpose": ["Damage", "Pressure", "Boss"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/valkyrie-84266138",
         "size": "Large",
         "stat_ac": 22,
         "stat_cha": 18,
@@ -6731,7 +6731,7 @@
           "celestial",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/CoFpWUb5aWg"
     }
     },
     "112_witherflesh_colossus_2": {
@@ -6743,7 +6743,7 @@
         "fightingstyle": ["Shock", "Simple"],
         "movement": ["Walk"],
         "purpose": ["Damage"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/witherflesh-84325934",
         "size": "Huge",
         "stat_ac": 15,
         "stat_cha": 1,
@@ -6758,7 +6758,7 @@
           "undead",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NE004FYa0kw"
     }
     },
     "112_witherflesh_colossus_3": {
@@ -6770,7 +6770,7 @@
         "fightingstyle": ["Shock", "Simple"],
         "movement": ["Walk"],
         "purpose": ["Damage"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/witherflesh-84325934",
         "size": "Huge",
         "stat_ac": 15,
         "stat_cha": 1,
@@ -6785,7 +6785,7 @@
           "undead",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NE004FYa0kw"
     }
     },
     "112_witherflesh_colossus_4": {
@@ -6797,7 +6797,7 @@
         "fightingstyle": ["Shock", "Simple"],
         "movement": ["Walk"],
         "purpose": ["Damage"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/witherflesh-84325934",
         "size": "Huge",
         "stat_ac": 15,
         "stat_cha": 1,
@@ -6812,7 +6812,7 @@
           "undead",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NE004FYa0kw"
     }
     },
     "112_witherflesh_colossus_1": {
@@ -6824,7 +6824,7 @@
         "fightingstyle": ["Shock", "Simple"],
         "movement": ["Walk"],
         "purpose": ["Damage"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/witherflesh-84325934",
         "size": "Huge",
         "stat_ac": 15,
         "stat_cha": 1,
@@ -6839,7 +6839,7 @@
           "undead",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NE004FYa0kw"
     }
   }
   }
