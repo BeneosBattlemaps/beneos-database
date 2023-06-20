@@ -62,6 +62,166 @@
          "thumbnail":"05-01_Crumbled_Chapel-4K_Scen.webp",
          "videourl": ""
       }
+     },
+    "66-01_Headisport_Jetty-4K_BM": {
+       "name": "Headisport Jetty",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Harbour","Civilised","City","Ship","Exteriour"],
+         "brightness": "Bright",
+         "grid": "48x27",
+         "pack": "66_Headisport_Harbour",
+         "releaseurl": "",
+         "sibling": "66-01_Headisport_Jetty-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"66-01_Headisport_Jetty-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "66-01_Headisport_Jetty-4K_Scen": {
+       "name": "Headisport Jetty",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Harbour","Civilised","City","Ship","Exteriour"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "66_Headisport_Harbour",
+         "releaseurl": "",
+         "sibling": "66-01_Headisport_Jetty-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"66-01_Headisport_Jetty-4K_Scen.webp",
+         "videourl": ""
+      }
+     },
+    "66-02_Headisport_Storage-4K_BM": {
+       "name": "Headisport Storage",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Harbour","Civilised","City","Ship","Exteriour"],
+         "brightness": "Bright",
+         "grid": "48x27",
+         "pack": "66_Headisport_Harbour",
+         "releaseurl": "",
+         "sibling": "66-02_Headisport_Storage-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"66-02_Headisport_Storage-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "66-02_Headisport_Storage-4K_Scen": {
+       "name": "Headisport Storage",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Harbour","Civilised","City","Ship","Exteriour"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "66_Headisport_Harbour",
+         "releaseurl": "",
+         "sibling": "66-02_Headisport_Storage-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"66-02_Headisport_Storage-4K_Scen.webp",
+         "videourl": ""
+      }
+     },
+    "66-03_Headisport_Beach_House-4K_BM": {
+       "name": "Headisport Beach House",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Beach","Civilised","Ocean","Exteriour"],
+         "brightness": "Bright",
+         "grid": "48x27",
+         "pack": "66_Headisport_Harbour",
+         "releaseurl": "",
+         "sibling": "66-03_Headisport_Beach_House-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"66-03_Headisport_Beach_House-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "66-03_Headisport_Beach_House-4K_Scen": {
+       "name": "Headisport Beach House",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Beach","Civilised","Ocean","Exteriour"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "66_Headisport_Harbour",
+         "releaseurl": "",
+         "sibling": "66-03_Headisport_Beach_House-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"66-03_Headisport_Beach_House-4K_Scen.webp",
+         "videourl": ""
+      }
+     },
+    "66-04_Headisport_Beach-4K_BM": {
+       "name": "Headisport Beach",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Beach","Ocean","Exteriour"],
+         "brightness": "Bright",
+         "grid": "48x27",
+         "pack": "66_Headisport_Harbour",
+         "releaseurl": "",
+         "sibling": "66-04_Headisport_Beach-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"66-04_Headisport_Beach-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "66-04_Headisport_Beach-4K_Scen": {
+       "name": "Headisport Beach",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Beach","Ocean","Exteriour"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "66_Headisport_Harbour",
+         "releaseurl": "",
+         "sibling": "66-04_Headisport_Beach-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"66-04_Headisport_Beach-4K_Scen.webp",
+         "videourl": ""
+      }
+     },
+    "66-05_Headisport_Open_Water-4K_BM": {
+       "name": "Headisport Open Water",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Ocean","Water"],
+         "brightness": "Bright",
+         "grid": "48x27",
+         "pack": "66_Headisport_Harbour",
+         "releaseurl": "",
+         "sibling": "66-05_Headisport_Open_Water-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"66-05_Headisport_Open_Water-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "66-05_Headisport_Open_Water-4K_Scen": {
+       "name": "Headisport Open Water",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Ocean","Water"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "66_Headisport_Harbour",
+         "releaseurl": "",
+         "sibling": "66-05_Headisport_Open_Water-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"66-05_Headisport_Open_Water-4K_Scen.webp",
+         "videourl": ""
+      }
     }
   }
 }
