@@ -7080,9 +7080,10 @@
           "demon"
         ],
         "videourl": "https://youtu.be/7Ht4szPKX1A"
+	}
     },
     "114_minotaur_2": {
-      "description": "Placeholder.",
+      "description": "For ages, scholars have been contemplating the origin of the mighty Minotaurs, bovine man-beasts of considerable strength, often exhibiting an inborn lust for battle and an innate understanding of ancient martial traditions. While civilized Minotaurs can be found in the ranks or even upper brass of mercenary bands or royal armies, feral specimens plague untamed lands or cut bloody swathes through frontier regions. Regardless of if they are the cursed children of a bestial progenitor or the products of a war god’s special kind of divine intervention, Minotaurs embody mythical prowess in a way few creatures do.",
       "name": "Minotaur 2",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "civilised", "road", "forest", "desert", "mountains", "tavern" ],
@@ -7107,6 +7108,32 @@
         ],
         "videourl": ""
     }
+	},
+    "114_minotaur_1": {
+      "description": "For ages, scholars have been contemplating the origin of the mighty Minotaurs, bovine man-beasts of considerable strength, often exhibiting an inborn lust for battle and an innate understanding of ancient martial traditions. While civilized Minotaurs can be found in the ranks or even upper brass of mercenary bands or royal armies, feral specimens plague untamed lands or cut bloody swathes through frontier regions. Regardless of if they are the cursed children of a bestial progenitor or the products of a war god’s special kind of divine intervention, Minotaurs embody mythical prowess in a way few creatures do.",
+      "name": "Minotaur 1",
+      "properties": {
+        "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "civilised", "road", "forest", "desert", "mountains", "tavern" ],
+        "cr": "3",
+        "fightingstyle": ["Charge", "Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Damage", "Tank"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 14,
+        "stat_cha": 9,
+        "stat_con": 16,
+        "stat_dex": 13,
+        "stat_hp": 92,
+        "stat_int": 6,
+        "stat_str": 20,
+        "stat_wis": 16,
+        "thumbnail": "114_minotaur_1-idle_face_still.webp",
+        "type": [
+          "monstrosity",
+          ""
+        ],
+        "videourl": ""
   }
   }
   }
