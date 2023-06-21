@@ -6274,7 +6274,7 @@
     },
     "107_trained_mage_1": {
       "description": "Trained Mages are not only gifted with arcane potential, but have already taken steps to hone and further develop it. Their stern gaze tells of years of intense study, their confidence of their ability to bend reality to their will. They know what power they hold, what they sacrificed to aquire it and have already set their eyes on gaining more.",
-      "name": "Trained Mage 1",
+      "name": "Trained Mage",
       "properties": {
         "biom": ["dungeon", "ruins", "city", "wilderness", "civilised", "tavern","road"],
         "cr": "6",
@@ -6301,7 +6301,7 @@
     },
     "107_trained_mage_2": {
       "description": "Trained Mages are not only gifted with arcane potential, but have already taken steps to hone and further develop it. Their stern gaze tells of years of intense study, their confidence of their ability to bend reality to their will. They know what power they hold, what they sacrificed to aquire it and have already set their eyes on gaining more.",
-      "name": "Trained Mage 2",
+      "name": "Trained Mage",
       "properties": {
         "biom": ["dungeon", "ruins", "city", "wilderness", "civilised", "tavern","road"],
         "cr": "6",
@@ -6328,7 +6328,7 @@
     },
     "107_trained_mage_3": {
       "description": "Trained Mages are not only gifted with arcane potential, but have already taken steps to hone and further develop it. Their stern gaze tells of years of intense study, their confidence of their ability to bend reality to their will. They know what power they hold, what they sacrificed to aquire it and have already set their eyes on gaining more.",
-      "name": "Trained Mage 3",
+      "name": "Trained Mage",
       "properties": {
         "biom": ["dungeon", "ruins", "city", "wilderness", "civilised", "tavern","road"],
         "cr": "6",
@@ -6355,7 +6355,7 @@
     },
     "107_trained_mage_4": {
       "description": "Trained Mages are not only gifted with arcane potential, but have already taken steps to hone and further develop it. Their stern gaze tells of years of intense study, their confidence of their ability to bend reality to their will. They know what power they hold, what they sacrificed to aquire it and have already set their eyes on gaining more.",
-      "name": "Trained Mage 4",
+      "name": "Trained Mage",
       "properties": {
         "biom": ["dungeon", "ruins", "city", "wilderness", "civilised", "tavern","road"],
         "cr": "6",
@@ -6382,7 +6382,7 @@
     },
     "108_deathrite_harrower_1": {
       "description": "The Deathrite Cult strives for a world silenced by death, an unliving utopia of crypts tended to by the mute Gravewardens. To hush those living beings disturbing the sacred silence of the Deathshroud, the Deathrite’s High Crematorians dispatch legions of thralls, both mortal cultists and the Annointed, undead beings bound or birthed into the ranks of the Deathrite. Among these Annointed are the Deathrite Harrowers, hateful souls that gave their life in service of the Deathrite, now carrying a holy mandate to silence the blasphemous beating of hearts and turn all that is living into blessed ash.",
-      "name": "Deathrite Harrower 1",
+      "name": "Deathrite Harrower",
       "properties": {
         "biom": ["dungeon", "ruins", "city", "wilderness", "civilised", "horror","graves"],
         "cr": "7",
@@ -6409,7 +6409,7 @@
     },
     "108_deathrite_harrower_2": {
       "description": "The Deathrite Cult strives for a world silenced by death, an unliving utopia of crypts tended to by the mute Gravewardens. To hush those living beings disturbing the sacred silence of the Deathshroud, the Deathrite’s High Crematorians dispatch legions of thralls, both mortal cultists and the Annointed, undead beings bound or birthed into the ranks of the Deathrite. Among these Annointed are the Deathrite Harrowers, hateful souls that gave their life in service of the Deathrite, now carrying a holy mandate to silence the blasphemous beating of hearts and turn all that is living into blessed ash.",
-      "name": "Deathrite Harrower 2",
+      "name": "Deathrite Harrower",
       "properties": {
         "biom": ["dungeon", "ruins", "city", "wilderness", "civilised", "horror","graves"],
         "cr": "7",
@@ -6436,7 +6436,7 @@
     },
     "109_henge_guardian_1": {
       "description": "Henge Guardians are ancient constructs carved by shamans from blessed rock, acting as arbiters of peace and bulwarks against intruders from beyond the veil of the mundane world. Within the Guardian reside ancestral spirits of ages past, souls of chiefs, warriors, shamans or figures of importance to the tribesfolk, empowering the towering stonework of their collective body with the desire to protect their kin and continually serve the tribe in death.",
-      "name": "Henge Guardian 1",
+      "name": "Henge Guardian",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "planar", "sacral", "desert", "mountains", "forest", "wasteland", "civilised"],
         "cr": "10",
@@ -6463,7 +6463,7 @@
     },
     "109_henge_guardian_2": {
       "description": "Henge Guardians are ancient constructs carved by shamans from blessed rock, acting as arbiters of peace and bulwarks against intruders from beyond the veil of the mundane world. Within the Guardian reside ancestral spirits of ages past, souls of chiefs, warriors, shamans or figures of importance to the tribesfolk, empowering the towering stonework of their collective body with the desire to protect their kin and continually serve the tribe in death.",
-      "name": "Henge Guardian 2",
+      "name": "Henge Guardian",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "planar", "sacral", "desert", "mountains", "forest", "wasteland", "civilised"],
         "cr": "10",
@@ -6490,7 +6490,7 @@
     },
     "109_henge_guardian_3": {
       "description": "Henge Guardians are ancient constructs carved by shamans from blessed rock, acting as arbiters of peace and bulwarks against intruders from beyond the veil of the mundane world. Within the Guardian reside ancestral spirits of ages past, souls of chiefs, warriors, shamans or figures of importance to the tribesfolk, empowering the towering stonework of their collective body with the desire to protect their kin and continually serve the tribe in death.",
-      "name": "Henge Guardian 3",
+      "name": "Henge Guardian",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "planar", "sacral", "desert", "mountains", "forest", "wasteland", "civilised"],
         "cr": "10",
@@ -6544,7 +6544,7 @@
     },
     "111_aerocyte_floatling_1": {
       "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
-      "name": "Aerocyte Floatling 1",
+      "name": "Aerocyte Floatling",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "desert", "mountains", "wasteland", "road", "civilised", "planar", "ocean", "horror", "futuristic"],
         "cr": "0.5",
@@ -6571,7 +6571,7 @@
     },
     "111_aerocyte_floatling_2": {
       "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
-      "name": "Aerocyte Floatling 2",
+      "name": "Aerocyte Floatling",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "desert", "mountains", "wasteland", "road", "civilised", "planar", "ocean", "horror", "futuristic"],
         "cr": "0.5",
@@ -6598,7 +6598,7 @@
     },
     "111_aerocyte_floatling_inflated_1": {
       "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
-      "name": "Aerocyte Floatling Inflated 1",
+      "name": "Aerocyte Floatling Inflated",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "desert", "mountains", "wasteland", "road", "civilised", "planar", "ocean", "horror", "futuristic"],
         "cr": "0.5",
@@ -6625,7 +6625,7 @@
     },
     "111_aerocyte_floatling_inflated_2": {
       "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
-      "name": "Aerocyte Floatling Inflated 2",
+      "name": "Aerocyte Floatling Inflated",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "desert", "mountains", "wasteland", "road", "civilised", "planar", "ocean", "horror", "futuristic"],
         "cr": "0.5",
@@ -6652,7 +6652,7 @@
     },
     "111_aerocyte_stratohive_1": {
       "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
-      "name": "Aerocyte Stratohive 1",
+      "name": "Aerocyte Stratohive",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "desert", "mountains", "wasteland", "road", "civilised", "planar", "ocean", "horror", "futuristic"],
         "cr": "8",
@@ -6679,7 +6679,7 @@
     },
     "111_aerocyte_stratohive_2": {
       "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
-      "name": "Aerocyte Stratohive 2",
+      "name": "Aerocyte Stratohive",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "desert", "mountains", "wasteland", "road", "civilised", "planar", "ocean", "horror", "futuristic"],
         "cr": "8",
@@ -6706,7 +6706,7 @@
     },
     "000_month_3_valkyrie": {
       "description": "The Valkyrie’s purpose transcends mere escorts of the fallen, for they are seekers of the Allfather’s mightiest foes across all realms. Traversing the boundless expanse of countless worlds, they remain unyielding in their quest, the relentless pursuit of proving their mettle, that they may someday prove skillful enough to perceive the skeins of fate, recognizing warriors worthy of a place within the golden halls of heroism. Forged in the fires of battle and beaten into shape upon the anvil of her expectations, there are no greater warriors than those growing under the winged shadow of the Allfather’s champions.",
-      "name": "month 3 valkyrie",
+      "name": "Valkyrie",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "mountains", "wasteland", "road", "civilised", "planar", "sacral"],
         "cr": "20",
@@ -6733,7 +6733,7 @@
     },
     "112_witherflesh_colossus_2": {
       "description": "First created by the expert Fleshgrafters of the Burial Host, an endless column of shambling undead pressed into service by a council of arcane artisans with special interest in the possibilities offered by a staunch rejection of morality and ethics, the Witherflesh Colossi quickly became a staple in the arsenal of aspiring necromancers due to their hulking size, unearthly strength and customizable number of tearing, smashing and crushing limbs. While requiring a considerable starting investment of both necromantic energy and dead meat, the results speak for themselves and an expertly grafted Colossus is worth its weight in (albeit often blood-stained) gold.",
-      "name": "Witherflesh Colossus 2",
+      "name": "Witherflesh Colossus",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "graves", "horror"],
         "cr": "9",
@@ -6760,7 +6760,7 @@
     },
     "112_witherflesh_colossus_3": {
       "description": "First created by the expert Fleshgrafters of the Burial Host, an endless column of shambling undead pressed into service by a council of arcane artisans with special interest in the possibilities offered by a staunch rejection of morality and ethics, the Witherflesh Colossi quickly became a staple in the arsenal of aspiring necromancers due to their hulking size, unearthly strength and customizable number of tearing, smashing and crushing limbs. While requiring a considerable starting investment of both necromantic energy and dead meat, the results speak for themselves and an expertly grafted Colossus is worth its weight in (albeit often blood-stained) gold.",
-      "name": "Witherflesh Colossus 3",
+      "name": "Witherflesh Colossus",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "graves", "horror"],
         "cr": "9",
@@ -6787,7 +6787,7 @@
     },
     "112_witherflesh_colossus_4": {
       "description": "First created by the expert Fleshgrafters of the Burial Host, an endless column of shambling undead pressed into service by a council of arcane artisans with special interest in the possibilities offered by a staunch rejection of morality and ethics, the Witherflesh Colossi quickly became a staple in the arsenal of aspiring necromancers due to their hulking size, unearthly strength and customizable number of tearing, smashing and crushing limbs. While requiring a considerable starting investment of both necromantic energy and dead meat, the results speak for themselves and an expertly grafted Colossus is worth its weight in (albeit often blood-stained) gold.",
-      "name": "Witherflesh Colossus 4",
+      "name": "Witherflesh Colossus",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "graves", "horror"],
         "cr": "9",
@@ -6814,7 +6814,7 @@
     },
     "112_witherflesh_colossus_1": {
       "description": "First created by the expert Fleshgrafters of the Burial Host, an endless column of shambling undead pressed into service by a council of arcane artisans with special interest in the possibilities offered by a staunch rejection of morality and ethics, the Witherflesh Colossi quickly became a staple in the arsenal of aspiring necromancers due to their hulking size, unearthly strength and customizable number of tearing, smashing and crushing limbs. While requiring a considerable starting investment of both necromantic energy and dead meat, the results speak for themselves and an expertly grafted Colossus is worth its weight in (albeit often blood-stained) gold.",
-      "name": "Witherflesh Colossus 1",
+      "name": "Witherflesh Colossus",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "graves", "horror"],
         "cr": "9",
@@ -6841,7 +6841,7 @@
     },
     "113_facestealer_1": {
       "description": "Facestealers are demonic entities that revel in subjecting indiscriminate terror upon mortal beings. Their bulbous insectoid bodies are overgrown with faces and skulls in various states of decomposition, weeping, whispering, laughing or screaming. These are the results of the Facestealer’s unique hunting methods, being able to draw creatures into a demonic realm where they are assailed by the Imprisoned Ones, waning shades of the demon’s previous victims. If a creature succumbs to the demonic realm, its soul will be devoured by the Facestealer and its face joins the ingrown gallery upon the demon’s bloated body.",
-      "name": "Facestealer 1",
+      "name": "Facestealer",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "graves", "horror", "planar", "abyssal"],
         "cr": "8",
@@ -6868,7 +6868,7 @@
     },
     "113_facestealer_2": {
       "description": "Facestealers are demonic entities that revel in subjecting indiscriminate terror upon mortal beings. Their bulbous insectoid bodies are overgrown with faces and skulls in various states of decomposition, weeping, whispering, laughing or screaming. These are the results of the Facestealer’s unique hunting methods, being able to draw creatures into a demonic realm where they are assailed by the Imprisoned Ones, waning shades of the demon’s previous victims. If a creature succumbs to the demonic realm, its soul will be devoured by the Facestealer and its face joins the ingrown gallery upon the demon’s bloated body.",
-      "name": "Facestealer 2",
+      "name": "Facestealer",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "graves", "horror", "planar", "abyssal"],
         "cr": "8",
@@ -6895,7 +6895,7 @@
     },
     "113_facestealer_3": {
       "description": "Facestealers are demonic entities that revel in subjecting indiscriminate terror upon mortal beings. Their bulbous insectoid bodies are overgrown with faces and skulls in various states of decomposition, weeping, whispering, laughing or screaming. These are the results of the Facestealer’s unique hunting methods, being able to draw creatures into a demonic realm where they are assailed by the Imprisoned Ones, waning shades of the demon’s previous victims. If a creature succumbs to the demonic realm, its soul will be devoured by the Facestealer and its face joins the ingrown gallery upon the demon’s bloated body.",
-      "name": "Facestealer 3",
+      "name": "Facestealer",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "graves", "horror", "planar", "abyssal"],
         "cr": "8",
@@ -6922,7 +6922,7 @@
     },
     "113_facestealer_4": {
       "description": "Facestealers are demonic entities that revel in subjecting indiscriminate terror upon mortal beings. Their bulbous insectoid bodies are overgrown with faces and skulls in various states of decomposition, weeping, whispering, laughing or screaming. These are the results of the Facestealer’s unique hunting methods, being able to draw creatures into a demonic realm where they are assailed by the Imprisoned Ones, waning shades of the demon’s previous victims. If a creature succumbs to the demonic realm, its soul will be devoured by the Facestealer and its face joins the ingrown gallery upon the demon’s bloated body.",
-      "name": "Facestealer 4",
+      "name": "Facestealer",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "graves", "horror", "planar", "abyssal"],
         "cr": "8",
@@ -6949,7 +6949,7 @@
     },
     "113_imprisoned_one_1": {
       "description": "The Imprisoned Ones are the echoes of a Facestealer’s victims populating the demonic realm lorded over by the demon. Waning shades of past beings consumed by the demonic energies of their captor, they have become part of the insidious process that once claimed their soul.",
-      "name": "Imprisoned One 1",
+      "name": "Imprisoned One",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "graves", "horror", "planar", "abyssal"],
         "cr": "1/2",
@@ -6976,7 +6976,7 @@
     },
     "113_imprisoned_one_2": {
       "description": "The Imprisoned Ones are the echoes of a Facestealer’s victims populating the demonic realm lorded over by the demon. Waning shades of past beings consumed by the demonic energies of their captor, they have become part of the insidious process that once claimed their soul.",
-      "name": "Imprisoned One 2",
+      "name": "Imprisoned One",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "graves", "horror", "planar", "abyssal"],
         "cr": "1/2",
@@ -7003,7 +7003,7 @@
     },
     "113_imprisoned_one_3": {
       "description": "The Imprisoned Ones are the echoes of a Facestealer’s victims populating the demonic realm lorded over by the demon. Waning shades of past beings consumed by the demonic energies of their captor, they have become part of the insidious process that once claimed their soul.",
-      "name": "Imprisoned One 3",
+      "name": "Imprisoned One",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "graves", "horror", "planar", "abyssal"],
         "cr": "1/2",
@@ -7030,7 +7030,7 @@
     },
     "113_imprisoned_one_4": {
       "description": "The Imprisoned Ones are the echoes of a Facestealer’s victims populating the demonic realm lorded over by the demon. Waning shades of past beings consumed by the demonic energies of their captor, they have become part of the insidious process that once claimed their soul.",
-      "name": "Imprisoned One 4",
+      "name": "Imprisoned One",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "graves", "horror", "planar", "abyssal"],
         "cr": "1/2",
@@ -7057,7 +7057,7 @@
     },
     "113_imprisoned_one_5": {
       "description": "The Imprisoned Ones are the echoes of a Facestealer’s victims populating the demonic realm lorded over by the demon. Waning shades of past beings consumed by the demonic energies of their captor, they have become part of the insidious process that once claimed their soul.",
-      "name": "Imprisoned One 5",
+      "name": "Imprisoned One",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "graves", "horror", "planar", "abyssal"],
         "cr": "1/2",
@@ -7084,7 +7084,7 @@
     },
     "114_minotaur_2": {
       "description": "For ages, scholars have been contemplating the origin of the mighty Minotaurs, bovine man-beasts of considerable strength, often exhibiting an inborn lust for battle and an innate understanding of ancient martial traditions. While civilized Minotaurs can be found in the ranks or even upper brass of mercenary bands or royal armies, feral specimens plague untamed lands or cut bloody swathes through frontier regions. Regardless of if they are the cursed children of a bestial progenitor or the products of a war god’s special kind of divine intervention, Minotaurs embody mythical prowess in a way few creatures do.",
-      "name": "Minotaur 2",
+      "name": "Minotaur",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "civilised", "road", "forest", "desert", "mountains", "tavern" ],
         "cr": "3",
@@ -7111,7 +7111,7 @@
 	},
     "114_minotaur_1": {
       "description": "For ages, scholars have been contemplating the origin of the mighty Minotaurs, bovine man-beasts of considerable strength, often exhibiting an inborn lust for battle and an innate understanding of ancient martial traditions. While civilized Minotaurs can be found in the ranks or even upper brass of mercenary bands or royal armies, feral specimens plague untamed lands or cut bloody swathes through frontier regions. Regardless of if they are the cursed children of a bestial progenitor or the products of a war god’s special kind of divine intervention, Minotaurs embody mythical prowess in a way few creatures do.",
-      "name": "Minotaur 1",
+      "name": "Minotaur",
       "properties": {
         "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "civilised", "road", "forest", "desert", "mountains", "tavern" ],
         "cr": "3",
