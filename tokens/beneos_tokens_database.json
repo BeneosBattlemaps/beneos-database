@@ -7080,7 +7080,6 @@
           "demon"
         ],
         "videourl": "https://youtu.be/7Ht4szPKX1A"
-    }
     },
     "114_minotaur_2": {
       "description": "Placeholder.",
@@ -7108,33 +7107,8 @@
         ],
         "videourl": ""
     }
-    },
-    "114_minotaur_1": {
-      "description": "Placeholder.",
-      "name": "Minotaur 1",
-      "properties": {
-        "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "civilised", "road", "forest", "desert", "mountains", "tavern" ],
-        "cr": "3",
-        "fightingstyle": ["Charge", "Melee"],
-        "movement": ["Walk"],
-        "purpose": ["Damage", "Tank"],
-        "releaseurl": "",
-        "size": "Large",
-        "stat_ac": 14,
-        "stat_cha": 9,
-        "stat_con": 16,
-        "stat_dex": 13,
-        "stat_hp": 92,
-        "stat_int": 6,
-        "stat_str": 20,
-        "stat_wis": 16,
-        "thumbnail": "114_minotaur_1-idle_face_still.webp",
-        "type": [
-          "monstrosity",
-          ""
-        ],
-        "videourl": ""
-    }
   }
   }
+  }
+  
 }
