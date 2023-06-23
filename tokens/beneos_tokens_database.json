@@ -7091,7 +7091,7 @@
         "fightingstyle": ["Charge", "Melee"],
         "movement": ["Walk"],
         "purpose": ["Damage", "Tank"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/85030639?pr=true",
         "size": "Large",
         "stat_ac": 14,
         "stat_cha": 9,
@@ -7106,7 +7106,7 @@
           "monstrosity",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/n1ndYxDZGtg"
     }
 	},
     "114_minotaur_1": {
@@ -7118,7 +7118,7 @@
         "fightingstyle": ["Charge", "Melee"],
         "movement": ["Walk"],
         "purpose": ["Damage", "Tank"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/85030639?pr=true",
         "size": "Large",
         "stat_ac": 14,
         "stat_cha": 9,
@@ -7133,7 +7133,34 @@
           "monstrosity",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/n1ndYxDZGtg"
+		   }
+    },
+    "000_month_2_magma_wyrm": {
+      "description": "Magma Wyrms inhabit the most inhospitable terrain imaginable, breeding at the black sand shores of great lava lakes or within the noxious calderas of active volcanoes. Glowing red with inner heat and covered in glistening obdsidan scales, fighting these great Wyrms head on is foolhardy bordering suicidal and only the greatest (or most boastful) dwarven heros are said to having defied a Wyrm’s withering heat and extinguished its molten core.",
+      "name": "Month 2 Magma Wyrm",
+      "properties": {
+        "biom": ["lair", "infernal", "planar", "wilderness", "mountains", "desert","wasteland"],
+        "cr": "19",
+        "fightingstyle": ["tactical", "demanding"],
+        "movement": ["Burrow"],
+        "purpose": ["boss" , "damage", "tank" ],
+        "releaseurl": "",
+        "size": "Gargantuan",
+        "stat_ac": 22,
+        "stat_cha": 14,
+        "stat_con": 25,
+        "stat_dex": 8,
+        "stat_hp": 286,
+        "stat_int": 11,
+        "stat_str": 23,
+        "stat_wis": 16,
+        "thumbnail": "000_month_2_magma_wyrm-idle_face_still.webp",
+        "type": [
+          "dragon",
+          ""
+        ],
+        "videourl": "https://youtu.be/1s64rZkx_o8"
   }
   }
   }
