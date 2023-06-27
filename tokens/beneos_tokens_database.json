@@ -7161,8 +7161,37 @@
           ""
         ],
         "videourl": "https://youtu.be/1s64rZkx_o8"
+
+    }
+    },
+    "115_pirate_powder_dancer_1": {
+      "description": "Powder Dancers are part of a pirate ship’s dedicated boarding crews, agile and tactically versatile fighters and marksmen well versed in the art of ship to ship combat. They constantly alternate between melee and ranged weaponry, overwhelming the defenders with devastating point blank salvos from their characteristic flintlock pistols or pressuring them with aggressive bladework. Once the rhythmic, bellowing blasts fade away and the powder dust dissipates, the enemy ship has been taken.",
+      "name": "Pirate Powder Dancer",
+      "properties": {
+        "biom": ["ocean", "tavern", "lair", "coastal"],
+        "cr": "",
+        "fightingstyle": ["interactive"],
+        "movement": ["Walk"],
+        "purpose": ["duelist","minion"],
+        "releaseurl": "",
+        "size": "medium",
+        "stat_ac": ,
+        "stat_cha": 10,
+        "stat_con": 14,
+        "stat_dex": 16,
+        "stat_hp": ,
+        "stat_int": 10,
+        "stat_str": 15,
+        "stat_wis": 13,
+        "thumbnail": "115_pirate_powder_dancer_1-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          ""
+        ],
+        "videourl": ""
+    }
   }
   }
   }
   
-}
+
