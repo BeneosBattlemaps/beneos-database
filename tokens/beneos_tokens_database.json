@@ -4240,7 +4240,6 @@
         "videourl": "https://youtu.be/yZwHfFD6UTU"
     }
     },
-  
     "068_wereboar_2": {
       "description": "Skinchangers come in any shape or size and even the cause of their transformation differs - be it affliction of body or mind, a curse, possession or even a blessing. The transformation into a Wereboar, however, seldom is anything but a curse, one reserved mostly for gluttonous and vulgar individuals, whose porcine characteristics where apparent even before their body took a shape their mind had already taken. Wereboars are boorish and brutish, bulky and barrelchested slabs of pure muscle, held together by a thick hide. But their cunning is not to be unterestimated and many would-be slayers fell to the goring tusks of a Wereboar after failing to discern the sparks of malign intellect within their deep-set eyes.",
       "name": "Wereboar",
@@ -7170,7 +7169,7 @@
       "name": "Pirate Powder Dancer",
       "properties": {
         "biom": ["ocean", "tavern", "lair", "coastal"],
-        "cr": "",
+        "cr": "2",
         "fightingstyle": ["interactive"],
         "movement": ["Walk"],
         "purpose": ["duelist","minion"],
@@ -7186,11 +7185,9 @@
         "stat_wis": 13,
         "thumbnail": "115_pirate_powder_dancer_1-idle_face_still.webp",
         "type": [
-          "humanoid",
-          ""
+          "humanoid"
         ],
         "videourl": ""
-
     }
     },
     "115_pirate_powder_dancer_2": {
@@ -7198,7 +7195,7 @@
       "name": "Pirate Powder Dancer",
       "properties": {
         "biom": ["ocean", "tavern", "lair", "coastal"],
-        "cr": "",
+        "cr": "2",
         "fightingstyle": ["interactive"],
         "movement": ["Walk"],
         "purpose": ["duelist","minion"],
@@ -7214,8 +7211,7 @@
         "stat_wis": 13,
         "thumbnail": "115_pirate_powder_dancer_2-idle_face_still.webp",
         "type": [
-          "humanoid",
-          ""
+          "humanoid"
         ],
         "videourl": ""
     }
@@ -7225,7 +7221,7 @@
       "name": "Pirate Powder Dancer",
       "properties": {
         "biom": ["ocean", "tavern", "lair", "coastal"],
-        "cr": "",
+        "cr": "2",
         "fightingstyle": ["interactive"],
         "movement": ["Walk"],
         "purpose": ["duelist","minion"],
@@ -7241,15 +7237,17 @@
         "stat_wis": 13,
         "thumbnail": "115_pirate_powder_dancer_3-idle_face_still.webp",
         "type": [
-          "humanoid",
-          ""
+          "humanoid"
         ],
         "videourl": ""
     }
 
     }
+
+	}
+
   }
-  }
+  
   
   
 
