@@ -7170,7 +7170,7 @@
       "properties": {
         "biom": ["ocean", "tavern", "lair", "coastal"],
         "cr": "2",
-        "fightingstyle": ["interactive"],
+        "fightingstyle": ["interactive","shock"],
         "movement": ["Walk"],
         "purpose": ["duelist","minion"],
         "releaseurl": "",
@@ -7196,7 +7196,7 @@
       "properties": {
         "biom": ["ocean", "tavern", "lair", "coastal"],
         "cr": "2",
-        "fightingstyle": ["interactive"],
+        "fightingstyle": ["interactive","shock"],
         "movement": ["Walk"],
         "purpose": ["duelist","minion"],
         "releaseurl": "",
@@ -7222,7 +7222,7 @@
       "properties": {
         "biom": ["ocean", "tavern", "lair", "coastal"],
         "cr": "2",
-        "fightingstyle": ["interactive"],
+        "fightingstyle": ["interactive", "shock"],
         "movement": ["Walk"],
         "purpose": ["duelist","minion"],
         "releaseurl": "",
