@@ -25172,6 +25172,166 @@
          "thumbnail":"66-05_Headisport_Open_Water-4K_Scen.webp",
          "videourl": ""
       }
+     },
+    "67-01_White_Dragon_Lair_Storm-4K_BM": {
+       "name": "White Dragon Lair Storm",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Ice","Mountain","Snow","Exteriour"],
+         "brightness": "Medium",
+         "grid": "48x27",
+         "pack": "67_White_Dragon_Lair",
+         "releaseurl": "",
+         "sibling": "67-01_White_Dragon_Lair_Storm-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"67-01_White_Dragon_Lair_Storm-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "67-01_White_Dragon_Lair_Storm-4K_Scen": {
+       "name": "White Dragon Lair Storm",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Ice","Mountain","Snow","Exteriour"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "67_White_Dragon_Lair",
+         "releaseurl": "",
+         "sibling": "67-01_White_Dragon_Lair_Storm-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"67-01_White_Dragon_Lair_Storm-4K_Scen.webp",
+         "videourl": ""
+      }
+     },
+    "67-02_White_Dragon_Lair_Path_1-4K_BM": {
+       "name": "White Dragon Lair Path 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Ice","Cave","Snow","Interiour", "Crystal"],
+         "brightness": "Bright",
+         "grid": "48x27",
+         "pack": "67_White_Dragon_Lair",
+         "releaseurl": "",
+         "sibling": "67-02_White_Dragon_Lair_Path_1-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"67-02_White_Dragon_Lair_Path_1-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "67-02_White_Dragon_Lair_Path_1-4K_Scen": {
+       "name": "White Dragon Lair Path 1",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Ice","Cave","Snow","Interiour", "Crystal"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "67_White_Dragon_Lair",
+         "releaseurl": "",
+         "sibling": "67-02_White_Dragon_Lair_Path_1-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"67-02_White_Dragon_Lair_Path_1-4K_Scen.webp",
+         "videourl": ""
+      }
+     },
+    "67-03_White_Dragon_Lair_Path_2-4K_BM": {
+       "name": "White Dragon Lair Path 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Ice","Cave","Snow","Interiour", "Crystal"],
+         "brightness": "Bright",
+         "grid": "48x27",
+         "pack": "67_White_Dragon_Lair",
+         "releaseurl": "",
+         "sibling": "67-03_White_Dragon_Lair_Path_2-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"67-03_White_Dragon_Lair_Path_2-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "67-03_White_Dragon_Lair_Path_2-4K_Scen": {
+       "name": "White Dragon Lair Path 2",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Ice","Cave","Snow","Interiour", "Crystal"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "67_White_Dragon_Lair",
+         "releaseurl": "",
+         "sibling": "67-03_White_Dragon_Lair_Path_2-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"67-03_White_Dragon_Lair_Path_2-4K_Scen.webp",
+         "videourl": ""
+      }
+     },
+    "67-04_White_Dragon_Lair_Path_3-4K_BM": {
+       "name": "White Dragon Lair Path 3",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Ice","Cave","Snow","Interiour", "Crystal"],
+         "brightness": "Bright",
+         "grid": "48x27",
+         "pack": "67_White_Dragon_Lair",
+         "releaseurl": "",
+         "sibling": "67-04_White_Dragon_Lair_Path_3-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"67-04_White_Dragon_Lair_Path_3-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "67-04_White_Dragon_Lair_Path_3-4K_Scen": {
+       "name": "White Dragon Lair Path 3",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Ice","Cave","Snow","Interiour", "Crystal"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "67_White_Dragon_Lair",
+         "releaseurl": "",
+         "sibling": "67-04_White_Dragon_Lair_Path_3-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"67-04_White_Dragon_Lair_Path_3-4K_Scen.webp",
+         "videourl": ""
+      }
+     },
+    "67-05_White_Dragon_Lair_Chamber-4K_BM": {
+       "name": "White Dragon Lair Chamber",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Ice","Cave","Snow","Interiour", "Crystal", "Lair"],
+         "brightness": "Bright",
+         "grid": "48x27",
+         "pack": "67_White_Dragon_Lair",
+         "releaseurl": "",
+         "sibling": "67-05_White_Dragon_Lair_Chamber-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"67-05_White_Dragon_Lair_Chamber-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "67-05_White_Dragon_Lair_Chamber-4K_Scen": {
+       "name": "White Dragon Lair Chamber",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Ice","Cave","Snow","Interiour", "Crystal", "Lair"],
+         "brightness": "Bright",
+         "grid": "None",
+         "pack": "67_White_Dragon_Lair",
+         "releaseurl": "",
+         "sibling": "67-05_White_Dragon_Lair_Chamber-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"67-05_White_Dragon_Lair_Chamber-4K_Scen.webp",
+         "videourl": ""
+      }
     }
   }
 }
