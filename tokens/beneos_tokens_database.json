@@ -7241,12 +7241,278 @@
         ],
         "videourl": ""
     }
-
+    },
+    "116_voracious_mawbloom_1": {
+      "description": "Cultivated by the arcano-botanists of Ferdeaux as befitting guardians for their sprawling topiaries, the carnivorous Mawblooms boast a towering statue, toothed jaw-petals, growth-accelerated root-vines and acidic digestion glands. What started started out as controlled, if experimental, cultivation has spiraled into an ecological disaster, as the Mawblooms evolved an unintended reproducive method by producing so-called Creeplings. The miniature Mawblooms are capable of uprooting themselves and crawl on unnerving root-legs, extending their reach to explore new territories. Their rapid colonization has led to ecological havoc, as they multiply exponentially, choking out native flora and preying upon local fauna.",
+      "name": "voracious mawbloom 1",
+      "properties": {
+        "biom": ["forest", "dungeon", "wilderness"],
+        "cr": "",
+        "fightingstyle": ["regeneration", "swallow"],
+        "movement": ["Burrow"],
+        "purpose": ["pack","pressure","leader"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 14,
+        "stat_cha": 6,
+        "stat_con": 14,
+        "stat_dex": 4,
+        "stat_hp": 156,
+        "stat_int": 6,
+        "stat_str": 18,
+        "stat_wis": 11,
+        "thumbnail": "116_voracious_mawbloom_1-idle_face_still.webp",
+        "type": [
+          "plant",
+          ""
+        ],
+        "videourl": ""
     }
-
-   
+    },
+    "116_voracious_mawbloom_2": {
+      "description": "Cultivated by the arcano-botanists of Ferdeaux as befitting guardians for their sprawling topiaries, the carnivorous Mawblooms boast a towering statue, toothed jaw-petals, growth-accelerated root-vines and acidic digestion glands. What started started out as controlled, if experimental, cultivation has spiraled into an ecological disaster, as the Mawblooms evolved an unintended reproducive method by producing so-called Creeplings. The miniature Mawblooms are capable of uprooting themselves and crawl on unnerving root-legs, extending their reach to explore new territories. Their rapid colonization has led to ecological havoc, as they multiply exponentially, choking out native flora and preying upon local fauna.",
+      "name": "voracious mawbloom 2",
+      "properties": {
+        "biom": ["forest", "dungeon", "wilderness"],
+        "cr": "",
+        "fightingstyle": ["regeneration", "swallow"],
+        "movement": ["Burrow"],
+        "purpose": ["pack","pressure","leader"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 14,
+        "stat_cha": 6,
+        "stat_con": 14,
+        "stat_dex": 4,
+        "stat_hp": 156,
+        "stat_int": 6,
+        "stat_str": 18,
+        "stat_wis": 11,
+        "thumbnail": "116_voracious_mawbloom_2-idle_face_still.webp",
+        "type": [
+          "plant",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "116_voracious_mawbloom_3": {
+      "description": "Cultivated by the arcano-botanists of Ferdeaux as befitting guardians for their sprawling topiaries, the carnivorous Mawblooms boast a towering statue, toothed jaw-petals, growth-accelerated root-vines and acidic digestion glands. What started started out as controlled, if experimental, cultivation has spiraled into an ecological disaster, as the Mawblooms evolved an unintended reproducive method by producing so-called Creeplings. The miniature Mawblooms are capable of uprooting themselves and crawl on unnerving root-legs, extending their reach to explore new territories. Their rapid colonization has led to ecological havoc, as they multiply exponentially, choking out native flora and preying upon local fauna.",
+      "name": "voracious mawbloom 3",
+      "properties": {
+        "biom": ["forest", "dungeon", "wilderness"],
+        "cr": "",
+        "fightingstyle": ["regeneration", "swallow"],
+        "movement": ["Burrow"],
+        "purpose": ["pack","pressure","leader"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 14,
+        "stat_cha": 6,
+        "stat_con": 14,
+        "stat_dex": 4,
+        "stat_hp": 156,
+        "stat_int": 6,
+        "stat_str": 18,
+        "stat_wis": 11,
+        "thumbnail": "116_voracious_mawbloom_3-idle_face_still.webp",
+        "type": [
+          "plant",
+          ""
+        ],
+        "videourl": ""
+	  }
+    },
+    "116_mawbloom_creepling_3": {
+      "description": "Creeplings are miniature Mawblooms in an infant stadium. They emerge from underground spawn-pods attached to the Mawbloom’s Graveroots and are the Mawbloom’s primary form of reproduction, attaching to unsuspecting targets to drain them of nutrients, before seeking out new territories to become stationary and grow into Voracious Mawblooms themselves.",
+      "name": "mawbloom creepling 3",
+      "properties": {
+        "biom": ["forest", "dungeon", "wilderness"],
+        "cr": "",
+        "fightingstyle": ["simple"],
+        "movement": ["Walk"],
+        "purpose": ["pack","minion"],
+        "releaseurl": "",
+        "size": "Small",
+        "stat_ac": 14,
+        "stat_cha": 3,
+        "stat_con": 10,
+        "stat_dex": 14,
+        "stat_hp": 156,
+        "stat_int": 4,
+        "stat_str": 8,
+        "stat_wis": 10,
+        "thumbnail": "116_mawbloom_creepling_3-idle_face_still.webp",
+        "type": [
+          "plant",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "000_month_3_draconic_elite_1": {
+      "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon’s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
+      "name": "month 3 draconic elite 1",
+      "properties": {
+        "biom": ["ocean", "dungeon", "lair", "coastal", "ruins", "grave", "wasteland", "forest", "desert", "mountains"],
+        "cr": "",
+        "fightingstyle": ["simple", "mobile", "melee"],
+        "movement": ["Fly"],
+        "purpose": ["hunter","pack", "leader"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 20,
+        "stat_cha": 13,
+        "stat_con": 18,
+        "stat_dex": 18,
+        "stat_hp": 178,
+        "stat_int": 13,
+        "stat_str": 22,
+        "stat_wis": 16,
+        "thumbnail": "000_month_3_draconic_elite_1-idle_face_still.webp",
+        "type": [
+          "dragon",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "000_month_3_draconic_elite_2": {
+      "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon’s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
+      "name": "month 3 draconic elite 2",
+      "properties": {
+        "biom": ["ocean", "dungeon", "lair", "coastal", "ruins", "grave", "wasteland", "forest", "desert", "mountains"],
+        "cr": "",
+        "fightingstyle": ["simple", "mobile", "melee"],
+        "movement": ["Fly"],
+        "purpose": ["hunter","pack", "leader"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 20,
+        "stat_cha": 13,
+        "stat_con": 18,
+        "stat_dex": 18,
+        "stat_hp": 178,
+        "stat_int": 13,
+        "stat_str": 22,
+        "stat_wis": 16,
+        "thumbnail": "000_month_3_draconic_elite_2-idle_face_still.webp",
+        "type": [
+          "dragon",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "000_month_3_draconic_elite_3": {
+      "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon’s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
+      "name": "month 3 draconic elite 3",
+      "properties": {
+        "biom": ["ocean", "dungeon", "lair", "coastal", "ruins", "grave", "wasteland", "forest", "desert", "mountains"],
+        "cr": "",
+        "fightingstyle": ["simple", "mobile", "melee"],
+        "movement": ["Fly"],
+        "purpose": ["hunter","pack", "leader"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 20,
+        "stat_cha": 13,
+        "stat_con": 18,
+        "stat_dex": 18,
+        "stat_hp": 178,
+        "stat_int": 13,
+        "stat_str": 22,
+        "stat_wis": 16,
+        "thumbnail": "000_month_3_draconic_elite_3-idle_face_still.webp",
+        "type": [
+          "dragon",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "000_month_3_draconic_elite_4": {
+      "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon’s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
+      "name": "month 3 draconic elite 4",
+      "properties": {
+        "biom": ["ocean", "dungeon", "lair", "coastal", "ruins", "grave", "wasteland", "forest", "desert", "mountains"],
+        "cr": "",
+        "fightingstyle": ["simple", "mobile", "melee"],
+        "movement": ["Fly"],
+        "purpose": ["hunter","pack", "leader"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 20,
+        "stat_cha": 13,
+        "stat_con": 18,
+        "stat_dex": 18,
+        "stat_hp": 178,
+        "stat_int": 13,
+        "stat_str": 22,
+        "stat_wis": 16,
+        "thumbnail": "000_month_3_draconic_elite_4-idle_face_still.webp",
+        "type": [
+          "dragon",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "000_month_3_draconic_elite_5": {
+      "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon’s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
+      "name": "month 3 draconic elite 5",
+      "properties": {
+        "biom": ["ocean", "dungeon", "lair", "coastal", "ruins", "grave", "wasteland", "forest", "desert", "mountains"],
+        "cr": "",
+        "fightingstyle": ["simple", "mobile", "melee"],
+        "movement": ["Fly"],
+        "purpose": ["hunter","pack", "leader"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 20,
+        "stat_cha": 13,
+        "stat_con": 18,
+        "stat_dex": 18,
+        "stat_hp": 178,
+        "stat_int": 13,
+        "stat_str": 22,
+        "stat_wis": 16,
+        "thumbnail": "000_month_3_draconic_elite_5-idle_face_still.webp",
+        "type": [
+          "dragon",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "000_month_3_draconic_elite_6": {
+      "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon’s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
+      "name": "month 3 draconic elite 6",
+      "properties": {
+        "biom": ["ocean", "dungeon", "lair", "coastal", "ruins", "grave", "wasteland", "forest", "desert", "mountains"],
+        "cr": "",
+        "fightingstyle": ["simple", "mobile", "melee"],
+        "movement": ["Fly"],
+        "purpose": ["hunter","pack", "leader"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 20,
+        "stat_cha": 13,
+        "stat_con": 18,
+        "stat_dex": 18,
+        "stat_hp": 178,
+        "stat_int": 13,
+        "stat_str": 22,
+        "stat_wis": 16,
+        "thumbnail": "000_month_3_draconic_elite_6-idle_face_still.webp",
+        "type": [
+          "dragon",
+          ""
+        ],
+        "videourl": ""
+    }
   }
   }
   
   
-
+}
