@@ -7144,7 +7144,7 @@
         "fightingstyle": ["tactical", "demanding"],
         "movement": ["Burrow"],
         "purpose": ["boss" , "damage", "tank" ],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/loyalty-token-82505073",
         "size": "Gargantuan",
         "stat_ac": 22,
         "stat_cha": 14,
@@ -7187,7 +7187,7 @@
         "type": [
           "humanoid"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/XE63tD68JYM"
     }
     },
     "115_pirate_powder_dancer_2": {
@@ -7199,7 +7199,7 @@
         "fightingstyle": ["interactive","shock"],
         "movement": ["Walk"],
         "purpose": ["duelist","minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/pirate-powder-85305131",
         "size": "medium",
         "stat_ac": 15,
         "stat_cha": 10,
@@ -7213,7 +7213,7 @@
         "type": [
           "humanoid"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/XE63tD68JYM"
     }
     },
     "115_pirate_powder_dancer_3": {
@@ -7225,7 +7225,7 @@
         "fightingstyle": ["interactive", "shock"],
         "movement": ["Walk"],
         "purpose": ["duelist","minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/pirate-powder-85305131",
         "size": "medium",
         "stat_ac": 15,
         "stat_cha": 10,
@@ -7239,19 +7239,19 @@
         "type": [
           "humanoid"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/XE63tD68JYM"
     }
     },
     "116_voracious_mawbloom_1": {
       "description": "Cultivated by the arcano-botanists of Ferdeaux as befitting guardians for their sprawling topiaries, the carnivorous Mawblooms boast a towering statue, toothed jaw-petals, growth-accelerated root-vines and acidic digestion glands. What started started out as controlled, if experimental, cultivation has spiraled into an ecological disaster, as the Mawblooms evolved an unintended reproducive method by producing so-called Creeplings. The miniature Mawblooms are capable of uprooting themselves and crawl on unnerving root-legs, extending their reach to explore new territories. Their rapid colonization has led to ecological havoc, as they multiply exponentially, choking out native flora and preying upon local fauna.",
-      "name": "voracious mawbloom 1",
+      "name": "Voracious Mawbloom",
       "properties": {
         "biom": ["forest", "dungeon", "wilderness"],
-        "cr": "",
+        "cr": "7",
         "fightingstyle": ["regeneration", "swallow"],
         "movement": ["Burrow"],
         "purpose": ["pack","pressure","leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/voracious-85864426",
         "size": "Huge",
         "stat_ac": 14,
         "stat_cha": 6,
@@ -7266,19 +7266,19 @@
           "plant",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/rUq8gDMJkvg"
     }
     },
     "116_voracious_mawbloom_2": {
       "description": "Cultivated by the arcano-botanists of Ferdeaux as befitting guardians for their sprawling topiaries, the carnivorous Mawblooms boast a towering statue, toothed jaw-petals, growth-accelerated root-vines and acidic digestion glands. What started started out as controlled, if experimental, cultivation has spiraled into an ecological disaster, as the Mawblooms evolved an unintended reproducive method by producing so-called Creeplings. The miniature Mawblooms are capable of uprooting themselves and crawl on unnerving root-legs, extending their reach to explore new territories. Their rapid colonization has led to ecological havoc, as they multiply exponentially, choking out native flora and preying upon local fauna.",
-      "name": "voracious mawbloom 2",
+      "name": "Voracious Mawbloom",
       "properties": {
         "biom": ["forest", "dungeon", "wilderness"],
-        "cr": "",
+        "cr": "7",
         "fightingstyle": ["regeneration", "swallow"],
         "movement": ["Burrow"],
         "purpose": ["pack","pressure","leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/voracious-85864426",
         "size": "Huge",
         "stat_ac": 14,
         "stat_cha": 6,
@@ -7293,19 +7293,19 @@
           "plant",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/rUq8gDMJkvg"
     }
     },
     "116_voracious_mawbloom_3": {
       "description": "Cultivated by the arcano-botanists of Ferdeaux as befitting guardians for their sprawling topiaries, the carnivorous Mawblooms boast a towering statue, toothed jaw-petals, growth-accelerated root-vines and acidic digestion glands. What started started out as controlled, if experimental, cultivation has spiraled into an ecological disaster, as the Mawblooms evolved an unintended reproducive method by producing so-called Creeplings. The miniature Mawblooms are capable of uprooting themselves and crawl on unnerving root-legs, extending their reach to explore new territories. Their rapid colonization has led to ecological havoc, as they multiply exponentially, choking out native flora and preying upon local fauna.",
-      "name": "voracious mawbloom 3",
+      "name": "Voracious Mawbloom",
       "properties": {
         "biom": ["forest", "dungeon", "wilderness"],
-        "cr": "",
+        "cr": "7",
         "fightingstyle": ["regeneration", "swallow"],
         "movement": ["Burrow"],
         "purpose": ["pack","pressure","leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/voracious-85864426",
         "size": "Huge",
         "stat_ac": 14,
         "stat_cha": 6,
@@ -7320,19 +7320,19 @@
           "plant",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/rUq8gDMJkvg"
 	  }
     },
     "116_mawbloom_creepling_3": {
       "description": "Creeplings are miniature Mawblooms in an infant stadium. They emerge from underground spawn-pods attached to the Mawbloom’s Graveroots and are the Mawbloom’s primary form of reproduction, attaching to unsuspecting targets to drain them of nutrients, before seeking out new territories to become stationary and grow into Voracious Mawblooms themselves.",
-      "name": "mawbloom creepling 3",
+      "name": "Mawbloom Creepling",
       "properties": {
         "biom": ["forest", "dungeon", "wilderness"],
-        "cr": "",
+        "cr": "0.25",
         "fightingstyle": ["simple"],
         "movement": ["Walk"],
         "purpose": ["pack","minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/voracious-85864426",
         "size": "Small",
         "stat_ac": 14,
         "stat_cha": 3,
@@ -7347,19 +7347,19 @@
           "plant",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/rUq8gDMJkvg"
     }
     },
     "000_month_3_draconic_elite_1": {
       "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon’s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
-      "name": "month 3 draconic elite 1",
+      "name": "Draconic Elite",
       "properties": {
         "biom": ["ocean", "dungeon", "lair", "coastal", "ruins", "grave", "wasteland", "forest", "desert", "mountains"],
-        "cr": "",
+        "cr": "9",
         "fightingstyle": ["simple", "mobile", "melee"],
         "movement": ["Fly"],
         "purpose": ["hunter","pack", "leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/loyalty-token-85253332",
         "size": "Huge",
         "stat_ac": 20,
         "stat_cha": 13,
@@ -7374,19 +7374,19 @@
           "dragon",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/tnOtP7tXB7M"
     }
     },
     "000_month_3_draconic_elite_2": {
       "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon’s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
-      "name": "month 3 draconic elite 2",
+      "name": "Draconic Elite",
       "properties": {
         "biom": ["ocean", "dungeon", "lair", "coastal", "ruins", "grave", "wasteland", "forest", "desert", "mountains"],
-        "cr": "",
+        "cr": "9",
         "fightingstyle": ["simple", "mobile", "melee"],
         "movement": ["Fly"],
         "purpose": ["hunter","pack", "leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/loyalty-token-85253332",
         "size": "Huge",
         "stat_ac": 20,
         "stat_cha": 13,
@@ -7401,19 +7401,19 @@
           "dragon",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/tnOtP7tXB7M"
     }
     },
     "000_month_3_draconic_elite_3": {
       "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon’s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
-      "name": "month 3 draconic elite 3",
+      "name": "Draconic Elite",
       "properties": {
         "biom": ["ocean", "dungeon", "lair", "coastal", "ruins", "grave", "wasteland", "forest", "desert", "mountains"],
-        "cr": "",
+        "cr": "9",
         "fightingstyle": ["simple", "mobile", "melee"],
         "movement": ["Fly"],
         "purpose": ["hunter","pack", "leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/loyalty-token-85253332",
         "size": "Huge",
         "stat_ac": 20,
         "stat_cha": 13,
@@ -7428,19 +7428,19 @@
           "dragon",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/tnOtP7tXB7M"
     }
     },
     "000_month_3_draconic_elite_4": {
       "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon’s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
-      "name": "month 3 draconic elite 4",
+      "name": "Draconic Elite",
       "properties": {
         "biom": ["ocean", "dungeon", "lair", "coastal", "ruins", "grave", "wasteland", "forest", "desert", "mountains"],
-        "cr": "",
+        "cr": "9",
         "fightingstyle": ["simple", "mobile", "melee"],
         "movement": ["Fly"],
         "purpose": ["hunter","pack", "leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/loyalty-token-85253332",
         "size": "Huge",
         "stat_ac": 20,
         "stat_cha": 13,
@@ -7455,19 +7455,19 @@
           "dragon",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/tnOtP7tXB7M"
     }
     },
     "000_month_3_draconic_elite_5": {
       "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon’s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
-      "name": "month 3 draconic elite 5",
+      "name": "Draconic Elite",
       "properties": {
         "biom": ["ocean", "dungeon", "lair", "coastal", "ruins", "grave", "wasteland", "forest", "desert", "mountains"],
-        "cr": "",
+        "cr": "9",
         "fightingstyle": ["simple", "mobile", "melee"],
         "movement": ["Fly"],
         "purpose": ["hunter","pack", "leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/loyalty-token-85253332",
         "size": "Huge",
         "stat_ac": 20,
         "stat_cha": 13,
@@ -7482,19 +7482,19 @@
           "dragon",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/tnOtP7tXB7M"
     }
     },
     "000_month_3_draconic_elite_6": {
       "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon’s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
-      "name": "month 3 draconic elite 6",
+      "name": "Draconic Elite",
       "properties": {
         "biom": ["ocean", "dungeon", "lair", "coastal", "ruins", "grave", "wasteland", "forest", "desert", "mountains"],
-        "cr": "",
+        "cr": "9",
         "fightingstyle": ["simple", "mobile", "melee"],
         "movement": ["Fly"],
         "purpose": ["hunter","pack", "leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/loyalty-token-85253332",
         "size": "Huge",
         "stat_ac": 20,
         "stat_cha": 13,
@@ -7504,12 +7504,13 @@
         "stat_int": 13,
         "stat_str": 22,
         "stat_wis": 16,
+        "stat_wis": 16,
         "thumbnail": "000_month_3_draconic_elite_6-idle_face_still.webp",
         "type": [
           "dragon",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/tnOtP7tXB7M"
     }
   }
   }
