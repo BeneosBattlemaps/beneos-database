@@ -7504,13 +7504,66 @@
         "stat_int": 13,
         "stat_str": 22,
         "stat_wis": 16,
-        "stat_wis": 16,
         "thumbnail": "000_month_3_draconic_elite_6-idle_face_still.webp",
         "type": [
           "dragon",
           ""
         ],
         "videourl": "https://youtu.be/tnOtP7tXB7M"
+		}
+    },
+    "116_mawbloom_creepling_2": {
+      "description": "Creeplings are miniature Mawblooms in an infant stadium. They emerge from underground spawn-pods attached to the Mawbloom’s Graveroots and are the Mawbloom’s primary form of reproduction, attaching to unsuspecting targets to drain them of nutrients, before seeking out new territories to become stationary and grow into Voracious Mawblooms themselves.",
+      "name": "Mawbloom Creepling",
+      "properties": {
+        "biom": ["forest", "dungeon", "wilderness"],
+        "cr": "0.25",
+        "fightingstyle": ["simple"],
+        "movement": ["Walk"],
+        "purpose": ["pack","minion"],
+        "releaseurl": "https://www.patreon.com/posts/voracious-85864426",
+        "size": "Small",
+        "stat_ac": 14,
+        "stat_cha": 3,
+        "stat_con": 10,
+        "stat_dex": 14,
+        "stat_hp": 156,
+        "stat_int": 4,
+        "stat_str": 8,
+        "stat_wis": 10,
+        "thumbnail": "116_mawbloom_creepling_2-idle_face_still.webp",
+        "type": [
+          "plant",
+          ""
+        ],
+        "videourl": "https://youtu.be/rUq8gDMJkvg"
+		}
+    },
+    "116_mawbloom_creepling_1": {
+      "description": "Creeplings are miniature Mawblooms in an infant stadium. They emerge from underground spawn-pods attached to the Mawbloom’s Graveroots and are the Mawbloom’s primary form of reproduction, attaching to unsuspecting targets to drain them of nutrients, before seeking out new territories to become stationary and grow into Voracious Mawblooms themselves.",
+      "name": "Mawbloom Creepling",
+      "properties": {
+        "biom": ["forest", "dungeon", "wilderness"],
+        "cr": "0.25",
+        "fightingstyle": ["simple"],
+        "movement": ["Walk"],
+        "purpose": ["pack","minion"],
+        "releaseurl": "https://www.patreon.com/posts/voracious-85864426",
+        "size": "Small",
+        "stat_ac": 14,
+        "stat_cha": 3,
+        "stat_con": 10,
+        "stat_dex": 14,
+        "stat_hp": 156,
+        "stat_int": 4,
+        "stat_str": 8,
+        "stat_wis": 10,
+        "thumbnail": "116_mawbloom_creepling_1-idle_face_still.webp",
+        "type": [
+          "plant",
+          ""
+        ],
+        "videourl": "https://youtu.be/rUq8gDMJkvg"
     }
   }
   }
