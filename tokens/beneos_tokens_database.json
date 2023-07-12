@@ -7564,9 +7564,91 @@
           ""
         ],
         "videourl": "https://youtu.be/rUq8gDMJkvg"
+    
+    }
+    },
+    "117_skeletal_graveblade_1": {
+      "description": "Graveblades were capable warriors, their body and soul now enthralled by necromancy powerful enough to restore their martial abilities and fighting spirit. Not to be confused with the mindless shambling hordes of lesser undead they often command, they are creative in the way of using their undead form to their advantage, amplifying their martial strength with the possibilities opened up by an undying body. Their fiery passion and warrior’s honour, however, transformed into the cruel coldness of the unliving, turning the Graveblades into relentless executors of calculated and methodical slaughter.",
+      "name": "Skeletal Graveblade",
+      "properties": {
+        "biom": ["graves", "dungeon", "lair", "ruins", "road", "wasteland", "horror"],
+        "cr": "5",
+        "fightingstyle": ["simple", "charge", "melee"],
+        "movement": ["Walk"],
+        "purpose": ["hunter","leader"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 18,
+        "stat_cha": 6,
+        "stat_con": 20,
+        "stat_dex": 12,
+        "stat_hp": 115,
+        "stat_int": 13,
+        "stat_str": 18,
+        "stat_wis": 13,
+        "thumbnail": "117_skeletal_graveblade_1-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "117_skeletal_graveblade_2": {
+      "description": "Graveblades were capable warriors, their body and soul now enthralled by necromancy powerful enough to restore their martial abilities and fighting spirit. Not to be confused with the mindless shambling hordes of lesser undead they often command, they are creative in the way of using their undead form to their advantage, amplifying their martial strength with the possibilities opened up by an undying body. Their fiery passion and warrior’s honour, however, transformed into the cruel coldness of the unliving, turning the Graveblades into relentless executors of calculated and methodical slaughter.",
+      "name": "Skeletal Graveblade",
+      "properties": {
+        "biom": ["graves", "dungeon", "lair", "ruins", "road", "wasteland", "horror"],
+        "cr": "5",
+        "fightingstyle": ["simple", "charge", "melee"],
+        "movement": ["Walk"],
+        "purpose": ["hunter","leader"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 18,
+        "stat_cha": 6,
+        "stat_con": 20,
+        "stat_dex": 12,
+        "stat_hp": 115,
+        "stat_int": 13,
+        "stat_str": 18,
+        "stat_wis": 13,
+        "thumbnail": "117_skeletal_graveblade_2-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "117_skeletal_graveblade_3": {
+      "description": "Graveblades were capable warriors, their body and soul now enthralled by necromancy powerful enough to restore their martial abilities and fighting spirit. Not to be confused with the mindless shambling hordes of lesser undead they often command, they are creative in the way of using their undead form to their advantage, amplifying their martial strength with the possibilities opened up by an undying body. Their fiery passion and warrior’s honour, however, transformed into the cruel coldness of the unliving, turning the Graveblades into relentless executors of calculated and methodical slaughter.",
+      "name": "Skeletal Graveblade",
+      "properties": {
+        "biom": ["graves", "dungeon", "lair", "ruins", "road", "wasteland", "horror"],
+        "cr": "5",
+        "fightingstyle": ["simple", "charge", "melee"],
+        "movement": ["Walk"],
+        "purpose": ["hunter","leader"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 18,
+        "stat_cha": 6,
+        "stat_con": 20,
+        "stat_dex": 12,
+        "stat_hp": 115,
+        "stat_int": 13,
+        "stat_str": 18,
+        "stat_wis": 13,
+        "thumbnail": "117_skeletal_graveblade_3-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": ""
     }
   }
   }
+  }
   
-  
-}
+
