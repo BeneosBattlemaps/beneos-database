@@ -54,7 +54,7 @@
     },
     "simple": {
       "name": "Simple",
-      "description": "This creature excels at close combat and has limited or no ranged combat capabilities."
+      "description": "This creature's abilites are straightfoward and require little planning to utilize effectively."
     },
     "lethal": {
       "name": "Lethal",
