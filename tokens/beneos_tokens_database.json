@@ -7647,6 +7647,87 @@
         ],
         "videourl": ""
     }
+    },
+    "118_cyclops_1": {
+      "description": "Cyclopeans are tragic figurs, once the master smiths of giant kind, using their god-given power over the elements to forge storm-wreathed weaponry for the High Kings of the Storm Giants, the Frost Giant Jarls or Stone Giant Thanes. But these days are over, the few Cyclopeans left are pale shades of former glory, lumbering thin-blooded brutes who barely know how to swing their club, let alone a blacksmith’s hammer. They are very suspicious, but once their mistrust has been overcome, they are trusting bordering gullibe - perhaps an indication that their downfall has been brought about by betrayal and that these wounds still linger.",
+      "name": "Cyclops",
+      "properties": {
+        "biom": ["dungeon", "lair", "ruins", "road", "wasteland", "desert", "mountains", "coastal"],
+        "cr": "6",
+        "fightingstyle": ["simple", "charge"],
+        "movement": ["Walk"],
+        "purpose": ["damage","gimmick"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 15,
+        "stat_cha": 8,
+        "stat_con": 20,
+        "stat_dex": 11,
+        "stat_hp": 150,
+        "stat_int": 9,
+        "stat_str": 22,
+        "stat_wis": 6,
+        "thumbnail": "118_cyclops_1-idle_face_still.webp",
+        "type": [
+          "giant",
+          " "
+        ],
+        "videourl": ""
+    }
+    },
+    "118_cyclops_2": {
+      "description": "Cyclopeans are tragic figurs, once the master smiths of giant kind, using their god-given power over the elements to forge storm-wreathed weaponry for the High Kings of the Storm Giants, the Frost Giant Jarls or Stone Giant Thanes. But these days are over, the few Cyclopeans left are pale shades of former glory, lumbering thin-blooded brutes who barely know how to swing their club, let alone a blacksmith’s hammer. They are very suspicious, but once their mistrust has been overcome, they are trusting bordering gullibe - perhaps an indication that their downfall has been brought about by betrayal and that these wounds still linger.",
+      "name": "Cyclops",
+      "properties": {
+        "biom": ["dungeon", "lair", "ruins", "road", "wasteland", "desert", "mountains", "coastal"],
+        "cr": "6",
+        "fightingstyle": ["simple", "charge"],
+        "movement": ["Walk"],
+        "purpose": ["damage","gimmick"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 15,
+        "stat_cha": 8,
+        "stat_con": 20,
+        "stat_dex": 11,
+        "stat_hp": 150,
+        "stat_int": 9,
+        "stat_str": 22,
+        "stat_wis": 6,
+        "thumbnail": "118_cyclops_2-idle_face_still.webp",
+        "type": [
+          "giant",
+          " "
+        ],
+        "videourl": ""
+    }
+    },
+    "118_cyclops_3": {
+      "description": "Cyclopeans are tragic figurs, once the master smiths of giant kind, using their god-given power over the elements to forge storm-wreathed weaponry for the High Kings of the Storm Giants, the Frost Giant Jarls or Stone Giant Thanes. But these days are over, the few Cyclopeans left are pale shades of former glory, lumbering thin-blooded brutes who barely know how to swing their club, let alone a blacksmith’s hammer. They are very suspicious, but once their mistrust has been overcome, they are trusting bordering gullibe - perhaps an indication that their downfall has been brought about by betrayal and that these wounds still linger.",
+      "name": "Cyclops",
+      "properties": {
+        "biom": ["dungeon", "lair", "ruins", "road", "wasteland", "desert", "mountains", "coastal"],
+        "cr": "6",
+        "fightingstyle": ["simple", "charge"],
+        "movement": ["Walk"],
+        "purpose": ["damage","gimmick"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 15,
+        "stat_cha": 8,
+        "stat_con": 20,
+        "stat_dex": 11,
+        "stat_hp": 150,
+        "stat_int": 9,
+        "stat_str": 22,
+        "stat_wis": 6,
+        "thumbnail": "118_cyclops_3-idle_face_still.webp",
+        "type": [
+          "giant",
+          " "
+        ],
+        "videourl": ""
+    }
   }
   }
   }
