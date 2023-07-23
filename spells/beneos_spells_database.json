@@ -1,3 +1,4 @@
+{
   "id": "beneos_spells_database",
   "type": "spell",
   "version": "1.0.0",
@@ -12,8 +13,17 @@
         "casting_time": "10 Minutes",
         "concentration": false,
         "spell_type": "Buff",
-        "classes": ["Druid","Warlock","Paladin","Cleric"],
-        "components": ["V", "S", "M"],
+        "classes": [
+          "Druid",
+          "Warlock",
+          "Paladin",
+          "Cleric"
+        ],
+        "components": [
+          "V",
+          "S",
+          "M"
+        ],
         "icon": "0001_grove_moss-icon.webp"
       }
     },
@@ -27,8 +37,16 @@
         "casting_time": "1 Action",
         "concentration": false,
         "spell_type": "Debuff",
-        "classes": ["Warlock","Cleric", "Sorcerer"],
-        "components": ["V","S","M"],
+        "classes": [
+          "Warlock",
+          "Cleric",
+          "Sorcerer"
+        ],
+        "components": [
+          "V",
+          "S",
+          "M"
+        ],
         "icon": "0002_brittlebone_hex-icon.webp"
       }
     },
@@ -42,8 +60,17 @@
         "casting_time": "1 Action",
         "concentration": false,
         "spell_type": "Buff",
-        "classes": ["Druid","Warlock","Paladin","Cleric"],
-        "components": ["V","S","M"],
+        "classes": [
+          "Druid",
+          "Warlock",
+          "Paladin",
+          "Cleric"
+        ],
+        "components": [
+          "V",
+          "S",
+          "M"
+        ],
         "icon": "0003_soothing_scents-icon.webp"
       }
     }
