@@ -1,0 +1,51 @@
+  "id": "beneos_spells_database",
+  "type": "spell",
+  "version": "1.0.0",
+  "content": {
+    "0001_grove_moss": {
+      "key": "0001_grove_moss",
+      "description": "Soft, magical moss sprouts from the ground centered on yourself.",
+      "name": "Grove Moss",
+      "properties": {
+        "level": "1",
+        "school": "Conjuration",
+        "casting_time": "10 Minutes",
+        "concentration": false,
+        "spell_type": "Buff",
+        "classes": ["Druid","Warlock","Paladin","Cleric"],
+        "components": ["V", "S", "M"],
+        "icon": "0001_grove_moss-icon.webp"
+      }
+    },
+    "0002_brittlebone_hex": {
+      "key": "0002_brittlebone_hex",
+      "description": "The target's Bones become frail and brittle.",
+      "name": "Brittlebone Hex",
+      "properties": {
+        "level": "3",
+        "school": "Transmutation",
+        "casting_time": "1 Action",
+        "concentration": false,
+        "spell_type": "Debuff",
+        "classes": ["Warlock","Cleric", "Sorcerer"],
+        "components": ["V","S","M"],
+        "icon": "0002_brittlebone_hex-icon.webp"
+      }
+    },
+    "0003_soothing_scents": {
+      "key": "0003_soothing_scents",
+      "description": "You exude a comforting smell, capable of bolstering a creatures spiritual and physical fortitude.",
+      "name": "Soothing Scents",
+      "properties": {
+        "level": "3",
+        "school": "Conjuration",
+        "casting_time": "1 Action",
+        "concentration": false,
+        "spell_type": "Buff",
+        "classes": ["Druid","Warlock","Paladin","Cleric"],
+        "components": ["V","S","M"],
+        "icon": "0003_soothing_scents-icon.webp"
+      }
+    }
+  }
+}

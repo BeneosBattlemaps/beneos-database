@@ -1,0 +1,49 @@
+{
+  "id": "beneos_items_database",
+  "type": "item",
+  "version": "1.0.0",
+  "content": {
+    "0001_the_pilgrims_plate": {
+      "key": "0001_the_pilgrims_plate",
+      "description": "Ancient suit of armor carved from a single rock.",
+      "name": "The Pilgrims Plate",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "Ancient",
+        "item_type": "Heavy Armor",
+        "tier": 2,
+        "price": "1800",
+        "icon": "0001_the_pilgrims_plate-icon.webp"
+      }
+    },
+    "0002_bracelets_of_possibility": {
+      "key": "0002_bracelets_of_possibility",
+      "description": "A series of crystalline armlets, assisting their wearer in attuning to the forces of raw arcane power.",
+      "name": "Bracelets of Possibility",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "Arcane",
+        "item_type": "Trinket",
+        "tier": 2,
+        "price": "2000",
+        "icon": "0002_bracelets_of_possibility-icon.webp"
+      }
+    },
+    "0003_griefplate": {
+      "key": "0003_griefplate",
+      "description": "An armor wreathed in grief and pain.",
+      "name": "Griefplate",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "Vampiric",
+        "item_type": "Heavy Armor",
+        "tier": 2,
+        "price": "2600",
+        "icon": "0003_griefplate-icon.webp"
+      }
+    }
+  }
+}
