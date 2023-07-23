@@ -54,7 +54,7 @@
     },
     "simple": {
       "name": "Simple",
-      "description": "This creature excels at close combat and has limited or no ranged combat capabilities."
+      "description": "This creature's abilites are straightfoward and require little planning to utilize effectively."
     },
     "lethal": {
       "name": "Lethal",
@@ -7144,7 +7144,7 @@
         "fightingstyle": ["tactical", "demanding"],
         "movement": ["Burrow"],
         "purpose": ["boss" , "damage", "tank" ],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/loyalty-token-82505073",
         "size": "Gargantuan",
         "stat_ac": 22,
         "stat_cha": 14,
@@ -7187,7 +7187,7 @@
         "type": [
           "humanoid"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/XE63tD68JYM"
     }
     },
     "115_pirate_powder_dancer_2": {
@@ -7199,7 +7199,7 @@
         "fightingstyle": ["interactive","shock"],
         "movement": ["Walk"],
         "purpose": ["duelist","minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/pirate-powder-85305131",
         "size": "medium",
         "stat_ac": 15,
         "stat_cha": 10,
@@ -7213,7 +7213,7 @@
         "type": [
           "humanoid"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/XE63tD68JYM"
     }
     },
     "115_pirate_powder_dancer_3": {
@@ -7225,7 +7225,7 @@
         "fightingstyle": ["interactive", "shock"],
         "movement": ["Walk"],
         "purpose": ["duelist","minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/pirate-powder-85305131",
         "size": "medium",
         "stat_ac": 15,
         "stat_cha": 10,
@@ -7239,14 +7239,497 @@
         "type": [
           "humanoid"
         ],
+        "videourl": "https://youtu.be/XE63tD68JYM"
+    }
+    },
+    "116_voracious_mawbloom_1": {
+      "description": "Cultivated by the arcano-botanists of Ferdeaux as befitting guardians for their sprawling topiaries, the carnivorous Mawblooms boast a towering statue, toothed jaw-petals, growth-accelerated root-vines and acidic digestion glands. What started started out as controlled, if experimental, cultivation has spiraled into an ecological disaster, as the Mawblooms evolved an unintended reproducive method by producing so-called Creeplings. The miniature Mawblooms are capable of uprooting themselves and crawl on unnerving root-legs, extending their reach to explore new territories. Their rapid colonization has led to ecological havoc, as they multiply exponentially, choking out native flora and preying upon local fauna.",
+      "name": "Voracious Mawbloom",
+      "properties": {
+        "biom": ["forest", "dungeon", "wilderness"],
+        "cr": "7",
+        "fightingstyle": ["regeneration", "swallow"],
+        "movement": ["Burrow"],
+        "purpose": ["pack","pressure","leader"],
+        "releaseurl": "https://www.patreon.com/posts/voracious-85864426",
+        "size": "Huge",
+        "stat_ac": 14,
+        "stat_cha": 6,
+        "stat_con": 14,
+        "stat_dex": 4,
+        "stat_hp": 156,
+        "stat_int": 6,
+        "stat_str": 18,
+        "stat_wis": 11,
+        "thumbnail": "116_voracious_mawbloom_1-idle_face_still.webp",
+        "type": [
+          "plant",
+          ""
+        ],
+        "videourl": "https://youtu.be/rUq8gDMJkvg"
+    }
+    },
+    "116_voracious_mawbloom_2": {
+      "description": "Cultivated by the arcano-botanists of Ferdeaux as befitting guardians for their sprawling topiaries, the carnivorous Mawblooms boast a towering statue, toothed jaw-petals, growth-accelerated root-vines and acidic digestion glands. What started started out as controlled, if experimental, cultivation has spiraled into an ecological disaster, as the Mawblooms evolved an unintended reproducive method by producing so-called Creeplings. The miniature Mawblooms are capable of uprooting themselves and crawl on unnerving root-legs, extending their reach to explore new territories. Their rapid colonization has led to ecological havoc, as they multiply exponentially, choking out native flora and preying upon local fauna.",
+      "name": "Voracious Mawbloom",
+      "properties": {
+        "biom": ["forest", "dungeon", "wilderness"],
+        "cr": "7",
+        "fightingstyle": ["regeneration", "swallow"],
+        "movement": ["Burrow"],
+        "purpose": ["pack","pressure","leader"],
+        "releaseurl": "https://www.patreon.com/posts/voracious-85864426",
+        "size": "Huge",
+        "stat_ac": 14,
+        "stat_cha": 6,
+        "stat_con": 14,
+        "stat_dex": 4,
+        "stat_hp": 156,
+        "stat_int": 6,
+        "stat_str": 18,
+        "stat_wis": 11,
+        "thumbnail": "116_voracious_mawbloom_2-idle_face_still.webp",
+        "type": [
+          "plant",
+          ""
+        ],
+        "videourl": "https://youtu.be/rUq8gDMJkvg"
+    }
+    },
+    "116_voracious_mawbloom_3": {
+      "description": "Cultivated by the arcano-botanists of Ferdeaux as befitting guardians for their sprawling topiaries, the carnivorous Mawblooms boast a towering statue, toothed jaw-petals, growth-accelerated root-vines and acidic digestion glands. What started started out as controlled, if experimental, cultivation has spiraled into an ecological disaster, as the Mawblooms evolved an unintended reproducive method by producing so-called Creeplings. The miniature Mawblooms are capable of uprooting themselves and crawl on unnerving root-legs, extending their reach to explore new territories. Their rapid colonization has led to ecological havoc, as they multiply exponentially, choking out native flora and preying upon local fauna.",
+      "name": "Voracious Mawbloom",
+      "properties": {
+        "biom": ["forest", "dungeon", "wilderness"],
+        "cr": "7",
+        "fightingstyle": ["regeneration", "swallow"],
+        "movement": ["Burrow"],
+        "purpose": ["pack","pressure","leader"],
+        "releaseurl": "https://www.patreon.com/posts/voracious-85864426",
+        "size": "Huge",
+        "stat_ac": 14,
+        "stat_cha": 6,
+        "stat_con": 14,
+        "stat_dex": 4,
+        "stat_hp": 156,
+        "stat_int": 6,
+        "stat_str": 18,
+        "stat_wis": 11,
+        "thumbnail": "116_voracious_mawbloom_3-idle_face_still.webp",
+        "type": [
+          "plant",
+          ""
+        ],
+        "videourl": "https://youtu.be/rUq8gDMJkvg"
+	  }
+    },
+    "116_mawbloom_creepling_3": {
+      "description": "Creeplings are miniature Mawblooms in an infant stadium. They emerge from underground spawn-pods attached to the Mawbloom’s Graveroots and are the Mawbloom’s primary form of reproduction, attaching to unsuspecting targets to drain them of nutrients, before seeking out new territories to become stationary and grow into Voracious Mawblooms themselves.",
+      "name": "Mawbloom Creepling",
+      "properties": {
+        "biom": ["forest", "dungeon", "wilderness"],
+        "cr": "0.25",
+        "fightingstyle": ["simple"],
+        "movement": ["Walk"],
+        "purpose": ["pack","minion"],
+        "releaseurl": "https://www.patreon.com/posts/voracious-85864426",
+        "size": "Small",
+        "stat_ac": 13,
+        "stat_cha": 3,
+        "stat_con": 10,
+        "stat_dex": 14,
+        "stat_hp": 16,
+        "stat_int": 4,
+        "stat_str": 8,
+        "stat_wis": 10,
+        "thumbnail": "116_mawbloom_creepling_3-idle_face_still.webp",
+        "type": [
+          "plant",
+          ""
+        ],
+        "videourl": "https://youtu.be/rUq8gDMJkvg"
+    }
+    },
+    "000_month_3_draconic_elite_1": {
+      "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon’s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
+      "name": "Draconic Elite",
+      "properties": {
+        "biom": ["ocean", "dungeon", "lair", "coastal", "ruins", "grave", "wasteland", "forest", "desert", "mountains"],
+        "cr": "9",
+        "fightingstyle": ["simple", "mobile", "melee"],
+        "movement": ["Fly"],
+        "purpose": ["hunter","pack", "leader"],
+        "releaseurl": "https://www.patreon.com/posts/loyalty-token-85253332",
+        "size": "Huge",
+        "stat_ac": 20,
+        "stat_cha": 13,
+        "stat_con": 18,
+        "stat_dex": 18,
+        "stat_hp": 178,
+        "stat_int": 13,
+        "stat_str": 22,
+        "stat_wis": 16,
+        "thumbnail": "000_month_3_draconic_elite_1-idle_face_still.webp",
+        "type": [
+          "dragon",
+          ""
+        ],
+        "videourl": "https://youtu.be/tnOtP7tXB7M"
+    }
+    },
+    "000_month_3_draconic_elite_2": {
+      "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon’s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
+      "name": "Draconic Elite",
+      "properties": {
+        "biom": ["ocean", "dungeon", "lair", "coastal", "ruins", "grave", "wasteland", "forest", "desert", "mountains"],
+        "cr": "9",
+        "fightingstyle": ["simple", "mobile", "melee"],
+        "movement": ["Fly"],
+        "purpose": ["hunter","pack", "leader"],
+        "releaseurl": "https://www.patreon.com/posts/loyalty-token-85253332",
+        "size": "Huge",
+        "stat_ac": 20,
+        "stat_cha": 13,
+        "stat_con": 18,
+        "stat_dex": 18,
+        "stat_hp": 178,
+        "stat_int": 13,
+        "stat_str": 22,
+        "stat_wis": 16,
+        "thumbnail": "000_month_3_draconic_elite_2-idle_face_still.webp",
+        "type": [
+          "dragon",
+          ""
+        ],
+        "videourl": "https://youtu.be/tnOtP7tXB7M"
+    }
+    },
+    "000_month_3_draconic_elite_3": {
+      "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon’s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
+      "name": "Draconic Elite",
+      "properties": {
+        "biom": ["ocean", "dungeon", "lair", "coastal", "ruins", "grave", "wasteland", "forest", "desert", "mountains"],
+        "cr": "9",
+        "fightingstyle": ["simple", "mobile", "melee"],
+        "movement": ["Fly"],
+        "purpose": ["hunter","pack", "leader"],
+        "releaseurl": "https://www.patreon.com/posts/loyalty-token-85253332",
+        "size": "Huge",
+        "stat_ac": 20,
+        "stat_cha": 13,
+        "stat_con": 18,
+        "stat_dex": 18,
+        "stat_hp": 178,
+        "stat_int": 13,
+        "stat_str": 22,
+        "stat_wis": 16,
+        "thumbnail": "000_month_3_draconic_elite_3-idle_face_still.webp",
+        "type": [
+          "dragon",
+          ""
+        ],
+        "videourl": "https://youtu.be/tnOtP7tXB7M"
+    }
+    },
+    "000_month_3_draconic_elite_4": {
+      "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon’s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
+      "name": "Draconic Elite",
+      "properties": {
+        "biom": ["ocean", "dungeon", "lair", "coastal", "ruins", "grave", "wasteland", "forest", "desert", "mountains"],
+        "cr": "9",
+        "fightingstyle": ["simple", "mobile", "melee"],
+        "movement": ["Fly"],
+        "purpose": ["hunter","pack", "leader"],
+        "releaseurl": "https://www.patreon.com/posts/loyalty-token-85253332",
+        "size": "Huge",
+        "stat_ac": 20,
+        "stat_cha": 13,
+        "stat_con": 18,
+        "stat_dex": 18,
+        "stat_hp": 178,
+        "stat_int": 13,
+        "stat_str": 22,
+        "stat_wis": 16,
+        "thumbnail": "000_month_3_draconic_elite_4-idle_face_still.webp",
+        "type": [
+          "dragon",
+          ""
+        ],
+        "videourl": "https://youtu.be/tnOtP7tXB7M"
+    }
+    },
+    "000_month_3_draconic_elite_5": {
+      "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon’s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
+      "name": "Draconic Elite",
+      "properties": {
+        "biom": ["ocean", "dungeon", "lair", "coastal", "ruins", "grave", "wasteland", "forest", "desert", "mountains"],
+        "cr": "9",
+        "fightingstyle": ["simple", "mobile", "melee"],
+        "movement": ["Fly"],
+        "purpose": ["hunter","pack", "leader"],
+        "releaseurl": "https://www.patreon.com/posts/loyalty-token-85253332",
+        "size": "Huge",
+        "stat_ac": 20,
+        "stat_cha": 13,
+        "stat_con": 18,
+        "stat_dex": 18,
+        "stat_hp": 178,
+        "stat_int": 13,
+        "stat_str": 22,
+        "stat_wis": 16,
+        "thumbnail": "000_month_3_draconic_elite_5-idle_face_still.webp",
+        "type": [
+          "dragon",
+          ""
+        ],
+        "videourl": "https://youtu.be/tnOtP7tXB7M"
+    }
+    },
+    "000_month_3_draconic_elite_6": {
+      "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon’s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
+      "name": "Draconic Elite",
+      "properties": {
+        "biom": ["ocean", "dungeon", "lair", "coastal", "ruins", "grave", "wasteland", "forest", "desert", "mountains"],
+        "cr": "9",
+        "fightingstyle": ["simple", "mobile", "melee"],
+        "movement": ["Fly"],
+        "purpose": ["hunter","pack", "leader"],
+        "releaseurl": "https://www.patreon.com/posts/loyalty-token-85253332",
+        "size": "Huge",
+        "stat_ac": 20,
+        "stat_cha": 13,
+        "stat_con": 18,
+        "stat_dex": 18,
+        "stat_hp": 178,
+        "stat_int": 13,
+        "stat_str": 22,
+        "stat_wis": 16,
+        "thumbnail": "000_month_3_draconic_elite_6-idle_face_still.webp",
+        "type": [
+          "dragon",
+          ""
+        ],
+        "videourl": "https://youtu.be/tnOtP7tXB7M"
+		}
+    },
+    "116_mawbloom_creepling_2": {
+      "description": "Creeplings are miniature Mawblooms in an infant stadium. They emerge from underground spawn-pods attached to the Mawbloom’s Graveroots and are the Mawbloom’s primary form of reproduction, attaching to unsuspecting targets to drain them of nutrients, before seeking out new territories to become stationary and grow into Voracious Mawblooms themselves.",
+      "name": "Mawbloom Creepling",
+      "properties": {
+        "biom": ["forest", "dungeon", "wilderness"],
+        "cr": "0.25",
+        "fightingstyle": ["simple"],
+        "movement": ["Walk"],
+        "purpose": ["pack","minion"],
+        "releaseurl": "https://www.patreon.com/posts/voracious-85864426",
+        "size": "Small",
+        "stat_ac": 13,
+        "stat_cha": 3,
+        "stat_con": 10,
+        "stat_dex": 14,
+        "stat_hp": 16,
+        "stat_int": 4,
+        "stat_str": 8,
+        "stat_wis": 10,
+        "thumbnail": "116_mawbloom_creepling_2-idle_face_still.webp",
+        "type": [
+          "plant",
+          ""
+        ],
+        "videourl": "https://youtu.be/rUq8gDMJkvg"
+		}
+    },
+    "116_mawbloom_creepling_1": {
+      "description": "Creeplings are miniature Mawblooms in an infant stadium. They emerge from underground spawn-pods attached to the Mawbloom’s Graveroots and are the Mawbloom’s primary form of reproduction, attaching to unsuspecting targets to drain them of nutrients, before seeking out new territories to become stationary and grow into Voracious Mawblooms themselves.",
+      "name": "Mawbloom Creepling",
+      "properties": {
+        "biom": ["forest", "dungeon", "wilderness"],
+        "cr": "0.25",
+        "fightingstyle": ["simple"],
+        "movement": ["Walk"],
+        "purpose": ["pack","minion"],
+        "releaseurl": "https://www.patreon.com/posts/voracious-85864426",
+        "size": "Small",
+        "stat_ac": 13,
+        "stat_cha": 3,
+        "stat_con": 10,
+        "stat_dex": 14,
+        "stat_hp": 16,
+        "stat_int": 4,
+        "stat_str": 8,
+        "stat_wis": 10,
+        "thumbnail": "116_mawbloom_creepling_1-idle_face_still.webp",
+        "type": [
+          "plant",
+          ""
+        ],
+        "videourl": "https://youtu.be/rUq8gDMJkvg"
+    
+    }
+    },
+    "117_skeletal_graveblade_1": {
+      "description": "Graveblades were capable warriors, their body and soul now enthralled by necromancy powerful enough to restore their martial abilities and fighting spirit. Not to be confused with the mindless shambling hordes of lesser undead they often command, they are creative in the way of using their undead form to their advantage, amplifying their martial strength with the possibilities opened up by an undying body. Their fiery passion and warrior’s honour, however, transformed into the cruel coldness of the unliving, turning the Graveblades into relentless executors of calculated and methodical slaughter.",
+      "name": "Skeletal Graveblade",
+      "properties": {
+        "biom": ["graves", "dungeon", "lair", "ruins", "road", "wasteland", "horror"],
+        "cr": "5",
+        "fightingstyle": ["simple", "charge", "melee"],
+        "movement": ["Walk"],
+        "purpose": ["hunter","leader"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 18,
+        "stat_cha": 6,
+        "stat_con": 20,
+        "stat_dex": 12,
+        "stat_hp": 115,
+        "stat_int": 13,
+        "stat_str": 18,
+        "stat_wis": 13,
+        "thumbnail": "117_skeletal_graveblade_1-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
         "videourl": ""
     }
-
+    },
+    "117_skeletal_graveblade_2": {
+      "description": "Graveblades were capable warriors, their body and soul now enthralled by necromancy powerful enough to restore their martial abilities and fighting spirit. Not to be confused with the mindless shambling hordes of lesser undead they often command, they are creative in the way of using their undead form to their advantage, amplifying their martial strength with the possibilities opened up by an undying body. Their fiery passion and warrior’s honour, however, transformed into the cruel coldness of the unliving, turning the Graveblades into relentless executors of calculated and methodical slaughter.",
+      "name": "Skeletal Graveblade",
+      "properties": {
+        "biom": ["graves", "dungeon", "lair", "ruins", "road", "wasteland", "horror"],
+        "cr": "5",
+        "fightingstyle": ["simple", "charge", "melee"],
+        "movement": ["Walk"],
+        "purpose": ["hunter","leader"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 18,
+        "stat_cha": 6,
+        "stat_con": 20,
+        "stat_dex": 12,
+        "stat_hp": 115,
+        "stat_int": 13,
+        "stat_str": 18,
+        "stat_wis": 13,
+        "thumbnail": "117_skeletal_graveblade_2-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": ""
     }
-
-   
+    },
+    "117_skeletal_graveblade_3": {
+      "description": "Graveblades were capable warriors, their body and soul now enthralled by necromancy powerful enough to restore their martial abilities and fighting spirit. Not to be confused with the mindless shambling hordes of lesser undead they often command, they are creative in the way of using their undead form to their advantage, amplifying their martial strength with the possibilities opened up by an undying body. Their fiery passion and warrior’s honour, however, transformed into the cruel coldness of the unliving, turning the Graveblades into relentless executors of calculated and methodical slaughter.",
+      "name": "Skeletal Graveblade",
+      "properties": {
+        "biom": ["graves", "dungeon", "lair", "ruins", "road", "wasteland", "horror"],
+        "cr": "5",
+        "fightingstyle": ["simple", "charge", "melee"],
+        "movement": ["Walk"],
+        "purpose": ["hunter","leader"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 18,
+        "stat_cha": 6,
+        "stat_con": 20,
+        "stat_dex": 12,
+        "stat_hp": 115,
+        "stat_int": 13,
+        "stat_str": 18,
+        "stat_wis": 13,
+        "thumbnail": "117_skeletal_graveblade_3-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "118_cyclops_1": {
+      "description": "Cyclopeans are tragic figurs, once the master smiths of giant kind, using their god-given power over the elements to forge storm-wreathed weaponry for the High Kings of the Storm Giants, the Frost Giant Jarls or Stone Giant Thanes. But these days are over, the few Cyclopeans left are pale shades of former glory, lumbering thin-blooded brutes who barely know how to swing their club, let alone a blacksmith’s hammer. They are very suspicious, but once their mistrust has been overcome, they are trusting bordering gullibe - perhaps an indication that their downfall has been brought about by betrayal and that these wounds still linger.",
+      "name": "Cyclops",
+      "properties": {
+        "biom": ["dungeon", "lair", "ruins", "road", "wasteland", "desert", "mountains", "coastal"],
+        "cr": "6",
+        "fightingstyle": ["simple", "charge"],
+        "movement": ["Walk"],
+        "purpose": ["damage","gimmick"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 15,
+        "stat_cha": 8,
+        "stat_con": 20,
+        "stat_dex": 11,
+        "stat_hp": 150,
+        "stat_int": 9,
+        "stat_str": 22,
+        "stat_wis": 6,
+        "thumbnail": "118_cyclops_1-idle_face_still.webp",
+        "type": [
+          "giant",
+          " "
+        ],
+        "videourl": ""
+    }
+    },
+    "118_cyclops_2": {
+      "description": "Cyclopeans are tragic figurs, once the master smiths of giant kind, using their god-given power over the elements to forge storm-wreathed weaponry for the High Kings of the Storm Giants, the Frost Giant Jarls or Stone Giant Thanes. But these days are over, the few Cyclopeans left are pale shades of former glory, lumbering thin-blooded brutes who barely know how to swing their club, let alone a blacksmith’s hammer. They are very suspicious, but once their mistrust has been overcome, they are trusting bordering gullibe - perhaps an indication that their downfall has been brought about by betrayal and that these wounds still linger.",
+      "name": "Cyclops",
+      "properties": {
+        "biom": ["dungeon", "lair", "ruins", "road", "wasteland", "desert", "mountains", "coastal"],
+        "cr": "6",
+        "fightingstyle": ["simple", "charge"],
+        "movement": ["Walk"],
+        "purpose": ["damage","gimmick"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 15,
+        "stat_cha": 8,
+        "stat_con": 20,
+        "stat_dex": 11,
+        "stat_hp": 150,
+        "stat_int": 9,
+        "stat_str": 22,
+        "stat_wis": 6,
+        "thumbnail": "118_cyclops_2-idle_face_still.webp",
+        "type": [
+          "giant",
+          " "
+        ],
+        "videourl": ""
+    }
+    },
+    "118_cyclops_3": {
+      "description": "Cyclopeans are tragic figurs, once the master smiths of giant kind, using their god-given power over the elements to forge storm-wreathed weaponry for the High Kings of the Storm Giants, the Frost Giant Jarls or Stone Giant Thanes. But these days are over, the few Cyclopeans left are pale shades of former glory, lumbering thin-blooded brutes who barely know how to swing their club, let alone a blacksmith’s hammer. They are very suspicious, but once their mistrust has been overcome, they are trusting bordering gullibe - perhaps an indication that their downfall has been brought about by betrayal and that these wounds still linger.",
+      "name": "Cyclops",
+      "properties": {
+        "biom": ["dungeon", "lair", "ruins", "road", "wasteland", "desert", "mountains", "coastal"],
+        "cr": "6",
+        "fightingstyle": ["simple", "charge"],
+        "movement": ["Walk"],
+        "purpose": ["damage","gimmick"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 15,
+        "stat_cha": 8,
+        "stat_con": 20,
+        "stat_dex": 11,
+        "stat_hp": 150,
+        "stat_int": 9,
+        "stat_str": 22,
+        "stat_wis": 6,
+        "thumbnail": "118_cyclops_3-idle_face_still.webp",
+        "type": [
+          "giant",
+          " "
+        ],
+        "videourl": ""
+    }
   }
   }
-  
+  }
   
 
