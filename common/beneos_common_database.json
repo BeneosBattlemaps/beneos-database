@@ -8,7 +8,7 @@
         "message": "This is an ancient item"
       }
     },
-    "type": {
+    "item_type": {
       "light armor": {
         "message": "This  is a light armor"
       }, 
