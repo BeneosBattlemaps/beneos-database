@@ -1,0 +1,28 @@
+{
+  "hover": {
+    "origin": {
+      "vampiric":{
+        "message": "This is a vampiric item"
+      },
+      "ancient": {
+        "message": "This is an vampiricancient item"
+      }
+    },
+    "type": {
+      "light armor": {
+        "message": "This  is a light armor"
+      }, 
+      "leather armor":{
+        "message": "This is a leather armor"
+      }
+    },
+    "installed": {
+      "installed": {
+        "message": "......"
+      },
+      "not_installed": {
+        "message": "......"
+      }
+    }
+  }
+}
