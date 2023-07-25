@@ -5,7 +5,7 @@
         "message": "This is a vampiric item"
       },
       "ancient": {
-        "message": "This is an vampiricancient item"
+        "message": "This is an ancient item"
       }
     },
     "type": {
@@ -14,6 +14,20 @@
       }, 
       "leather armor":{
         "message": "This is a leather armor"
+      }
+    },
+    "tier": {
+      "1": {
+        "message": "Tier 1"
+      },
+      "2": {
+        "message": "Tier 2"
+      },
+      "3": {
+        "message": "Tier 3"
+      },
+      "4": {
+        "message": "Tier 4"
       }
     },
     "installed": {
