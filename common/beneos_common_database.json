@@ -9,8 +9,8 @@
       }
     },
     "item_type": {
-      "light armor": {
-        "message": "This  is a light armor"
+      "heavy armor": {
+        "message": "This  is a heavy armor"
       }, 
       "leather armor":{
         "message": "This is a leather armor"
