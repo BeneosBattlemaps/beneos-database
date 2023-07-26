@@ -7727,6 +7727,33 @@
           " "
         ],
         "videourl": ""
+	}
+    },
+    "119_sand_elemental": {
+      "description": "The four major elemental planes share hidden borders, where their essences intermingle. As looming Magma Elementals populate the vast volcanic trenches below the endless oceans of the aquatic plane, the relentless rasp-winds of the aerial plane instill the terran plane’s sand with life, causing Sand Elementals to rise from the arid dunes, finding their way through weak points of the planar veil into the profane world.",
+      "name": "Sand Elemental",
+      "properties": {
+        "biom": ["Desert", "Planar", "Wasteland", "Coast"],
+        "cr": "",
+        "fightingstyle": ["Aoe", "Swallow", "Demanding"],
+        "movement": ["Fly"],
+        "purpose": ["Pressure"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 15,
+        "stat_cha": 5,
+        "stat_con": 16,
+        "stat_dex": 18,
+        "stat_hp": 136,
+        "stat_int": 6,
+        "stat_str": 18,
+        "stat_wis": 10,
+        "thumbnail": "119_sand_elemental-idle_face_still.webp",
+        "type": [
+          "Elemental",
+          ""
+        ],
+        "videourl": ""
     }
   }
   }
