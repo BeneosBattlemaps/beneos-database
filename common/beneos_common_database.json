@@ -1,0 +1,42 @@
+{
+  "hover": {
+    "origin": {
+      "vampiric":{
+        "message": "This is a vampiric item"
+      },
+      "ancient": {
+        "message": "This is an ancient item"
+      }
+    },
+    "item_type": {
+      "heavy armor": {
+        "message": "This  is a heavy armor"
+      }, 
+      "leather armor":{
+        "message": "This is a leather armor"
+      }
+    },
+    "tier": {
+      "1": {
+        "message": "Tier 1"
+      },
+      "2": {
+        "message": "Tier 2"
+      },
+      "3": {
+        "message": "Tier 3"
+      },
+      "4": {
+        "message": "Tier 4"
+      }
+    },
+    "installed": {
+      "installed": {
+        "message": "......"
+      },
+      "not_installed": {
+        "message": "......"
+      }
+    }
+  }
+}
