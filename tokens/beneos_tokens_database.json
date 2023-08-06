@@ -7734,7 +7734,7 @@
       "name": "Sand Elemental",
       "properties": {
         "biom": ["Desert", "Planar", "Wasteland", "Coast"],
-        "cr": "",
+        "cr": "8",
         "fightingstyle": ["Aoe", "Swallow", "Demanding"],
         "movement": ["Fly"],
         "purpose": ["Pressure"],
@@ -7752,6 +7752,33 @@
         "type": [
           "Elemental",
           ""
+        ],
+        "videourl": ""
+    }
+    },
+    "120_vampire_dreg": {
+      "description": "Dregs are found at the bottom of the vampiric hierarchy, unloved offspring marked and transformed by the bestial nature of their sanguine legacy. They are driven by maddening hunger and the aching need to receive any semblance of acknowledgment from their creator. Once their hunger is satiated, they become even more dangerous, as the starved beast turns into a cunning predator, now pursuing its prey not out of desperation, but for its own debased amusement.",
+      "name": "Vampire Dreg",
+      "properties": {
+        "biom": ["Graves", "Horror", "Wasteland", "Forest", "Wilderness", "Road", "Civilized", "Dungeon"],
+        "cr": "5",
+        "fightingstyle": ["Mobile", "Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Hunter", "Damage"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 16,
+        "stat_cha": 5,
+        "stat_con": 16,
+        "stat_dex": 19,
+        "stat_hp": 82,
+        "stat_int": 7,
+        "stat_str": 18,
+        "stat_wis": 13,
+        "thumbnail": "120_vampire_dreg-idle_face_still.webp",
+        "type": [
+          "Undead",
+          "Vampire"
         ],
         "videourl": ""
     }
