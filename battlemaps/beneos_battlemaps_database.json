@@ -25332,6 +25332,822 @@
          "thumbnail":"67-05_White_Dragon_Lair_Chamber-4K_Scen.webp",
          "videourl": ""
       }
+                    },
+                    "68-01_Test_1-4K_BM":{
+                        "name":"68-01 Test 1",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Test 1","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"38x35",
+                        "pack":"68_Import_Test_1",
+                        "releaseurl":"WIP",
+                        "sibling":"68-01_Test_1-4K_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-01_Test_1-4K_BM.webp",
+                        "videourl":"WIP"
+                        }
+                        },
+                        "68-01_Test_1-4K_Scen":{
+                            "name":"68-01 Test 1",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Test 1","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"38x35",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-01_Test_1-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-01_Test_1-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                    },
+                    "68-02_Test_2-4K_BM":{
+                        "name":"68-02 Test 2",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ice","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"27x25",
+                        "pack":"68_Import_Test_1",
+                        "releaseurl":"WIP",
+                        "sibling":"68-02_Test_2-4K_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-02_Test_2-4K_BM.webp",
+                        "videourl":"WIP"
+                        }
+                        },
+                        "68-02_Test_2-4K_Scen":{
+                            "name":"68-02 Test 2",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Ice","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"27x25",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-02_Test_2-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-02_Test_2-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                    },
+                    "68-03_Test_3-4K_BM":{
+                        "name":"68-03 Test 3",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ice","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"30x30",
+                        "pack":"68_Import_Test_1",
+                        "releaseurl":"WIP",
+                        "sibling":"68-03_Test_3-4K_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-03_Test_3-4K_BM.webp",
+                        "videourl":"WIP"
+                        }
+                        },
+                        "68-03_Test_3-4K_Scen":{
+                            "name":"68-03 Test 3",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Ice","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"30x30",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-03_Test_3-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-03_Test_3-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                    },
+                    "68-01_Test_1-4K_BM":{
+                        "name":"68-01 Test 1",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Test 1","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"38x35",
+                        "pack":"68_Import_Test_1",
+                        "releaseurl":"WIP",
+                        "sibling":"68-01_Test_1-4K_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-01_Test_1-4K_BM.webp",
+                        "videourl":"WIP"
+                        }
+                        },
+                        "68-01_Test_1-4K_Scen":{
+                            "name":"68-01 Test 1",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Test 1","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"38x35",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-01_Test_1-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-01_Test_1-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                    },
+                    "68-02_Test_2-4K_BM":{
+                        "name":"68-02 Test 2",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ice","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"27x25",
+                        "pack":"68_Import_Test_1",
+                        "releaseurl":"WIP",
+                        "sibling":"68-02_Test_2-4K_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-02_Test_2-4K_BM.webp",
+                        "videourl":"WIP"
+                        }
+                        },
+                        "68-02_Test_2-4K_Scen":{
+                            "name":"68-02 Test 2",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Ice","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"27x25",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-02_Test_2-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-02_Test_2-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                    },
+                    "68-03_Test_3-4K_BM":{
+                        "name":"68-03 Test 3",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ice","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"30x30",
+                        "pack":"68_Import_Test_1",
+                        "releaseurl":"WIP",
+                        "sibling":"68-03_Test_3-4K_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-03_Test_3-4K_BM.webp",
+                        "videourl":"WIP"
+                        }
+                        },
+                        "68-03_Test_3-4K_Scen":{
+                            "name":"68-03 Test 3",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Ice","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"30x30",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-03_Test_3-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-03_Test_3-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                    },
+                    "68-01_Test_1-4K_BM":{
+                        "name":"68-01 Test 1",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Test 1","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"38x35",
+                        "pack":"68_Import_Test_1",
+                        "releaseurl":"WIP",
+                        "sibling":"68-01_Test_1-4K_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-01_Test_1-4K_BM.webp",
+                        "videourl":"WIP"
+                        }
+                        },
+                        "68-01_Test_1-4K_Scen":{
+                            "name":"68-01 Test 1",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Test 1","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"38x35",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-01_Test_1-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-01_Test_1-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                    },
+                    "68-02_Test_2-4K_BM":{
+                        "name":"68-02 Test 2",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ice","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"27x25",
+                        "pack":"68_Import_Test_1",
+                        "releaseurl":"WIP",
+                        "sibling":"68-02_Test_2-4K_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-02_Test_2-4K_BM.webp",
+                        "videourl":"WIP"
+                        }
+                        },
+                        "68-02_Test_2-4K_Scen":{
+                            "name":"68-02 Test 2",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Ice","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"27x25",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-02_Test_2-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-02_Test_2-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                    },
+                    "68-03_Test_3-4K_BM":{
+                        "name":"68-03 Test 3",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ice","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"30x30",
+                        "pack":"68_Import_Test_1",
+                        "releaseurl":"WIP",
+                        "sibling":"68-03_Test_3-4K_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-03_Test_3-4K_BM.webp",
+                        "videourl":"WIP"
+                        }
+                        },
+                        "68-03_Test_3-4K_Scen":{
+                            "name":"68-03 Test 3",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Ice","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"30x30",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-03_Test_3-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-03_Test_3-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                    },
+                    "68-01_Test_1-4K_BM":{
+                        "name":"68-01 Test 1",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Test 1","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"38x35",
+                        "pack":"68_Import_Test_1",
+                        "releaseurl":"WIP",
+                        "sibling":"68-01_Test_1-4K_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-01_Test_1-4K_BM.webp",
+                        "videourl":"WIP"
+                        }
+                        },
+                        "68-01_Test_1-4K_Scen":{
+                            "name":"68-01 Test 1",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Test 1","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"38x35",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-01_Test_1-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-01_Test_1-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                    },
+                    "68-02_Test_2-4K_BM":{
+                        "name":"68-02 Test 2",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ice","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"27x25",
+                        "pack":"68_Import_Test_1",
+                        "releaseurl":"WIP",
+                        "sibling":"68-02_Test_2-4K_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-02_Test_2-4K_BM.webp",
+                        "videourl":"WIP"
+                        }
+                        },
+                        "68-02_Test_2-4K_Scen":{
+                            "name":"68-02 Test 2",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Ice","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"27x25",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-02_Test_2-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-02_Test_2-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                    },
+                    "68-03_Test_3-4K_BM":{
+                        "name":"68-03 Test 3",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ice","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"30x30",
+                        "pack":"68_Import_Test_1",
+                        "releaseurl":"WIP",
+                        "sibling":"68-03_Test_3-4K_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-03_Test_3-4K_BM.webp",
+                        "videourl":"WIP"
+                        }
+                        },
+                        "68-03_Test_3-4K_Scen":{
+                            "name":"68-03 Test 3",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Ice","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"30x30",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-03_Test_3-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-03_Test_3-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                    },
+                    "68-01_Test_1-4K_BM":{
+                        "name":"68-01 Test 1",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Test 1","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"38x35",
+                        "pack":"68_Import_Test_1",
+                        "releaseurl":"WIP",
+                        "sibling":"68-01_Test_1-4K_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-01_Test_1-4K_BM.webp",
+                        "videourl":"WIP"
+                        }
+                        },
+                        "68-01_Test_1-4K_Scen":{
+                            "name":"68-01 Test 1",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Test 1","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"38x35",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-01_Test_1-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-01_Test_1-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                    },
+                    "68-02_Test_2-4K_BM":{
+                        "name":"68-02 Test 2",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ice","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"27x25",
+                        "pack":"68_Import_Test_1",
+                        "releaseurl":"WIP",
+                        "sibling":"68-02_Test_2-4K_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-02_Test_2-4K_BM.webp",
+                        "videourl":"WIP"
+                        }
+                        },
+                        "68-02_Test_2-4K_Scen":{
+                            "name":"68-02 Test 2",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Ice","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"27x25",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-02_Test_2-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-02_Test_2-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                    },
+                    "68-03_Test_3-4K_BM":{
+                        "name":"68-03 Test 3",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ice","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"30x30",
+                        "pack":"68_Import_Test_1",
+                        "releaseurl":"WIP",
+                        "sibling":"68-03_Test_3-4K_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-03_Test_3-4K_BM.webp",
+                        "videourl":"WIP"
+                        }
+                        },
+                        "68-03_Test_3-4K_Scen":{
+                            "name":"68-03 Test 3",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Ice","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"30x30",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-03_Test_3-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-03_Test_3-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                    },
+                    "68-01_Test_1-4K_BM":{
+                        "name":"68-01 Test 1",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Test 1","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"38x35",
+                        "pack":"68_Import_Test_1",
+                        "releaseurl":"WIP",
+                        "sibling":"68-01_Test_1-4K_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-01_Test_1-4K_BM.webp",
+                        "videourl":"WIP"
+                        }
+                        },
+                        "68-01_Test_1-4K_Scen":{
+                            "name":"68-01 Test 1",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Test 1","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"38x35",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-01_Test_1-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-01_Test_1-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                    },
+                    "68-02_Test_2-4K_BM":{
+                        "name":"68-02 Test 2",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ice","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"27x25",
+                        "pack":"68_Import_Test_1",
+                        "releaseurl":"WIP",
+                        "sibling":"68-02_Test_2-4K_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-02_Test_2-4K_BM.webp",
+                        "videourl":"WIP"
+                        }
+                        },
+                        "68-02_Test_2-4K_Scen":{
+                            "name":"68-02 Test 2",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Ice","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"27x25",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-02_Test_2-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-02_Test_2-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                    },
+                    "68-01_Test_1-4K_BM":{
+                        "name":"68-01 Test 1",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Test 1","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"38x35",
+                        "pack":"68_Import_Test_1",
+                        "releaseurl":"WIP",
+                        "sibling":"68-01_Test_1-4K_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-01_Test_1-4K_BM.webp",
+                        "videourl":"WIP"
+                        }
+                        },
+                        "68-01_Test_1-4K_Scen":{
+                            "name":"68-01 Test 1",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Test 1","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"38x35",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-01_Test_1-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-01_Test_1-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                    },
+                    "68-02_Test_2-4K_BM":{
+                        "name":"68-02 Test 2",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ice","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"27x25",
+                        "pack":"68_Import_Test_1",
+                        "releaseurl":"WIP",
+                        "sibling":"68-02_Test_2-4K_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-02_Test_2-4K_BM.webp",
+                        "videourl":"WIP"
+                        }
+                        },
+                        "68-02_Test_2-4K_Scen":{
+                            "name":"68-02 Test 2",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Ice","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"27x25",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-02_Test_2-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-02_Test_2-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                    },
+                    "68-03_Test_3-4K_BM":{
+                        "name":"68-03 Test 3",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ice","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"30x30",
+                        "pack":"68_Import_Test_1",
+                        "releaseurl":"WIP",
+                        "sibling":"68-03_Test_3-4K_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-03_Test_3-4K_BM.webp",
+                        "videourl":"WIP"
+                        }
+                        },
+                        "68-03_Test_3-4K_Scen":{
+                            "name":"68-03 Test 3",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Ice","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"30x30",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-03_Test_3-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-03_Test_3-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                        },
+                        "68-01_Test_1-4K_Scen":{
+                            "name":"68-01 Test 1",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Test 1","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"38x35",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-01_Test_1-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-01_Test_1-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                        },
+                        "68-02_Test_2-4K_Scen":{
+                            "name":"68-02 Test 2",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Ice","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"27x25",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-02_Test_2-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-02_Test_2-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                        },
+                        "68-03_Test_3-4K_Scen":{
+                            "name":"68-03 Test 3",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Ice","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"30x30",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-03_Test_3-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-03_Test_3-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                    },
+                    "68-01_Test_1-4K_BM":{
+                        "name":"68-01 Test 1",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Test 1","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"38x35",
+                        "pack":"68_Import_Test_1",
+                        "releaseurl":"WIP",
+                        "sibling":"68-01_Test_1-4K_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-01_Test_1-4K_BM.webp",
+                        "videourl":"WIP"
+                        }
+                        },
+                        "68-01_Test_1-4K_Scen":{
+                            "name":"68-01 Test 1",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Test 1","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"38x35",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-01_Test_1-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-01_Test_1-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                    },
+                    "68-02_Test_2-4K_BM":{
+                        "name":"68-02 Test 2",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ice","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"27x25",
+                        "pack":"68_Import_Test_1",
+                        "releaseurl":"WIP",
+                        "sibling":"68-02_Test_2-4K_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-02_Test_2-4K_BM.webp",
+                        "videourl":"WIP"
+                        }
+                        },
+                        "68-02_Test_2-4K_Scen":{
+                            "name":"68-02 Test 2",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Ice","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"27x25",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-02_Test_2-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-02_Test_2-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+                    },
+                    "68-03_Test_3-4K_BM":{
+                        "name":"68-03 Test 3",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ice","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"30x30",
+                        "pack":"68_Import_Test_1",
+                        "releaseurl":"WIP",
+                        "sibling":"68-03_Test_3-4K_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-03_Test_3-4K_BM.webp",
+                        "videourl":"WIP"
+                        }
+                        },
+                        "68-03_Test_3-4K_Scen":{
+                            "name":"68-03 Test 3",
+                            "description":"",
+                            "properties":{
+                            "adventure":["None"],
+                            "biom":["Ice","Mountain","Snow","Exteriour"],
+                            "brightness":"Medium",
+                            "grid":"30x30",
+                            "pack":"68_Import_Test_1",
+                            "releaseurl":"WIP",
+                            "sibling":"68-03_Test_3-4K_BM",
+                            "type":"Battlemap",
+                            "thumbnail":"68-03_Test_3-4K_Scen.webp",
+                            "videourl":"WIP"
+                            }
+     },
+    "07-01_Polis_Undrground_Arena-4K_BM": {
+       "name": "Polis Undrground Arena",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","Arena","Underground","Interiour"],
+         "brightness": "Medium",
+         "grid": "48x27",
+         "pack": "07_polis_underground_arena",
+         "releaseurl": "",
+         "sibling": "07-01_Polis_Undrground_Arena-4K_Scen",
+         "type": "Battlemap",
+         "thumbnail":"07-01_Polis_Undrground_Arena-SE_BM.webp",
+         "videourl": ""
+      }
+     },
+    "07-01_Polis_Undrground_Arena-4K_Scen": {
+       "name": "Polis Undrground Arena",
+       "description": "",
+       "properties": {
+         "adventure": ["None"],
+         "biom": ["Civilised","Arena","Underground","Interiour"],
+         "brightness": "Medium",
+         "grid": "None",
+         "pack": "07_polis_underground_arena",
+         "releaseurl": "",
+         "sibling": "07-01_Polis_Undrground_Arena-4K_BM",
+         "type": "Scenery",
+         "thumbnail":"07-01_Polis_Undrground_Arena-4K_Scen.webp",
+         "videourl": ""
+      }
     }
   }
 }
