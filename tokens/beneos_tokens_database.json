@@ -5459,7 +5459,7 @@
       "description": "Swordbearer Reliquaries are vestiges of past ages, walking shrines dedicated to a forgotten deity of war and valor. These silent effigies are named Swordbearers, for ancient blades are driven deeply into their craggy form, unclear to which purpose - remembrance or veneration? It is also unknown what causes life to spark within the overgrown form of the Reliquary, causing it to rise and wander. Maybe the souls of the ancient blades thirst for battle once more, or maybe the lost deity itself slowly wakes from its god-slumber, sending out these living shrines as solemn emissaries to seek out worthy warriors to receive the old god’s favor.",
       "name": "Swordbearer Reliquary",
       "properties": {
-        "biom": ["ruins", "dungeon", "road", "wilderness", "forest", "mountains", "coast", "sacral"],
+        "biom": ["ruins", "dungeon", "road", "wilderness", "forest", "mountains", "coastal", "sacral"],
         "cr": "9",
         "fightingstyle": ["anti x", "gimmick"],
         "movement": ["Walk"],
