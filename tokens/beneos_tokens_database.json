@@ -4514,7 +4514,7 @@
       "description": "Due to government contracts, the (traditionally dwarven) members of the great Powder Guilds, those organisations authorized to research and develop mechanical firearms, are also utilized as a well-trained militia, often requiring mandatory service escorting the great Trade Fleets trawling the great Archipelago. This leaves many guild members with first-hand combat experience and some will stay within the military branch of the guilds, choosing the life of an Artillerist over that of an Artisan. They serve with a deep understanding of their craft, burning to further hone their skills as combat engineers, artillery and demolition specialists or expert marksmen. ",
       "name": "Guild Artillerist",
       "properties": {
-        "biom": ["civilised", "city", "wilderness", "coast", "road", "mountain"],
+        "biom": ["civilised", "city", "wilderness", "coast", "road", "mountains"],
         "cr": "3",
         "fightingstyle": ["ranged", "interactive"],
         "movement": ["walk"],
@@ -4541,7 +4541,7 @@
       "description": "Seeing a Deathsworn fight is witnessing a ceremonial choreography, as they seamlessly weave their opponents into an intimate dance of death. Deathsworn exhibit great respect towards their enemies, going so far as to carry the ritually cleaned and hallowed skulls of particularly worthy opponents alongside of those of their closest kin - signifying their bond forged in battle, either on equal or opposing sides. The certainty of their own death is meaningless to a Deathsworn, as they resign to it each time they take up their spear and shroud their face with the Sho’ufa, expressing their resolve to kill and die honorably in the eyes of their ancestors.",
       "name": "Deathsworn",
       "properties": {
-        "biom": ["civilised", "city", "wilderness","road", "mountain", "desert", "ruins"],
+        "biom": ["civilised", "city", "wilderness","road", "mountains", "desert", "ruins"],
         "cr": "5",
         "fightingstyle": ["charge", "interactive"],
         "movement": ["walk"],
@@ -5405,7 +5405,7 @@
       "description": "Magarach were created as an ancient warrior caste to serve the formless Waking One as temple guardians, but were abandoned by their creator. With the Magarach still tending to overgrown vestiges of past glory, nature has reclaimed the once thriving temple complexes and the Magarach, blessed with the right to bathe within the sacred waters they guard, are granted longevity bordering on immortality. The Magarach protect these hidden wells, as within the sacred waters the essence of the Waking One still lingers on. Upon death, a Magarach's soul returns to these wells and it will soon rise once more, accumulating hundreds of lifetimes worth of experience, knowledge and grudges over the centuries..",
       "name": "Magarach Sentinel",
       "properties": {
-        "biom": ["ruins", "dungeon", "planar", "wilderness", "forest", "mountains", "coast", "sacral"],
+        "biom": ["ruins", "dungeon", "planar", "wilderness", "forest", "mountains", "coastal", "sacral"],
         "cr": "7",
         "fightingstyle": ["melee", "predator"],
         "movement": ["Walk"],
@@ -7760,7 +7760,7 @@
       "description": "Dregs are found at the bottom of the vampiric hierarchy, unloved offspring marked and transformed by the bestial nature of their sanguine legacy. They are driven by maddening hunger and the aching need to receive any semblance of acknowledgment from their creator. Once their hunger is satiated, they become even more dangerous, as the starved beast turns into a cunning predator, now pursuing its prey not out of desperation, but for its own debased amusement.",
       "name": "Vampire Dreg",
       "properties": {
-        "biom": ["Graves", "Horror", "Wasteland", "Forest", "Wilderness", "Road", "Civilized", "Dungeon"],
+        "biom": ["Graves", "Horror", "Wasteland", "Forest", "Wilderness", "Road", "Civilized", "Dungeon", "Swamp"],
         "cr": "5",
         "fightingstyle": ["Mobile", "Melee"],
         "movement": ["Walk"],
@@ -7787,7 +7787,7 @@
       "description": "Sporeshamblers are humanoid husks overtaken by a fungal infestation. These hosts become questing tendrils of the mycotic collective, connected to the greater network in sporular communion. The collective is in a state of continuous adaptation, dissecting every impression felt and every experience gathered by the shambling extensions of its will. Should resistance arise, waves of Sporeshamblers surge against it until the collective has gathered enough information to grow hunter organisms perfectly attuned to the weaknesses of their dedicated prey.",
       "name": "Sporeshambler",
       "properties": {
-        "biom": ["Graves", "Horror", "Wasteland", "Forest", "Wilderness", "Road","Dungeon"],
+        "biom": ["Graves", "Horror", "Wasteland", "Forest", "Wilderness", "Road","Dungeon", "Swamp", "Tropical", "Wilderness"],
         "cr": "0.5",
         "fightingstyle": ["Simple", "Pack"],
         "movement": ["Walk"],
@@ -7814,7 +7814,7 @@
       "description": "Sporeshamblers are humanoid husks overtaken by a fungal infestation. These hosts become questing tendrils of the mycotic collective, connected to the greater network in sporular communion. The collective is in a state of continuous adaptation, dissecting every impression felt and every experience gathered by the shambling extensions of its will. Should resistance arise, waves of Sporeshamblers surge against it until the collective has gathered enough information to grow hunter organisms perfectly attuned to the weaknesses of their dedicated prey.",
       "name": "Sporeshambler",
       "properties": {
-        "biom": ["Graves", "Horror", "Wasteland", "Forest", "Wilderness", "Road","Dungeon"],
+        "biom": ["Graves", "Horror", "Wasteland", "Forest", "Wilderness", "Road","Dungeon", "Swamp","Tropical", "Wilderness"],
         "cr": "0.5",
         "fightingstyle": ["Simple", "Pack"],
         "movement": ["Walk"],
@@ -7841,7 +7841,7 @@
       "description": "Sporeshamblers are humanoid husks overtaken by a fungal infestation. These hosts become questing tendrils of the mycotic collective, connected to the greater network in sporular communion. The collective is in a state of continuous adaptation, dissecting every impression felt and every experience gathered by the shambling extensions of its will. Should resistance arise, waves of Sporeshamblers surge against it until the collective has gathered enough information to grow hunter organisms perfectly attuned to the weaknesses of their dedicated prey.",
       "name": "Sporeshambler",
       "properties": {
-        "biom": ["Graves", "Horror", "Wasteland", "Forest", "Wilderness", "Road","Dungeon"],
+        "biom": ["Graves", "Horror", "Wasteland", "Forest", "Wilderness", "Road","Dungeon", "Swamp", "Tropical", "Wilderness"],
         "cr": "0.5",
         "fightingstyle": ["Simple", "Pack"],
         "movement": ["Walk"],
