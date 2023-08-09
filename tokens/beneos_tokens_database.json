@@ -7782,6 +7782,87 @@
         ],
         "videourl": ""
     }
+    },
+    "121_sporeshambler_1": {
+      "description": "Sporeshamblers are humanoid husks overtaken by a fungal infestation. These hosts become questing tendrils of the mycotic collective, connected to the greater network in sporular communion. The collective is in a state of continuous adaptation, dissecting every impression felt and every experience gathered by the shambling extensions of its will. Should resistance arise, waves of Sporeshamblers surge against it until the collective has gathered enough information to grow hunter organisms perfectly attuned to the weaknesses of their dedicated prey.",
+      "name": "Sporeshambler",
+      "properties": {
+        "biom": ["Graves", "Horror", "Wasteland", "Forest", "Wilderness", "Road","Dungeon"],
+        "cr": "0.5",
+        "fightingstyle": ["Simple", "Pack"],
+        "movement": ["Walk"],
+        "purpose": ["Minion", "Support"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 8,
+        "stat_cha": 5,
+        "stat_con": 16,
+        "stat_dex": 6,
+        "stat_hp": 27,
+        "stat_int": 3,
+        "stat_str": 14,
+        "stat_wis": 6,
+        "thumbnail": "121_sporeshambler_1-idle_face_still.webp",
+        "type": [
+          "Undead"
+          
+        ],
+        "videourl": ""
+    }
+    },
+    "121_sporeshambler_2": {
+      "description": "Sporeshamblers are humanoid husks overtaken by a fungal infestation. These hosts become questing tendrils of the mycotic collective, connected to the greater network in sporular communion. The collective is in a state of continuous adaptation, dissecting every impression felt and every experience gathered by the shambling extensions of its will. Should resistance arise, waves of Sporeshamblers surge against it until the collective has gathered enough information to grow hunter organisms perfectly attuned to the weaknesses of their dedicated prey.",
+      "name": "Sporeshambler",
+      "properties": {
+        "biom": ["Graves", "Horror", "Wasteland", "Forest", "Wilderness", "Road","Dungeon"],
+        "cr": "0.5",
+        "fightingstyle": ["Simple", "Pack"],
+        "movement": ["Walk"],
+        "purpose": ["Minion", "Support"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 8,
+        "stat_cha": 5,
+        "stat_con": 16,
+        "stat_dex": 6,
+        "stat_hp": 27,
+        "stat_int": 3,
+        "stat_str": 14,
+        "stat_wis": 6,
+        "thumbnail": "121_sporeshambler_2-idle_face_still.webp",
+        "type": [
+          "Undead"
+          
+        ],
+        "videourl": ""
+    }
+    },
+    "121_sporeshambler_3": {
+      "description": "Sporeshamblers are humanoid husks overtaken by a fungal infestation. These hosts become questing tendrils of the mycotic collective, connected to the greater network in sporular communion. The collective is in a state of continuous adaptation, dissecting every impression felt and every experience gathered by the shambling extensions of its will. Should resistance arise, waves of Sporeshamblers surge against it until the collective has gathered enough information to grow hunter organisms perfectly attuned to the weaknesses of their dedicated prey.",
+      "name": "Sporeshambler",
+      "properties": {
+        "biom": ["Graves", "Horror", "Wasteland", "Forest", "Wilderness", "Road","Dungeon"],
+        "cr": "0.5",
+        "fightingstyle": ["Simple", "Pack"],
+        "movement": ["Walk"],
+        "purpose": ["Minion", "Support"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 8,
+        "stat_cha": 5,
+        "stat_con": 16,
+        "stat_dex": 6,
+        "stat_hp": 27,
+        "stat_int": 3,
+        "stat_str": 14,
+        "stat_wis": 6,
+        "thumbnail": "121_sporeshambler_3-idle_face_still.webp",
+        "type": [
+          "Undead"
+          
+        ],
+        "videourl": ""
+    }
   }
   }
   }
