@@ -7863,6 +7863,33 @@
         ],
         "videourl": ""
     }
+    },
+    "000_month_5_crownbreaker_archwyvern": {
+      "description": "Crownbreaker Archwyverns are the equivalent of a sentient tornado deciding that it wants to battle the nearest earthquake for catastrophic supremacy. Crownbreakers live to fight for the top of the food chain, tirelessly working their way from territory to territory, domain to domain, tirelessly challenging the rulers of those realms - be they other wyverns, chimeras, giants or even true dragons. Through physical strength, raw aggression, and ceaseless savagery alone, these colossal Arch-Wyverns manage to triumph over opponents that seem many times more powerful than their challengers. With each victory, the Arch-Wyvern emerges stronger, and with each triumph, it comes closer to its goal of absolute martial dominance.",
+      "name": "Crownbreaker Archwyvern",
+      "properties": {
+        "biom": ["Graves", "Forest", "Coast", "Oceal", "Mountains", "Desert", "Wasteland", "Wilderness", "Road", "Dungeon", "Lair"],
+        "cr": "16",
+        "fightingstyle": ["Melee", "Tactical"],
+        "movement": ["Fly"],
+        "purpose": ["Boss", "Pressure"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 18,
+        "stat_cha": 19,
+        "stat_con": 24,
+        "stat_dex": 18,
+        "stat_hp": 217,
+        "stat_int": 7,
+        "stat_str": 26,
+        "stat_wis": 16,
+        "thumbnail": "000_month_5_crownbreaker_archwyvern-idle_face_still.webp",
+        "type": [
+          "Dragon",
+          "Wyvern"
+        ],
+        "videourl": ""
+    }
   }
   }
   }
