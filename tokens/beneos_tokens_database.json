@@ -7890,6 +7890,114 @@
         ],
         "videourl": ""
     }
+    },
+    "122_gutterfist": {
+      "description": "Gutterfists are hard-boiled brawlers, back alley thugs, prizefighters, or gentlemen pugilists. They hold their ground against better-armored foes with nothing but rock-hard abs, moxie, and their bare hands. Eventually, even veteran warriors might find themselves outmaneuvered and pinned to the ground as a hail of fists dents their priceless armor, all while the Gutterfist spouts filthy limericks concerning the promiscuous nature of their opponents’ mothers.",
+      "name": "Gutterfist",
+      "properties": {
+        "biom": ["Civilised", "City", "Tavern"],
+        "cr": "",
+        "fightingstyle": ["Melee", "Interactive"],
+        "movement": ["Walk"],
+        "purpose": ["Duellist"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": ,
+        "stat_cha": 14,
+        "stat_con": 16,
+        "stat_dex": 16,
+        "stat_hp": ,
+        "stat_int": 13,
+        "stat_str": 19,
+        "stat_wis": 15,
+        "thumbnail": "122_gutterfist-idle_face_still.webp",
+        "type": [
+          "Humanoid",
+          "Human"
+        ],
+        "videourl": ""
+    }
+    },
+    "123_blackfeather_huntress": {
+      "description": "After the Black Rose Abbey was plundered and put to the torch by a band of roving robber-knights, the Abbess and her sworn sisters turned it into a briar-wreathed bastion and founded the clandestine order of Blackfeather Huntresses, an all female institution of knight-hunters sworn to neither king nor realm. Everyone can petition the Abbey to seek vengeance for unjust transgressions, abuse of power or breaking of chivalrous oaths. If the petition is granted, the Blackfeather Hunt is called and a pair of Huntressess seeks out their knightly prey.",
+      "name": "Blackfeather Huntress",
+      "properties": {
+        "biom": ["Civilised", "City", "Road", "Sacral", "Wilderness", "Ruins"],
+        "cr": "",
+        "fightingstyle": ["Ranged", "Mobile"],
+        "movement": ["Walk"],
+        "purpose": ["Hunter", "Anti Melee"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": ,
+        "stat_cha": 10,
+        "stat_con": 14,
+        "stat_dex": 20,
+        "stat_hp": ,
+        "stat_int": 15,
+        "stat_str": 13,
+        "stat_wis": 14,
+        "thumbnail": "123_blackfeather_huntress-idle_face_still.webp",
+        "type": [
+          "Humanoid",
+          "Human"
+        ],
+        "videourl": ""
+    }
+    },
+    "124_ogre_maneater_1": {
+      "description": "Ogres are gluttonous and vile in nature, wild ogres even more so than their more civilized kin who hire themselves out as extra muscle for legally questionable endeavors. Some Ogres, however, gradually become more debased in their insatiable search for more and more food, eventually becoming dangerous, blood-drunk brutes hellbent on driving their carious tusks into everything they encounter, even taking their attention of ongoing fights to gorge themselves on the fallen combatants - much to the horror of eventual onlookers.",
+      "name": "Ogre Maneater 1",
+      "properties": {
+        "biom": ["Wilderness", "Forest", "Road", "Wastelands", "Desert", "Ruins", "Lair", "Mountains"],
+        "cr": "",
+        "fightingstyle": ["Simple", "Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Leader", "Gimmick"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": ,
+        "stat_cha": 5,
+        "stat_con": 16,
+        "stat_dex": 10,
+        "stat_hp": ,
+        "stat_int": 5,
+        "stat_str": 19,
+        "stat_wis": 7,
+        "thumbnail": "124_ogre_maneater_1-idle_face_still.webp",
+        "type": [
+          "Giant",
+          "Ogre"
+        ],
+        "videourl": ""
+    }
+    },
+    "124_ogre_maneater_2": {
+      "description": "Ogres are gluttonous and vile in nature, wild ogres even more so than their more civilized kin who hire themselves out as extra muscle for legally questionable endeavors. Some Ogres, however, gradually become more debased in their insatiable search for more and more food, eventually becoming dangerous, blood-drunk brutes hellbent on driving their carious tusks into everything they encounter, even taking their attention of ongoing fights to gorge themselves on the fallen combatants - much to the horror of eventual onlookers.",
+      "name": "Ogre Maneater 2",
+      "properties": {
+        "biom": ["Wilderness", "Forest", "Road", "Wastelands", "Desert", "Ruins", "Lair", "Mountains"],
+        "cr": "",
+        "fightingstyle": ["Simple", "Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Leader", "Gimmick"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": ,
+        "stat_cha": 5,
+        "stat_con": 16,
+        "stat_dex": 10,
+        "stat_hp": ,
+        "stat_int": 5,
+        "stat_str": 19,
+        "stat_wis": 7,
+        "thumbnail": "124_ogre_maneater_2-idle_face_still.webp",
+        "type": [
+          "Giant",
+          "Ogre"
+        ],
+        "videourl": ""
+    }
   }
   }
   }
