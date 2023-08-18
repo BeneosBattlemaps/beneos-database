@@ -7576,7 +7576,7 @@
         "fightingstyle": ["simple", "charge", "melee"],
         "movement": ["Walk"],
         "purpose": ["hunter","leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/skeletal-85983707",
         "size": "Medium",
         "stat_ac": 18,
         "stat_cha": 6,
@@ -7591,7 +7591,7 @@
           "undead",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/TeFs2CagNL8"
     }
     },
     "117_skeletal_graveblade_2": {
@@ -7603,7 +7603,7 @@
         "fightingstyle": ["simple", "charge", "melee"],
         "movement": ["Walk"],
         "purpose": ["hunter","leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/skeletal-85983707",
         "size": "Medium",
         "stat_ac": 18,
         "stat_cha": 6,
@@ -7618,7 +7618,7 @@
           "undead",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/TeFs2CagNL8"
     }
     },
     "117_skeletal_graveblade_3": {
@@ -7630,7 +7630,7 @@
         "fightingstyle": ["simple", "charge", "melee"],
         "movement": ["Walk"],
         "purpose": ["hunter","leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/skeletal-85983707",
         "size": "Medium",
         "stat_ac": 18,
         "stat_cha": 6,
@@ -7645,7 +7645,7 @@
           "undead",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/TeFs2CagNL8"
     }
     },
     "118_cyclops_1": {
@@ -7657,7 +7657,7 @@
         "fightingstyle": ["simple", "charge"],
         "movement": ["Walk"],
         "purpose": ["damage","gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/cyclops-86384855",
         "size": "Huge",
         "stat_ac": 15,
         "stat_cha": 8,
@@ -7672,7 +7672,7 @@
           "giant",
           " "
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/aXew-j-MKIo"
     }
     },
     "118_cyclops_2": {
@@ -7684,7 +7684,7 @@
         "fightingstyle": ["simple", "charge"],
         "movement": ["Walk"],
         "purpose": ["damage","gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/cyclops-86384855",
         "size": "Huge",
         "stat_ac": 15,
         "stat_cha": 8,
@@ -7699,7 +7699,7 @@
           "giant",
           " "
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/aXew-j-MKIo"
     }
     },
     "118_cyclops_3": {
@@ -7711,7 +7711,7 @@
         "fightingstyle": ["simple", "charge"],
         "movement": ["Walk"],
         "purpose": ["damage","gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/cyclops-86384855",
         "size": "Huge",
         "stat_ac": 15,
         "stat_cha": 8,
@@ -7726,7 +7726,7 @@
           "giant",
           " "
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/aXew-j-MKIo"
 	}
     },
     "119_sand_elemental": {
@@ -7738,7 +7738,7 @@
         "fightingstyle": ["Aoe", "Swallow", "Demanding"],
         "movement": ["Fly"],
         "purpose": ["Pressure"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/sand-elemental-86680039",
         "size": "Huge",
         "stat_ac": 15,
         "stat_cha": 5,
@@ -7753,7 +7753,7 @@
           "Elemental",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/itTCrbVZ488"
     }
     },
     "120_vampire_dreg": {
@@ -7765,7 +7765,7 @@
         "fightingstyle": ["Mobile", "Melee"],
         "movement": ["Walk"],
         "purpose": ["Hunter", "Damage"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/vampire-dreg-87316028",
         "size": "Medium",
         "stat_ac": 16,
         "stat_cha": 5,
@@ -7780,7 +7780,7 @@
           "Undead",
           "Vampire"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/aWz8M4auq3Y"
     }
     },
     "121_sporeshambler_1": {
@@ -7792,7 +7792,7 @@
         "fightingstyle": ["Simple", "Pack"],
         "movement": ["Walk"],
         "purpose": ["Minion", "Support"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/sporeshambler-87724169",
         "size": "Medium",
         "stat_ac": 8,
         "stat_cha": 5,
@@ -7807,7 +7807,7 @@
           "Undead"
           
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NHCuSjMFOrI"
     }
     },
     "121_sporeshambler_2": {
@@ -7819,7 +7819,7 @@
         "fightingstyle": ["Simple", "Pack"],
         "movement": ["Walk"],
         "purpose": ["Minion", "Support"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/sporeshambler-87724169",
         "size": "Medium",
         "stat_ac": 8,
         "stat_cha": 5,
@@ -7834,7 +7834,7 @@
           "Undead"
           
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NHCuSjMFOrI"
     }
     },
     "121_sporeshambler_3": {
@@ -7846,7 +7846,7 @@
         "fightingstyle": ["Simple", "Pack"],
         "movement": ["Walk"],
         "purpose": ["Minion", "Support"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/sporeshambler-87724169",
         "size": "Medium",
         "stat_ac": 8,
         "stat_cha": 5,
@@ -7861,7 +7861,7 @@
           "Undead"
           
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/NHCuSjMFOrI"
     }
     },
     "000_month_5_crownbreaker_archwyvern": {
@@ -7888,7 +7888,7 @@
           "Dragon",
           "Wyvern"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/cTnFnZ1YzcA"
     }
     },
     "122_gutterfist": {
@@ -7900,7 +7900,7 @@
         "fightingstyle": ["Melee", "Interactive"],
         "movement": ["Walk"],
         "purpose": ["Duellist"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/gutterfist-87724880",
         "size": "Medium",
         "stat_ac": 16,
         "stat_cha": 14,
@@ -7915,7 +7915,7 @@
           "Humanoid",
           "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/G2q7SIDahRg"
     }
     },
     "123_blackfeather_huntress": {
