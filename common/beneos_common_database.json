@@ -68,16 +68,16 @@
     },
     "tier": {
       "1": {
-        "message": "Tier 1"
+        "message": "(Level 1-5) These items have a minor, but flavourful effect, enhancing the player experience without overshadowing the class mechanics."
       },
       "2": {
-        "message": "Tier 2"
+        "message": "(Level 6-10) These items provide meaningful gameplay variations and modifications of the core gameplay for experienced players."
       },
       "3": {
-        "message": "Tier 3"
+        "message": "(Level 11-15) These items provide abilities that profit from advanced understanding of the game dynamics to utilize to great effect."
       },
       "4": {
-        "message": "Tier 4"
+        "message": "(Level 16-20) These legendary weaponry and reality-defying artifacts boast exceedingly powerful effects necessary to weather the challenges of adventuring on the highest levels."
       }
     },
     "installed": {
