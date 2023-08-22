@@ -1,4 +1,4 @@
-﻿{
+{
    "id":"beneos_battlemaps_database",
    "type":"battlemap",
    "version":"0.1.1",
@@ -26148,6 +26148,262 @@
          "thumbnail":"07-01_Polis_Undrground_Arena-4K_Scen.webp",
          "videourl": ""
       }
-    }
-  }
-}
+                    },
+                    "08-01_Spire_Monastery-4k_BM":{
+                        "name":"08-01 Spire Monastery",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Mountain","Civilised","Temple", "Exteriour"],
+                        "brightness":"Bright",
+                        "grid":"44x26",
+                        "pack":"08_Spire_Monastery",
+                        "releaseurl":"WIP",
+                        "sibling":"08-01_Spire_Monastery-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"08-01_Spire_Monastery-4k_BM.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "08-01_Spire_Monastery-4k_Scen":{
+                                "name":"08-01 Spire Monastery",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Mountain","Civilised","Temple", "Exteriour"],
+                                "brightness":"Bright",
+                                "grid":"44x26",
+                                "pack":"08_Spire_Monastery",
+                                "releaseurl":"WIP",
+                                "sibling":"08-01_Spire_Monastery-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"08-01_Spire_Monastery-4k_Scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "08-01_Spire_Monastery-4k_BM":{
+                        "name":"08-01 Spire Monastery",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Mountain","Civilised","Temple", "Exteriour"],
+                        "brightness":"Bright",
+                        "grid":"44x26",
+                        "pack":"08_Spire_Monastery",
+                        "releaseurl":"WIP",
+                        "sibling":"08-01_Spire_Monastery-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"08-01_Spire_Monastery-4k_BM.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "08-01_Spire_Monastery-4k_Scen":{
+                                "name":"08-01 Spire Monastery",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Mountain","Civilised","Temple", "Exteriour"],
+                                "brightness":"Bright",
+                                "grid":"44x26",
+                                "pack":"08_Spire_Monastery",
+                                "releaseurl":"WIP",
+                                "sibling":"08-01_Spire_Monastery-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"08-01_Spire_Monastery-4k_Scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "08-01_Spire_Monastery-4k_BM":{
+                        "name":"08-01 Spire Monastery",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Mountain","Civilised","Temple", "Exteriour"],
+                        "brightness":"Bright",
+                        "grid":"44x26",
+                        "pack":"08_Spire_Monastery",
+                        "releaseurl":"WIP",
+                        "sibling":"08-01_Spire_Monastery-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"08-01_Spire_Monastery-4k_BM.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "08-01_Spire_Monastery-4k_Scen":{
+                                "name":"08-01 Spire Monastery",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Mountain","Civilised","Temple", "Exteriour"],
+                                "brightness":"Bright",
+                                "grid":"44x26",
+                                "pack":"08_Spire_Monastery",
+                                "releaseurl":"WIP",
+                                "sibling":"08-01_Spire_Monastery-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"08-01_Spire_Monastery-4k_Scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "08-01_Spire_Monastery-4k_BM":{
+                        "name":"08-01 Spire Monastery",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Mountain","Civilised","Temple", "Exteriour"],
+                        "brightness":"Bright",
+                        "grid":"44x26",
+                        "pack":"08_Spire_Monastery",
+                        "releaseurl":"WIP",
+                        "sibling":"08-01_Spire_Monastery-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"08-01_Spire_Monastery-4k_BM.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "08-01_Spire_Monastery-4k_Scen":{
+                                "name":"08-01 Spire Monastery",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Mountain","Civilised","Temple", "Exteriour"],
+                                "brightness":"Bright",
+                                "grid":"44x26",
+                                "pack":"08_Spire_Monastery",
+                                "releaseurl":"WIP",
+                                "sibling":"08-01_Spire_Monastery-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"08-01_Spire_Monastery-4k_Scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "68-01_Test_1-4k_BM":{
+                        "name":"68-01 Test 1",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Mountain","Civilised","Temple", "Exteriour"],
+                        "brightness":"Bright",
+                        "grid":"38x35",
+                        "pack":"08_test",
+                        "releaseurl":"WIP",
+                        "sibling":"68-01_Test_1-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-01_Test_1-4k_BM.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "68-01_Test_1-4k_Scen":{
+                                "name":"68-01 Test 1",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Mountain","Civilised","Temple", "Exteriour"],
+                                "brightness":"Bright",
+                                "grid":"38x35",
+                                "pack":"08_test",
+                                "releaseurl":"WIP",
+                                "sibling":"68-01_Test_1-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"68-01_Test_1-4k_Scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "68-02_Test_2-4k_BM":{
+                        "name":"68-02 Test 2",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ice","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"27x25",
+                        "pack":"08_test",
+                        "releaseurl":"WIP",
+                        "sibling":"68-02_Test_2-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-02_Test_2-4k_BM.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "68-02_Test_2-4k_Scen":{
+                                "name":"68-02 Test 2",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Ice","Mountain","Snow","Exteriour"],
+                                "brightness":"Medium",
+                                "grid":"27x25",
+                                "pack":"08_test",
+                                "releaseurl":"WIP",
+                                "sibling":"68-02_Test_2-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"68-02_Test_2-4k_Scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "68-03_Test_3-4k_BM":{
+                        "name":"68-03 Test 3",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ice","Mountain","Snow","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"30x20",
+                        "pack":"08_test",
+                        "releaseurl":"WIP",
+                        "sibling":"68-03_Test_3-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-03_Test_3-4k_BM.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "68-03_Test_3-4k_Scen":{
+                                "name":"68-03 Test 3",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Ice","Mountain","Snow","Exteriour"],
+                                "brightness":"Medium",
+                                "grid":"30x20",
+                                "pack":"08_test",
+                                "releaseurl":"WIP",
+                                "sibling":"68-03_Test_3-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"68-03_Test_3-4k_Scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "09-01_Asteroid_Battle-4k_BM":{
+                        "name":"09-01 Asteroid Battle",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Space","Futuristic","Fast Movement", "Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"40x25",
+                        "pack":"09_Asteroid_Fight",
+                        "releaseurl":"WIP",
+                        "sibling":"09-01_Asteroid_Battle-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"09-01_Asteroid_Battle-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "09-01_Asteroid_Battle-4k_Scen":{
+                                "name":"09-01 Asteroid Battle",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Space","Futuristic","Fast Movement", "Exteriour"],
+                                "brightness":"Medium",
+                                "grid":"40x25",
+                                "pack":"09_Asteroid_Fight",
+                                "releaseurl":"WIP",
+                                "sibling":"09-01_Asteroid_Battle-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"09-01_Asteroid_Battle-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                            }
+                        }
+                    }
