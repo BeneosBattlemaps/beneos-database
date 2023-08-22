@@ -4514,7 +4514,7 @@
       "description": "Due to government contracts, the (traditionally dwarven) members of the great Powder Guilds, those organisations authorized to research and develop mechanical firearms, are also utilized as a well-trained militia, often requiring mandatory service escorting the great Trade Fleets trawling the great Archipelago. This leaves many guild members with first-hand combat experience and some will stay within the military branch of the guilds, choosing the life of an Artillerist over that of an Artisan. They serve with a deep understanding of their craft, burning to further hone their skills as combat engineers, artillery and demolition specialists or expert marksmen. ",
       "name": "Guild Artillerist",
       "properties": {
-        "biom": ["civilised", "city", "wilderness", "coast", "road", "mountain"],
+        "biom": ["civilised", "city", "wilderness", "coast", "road", "mountains"],
         "cr": "3",
         "fightingstyle": ["ranged", "interactive"],
         "movement": ["walk"],
@@ -4541,7 +4541,7 @@
       "description": "Seeing a Deathsworn fight is witnessing a ceremonial choreography, as they seamlessly weave their opponents into an intimate dance of death. Deathsworn exhibit great respect towards their enemies, going so far as to carry the ritually cleaned and hallowed skulls of particularly worthy opponents alongside of those of their closest kin - signifying their bond forged in battle, either on equal or opposing sides. The certainty of their own death is meaningless to a Deathsworn, as they resign to it each time they take up their spear and shroud their face with the Sho’ufa, expressing their resolve to kill and die honorably in the eyes of their ancestors.",
       "name": "Deathsworn",
       "properties": {
-        "biom": ["civilised", "city", "wilderness","road", "mountain", "desert", "ruins"],
+        "biom": ["civilised", "city", "wilderness","road", "mountains", "desert", "ruins"],
         "cr": "5",
         "fightingstyle": ["charge", "interactive"],
         "movement": ["walk"],
@@ -5405,7 +5405,7 @@
       "description": "Magarach were created as an ancient warrior caste to serve the formless Waking One as temple guardians, but were abandoned by their creator. With the Magarach still tending to overgrown vestiges of past glory, nature has reclaimed the once thriving temple complexes and the Magarach, blessed with the right to bathe within the sacred waters they guard, are granted longevity bordering on immortality. The Magarach protect these hidden wells, as within the sacred waters the essence of the Waking One still lingers on. Upon death, a Magarach's soul returns to these wells and it will soon rise once more, accumulating hundreds of lifetimes worth of experience, knowledge and grudges over the centuries..",
       "name": "Magarach Sentinel",
       "properties": {
-        "biom": ["ruins", "dungeon", "planar", "wilderness", "forest", "mountains", "coast", "sacral"],
+        "biom": ["ruins", "dungeon", "planar", "wilderness", "forest", "mountains", "coastal", "sacral"],
         "cr": "7",
         "fightingstyle": ["melee", "predator"],
         "movement": ["Walk"],
@@ -5459,7 +5459,7 @@
       "description": "Swordbearer Reliquaries are vestiges of past ages, walking shrines dedicated to a forgotten deity of war and valor. These silent effigies are named Swordbearers, for ancient blades are driven deeply into their craggy form, unclear to which purpose - remembrance or veneration? It is also unknown what causes life to spark within the overgrown form of the Reliquary, causing it to rise and wander. Maybe the souls of the ancient blades thirst for battle once more, or maybe the lost deity itself slowly wakes from its god-slumber, sending out these living shrines as solemn emissaries to seek out worthy warriors to receive the old god’s favor.",
       "name": "Swordbearer Reliquary",
       "properties": {
-        "biom": ["ruins", "dungeon", "road", "wilderness", "forest", "mountains", "coast", "sacral"],
+        "biom": ["ruins", "dungeon", "road", "wilderness", "forest", "mountains", "coastal", "sacral"],
         "cr": "9",
         "fightingstyle": ["anti x", "gimmick"],
         "movement": ["Walk"],
@@ -7576,7 +7576,7 @@
         "fightingstyle": ["simple", "charge", "melee"],
         "movement": ["Walk"],
         "purpose": ["hunter","leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/skeletal-85983707",
         "size": "Medium",
         "stat_ac": 18,
         "stat_cha": 6,
@@ -7591,7 +7591,7 @@
           "undead",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/TeFs2CagNL8"
     }
     },
     "117_skeletal_graveblade_2": {
@@ -7603,7 +7603,7 @@
         "fightingstyle": ["simple", "charge", "melee"],
         "movement": ["Walk"],
         "purpose": ["hunter","leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/skeletal-85983707",
         "size": "Medium",
         "stat_ac": 18,
         "stat_cha": 6,
@@ -7618,7 +7618,7 @@
           "undead",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/TeFs2CagNL8"
     }
     },
     "117_skeletal_graveblade_3": {
@@ -7630,7 +7630,7 @@
         "fightingstyle": ["simple", "charge", "melee"],
         "movement": ["Walk"],
         "purpose": ["hunter","leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/skeletal-85983707",
         "size": "Medium",
         "stat_ac": 18,
         "stat_cha": 6,
@@ -7645,7 +7645,7 @@
           "undead",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/TeFs2CagNL8"
     }
     },
     "118_cyclops_1": {
@@ -7657,7 +7657,7 @@
         "fightingstyle": ["simple", "charge"],
         "movement": ["Walk"],
         "purpose": ["damage","gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/cyclops-86384855",
         "size": "Huge",
         "stat_ac": 15,
         "stat_cha": 8,
@@ -7672,7 +7672,7 @@
           "giant",
           " "
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/aXew-j-MKIo"
     }
     },
     "118_cyclops_2": {
@@ -7684,7 +7684,7 @@
         "fightingstyle": ["simple", "charge"],
         "movement": ["Walk"],
         "purpose": ["damage","gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/cyclops-86384855",
         "size": "Huge",
         "stat_ac": 15,
         "stat_cha": 8,
@@ -7699,7 +7699,7 @@
           "giant",
           " "
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/aXew-j-MKIo"
     }
     },
     "118_cyclops_3": {
@@ -7711,7 +7711,7 @@
         "fightingstyle": ["simple", "charge"],
         "movement": ["Walk"],
         "purpose": ["damage","gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/cyclops-86384855",
         "size": "Huge",
         "stat_ac": 15,
         "stat_cha": 8,
@@ -7726,7 +7726,7 @@
           "giant",
           " "
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/aXew-j-MKIo"
 	}
     },
     "119_sand_elemental": {
@@ -7734,11 +7734,11 @@
       "name": "Sand Elemental",
       "properties": {
         "biom": ["Desert", "Planar", "Wasteland", "Coast"],
-        "cr": "",
+        "cr": "8",
         "fightingstyle": ["Aoe", "Swallow", "Demanding"],
         "movement": ["Fly"],
         "purpose": ["Pressure"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/sand-elemental-86680039",
         "size": "Huge",
         "stat_ac": 15,
         "stat_cha": 5,
@@ -7752,6 +7752,249 @@
         "type": [
           "Elemental",
           ""
+        ],
+        "videourl": "https://youtu.be/itTCrbVZ488"
+    }
+    },
+    "120_vampire_dreg": {
+      "description": "Dregs are found at the bottom of the vampiric hierarchy, unloved offspring marked and transformed by the bestial nature of their sanguine legacy. They are driven by maddening hunger and the aching need to receive any semblance of acknowledgment from their creator. Once their hunger is satiated, they become even more dangerous, as the starved beast turns into a cunning predator, now pursuing its prey not out of desperation, but for its own debased amusement.",
+      "name": "Vampire Dreg",
+      "properties": {
+        "biom": ["Graves", "Horror", "Wasteland", "Forest", "Wilderness", "Road", "Civilized", "Dungeon", "Swamp"],
+        "cr": "5",
+        "fightingstyle": ["Mobile", "Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Hunter", "Damage"],
+        "releaseurl": "https://www.patreon.com/posts/vampire-dreg-87316028",
+        "size": "Medium",
+        "stat_ac": 16,
+        "stat_cha": 5,
+        "stat_con": 16,
+        "stat_dex": 19,
+        "stat_hp": 82,
+        "stat_int": 7,
+        "stat_str": 18,
+        "stat_wis": 13,
+        "thumbnail": "120_vampire_dreg-idle_face_still.webp",
+        "type": [
+          "Undead",
+          "Vampire"
+        ],
+        "videourl": "https://youtu.be/aWz8M4auq3Y"
+    }
+    },
+    "121_sporeshambler_1": {
+      "description": "Sporeshamblers are humanoid husks overtaken by a fungal infestation. These hosts become questing tendrils of the mycotic collective, connected to the greater network in sporular communion. The collective is in a state of continuous adaptation, dissecting every impression felt and every experience gathered by the shambling extensions of its will. Should resistance arise, waves of Sporeshamblers surge against it until the collective has gathered enough information to grow hunter organisms perfectly attuned to the weaknesses of their dedicated prey.",
+      "name": "Sporeshambler",
+      "properties": {
+        "biom": ["Graves", "Horror", "Wasteland", "Forest", "Wilderness", "Road","Dungeon", "Swamp", "Tropical", "Wilderness"],
+        "cr": "0.5",
+        "fightingstyle": ["Simple", "Pack"],
+        "movement": ["Walk"],
+        "purpose": ["Minion", "Support"],
+        "releaseurl": "https://www.patreon.com/posts/sporeshambler-87724169",
+        "size": "Medium",
+        "stat_ac": 8,
+        "stat_cha": 5,
+        "stat_con": 16,
+        "stat_dex": 6,
+        "stat_hp": 27,
+        "stat_int": 3,
+        "stat_str": 14,
+        "stat_wis": 6,
+        "thumbnail": "121_sporeshambler_1-idle_face_still.webp",
+        "type": [
+          "Undead"
+          
+        ],
+        "videourl": "https://youtu.be/NHCuSjMFOrI"
+    }
+    },
+    "121_sporeshambler_2": {
+      "description": "Sporeshamblers are humanoid husks overtaken by a fungal infestation. These hosts become questing tendrils of the mycotic collective, connected to the greater network in sporular communion. The collective is in a state of continuous adaptation, dissecting every impression felt and every experience gathered by the shambling extensions of its will. Should resistance arise, waves of Sporeshamblers surge against it until the collective has gathered enough information to grow hunter organisms perfectly attuned to the weaknesses of their dedicated prey.",
+      "name": "Sporeshambler",
+      "properties": {
+        "biom": ["Graves", "Horror", "Wasteland", "Forest", "Wilderness", "Road","Dungeon", "Swamp","Tropical", "Wilderness"],
+        "cr": "0.5",
+        "fightingstyle": ["Simple", "Pack"],
+        "movement": ["Walk"],
+        "purpose": ["Minion", "Support"],
+        "releaseurl": "https://www.patreon.com/posts/sporeshambler-87724169",
+        "size": "Medium",
+        "stat_ac": 8,
+        "stat_cha": 5,
+        "stat_con": 16,
+        "stat_dex": 6,
+        "stat_hp": 27,
+        "stat_int": 3,
+        "stat_str": 14,
+        "stat_wis": 6,
+        "thumbnail": "121_sporeshambler_2-idle_face_still.webp",
+        "type": [
+          "Undead"
+          
+        ],
+        "videourl": "https://youtu.be/NHCuSjMFOrI"
+    }
+    },
+    "121_sporeshambler_3": {
+      "description": "Sporeshamblers are humanoid husks overtaken by a fungal infestation. These hosts become questing tendrils of the mycotic collective, connected to the greater network in sporular communion. The collective is in a state of continuous adaptation, dissecting every impression felt and every experience gathered by the shambling extensions of its will. Should resistance arise, waves of Sporeshamblers surge against it until the collective has gathered enough information to grow hunter organisms perfectly attuned to the weaknesses of their dedicated prey.",
+      "name": "Sporeshambler",
+      "properties": {
+        "biom": ["Graves", "Horror", "Wasteland", "Forest", "Wilderness", "Road","Dungeon", "Swamp", "Tropical", "Wilderness"],
+        "cr": "0.5",
+        "fightingstyle": ["Simple", "Pack"],
+        "movement": ["Walk"],
+        "purpose": ["Minion", "Support"],
+        "releaseurl": "https://www.patreon.com/posts/sporeshambler-87724169",
+        "size": "Medium",
+        "stat_ac": 8,
+        "stat_cha": 5,
+        "stat_con": 16,
+        "stat_dex": 6,
+        "stat_hp": 27,
+        "stat_int": 3,
+        "stat_str": 14,
+        "stat_wis": 6,
+        "thumbnail": "121_sporeshambler_3-idle_face_still.webp",
+        "type": [
+          "Undead"
+          
+        ],
+        "videourl": "https://youtu.be/NHCuSjMFOrI"
+    }
+    },
+    "000_month_5_crownbreaker_archwyvern": {
+      "description": "Crownbreaker Archwyverns are the equivalent of a sentient tornado deciding that it wants to battle the nearest earthquake for catastrophic supremacy. Crownbreakers live to fight for the top of the food chain, tirelessly working their way from territory to territory, domain to domain, tirelessly challenging the rulers of those realms - be they other wyverns, chimeras, giants or even true dragons. Through physical strength, raw aggression, and ceaseless savagery alone, these colossal Arch-Wyverns manage to triumph over opponents that seem many times more powerful than their challengers. With each victory, the Arch-Wyvern emerges stronger, and with each triumph, it comes closer to its goal of absolute martial dominance.",
+      "name": "Crownbreaker Archwyvern",
+      "properties": {
+        "biom": ["Graves", "Forest", "Coast", "Oceal", "Mountains", "Desert", "Wasteland", "Wilderness", "Road", "Dungeon", "Lair"],
+        "cr": "16",
+        "fightingstyle": ["Melee", "Tactical"],
+        "movement": ["Fly"],
+        "purpose": ["Boss", "Pressure"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 18,
+        "stat_cha": 19,
+        "stat_con": 24,
+        "stat_dex": 18,
+        "stat_hp": 217,
+        "stat_int": 7,
+        "stat_str": 26,
+        "stat_wis": 16,
+        "thumbnail": "000_month_5_crownbreaker_archwyvern-idle_face_still.webp",
+        "type": [
+          "Dragon",
+          "Wyvern"
+        ],
+        "videourl": "https://youtu.be/cTnFnZ1YzcA"
+    }
+    },
+    "122_gutterfist": {
+      "description": "Gutterfists are hard-boiled brawlers, back alley thugs, prizefighters, or gentlemen pugilists. They hold their ground against better-armored foes with nothing but rock-hard abs, moxie, and their bare hands. Eventually, even veteran warriors might find themselves outmaneuvered and pinned to the ground as a hail of fists dents their priceless armor, all while the Gutterfist spouts filthy limericks concerning the promiscuous nature of their opponents’ mothers.",
+      "name": "Gutterfist",
+      "properties": {
+        "biom": ["Civilised", "City", "Tavern"],
+        "cr": "5",
+        "fightingstyle": ["Melee", "Interactive"],
+        "movement": ["Walk"],
+        "purpose": ["Duellist"],
+        "releaseurl": "https://www.patreon.com/posts/gutterfist-87724880",
+        "size": "Medium",
+        "stat_ac": 16,
+        "stat_cha": 14,
+        "stat_con": 16,
+        "stat_dex": 16,
+        "stat_hp": 76,
+        "stat_int": 13,
+        "stat_str": 19,
+        "stat_wis": 15,
+        "thumbnail": "122_gutterfist-idle_face_still.webp",
+        "type": [
+          "Humanoid",
+          "Human"
+        ],
+        "videourl": "https://youtu.be/G2q7SIDahRg"
+    }
+    },
+    "123_blackfeather_huntress": {
+      "description": "After the Black Rose Abbey was plundered and put to the torch by a band of roving robber-knights, the Abbess and her sworn sisters turned it into a briar-wreathed bastion and founded the clandestine order of Blackfeather Huntresses, an all female institution of knight-hunters sworn to neither king nor realm. Everyone can petition the Abbey to seek vengeance for unjust transgressions, abuse of power or breaking of chivalrous oaths. If the petition is granted, the Blackfeather Hunt is called and a pair of Huntressess seeks out their knightly prey.",
+      "name": "Blackfeather Huntress",
+      "properties": {
+        "biom": ["Civilised", "City", "Road", "Sacral", "Wilderness", "Ruins"],
+        "cr": "5",
+        "fightingstyle": ["Ranged", "Mobile"],
+        "movement": ["Walk"],
+        "purpose": ["Hunter", "Anti Melee"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 18,
+        "stat_cha": 10,
+        "stat_con": 14,
+        "stat_dex": 20,
+        "stat_hp": 65,
+        "stat_int": 15,
+        "stat_str": 13,
+        "stat_wis": 14,
+        "thumbnail": "123_blackfeather_huntress-idle_face_still.webp",
+        "type": [
+          "Humanoid",
+          "Human"
+        ],
+        "videourl": ""
+    }
+    },
+    "124_ogre_maneater_1": {
+      "description": "Ogres are gluttonous and vile in nature, wild ogres even more so than their more civilized kin who hire themselves out as extra muscle for legally questionable endeavors. Some Ogres, however, gradually become more debased in their insatiable search for more and more food, eventually becoming dangerous, blood-drunk brutes hellbent on driving their carious tusks into everything they encounter, even taking their attention of ongoing fights to gorge themselves on the fallen combatants - much to the horror of eventual onlookers.",
+      "name": "Ogre Maneater",
+      "properties": {
+        "biom": ["Wilderness", "Forest", "Road", "Wastelands", "Desert", "Ruins", "Lair", "Mountains"],
+        "cr": "4",
+        "fightingstyle": ["Simple", "Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Leader", "Gimmick"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 14,
+        "stat_cha": 5,
+        "stat_con": 16,
+        "stat_dex": 10,
+        "stat_hp": 59,
+        "stat_int": 5,
+        "stat_str": 19,
+        "stat_wis": 7,
+        "thumbnail": "124_ogre_maneater_1-idle_face_still.webp",
+        "type": [
+          "Giant",
+          "Ogre"
+        ],
+        "videourl": ""
+    }
+    },
+    "124_ogre_maneater_2": {
+      "description": "Ogres are gluttonous and vile in nature, wild ogres even more so than their more civilized kin who hire themselves out as extra muscle for legally questionable endeavors. Some Ogres, however, gradually become more debased in their insatiable search for more and more food, eventually becoming dangerous, blood-drunk brutes hellbent on driving their carious tusks into everything they encounter, even taking their attention of ongoing fights to gorge themselves on the fallen combatants - much to the horror of eventual onlookers.",
+      "name": "Ogre Maneater",
+      "properties": {
+        "biom": ["Wilderness", "Forest", "Road", "Wastelands", "Desert", "Ruins", "Lair", "Mountains"],
+        "cr": "4",
+        "fightingstyle": ["Simple", "Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Leader", "Gimmick"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 14,
+        "stat_cha": 5,
+        "stat_con": 16,
+        "stat_dex": 10,
+        "stat_hp": 59,
+        "stat_int": 5,
+        "stat_str": 19,
+        "stat_wis": 7,
+        "thumbnail": "124_ogre_maneater_2-idle_face_still.webp",
+        "type": [
+          "Giant",
+          "Ogre"
         ],
         "videourl": ""
     }
