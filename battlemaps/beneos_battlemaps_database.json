@@ -26404,6 +26404,262 @@
                                 "thumbnail":"09-01_Asteroid_Battle-4k_scen.webp",
                                 "videourl":"WIP"
                                 }
+                    },
+                    "68-01_Fire_Temple_Entry-4k_BM":{
+                        "name":"68-01 Fire Temple Entry",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Dungeon","Civilised","Temple", "Lava"],
+                        "brightness":"Medium",
+                        "grid":"27x20",
+                        "pack":"68_Fire_Temple",
+                        "releaseurl":"WIP",
+                        "sibling":"68-01_Fire_Temple_Entry-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-01_Fire_Temple_Entry-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "68-01_Fire_Temple_Entry-4k_Scen":{
+                                "name":"68-01 Fire Temple Entry",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Dungeon","Civilised","Temple", "Lava"],
+                                "brightness":"Medium",
+                                "grid":"27x20",
+                                "pack":"68_Fire_Temple",
+                                "releaseurl":"WIP",
+                                "sibling":"68-01_Fire_Temple_Entry-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"68-01_Fire_Temple_Entry-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "68-02_Fire_Temple_Bridge-4k_BM":{
+                        "name":"68-02 Fire Temple Bridge",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Dungeon","Civilised","Temple", "Lava","Bridge"],
+                        "brightness":"Medium",
+                        "grid":"40x19",
+                        "pack":"68_Fire_Temple",
+                        "releaseurl":"WIP",
+                        "sibling":"68-02_Fire_Temple_Bridge-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-02_Fire_Temple_Bridge-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "68-02_Fire_Temple_Bridge-4k_Scen":{
+                                "name":"68-02 Fire Temple Bridge",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Dungeon","Civilised","Temple", "Lava","Bridge"],
+                                "brightness":"Medium",
+                                "grid":"40x19",
+                                "pack":"68_Fire_Temple",
+                                "releaseurl":"WIP",
+                                "sibling":"68-02_Fire_Temple_Bridge-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"68-02_Fire_Temple_Bridge-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "68-03_Fire_Temple_Center-4k_BM":{
+                        "name":"68-03 Fire Temple Center",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Dungeon","Civilised","Temple", "Lava"],
+                        "brightness":"Medium",
+                        "grid":"35x35",
+                        "pack":"68_Fire_Temple",
+                        "releaseurl":"WIP",
+                        "sibling":"68-03_Fire_Temple_Center-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-03_Fire_Temple_Center-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "68-03_Fire_Temple_Center-4k_Scen":{
+                                "name":"68-03 Fire Temple Center",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Dungeon","Civilised","Temple", "Lava"],
+                                "brightness":"Medium",
+                                "grid":"35x35",
+                                "pack":"68_Fire_Temple",
+                                "releaseurl":"WIP",
+                                "sibling":"68-03_Fire_Temple_Center-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"68-03_Fire_Temple_Center-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "68-04_Fire_Temple_North_Passage-4k_BM":{
+                        "name":"68-04 Fire Temple North Passage",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Dungeon","Civilised","Temple", "Lava"],
+                        "brightness":"Medium",
+                        "grid":"11x41",
+                        "pack":"68_Fire_Temple",
+                        "releaseurl":"WIP",
+                        "sibling":"68-04_Fire_Temple_North_Passage-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-04_Fire_Temple_North_Passage-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "68-04_Fire_Temple_North_Passage-4k_Scen":{
+                                "name":"68-04 Fire Temple North Passage",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Dungeon","Civilised","Temple", "Lava"],
+                                "brightness":"Medium",
+                                "grid":"11x41",
+                                "pack":"68_Fire_Temple",
+                                "releaseurl":"WIP",
+                                "sibling":"68-04_Fire_Temple_North_Passage-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"68-04_Fire_Temple_North_Passage-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "68-05_Fire_Temple_Oracle-4k_BM":{
+                        "name":"68-05 Fire Temple Oracle",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Dungeon","Civilised","Temple", "Lava"],
+                        "brightness":"Medium",
+                        "grid":"28x28",
+                        "pack":"68_Fire_Temple",
+                        "releaseurl":"WIP",
+                        "sibling":"68-05_Fire_Temple_Oracle-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-05_Fire_Temple_Oracle-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "68-05_Fire_Temple_Oracle-4k_Scen":{
+                                "name":"68-05 Fire Temple Oracle",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Dungeon","Civilised","Temple", "Lava"],
+                                "brightness":"Medium",
+                                "grid":"28x28",
+                                "pack":"68_Fire_Temple",
+                                "releaseurl":"WIP",
+                                "sibling":"68-05_Fire_Temple_Oracle-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"68-05_Fire_Temple_Oracle-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "68-06_Fire_Temple_South_Passage-4k_BM":{
+                        "name":"68-06 Fire Temple South Passage",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Dungeon","Civilised","Temple", "Lava"],
+                        "brightness":"Medium",
+                        "grid":"11x36",
+                        "pack":"68_Fire_Temple",
+                        "releaseurl":"WIP",
+                        "sibling":"68-06_Fire_Temple_South_Passage-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-06_Fire_Temple_South_Passage-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "68-06_Fire_Temple_South_Passage-4k_Scen":{
+                                "name":"68-06 Fire Temple South Passage",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Dungeon","Civilised","Temple", "Lava"],
+                                "brightness":"Medium",
+                                "grid":"11x36",
+                                "pack":"68_Fire_Temple",
+                                "releaseurl":"WIP",
+                                "sibling":"68-06_Fire_Temple_South_Passage-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"68-06_Fire_Temple_South_Passage-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "68-07_Fire_Temple_Ritual_Chamber-4k_BM":{
+                        "name":"68-07 Fire Temple Ritual Chamber",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Dungeon","Civilised","Temple", "Lava"],
+                        "brightness":"Medium",
+                        "grid":"29x29",
+                        "pack":"68_Fire_Temple",
+                        "releaseurl":"WIP",
+                        "sibling":"68-07_Fire_Temple_Ritual_Chamber-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-07_Fire_Temple_Ritual_Chamber-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "68-07_Fire_Temple_Ritual_Chamber-4k_Scen":{
+                                "name":"68-07 Fire Temple Ritual Chamber",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Dungeon","Civilised","Temple", "Lava"],
+                                "brightness":"Medium",
+                                "grid":"29x29",
+                                "pack":"68_Fire_Temple",
+                                "releaseurl":"WIP",
+                                "sibling":"68-07_Fire_Temple_Ritual_Chamber-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"68-07_Fire_Temple_Ritual_Chamber-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "68-08_Fire_Temple_Broken_Bridge-4k_BM":{
+                        "name":"68-08 Fire Temple Broken Bridge",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Dungeon","Civilised","Temple", "Lava","Bridge"],
+                        "brightness":"Medium",
+                        "grid":"40x19",
+                        "pack":"68_Fire_Temple",
+                        "releaseurl":"WIP",
+                        "sibling":"68-08_Fire_Temple_Broken_Bridge-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"68-08_Fire_Temple_Broken_Bridge-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "68-08_Fire_Temple_Broken_Bridge-4k_Scen":{
+                                "name":"68-08 Fire Temple Broken Bridge",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Dungeon","Civilised","Temple", "Lava","Bridge"],
+                                "brightness":"Medium",
+                                "grid":"40x19",
+                                "pack":"68_Fire_Temple",
+                                "releaseurl":"WIP",
+                                "sibling":"68-08_Fire_Temple_Broken_Bridge-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"68-08_Fire_Temple_Broken_Bridge-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
                             }
                         }
                     }
