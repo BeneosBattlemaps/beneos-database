@@ -26660,6 +26660,102 @@
                                 "thumbnail":"68-08_Fire_Temple_Broken_Bridge-4k_scen.webp",
                                 "videourl":"WIP"
                                 }
+                    },
+                    "69-01_Blood_on_the_vine_Tavern_1F-4k_BM":{
+                        "name":"69-01 Blood on the vine Tavern 1F",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Tavern","Civilised"],
+                        "brightness":"Medium",
+                        "grid":"22x22",
+                        "pack":"69_Blood_of_the_Vine_Tavern",
+                        "releaseurl":"WIP",
+                        "sibling":"69-01_Blood_on_the_vine_Tavern_1F-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"69-01_Blood_on_the_vine_Tavern_1F-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "69-01_Blood_on_the_vine_Tavern_1F-4k_Scen":{
+                                "name":"69-01 Blood on the vine Tavern 1F",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Tavern","Civilised"],
+                                "brightness":"Medium",
+                                "grid":"22x22",
+                                "pack":"69_Blood_of_the_Vine_Tavern",
+                                "releaseurl":"WIP",
+                                "sibling":"69-01_Blood_on_the_vine_Tavern_1F-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"69-01_Blood_on_the_vine_Tavern_1F-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "69-02_Blood_on_the_vine_Tavern_2F-4k_BM":{
+                        "name":"69-02 Blood on the vine Tavern 2F",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Tavern","Civilised"],
+                        "brightness":"Medium",
+                        "grid":"22x22",
+                        "pack":"69_Blood_of_the_Vine_Tavern",
+                        "releaseurl":"WIP",
+                        "sibling":"69-02_Blood_on_the_vine_Tavern_2F-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"69-02_Blood_on_the_vine_Tavern_2F-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "69-02_Blood_on_the_vine_Tavern_2F-4k_Scen":{
+                                "name":"69-02 Blood on the vine Tavern 2F",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Tavern","Civilised"],
+                                "brightness":"Medium",
+                                "grid":"22x22",
+                                "pack":"69_Blood_of_the_Vine_Tavern",
+                                "releaseurl":"WIP",
+                                "sibling":"69-02_Blood_on_the_vine_Tavern_2F-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"69-02_Blood_on_the_vine_Tavern_2F-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "69-03_Blood_on_the_vine_Tavern_Roof-4k_BM":{
+                        "name":"69-03 Blood on the vine Tavern Roof",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Tavern","Civilised"],
+                        "brightness":"Medium",
+                        "grid":"22x22",
+                        "pack":"69_Blood_of_the_Vine_Tavern",
+                        "releaseurl":"WIP",
+                        "sibling":"69-03_Blood_on_the_vine_Tavern_Roof-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"69-03_Blood_on_the_vine_Tavern_Roof-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "69-03_Blood_on_the_vine_Tavern_Roof-4k_Scen":{
+                                "name":"69-03 Blood on the vine Tavern Roof",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Tavern","Civilised"],
+                                "brightness":"Medium",
+                                "grid":"22x22",
+                                "pack":"69_Blood_of_the_Vine_Tavern",
+                                "releaseurl":"WIP",
+                                "sibling":"69-03_Blood_on_the_vine_Tavern_Roof-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"69-03_Blood_on_the_vine_Tavern_Roof-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
                             }
                         }
                     }
