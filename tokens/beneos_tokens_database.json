@@ -8055,7 +8055,7 @@
     },
     "000_month_6_emissary_of_annihilation": {
       "description": "The Emissaries of Annihilation are dedicated to the eradication of all life from the universe. They have long abandoned their organic bodies and now act as constructed conduits for an all-annihilating force of non-organic decay. They have created cosmic disciplines that tap into the deconstructive power of complete negation and null-essence to obliterate beings, magic, or even space itself, leaving gaping wounds in reality and motes of dust weightlessly drifting before dispersing, their origin soon to be forgotten by an unfeeling universe.",
-      "name": "Month 6 Emissary Of Annihilation",
+      "name": "Emissary Of Annihilation",
       "properties": {
         "biom": ["Ruins", "Civilized", "Planar", "Lair"],
         "cr": "23",
