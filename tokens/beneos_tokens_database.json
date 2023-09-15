@@ -8079,6 +8079,33 @@
         ],
         "videourl": ""
     }
+    },
+    "126_opulence_devil": {
+      "description": "Opulence Devils revel in subverting mortal structures and corrupting them from within, perhaps even more so than their infernal brethren. Concealed beneath the guise of opulent dignitaries, statesmen or merchant-princes bedecked in jewels, their ostentatious presence screams of extravagance and excess. They entice with promises and bargains, especially those who have little and crave much. Even in combat, these devils seek to tempt their foes, ultimately goading them into their own damnation.",
+      "name": "Opulence Devil",
+      "properties": {
+        "biom": ["Ruins", "Civilized", "Planar", "Lair" ,"Infernal", "Civilised"],
+        "cr": "",
+        "fightingstyle": ["Simple", "Swallow"],
+        "movement": ["Walk"],
+        "purpose": ["Tank", "Gimmick", "Debuff"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 15,
+        "stat_cha": 18,
+        "stat_con": 22,
+        "stat_dex": 5,
+        "stat_hp": 189,
+        "stat_int": 15,
+        "stat_str": 20,
+        "stat_wis": 14,
+        "thumbnail": "126_opulence_devil-idle_face_still.webp",
+        "type": [
+          "Fiend",
+          "Devil"
+        ],
+        "videourl": ""
+    }
   }
   }
   }
