@@ -1,4 +1,8 @@
 ﻿{
+   "id":"beneos_battlemaps_database",
+   "type":"battlemap",
+   "version":"0.1.1",
+   "content":{
     "01-01_Cave_Entrance-4K_Scenery": {
         "name": "Crystal Cave Entrance",
         "description": "",
@@ -27386,4 +27390,5 @@
             "videourl": "WIP"
         }
     }
+}
 }
