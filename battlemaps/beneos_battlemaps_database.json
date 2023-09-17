@@ -327,7 +327,7 @@
                 "None"
             ],
             "biom": [
-                "Scifi",
+                "Science Fiction",
                 "Civilized",
                 "City",
                 "Exteriour"
@@ -350,7 +350,7 @@
                 "None"
             ],
             "biom": [
-                "Scifi",
+                "Science Fiction",
                 "Civilized",
                 "City",
                 "Exteriour"
@@ -373,7 +373,7 @@
                 "None"
             ],
             "biom": [
-                "Scifi",
+                "Science Fiction",
                 "Civilized",
                 "City",
                 "Exteriour"
@@ -396,7 +396,7 @@
                 "None"
             ],
             "biom": [
-                "Scifi",
+                "Science Fiction",
                 "Civilized",
                 "City",
                 "Exteriour"
@@ -419,7 +419,7 @@
                 "None"
             ],
             "biom": [
-                "Scifi",
+                "Science Fiction",
                 "Civilized",
                 "City",
                 "Interiour",
@@ -444,7 +444,7 @@
                 "None"
             ],
             "biom": [
-                "Scifi",
+                "Science Fiction",
                 "Civilized",
                 "City",
                 "Interiour",
@@ -469,7 +469,7 @@
                 "None"
             ],
             "biom": [
-                "Scifi",
+                "Science Fiction",
                 "Civilized",
                 "City",
                 "Interiour",
@@ -494,7 +494,7 @@
                 "None"
             ],
             "biom": [
-                "Scifi",
+                "Science Fiction",
                 "Civilized",
                 "City",
                 "Interiour",
@@ -519,7 +519,7 @@
                 "None"
             ],
             "biom": [
-                "Scifi",
+                "Science Fiction",
                 "Civilized",
                 "City",
                 "Interiour",
@@ -544,7 +544,7 @@
                 "None"
             ],
             "biom": [
-                "Scifi",
+                "Science Fiction",
                 "Civilized",
                 "City",
                 "Interiour",
@@ -569,7 +569,7 @@
                 "None"
             ],
             "biom": [
-                "Scifi",
+                "Science Fiction",
                 "Civilized",
                 "City",
                 "Interiour",
@@ -594,7 +594,7 @@
                 "None"
             ],
             "biom": [
-                "Scifi",
+                "Science Fiction",
                 "Civilized",
                 "City",
                 "Interiour",
@@ -619,7 +619,7 @@
                 "None"
             ],
             "biom": [
-                "Scifi",
+                "Science Fiction",
                 "Civilized",
                 "City",
                 "Interiour",
@@ -644,7 +644,7 @@
                 "None"
             ],
             "biom": [
-                "Scifi",
+                "Science Fiction",
                 "Civilized",
                 "City",
                 "Interiour",
@@ -669,7 +669,7 @@
                 "None"
             ],
             "biom": [
-                "Scifi",
+                "Science Fiction",
                 "Civilized",
                 "City",
                 "Interiour",
@@ -1583,7 +1583,7 @@
             ],
             "biom": [
                 "Slum",
-                "Scifi",
+                "Science Fiction",
                 "Cyberpunk",
                 "Rain",
                 "Civilized",
@@ -1609,7 +1609,7 @@
             ],
             "biom": [
                 "Slum",
-                "Scifi",
+                "Science Fiction",
                 "Cyberpunk",
                 "Rain",
                 "Civilized",
@@ -1635,7 +1635,7 @@
             ],
             "biom": [
                 "Slum",
-                "Scifi",
+                "Science Fiction",
                 "Cyberpunk",
                 "Rain",
                 "Civilized",
@@ -1661,7 +1661,7 @@
             ],
             "biom": [
                 "Slum",
-                "Scifi",
+                "Science Fiction",
                 "Cyberpunk",
                 "Rain",
                 "Civilized",
@@ -1687,7 +1687,7 @@
             ],
             "biom": [
                 "Slum",
-                "Scifi",
+                "Science Fiction",
                 "Cyberpunk",
                 "Rain",
                 "Civilized",
@@ -1713,7 +1713,7 @@
             ],
             "biom": [
                 "Slum",
-                "Scifi",
+                "Science Fiction",
                 "Cyberpunk",
                 "Rain",
                 "Civilized",
@@ -1738,7 +1738,7 @@
                 "None"
             ],
             "biom": [
-                "Scifi",
+                "Science Fiction",
                 "Snow",
                 "Industrial",
                 "Interiour"
@@ -1761,7 +1761,7 @@
                 "None"
             ],
             "biom": [
-                "Scifi",
+                "Science Fiction",
                 "Snow",
                 "Industrial",
                 "Interiour"
@@ -1784,7 +1784,7 @@
                 "None"
             ],
             "biom": [
-                "Scifi",
+                "Science Fiction",
                 "Snow",
                 "Industrial",
                 "Interiour"
@@ -1807,7 +1807,7 @@
                 "None"
             ],
             "biom": [
-                "Scifi",
+                "Science Fiction",
                 "Snow",
                 "Industrial",
                 "Interiour"
@@ -2317,7 +2317,7 @@
                 "Snow",
                 "Cave",
                 "Civilized",
-                "Harbor"
+                "Harbour"
             ],
             "brightness": "TBD",
             "grid": "32 x 18",
@@ -2340,7 +2340,7 @@
                 "Snow",
                 "Cave",
                 "Civilized",
-                "Harbor"
+                "Harbour"
             ],
             "brightness": "TBD",
             "grid": "32 x 18",
@@ -2363,7 +2363,7 @@
                 "Snow",
                 "Cave",
                 "Civilized",
-                "Harbor"
+                "Harbour"
             ],
             "brightness": "TBD",
             "grid": "32 x 18",
@@ -2386,7 +2386,7 @@
                 "Snow",
                 "Cave",
                 "Civilized",
-                "Harbor"
+                "Harbour"
             ],
             "brightness": "TBD",
             "grid": "32 x 18",
@@ -2409,7 +2409,7 @@
                 "Snow",
                 "Cave",
                 "Civilized",
-                "Harbor"
+                "Harbour"
             ],
             "brightness": "TBD",
             "grid": "32 x 18",
@@ -2432,7 +2432,7 @@
                 "Snow",
                 "Cave",
                 "Civilized",
-                "Harbor"
+                "Harbour"
             ],
             "brightness": "TBD",
             "grid": "32 x 18",
@@ -2455,7 +2455,7 @@
                 "Snow",
                 "Cave",
                 "Civilized",
-                "Harbor"
+                "Harbour"
             ],
             "brightness": "TBD",
             "grid": "32 x 18",
@@ -2478,7 +2478,7 @@
                 "Snow",
                 "Cave",
                 "Civilized",
-                "Harbor"
+                "Harbour"
             ],
             "brightness": "TBD",
             "grid": "32 x 18",
@@ -2501,7 +2501,7 @@
                 "Snow",
                 "Cave",
                 "Civilized",
-                "Harbor"
+                "Harbour"
             ],
             "brightness": "TBD",
             "grid": "32 x 18",
@@ -2524,7 +2524,7 @@
                 "Snow",
                 "Cave",
                 "Civilized",
-                "Harbor"
+                "Harbour"
             ],
             "brightness": "TBD",
             "grid": "32 x 18",
@@ -2547,7 +2547,7 @@
                 "Snow",
                 "Cave",
                 "Civilized",
-                "Harbor"
+                "Harbour"
             ],
             "brightness": "TBD",
             "grid": "32 x 18",
@@ -2570,7 +2570,7 @@
                 "Snow",
                 "Cave",
                 "Civilized",
-                "Harbor"
+                "Harbour"
             ],
             "brightness": "TBD",
             "grid": "32 x 18",
@@ -2593,7 +2593,7 @@
                 "Snow",
                 "Cave",
                 "Civilized",
-                "Harbor",
+                "Harbour",
                 "Camp"
             ],
             "brightness": "TBD",
@@ -2617,7 +2617,7 @@
                 "Snow",
                 "Cave",
                 "Civilized",
-                "Harbor",
+                "Harbour",
                 "Camp"
             ],
             "brightness": "TBD",
@@ -2641,7 +2641,7 @@
                 "Snow",
                 "Cave",
                 "Civilized",
-                "Harbor",
+                "Harbour",
                 "Camp"
             ],
             "brightness": "TBD",
@@ -19020,7 +19020,7 @@
                 "Steampunk",
                 "Airship",
                 "Exteriour",
-                "SciFi"
+                "Science Fiction"
             ],
             "brightness": "Bright",
             "grid": "48 x 27",
@@ -19043,7 +19043,7 @@
                 "Steampunk",
                 "Airship",
                 "Exteriour",
-                "SciFi"
+                "Science Fiction"
             ],
             "brightness": "Bright",
             "grid": "32 x 18",
@@ -19066,7 +19066,7 @@
                 "Steampunk",
                 "Airship",
                 "Exteriour",
-                "SciFi"
+                "Science Fiction"
             ],
             "brightness": "Bright",
             "grid": "32 x 18",
@@ -19089,7 +19089,7 @@
                 "Steampunk",
                 "Airship",
                 "Exteriour",
-                "SciFi"
+                "Science Fiction"
             ],
             "brightness": "Bright",
             "grid": "32 x 18",
@@ -19112,7 +19112,7 @@
                 "Steampunk",
                 "Airship",
                 "Exteriour",
-                "SciFi"
+                "Science Fiction"
             ],
             "brightness": "Bright",
             "grid": "32 x 18",
@@ -19135,7 +19135,7 @@
                 "Steampunk",
                 "Airship",
                 "Exteriour",
-                "SciFi"
+                "Science Fiction"
             ],
             "brightness": "Bright",
             "grid": "32 x 18",
@@ -19158,7 +19158,7 @@
                 "Steampunk",
                 "Airship",
                 "Exteriour",
-                "SciFi"
+                "Science Fiction"
             ],
             "brightness": "Bright",
             "grid": "32 x 18",
@@ -19181,7 +19181,7 @@
                 "Steampunk",
                 "Airship",
                 "Exteriour",
-                "SciFi"
+                "Science Fiction"
             ],
             "brightness": "Bright",
             "grid": "32 x 18",
@@ -19204,7 +19204,7 @@
                 "Steampunk",
                 "Airship",
                 "Interiour",
-                "SciFi"
+                "Science Fiction"
             ],
             "brightness": "Bright",
             "grid": "32 x 18",
@@ -19227,7 +19227,7 @@
                 "Steampunk",
                 "Airship",
                 "Interiour",
-                "SciFi"
+                "Science Fiction"
             ],
             "brightness": "Bright",
             "grid": "32 x 18",
@@ -19250,7 +19250,7 @@
                 "Steampunk",
                 "Airship",
                 "Interiour",
-                "SciFi"
+                "Science Fiction"
             ],
             "brightness": "Bright",
             "grid": "32 x 18",
@@ -19273,7 +19273,7 @@
                 "Steampunk",
                 "Airship",
                 "Interiour",
-                "SciFi"
+                "Science Fiction"
             ],
             "brightness": "Bright",
             "grid": "32 x 18",
@@ -19296,7 +19296,7 @@
                 "Steampunk",
                 "Airship",
                 "Interiour",
-                "SciFi",
+                "Science Fiction",
                 "Industrial"
             ],
             "brightness": "Bright",
@@ -19320,7 +19320,7 @@
                 "Steampunk",
                 "Airship",
                 "Interiour",
-                "SciFi",
+                "Science Fiction",
                 "Industrial"
             ],
             "brightness": "Bright",
@@ -19344,7 +19344,7 @@
                 "Steampunk",
                 "Airship",
                 "Interiour",
-                "SciFi",
+                "Science Fiction",
                 "Industrial"
             ],
             "brightness": "Bright",
@@ -19368,7 +19368,7 @@
                 "Steampunk",
                 "Airship",
                 "Interiour",
-                "SciFi",
+                "Science Fiction",
                 "Industrial"
             ],
             "brightness": "Bright",
@@ -19392,7 +19392,7 @@
                 "Steampunk",
                 "Airship",
                 "Interiour",
-                "SciFi",
+                "Science Fiction",
                 "Industrial"
             ],
             "brightness": "Bright",
@@ -19416,7 +19416,7 @@
                 "Steampunk",
                 "Airship",
                 "Interiour",
-                "SciFi",
+                "Science Fiction",
                 "Industrial"
             ],
             "brightness": "Bright",
@@ -19440,7 +19440,7 @@
                 "Steampunk",
                 "Airship",
                 "Interiour",
-                "SciFi",
+                "Science Fiction",
                 "Industrial"
             ],
             "brightness": "Bright",
@@ -19464,7 +19464,7 @@
                 "Steampunk",
                 "Airship",
                 "Interiour",
-                "SciFi",
+                "Science Fiction",
                 "Industrial"
             ],
             "brightness": "Bright",
@@ -19488,7 +19488,7 @@
                 "Steampunk",
                 "Airship",
                 "Interiour",
-                "SciFi",
+                "Science Fiction",
                 "Industrial"
             ],
             "brightness": "Bright",
@@ -19512,7 +19512,7 @@
                 "Steampunk",
                 "Airship",
                 "Interiour",
-                "SciFi",
+                "Science Fiction",
                 "Industrial"
             ],
             "brightness": "Bright",
@@ -19536,7 +19536,7 @@
                 "Steampunk",
                 "Airship",
                 "Interiour",
-                "SciFi",
+                "Science Fiction",
                 "Industrial"
             ],
             "brightness": "Bright",
@@ -19560,7 +19560,7 @@
                 "Steampunk",
                 "Airship",
                 "Interiour",
-                "SciFi",
+                "Science Fiction",
                 "Industrial"
             ],
             "brightness": "Bright",
@@ -23694,7 +23694,7 @@
                 "Curse of Strahd"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Castle",
                 "Ruin",
                 "Exteriour"
@@ -23717,7 +23717,7 @@
                 "Curse of Strahd"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Castle",
                 "Ruin",
                 "Exteriour"
@@ -23740,7 +23740,7 @@
                 "Curse of Strahd"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Castle",
                 "Ruin",
                 "Exteriour"
@@ -23763,7 +23763,7 @@
                 "Curse of Strahd"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Castle",
                 "Ruin",
                 "Exteriour"
@@ -23786,7 +23786,7 @@
                 "Curse of Strahd"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Castle",
                 "Ruin",
                 "Exteriour"
@@ -23809,7 +23809,7 @@
                 "Curse of Strahd"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Castle",
                 "Ruin",
                 "Exteriour"
@@ -23832,7 +23832,7 @@
                 "Curse of Strahd"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Castle",
                 "Ruin",
                 "Interiour"
@@ -23855,7 +23855,7 @@
                 "Curse of Strahd"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Castle",
                 "Ruin",
                 "Interiour"
@@ -23878,7 +23878,7 @@
                 "Curse of Strahd"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Castle",
                 "Ruin",
                 "Interiour"
@@ -23901,7 +23901,7 @@
                 "Curse of Strahd"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Castle",
                 "Ruin",
                 "Interiour"
@@ -23924,7 +23924,7 @@
                 "Curse of Strahd"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Castle",
                 "Ruin",
                 "Interiour"
@@ -23947,7 +23947,7 @@
                 "Curse of Strahd"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Castle",
                 "Ruin",
                 "Interiour"
@@ -23970,7 +23970,7 @@
                 "Curse of Strahd"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Castle",
                 "Ruin",
                 "Exteriour"
@@ -23993,7 +23993,7 @@
                 "Curse of Strahd"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Castle",
                 "Ruin",
                 "Exteriour"
@@ -24016,7 +24016,7 @@
                 "Curse of Strahd"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Castle",
                 "Ruin",
                 "Interiour"
@@ -24039,7 +24039,7 @@
                 "Curse of Strahd"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Castle",
                 "Ruin",
                 "Interiour"
@@ -24062,7 +24062,7 @@
                 "Curse of Strahd"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Castle",
                 "Ruin",
                 "Interiour"
@@ -24085,7 +24085,7 @@
                 "Curse of Strahd"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Castle",
                 "Ruin",
                 "Interiour"
@@ -24108,7 +24108,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -24131,7 +24131,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -24154,7 +24154,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -24177,7 +24177,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -24200,7 +24200,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -24223,7 +24223,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -24246,7 +24246,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon",
@@ -24270,7 +24270,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon",
@@ -24294,7 +24294,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -24317,7 +24317,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -24340,7 +24340,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon",
@@ -24364,7 +24364,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon",
@@ -24388,7 +24388,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon",
@@ -24412,7 +24412,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon",
@@ -24436,7 +24436,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon",
@@ -24460,7 +24460,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon",
@@ -24484,7 +24484,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon",
@@ -24508,7 +24508,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon",
@@ -24532,7 +24532,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon",
@@ -24556,7 +24556,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon",
@@ -24580,7 +24580,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -24603,7 +24603,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -24626,7 +24626,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -24649,7 +24649,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -24672,7 +24672,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -24695,7 +24695,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -24718,7 +24718,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon",
@@ -24742,7 +24742,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon",
@@ -24766,7 +24766,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -24789,7 +24789,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -24812,7 +24812,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -24835,7 +24835,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -24858,7 +24858,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -24881,7 +24881,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -24904,7 +24904,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -24927,7 +24927,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -24950,7 +24950,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -24973,7 +24973,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -24996,7 +24996,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -25019,7 +25019,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -25042,7 +25042,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -25065,7 +25065,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -25088,7 +25088,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -25111,7 +25111,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -25134,7 +25134,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -25157,7 +25157,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -25180,7 +25180,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -25203,7 +25203,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -25226,7 +25226,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -25249,7 +25249,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -25272,7 +25272,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -25295,7 +25295,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -25318,7 +25318,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -25341,7 +25341,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -25364,7 +25364,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon",
@@ -25388,7 +25388,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon",
@@ -25412,7 +25412,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -25435,7 +25435,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Interiour",
                 "Underground",
                 "Dungeon"
@@ -25458,7 +25458,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Exteriour"
@@ -25481,7 +25481,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Exteriour"
@@ -25504,7 +25504,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Exteriour"
@@ -25527,7 +25527,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Exteriour"
@@ -25550,7 +25550,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Interiour"
@@ -25573,7 +25573,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Interiour"
@@ -25596,7 +25596,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Interiour"
@@ -25619,7 +25619,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Interiour"
@@ -25642,7 +25642,7 @@
                 ""
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Interiour"
@@ -25665,7 +25665,7 @@
                 ""
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Interiour"
@@ -25688,7 +25688,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Interiour"
@@ -25711,7 +25711,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Interiour"
@@ -25734,7 +25734,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Interiour"
@@ -25757,7 +25757,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Interiour"
@@ -25780,7 +25780,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Exteriour",
@@ -25804,7 +25804,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Exteriour",
@@ -25828,7 +25828,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Exteriour"
@@ -25851,7 +25851,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Exteriour"
@@ -25874,7 +25874,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Interiour",
@@ -25898,7 +25898,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Interiour",
@@ -25922,7 +25922,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Interiour",
@@ -25946,7 +25946,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Interiour",
@@ -25970,7 +25970,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Interiour",
@@ -25994,7 +25994,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Interiour",
@@ -26018,7 +26018,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Interiour",
@@ -26042,7 +26042,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Interiour",
@@ -26066,7 +26066,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Interiour",
@@ -26090,7 +26090,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Interiour",
@@ -26114,7 +26114,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Exteriour"
@@ -26137,7 +26137,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Ship",
                 "Ocean",
                 "Exteriour"
@@ -26253,7 +26253,7 @@
             ],
             "biom": [
                 "Harbour",
-                "Civilised",
+                "Civilized",
                 "City",
                 "Ship",
                 "Exteriour"
@@ -26277,7 +26277,7 @@
             ],
             "biom": [
                 "Harbour",
-                "Civilised",
+                "Civilized",
                 "City",
                 "Ship",
                 "Exteriour"
@@ -26301,7 +26301,7 @@
             ],
             "biom": [
                 "Harbour",
-                "Civilised",
+                "Civilized",
                 "City",
                 "Ship",
                 "Exteriour"
@@ -26325,7 +26325,7 @@
             ],
             "biom": [
                 "Harbour",
-                "Civilised",
+                "Civilized",
                 "City",
                 "Ship",
                 "Exteriour"
@@ -26349,7 +26349,7 @@
             ],
             "biom": [
                 "Beach",
-                "Civilised",
+                "Civilized",
                 "Ocean",
                 "Exteriour"
             ],
@@ -26372,7 +26372,7 @@
             ],
             "biom": [
                 "Beach",
-                "Civilised",
+                "Civilized",
                 "Ocean",
                 "Exteriour"
             ],
@@ -26480,7 +26480,7 @@
                 "None"
             ],
             "biom": [
-                "Ice",
+                "Arctic" ,
                 "Mountain",
                 "Snow",
                 "Exteriour"
@@ -26503,7 +26503,7 @@
                 "None"
             ],
             "biom": [
-                "Ice",
+                "Arctic" ,
                 "Mountain",
                 "Snow",
                 "Exteriour"
@@ -26526,7 +26526,7 @@
                 "None"
             ],
             "biom": [
-                "Ice",
+                "Arctic" ,
                 "Cave",
                 "Snow",
                 "Interiour",
@@ -26550,7 +26550,7 @@
                 "None"
             ],
             "biom": [
-                "Ice",
+                "Arctic" ,
                 "Cave",
                 "Snow",
                 "Interiour",
@@ -26574,7 +26574,7 @@
                 "None"
             ],
             "biom": [
-                "Ice",
+                "Arctic" ,
                 "Cave",
                 "Snow",
                 "Interiour",
@@ -26598,7 +26598,7 @@
                 "None"
             ],
             "biom": [
-                "Ice",
+                "Arctic" ,
                 "Cave",
                 "Snow",
                 "Interiour",
@@ -26622,7 +26622,7 @@
                 "None"
             ],
             "biom": [
-                "Ice",
+                "Arctic" ,
                 "Cave",
                 "Snow",
                 "Interiour",
@@ -26646,7 +26646,7 @@
                 "None"
             ],
             "biom": [
-                "Ice",
+                "Arctic" ,
                 "Cave",
                 "Snow",
                 "Interiour",
@@ -26670,7 +26670,7 @@
                 "None"
             ],
             "biom": [
-                "Ice",
+                "Arctic" ,
                 "Cave",
                 "Snow",
                 "Interiour",
@@ -26695,7 +26695,7 @@
                 "None"
             ],
             "biom": [
-                "Ice",
+                "Arctic" ,
                 "Cave",
                 "Snow",
                 "Interiour",
@@ -26720,7 +26720,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Arena",
                 "Underground",
                 "Interiour"
@@ -26743,7 +26743,7 @@
                 "None"
             ],
             "biom": [
-                "Civilised",
+                "Civilized",
                 "Arena",
                 "Underground",
                 "Interiour"
@@ -26767,7 +26767,7 @@
             ],
             "biom": [
                 "Mountain",
-                "Civilised",
+                "Civilized",
                 "Temple",
                 "Exteriour"
             ],
@@ -26790,7 +26790,7 @@
             ],
             "biom": [
                 "Mountain",
-                "Civilised",
+                "Civilized",
                 "Temple",
                 "Exteriour"
             ],
@@ -26859,7 +26859,7 @@
             ],
             "biom": [
                 "Dungeon",
-                "Civilised",
+                "Civilized",
                 "Temple",
                 "Lava"
             ],
@@ -26882,7 +26882,7 @@
             ],
             "biom": [
                 "Dungeon",
-                "Civilised",
+                "Civilized",
                 "Temple",
                 "Lava"
             ],
@@ -26905,7 +26905,7 @@
             ],
             "biom": [
                 "Dungeon",
-                "Civilised",
+                "Civilized",
                 "Temple",
                 "Lava",
                 "Bridge"
@@ -26929,7 +26929,7 @@
             ],
             "biom": [
                 "Dungeon",
-                "Civilised",
+                "Civilized",
                 "Temple",
                 "Lava",
                 "Bridge"
@@ -26953,7 +26953,7 @@
             ],
             "biom": [
                 "Dungeon",
-                "Civilised",
+                "Civilized",
                 "Temple",
                 "Lava"
             ],
@@ -26976,7 +26976,7 @@
             ],
             "biom": [
                 "Dungeon",
-                "Civilised",
+                "Civilized",
                 "Temple",
                 "Lava"
             ],
@@ -26999,7 +26999,7 @@
             ],
             "biom": [
                 "Dungeon",
-                "Civilised",
+                "Civilized",
                 "Temple",
                 "Lava"
             ],
@@ -27022,7 +27022,7 @@
             ],
             "biom": [
                 "Dungeon",
-                "Civilised",
+                "Civilized",
                 "Temple",
                 "Lava"
             ],
@@ -27045,7 +27045,7 @@
             ],
             "biom": [
                 "Dungeon",
-                "Civilised",
+                "Civilized",
                 "Temple",
                 "Lava"
             ],
@@ -27068,7 +27068,7 @@
             ],
             "biom": [
                 "Dungeon",
-                "Civilised",
+                "Civilized",
                 "Temple",
                 "Lava"
             ],
@@ -27091,7 +27091,7 @@
             ],
             "biom": [
                 "Dungeon",
-                "Civilised",
+                "Civilized",
                 "Temple",
                 "Lava"
             ],
@@ -27114,7 +27114,7 @@
             ],
             "biom": [
                 "Dungeon",
-                "Civilised",
+                "Civilized",
                 "Temple",
                 "Lava"
             ],
@@ -27137,7 +27137,7 @@
             ],
             "biom": [
                 "Dungeon",
-                "Civilised",
+                "Civilized",
                 "Temple",
                 "Lava"
             ],
@@ -27160,7 +27160,7 @@
             ],
             "biom": [
                 "Dungeon",
-                "Civilised",
+                "Civilized",
                 "Temple",
                 "Lava"
             ],
@@ -27183,7 +27183,7 @@
             ],
             "biom": [
                 "Dungeon",
-                "Civilised",
+                "Civilized",
                 "Temple",
                 "Lava",
                 "Bridge"
@@ -27207,7 +27207,7 @@
             ],
             "biom": [
                 "Dungeon",
-                "Civilised",
+                "Civilized",
                 "Temple",
                 "Lava",
                 "Bridge"
@@ -27231,7 +27231,7 @@
             ],
             "biom": [
                 "Tavern",
-                "Civilised"
+                "Civilized"
             ],
             "brightness": "Medium",
             "grid": "22x22",
@@ -27252,7 +27252,7 @@
             ],
             "biom": [
                 "Tavern",
-                "Civilised"
+                "Civilized"
             ],
             "brightness": "Medium",
             "grid": "22x22",
@@ -27273,7 +27273,7 @@
             ],
             "biom": [
                 "Tavern",
-                "Civilised"
+                "Civilized"
             ],
             "brightness": "Medium",
             "grid": "22x22",
@@ -27294,7 +27294,7 @@
             ],
             "biom": [
                 "Tavern",
-                "Civilised"
+                "Civilized"
             ],
             "brightness": "Medium",
             "grid": "22x22",
@@ -27315,7 +27315,7 @@
             ],
             "biom": [
                 "Tavern",
-                "Civilised"
+                "Civilized"
             ],
             "brightness": "Medium",
             "grid": "22x22",
@@ -27336,7 +27336,7 @@
             ],
             "biom": [
                 "Tavern",
-                "Civilised"
+                "Civilized"
             ],
             "brightness": "Medium",
             "grid": "22x22",
