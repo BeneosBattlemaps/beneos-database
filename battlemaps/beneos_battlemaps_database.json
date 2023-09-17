@@ -26756,6 +26756,38 @@
                                 "thumbnail":"69-03_Blood_on_the_vine_Tavern_Roof-4k_scen.webp",
                                 "videourl":"WIP"
                                 }
+                    },
+                    "10-01_Monk_Dojo-4k_BM":{
+                        "name":"10-01 Monk Dojo",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Single Map"],
+                        "biom":["Temple","East Asian"],
+                        "brightness":"Medium",
+                        "grid":"29x36",
+                        "pack":"10_Monk_Dojo_Temple",
+                        "releaseurl":"WIP",
+                        "sibling":"10-01_Monk_Dojo-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"10-01_Monk_Dojo-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "10-01_Monk_Dojo-4k_Scen":{
+                                "name":"10-01 Monk Dojo",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Single Map"],
+                                "biom":["Temple","East Asian"],
+                                "brightness":"Medium",
+                                "grid":"29x36",
+                                "pack":"10_Monk_Dojo_Temple",
+                                "releaseurl":"WIP",
+                                "sibling":"10-01_Monk_Dojo-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"10-01_Monk_Dojo-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
                             }
                         }
                     }
