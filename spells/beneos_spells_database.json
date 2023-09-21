@@ -73,6 +73,22 @@
         ],
         "icon": "0003_soothing_scents-icon.webp"
       }
+    },
+    "0008_final_test": {
+      "key": "0008_final_test",
+      "description": "Create a sullen downpour of hot ash end burning embers.",
+      "name": "final test",
+      "properties": {
+        "level": "3",
+        "school": "Evocation",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": true,
+        "spell_type": "false",
+        "classes": [],
+        "components": [],
+        "icon": "0008_final_test-icon.webp"
+      }
     }
   }
 }

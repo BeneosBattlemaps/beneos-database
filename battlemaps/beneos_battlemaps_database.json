@@ -6673,32 +6673,8 @@
             "videourl": "https://youtu.be/_JrCOy87EX4"
         }
     },
-    "19-15_yester_Bonus-4K_Scenery": {
-        "name": "yester Bonus",
-        "description": "",
-        "properties": {
-            "adventure": [
-                "Curse of Strahd"
-            ],
-            "biom": [
-                "Tribal",
-                "Mountain",
-                "Exteriour",
-                "Day",
-                "Road"
-            ],
-            "brightness": "TBD",
-            "grid": "32 x 18",
-            "pack": "CoS - Yester Hill",
-            "releaseurl": "https://www.patreon.com/posts/pack-19-curse-of-49998287",
-            "sibling": "",
-            "type": "Scenery",
-            "thumbnail": "19-15_yester_bonus-4k_scenery.webp",
-            "videourl": "https://youtu.be/_JrCOy87EX4"
-        }
-    },
     "19-16_yester_Bonus_Circle_mid-4K_Scenery": {
-        "name": "yester Bonus Circle mid",
+        "name": "Yester Circle Mid",
         "description": "",
         "properties": {
             "adventure": [
@@ -6722,7 +6698,7 @@
         }
     },
     "19-16_yester_Bonus_Circle_mid-4K_Still_Battlemap_GRIDLESS": {
-        "name": "yester Bonus Circle mid",
+        "name": "Yester Circle Mid",
         "description": "",
         "properties": {
             "adventure": [
@@ -6746,7 +6722,7 @@
         }
     },
     "19-17_yester_Bonus_Circle_east-4K_Scenery": {
-        "name": "yester Bonus Circle east",
+        "name": "Yester Circle East",
         "description": "",
         "properties": {
             "adventure": [
@@ -6770,7 +6746,7 @@
         }
     },
     "19-17_yester_Bonus_Circle_east-4K_Still_Battlemap_GRIDLESS": {
-        "name": "yester Bonus Circle east",
+        "name": "Yester Circle East",
         "description": "",
         "properties": {
             "adventure": [
@@ -26759,7 +26735,7 @@
         }
     },
     "08-01_Spire_Monastery-4k_BM": {
-        "name": "08-01 Spire Monastery",
+        "name": "Spire Monastery",
         "description": "",
         "properties": {
             "adventure": [
@@ -26782,7 +26758,7 @@
         }
     },
     "08-01_Spire_Monastery-4k_Scen": {
-        "name": "08-01 Spire Monastery",
+        "name": "Spire Monastery",
         "description": "",
         "properties": {
             "adventure": [
@@ -26805,7 +26781,7 @@
         }
     },
     "09-01_Asteroid_Battle-4k_BM": {
-        "name": "09-01 Asteroid Battle",
+        "name": "Asteroid Battle",
         "description": "",
         "properties": {
             "adventure": [
@@ -26828,7 +26804,7 @@
         }
     },
     "09-01_Asteroid_Battle-4k_Scen": {
-        "name": "09-01 Asteroid Battle",
+        "name": "Asteroid Battle",
         "description": "",
         "properties": {
             "adventure": [
@@ -26851,7 +26827,7 @@
         }
     },
     "68-01_Fire_Temple_Entry-4k_BM": {
-        "name": "68-01 Fire Temple Entry",
+        "name": "Fire Temple Entry",
         "description": "",
         "properties": {
             "adventure": [
@@ -26874,7 +26850,7 @@
         }
     },
     "68-01_Fire_Temple_Entry-4k_Scen": {
-        "name": "68-01 Fire Temple Entry",
+        "name": "Fire Temple Entry",
         "description": "",
         "properties": {
             "adventure": [
@@ -26897,7 +26873,7 @@
         }
     },
     "68-02_Fire_Temple_Bridge-4k_BM": {
-        "name": "68-02 Fire Temple Bridge",
+        "name": "Fire Temple Bridge",
         "description": "",
         "properties": {
             "adventure": [
@@ -26921,7 +26897,7 @@
         }
     },
     "68-02_Fire_Temple_Bridge-4k_Scen": {
-        "name": "68-02 Fire Temple Bridge",
+        "name": "Fire Temple Bridge",
         "description": "",
         "properties": {
             "adventure": [
@@ -26945,7 +26921,7 @@
         }
     },
     "68-03_Fire_Temple_Center-4k_BM": {
-        "name": "68-03 Fire Temple Center",
+        "name": "Fire Temple Center",
         "description": "",
         "properties": {
             "adventure": [
@@ -26968,7 +26944,7 @@
         }
     },
     "68-03_Fire_Temple_Center-4k_Scen": {
-        "name": "68-03 Fire Temple Center",
+        "name": "Fire Temple Center",
         "description": "",
         "properties": {
             "adventure": [
@@ -26991,7 +26967,7 @@
         }
     },
     "68-04_Fire_Temple_North_Passage-4k_BM": {
-        "name": "68-04 Fire Temple North Passage",
+        "name": "Fire Temple North Passage",
         "description": "",
         "properties": {
             "adventure": [
@@ -27014,7 +26990,7 @@
         }
     },
     "68-04_Fire_Temple_North_Passage-4k_Scen": {
-        "name": "68-04 Fire Temple North Passage",
+        "name": "Fire Temple North Passage",
         "description": "",
         "properties": {
             "adventure": [
@@ -27037,7 +27013,7 @@
         }
     },
     "68-05_Fire_Temple_Oracle-4k_BM": {
-        "name": "68-05 Fire Temple Oracle",
+        "name": "Fire Temple Oracle",
         "description": "",
         "properties": {
             "adventure": [
@@ -27060,7 +27036,7 @@
         }
     },
     "68-05_Fire_Temple_Oracle-4k_Scen": {
-        "name": "68-05 Fire Temple Oracle",
+        "name": "Fire Temple Oracle",
         "description": "",
         "properties": {
             "adventure": [
@@ -27083,7 +27059,7 @@
         }
     },
     "68-06_Fire_Temple_South_Passage-4k_BM": {
-        "name": "68-06 Fire Temple South Passage",
+        "name": "Fire Temple South Passage",
         "description": "",
         "properties": {
             "adventure": [
@@ -27106,7 +27082,7 @@
         }
     },
     "68-06_Fire_Temple_South_Passage-4k_Scen": {
-        "name": "68-06 Fire Temple South Passage",
+        "name": "Fire Temple South Passage",
         "description": "",
         "properties": {
             "adventure": [
@@ -27129,7 +27105,7 @@
         }
     },
     "68-07_Fire_Temple_Ritual_Chamber-4k_BM": {
-        "name": "68-07 Fire Temple Ritual Chamber",
+        "name": "Fire Temple Ritual Chamber",
         "description": "",
         "properties": {
             "adventure": [
@@ -27152,7 +27128,7 @@
         }
     },
     "68-07_Fire_Temple_Ritual_Chamber-4k_Scen": {
-        "name": "68-07 Fire Temple Ritual Chamber",
+        "name": "Fire Temple Ritual Chamber",
         "description": "",
         "properties": {
             "adventure": [
@@ -27175,7 +27151,7 @@
         }
     },
     "68-08_Fire_Temple_Broken_Bridge-4k_BM": {
-        "name": "68-08 Fire Temple Broken Bridge",
+        "name": "Fire Temple Broken Bridge",
         "description": "",
         "properties": {
             "adventure": [
@@ -27199,7 +27175,7 @@
         }
     },
     "68-08_Fire_Temple_Broken_Bridge-4k_Scen": {
-        "name": "68-08 Fire Temple Broken Bridge",
+        "name": "Fire Temple Broken Bridge",
         "description": "",
         "properties": {
             "adventure": [
@@ -27223,7 +27199,7 @@
         }
     },
     "69-01_Blood_on_the_vine_Tavern_1F-4k_BM": {
-        "name": "69-01 Blood on the vine Tavern 1F",
+        "name": "Blood on the vine Tavern 1F",
         "description": "",
         "properties": {
             "adventure": [
@@ -27244,7 +27220,7 @@
         }
     },
     "69-01_Blood_on_the_vine_Tavern_1F-4k_Scen": {
-        "name": "69-01 Blood on the vine Tavern 1F",
+        "name": "Blood on the vine Tavern 1F",
         "description": "",
         "properties": {
             "adventure": [
@@ -27265,7 +27241,7 @@
         }
     },
     "69-02_Blood_on_the_vine_Tavern_2F-4k_BM": {
-        "name": "69-02 Blood on the vine Tavern 2F",
+        "name": "Blood on the vine Tavern 2F",
         "description": "",
         "properties": {
             "adventure": [
@@ -27286,7 +27262,7 @@
         }
     },
     "69-02_Blood_on_the_vine_Tavern_2F-4k_Scen": {
-        "name": "69-02 Blood on the vine Tavern 2F",
+        "name": "Blood on the vine Tavern 2F",
         "description": "",
         "properties": {
             "adventure": [
@@ -27307,7 +27283,7 @@
         }
     },
     "69-03_Blood_on_the_vine_Tavern_Roof-4k_BM": {
-        "name": "69-03 Blood on the vine Tavern Roof",
+        "name": "Blood on the vine Tavern Roof",
         "description": "",
         "properties": {
             "adventure": [
@@ -27328,7 +27304,7 @@
         }
     },
     "69-03_Blood_on_the_vine_Tavern_Roof-4k_Scen": {
-        "name": "69-03 Blood on the vine Tavern Roof",
+        "name": "Blood on the vine Tavern Roof",
         "description": "",
         "properties": {
             "adventure": [
@@ -27349,7 +27325,7 @@
         }
     },
     "10-01_Monk_Dojo-4k_BM": {
-        "name": "10-01 Monk Dojo",
+        "name": "Monk Dojo",
         "description": "",
         "properties": {
             "adventure": [
@@ -27370,7 +27346,7 @@
         }
     },
     "10-01_Monk_Dojo-4k_Scen": {
-        "name": "10-01 Monk Dojo",
+        "name": "Monk Dojo",
         "description": "",
         "properties": {
             "adventure": [
