@@ -3,83 +3,6 @@
   "type": "spell",
   "version": "1.0.0",
   "content": {
-    "0001_grove_moss": {
-      "key": "0001_grove_moss",
-      "description": "Soft, magical moss sprouts from the ground centered on yourself.",
-      "name": "Grove Moss",
-      "properties": {
-        "level": "1",
-        "school": "Conjuration",
-        "casting_time": "10 Minutes",
-        "concentration": false,
-        "spell_type": "Buff",
-        "classes": [
-          "Druid",
-          "Warlock",
-          "Paladin",
-          "Cleric"
-        ],
-        "components": [
-          "V",
-          "S",
-          "M"
-        ],
-        "icon": "0001_grove_moss-icon.webp"
-      }
-    },
-    "0002_brittlebone_hex": {
-      "key": "0002_brittlebone_hex",
-      "description": "The target's Bones become frail and brittle.",
-      "name": "Brittlebone Hex",
-      "properties": {
-        "level": "3",
-        "school": "Transmutation",
-        "casting_time": "1 Action",
-        "concentration": false,
-        "spell_type": "Debuff",
-        "classes": [
-          "Warlock",
-          "Cleric",
-          "Sorcerer"
-        ],
-        "components": [
-          "V",
-          "S",
-          "M"
-        ],
-        "icon": "0002_brittlebone_hex-icon.webp"
-      }
-    },
-    "0003_soothing_scents": {
-      "key": "0003_soothing_scents",
-      "description": "You exude a comforting smell, capable of bolstering a creatures spiritual and physical fortitude.",
-      "name": "Soothing Scents",
-      "properties": {
-        "level": "3",
-        "school": "Conjuration",
-        "casting_time": "1 Action",
-        "concentration": false,
-        "spell_type": "Buff",
-        "classes": [
-          "Druid",
-          "Warlock",
-          "Paladin",
-          "Cleric"
-        ],
-        "components": [
-          "V",
-          "S",
-          "M"
-        ],
-        "icon": "0003_soothing_scents-icon.webp"
-      }
-    },
-<<<<<<< Updated upstream
-    "0008_final_test": {
-      "key": "0008_final_test",
-      "description": "Create a sullen downpour of hot ash end burning embers.",
-      "name": "final test",
-=======
     "0001_needleburst_cactus": {
       "key": "0001_needleburst_cactus",
       "description": "A towering cactus bursts from the ground, expelling its needles in devastating bursts.",
@@ -126,22 +49,6 @@
         "classes": [],
         "components": [],
         "icon": "0003_spiteful_harpoon-icon.webp"
-      }
-    },
-    "0004_anchor_of_ -tragedy": {
-      "key": "0004_anchor_of_ -tragedy",
-      "description": "A distant ship’s bell sounds, ethereal chains rattle and a black iron anchor appears to drag its target into the depths of the sea.",
-      "name": "Anchor Of  -Tragedy",
-      "properties": {
-        "level": "2",
-        "school": "Conjuration",
-        "casting_time": "Action",
-        "concentration": true,
-        "ritual": true,
-        "spell_type": "false",
-        "classes": [],
-        "components": [],
-        "icon": "0004_anchor_of_ -tragedy-icon.webp"
       }
     },
     "0005_red_mist_frenzy": {
@@ -416,27 +323,10 @@
         "icon": "0004_anchor_of_ tragedy-icon.webp"
       }
     },
-    "0004_anchor_of_ tragedy": {
-      "key": "0004_anchor_of_ tragedy",
-      "description": "A distant ship’s bell sounds, ethereal chains rattle and a black iron anchor appears to drag its target into the depths of the sea.",
-      "name": "Anchor Of  Tragedy",
-      "properties": {
-        "level": "2",
-        "school": "Conjuration",
-        "casting_time": "Action",
-        "concentration": true,
-        "ritual": true,
-        "spell_type": "false",
-        "classes": [],
-        "components": [],
-        "icon": "0004_anchor_of_ tragedy-icon.webp"
-      }
-    },
     "0008_ash_rain": {
       "key": "0008_ash_rain",
       "description": "Create a sullen downpour of hot ash end burning embers.",
       "name": "Ash Rain",
->>>>>>> Stashed changes
       "properties": {
         "level": "3",
         "school": "Evocation",
@@ -446,9 +336,6 @@
         "spell_type": "false",
         "classes": [],
         "components": [],
-<<<<<<< Updated upstream
-        "icon": "0008_final_test-icon.webp"
-=======
         "icon": "0008_ash_rain-icon.webp"
       }
     },
@@ -532,38 +419,6 @@
         "icon": "0004_anchor_of_tragedy-icon.webp"
       }
     },
-    "0004_anchor_of_tragedy": {
-      "key": "0004_anchor_of_tragedy",
-      "description": "A distant ship’s bell sounds, ethereal chains rattle and a black iron anchor appears to drag its target into the depths of the sea.",
-      "name": "Anchor Of Tragedy",
-      "properties": {
-        "level": "2",
-        "school": "Conjuration",
-        "casting_time": "Action",
-        "concentration": true,
-        "ritual": true,
-        "spell_type": "false",
-        "classes": [],
-        "components": [],
-        "icon": "0004_anchor_of_tragedy-icon.webp"
-      }
-    },
-    "0004_anchor_of_tragedy": {
-      "key": "0004_anchor_of_tragedy",
-      "description": "A distant ship’s bell sounds, ethereal chains rattle and a black iron anchor appears to drag its target into the depths of the sea.",
-      "name": "Anchor Of Tragedy",
-      "properties": {
-        "level": "2",
-        "school": "Conjuration",
-        "casting_time": "Action",
-        "concentration": true,
-        "ritual": true,
-        "spell_type": "false",
-        "classes": [],
-        "components": [],
-        "icon": "0004_anchor_of_tragedy-icon.webp"
-      }
-    },
     "0000_srd_guidance": {
       "key": "0000_srd_guidance",
       "description": "Grant a small boost to an ally's next ability check.",
@@ -610,7 +465,6 @@
         "classes": [],
         "components": [],
         "icon": "0000_srd_prestidigitation-icon.webp"
->>>>>>> Stashed changes
       }
     }
   }
