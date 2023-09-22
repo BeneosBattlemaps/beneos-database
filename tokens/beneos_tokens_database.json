@@ -8001,7 +8001,7 @@
     },
     "125_satyr_1": {
       "description": "Satyrs are minor fey who dedicate their lives to the pursuit of pleasure and excess. Due to their natural curiosity, they often find their way into the mundane world through rifts and gaps between planes, where they eagerly interact with its inhabitants. The danger posed by Satyrs is not immediately apparent - their inherent fey magic can plunge mortals into a state of intoxication that leads them to dissolve into a state of hedonistic ecstasy, losing their awareness of place and time before collapsing from exhaustion. Additionally, the satyric temperament can become increasingly unpredictable as the festivities approach their climax, and not infrequently, under the influence of intoxicating substances, the otherwise amicable and sociable creatures reveal their unpredictable and alien fey nature.",
-      "name": "Satyr 1",
+      "name": "Satyr",
       "properties": {
         "biom": ["Wilderness", "Forest", "Road", "Ruins", "Mountains", "Planar"],
         "cr": "0.5",
@@ -8028,7 +8028,7 @@
     },
     "125_satyr_2": {
       "description": "Satyrs are minor fey who dedicate their lives to the pursuit of pleasure and excess. Due to their natural curiosity, they often find their way into the mundane world through rifts and gaps between planes, where they eagerly interact with its inhabitants. The danger posed by Satyrs is not immediately apparent - their inherent fey magic can plunge mortals into a state of intoxication that leads them to dissolve into a state of hedonistic ecstasy, losing their awareness of place and time before collapsing from exhaustion. Additionally, the satyric temperament can become increasingly unpredictable as the festivities approach their climax, and not infrequently, under the influence of intoxicating substances, the otherwise amicable and sociable creatures reveal their unpredictable and alien fey nature.",
-      "name": "Satyr 2",
+      "name": "Satyr",
       "properties": {
         "biom": ["Wilderness", "Forest", "Road", "Ruins", "Mountains", "Planar"],
         "cr": "0.5",
