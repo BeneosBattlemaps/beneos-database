@@ -10,8 +10,8 @@
             "properties": {
             "rarity": "Legendary",
             "attunement": true,
-            "origin": "Vampiric",
-            "item_type": "Vampiric",
+            "origin": "vampiric",
+            "item_type": "Melee Weapon",
             "tier": 3,
             "price": "52800",
             "icon": "0001_nightfall-icon.webp"
@@ -24,8 +24,8 @@
             "properties": {
             "rarity": "Rare",
             "attunement": true,
-            "origin": "Occult",
-            "item_type": "Occult",
+            "origin": "occult",
+            "item_type": "Trinket",
             "tier": 2,
             "price": "3400",
             "icon": "0003_shamblevault_coffin-icon.webp"
@@ -38,8 +38,8 @@
             "properties": {
             "rarity": "Very Rare",
             "attunement": true,
-            "origin": "Vampiric",
-            "item_type": "Vampiric",
+            "origin": "vampiric",
+            "item_type": "Clothing",
             "tier": 2,
             "price": "4300",
             "icon": "0004_harrowshrike_deathmask-icon.webp"
@@ -52,8 +52,8 @@
             "properties": {
             "rarity": "Legendary",
             "attunement": true,
-            "origin": "Giantforged",
-            "item_type": "Giantforged",
+            "origin": "giantforged",
+            "item_type": "Shield",
             "tier": 3,
             "price": "49600",
             "icon": "0005_stormbreaker-icon.webp"
@@ -66,8 +66,8 @@
             "properties": {
             "rarity": "Very Rare",
             "attunement": true,
-            "origin": "Dwarvenforged",
-            "item_type": "Dwarvenforged",
+            "origin": "dwarvenforged",
+            "item_type": "Medium Armor",
             "tier": 2,
             "price": "5800",
             "icon": "0006_sea_tyrants_scales-icon.webp"
@@ -80,8 +80,8 @@
             "properties": {
             "rarity": "Uncommon",
             "attunement": true,
-            "origin": "Druidic",
-            "item_type": "Druidic",
+            "origin": "druidic",
+            "item_type": "Clothing",
             "tier": 1,
             "price": "800",
             "icon": "0007_cloak_of_photosynthesis-icon.webp"
@@ -94,8 +94,8 @@
             "properties": {
             "rarity": "Rare",
             "attunement": true,
-            "origin": "Occult",
-            "item_type": "Occult",
+            "origin": "occult",
+            "item_type": "Melee Weapon",
             "tier": 1,
             "price": "2900",
             "icon": "0008_scythe_of_the_long_march-icon.webp"
@@ -108,8 +108,8 @@
             "properties": {
             "rarity": "Uncommon",
             "attunement": true,
-            "origin": "Ancient",
-            "item_type": "Ancient",
+            "origin": "ancient",
+            "item_type": "Clothing",
             "tier": 1,
             "price": "900",
             "icon": "0009_blood_toll_bracers-icon.webp"
@@ -122,8 +122,8 @@
             "properties": {
             "rarity": "Very Rare",
             "attunement": true,
-            "origin": "Arcane",
-            "item_type": "Arcane",
+            "origin": "arcane",
+            "item_type": "Trinket",
             "tier": 4,
             "price": "108000",
             "icon": "0010_eye_of_obliteration-icon.webp"
@@ -136,8 +136,8 @@
             "properties": {
             "rarity": "Rare",
             "attunement": true,
-            "origin": "Occult",
-            "item_type": "Occult",
+            "origin": "occult",
+            "item_type": "Melee Weapon",
             "tier": 1,
             "price": "1700",
             "icon": "0011_graveblade1-icon.webp"
@@ -150,8 +150,8 @@
             "properties": {
             "rarity": "Rare",
             "attunement": true,
-            "origin": "Occult",
-            "item_type": "Occult",
+            "origin": "occult",
+            "item_type": "Melee Weapon",
             "tier": 2,
             "price": "2900",
             "icon": "0011_graveblade2-icon.webp"
@@ -164,8 +164,8 @@
             "properties": {
             "rarity": "Rare",
             "attunement": true,
-            "origin": "Occult",
-            "item_type": "Occult",
+            "origin": "occult",
+            "item_type": "Melee Weapon",
             "tier": 3,
             "price": "4400",
             "icon": "0011_graveblade3-icon.webp"
@@ -178,8 +178,8 @@
             "properties": {
             "rarity": "Rare",
             "attunement": true,
-            "origin": "Arcane",
-            "item_type": "Arcane",
+            "origin": "arcane",
+            "item_type": "Medium Armor",
             "tier": 2,
             "price": "5400",
             "icon": "0012_defuser_harness-icon.webp"
@@ -192,8 +192,8 @@
             "properties": {
             "rarity": "Uncommon",
             "attunement": true,
-            "origin": "Awoken",
-            "item_type": "Awoken",
+            "origin": "awoken",
+            "item_type": "Melee Weapon",
             "tier": 1,
             "price": "1800",
             "icon": "0013_shoreclaimer-icon.webp"
@@ -206,8 +206,8 @@
             "properties": {
             "rarity": "Uncommon",
             "attunement": true,
-            "origin": "Occult",
-            "item_type": "Occult",
+            "origin": "occult",
+            "item_type": "Trinket",
             "tier": 2,
             "price": "2600",
             "icon": "0014_dreamers_prison-icon.webp"
@@ -220,8 +220,8 @@
             "properties": {
             "rarity": "Very Rare",
             "attunement": true,
-            "origin": "Druidic",
-            "item_type": "Druidic",
+            "origin": "druidic",
+            "item_type": "Natural",
             "tier": 2,
             "price": "4400",
             "icon": "0015_sunflower_scepter-icon.webp"
@@ -234,8 +234,8 @@
             "properties": {
             "rarity": "Rare",
             "attunement": false,
-            "origin": "Vampiric",
-            "item_type": "Vampiric",
+            "origin": "vampiric",
+            "item_type": "Medium Armor",
             "tier": 1,
             "price": "1600",
             "icon": "0016_harrowshrike_harness-icon.webp"
@@ -248,8 +248,8 @@
             "properties": {
             "rarity": "Very Rare",
             "attunement": true,
-            "origin": "Vampiric",
-            "item_type": "Vampiric",
+            "origin": "vampiric",
+            "item_type": "Heavy Armor",
             "tier": 2,
             "price": "6200",
             "icon": "0017_griefplate-icon.webp"
@@ -262,8 +262,8 @@
             "properties": {
             "rarity": "Legendary",
             "attunement": true,
-            "origin": "Blessed",
-            "item_type": "Blessed",
+            "origin": "blessed",
+            "item_type": "Heavy Armor",
             "tier": 3,
             "price": "28800",
             "icon": "0018_gatebreaker_gauntlets-icon.webp"
@@ -276,8 +276,8 @@
             "properties": {
             "rarity": "Rare",
             "attunement": true,
-            "origin": "Arcane",
-            "item_type": "Arcane",
+            "origin": "arcane",
+            "item_type": "Clothing",
             "tier": 1,
             "price": "2500",
             "icon": "0019_osseous_mask-icon.webp"
@@ -290,8 +290,8 @@
             "properties": {
             "rarity": "Very Rare",
             "attunement": true,
-            "origin": "Giantforged",
-            "item_type": "Giantforged",
+            "origin": "giantforged",
+            "item_type": "Clothing",
             "tier": 2,
             "price": "6600",
             "icon": "0020_stormstrider_boots-icon.webp"
@@ -304,8 +304,8 @@
             "properties": {
             "rarity": "Very Rare",
             "attunement": true,
-            "origin": "Relic",
-            "item_type": "Relic",
+            "origin": "relic",
+            "item_type": "Clothing",
             "tier": 1,
             "price": "2700",
             "icon": "0022_ossian_crown-icon.webp"
@@ -318,8 +318,8 @@
             "properties": {
             "rarity": "Rare",
             "attunement": true,
-            "origin": "Primordial",
-            "item_type": "Primordial",
+            "origin": "primordial",
+            "item_type": "Trinket",
             "tier": 2,
             "price": "2100",
             "icon": "0024_ancestral_fragment-icon.webp"
@@ -332,8 +332,8 @@
             "properties": {
             "rarity": "Rare",
             "attunement": true,
-            "origin": "Relic",
-            "item_type": "Relic",
+            "origin": "relic",
+            "item_type": "Trinket",
             "tier": 2,
             "price": "4600",
             "icon": "0025_lightbringer_torch-icon.webp"
@@ -346,8 +346,8 @@
             "properties": {
             "rarity": "Very Rare",
             "attunement": true,
-            "origin": "Primordial",
-            "item_type": "Primordial",
+            "origin": "primordial",
+            "item_type": "Trinket",
             "tier": 2,
             "price": "4800",
             "icon": "0026_molten_core-icon.webp"
@@ -360,8 +360,8 @@
             "properties": {
             "rarity": "Rare",
             "attunement": true,
-            "origin": "Occult",
-            "item_type": "Occult",
+            "origin": "occult",
+            "item_type": "Trinket",
             "tier": 2,
             "price": "2600",
             "icon": "0028_fleshgrafter_workgloves-icon.webp"
@@ -374,8 +374,8 @@
             "properties": {
             "rarity": "Rare",
             "attunement": true,
-            "origin": "Occult",
-            "item_type": "Occult",
+            "origin": "occult",
+            "item_type": "Range Weapon",
             "tier": 2,
             "price": "2400",
             "icon": "0002_devils_decksweeper-icon.webp"
