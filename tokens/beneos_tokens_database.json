@@ -8106,6 +8106,141 @@
         ],
         "videourl": ""
     }
+    },
+    "127_constrictor_drake_1": {
+      "description": "It doesn’t take much imagination to understand why Constrictor Drakes bear their name, as they are the most serpentine of the lesser Wyverns, from their hunting methods to their puff adder-like jaws and tooth shape. They combine the worst qualities of snake and wyverns, resulting in a venomous, choke-happy, flying serpent the size of a horse. The Constrictor Drake’s vivid warning colors only heighten one’s unease because one can only imagine the kind of predator they are trying to deter.",
+      "name": "Constrictor Drake",
+      "properties": {
+        "biom": ["Ruins", "Forest", "Desert", "Wilderness" ,"Wasteland", "Road", "Mountains", "Coast"],
+        "cr": "",
+        "fightingstyle": ["Tactical", "Swallow", "Mobile"],
+        "movement": ["Fly"],
+        "purpose": ["Pressure", "Hunter"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 15,
+        "stat_cha": 6,
+        "stat_con": 16,
+        "stat_dex": 18,
+        "stat_hp": 123,
+        "stat_int": 7,
+        "stat_str": 16,
+        "stat_wis": 12,
+        "thumbnail": "127_constrictor_drake_1-idle_face_still.webp",
+        "type": [
+          "Dragon",
+          "Wyverm"
+        ],
+        "videourl": ""
+    }
+    },
+    "127_constrictor_drake_2": {
+      "description": "It doesn’t take much imagination to understand why Constrictor Drakes bear their name, as they are the most serpentine of the lesser Wyverns, from their hunting methods to their puff adder-like jaws and tooth shape. They combine the worst qualities of snake and wyverns, resulting in a venomous, choke-happy, flying serpent the size of a horse. The Constrictor Drake’s vivid warning colors only heighten one’s unease because one can only imagine the kind of predator they are trying to deter.",
+      "name": "Constrictor Drake",
+      "properties": {
+        "biom": ["Ruins", "Forest", "Desert", "Wilderness" ,"Wasteland", "Road", "Mountains", "Coast"],
+        "cr": "",
+        "fightingstyle": ["Tactical", "Swallow", "Mobile"],
+        "movement": ["Fly"],
+        "purpose": ["Pressure", "Hunter"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 15,
+        "stat_cha": 6,
+        "stat_con": 16,
+        "stat_dex": 18,
+        "stat_hp": 123,
+        "stat_int": 7,
+        "stat_str": 16,
+        "stat_wis": 12,
+        "thumbnail": "127_constrictor_drake_2-idle_face_still.webp",
+        "type": [
+          "Dragon",
+          "Wyverm"
+        ],
+        "videourl": ""
+    }
+    },
+    "127_constrictor_drake_3": {
+      "description": "It doesn’t take much imagination to understand why Constrictor Drakes bear their name, as they are the most serpentine of the lesser Wyverns, from their hunting methods to their puff adder-like jaws and tooth shape. They combine the worst qualities of snake and wyverns, resulting in a venomous, choke-happy, flying serpent the size of a horse. The Constrictor Drake’s vivid warning colors only heighten one’s unease because one can only imagine the kind of predator they are trying to deter.",
+      "name": "Constrictor Drake",
+      "properties": {
+        "biom": ["Ruins", "Forest", "Desert", "Wilderness" ,"Wasteland", "Road", "Mountains", "Coast"],
+        "cr": "",
+        "fightingstyle": ["Tactical", "Swallow", "Mobile"],
+        "movement": ["Fly"],
+        "purpose": ["Pressure", "Hunter"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 15,
+        "stat_cha": 6,
+        "stat_con": 16,
+        "stat_dex": 18,
+        "stat_hp": 123,
+        "stat_int": 7,
+        "stat_str": 16,
+        "stat_wis": 12,
+        "thumbnail": "127_constrictor_drake_3-idle_face_still.webp",
+        "type": [
+          "Dragon",
+          "Wyverm"
+        ],
+        "videourl": ""
+    }
+    },
+    "127_constrictor_drake_4": {
+      "description": "It doesn’t take much imagination to understand why Constrictor Drakes bear their name, as they are the most serpentine of the lesser Wyverns, from their hunting methods to their puff adder-like jaws and tooth shape. They combine the worst qualities of snake and wyverns, resulting in a venomous, choke-happy, flying serpent the size of a horse. The Constrictor Drake’s vivid warning colors only heighten one’s unease because one can only imagine the kind of predator they are trying to deter.",
+      "name": "Constrictor Drake",
+      "properties": {
+        "biom": ["Ruins", "Forest", "Desert", "Wilderness" ,"Wasteland", "Road", "Mountains", "Coast"],
+        "cr": "",
+        "fightingstyle": ["Tactical", "Swallow", "Mobile"],
+        "movement": ["Fly"],
+        "purpose": ["Pressure", "Hunter"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 15,
+        "stat_cha": 6,
+        "stat_con": 16,
+        "stat_dex": 18,
+        "stat_hp": 123,
+        "stat_int": 7,
+        "stat_str": 16,
+        "stat_wis": 12,
+        "thumbnail": "127_constrictor_drake_4-idle_face_still.webp",
+        "type": [
+          "Dragon",
+          "Wyverm"
+        ],
+        "videourl": ""
+    }
+    },
+    "127_constrictor_drake_5": {
+      "description": "It doesn’t take much imagination to understand why Constrictor Drakes bear their name, as they are the most serpentine of the lesser Wyverns, from their hunting methods to their puff adder-like jaws and tooth shape. They combine the worst qualities of snake and wyverns, resulting in a venomous, choke-happy, flying serpent the size of a horse. The Constrictor Drake’s vivid warning colors only heighten one’s unease because one can only imagine the kind of predator they are trying to deter.",
+      "name": "Constrictor Drake",
+      "properties": {
+        "biom": ["Ruins", "Forest", "Desert", "Wilderness" ,"Wasteland", "Road", "Mountains", "Coast"],
+        "cr": "",
+        "fightingstyle": ["Tactical", "Swallow", "Mobile"],
+        "movement": ["Fly"],
+        "purpose": ["Pressure", "Hunter"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 15,
+        "stat_cha": 6,
+        "stat_con": 16,
+        "stat_dex": 18,
+        "stat_hp": 123,
+        "stat_int": 7,
+        "stat_str": 16,
+        "stat_wis": 12,
+        "thumbnail": "127_constrictor_drake_5-idle_face_still.webp",
+        "type": [
+          "Dragon",
+          "Wyverm"
+        ],
+        "videourl": ""
+    }
   }
   }
   }
