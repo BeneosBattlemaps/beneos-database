@@ -14,8 +14,8 @@
         "concentration": true,
         "ritual": true,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Druid","Sorcerer","Wizard","Bard","Warlock","Paladin","Ranger"],
+        "components": ["V","S","M"],
         "icon": "0001_needleburst_cactus-icon.webp"
       }
     },
@@ -30,8 +30,8 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Cleric", "Sorcerer","Warlock","Wizard"],
+        "components": ["V","S"],
         "icon": "0002_black_hand-icon.webp"
       }
     },
@@ -46,8 +46,8 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Sorcerer","Warlock","Ranger","Bard"],
+        "components": ["V","S","M"],
         "icon": "0003_spiteful_harpoon-icon.webp"
       }
     },
@@ -62,8 +62,8 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Sorcerer","Warlock","Druid","Ranger"],
+        "components": ["V","S","M"],
         "icon": "0005_red_mist_frenzy-icon.webp"
       }
     },
@@ -78,8 +78,8 @@
         "concentration": true,
         "ritual": true,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Cleric","Paladin","Sorcerer","Wizard","Bard"],
+        "components": ["V","S"],
         "icon": "0006_vengeful_spirit-icon.webp"
       }
     },
@@ -94,8 +94,8 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Wizard","Sorcerer","Bard","Warlock"],
+        "components": ["V","S","M"],
         "icon": "0007_deconstruct-icon.webp"
       }
     },
@@ -110,8 +110,8 @@
         "concentration": true,
         "ritual": true,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Wizard", "Sorcerer", "Warlock","Bard","Cleric"],
+        "components": ["V","S","M"],
         "icon": "0009_void_shield-icon.webp"
       }
     },
@@ -126,8 +126,8 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Bard", "Druid", "Ranger"],
+        "components": ["V"],
         "icon": "0010_harrowshriek-icon.webp"
       }
     },
@@ -142,8 +142,8 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Druid", "Ranger"],
+        "components": ["V","S","M"],
         "icon": "0012_grove_moss-icon.webp"
       }
     },
@@ -158,8 +158,8 @@
         "concentration": true,
         "ritual": true,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Warlock", "Cleric","Paladin"],
+        "components": ["V","S","M"],
         "icon": "0013_deathrite_shroud-icon.webp"
       }
     },
@@ -174,8 +174,8 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Druid","Ranger","Cleric","Paladin"],
+        "components": ["V","S","M"],
         "icon": "0014_summon_megalith-icon.webp"
       }
     },
@@ -190,8 +190,8 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Bard"],
+        "components": ["V"],
         "icon": "0016_keep_moving-icon.webp"
       }
     },
@@ -206,8 +206,8 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Wizard","Sorcerer","Bard","Druid","Ranger","Warlock","Cleric","Paladin"],
+        "components": ["V","S","M"],
         "icon": "0017_waynes_tag_team-icon.webp"
       }
     },
@@ -222,8 +222,8 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Wizard","Sorcerer","Bard","Druid","Ranger","Warlock","Cleric","Paladin"],
+        "components": ["V","S","M"],
         "icon": "0018_fist-icon.webp"
       }
     },
@@ -238,8 +238,8 @@
         "concentration": true,
         "ritual": true,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Wizard","Sorcerer","Bard","Warlock"],
+        "components": ["V","S","M"],
         "icon": "0020_destabilize-icon.webp"
       }
     },
@@ -254,8 +254,8 @@
         "concentration": true,
         "ritual": true,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Bard","Sorcerer","Cleric","Wizard"],
+        "components": ["V","S","M"],
         "icon": "0004_anchor_of_ tragedy-icon.webp"
       }
     },
@@ -270,8 +270,8 @@
         "concentration": true,
         "ritual": true,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Druid","Sorcerer","Wizard","Cleric"],
+        "components": ["V","S","M"],
         "icon": "0008_ash_rain-icon.webp"
       }
     },
@@ -286,8 +286,8 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Wizard","Sorcerer","Warlock","Cleric"],
+        "components": ["V","S","M"],
         "icon": "0011_grim_harvest-icon.webp"
       }
     },
@@ -302,8 +302,8 @@
         "concentration": true,
         "ritual": true,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Druid","Wizard","Warlock","Sorcerer"],
+        "components": ["V","S","M"],
         "icon": "0012_glacial_prison-icon.webp"
       }
     },
@@ -318,8 +318,8 @@
         "concentration": true,
         "ritual": true,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Druid","Sorcerer","Cleric","Paladin"],
+        "components": ["V","S","M"],
         "icon": "0015_stormflight-icon.webp"
       }
     },
@@ -334,8 +334,8 @@
         "concentration": true,
         "ritual": true,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Druid","Ranger"],
+        "components": ["V","S","M"],
         "icon": "0019_mist_phantoms-icon.webp"
       }
     },
@@ -350,8 +350,8 @@
         "concentration": true,
         "ritual": true,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Bard","Sorcerer","Cleric","Wizard"],
+        "components": ["V","S","M"],
         "icon": "0004_anchor_of_tragedy-icon.webp"
       }
     },
@@ -366,8 +366,8 @@
         "concentration": true,
         "ritual": true,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Cleric","Druid"],
+        "components": ["V","S"],
         "icon": "0000_srd_guidance-icon.webp"
       }
     },
@@ -382,8 +382,8 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Bard","Sorcerer","Wizard"],
+        "components": ["V","S","M"],
         "icon": "0000_srd_message-icon.webp"
       }
     },
@@ -399,7 +399,7 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "false",
-        "classes": [],
+        "classes": ["Druid","Ranger"],
         "components": ["V","S","M"],
         "icon": "0021_grove_moss-icon.webp"
       }
@@ -415,7 +415,7 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "Debuff",
-        "classes": [],
+        "classes": ["Warlock","Sorcerer"],
         "components": ["V","S","M"],
         "icon": "0022_brittlebone_hex-icon.webp"
       }
@@ -431,7 +431,7 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "Buff",
-        "classes": [],
+        "classes": ["Druid","Ranger"],
         "components": ["V","S","M"],
         "icon": "0023_soothing_scents-icon.webp"
       }
@@ -447,8 +447,8 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "false",
-        "classes": [],
-        "components": [],
+        "classes": ["Bard","Sorcerer","Wizard","Warlock"],
+        "components": ["V","S"],
         "icon": "0000_srd_prestidigitation-icon.webp"
       }
     }
