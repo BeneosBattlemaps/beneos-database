@@ -1,70 +1,96 @@
 {
   "hover": {
     "origin": {
-      "vampiric":{
-        "message": "In their pursuit of mastery over the very life-essence that they so crave, Vampires have mastered many abhorrent methods of imbuing items with sanguine power."
-      },
-      "ancient": {
-        "message": "These objects outlasted the rise and fall of empires and civilisations, their essence enriched by the gravitas of bygone days."
-      }
-    },
-	"awoken": {
-        "message": "Some objects acquire magical properties by being shaped through continued and singular use, becoming a concrete object signifying and drawing strength from abstract concepts."
-    },
-	"arcane": {
-        "message": "Some items are consciously imbued with magic upon their construction by their creators."
-    },
-	"crystalline": {
-        "message": "Throughout the mundane and planar realms, crystals act as conduits for all kinds of magic, with application in matters ranging from warfare to leisure activities or entertainment. "
-    },
-	"druidic": {
-        "message": "These objects often incorporate living organisms, carefully nurtured and motivated to share nature's gifts or dole out her wrath."
-    },
-	"dwarvenforged": {
-        "message": "Unparalleled in their mastery over steel and stone, the dwarven forgemasters' creations are inimitable in their unique blend of practicability and craftsmanship."
-    },
-	"feywoven": {
-        "message": "Objects exemplifying the nature of the fair lords and ladies and their alien domain, equally plausible to have been brought into existence in pursuit of power or simply for fun."
-    },
-	"giantforged": {
-        "message": "Whether forged on storm-wreathed peaks or within the boiling depths of volcanic magma chambers, these artifacts embody the indomitable elemental might of giant-kin."
-    },
-	"mutation": {
-        "message": "Cells upon cells upon cells, two organisms fusing together in harmonious symbiosis."
+		"vampiric":{
+			"message": "In their pursuit of mastery over the very life-essence that they so crave, Vampires have mastered many abhorrent methods of imbuing items with sanguine power."
+		},
+		"ancient": {
+		   "message": "These objects outlasted the rise and fall of empires and civilisations, their essence enriched by the gravitas of bygone days."
+		},
+		"awoken": {
+			"message": "Some objects acquire magical properties by being shaped through continued and singular use, becoming a concrete object signifying and drawing strength from abstract concepts."
+		},
+		"arcane": {
+			"message": "Some items are consciously imbued with magic upon their construction by their creators."
+		},
+		"crystalline": {
+			"message": "Throughout the mundane and planar realms, crystals act as conduits for all kinds of magic, with application in matters ranging from warfare to leisure activities or entertainment. "
+		},
+		"druidic": {
+			"message": "These objects often incorporate living organisms, carefully nurtured and motivated to share nature's gifts or dole out her wrath."
+		},
+		"dwarvenforged": {
+			"message": "Unparalleled in their mastery over steel and stone, the dwarven forgemasters' creations are inimitable in their unique blend of practicability and craftsmanship."
+		},
+		"feywoven": {
+			"message": "Objects exemplifying the nature of the fair lords and ladies and their alien domain, equally plausible to have been brought into existence in pursuit of power or simply for fun."
+		},
+		"giantforged": {
+			"message": "Whether forged on storm-wreathed peaks or within the boiling depths of volcanic magma chambers, these artifacts embody the indomitable elemental might of giant-kin."
+		},
+		"mutation": {
+			"message": "Cells upon cells upon cells, two organisms fusing together in harmonious symbiosis."
+		},
+		"elemental": {
+			"message": "Infused with the coiling essences of the elemental planes, these objects channel the raw powers of the elements."
+		},
+		"occult": {
+			"message": "Sinister in appearance and function, these items were created using forbidden knowledge or had their essence marred through vile use."
+
+		},
+		"primordial": {
+			"message": "Remnants of a world that was, still drawing strength from the primal essences unleashed at the dawn of creation."
+		},
+		"relic": {
+			"message": "Exalted vestiges enwrapped by the gossamer strings of fate, their wielders burdened with the glorious purpose of changing the world for better or for worse."
+		},
+		"blessed": {
+			"message": "Brimming with godly powers or bearing the stigmata of a saintly touch, blessed items are divine intention given form."
+		},
+		"sanctified": {
+			"message": "These objects are ritually imbued with sacred purpose, each one a manifestation of unquestioning devotion."
+		},
+		"technoarcane": {
+			"message": "There is power in the profane, be it the certainty of the clockwork or the energies harvested from coal and steel. Ingenuity knows no bounds and any sufficiently advanced technology is indistinguishable from magic."
+		}
 	},
-	"elemental": {
-        "message": "Infused with the coiling essences of the elemental planes, these objects channel the raw powers of the elements."
-    },
-	"occult": {
-        "message": "Sinister in appearance and function, these items were created using forbidden knowledge or had their essence marred through vile use."
-
-    },
-	"primordial": {
-        "message": "Remnants of a world that was, still drawing strength from the primal essences unleashed at the dawn of creation."
-
-    },
-	"relic": {
-        "message": "Exalted vestiges enwrapped by the gossamer strings of fate, their wielders burdened with the glorious purpose of changing the world for better or for worse."
-
-    },
-	"blessed": {
-        "message": "Brimming with godly powers or bearing the stigmata of a saintly touch, blessed items are divine intention given form."
-
-    },
-	"sanctified": {
-        "message": "These objects are ritually imbued with sacred purpose, each one a manifestation of unquestioning devotion."
-
-    },
-	"techno-arcane": {
-        "message": "There is power in the profane, be it the certainty of the clockwork or the energies harvested from coal and steel. Ingenuity knows no bounds and any sufficiently advanced technology is indistinguishable from magic."
-      },
-    "item_type": {
-      "heavy armor": {
-        "message": "This  is a heavy armor"
-      }, 
-      "leather armor":{
-        "message": "This is a leather armor"
-      }
+	"item_type": {
+	  "Trinket": {
+		"message": "Still to Define."
+	  }, 
+	  "Melee Weapon": {
+		"message": "Still to Define."
+	  }, 
+	  "Range Weapon": {
+		"message": "Still to Define."
+	  }, 
+	  "Consumable": {
+		"message": "Still to Define."
+	  }, 
+	  "Clothing": {
+		"message": "Still to Define."
+	  }, 
+	  "Tool": {
+		"message": "Still to Define."
+	  }, 
+	  "Natural": {
+		"message": "Still to Define."
+	  }, 
+	  "Heavy Armor": {
+		"message": "Still to Define."
+	  }, 
+	  "Medium Armor": {
+		"message": "Still to Define."
+	  }, 
+	  "Light Armor": {
+		"message": "Still to Define."
+	  }, 
+	  "Shield": {
+		"message": "Still to Define."
+	  }, 
+	  "Backpack": {
+		"message": "Still to Define."
+	  }
     },
     "tier": {
       "1": {
@@ -82,10 +108,10 @@
     },
     "installed": {
       "installed": {
-        "message": "......"
+        "message": "Still to Define."
       },
       "not_installed": {
-        "message": "......"
+        "message": "Still to Define."
       }
     }
   }

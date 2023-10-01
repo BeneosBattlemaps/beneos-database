@@ -1,4 +1,4 @@
-﻿{
+{
    "id":"beneos_battlemaps_database",
    "type":"battlemap",
    "version":"0.1.1",
@@ -27365,6 +27365,38 @@
             "thumbnail": "10-01_monk_dojo-4k_still_scenery.webp",
             "videourl": "WIP"
         }
-    }
-}
-}
+                    },
+                    "11-01_Waterfall_Cave-4k_BM":{
+                        "name":"Waterfall Cave",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Single Map"],
+                        "biom":["Cave","Water", "Underground", "Interiour"],
+                        "brightness":"Medium",
+                        "grid":"38x22",
+                        "pack":"11_Waterfall_Cave",
+                        "releaseurl":"WIP",
+                        "sibling":"11-01_Waterfall_Cave-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"11-01_Waterfall_Cave-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "11-01_Waterfall_Cave-4k_Scen":{
+                                "name":"Waterfall Cave",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Single Map"],
+                                "biom":["Cave","Water", "Underground", "Interiour"],
+                                "brightness":"Medium",
+                                "grid":"38x22",
+                                "pack":"11_Waterfall_Cave",
+                                "releaseurl":"WIP",
+                                "sibling":"11-01_Waterfall_Cave-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"11-01_Waterfall_Cave-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                            }
+                        }
+                    }
