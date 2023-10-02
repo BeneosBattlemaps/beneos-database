@@ -8247,7 +8247,7 @@
       "name": "Voidmare Wailer",
       "properties": {
         "biom": ["Ruins", "Graves", "Planar", "Horror", "Civilised"],
-        "cr": "",
+        "cr": "7",
         "fightingstyle": ["Tactical", "Ambusher", "Demanding"],
         "movement": ["Walk"],
         "purpose": ["Pressure", "Hunter"],
