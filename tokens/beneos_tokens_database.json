@@ -8241,6 +8241,33 @@
         ],
         "videourl": ""
     }
+    },
+    "128_voidmare_wailer": {
+      "description": "Voidmare Wailers hail from the eponymous Voidmare, a nightmarish prison dimension steeped in cosmic darkness. Beings banished into the black cells of the Voidmare lose themselves in isolation and void-chill, eventually pupating and morphing into weeping and wailing monstrosities infused with the dimension’s tortuous, hungering for the dreams and memories of living beings, their own lost forever.",
+      "name": "Voidmare Wailer",
+      "properties": {
+        "biom": ["Ruins", "Graves", "Planar", "Horror", "Civilised"],
+        "cr": "",
+        "fightingstyle": ["Tactical", "Ambusher", "Demanding"],
+        "movement": ["Walk"],
+        "purpose": ["Pressure", "Hunter"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 18,
+        "stat_con": 16,
+        "stat_dex": 14,
+        "stat_hp": 117,
+        "stat_int": 11,
+        "stat_str": 16,
+        "stat_wis": 12,
+        "thumbnail": "128_voidmare_wailer-idle_face_still.webp",
+        "type": [
+          "Aberration",
+          ""
+        ],
+        "videourl": ""
+    }
   }
   }
   }
