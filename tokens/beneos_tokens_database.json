@@ -7954,7 +7954,7 @@
         "fightingstyle": ["Simple", "Melee"],
         "movement": ["Walk"],
         "purpose": ["Leader", "Gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/ogre-maneater-87724969",
         "size": "Large",
         "stat_ac": 14,
         "stat_cha": 5,
@@ -7969,7 +7969,7 @@
           "Giant",
           "Ogre"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/S30OcizwqOU?si=AKUL2RC-aasyxxoU"
     }
     },
     "124_ogre_maneater_2": {
@@ -7981,7 +7981,7 @@
         "fightingstyle": ["Simple", "Melee"],
         "movement": ["Walk"],
         "purpose": ["Leader", "Gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/ogre-maneater-87724969",
         "size": "Large",
         "stat_ac": 14,
         "stat_cha": 5,
@@ -7996,7 +7996,7 @@
           "Giant",
           "Ogre"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/S30OcizwqOU?si=AKUL2RC-aasyxxoU"
     }
     },
     "125_satyr_1": {
@@ -8008,7 +8008,7 @@
         "fightingstyle": ["Ranged", "Pack"],
         "movement": ["Walk"],
         "purpose": ["Debuff", "Support"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/satyr-88981554",
         "size": "Medium",
         "stat_ac": 14,
         "stat_cha": 15,
@@ -8023,7 +8023,7 @@
           "Fey",
           "Satyr"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/nqYvyow8rUc?si=-lbmkxRhzXGsRntI"
     }
     },
     "125_satyr_2": {
@@ -8035,7 +8035,7 @@
         "fightingstyle": ["Ranged", "Pack"],
         "movement": ["Walk"],
         "purpose": ["Debuff", "Support"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/satyr-88981554",
         "size": "Medium",
         "stat_ac": 14,
         "stat_cha": 15,
@@ -8050,7 +8050,7 @@
           "Fey",
           "Satyr"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/nqYvyow8rUc?si=-lbmkxRhzXGsRntI"
     }
     },
     "000_month_6_emissary_of_annihilation": {
@@ -8077,7 +8077,7 @@
           "Construct",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/Yx8049uGtVg?si=PE5vpeCGflnO79-T"
     }
     },
     "126_opulence_devil": {
@@ -8085,11 +8085,11 @@
       "name": "Opulence Devil",
       "properties": {
         "biom": ["Ruins", "Civilized", "Planar", "Lair" ,"Infernal", "Civilised"],
-        "cr": "",
+        "cr": "9",
         "fightingstyle": ["Simple", "Swallow"],
         "movement": ["Walk"],
         "purpose": ["Tank", "Gimmick", "Debuff"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/opulence-devil-89348772",
         "size": "Huge",
         "stat_ac": 15,
         "stat_cha": 18,
@@ -8104,7 +8104,7 @@
           "Fiend",
           "Devil"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/dVgbSDndNCY?si=CiCLNvoixhUY08Od"
     }
     },
     "127_constrictor_drake_1": {
@@ -8112,11 +8112,11 @@
       "name": "Constrictor Drake",
       "properties": {
         "biom": ["Ruins", "Forest", "Desert", "Wilderness" ,"Wasteland", "Road", "Mountains", "Coast"],
-        "cr": "",
+        "cr": "6",
         "fightingstyle": ["Tactical", "Swallow", "Mobile"],
         "movement": ["Fly"],
         "purpose": ["Pressure", "Hunter"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/constrictor-89678089",
         "size": "Large",
         "stat_ac": 15,
         "stat_cha": 6,
@@ -8131,7 +8131,7 @@
           "Dragon",
           "Wyverm"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/5dD9TnTs5us?si=_XmwyJbgqQmOWHog"
     }
     },
     "127_constrictor_drake_2": {
@@ -8139,11 +8139,11 @@
       "name": "Constrictor Drake",
       "properties": {
         "biom": ["Ruins", "Forest", "Desert", "Wilderness" ,"Wasteland", "Road", "Mountains", "Coast"],
-        "cr": "",
+        "cr": "6",
         "fightingstyle": ["Tactical", "Swallow", "Mobile"],
         "movement": ["Fly"],
         "purpose": ["Pressure", "Hunter"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/constrictor-89678089",
         "size": "Large",
         "stat_ac": 15,
         "stat_cha": 6,
@@ -8158,7 +8158,7 @@
           "Dragon",
           "Wyverm"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/5dD9TnTs5us?si=_XmwyJbgqQmOWHog"
     }
     },
     "127_constrictor_drake_3": {
@@ -8166,11 +8166,11 @@
       "name": "Constrictor Drake",
       "properties": {
         "biom": ["Ruins", "Forest", "Desert", "Wilderness" ,"Wasteland", "Road", "Mountains", "Coast"],
-        "cr": "",
+        "cr": "6",
         "fightingstyle": ["Tactical", "Swallow", "Mobile"],
         "movement": ["Fly"],
         "purpose": ["Pressure", "Hunter"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/constrictor-89678089",
         "size": "Large",
         "stat_ac": 15,
         "stat_cha": 6,
@@ -8185,7 +8185,7 @@
           "Dragon",
           "Wyverm"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/5dD9TnTs5us?si=_XmwyJbgqQmOWHog"
     }
     },
     "127_constrictor_drake_4": {
@@ -8193,11 +8193,11 @@
       "name": "Constrictor Drake",
       "properties": {
         "biom": ["Ruins", "Forest", "Desert", "Wilderness" ,"Wasteland", "Road", "Mountains", "Coast"],
-        "cr": "",
+        "cr": "6",
         "fightingstyle": ["Tactical", "Swallow", "Mobile"],
         "movement": ["Fly"],
         "purpose": ["Pressure", "Hunter"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/constrictor-89678089",
         "size": "Large",
         "stat_ac": 15,
         "stat_cha": 6,
@@ -8212,7 +8212,7 @@
           "Dragon",
           "Wyverm"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/5dD9TnTs5us?si=_XmwyJbgqQmOWHog"
     }
     },
     "127_constrictor_drake_5": {
@@ -8220,11 +8220,11 @@
       "name": "Constrictor Drake",
       "properties": {
         "biom": ["Ruins", "Forest", "Desert", "Wilderness" ,"Wasteland", "Road", "Mountains", "Coast"],
-        "cr": "",
+        "cr": "6",
         "fightingstyle": ["Tactical", "Swallow", "Mobile"],
         "movement": ["Fly"],
         "purpose": ["Pressure", "Hunter"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/constrictor-89678089",
         "size": "Large",
         "stat_ac": 15,
         "stat_cha": 6,
@@ -8239,7 +8239,7 @@
           "Dragon",
           "Wyverm"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/5dD9TnTs5us?si=_XmwyJbgqQmOWHog"
     }
     },
     "128_voidmare_wailer": {
