@@ -243,22 +243,6 @@
         "icon": "0020_destabilize-icon.webp"
       }
     },
-    "0004_anchor_of_ tragedy": {
-      "key": "0004_anchor_of_tragedy",
-      "description": "A distant ship’s bell sounds, ethereal chains rattle and a black iron anchor appears to drag its target into the depths of the sea.",
-      "name": "Anchor Of  Tragedy",
-      "properties": {
-        "level": "2",
-        "school": "Conjuration",
-        "casting_time": "Action",
-        "concentration": true,
-        "ritual": true,
-        "spell_type": "false",
-        "classes": ["Bard","Sorcerer","Cleric","Wizard"],
-        "components": ["V","S","M"],
-        "icon": "0004_anchor_of_ tragedy-icon.webp"
-      }
-    },
     "0008_ash_rain": {
       "key": "0008_ash_rain",
       "description": "Create a sullen downpour of hot ash end burning embers.",
