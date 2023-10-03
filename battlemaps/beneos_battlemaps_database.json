@@ -27397,6 +27397,38 @@
                                 "thumbnail":"11-01_Waterfall_Cave-4k_scen.webp",
                                 "videourl":"WIP"
                                 }
+                    },
+                    "12-01_Underdark_Bridge-4k_BM":{
+                        "name":"Underdark Bridge",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Single Map"],
+                        "biom":["Cave","Underdark", "Underground", "Interiour"],
+                        "brightness":"Dark",
+                        "grid":"43x70",
+                        "pack":"12_Underdark_Bridge",
+                        "releaseurl":"WIP",
+                        "sibling":"12-01_Underdark_Bridge-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"12-01_Underdark_Bridge-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "12-01_Underdark_Bridge-4k_Scen":{
+                                "name":"Underdark Bridge",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Single Map"],
+                                "biom":["Cave","Underdark", "Underground", "Interiour"],
+                                "brightness":"Dark",
+                                "grid":"43x70",
+                                "pack":"12_Underdark_Bridge",
+                                "releaseurl":"WIP",
+                                "sibling":"12-01_Underdark_Bridge-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"12-01_Underdark_Bridge-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
                             }
                         }
                     }
