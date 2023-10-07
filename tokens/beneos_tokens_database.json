@@ -8268,6 +8268,33 @@
         ],
         "videourl": ""
     }
+    },
+    "000_month_7_azure_dragon_sage": {
+      "description": "Dragon-Sages travel the world, offering their wisdom and experience to those whose philosophies align with their own. Most of them are hundreds of years old, and their gaze discerns patterns and causalities that remain hidden to most. Thus, they assume various roles, from saviors to destroyers, to steer the course of history in a way that aligns with their own nature. Characteristic of Azure Dragon-Sages is the pursuit of freedom for all peoples, and their arrival often heralds revolution and reformation. Some act as advisors, being able to foretel the future by discerning cloud patterns, some as elite instructors or even military leaders, their troops marching to the drum-beat of distant thunder.",
+      "name": "Azure Dragon Sage",
+      "properties": {
+        "biom": ["Ruins", "Sacral", "Planar", "Mountains", "Civilised", "Wilderness"],
+        "cr": "15",
+        "fightingstyle": ["Tactical", "Demanding", "Mobile"],
+        "movement": ["Walk"],
+        "purpose": ["Damage", "Boss"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 18,
+        "stat_cha": 18,
+        "stat_con": 20,
+        "stat_dex": 12,
+        "stat_hp": 278,
+        "stat_int": 14,
+        "stat_str": 23,
+        "stat_wis": 22,
+        "thumbnail": "000_month_7_azure_dragon_sage-idle_face_still.webp",
+        "type": [
+          "dragon",
+          ""
+        ],
+        "videourl": ""
+    }
   }
   }
   }
