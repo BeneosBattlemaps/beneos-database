@@ -8295,6 +8295,87 @@
         ],
         "videourl": ""
     }
+    },
+    "129_undead_archer_1": {
+      "description": "The legendary Undead Archers of the Burial Host serve as tireless artillery units, inexorable in their mission to provide cover for the marching troops. The Host’s shambling hordes advance through a torrent of Rothail arrows. Even though their deteriorated musculature only allows the use of shortbows, they can be deployed further forward than regular archers, as an undead archer felled by return fire may rise again to continue their ceaseless barrage. Even when outmaneuvered and locked in melee combat, the Host’s archers refuse to yield, continuing their unrelenting volleys until physically incapable of doing so.",
+      "name": "Undead Archer",
+      "properties": {
+        "biom": ["Ruins", "Swamp", "Graves", "Dungeon", "Horror" "Wilderness"],
+        "cr": "1",
+        "fightingstyle": ["Simple", "Pack", "Ranged"],
+        "movement": ["Walk"],
+        "purpose": ["Minion", "Hunter"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 13,
+        "stat_cha": 4,
+        "stat_con": 16,
+        "stat_dex": 14,
+        "stat_hp": 32,
+        "stat_int": 5,
+        "stat_str": 8,
+        "stat_wis": 6,
+        "thumbnail": "129_undead_archer_1-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "129_undead_archer_2": {
+      "description": "The legendary Undead Archers of the Burial Host serve as tireless artillery units, inexorable in their mission to provide cover for the marching troops. The Host’s shambling hordes advance through a torrent of Rothail arrows. Even though their deteriorated musculature only allows the use of shortbows, they can be deployed further forward than regular archers, as an undead archer felled by return fire may rise again to continue their ceaseless barrage. Even when outmaneuvered and locked in melee combat, the Host’s archers refuse to yield, continuing their unrelenting volleys until physically incapable of doing so.",
+      "name": "Undead Archer",
+      "properties": {
+        "biom": ["Ruins", "Swamp", "Graves", "Dungeon", "Horror" "Wilderness"],
+        "cr": "1",
+        "fightingstyle": ["Simple", "Pack", "Ranged"],
+        "movement": ["Walk"],
+        "purpose": ["Minion", "Hunter"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 13,
+        "stat_cha": 4,
+        "stat_con": 16,
+        "stat_dex": 14,
+        "stat_hp": 32,
+        "stat_int": 5,
+        "stat_str": 8,
+        "stat_wis": 6,
+        "thumbnail": "129_undead_archer_2-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "129_undead_archer_3": {
+      "description": "The legendary Undead Archers of the Burial Host serve as tireless artillery units, inexorable in their mission to provide cover for the marching troops. The Host’s shambling hordes advance through a torrent of Rothail arrows. Even though their deteriorated musculature only allows the use of shortbows, they can be deployed further forward than regular archers, as an undead archer felled by return fire may rise again to continue their ceaseless barrage. Even when outmaneuvered and locked in melee combat, the Host’s archers refuse to yield, continuing their unrelenting volleys until physically incapable of doing so.",
+      "name": "Undead Archer",
+      "properties": {
+        "biom": ["Ruins", "Swamp", "Graves", "Dungeon", "Horror" "Wilderness"],
+        "cr": "1",
+        "fightingstyle": ["Simple", "Pack", "Ranged"],
+        "movement": ["Walk"],
+        "purpose": ["Minion", "Hunter"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 13,
+        "stat_cha": 4,
+        "stat_con": 16,
+        "stat_dex": 14,
+        "stat_hp": 32,
+        "stat_int": 5,
+        "stat_str": 8,
+        "stat_wis": 6,
+        "thumbnail": "129_undead_archer_3-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": ""
+    }
   }
   }
   }
