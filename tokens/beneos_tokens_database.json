@@ -8,8 +8,8 @@
       "name": "Ranged",
       "description": "This creature attacks from afar and has limited or no melee combat capabilities."
     },
-    "ambusher": {
-      "name": "Ambusher",
+    "Ambush": {
+      "name": "Ambush",
       "description": "This creature ideally starts combat from a hidden position and waits for the optimal moment to attack."
     },
     "airborne": {
@@ -204,7 +204,7 @@
       "name": "Inquisitorial Penitent",
       "properties": {
         "biom": [
-          "Sacral", "city", "civilised"
+          "Sacral", "city", "Civilized"
         ],
         "cr": "5",
         "fightingstyle": [
@@ -236,7 +236,7 @@
       "name": "Assassin",
       "properties": {
         "biom": [
-          "city","civilised","road"
+          "city","Civilized","road"
         ],
         "cr": "3",
         "fightingstyle": [
@@ -267,7 +267,7 @@
       "name": "Polarized Shield Guardian",
       "properties": {
         "biom": [
-          "civilised", "futuristic"
+          "Civilized", "futuristic"
         ],
         "cr": "8",
         "fightingstyle": [
@@ -297,7 +297,7 @@
       "name": "Polarized Shield Guardian",
       "properties": {
         "biom": [
-          "civilised", "futuristic"
+          "Civilized", "futuristic"
         ],
         "cr": "8",
         "fightingstyle": [
@@ -331,7 +331,7 @@
         ],
         "cr": "3",
         "fightingstyle": [
-          "ambusher", "pack"
+          "Ambush", "pack"
         ],
         "movement": ["fly"],
         "purpose": ["debuff"],
@@ -567,7 +567,7 @@
       "name": "Horse",
       "properties": {
         "biom": [
-          "any"
+          
         ],
         "cr": "1",
         "fightingstyle": [
@@ -597,7 +597,7 @@
       "name": "Horse",
       "properties": {
         "biom": [
-          "any"
+          
         ],
         "cr": "1",
         "fightingstyle": [
@@ -627,7 +627,7 @@
       "name": "Horse",
       "properties": {
         "biom": [
-          "any"
+          
         ],
         "cr": "1",
         "fightingstyle": [
@@ -657,7 +657,7 @@
       "name": "Horse",
       "properties": {
         "biom": [
-          "any"
+          
         ],
         "cr": "1",
         "fightingstyle": [
@@ -687,7 +687,7 @@
       "name": "Horse",
       "properties": {
         "biom": [
-          "any"
+          
         ],
         "cr": "1",
         "fightingstyle": [
@@ -717,7 +717,7 @@
       "name": "Horse",
       "properties": {
         "biom": [
-          "any"
+          
         ],
         "cr": "1",
         "fightingstyle": [
@@ -747,7 +747,7 @@
       "name": "Horse",
       "properties": {
         "biom": [
-          "any"
+          
         ],
         "cr": "1",
         "fightingstyle": [
@@ -777,7 +777,7 @@
       "name": "Horse",
       "properties": {
         "biom": [
-          "any"
+          
         ],
         "cr": "1",
         "fightingstyle": [
@@ -807,7 +807,7 @@
       "name": "Warhorse",
       "properties": {
         "biom": [
-          "any"
+          
         ],
         "cr": "1",
         "fightingstyle": [
@@ -837,7 +837,7 @@
       "name": "Warhorse",
       "properties": {
         "biom": [
-          "any"
+          
         ],
         "cr": "1",
         "fightingstyle": [
@@ -867,7 +867,7 @@
       "name": "Horse",
       "properties": {
         "biom": [
-          "any"
+          
         ],
         "cr": "1",
         "fightingstyle": [
@@ -897,7 +897,7 @@
       "name": "Warhorse",
       "properties": {
         "biom": [
-          "any"
+          
         ],
         "cr": "1",
         "fightingstyle": [
@@ -927,7 +927,7 @@
       "name": "Warhorse",
       "properties": {
         "biom": [
-          "any"
+          
         ],
         "cr": "1",
         "fightingstyle": [
@@ -957,7 +957,7 @@
       "name": "Trained Fighter",
       "properties": {
         "biom": [
-          "any"
+          
         ],
         "cr": "2",
         "fightingstyle": [
@@ -987,7 +987,7 @@
       "name": "Trained Fighter",
       "properties": {
         "biom": [
-          "any"
+          
         ],
         "cr": "2",
         "fightingstyle": [
@@ -1017,7 +1017,7 @@
       "name": "Trained Fighter",
       "properties": {
         "biom": [
-          "any"
+          
         ],
         "cr": "2",
         "fightingstyle": [
@@ -1047,7 +1047,7 @@
       "name": "Trained Fighter",
       "properties": {
         "biom": [
-          "any"
+          
         ],
         "cr": "2",
         "fightingstyle": [
@@ -1077,7 +1077,7 @@
       "name": "Cipactli",
       "properties": {
         "biom": [
-          "Tropical", "Swamp", "Wildnerness"
+          "Tropical", "Swamp", "Wilderness"
         ],
         "cr": "4",
         "fightingstyle": [
@@ -1107,7 +1107,7 @@
       "name": "Harpyia",
       "properties": {
         "biom": [
-          "wilderness", "coastal", "road"
+          "wilderness", "Coast", "road"
         ],
         "cr": "3",
         "fightingstyle": [
@@ -1137,7 +1137,7 @@
       "name": "Dragon",
       "properties": {
         "biom": [
-          "any"
+          
         ],
         "cr": "19",
         "fightingstyle": [
@@ -1187,7 +1187,7 @@
         "stat_wis": 12,
         "thumbnail": "015_werewolf_1-idle_face_still.webp",
         "type": [
-			"humanoid", "shapeshifter", "monstrosity"
+			"humanoid", "Shapechanger", "monstrosity"
         ],
         "videourl": "https://youtu.be/rU2-Ph6Gp4Y"
       }
@@ -1217,7 +1217,7 @@
         "stat_wis": 12,
         "thumbnail": "015_werewolf_2-idle_face_still.webp",
         "type": [
-			"humanoid", "shapeshifter", "monstrosity"
+			"humanoid", "Shapechanger", "monstrosity"
         ],
         "videourl": "https://youtu.be/rU2-Ph6Gp4Y"
       }
@@ -1247,7 +1247,7 @@
         "stat_wis": 12,
         "thumbnail": "015_werewolf_3-idle_face_still.webp",
         "type": [
-			"humanoid", "shapeshifter", "monstrosity", "demi-human"
+			"humanoid", "Shapechanger", "monstrosity", "demi-human"
         ],
         "videourl": "https://youtu.be/rU2-Ph6Gp4Y"
       }
@@ -1377,7 +1377,7 @@
       "name": "Dwarven King",
       "properties": {
         "biom": [
-          "underground", "city", "civilised"
+          "underground", "city", "Civilized"
         ],
         "cr": "5",
         "fightingstyle": [
@@ -1411,7 +1411,7 @@
         ],
         "cr": "4",
         "fightingstyle": [
-          "melee", "pack", "ambusher"
+          "melee", "pack", "Ambush"
         ],
         "movement": ["walk", "climb"],
         "purpose": ["damage","debuff"],
@@ -1441,7 +1441,7 @@
         ],
         "cr": "4",
         "fightingstyle": [
-          "melee", "pack", "ambusher"
+          "melee", "pack", "Ambush"
         ],
         "movement": ["walk", "climb"],
         "purpose": ["damage","debuff"],
@@ -1471,7 +1471,7 @@
         ],
         "cr": "4",
         "fightingstyle": [
-          "melee", "pack", "ambusher"
+          "melee", "pack", "Ambush"
         ],
         "movement": ["walk", "climb"],
         "purpose": ["damage","debuff"],
@@ -1501,7 +1501,7 @@
         ],
         "cr": "4",
         "fightingstyle": [
-          "melee", "pack", "ambusher"
+          "melee", "pack", "Ambush"
         ],
         "movement": ["walk", "climb"],
         "purpose": ["damage","debuff"],
@@ -1531,7 +1531,7 @@
         ],
         "cr": "4",
         "fightingstyle": [
-          "melee", "pack", "ambusher"
+          "melee", "pack", "Ambush"
         ],
         "movement": ["walk", "climb"],
         "purpose": ["damage","debuff"],
@@ -1561,7 +1561,7 @@
         ],
         "cr": "4",
         "fightingstyle": [
-          "melee", "pack", "ambusher"
+          "melee", "pack", "Ambush"
         ],
         "movement": ["walk", "climb"],
         "purpose": ["damage","debuff"],
@@ -1591,7 +1591,7 @@
         ],
         "cr": "4",
         "fightingstyle": [
-          "melee", "pack", "ambusher"
+          "melee", "pack", "Ambush"
         ],
         "movement": ["walk", "climb"],
         "purpose": ["damage","debuff"],
@@ -1621,7 +1621,7 @@
         ],
         "cr": "4",
         "fightingstyle": [
-          "melee", "pack", "ambusher"
+          "melee", "pack", "Ambush"
         ],
         "movement": ["walk", "climb"],
         "purpose": ["damage","debuff"],
@@ -1647,7 +1647,7 @@
       "name": "Reef Keeper",
       "properties": {
         "biom": [
-          "ocean", "coastal"
+          "ocean", "Coast"
         ],
         "cr": "2",
         "fightingstyle": [
@@ -1677,7 +1677,7 @@
       "name": "Grimgheist",
       "properties": {
         "biom": [
-          "any"
+          
         ],
         "cr": "6",
         "fightingstyle": [
@@ -1711,7 +1711,7 @@
         ],
         "cr": "1",
         "fightingstyle": [
-          "ambusher", "simple", "pack"
+          "Ambush", "simple", "pack"
         ],
         "movement": ["walk"],
         "purpose": ["minion"],
@@ -1827,7 +1827,7 @@
       "name": "Trained Archer",
       "properties": {
         "biom": [
-          "any"
+          
         ],
         "cr": "2",
         "fightingstyle": [
@@ -1857,7 +1857,7 @@
       "name": "Trained Archer",
       "properties": {
         "biom": [
-          "any"
+          
         ],
         "cr": "2",
         "fightingstyle": [
@@ -1887,7 +1887,7 @@
       "name": "Trained Archer",
       "properties": {
         "biom": [
-          "any"
+          
         ],
         "cr": "2",
         "fightingstyle": [
@@ -1917,7 +1917,7 @@
       "name": "Vampire Spawn",
       "properties": {
         "biom": [
-          "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground", "desert"
+          "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "Civilized", "wasteland", "underground", "desert"
         ],
         "cr": "5",
         "fightingstyle": [
@@ -1947,7 +1947,7 @@
       "name": "Vampire Spawn",
       "properties": {
         "biom": [
-          "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground", "desert"
+          "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "Civilized", "wasteland", "underground", "desert"
         ],
         "cr": "5",
         "fightingstyle": [
@@ -1977,7 +1977,7 @@
       "name": "Vampire Spawn",
       "properties": {
         "biom": [
-          "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground", "desert"
+          "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "Civilized", "wasteland", "underground", "desert"
         ],
         "cr": "5",
         "fightingstyle": [
@@ -2007,7 +2007,7 @@
       "name": "Vampire Spawn",
       "properties": {
         "biom": [
-          "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground", "desert"
+          "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "Civilized", "wasteland", "underground", "desert"
         ],
         "cr": "5",
         "fightingstyle": [
@@ -2037,7 +2037,7 @@
       "name": "Revenant Knight",
       "properties": {
         "biom": [
-          "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground"
+          "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "Civilized", "wasteland", "underground"
         ],
         "cr": "5",
         "fightingstyle": [
@@ -2067,7 +2067,7 @@
       "name": "Revenant Knight",
       "properties": {
         "biom": [
-          "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground"
+          "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "Civilized", "wasteland", "underground"
         ],
         "cr": "5",
         "fightingstyle": [
@@ -2097,7 +2097,7 @@
       "name": "Revenant Knight",
       "properties": {
         "biom": [
-          "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground"
+          "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "Civilized", "wasteland", "underground"
         ],
         "cr": "5",
         "fightingstyle": [
@@ -2127,7 +2127,7 @@
       "name": "Revenant Knight",
       "properties": {
         "biom": [
-          "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "civilised", "wasteland", "underground"
+          "dungeon", "ruins", "graves", "horror", "road", "wilderness", "lair", "Civilized", "wasteland", "underground"
         ],
         "cr": "5",
         "fightingstyle": [
@@ -2157,7 +2157,7 @@
       "name": "Unchained Armor",
       "properties": {
         "biom": [
-          "dungeon", "ruins", "graves", "horror", "lair", "civilised", "underground"
+          "dungeon", "ruins", "graves", "horror", "lair", "Civilized", "underground"
         ],
         "cr": "7",
         "fightingstyle": [
@@ -2187,7 +2187,7 @@
       "name": "Infernal Steed",
       "properties": {
         "biom": [
-          "graves", "horror", "forest", "civilised", "infernal", "road", "wilderness"
+          "graves", "horror", "forest", "Civilized", "infernal", "road", "wilderness"
         ],
         "cr": "4",
         "fightingstyle": [
@@ -2217,7 +2217,7 @@
       "name": "Infernal Steed",
       "properties": {
         "biom": [
-          "graves", "horror", "forest", "civilised", "infernal", "road", "wilderness"
+          "graves", "horror", "forest", "Civilized", "infernal", "road", "wilderness"
         ],
         "cr": "4",
         "fightingstyle": [
@@ -2247,7 +2247,7 @@
       "name": "Infernal Steed",
       "properties": {
         "biom": [
-          "graves", "horror", "forest", "civilised", "infernal", "road", "wilderness"
+          "graves", "horror", "forest", "Civilized", "infernal", "road", "wilderness"
         ],
         "cr": "4",
         "fightingstyle": [
@@ -2277,7 +2277,7 @@
       "name": "Infernal Steed",
       "properties": {
         "biom": [
-           "graves", "horror", "forest", "civilised", "infernal", "road", "wilderness"
+           "graves", "horror", "forest", "Civilized", "infernal", "road", "wilderness"
         ],
         "cr": "4",
         "fightingstyle": [
@@ -2307,7 +2307,7 @@
       "name": "Commoner Male Worker",
       "properties": {
         "biom": [
-          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city" 
+          "Civilized", "forest", "road", "desert", "Mountain", "Coast", "tavern", "sacral", "city" 
         ],
         "cr": "0.25",
         "fightingstyle": [
@@ -2337,7 +2337,7 @@
       "name": "Commoner Male Merchant",
       "properties": {
         "biom": [
-          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
+          "Civilized", "forest", "road", "desert", "Mountain", "Coast", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
@@ -2367,7 +2367,7 @@
       "name": "Commoner Male Beggar",
       "properties": {
         "biom": [
-          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
+          "Civilized", "forest", "road", "desert", "Mountain", "Coast", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
@@ -2397,7 +2397,7 @@
       "name": "Commoner Male Priest",
       "properties": {
         "biom": [
-          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral","city" 
+          "Civilized", "forest", "road", "desert", "Mountain", "Coast", "tavern", "sacral","city" 
         ],
         "cr": "0.25",
         "fightingstyle": [
@@ -2427,7 +2427,7 @@
       "name": "Commoner Male Peasant",
       "properties": {
         "biom": [
-          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
+          "Civilized", "forest", "road", "desert", "Mountain", "Coast", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
@@ -2457,7 +2457,7 @@
       "name": "Commoner Male Peasant",
       "properties": {
         "biom": [
-          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
+          "Civilized", "forest", "road", "desert", "Mountain", "Coast", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
@@ -2487,7 +2487,7 @@
       "name": "Commoner Male",
       "properties": {
         "biom": [
-          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
+          "Civilized", "forest", "road", "desert", "Mountain", "Coast", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
@@ -2517,7 +2517,7 @@
       "name": "Commoner Male Noble",
       "properties": {
         "biom": [
-          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
+          "Civilized", "forest", "road", "desert", "Mountain", "Coast", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
@@ -2547,7 +2547,7 @@
       "name": "Commoner Male Noble",
       "properties": {
         "biom": [
-          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
+          "Civilized", "forest", "road", "desert", "Mountain", "Coast", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
@@ -2577,7 +2577,7 @@
       "name": "Commoner Female Priest",
       "properties": {
         "biom": [
-          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
+          "Civilized", "forest", "road", "desert", "Mountain", "Coast", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
@@ -2607,7 +2607,7 @@
       "name": "Commoner Female Worker",
       "properties": {
         "biom": [
-          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
+          "Civilized", "forest", "road", "desert", "Mountain", "Coast", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
@@ -2637,7 +2637,7 @@
       "name": "Commoner Female Herbalist",
       "properties": {
         "biom": [
-          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
+          "Civilized", "forest", "road", "desert", "Mountain", "Coast", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
@@ -2667,7 +2667,7 @@
       "name": "Commoner Female Old",
       "properties": {
         "biom": [
-          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
+          "Civilized", "forest", "road", "desert", "Mountain", "Coast", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
@@ -2697,7 +2697,7 @@
       "name": "Commoner Female Noble",
       "properties": {
         "biom": [
-          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city" 
+          "Civilized", "forest", "road", "desert", "Mountain", "Coast", "tavern", "sacral", "city" 
         ],
         "cr": "0.25",
         "fightingstyle": [
@@ -2727,7 +2727,7 @@
       "name": "Commoner Female Noble",
       "properties": {
         "biom": [
-          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
+          "Civilized", "forest", "road", "desert", "Mountain", "Coast", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
@@ -2757,7 +2757,7 @@
       "name": "Commoner Female Maid",
       "properties": {
         "biom": [
-          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
+          "Civilized", "forest", "road", "desert", "Mountain", "Coast", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
@@ -2787,7 +2787,7 @@
       "name": "Commoner Female Mother",
       "properties": {
         "biom": [
-          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
+          "Civilized", "forest", "road", "desert", "Mountain", "Coast", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
@@ -2817,7 +2817,7 @@
       "name": "Commoner Female",
       "properties": {
         "biom": [
-          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
+          "Civilized", "forest", "road", "desert", "Mountain", "Coast", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
@@ -2847,14 +2847,14 @@
       "name": "Commoner Female Peasant",
       "properties": {
         "biom": [
-          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern", "sacral", "city"
+          "Civilized", "forest", "road", "desert", "Mountain", "Coast", "tavern", "sacral", "city"
         ],
         "cr": "0.25",
         "fightingstyle": [
           "simple"
         ],
         "movement": ["walk"],
-        "purpose": ["minion", "idle"],
+        "purpose": ["minion", "ally"],
         "releaseurl": "https://www.patreon.com/posts/huge-commoner-58412129",
         "size": "medium",
 		"stat_ac": 7,
@@ -2877,7 +2877,7 @@
       "name": "Swarm of Vampire Bats",
       "properties": {
         "biom": [
-          "civilised", "forest", "road", "desert", "mountains", "coastal", "tavern","city", "ruins", "graves", "dungeon", "horror", "wilderness", "lair", "wasteland", "underground"
+          "Civilized", "forest", "road", "desert", "Mountain", "Coast", "tavern","city", "ruins", "graves", "dungeon", "horror", "wilderness", "lair", "wasteland", "underground"
         ],
         "cr": "3",
         "fightingstyle": [
@@ -2907,7 +2907,7 @@
       "name": "Night Hag",
       "properties": {
         "biom": [
-          "dungeon", "lair", "graves", "ruins", "horror", "wilderness", "forest", "mountains", "coastal", "wasteland", "road", "planar"
+          "dungeon", "lair", "graves", "ruins", "horror", "wilderness", "forest", "Mountain", "Coast", "wasteland", "road", "planar"
         ],
         "cr": "6",
         "fightingstyle": [
@@ -2937,7 +2937,7 @@
       "name": "Night Hag",
       "properties": {
         "biom": [
-           "dungeon", "lair", "graves", "ruins", "horror", "wilderness", "forest", "mountains", "coastal", "wasteland", "road", "planar"
+           "dungeon", "lair", "graves", "ruins", "horror", "wilderness", "forest", "Mountain", "Coast", "wasteland", "road", "planar"
         ],
         "cr": "6",
         "fightingstyle": [
@@ -2967,7 +2967,7 @@
       "name": "Night Hag",
       "properties": {
         "biom": [
-           "dungeon", "lair", "graves", "ruins", "horror", "wilderness", "forest", "mountains", "coastal", "wasteland", "road", "planar"
+           "dungeon", "lair", "graves", "ruins", "horror", "wilderness", "forest", "Mountain", "Coast", "wasteland", "road", "planar"
         ],
         "cr": "6",
         "fightingstyle": [
@@ -2997,7 +2997,7 @@
       "name": "Yeti",
       "properties": {
         "biom": [
-          "mountains", "wilderness", "forest", "wasteland"
+          "Mountain", "wilderness", "forest", "wasteland"
         ],
         "cr": "9",
         "fightingstyle": [
@@ -3027,7 +3027,7 @@
       "name": "Wartroll",
       "properties": {
         "biom": [
-          "dungeon", "ruins", "wilderness", "wasteland", "forest", "civilised", "road", "mountains", "desert", "underground"
+          "dungeon", "ruins", "wilderness", "wasteland", "forest", "Civilized", "road", "Mountain", "desert", "underground"
         ],
         "cr": "8",
         "fightingstyle": [
@@ -3057,7 +3057,7 @@
       "name": "Roc",
       "properties": {
         "biom": [
-          "mountains", "desert", "forest", "wilderness", "lair", "wasteland", "road", "coastal", "ocean"
+          "Mountain", "desert", "forest", "wilderness", "lair", "wasteland", "road", "Coast", "ocean"
         ],
         "cr": "11",
         "fightingstyle": [
@@ -3087,7 +3087,7 @@
       "name": "Winter Empress",
       "properties": {
         "biom": [
-          "planar", "lair", "civilised", "mountains"
+          "planar", "lair", "Civilized", "Mountain"
         ],
         "cr": "16",
         "fightingstyle": [
@@ -3117,7 +3117,7 @@
       "name": "Winter Empress Armored",
       "properties": {
         "biom": [
-            "planar", "lair", "civilised", "mountains"
+            "planar", "lair", "Civilized", "Mountain"
         ],
         "cr": "16",
         "fightingstyle": [
@@ -3147,7 +3147,7 @@
       "name": "Royal Griffon",
       "properties": {
         "biom": [
-          "wilderness", "civilised", "forest", "wasteland", "road", "desert", "mountains", "Coastal"
+          "wilderness", "Civilized", "forest", "wasteland", "road", "desert", "Mountain", "Coast"
         ],
         "cr": "3",
         "fightingstyle": [
@@ -3177,11 +3177,11 @@
       "name": "Arcane Incursor",
       "properties": {
         "biom": [
-          "dungeon", "ruins", "city", "horror", "planar", "abyssal", "civilised"
+          "dungeon", "ruins", "city", "horror", "planar", "abyssal", "Civilized"
         ],
         "cr": "5",
         "fightingstyle": [
-          "predator", "ambusher"
+          "predator", "Ambush"
         ],
         "movement": ["walk", "climb"],
         "purpose": ["anti caster", "hunter"],
@@ -3207,7 +3207,7 @@
       "name": "Elder Curseroot",
       "properties": {
         "biom": [
-          "forest", "wilderness", "planar", "mountains"
+          "forest", "wilderness", "planar", "Mountain"
         ],
         "cr": "7",
         "fightingstyle": [
@@ -3236,9 +3236,7 @@
       "description": "The Debt Collectors are operatives of the Ossian Bank, tasked with tracking and retrieving especially elusive debtors. Despite their harrowing appearance, Ossian Debt Collectors are courteous and sophisticated negotiators, blessed with the endless patience of the undead and prodigious language skills. When approaching a debtor, they initially aim on settling things amicably, politely asking the transient debtor to accompany them to the Ossian Bank to stand before the Tribunal. When met with unreasonableness or hostility, the Debt Collectors begrudgingly change tactics in favour of more direct means of apprehension. It is unclear if their skeletal appearance reflects a Collector's true being or if it only appears as such to their targets, combining two of the things mortals fear most: death and tax collectors.",
       "name": "Ossian Debt Collector",
       "properties": {
-        "biom": [
-          "any"
-        ],
+        "biom": [],
         "cr": "7",
         "fightingstyle": [
           "tactical", "interactive", "demanding"
@@ -3267,7 +3265,7 @@
       "name": "Elephant",
       "properties": {
         "biom": [
-          "wilderness", "forest", "wasteland", "desert", "coastal", "desert", "civilised"
+          "wilderness", "forest", "wasteland", "desert", "Coast", "desert", "Civilized"
         ],
         "cr": "5",
         "fightingstyle": [
@@ -3297,7 +3295,7 @@
       "name": "Mournbride",
       "properties": {
         "biom": [
-          "horror", "civilised", "ruins", "dungeon", "city", "graves"
+          "horror", "Civilized", "ruins", "dungeon", "city", "graves"
         ],
         "cr": "4",
         "fightingstyle": [
@@ -3327,7 +3325,7 @@
       "name": "Mind Golem",
       "properties": {
         "biom": [
-          "civilised", "city", "dungeon", "horror", "road", "lair"
+          "Civilized", "city", "dungeon", "horror", "road", "lair"
         ],
         "cr": "16",
         "fightingstyle": [
@@ -3357,7 +3355,7 @@
       "name": "Amygdalyan",
       "properties": {
         "biom": [
-          "horror", "planar", "dungeon", "dungeon", "civilised", "city", "lair"
+          "horror", "planar", "dungeon", "dungeon", "Civilized", "city", "lair"
         ],
         "cr": "7",
         "fightingstyle": [
@@ -3387,11 +3385,11 @@
       "name": "Shattermaw",
       "properties": {
         "biom": [
-          "coastal", "wilderness", "forest","lair", "dungeon", "desert", "wasteland"
+          "Coast", "wilderness", "forest","lair", "dungeon", "desert", "wasteland"
         ],
         "cr": "9",
         "fightingstyle": [
-          "ambusher", "simple"
+          "Ambush", "simple"
         ],
         "movement": ["walk"],
         "purpose": ["damage", "tank"],
@@ -3415,7 +3413,7 @@
       "name": "Garghoul",
       "properties": {
         "biom": [
-          "dungeon", "graves", "horror", "wilderness", "road", "forest", "civilised", "city", "underground", "wasteland"
+          "dungeon", "graves", "horror", "wilderness", "road", "forest", "Civilized", "city", "underground", "wasteland"
         ],
         "cr": "3",
         "fightingstyle": [
@@ -3445,11 +3443,11 @@
       "name": "Swifttalon Raptor",
       "properties": {
         "biom": [
-          "wilderness", "wasteland","forest", "road", "desert", "coastal"
+          "wilderness", "wasteland","forest", "road", "desert", "Coast"
         ],
         "cr": "2",
         "fightingstyle": [
-          "pack", "ambusher", "melee"
+          "pack", "Ambush", "melee"
         ],
         "movement": ["walk"],
         "purpose": ["damage","hunter"],
@@ -3475,7 +3473,7 @@
       "name": "Stormwyvern",
       "properties": {
         "biom": [
-          "wilderness", "lair", "wasteland", "mountains", "forest", "road", "desert", "coastal"
+          "wilderness", "lair", "wasteland", "Mountain", "forest", "road", "desert", "Coast"
         ],
         "cr": "7",
         "fightingstyle": [
@@ -3505,7 +3503,7 @@
       "name": "Poisonfang",
       "properties": {
         "biom": [
-          "forest", "civilised", "city", "dungeon", "ruins", "Sacral", "wilderness", "road"
+          "forest", "Civilized", "city", "dungeon", "ruins", "Sacral", "wilderness", "road"
         ],
         "cr": "5",
         "fightingstyle": [
@@ -3525,7 +3523,7 @@
         "stat_wis": 14,
         "thumbnail": "049_poisonfang-idle_face_still.webp",
         "type": [
-			"humanoid", "shapeshifter"
+			"humanoid", "Shapechanger"
         ],
         "videourl": "https://youtu.be/hOridEWNlvE"
       }
@@ -3535,7 +3533,7 @@
       "name": "Amber Idol",
       "properties": {
         "biom": [
-          "dungeon", "ruins", "graves", "Sacral", "civilised", "underground"
+          "dungeon", "ruins", "graves", "Sacral", "Civilized", "underground"
         ],
         "cr": "10",
         "fightingstyle": [
@@ -3775,7 +3773,7 @@
       "name": "Klabautermann",
       "properties": {
         "biom": [
-          "ocean", "coastal"
+          "ocean", "Coast"
         ],
         "cr": "7",
         "fightingstyle": [
@@ -3805,7 +3803,7 @@
       "name": "Sword Guardian",
       "properties": {
         "biom": [
-          "civilised", "city", "dungeon", "road"
+          "Civilized", "city", "dungeon", "road"
         ],
         "cr": "7",
         "fightingstyle": [
@@ -3891,7 +3889,7 @@
       "description": "Gladiators are grouped into different types, varying heavily in both fighting style and equipment. Certain types of Gladiator exclusively fight their respective counterpart, each fight resembling a deadly choreography studied to perfection. Retiarius and Murmillo exclusively duel each other, both of their skills honed to overcome the other. The Retiarius is a flink-footed and more lightly armoured fighter who nimbly evades their more heavily armoured opponent, only to artfully entangle them with their net and set up the perfect thrust from their trident.",
       "name": "Gladiator Retiarius",
       "properties": {
-        "biom": ["city", "civilised" ],
+        "biom": ["city", "Civilized" ],
         "cr": "5",
         "fightingstyle": ["melee", "tactical"],
         "movement": ["walk"],
@@ -3918,7 +3916,7 @@
       "description": "The brutish Murmillo however is recruited from the ranks of the most steadfast fighters, almost impossible to topple and capable of withstanding tremendous punishment. Both are evenly matched and capable of holding the audience's attention with their taunts and flourishes, their signature maneuvers and lethal finishers.",
       "name": "Gladiator Murmillo",
       "properties": {
-        "biom": ["city", "civilised" ],
+        "biom": ["city", "Civilized" ],
         "cr": "5",
         "fightingstyle": ["melee", "tactical"],
         "movement": ["walk"],
@@ -3945,7 +3943,7 @@
       "description": "The Dimachaerus is the diva of the arena, a master duelist who captivates the audience with artistic bladework and dizzying acrobatics. Fluidly switching between offensive and defensive fighting styles, the Dimachaerus prides themself on their ability to face any opponent, capable of outmaneuvering both the nimble Retiarius and outfighting the towering Murmillo. But a Dimachaerus balances on a knife's edge, any misstep in their complex choreography will be punished by their opponents - and the fickle audience, its favour as easily withdrawn as it is granted.",
       "name": "Gladiator Dimachaerus",
       "properties": {
-        "biom": ["city", "civilised" ],
+        "biom": ["city", "Civilized" ],
         "cr": "5",
         "fightingstyle": ["melee", "tactical"],
         "movement": ["walk"],
@@ -3989,8 +3987,7 @@
         "stat_wis": 5,
         "thumbnail": "060_crazed_reaper-idle_face_still.webp",
         "type": [
-          "monstrosity",
-          ""
+          "monstrosity"
         ],
         "videourl": "https://youtu.be/bbpvjBR3aqs"
     }
@@ -4026,7 +4023,7 @@
       "description": "Abominations are born from accursed breeding pits using forbidden biomancy, heretical alchemical formulae and mutagens harvested from countless monstrosities. Each Abomination comes out differently, as the primordial soup filling the pits is ever shifting in its makeup and consistency, but they all have an inherited hate for this cruel world that birthed them. Impervious to pain and unable to form complex thoughts, it is a living weapon capable of unfathomable destruction. A weapon wielded by Pit Broodmasters, a caste dedicated to training and bonding with the towering abominations, feeding their hate and driving them into combat, annihilating everything in their path.",
       "name": "Pit Abomination",
       "properties": {
-        "biom": [ "wilderness", "road", "dungeon", "wasteland", "civilised" , "city" ],
+        "biom": [ "wilderness", "road", "dungeon", "wasteland", "Civilized" , "city" ],
         "cr": "19",
         "fightingstyle": ["aoe", "melee", "lethal"],
         "movement": ["walk"],
@@ -4043,8 +4040,7 @@
         "stat_wis": 12,
         "thumbnail": "062_pit_abomination-idle_face_still.webp",
         "type": [
-          "monstrosity",
-          ""
+          "monstrosity"
         ],
         "videourl": "https://youtu.be/kbcMNESZB-s"
 	  }
@@ -4053,7 +4049,7 @@
       "description": "They themselves tainted by the vile alchemy and mutagens of the Breeding Pits, Broodmasters tear the pit spawn from their birthing sacs and beat their will into the mewling creature. What follows is an inhuman regiment of subjugation and conditioning, to form the pit spawn into an unfeeling instrument of war. The most vile creature birthed from the pits is the Abomination, a chimeric monstrosity combining traits from countless creatures into a looming behemoth capable of unfathomable destruction. These war-beasts are herded into slaughter by the Broodmasters, controlled by secret drugs and techniques only known to initiatives to their corrupted caste.",
       "name": "Pit Broodmaster",
       "properties": {
-        "biom": [ "wilderness", "road", "dungeon", "wasteland", "civilised" , "city" ],
+        "biom": [ "wilderness", "road", "dungeon", "wasteland", "Civilized" , "city" ],
         "cr": "2",
         "fightingstyle": ["simple", "interactive"],
         "movement": ["walk"],
@@ -4080,7 +4076,7 @@
       "description": "Beckoning Devil's are favoured courtiers of the Father of Lies, one of the ruling Devils of the Nine Hells. With their seductive and corrupting powers, they seek to gain control over groups of powerful individuals to drive them into ruin, only to finally offer them salvation in their Lord's service. They possess a malign intelligence and relish their dark purpose, drawing great pleasure from the hunt. Once fixated on future servants worthy of their Lord, Beckoning Devils are relentless stalkers, quickly forcing their prey to question their sanity, as their paranoia swells and memories become unreliable. Those dominated by the Devil they are finally forced to commit harrowing atrocities, until they are left with no choice but to bow their knee to the dark patron of Lies. ",
       "name": "Beckoning Devil",
       "properties": {
-        "biom": [ "wilderness", "road", "dungeon", "infernal", "city", "civilised", "lair", "planar", "underground", "dungeon", "ruins", "horror" ],
+        "biom": [ "wilderness", "road", "dungeon", "infernal", "city", "Civilized", "lair", "planar", "underground", "dungeon", "ruins", "horror" ],
         "cr": "9",
         "fightingstyle": ["tactical", "spellcasting","predator"],
         "movement": ["walk"],
@@ -4099,7 +4095,6 @@
         "type": [
           "fiend",
 		  "devil"
-		  
 		  ],
 		  "videourl": "https://youtu.be/kbcMNESZB-s"
     }
@@ -4108,7 +4103,7 @@
       "description": "The unusual beings dubbed Grey Pilgrims wander the realms in search for enlightenment, be it in solitude, be it accompanied by disciples or mentors of their own choosing. Each of them has been given form by divine hands, created to study as much as to teach. They continuously reflect on the principles of divinity, the cosmos and the nature of mortality, each Pilgrim eventually reaching their own conclusion, before imparting their knowledge unto worthy souls and returning to the side of their creator. While on their journey, they go out of their way to inspire the ambition and resolve of those burdened by strife and suffering..",
       "name": "Grey Pilgrim",
       "properties": {
-        "biom": [ "wilderness", "road", "dungeon", "city", "civilised", "planar", "underground", "dungeon", "ruins", "sacral", "mountains"],
+        "biom": [ "wilderness", "road", "dungeon", "city", "Civilized", "planar", "underground", "dungeon", "ruins", "sacral", "Mountain"],
         "cr": "5",
         "fightingstyle": ["melee", "interactive"],
         "movement": ["walk"],
@@ -4125,8 +4120,7 @@
         "stat_wis": 18,
         "thumbnail": "064_grey_pilgrim-idle_face_still.webp",
         "type": [
-          "celestial",
-          ""
+          "celestial"
         ],
         "videourl": "https://youtu.be/5v93EdOJRJs"
 	 }
@@ -4135,7 +4129,7 @@
       "description": "Kings and Queens, Hierophants and Arch-Bishops, Emperors and Empresses - these sovereigns dare not resting their wellbeing on the meek shoulders of regular guards or hired mercenaries. A true sovereign requires an elite guard, drilled fighters of supreme ability and mental strength, eager to continously prove their worth and unwavering loyalty. The Sovereign's Guard represent an elite cadre of bodyguards and combat specialists, well versed in both protecting their liege or carrying out special tasks all over the realm.",
       "name": "Sovereign's Guard",
       "properties": {
-        "biom": ["road", "city", "civilised", "sacral" ],
+        "biom": ["road", "city", "Civilized", "sacral" ],
         "cr": "5",
         "fightingstyle": ["melee", "interactive"],
         "movement": ["walk"],
@@ -4152,8 +4146,7 @@
         "stat_wis": 16,
         "thumbnail": "065_sovereigns_guard-idle_face_still.webp",
         "type": [
-          "humanoid",
-          ""
+          "humanoid"
         ],
 		"videourl": "https://youtu.be/FrLIeuyCNwU"
 
@@ -4244,7 +4237,7 @@
       "description": "Skinchangers come in any shape or size and even the cause of their transformation differs - be it affliction of body or mind, a curse, possession or even a blessing. The transformation into a Wereboar, however, seldom is anything but a curse, one reserved mostly for gluttonous and vulgar individuals, whose porcine characteristics where apparent even before their body took a shape their mind had already taken. Wereboars are boorish and brutish, bulky and barrelchested slabs of pure muscle, held together by a thick hide. But their cunning is not to be unterestimated and many would-be slayers fell to the goring tusks of a Wereboar after failing to discern the sparks of malign intellect within their deep-set eyes.",
       "name": "Wereboar",
       "properties": {
-        "biom": ["wilderness", "dungeon", "road", "mountains", "forest", "wasteland", "tavern", "civilised", "city"],
+        "biom": ["wilderness", "dungeon", "road", "Mountain", "forest", "wasteland", "tavern", "Civilized", "city"],
         "cr": "4",
         "fightingstyle": ["melee", "charge"],
         "movement": ["walk"],
@@ -4271,7 +4264,7 @@
       "description": "Like all of their infernal kindred, Dollmaker Devils relish in the seduction and eventual corruption of mortal souls. They take s rather direct approach, using their cursed touch to turn their victims into paralyzed dolls and binding them via infernal threads, entangling a creature's very soul. This allows the Devil to take on the role of a perverse puppeteer, controlling a creatures immediate actions by tugging the right strings or even ending their life with a swift severing of the threads. Dollmakers are craven creatures, relying on networks of worshippers or debtors to protect it, while it stalks nightly streets for fresh dolls.",
       "name": "Dollmaker Devil",
       "properties": {
-        "biom": ["wilderness", "dungeon", "road", "planar", "infernal", "ruins", "abyssal", "city", "lair", "horror", "civilised"],
+        "biom": ["wilderness", "dungeon", "road", "planar", "infernal", "ruins", "abyssal", "city", "lair", "horror", "Civilized"],
         "cr": "7",
         "fightingstyle": ["demanding", "lethal"],
         "movement": ["walk"],
@@ -4298,7 +4291,7 @@
       "description": "Automated sentries were first utilized during a great exhibition showcasing different proofs of concept concerning the development of techno-arcane automata. These prototypes were expanded upon by military scientists and now serve as sentries and boarding repellents on various airships throughout the realms. Their armaments consist of heavy boarding axes, short-ranged ocular beams and advanced kinetic shielding, all powered by a miniature techno-arcane reactor. These sentries are able to activate a magnetic field, allowing them to safely battle any threats while being mag-locked to an airship's metal hull. Gunner variants are also known to operate the heavy Thunderstrike Pattern Airship Cannons utilized by great military airships, such as the Dawn Emperor and Storm Herald class.",
       "name": "Airship Sentry Automaton",
       "properties": {
-        "biom": ["city", "civilised", "futuristic"],
+        "biom": ["city", "Civilized", "futuristic"],
         "cr": "1",
         "fightingstyle": ["melee", "pack"],
         "movement": ["walk"],
@@ -4315,8 +4308,7 @@
         "stat_wis": 11,
         "thumbnail": "070_airship_sentry_automaton-idle_face_still.webp",
         "type": [
-          "construct",
-          ""
+          "construct"
         ],
         "videourl": "https://youtu.be/sCv7D-KVmNY"
     }
@@ -4325,7 +4317,7 @@
       "description": "Blade Slaves are living weapons created by the dozens and hundreds, prisoners, heretics and other undesirables with their body and mind broken by confinement and torture. They now only crave the kiss of the blade, living vicariously through both the pain they suffer and the pain they inflict upon others. They are utilized by Ecclesiarchs and Inquisitors, driven before them as a showing of ruthlessness and intimidaton or unleashed from their mobile confines as shock troops, overwhelming their master's enemies as a cackling and foaming wave of bodies and blades.",
       "name": "Blade Slave",
       "properties": {
-        "biom": ["city", "civilised", "road", "dungeon", "sacral"],
+        "biom": ["city", "Civilized", "road", "dungeon", "sacral"],
         "cr": "2",
         "fightingstyle": ["melee", "charge"],
         "movement": ["walk"],
@@ -4342,8 +4334,7 @@
         "stat_wis": 7,
         "thumbnail": "071_blade_slave-idle_face_still.webp",
         "type": [
-          "humanoid",
-          ""
+          "humanoid"
         ],
         "videourl": "https://youtu.be/rkrv9SuuwUc"
     }
@@ -4352,7 +4343,7 @@
       "description": "Equipped with experimental techno-arcane Slipstream Generators, Phaseknives are an elite cadre of operatives specialised in high-risk assassinations that require pinpoint accuracy and leave no room for errors. Seamlessly phasing in and out of a subspace corridor dubbed the Slipstream, they effortlessly outmaneuver and overwhelm conventional defenses and deliver a perfect killing strike. Traditionally, Phaseknives work in pairs to ensure the mission's success, coordinating their unpredictable attacks at a breackneck pace, relying on speed and accuracy honed to perfection to carry out their missions.",
       "name": "Slipstream Phaseknife",
       "properties": {
-        "biom": ["futuristic", "city", "civilised", "road", "lair", "planar"],
+        "biom": ["futuristic", "city", "Civilized", "road", "lair", "planar"],
         "cr": "6",
         "fightingstyle": ["tactical", "shock"],
         "movement": ["walk"],
@@ -4369,8 +4360,7 @@
         "stat_wis": 14,
         "thumbnail": "072_slipstream_phaseknife-idle_face_still.webp",
         "type": [
-          "humanoid",
-          ""
+          "humanoid"
         ],
         "videourl": "https://youtu.be/velOgWHJjDw"
     }
@@ -4396,8 +4386,7 @@
         "stat_wis": 10,
         "thumbnail": "073_gorgeleaper-idle_face_still.webp",
         "type": [
-          "monstrosity",
-          ""
+          "monstrosity"
         ],
         "videourl": "https://youtu.be/x8uCc5_Pl10"
     }
@@ -4423,8 +4412,7 @@
         "stat_wis": 10,
         "thumbnail": "073_gorgeleaper_01-idle_face_still.webp",
         "type": [
-          "monstrosity",
-          ""
+          "monstrosity"
         ],
         "videourl": "https://youtu.be/x8uCc5_Pl10"
     }
@@ -4450,8 +4438,7 @@
         "stat_wis": 10,
         "thumbnail": "073_gorgeleaper_03-idle_face_still.webp",
         "type": [
-          "monstrosity",
-          ""
+          "monstrosity"
         ],
         "videourl": "https://youtu.be/x8uCc5_Pl10"
     }
@@ -4477,8 +4464,7 @@
         "stat_wis": 10,
         "thumbnail": "073_gorgeleaper_02-idle_face_still.webp",
         "type": [
-          "monstrosity",
-          ""
+          "monstrosity"
         ],
         "videourl": "https://youtu.be/x8uCc5_Pl10"
     }
@@ -4504,8 +4490,7 @@
         "stat_wis": 6,
         "thumbnail": "074_undead_pikeman-idle_face_still.webp",
         "type": [
-          "undead",
-          ""
+          "undead"
         ],
         "videourl": "https://youtu.be/P32IgR3lN1U"
     }
@@ -4514,7 +4499,7 @@
       "description": "Due to government contracts, the (traditionally dwarven) members of the great Powder Guilds, those organisations authorized to research and develop mechanical firearms, are also utilized as a well-trained militia, often requiring mandatory service escorting the great Trade Fleets trawling the great Archipelago. This leaves many guild members with first-hand combat experience and some will stay within the military branch of the guilds, choosing the life of an Artillerist over that of an Artisan. They serve with a deep understanding of their craft, burning to further hone their skills as combat engineers, artillery and demolition specialists or expert marksmen. ",
       "name": "Guild Artillerist",
       "properties": {
-        "biom": ["civilised", "city", "wilderness", "coast", "road", "mountains"],
+        "biom": ["Civilized", "city", "wilderness", "Coast", "road", "Mountain"],
         "cr": "3",
         "fightingstyle": ["ranged", "interactive"],
         "movement": ["walk"],
@@ -4541,7 +4526,7 @@
       "description": "Seeing a Deathsworn fight is witnessing a ceremonial choreography, as they seamlessly weave their opponents into an intimate dance of death. Deathsworn exhibit great respect towards their enemies, going so far as to carry the ritually cleaned and hallowed skulls of particularly worthy opponents alongside of those of their closest kin - signifying their bond forged in battle, either on equal or opposing sides. The certainty of their own death is meaningless to a Deathsworn, as they resign to it each time they take up their spear and shroud their face with the Sho’ufa, expressing their resolve to kill and die honorably in the eyes of their ancestors.",
       "name": "Deathsworn",
       "properties": {
-        "biom": ["civilised", "city", "wilderness","road", "mountains", "desert", "ruins"],
+        "biom": ["Civilized", "city", "wilderness","road", "Mountain", "desert", "ruins"],
         "cr": "5",
         "fightingstyle": ["charge", "interactive"],
         "movement": ["walk"],
@@ -4585,8 +4570,7 @@
         "stat_wis": 16,
         "thumbnail": "077_necromancer-idle_face_still.webp",
         "type": [
-          "humanoid",
-          ""
+          "humanoid"
         ],
         "videourl": "https://youtu.be/HwcT3rgZPrM"
     }
@@ -4595,7 +4579,7 @@
       "description": "Circuitslaves are burned-out husks powered by the abyssal energies of the Netherstorm. Through the shapeless Necrovolt, a being of sentient lightning accidentally created and worshipped by the Reanimator Conclaves, they are connected to their masters in a cursed circuit, living lightning coursing continously coursing through them. They eternally hunger for more energy, seeking out living creatures to drain their bodies of it.",
       "name": "Necrovolt Circuitslave",
       "properties": {
-        "biom": ["ruins", "dungeon", "lair", "city", "civilised", "horror", "graves"],
+        "biom": ["ruins", "dungeon", "lair", "city", "Civilized", "horror", "graves"],
         "cr": "1",
         "fightingstyle": ["melee", "pack"],
         "movement": ["walk"],
@@ -4612,8 +4596,7 @@
         "stat_wis": 16,
         "thumbnail": "078_necrovolt_circuitslave-idle_face_still.webp",
         "type": [
-          "undead",
-          ""
+          "undead"
         ],
         "videourl": "https://youtu.be/3gbegLEP7h0"
     }
@@ -4622,7 +4605,7 @@
       "description": "The Necrovolt Reanimators are a conclave of deranged scientists who discovered the abyssal Netherstorm, a sentient tempest of howling souls, charged with cracking aether-lightning. Reanimators harness the Netherstorm’s boundless energy with their Necrovoltaic Generators, using it to power various nightmarish machineries and undead constructs. Over time fanatical members of the Reanimator Conclave seemingly discerned sentience within their own devices, remnants of the soul-lightning powering them. This ghost in the machine was dubbed the Necrovolt, a being of unliving lightning made manifest.",
       "name": "Necrovolt Reanimator",
       "properties": {
-        "biom": ["ruins", "dungeon", "lair", "city", "civilised", "horror", "graves"],
+        "biom": ["ruins", "dungeon", "lair", "city", "Civilized", "horror", "graves"],
         "cr": "9",
         "fightingstyle": ["demanding", "aoe"],
         "movement": ["walk"],
@@ -4639,8 +4622,7 @@
         "stat_wis": 16,
         "thumbnail": "078_necrovolt_reanimator-idle_face_still.webp",
         "type": [
-          "humanoid",
-          ""
+          "humanoid"
         ],
         "videourl": "https://youtu.be/3gbegLEP7h0"
 	}	
@@ -4666,8 +4648,7 @@
         "stat_wis": 10,
         "thumbnail": "079_mummy-idle_face_still.webp",
         "type": [
-          "undead",
-          ""
+          "undead"
         ],
         "videourl": "https://youtu.be/eGQadVHAZUo"
     }
@@ -4676,7 +4657,7 @@
       "description": "Ages ago, the great dragon Sharakhul fell victim to a hive of Mind Tyrants, a psionically gifted race of subterran conquerers and slavers. Seeking a new vessel for their abominable hive mind, they spend decades torturing the dragon into submission, bent on erasing his spirit, originally intent on leaving the body intact. But the great dragon resisted and as punishment they psychically flayed him, stripping away his indomitable scales and reducing his form to a mass of undulating flesh.His body flayed and defiled, his mind fractured in unmendable ways, the broken husk of Sharakhul rose from the depths and sought exile, pouring himself into foul methods of blood magic in a desperate attempt to mend his flesh and restore his scales",
       "name": "Sharakhul",
       "properties": {
-        "biom": ["ruins", "dungeon", "lair", "horror", "wilderness", "mountains", "wasteland"],
+        "biom": ["ruins", "dungeon", "lair", "horror", "wilderness", "Mountain", "wasteland"],
         "cr": "20",
         "fightingstyle": ["demanding", "lethal"],
         "movement": ["fly"],
@@ -4693,8 +4674,7 @@
         "stat_wis": 16,
         "thumbnail": "080_sharakhul-idle_face_still.webp",
         "type": [
-          "dragon",
-          ""
+          "dragon"
         ],
         "videourl": "https://youtu.be/dYtsdNRp5L8"
     }
@@ -4703,7 +4683,7 @@
       "description": "Crusaders are chosen warriors infused with holy purpose, traveling the lands to retrieve lost relics, protect priests and pilgrims or enact divine judgement against sworn enemies of their patron saint or deity. They are singular in devotion, trained in the arts of war from a young age and eager to prove their worthiness at any cost.",
       "name": "Crusader",
       "properties": {
-        "biom": ["ruins", "sacral", "city", "civilised", "road", "tavern"],
+        "biom": ["ruins", "sacral", "city", "Civilized", "road", "tavern"],
         "cr": "5",
         "fightingstyle": ["melee", "tactical"],
         "movement": ["walk"],
@@ -4720,8 +4700,7 @@
         "stat_wis": 14,
         "thumbnail": "081_crusader-idle_face_still.webp",
         "type": [
-          "humanoid",
-          ""
+          "humanoid"
         ],
         "videourl": "https://youtu.be/B1oOwbMlrDo"
 	  }	
@@ -4730,7 +4709,7 @@
       "description": "Shell-Sages wander the lands oblivious to possible danger, protected only by their trusty shell, sheer legendary luck and the hesitation of possible predators, as their would-be prey moves through their territory with confusing self-assuredness and tranquility. Shell-Sages owe their title to the habit of withdrawing into the safety of their eponymous shell, spending days and even weeks in deep contemplation, from which they they only awake due to the excitement experienced by stumbling upon especially profound insights. Wild animals or curious people are drawn to the shell, listening to the calming, mumbled utterances echoing from within the shell.",
       "name": "Shell Sage",
       "properties": {
-        "biom": ["road", "wilderness", "mountains", "civilised", "coast", "forest", "ocean", "desert", "tavern", "city"],
+        "biom": ["road", "wilderness", "Mountain", "Civilized", "Coast", "forest", "ocean", "desert", "tavern", "city"],
         "cr": "2",
         "fightingstyle": ["spellcasting", "tactical"],
         "movement": ["walk"],
@@ -4747,8 +4726,7 @@
         "stat_wis": 20,
         "thumbnail": "082_shell_sage-idle_face_still.webp",
         "type": [
-          "humanoid",
-          ""
+          "humanoid"
         ],
         "videourl": "https://youtu.be/JpJb0Tq_qro"
 	  }	
@@ -4757,7 +4735,7 @@
       "description": "The Hydra is an ancient nightmare given form, coiling serpent heads, their curved fangs dripping with lethal poison and a towering reptile body capable of moving with unsettling grace - there is nothing about the Hydra that does not evoke vivid imagery and primal fears whenever its name is whispered. Hydrae are dangerous to hunt, as even a mortally wounded beast might return after only days have passed and whole swathes of land have been put to the torch to drive such a monstrosity from its lair and finally put an end to it.",
       "name": "Hydra",
       "properties": {
-        "biom": ["ruins", "dungeon", "lair", "wilderness", "forest", "wasteland", "underground", "coastal", "ocean"],
+        "biom": ["ruins", "dungeon", "lair", "wilderness", "forest", "wasteland", "underground", "Coast", "ocean"],
         "cr": "15",
         "fightingstyle": ["lethal", "interactive", "demanding"],
         "movement": ["walk"],
@@ -4774,8 +4752,7 @@
         "stat_wis": 13,
         "thumbnail": "084_hydra-idle_face_still.webp",
         "type": [
-          "monstrosity",
-          ""
+          "monstrosity"
         ],
         "videourl": "https://youtu.be/zB4-ZgQPqrY"
     }
@@ -4784,9 +4761,9 @@
       "description": "It is unclear how exactly Mimics came to be. The leading theory proposes that a Wizard sought a way to secure his riches and enchanted a chest to simply make it come alive and eat intruders, which, knowing wizards, does not seem too far-fetched. How we ended up with the voracious ambush predators taking all manner of shapes or for ms still poses some unanswered questions. Similarly, unclear is how Mimics reproduce, even if the thought of pocket-sized chests with big eyes is delightful. Some theorize that Mimic eggs eerily resemble gold coins, allowing Mimics to mix their brood into the treasures they guard.",
       "name": "Mimic",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair"],
+        "biom": ["ruins", "dungeon", "Civilized", "city", "lair"],
         "cr": "3",
-        "fightingstyle": ["ambusher", "simple"],
+        "fightingstyle": ["Ambush", "simple"],
         "movement": ["Walk"],
         "purpose": ["gimmick"],
         "releaseurl": "https://www.patreon.com/posts/mimic-75057531",
@@ -4811,7 +4788,7 @@
       "description": "Aberrant Tyrants birth themselves into the Material Plane through their dreams and nightmares. Considering themselves the apex of creation, an Aberrant Tyrant’s worst nightmare is to be trapped in a world filled with inferior creatures. Due to the nature of the dreamlands beyond the veil, these nightmares are manifested, and the Tyrant is brought forth into the mundane world, where it promptly goes mad from the combined horrors of this experience and the utter contempt towards the vile inhabitants of this hellscape. Some Tyrants however dream of subjugating foreign worlds their inhabitants, only to wake up finally being able to do so. They are, however, no less insane.",
       "name": "Aberrant Tyrant",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness"],
+        "biom": ["ruins", "dungeon", "Civilized", "city", "lair", "wilderness"],
         "cr": "14",
         "fightingstyle": ["demanding", "lethal"],
         "movement": ["Fly"],
@@ -4828,8 +4805,7 @@
         "stat_wis": 15,
         "thumbnail": "085_aberrant_tyrant-idle_face_still.webp",
         "type": [
-          "aberration",
-          ""
+          "aberration"
         ],
         "videourl": "https://youtu.be/1fXYH0LBPtk"
     }
@@ -4838,7 +4814,7 @@
       "description": "Aberrant Tyrants birth themselves into the Material Plane through their dreams and nightmares. Considering themselves the apex of creation, an Aberrant Tyrant’s worst nightmare is to be trapped in a world filled with inferior creatures. Due to the nature of the dreamlands beyond the veil, these nightmares are manifested, and the Tyrant is brought forth into the mundane world, where it promptly goes mad from the combined horrors of this experience and the utter contempt towards the vile inhabitants of this hellscape. Some Tyrants however dream of subjugating foreign worlds their inhabitants, only to wake up finally being able to do so. They are, however, no less insane.",
       "name": "Aberrant Tyrant",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness"],
+        "biom": ["ruins", "dungeon", "Civilized", "city", "lair", "wilderness"],
         "cr": "14",
         "fightingstyle": ["demanding", "lethal"],
         "movement": ["Fly"],
@@ -4855,8 +4831,7 @@
         "stat_wis": 15,
         "thumbnail": "085_aberrant_tyrant_1-idle_face_still.webp",
         "type": [
-          "aberration",
-          ""
+          "aberration"
         ],
         "videourl": "https://youtu.be/1fXYH0LBPtk"
     }
@@ -4865,7 +4840,7 @@
       "description": "Aberrant Tyrants birth themselves into the Material Plane through their dreams and nightmares. Considering themselves the apex of creation, an Aberrant Tyrant’s worst nightmare is to be trapped in a world filled with inferior creatures. Due to the nature of the dreamlands beyond the veil, these nightmares are manifested, and the Tyrant is brought forth into the mundane world, where it promptly goes mad from the combined horrors of this experience and the utter contempt towards the vile inhabitants of this hellscape. Some Tyrants however dream of subjugating foreign worlds their inhabitants, only to wake up finally being able to do so. They are, however, no less insane.",
       "name": "Aberrant Tyrant",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness"],
+        "biom": ["ruins", "dungeon", "Civilized", "city", "lair", "wilderness"],
         "cr": "14",
         "fightingstyle": ["demanding", "lethal"],
         "movement": ["Fly"],
@@ -4882,8 +4857,7 @@
         "stat_wis": 15,
         "thumbnail": "085_aberrant_tyrant_2-idle_face_still.webp",
         "type": [
-          "aberration",
-          ""
+          "aberration"
         ],
         "videourl": "https://youtu.be/1fXYH0LBPtk"
     }
@@ -4892,7 +4866,7 @@
       "description": "Aberrant Tyrants birth themselves into the Material Plane through their dreams and nightmares. Considering themselves the apex of creation, an Aberrant Tyrant’s worst nightmare is to be trapped in a world filled with inferior creatures. Due to the nature of the dreamlands beyond the veil, these nightmares are manifested, and the Tyrant is brought forth into the mundane world, where it promptly goes mad from the combined horrors of this experience and the utter contempt towards the vile inhabitants of this hellscape. Some Tyrants however dream of subjugating foreign worlds their inhabitants, only to wake up finally being able to do so. They are, however, no less insane.",
       "name": "Aberrant Tyrant",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness"],
+        "biom": ["ruins", "dungeon", "Civilized", "city", "lair", "wilderness"],
         "cr": "14",
         "fightingstyle": ["demanding", "lethal"],
         "movement": ["Fly"],
@@ -4909,8 +4883,7 @@
         "stat_wis": 15,
         "thumbnail": "085_aberrant_tyrant_3-idle_face_still.webp",
         "type": [
-          "aberration",
-          ""
+          "aberration"
         ],
         "videourl": "https://youtu.be/1fXYH0LBPtk"
     }
@@ -4919,9 +4892,9 @@
       "description": "Crookshanks mark the rank and file of a Raid Rabble, both conscripted and willing participants of mixed age and skill. Most goblins are used to fight creatures larger than them and they make the most of it, trying to swarm enemies to bring them down, where their eponymous crooked blades are waiting. Goblins aren’t eager to die fighting, as each dead goblin weakens the tribe. This utilitarian view on survival has earned them a reputation of cowardice, but if Goblins commit to a fight, they do so without hesitation, fully aware of their mortality and knowing that their death will only empower the raid, as their Shaman draws great strength from them.",
       "name": "Goblin Crookshank",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "biom": ["ruins", "dungeon", "Civilized", "city", "lair", "wilderness","forest","road","wasteland","desert","Mountain","Coast"],
         "cr": "0,5",
-        "fightingstyle": ["ambusher","pack"],
+        "fightingstyle": ["Ambush","pack"],
         "movement": ["Walk"],
         "purpose": ["minion","damage"],
         "releaseurl": "https://beneos-battlemaps.com/products/beneos-tokens-goblin-pack-1",
@@ -4946,9 +4919,9 @@
       "description": "Crookshanks mark the rank and file of a Raid Rabble, both conscripted and willing participants of mixed age and skill. Most goblins are used to fight creatures larger than them and they make the most of it, trying to swarm enemies to bring them down, where their eponymous crooked blades are waiting. Goblins aren’t eager to die fighting, as each dead goblin weakens the tribe. This utilitarian view on survival has earned them a reputation of cowardice, but if Goblins commit to a fight, they do so without hesitation, fully aware of their mortality and knowing that their death will only empower the raid, as their Shaman draws great strength from them.",
       "name": "Goblin Crookshank",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "biom": ["ruins", "dungeon", "Civilized", "city", "lair", "wilderness","forest","road","wasteland","desert","Mountain","Coast"],
         "cr": "0,5",
-        "fightingstyle": ["ambusher","pack"],
+        "fightingstyle": ["Ambush","pack"],
         "movement": ["Walk"],
         "purpose": ["minion","damage"],
         "releaseurl": "https://beneos-battlemaps.com/products/beneos-tokens-goblin-pack-1",
@@ -4973,9 +4946,9 @@
       "description": "Crookshanks mark the rank and file of a Raid Rabble, both conscripted and willing participants of mixed age and skill. Most goblins are used to fight creatures larger than them and they make the most of it, trying to swarm enemies to bring them down, where their eponymous crooked blades are waiting. Goblins aren’t eager to die fighting, as each dead goblin weakens the tribe. This utilitarian view on survival has earned them a reputation of cowardice, but if Goblins commit to a fight, they do so without hesitation, fully aware of their mortality and knowing that their death will only empower the raid, as their Shaman draws great strength from them.",
       "name": "Goblin Crookshank",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "biom": ["ruins", "dungeon", "Civilized", "city", "lair", "wilderness","forest","road","wasteland","desert","Mountain","Coast"],
         "cr": "0,5",
-        "fightingstyle": ["ambusher","pack"],
+        "fightingstyle": ["Ambush","pack"],
         "movement": ["Walk"],
         "purpose": ["minion","damage"],
         "releaseurl": "https://beneos-battlemaps.com/products/beneos-tokens-goblin-pack-1",
@@ -5000,9 +4973,9 @@
       "description": "Crookshanks mark the rank and file of a Raid Rabble, both conscripted and willing participants of mixed age and skill. Most goblins are used to fight creatures larger than them and they make the most of it, trying to swarm enemies to bring them down, where their eponymous crooked blades are waiting. Goblins aren’t eager to die fighting, as each dead goblin weakens the tribe. This utilitarian view on survival has earned them a reputation of cowardice, but if Goblins commit to a fight, they do so without hesitation, fully aware of their mortality and knowing that their death will only empower the raid, as their Shaman draws great strength from them.",
       "name": "Goblin Crookshank",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "biom": ["ruins", "dungeon", "Civilized", "city", "lair", "wilderness","forest","road","wasteland","desert","Mountain","Coast"],
         "cr": "0,5",
-        "fightingstyle": ["ambusher","pack"],
+        "fightingstyle": ["Ambush","pack"],
         "movement": ["Walk"],
         "purpose": ["minion","damage"],
         "releaseurl": "https://beneos-battlemaps.com/products/beneos-tokens-goblin-pack-1",
@@ -5027,9 +5000,9 @@
       "description": "Crookshanks mark the rank and file of a Raid Rabble, both conscripted and willing participants of mixed age and skill. Most goblins are used to fight creatures larger than them and they make the most of it, trying to swarm enemies to bring them down, where their eponymous crooked blades are waiting. Goblins aren’t eager to die fighting, as each dead goblin weakens the tribe. This utilitarian view on survival has earned them a reputation of cowardice, but if Goblins commit to a fight, they do so without hesitation, fully aware of their mortality and knowing that their death will only empower the raid, as their Shaman draws great strength from them.",
       "name": "Goblin Crookshank",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "biom": ["ruins", "dungeon", "Civilized", "city", "lair", "wilderness","forest","road","wasteland","desert","Mountain","Coast"],
         "cr": "0,5",
-        "fightingstyle": ["ambusher","pack"],
+        "fightingstyle": ["Ambush","pack"],
         "movement": ["Walk"],
         "purpose": ["minion","damage"],
         "releaseurl": "https://beneos-battlemaps.com/products/beneos-tokens-goblin-pack-1",
@@ -5054,9 +5027,9 @@
       "description": "Shrublurkers spend most of their life outside the confines of a goblin village and are both feared and respected for it. Children like to test boundaries and explore their surroundings, goblin childred are no different. If they venture to far from the village, chances of survival are slim. But those who return exhibit a knack for survival and necessary amount of luck that qualifies them for adoption by a senior Shrublurker, the old veteran hoping to impart as much knowledge as possible on their successor before their inevitable death. Shrublurkers are expert trackers and trappers and are forced to quickly adapt to the flora and fauna surrounding their village or die an early death. During a raid, Shrublurkers act as scouts, sharpshooters and saboteurs, exposing key weaknesses or marking priority targets.",
       "name": "Goblin Shrublurker",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "biom": ["ruins", "dungeon", "Civilized", "city", "lair", "wilderness","forest","road","wasteland","desert","Mountain","Coast"],
         "cr": "0,5",
-        "fightingstyle": ["ambusher","pack","ranged"],
+        "fightingstyle": ["Ambush","pack","ranged"],
         "movement": ["Walk"],
         "purpose": ["minion","hunter"],
         "releaseurl": "https://beneos-battlemaps.com/products/beneos-tokens-goblin-pack-1",
@@ -5081,9 +5054,9 @@
       "description": "Shrublurkers spend most of their life outside the confines of a goblin village and are both feared and respected for it. Children like to test boundaries and explore their surroundings, goblin childred are no different. If they venture to far from the village, chances of survival are slim. But those who return exhibit a knack for survival and necessary amount of luck that qualifies them for adoption by a senior Shrublurker, the old veteran hoping to impart as much knowledge as possible on their successor before their inevitable death. Shrublurkers are expert trackers and trappers and are forced to quickly adapt to the flora and fauna surrounding their village or die an early death. During a raid, Shrublurkers act as scouts, sharpshooters and saboteurs, exposing key weaknesses or marking priority targets.",
       "name": "Goblin Shrublurker",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "biom": ["ruins", "dungeon", "Civilized", "city", "lair", "wilderness","forest","road","wasteland","desert","Mountain","Coast"],
         "cr": "0,5",
-        "fightingstyle": ["ambusher","pack","ranged"],
+        "fightingstyle": ["Ambush","pack","ranged"],
         "movement": ["Walk"],
         "purpose": ["minion","hunter"],
         "releaseurl": "https://beneos-battlemaps.com/products/beneos-tokens-goblin-pack-1",
@@ -5108,9 +5081,9 @@
       "description": "Shrublurkers spend most of their life outside the confines of a goblin village and are both feared and respected for it. Children like to test boundaries and explore their surroundings, goblin childred are no different. If they venture to far from the village, chances of survival are slim. But those who return exhibit a knack for survival and necessary amount of luck that qualifies them for adoption by a senior Shrublurker, the old veteran hoping to impart as much knowledge as possible on their successor before their inevitable death. Shrublurkers are expert trackers and trappers and are forced to quickly adapt to the flora and fauna surrounding their village or die an early death. During a raid, Shrublurkers act as scouts, sharpshooters and saboteurs, exposing key weaknesses or marking priority targets.",
       "name": "Goblin Shrublurker",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "biom": ["ruins", "dungeon", "Civilized", "city", "lair", "wilderness","forest","road","wasteland","desert","Mountain","Coast"],
         "cr": "0,5",
-        "fightingstyle": ["ambusher","pack","ranged"],
+        "fightingstyle": ["Ambush","pack","ranged"],
         "movement": ["Walk"],
         "purpose": ["minion","hunter"],
         "releaseurl": "https://beneos-battlemaps.com/products/beneos-tokens-goblin-pack-1",
@@ -5135,7 +5108,7 @@
       "description": "Within the confines of a goblin village everyone has to pull their weight. There is no place for ego, grudges or feuds, as time is better spent improving the ever slim chances of the tribe’s survival than to indulge in petty conflicts. Some goblins chafe under this, for reasons of temper, personality or sheer stubborn obstinacy. A Raid Rabble is a great way to send these Rabble-Rousers to blow off some steam, before they start developing some dangerous thoughts. This is a win-win situation, as they make for furious warriors, passionate looters and grandstanding braggarts, taking their attention away from getting into trouble, continuously telling of their heroic deeds instead. That is, if they return.",
       "name": "Goblin Rabble Rouser",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "biom": ["ruins", "dungeon", "Civilized", "city", "lair", "wilderness","forest","road","wasteland","desert","Mountain","Coast"],
         "cr": "0,5",
         "fightingstyle": ["charge","pack","shock"],
         "movement": ["Walk"],
@@ -5162,7 +5135,7 @@
       "description": "Within the confines of a goblin village everyone has to pull their weight. There is no place for ego, grudges or feuds, as time is better spent improving the ever slim chances of the tribe’s survival than to indulge in petty conflicts. Some goblins chafe under this, for reasons of temper, personality or sheer stubborn obstinacy. A Raid Rabble is a great way to send these Rabble-Rousers to blow off some steam, before they start developing some dangerous thoughts. This is a win-win situation, as they make for furious warriors, passionate looters and grandstanding braggarts, taking their attention away from getting into trouble, continuously telling of their heroic deeds instead. That is, if they return.",
       "name": "Goblin Rabble Rouser",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "biom": ["ruins", "dungeon", "Civilized", "city", "lair", "wilderness","forest","road","wasteland","desert","Mountain","Coast"],
         "cr": "0,5",
         "fightingstyle": ["charge","pack","shock"],
         "movement": ["Walk"],
@@ -5189,7 +5162,7 @@
       "description": "Hog Riders are brawny and boorish, characteristics they share with their black-bristled mounts. They are veterans of several raids, having earned their place upon the back of a towering boar. They are fast in and fast out, barreling forth from the underbrush and into the thick of combat before turning on their heel, grabbing what they can and retreating once the rest of the Rabble swarms in. Once the baggage is secured, the rest of the Raid Rabble retreats back into cover, with arrows and grenades raining unto eventual pursuers from hidden Shrublurkers.",
       "name": "Goblin Hog Rider",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "biom": ["ruins", "dungeon", "Civilized", "city", "lair", "wilderness","forest","road","wasteland","desert","Mountain","Coast"],
         "cr": "1",
         "fightingstyle": ["charge","predator","mobile"],
         "movement": ["Walk"],
@@ -5216,7 +5189,7 @@
       "description": "Hog Riders are brawny and boorish, characteristics they share with their black-bristled mounts. They are veterans of several raids, having earned their place upon the back of a towering boar. They are fast in and fast out, barreling forth from the underbrush and into the thick of combat before turning on their heel, grabbing what they can and retreating once the rest of the Rabble swarms in. Once the baggage is secured, the rest of the Raid Rabble retreats back into cover, with arrows and grenades raining unto eventual pursuers from hidden Shrublurkers.",
       "name": "Goblin Hog Rider",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal"],
+        "biom": ["ruins", "dungeon", "Civilized", "city", "lair", "wilderness","forest","road","wasteland","desert","Mountain","Coast"],
         "cr": "1",
         "fightingstyle": ["charge","predator","mobile"],
         "movement": ["Walk"],
@@ -5243,7 +5216,7 @@
       "description": "Soulshaper Shamans oversee a tribe’s death rites and stand vigil during the transition of a goblin’s soul beyond the mortal veil. They do this to take note of where this particular soul goes, to eventually drag it back to fulfill various purposes, should the need arise. Necessity is the mother of invention, goblins die in droves - why not capitalise on that? The goblins are thankful for their ancestor’s service and both live and die knowing that their duty does not end in death. A Shaman’s word carries a lot of weight, as they are known to converse with the spirits of the afterlife and carry the knowledge of the ancestors. Most shamans however quickly find out that dying does not automatically impart knowledge and most ancestors are as dense in death as they were in life. This realisation usually sours a Soulshaper Shaman’s mood and factors into their characteristic bitterness.",
       "name": "Goblin Soulshaper Shaman",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal","graves"],
+        "biom": ["ruins", "dungeon", "Civilized", "city", "lair", "wilderness","forest","road","wasteland","desert","Mountain","Coast","graves"],
         "cr": "1",
         "fightingstyle": ["interactive","pack"],
         "movement": ["Walk"],
@@ -5270,7 +5243,7 @@
       "description": "The shambling and frankly horrifying Soulstarved Abominations are Soulshaper Shaman’s failed attempt to just kind of stuff a goblin’s soul back into a vessel, be it their former body or an vaguely goblin-shaped flesh-construct. Still, something must have worked out as planned, as these aptly named Abominations walk and fight, despite their unsettling appearence and even more unsettling hunger for flesh. If a Soulshaper Shaman is part of a Raid Rabble, the Abominations can be found shuffling in its wake, herded by their creator into combat as unliving weapons.",
       "name": "Goblin Soulstarved Abomination",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal","graves","horror"],
+        "biom": ["ruins", "dungeon", "Civilized", "city", "lair", "wilderness","forest","road","wasteland","desert","Mountain","Coast","graves","horror"],
         "cr": "0,5",
         "fightingstyle": ["charge","shock","regeneration"],
         "movement": ["Walk"],
@@ -5288,7 +5261,7 @@
         "thumbnail": "000_goblin_pack_1_soulstarved_abomination_1-idle_face_still.webp",
         "type": [
           "undead",
-          ""
+          "goblin"
         ],
         "videourl": "https://www.youtube.com/watch?v=Kj63gMA_pWI"
     }
@@ -5297,7 +5270,7 @@
       "description": "The shambling and frankly horrifying Soulstarved Abominations are Soulshaper Shaman’s failed attempt to just kind of stuff a goblin’s soul back into a vessel, be it their former body or an vaguely goblin-shaped flesh-construct. Still, something must have worked out as planned, as these aptly named Abominations walk and fight, despite their unsettling appearence and even more unsettling hunger for flesh. If a Soulshaper Shaman is part of a Raid Rabble, the Abominations can be found shuffling in its wake, herded by their creator into combat as unliving weapons.",
       "name": "Goblin Soulstarved Abomination",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal","graves","horror"],
+        "biom": ["ruins", "dungeon", "Civilized", "city", "lair", "wilderness","forest","road","wasteland","desert","Mountain","Coast","graves","horror"],
         "cr": "0,5",
         "fightingstyle": ["charge","shock","regeneration"],
         "movement": ["Walk"],
@@ -5315,7 +5288,7 @@
         "thumbnail": "000_goblin_pack_1_soulstarved_abomination_2-idle_face_still.webp",
         "type": [
           "undead",
-          ""
+          "goblin"
         ],
         "videourl": "https://www.youtube.com/watch?v=Kj63gMA_pWI"
     }
@@ -5324,7 +5297,7 @@
       "description": "The shambling and frankly horrifying Soulstarved Abominations are Soulshaper Shaman’s failed attempt to just kind of stuff a goblin’s soul back into a vessel, be it their former body or an vaguely goblin-shaped flesh-construct. Still, something must have worked out as planned, as these aptly named Abominations walk and fight, despite their unsettling appearence and even more unsettling hunger for flesh. If a Soulshaper Shaman is part of a Raid Rabble, the Abominations can be found shuffling in its wake, herded by their creator into combat as unliving weapons.",
       "name": "Goblin Soulstarved Abomination",
       "properties": {
-        "biom": ["ruins", "dungeon", "civilised", "city", "lair", "wilderness","forest","road","wasteland","desert","mountains","coastal","graves" ],
+        "biom": ["ruins", "dungeon", "Civilized", "city", "lair", "wilderness","forest","road","wasteland","desert","Mountain","Coast","graves" ],
         "cr": "0,5",
         "fightingstyle": ["charge","shock","regeneration"],
         "movement": ["Walk"],
@@ -5342,7 +5315,7 @@
         "thumbnail": "000_goblin_pack_1_soulstarved_abomination_3-idle_face_still.webp",
         "type": [
           "undead",
-          ""
+          "goblin"
         ],
 		 "videourl": "https://www.youtube.com/watch?v=Kj63gMA_pWI"
 	  }
@@ -5378,7 +5351,7 @@
       "description": "Sudden drops in temperature and billowing snowstorms herald the coming of a Wintergrim. Wintergrim are murderous fey creatures and intrude into the profane world during a time where the temperature drops to unnatural lows and the snow mantle becomes a burial shroud for humans and livestock alike. Hunters don’t return from the forest, rime coats windows and even a fire’s heat may no longer banish the exisential cold that has seeped into body and spirit. Until banished by the return of spring, the Wintergrim will hunt, its pale bestial hands choking life and and warmth from its victims, leaving behind only icy skin and blood on the snow. At the seasonal height of its power, even powerful iron wards may not keep a Wintergrim at bay and many a frontier village turns to ancient pacts sealed with blood and sacrifice instead.",
       "name": "Wintergrim",
       "properties": {
-        "biom": ["ruins", "dungeon", "planar", "wilderness", "forest", "mountains", "horror", "lair" ],
+        "biom": ["ruins", "dungeon", "planar", "wilderness", "forest", "Mountain", "horror", "lair" ],
         "cr": "12",
         "fightingstyle": ["demanding", "lethal"],
         "movement": ["Walk"],
@@ -5395,8 +5368,7 @@
         "stat_wis": 18,
         "thumbnail": "087_wintergrim-idle_face_still.webp",
         "type": [
-          "fey",
-          ""
+          "fey"
         ],
         "videourl": "https://youtu.be/oFqJnhlrizo"
     }
@@ -5405,7 +5377,7 @@
       "description": "Magarach were created as an ancient warrior caste to serve the formless Waking One as temple guardians, but were abandoned by their creator. With the Magarach still tending to overgrown vestiges of past glory, nature has reclaimed the once thriving temple complexes and the Magarach, blessed with the right to bathe within the sacred waters they guard, are granted longevity bordering on immortality. The Magarach protect these hidden wells, as within the sacred waters the essence of the Waking One still lingers on. Upon death, a Magarach's soul returns to these wells and it will soon rise once more, accumulating hundreds of lifetimes worth of experience, knowledge and grudges over the centuries..",
       "name": "Magarach Sentinel",
       "properties": {
-        "biom": ["ruins", "dungeon", "planar", "wilderness", "forest", "mountains", "coastal", "sacral"],
+        "biom": ["ruins", "dungeon", "planar", "wilderness", "forest", "Mountain", "Coast", "sacral"],
         "cr": "7",
         "fightingstyle": ["melee", "predator"],
         "movement": ["Walk"],
@@ -5422,8 +5394,7 @@
         "stat_wis": 16,
         "thumbnail": "088_magarach_sentinel-idle_face_still.webp",
         "type": [
-          "celestial",
-          ""
+          "celestial"
         ],
         "videourl": "https://youtu.be/tHGW8-A68UA"
     }
@@ -5459,7 +5430,7 @@
       "description": "Swordbearer Reliquaries are vestiges of past ages, walking shrines dedicated to a forgotten deity of war and valor. These silent effigies are named Swordbearers, for ancient blades are driven deeply into their craggy form, unclear to which purpose - remembrance or veneration? It is also unknown what causes life to spark within the overgrown form of the Reliquary, causing it to rise and wander. Maybe the souls of the ancient blades thirst for battle once more, or maybe the lost deity itself slowly wakes from its god-slumber, sending out these living shrines as solemn emissaries to seek out worthy warriors to receive the old god’s favor.",
       "name": "Swordbearer Reliquary",
       "properties": {
-        "biom": ["ruins", "dungeon", "road", "wilderness", "forest", "mountains", "coastal", "sacral"],
+        "biom": ["ruins", "dungeon", "road", "wilderness", "forest", "Mountain", "Coast", "sacral"],
         "cr": "9",
         "fightingstyle": ["anti x", "gimmick"],
         "movement": ["Walk"],
@@ -5476,8 +5447,7 @@
         "stat_wis": 16,
         "thumbnail": "090_swordbearer_reliquary-idle_face_still.webp",
         "type": [
-          "construct",
-          ""
+          "construct"
         ],
         "videourl": "https://youtu.be/ms4mWrBdPPA"
     }
@@ -5486,7 +5456,7 @@
       "description": "Former artisans of the great Powder, Steam and Clockwork guilds disgraced for their continued interest in banned technologies gathered around Rekwyn Gharst, the master artisan often referred to as a heretic. Shunned and in hiding due to their perverse pursuit of Viscerart, a self-coined portmanteau elevating intricate bloodshed and indiscriminate bombings to a controversial artform, the Heretics are a collective of like-minded individuals, continually developing new mechanical abominations, which exist in mockery of the fragility of the humanoid form. Guild Heretics take great pride in their devastating arsenal and each drop of spilled blood is a badge of honour..",
       "name": "Guild Heretic",
       "properties": {
-        "biom": ["ruins", "dungeon", "road", "mountains", "coastal", "tavern", "civilised"],
+        "biom": ["ruins", "dungeon", "road", "Mountain", "Coast", "tavern", "Civilized"],
         "cr": "5",
         "fightingstyle": ["range", "aoe", "interactive"],
         "movement": ["Walk"],
@@ -5513,7 +5483,7 @@
       "description": "Gargling Headtakers roam shallow waters and coastal regions, inhabiting flooded coves or stranded shipwrecks. They are an unsettling sight, lumbering mancrabs, foam dripping ceaselessly from their strange crustacean mouthparts, unfeeling eyes and wiggling antennas. As they hunt in small packs, their characteristic and disquieting gargling noises used to communicate oftentimes herald an incoming attack. When fighting, the Headtakers make use of their oversized pincers, grasping, impaling or crushing their prey, knowing no difference between man or animal.",
       "name": "Gargling Headtaker 1",
       "properties": {
-        "biom": ["ruins", "dungeon", "coastal", "ocean"],
+        "biom": ["ruins", "dungeon", "Coast", "ocean"],
         "cr": "1",
         "fightingstyle": ["shock", "pack"],
         "movement": ["Walk"],
@@ -5530,8 +5500,7 @@
         "stat_wis": 9,
         "thumbnail": "092_gargling_headtaker_1-idle_face_still.webp",
         "type": [
-          "monstrosity",
-          ""
+          "monstrosity"
         ],
         "videourl": "https://youtu.be/vrx_TbDEj6Q"
     }
@@ -5540,7 +5509,7 @@
       "description": "Gargling Headtakers roam shallow waters and coastal regions, inhabiting flooded coves or stranded shipwrecks. They are an unsettling sight, lumbering mancrabs, foam dripping ceaselessly from their strange crustacean mouthparts, unfeeling eyes and wiggling antennas. As they hunt in small packs, their characteristic and disquieting gargling noises used to communicate oftentimes herald an incoming attack. When fighting, the Headtakers make use of their oversized pincers, grasping, impaling or crushing their prey, knowing no difference between man or animal.",
       "name": "Gargling Headtaker 2",
       "properties": {
-        "biom": ["ruins", "dungeon", "coastal", "ocean"],
+        "biom": ["ruins", "dungeon", "Coast", "ocean"],
         "cr": "1",
         "fightingstyle": ["shock", "pack"],
         "movement": ["Walk"],
@@ -5557,8 +5526,7 @@
         "stat_wis": 9,
         "thumbnail": "092_gargling_headtaker_2-idle_face_still.webp",
         "type": [
-          "monstrosity",
-          ""
+          "monstrosity"
         ],
         "videourl": "https://youtu.be/vrx_TbDEj6Q"
     }
@@ -5567,7 +5535,7 @@
       "description": "Gargling Headtakers roam shallow waters and coastal regions, inhabiting flooded coves or stranded shipwrecks. They are an unsettling sight, lumbering mancrabs, foam dripping ceaselessly from their strange crustacean mouthparts, unfeeling eyes and wiggling antennas. As they hunt in small packs, their characteristic and disquieting gargling noises used to communicate oftentimes herald an incoming attack. When fighting, the Headtakers make use of their oversized pincers, grasping, impaling or crushing their prey, knowing no difference between man or animal.",
       "name": "Gargling Headtaker 3",
       "properties": {
-        "biom": ["ruins", "dungeon", "coastal", "ocean"],
+        "biom": ["ruins", "dungeon", "Coast", "ocean"],
         "cr": "1",
         "fightingstyle": ["shock", "pack"],
         "movement": ["Walk"],
@@ -5584,8 +5552,7 @@
         "stat_wis": 9,
         "thumbnail": "092_gargling_headtaker_3-idle_face_still.webp",
         "type": [
-          "monstrosity",
-          ""
+          "monstrosity"
         ],
         "videourl": "https://youtu.be/vrx_TbDEj6Q"
     }
@@ -5638,8 +5605,7 @@
         "stat_wis": 6,
         "thumbnail": "094_skeletal_sapper-idle_face_still.webp",
         "type": [
-          "undead",
-          ""
+          "undead"
         ],
         "videourl": "https://youtu.be/aqF0zkXoOOU"
     }
@@ -5648,7 +5614,7 @@
       "description": "Auxiliary Automata are the next evolutionary step within the field of techno-arcane developments. It is outfitted with an advanced crystalline logic core that allows it to make decisions within a pre-defined perimeter, a sturdy chassis able to withstand considerable damage and gravity defying hover-generators, allowing it to navigate difficult terrain with ease. These prototypes are bristling with experimental weaponry and are designed for boarding actions within the tight confines of Airship corridors, being able to block off parts of the ship with geomantic hard-light barriers or act as a spearhead to breach fortified positions. ",
       "name": "Auxiliary Automaton 1",
       "properties": {
-        "biom": ["civilised", "city", "dungeon", "futuristic", "road"],
+        "biom": ["Civilized", "city", "dungeon", "futuristic", "road"],
         "cr": "5",
         "fightingstyle": ["support", "pack"],
         "movement": ["Fly"],
@@ -5665,8 +5631,7 @@
         "stat_wis": 10,
         "thumbnail": "095_auxiliary_automaton_1-idle_face_still.webp",
         "type": [
-          "construct",
-          ""
+          "construct"
         ],
         "videourl": "https://youtu.be/0G8twvxOGcM"
     }
@@ -5675,7 +5640,7 @@
       "description": "Auxiliary Automata are the next evolutionary step within the field of techno-arcane developments. It is outfitted with an advanced crystalline logic core that allows it to make decisions within a pre-defined perimeter, a sturdy chassis able to withstand considerable damage and gravity defying hover-generators, allowing it to navigate difficult terrain with ease. These prototypes are bristling with experimental weaponry and are designed for boarding actions within the tight confines of Airship corridors, being able to block off parts of the ship with geomantic hard-light barriers or act as a spearhead to breach fortified positions. ",
       "name": "Auxiliary Automaton 2",
       "properties": {
-        "biom": ["civilised", "city", "dungeon", "futuristic", "road"],
+        "biom": ["Civilized", "city", "dungeon", "futuristic", "road"],
         "cr": "5",
         "fightingstyle": ["support", "pack"],
         "movement": ["Fly"],
@@ -5692,8 +5657,7 @@
         "stat_wis": 10,
         "thumbnail": "095_auxiliary_automaton_2-idle_face_still.webp",
         "type": [
-          "construct",
-          ""
+          "construct"
         ],
         "videourl": "https://youtu.be/0G8twvxOGcM"
     }
@@ -5703,7 +5667,7 @@
       "description": "Marauders rely on speed and the element of surprise to overun less fortified and sparsely defended targets like coastal hamlets or monasteries. If met with resistance, the momentum of the attack needs to be upheld at any cost. Independed veteran war bands split off from the main force to hunt down enemy clusters before they can mount an organized defense. As houses go up in flames, the thick smoke covers the retreat back to the ship and onto the open sea..",
       "name": "Coastal Marauder 1",
       "properties": {
-        "biom": ["coastal", "ocean", "road","wasteland", "desert", "mountains"],
+        "biom": ["Coast", "ocean", "road","wasteland", "desert", "Mountain"],
         "cr": "1",
         "fightingstyle": ["pack", "shock"],
         "movement": ["Walk"],
@@ -5720,8 +5684,7 @@
         "stat_wis": 18,
         "thumbnail": "096_coastal_marauder_1-idle_face_still.webp",
         "type": [
-          "humanoid",
-          ""
+          "humanoid"
         ],
         "videourl": "https://youtu.be/14buhmfD2uU"
     }
@@ -5730,7 +5693,7 @@
       "description": "Marauders rely on speed and the element of surprise to overun less fortified and sparsely defended targets like coastal hamlets or monasteries. If met with resistance, the momentum of the attack needs to be upheld at any cost. Independed veteran war bands split off from the main force to hunt down enemy clusters before they can mount an organized defense. As houses go up in flames, the thick smoke covers the retreat back to the ship and onto the open sea..",
       "name": "Coastal Marauder 2",
       "properties": {
-        "biom": ["coastal", "ocean", "road","wasteland", "desert", "mountains"],
+        "biom": ["Coast", "ocean", "road","wasteland", "desert", "Mountain"],
         "cr": "1",
         "fightingstyle": ["pack", "shock"],
         "movement": ["Walk"],
@@ -5747,8 +5710,7 @@
         "stat_wis": 18,
         "thumbnail": "096_coastal_marauder_2-idle_face_still.webp",
         "type": [
-          "humanoid",
-          ""
+          "humanoid"
         ],
         "videourl": "https://youtu.be/14buhmfD2uU"
     }
@@ -5757,7 +5719,7 @@
       "description": "Marauders rely on speed and the element of surprise to overun less fortified and sparsely defended targets like coastal hamlets or monasteries. If met with resistance, the momentum of the attack needs to be upheld at any cost. Independed veteran war bands split off from the main force to hunt down enemy clusters before they can mount an organized defense. As houses go up in flames, the thick smoke covers the retreat back to the ship and onto the open sea..",
       "name": "Coastal Marauder 3",
       "properties": {
-        "biom": ["coastal", "ocean", "road","wasteland", "desert", "mountains"],
+        "biom": ["Coast", "ocean", "road","wasteland", "desert", "Mountain"],
         "cr": "1",
         "fightingstyle": ["pack", "shock"],
         "movement": ["Walk"],
@@ -5774,8 +5736,7 @@
         "stat_wis": 18,
         "thumbnail": "096_coastal_marauder_3-idle_face_still.webp",
         "type": [
-          "humanoid",
-          ""
+          "humanoid"
         ],
         "videourl": "https://youtu.be/14buhmfD2uU"
     }
@@ -5784,7 +5745,7 @@
       "description": "Stormwrath Marauders are conduits of the tempest’s fury, their heart beating in tact with the rolling thunder. Warriors might be born blessed by the storms or elevated by a higher being that holds command over the elements, such as a Storm Giant, a dragon or even a god. They become chosen warriors, stalwart in their faith and honoured keepers of the naval rites..",
       "name": "Stormwrath Marauder",
       "properties": {
-        "biom": ["coastal", "ocean", "road","wasteland", "desert", "mountains"],
+        "biom": ["Coast", "ocean", "road","wasteland", "desert", "Mountain"],
         "cr": "4",
         "fightingstyle": ["duelist", "shock"],
         "movement": ["Walk"],
@@ -5801,8 +5762,7 @@
         "stat_wis": 14,
         "thumbnail": "096_stormwrath_marauder-idle_face_still.webp",
         "type": [
-          "humanoid",
-          ""
+          "humanoid"
         ],
         "videourl": "https://youtu.be/14buhmfD2uU"
     
@@ -5811,7 +5771,7 @@
       "description": "Heavy infantry fighting in unison, shield to shield and with their spears raised they stand against onrushing waves of attackers - regardless the setting, Hoplites fighting in phalanx formation are a powerful image to evoke. As it took more than two thousand years to dethrone the phalanx as the most effective method of ancient warfare, one has to wonder how how effective it might be in a fantasy setting, supported by magic or divine powers.",
       "name": "Hoplite 1",
       "properties": {
-        "biom": ["coastal", "ocean", "road","wasteland", "desert", "mountains", "civilised", "city"],
+        "biom": ["Coast", "ocean", "road","wasteland", "desert", "Mountain", "Civilized", "city"],
         "cr": "3",
         "fightingstyle": ["tactical", "pack"],
         "movement": ["Walk"],
@@ -5828,8 +5788,7 @@
         "stat_wis": 12,
         "thumbnail": "097_hoplite_1-idle_face_still.webp",
         "type": [
-          "humanoid",
-          ""
+          "humanoid"
         ],
         "videourl": "https://youtu.be/AFc4LXcamZ4"
     }
@@ -5838,7 +5797,7 @@
       "description": "Heavy infantry fighting in unison, shield to shield and with their spears raised they stand against onrushing waves of attackers - regardless the setting, Hoplites fighting in phalanx formation are a powerful image to evoke. As it took more than two thousand years to dethrone the phalanx as the most effective method of ancient warfare, one has to wonder how how effective it might be in a fantasy setting, supported by magic or divine powers.",
       "name": "Hoplite 2",
       "properties": {
-        "biom": ["coastal", "ocean", "road","wasteland", "desert", "mountains", "civilised", "city"],
+        "biom": ["Coast", "ocean", "road","wasteland", "desert", "Mountain", "Civilized", "city"],
         "cr": "3",
         "fightingstyle": ["tactical", "pack"],
         "movement": ["Walk"],
@@ -5855,8 +5814,7 @@
         "stat_wis": 12,
         "thumbnail": "097_hoplite_2-idle_face_still.webp",
         "type": [
-          "humanoid",
-          ""
+          "humanoid"
         ],
         "videourl": "https://youtu.be/AFc4LXcamZ4"
     }
@@ -5865,7 +5823,7 @@
       "description": "Heavy infantry fighting in unison, shield to shield and with their spears raised they stand against onrushing waves of attackers - regardless the setting, Hoplites fighting in phalanx formation are a powerful image to evoke. As it took more than two thousand years to dethrone the phalanx as the most effective method of ancient warfare, one has to wonder how how effective it might be in a fantasy setting, supported by magic or divine powers.",
       "name": "Hoplite 3",
       "properties": {
-        "biom": ["coastal", "ocean", "road","wasteland", "desert", "mountains", "civilised", "city"],
+        "biom": ["Coast", "ocean", "road","wasteland", "desert", "Mountain", "Civilized", "city"],
         "cr": "3",
         "fightingstyle": ["tactical", "pack"],
         "movement": ["Walk"],
@@ -5882,8 +5840,7 @@
         "stat_wis": 12,
         "thumbnail": "097_hoplite_3-idle_face_still.webp",
         "type": [
-          "humanoid",
-          ""
+          "humanoid"
         ],
         "videourl": "https://youtu.be/AFc4LXcamZ4"
     }
@@ -5892,7 +5849,7 @@
       "description": "Heavy infantry fighting in unison, shield to shield and with their spears raised they stand against onrushing waves of attackers - regardless the setting, Hoplites fighting in phalanx formation are a powerful image to evoke. As it took more than two thousand years to dethrone the phalanx as the most effective method of ancient warfare, one has to wonder how how effective it might be in a fantasy setting, supported by magic or divine powers.",
       "name": "Hoplite 4",
       "properties": {
-        "biom": ["coastal", "ocean", "road","wasteland", "desert", "mountains", "civilised", "city"],
+        "biom": ["Coast", "ocean", "road","wasteland", "desert", "Mountain", "Civilized", "city"],
         "cr": "3",
         "fightingstyle": ["tactical", "pack"],
         "movement": ["Walk"],
@@ -5909,8 +5866,7 @@
         "stat_wis": 12,
         "thumbnail": "097_hoplite_4-idle_face_still.webp",
         "type": [
-          "humanoid",
-          ""
+          "humanoid"
         ],
         "videourl": "https://youtu.be/AFc4LXcamZ4"
     }
@@ -5919,7 +5875,7 @@
       "description": "Collapsed under the weight of their oaths, these fallen Knights are bound to ruined castles or abandoned chapels. Some sold their souls to protect their brethren, transgressed against their patron saint or broke their oath so severly that it resulted in the total corruption of their being. Whatever the reason for their downfall, these erstwhile epitomes of piety and righteousness have become dark mirrors of their past, now doomed to cause the same pain and suffering they were once sworn to fight. Steeped in tragedy, these Knights are solemn creatures, most harboring the secret desire to die in combat, being finally brought to justice by a righteous blade.",
       "name": "Knight Of Tragedy",
       "properties": {
-        "biom": ["dungeon", "ruins", "graves","sacral", "lair", "mountains", "civilised", "city"],
+        "biom": ["dungeon", "ruins", "graves","sacral", "lair", "Mountain", "Civilized", "city"],
         "cr": "11",
         "fightingstyle": ["melee", "lethal"],
         "movement": ["Walk"],
@@ -5936,8 +5892,7 @@
         "stat_wis": 18,
         "thumbnail": "098_knight_of_tragedy-idle_face_still.webp",
         "type": [
-          "undead",
-          ""
+          "undead"
         ],
         "videourl": "https://youtu.be/pSt9puspSzU"
  
@@ -5947,7 +5902,7 @@
       "description": "Exhibiting highly aggressive behaviour towards sea vessels, this leviathan class monstrosity of proto-reptilian heritage earned the designation “Shipbreaker”. An sentient oceanic predator of terrifying size, the Shipbreaker Leviathan hunts aquatic megafauna, its domain extending from the wave-crested open waters to the crushing hadopelagic depths. Sightings of wounded or slain specimen covered in scars and bitemarks allow a glimpse into the nightmarish realm of the oceanic void, where not even Leviathans are safe from being preyed upon.",
       "name": "Shipbreaker Leviathan",
       "properties": {
-        "biom": ["ocean", "lair", "coastal"],
+        "biom": ["ocean", "lair", "Coast"],
         "cr": "14",
         "fightingstyle": ["simple"],
         "movement": ["Swim"],
@@ -5964,8 +5919,7 @@
         "stat_wis": 12,
         "thumbnail": "099_shipbreaker_leviathan-idle_face_still.webp",
         "type": [
-          "monstrosity",
-          ""
+          "monstrosity"
         ],
         "videourl": "https://youtu.be/-5sZ6yRfqII"
     }
@@ -5974,7 +5928,7 @@
       "description": "In stark contrast to their domineering and tyrannical brethren, these travel sized dragons usually prefer a friendly scratch behind the ears to worship and subjugation. They do not take themselves very seriously and admire this quality in others, known to both form strong bonds of friendship, as well as petty, but well-spirited rivalries. It is unclear if the Luck Dragon's existence implies the existence of a Bad Luck Dragon, but experts argue that regular Dragons could already be considered Bad Luck Dragons.",
       "name": "Luck Dragon",
       "properties": {
-        "biom": ["dungeon", "ruins","lair", "mountains", "civilised", "city", "planar", "wilderness"],
+        "biom": ["dungeon", "ruins","lair", "Mountain", "Civilized", "city", "planar", "wilderness"],
         "cr": "1",
         "fightingstyle": ["melee", "lethal"],
         "movement": ["Fly"],
@@ -5991,8 +5945,7 @@
         "stat_wis": 8,
         "thumbnail": "100_luck_dragon_1-idle_face_still.webp",
         "type": [
-          "dragon",
-          ""
+          "dragon"
         ],
         "videourl": "https://youtu.be/Wq-m7bl75Rs"
     }
@@ -6001,7 +5954,7 @@
       "description": "In stark contrast to their domineering and tyrannical brethren, these travel sized dragons usually prefer a friendly scratch behind the ears to worship and subjugation. They do not take themselves very seriously and admire this quality in others, known to both form strong bonds of friendship, as well as petty, but well-spirited rivalries. It is unclear if the Luck Dragon's existence implies the existence of a Bad Luck Dragon, but experts argue that regular Dragons could already be considered Bad Luck Dragons.",
       "name": "Luck Dragon",
       "properties": {
-        "biom": ["dungeon", "ruins","lair", "mountains", "civilised", "city", "planar", "wilderness"],
+        "biom": ["dungeon", "ruins","lair", "Mountain", "Civilized", "city", "planar", "wilderness"],
         "cr": "1",
         "fightingstyle": ["melee", "lethal"],
         "movement": ["Fly"],
@@ -6018,8 +5971,7 @@
         "stat_wis": 8,
         "thumbnail": "100_luck_dragon_2-idle_face_still.webp",
         "type": [
-          "dragon",
-          ""
+          "dragon"
         ],
         "videourl": "https://youtu.be/Wq-m7bl75Rs"
     }
@@ -6028,7 +5980,7 @@
       "description": "In stark contrast to their domineering and tyrannical brethren, these travel sized dragons usually prefer a friendly scratch behind the ears to worship and subjugation. They do not take themselves very seriously and admire this quality in others, known to both form strong bonds of friendship, as well as petty, but well-spirited rivalries. It is unclear if the Luck Dragon's existence implies the existence of a Bad Luck Dragon, but experts argue that regular Dragons could already be considered Bad Luck Dragons.",
       "name": "Luck Dragon",
       "properties": {
-        "biom": ["dungeon", "ruins","lair", "mountains", "civilised", "city", "planar", "wilderness"],
+        "biom": ["dungeon", "ruins","lair", "Mountain", "Civilized", "city", "planar", "wilderness"],
         "cr": "1",
         "fightingstyle": ["melee", "lethal"],
         "movement": ["Fly"],
@@ -6045,8 +5997,7 @@
         "stat_wis": 8,
         "thumbnail": "100_luck_dragon_3-idle_face_still.webp",
         "type": [
-          "dragon",
-          ""
+          "dragon"
         ],
         "videourl": "https://youtu.be/Wq-m7bl75Rs"
     }
@@ -6055,7 +6006,7 @@
       "description": "Stonegorgers are an enigmatic offshoot of giant-kin, lacking the majesty and grandeur of their mythical brethren. Called Skoldbærer in their native tongue, fables claim that Stonegorgers devour rock and stone to get to the gems, ores and minerals within in an attempt to reunite their earthen mother with her treasures. Accumulating these precious materials within their bodies, they slowly turn into stone themselves. As they approach the end of their life, they seek ever greater depths, finally succumbing to age and pressure, returning earth’s treasures to its womb. The earth welcomes its wayward children back and gracefully accepts the gifts they bring, rewarding the Stonegorger by slowly turning it into a being of pure diamond, in death finally achieving the beauty it always pursued.",
       "name": "Stonegorger",
       "properties": {
-        "biom": ["dungeon", "ruins","lair", "mountains", "civilised", "city", "planar", "wilderness"],
+        "biom": ["dungeon", "ruins","lair", "Mountain", "Civilized", "city", "planar", "wilderness"],
         "cr": "6",
         "fightingstyle": ["simple"],
         "movement": ["Walk"],
@@ -6072,8 +6023,7 @@
         "stat_wis": 12,
         "thumbnail": "101_stonegorger-idle_face_still.webp",
         "type": [
-          "giant",
-          ""
+          "giant"
         ],
         "videourl": "https://youtu.be/p_qYjlFjvOI"
     }
@@ -6127,8 +6077,7 @@
         "stat_wis": 14,
         "thumbnail": "103_gloomspore_harvester-idle_face_still.webp",
         "type": [
-          "monstrosity",
-          ""
+          "monstrosity"
         ],
         "videourl": ""
     }
@@ -6165,7 +6114,7 @@
       "description": "Bone Hags abhor civilization’s ever expanding need for greater cities and more farmland.They regard each village as nothing but a malign growth with the potential to mutate into a tumorous city if left unchecked. As they draw strength from their bindings to the bones of the earth, the very essence of the primordial titans who gave up their bodies to create room for earthbound life, they require earth and stone untouched by tools or stonecraft, violently subduing any outside attempts to encroach on their domains.",
       "name": "Bone Hag",
       "properties": {
-        "biom": ["dungeon", "underground", "planar", "wilderness", "abyssal", "wasteland", "wilderness", "mountain", "desert"],
+        "biom": ["dungeon", "underground", "planar", "wilderness", "abyssal", "wasteland", "wilderness", "Mountain", "desert"],
         "cr": "12",
         "fightingstyle": ["aoe", "demanding"],
         "movement": ["Walk"],
@@ -6183,7 +6132,7 @@
         "thumbnail": "000_month_1_bone_hag_1-idle_face_still.webp",
         "type": [
           "fey",
-          "hag"
+          "hag","Beneos Loyalty Token"
         ],
         "videourl": "https://youtu.be/RHuZD_GkJ3U"
 		    }
@@ -6192,7 +6141,7 @@
       "description": "Bone Hags abhor civilization’s ever expanding need for greater cities and more farmland.They regard each village as nothing but a malign growth with the potential to mutate into a tumorous city if left unchecked. As they draw strength from their bindings to the bones of the earth, the very essence of the primordial titans who gave up their bodies to create room for earthbound life, they require earth and stone untouched by tools or stonecraft, violently subduing any outside attempts to encroach on their domains.",
       "name": "Bone Hag",
       "properties": {
-        "biom": ["dungeon", "underground", "planar", "wilderness", "abyssal", "wasteland", "wilderness", "mountain", "desert"],
+        "biom": ["dungeon", "underground", "planar", "wilderness", "abyssal", "wasteland", "wilderness", "Mountain", "desert"],
         "cr": "12",
         "fightingstyle": ["aoe", "demanding"],
         "movement": ["Walk"],
@@ -6210,7 +6159,7 @@
         "thumbnail": "000_month_1_bone_hag_2-idle_face_still.webp",
         "type": [
           "fey",
-          "hag"
+          "hag","Beneos Loyalty Token"
         ],
         "videourl": "https://youtu.be/RHuZD_GkJ3U"
     }
@@ -6219,7 +6168,7 @@
       "description": "Better armed and more intelligent than their more feral brethren, these hulking henchmen are still known for their insatiable appetite for treasure and their considerable strength, making them a force to be reckoned with. Beneath their brutish exterior lies a mischievous sense of humor that often catches their victims off-guard.",
       "name": "Ogre Mercenary",
       "properties": {
-        "biom": ["dungeon", "underground", "ruins", "wilderness", "raod", "mountains", "desert" , "civilised", "coastal", "tavern", "wasteland", "forest", "city"],
+        "biom": ["dungeon", "underground", "ruins", "wilderness", "raod", "Mountain", "desert" , "Civilized", "Coast", "tavern", "wasteland", "forest", "city"],
         "cr": "4",
         "fightingstyle": ["simple", "pack", "melee"],
         "movement": ["Walk"],
@@ -6246,7 +6195,7 @@
       "description": "Equiterreans resemble horses carved from mossy rock, decked with a coat of rich earthy tones, adorned with vibrant greenery and blooming flowers. They are stalwart and gentle beings, channeling the lifegiving powers of earth and sun, mending wounds and restoring vigor. Loyal servants to those having dominion over the earthen aspect of the elemental spheres are often bestowed with such a steed as a boon, but Equiterreans may also choose to accept a worthy being as their rider themselves.",
       "name": "Equiterrean",
       "properties": {
-        "biom": ["forest", "underground", "ruins", "wilderness", "road", "mountains", "desert","wasteland"],
+        "biom": ["forest", "underground", "ruins", "wilderness", "road", "Mountain", "desert","wasteland"],
         "cr": "4",
         "fightingstyle": ["regeneration", "simple"],
         "movement": ["Walk"],
@@ -6263,8 +6212,7 @@
         "stat_wis": 12,
         "thumbnail": "106_equiterrean-idle_face_still.webp",
         "type": [
-          "elemental",
-          ""
+          "elemental"
         ],
         "videourl": "https://youtu.be/rWHdnu3Qcuc"
     }
@@ -6275,7 +6223,7 @@
       "description": "Trained Mages are not only gifted with arcane potential, but have already taken steps to hone and further develop it. Their stern gaze tells of years of intense study, their confidence of their ability to bend reality to their will. They know what power they hold, what they sacrificed to aquire it and have already set their eyes on gaining more.",
       "name": "Trained Mage",
       "properties": {
-        "biom": ["dungeon", "ruins", "city", "wilderness", "civilised", "tavern","road"],
+        "biom": ["dungeon", "ruins", "city", "wilderness", "Civilized", "tavern","road"],
         "cr": "6",
         "fightingstyle": ["Spellcasting"],
         "movement": ["Walk"],
@@ -6292,8 +6240,7 @@
         "stat_wis": 13,
         "thumbnail": "107_trained_mage_1-idle_face_still.webp",
         "type": [
-          "humanoid",
-          ""
+          "humanoid"
         ],
         "videourl": "https://youtu.be/8Qq9QQTJ47g"
     }
@@ -6302,7 +6249,7 @@
       "description": "Trained Mages are not only gifted with arcane potential, but have already taken steps to hone and further develop it. Their stern gaze tells of years of intense study, their confidence of their ability to bend reality to their will. They know what power they hold, what they sacrificed to aquire it and have already set their eyes on gaining more.",
       "name": "Trained Mage",
       "properties": {
-        "biom": ["dungeon", "ruins", "city", "wilderness", "civilised", "tavern","road"],
+        "biom": ["dungeon", "ruins", "city", "wilderness", "Civilized", "tavern","road"],
         "cr": "6",
         "fightingstyle": ["Spellcasting"],
         "movement": ["Walk"],
@@ -6319,8 +6266,7 @@
         "stat_wis": 13,
         "thumbnail": "107_trained_mage_2-idle_face_still.webp",
         "type": [
-          "humanoid",
-          ""
+          "humanoid"
         ],
         "videourl": "https://youtu.be/8Qq9QQTJ47g"
     }
@@ -6329,7 +6275,7 @@
       "description": "Trained Mages are not only gifted with arcane potential, but have already taken steps to hone and further develop it. Their stern gaze tells of years of intense study, their confidence of their ability to bend reality to their will. They know what power they hold, what they sacrificed to aquire it and have already set their eyes on gaining more.",
       "name": "Trained Mage",
       "properties": {
-        "biom": ["dungeon", "ruins", "city", "wilderness", "civilised", "tavern","road"],
+        "biom": ["dungeon", "ruins", "city", "wilderness", "Civilized", "tavern","road"],
         "cr": "6",
         "fightingstyle": ["Spellcasting"],
         "movement": ["Walk"],
@@ -6346,8 +6292,7 @@
         "stat_wis": 13,
         "thumbnail": "107_trained_mage_3-idle_face_still.webp",
         "type": [
-          "humanoid",
-          ""
+          "humanoid"
         ],
         "videourl": "https://youtu.be/8Qq9QQTJ47g"
     }
@@ -6356,7 +6301,7 @@
       "description": "Trained Mages are not only gifted with arcane potential, but have already taken steps to hone and further develop it. Their stern gaze tells of years of intense study, their confidence of their ability to bend reality to their will. They know what power they hold, what they sacrificed to aquire it and have already set their eyes on gaining more.",
       "name": "Trained Mage",
       "properties": {
-        "biom": ["dungeon", "ruins", "city", "wilderness", "civilised", "tavern","road"],
+        "biom": ["dungeon", "ruins", "city", "wilderness", "Civilized", "tavern","road"],
         "cr": "6",
         "fightingstyle": ["Spellcasting"],
         "movement": ["Walk"],
@@ -6373,8 +6318,7 @@
         "stat_wis": 13,
         "thumbnail": "107_trained_mage_4-idle_face_still.webp",
         "type": [
-          "humanoid",
-          ""
+          "humanoid"
         ],
         "videourl": "https://youtu.be/8Qq9QQTJ47g"
     }
@@ -6383,7 +6327,7 @@
       "description": "The Deathrite Cult strives for a world silenced by death, an unliving utopia of crypts tended to by the mute Gravewardens. To hush those living beings disturbing the sacred silence of the Deathshroud, the Deathrite’s High Crematorians dispatch legions of thralls, both mortal cultists and the Annointed, undead beings bound or birthed into the ranks of the Deathrite. Among these Annointed are the Deathrite Harrowers, hateful souls that gave their life in service of the Deathrite, now carrying a holy mandate to silence the blasphemous beating of hearts and turn all that is living into blessed ash.",
       "name": "Deathrite Harrower",
       "properties": {
-        "biom": ["dungeon", "ruins", "city", "wilderness", "civilised", "horror","graves"],
+        "biom": ["dungeon", "ruins", "city", "wilderness", "Civilized", "horror","graves"],
         "cr": "7",
         "fightingstyle": ["Charge", "Shock"],
         "movement": ["Fly"],
@@ -6400,8 +6344,7 @@
         "stat_wis": 14,
         "thumbnail": "108_deathrite_harrower_1-idle_face_still.webp",
         "type": [
-          "undead",
-          ""
+          "undead"
         ],
         "videourl": "https://youtu.be/j_pVOUmNWZo"
     }
@@ -6410,7 +6353,7 @@
       "description": "The Deathrite Cult strives for a world silenced by death, an unliving utopia of crypts tended to by the mute Gravewardens. To hush those living beings disturbing the sacred silence of the Deathshroud, the Deathrite’s High Crematorians dispatch legions of thralls, both mortal cultists and the Annointed, undead beings bound or birthed into the ranks of the Deathrite. Among these Annointed are the Deathrite Harrowers, hateful souls that gave their life in service of the Deathrite, now carrying a holy mandate to silence the blasphemous beating of hearts and turn all that is living into blessed ash.",
       "name": "Deathrite Harrower",
       "properties": {
-        "biom": ["dungeon", "ruins", "city", "wilderness", "civilised", "horror","graves"],
+        "biom": ["dungeon", "ruins", "city", "wilderness", "Civilized", "horror","graves"],
         "cr": "7",
         "fightingstyle": ["Charge", "Shock"],
         "movement": ["Fly"],
@@ -6427,8 +6370,7 @@
         "stat_wis": 14,
         "thumbnail": "108_deathrite_harrower_2-idle_face_still.webp",
         "type": [
-          "undead",
-          ""
+          "undead"
         ],
         "videourl": "https://youtu.be/j_pVOUmNWZo"
     }
@@ -6437,7 +6379,7 @@
       "description": "Henge Guardians are ancient constructs carved by shamans from blessed rock, acting as arbiters of peace and bulwarks against intruders from beyond the veil of the mundane world. Within the Guardian reside ancestral spirits of ages past, souls of chiefs, warriors, shamans or figures of importance to the tribesfolk, empowering the towering stonework of their collective body with the desire to protect their kin and continually serve the tribe in death.",
       "name": "Henge Guardian",
       "properties": {
-        "biom": ["dungeon", "ruins", "wilderness", "planar", "sacral", "desert", "mountains", "forest", "wasteland", "civilised"],
+        "biom": ["dungeon", "ruins", "wilderness", "planar", "sacral", "desert", "Mountain", "forest", "wasteland", "Civilized"],
         "cr": "10",
         "fightingstyle": ["Simple", "AoE"],
         "movement": ["Walk"],
@@ -6454,8 +6396,7 @@
         "stat_wis": 18,
         "thumbnail": "109_henge_guardian_1-idle_face_still.webp",
         "type": [
-          "construct",
-          ""
+          "construct"
         ],
         "videourl": "https://youtu.be/FMWabZbEynQ"
     }
@@ -6464,7 +6405,7 @@
       "description": "Henge Guardians are ancient constructs carved by shamans from blessed rock, acting as arbiters of peace and bulwarks against intruders from beyond the veil of the mundane world. Within the Guardian reside ancestral spirits of ages past, souls of chiefs, warriors, shamans or figures of importance to the tribesfolk, empowering the towering stonework of their collective body with the desire to protect their kin and continually serve the tribe in death.",
       "name": "Henge Guardian",
       "properties": {
-        "biom": ["dungeon", "ruins", "wilderness", "planar", "sacral", "desert", "mountains", "forest", "wasteland", "civilised"],
+        "biom": ["dungeon", "ruins", "wilderness", "planar", "sacral", "desert", "Mountain", "forest", "wasteland", "Civilized"],
         "cr": "10",
         "fightingstyle": ["Simple", "AoE"],
         "movement": ["Walk"],
@@ -6481,8 +6422,7 @@
         "stat_wis": 18,
         "thumbnail": "109_henge_guardian_2-idle_face_still.webp",
         "type": [
-          "construct",
-          ""
+          "construct"
         ],
         "videourl": "https://youtu.be/FMWabZbEynQ"
     }
@@ -6491,7 +6431,7 @@
       "description": "Henge Guardians are ancient constructs carved by shamans from blessed rock, acting as arbiters of peace and bulwarks against intruders from beyond the veil of the mundane world. Within the Guardian reside ancestral spirits of ages past, souls of chiefs, warriors, shamans or figures of importance to the tribesfolk, empowering the towering stonework of their collective body with the desire to protect their kin and continually serve the tribe in death.",
       "name": "Henge Guardian",
       "properties": {
-        "biom": ["dungeon", "ruins", "wilderness", "planar", "sacral", "desert", "mountains", "forest", "wasteland", "civilised"],
+        "biom": ["dungeon", "ruins", "wilderness", "planar", "sacral", "desert", "Mountain", "forest", "wasteland", "Civilized"],
         "cr": "10",
         "fightingstyle": ["Simple", "AoE"],
         "movement": ["Walk"],
@@ -6508,8 +6448,7 @@
         "stat_wis": 18,
         "thumbnail": "109_henge_guardian_3-idle_face_still.webp",
         "type": [
-          "construct",
-          ""
+          "construct"
         ],
         "videourl": "https://youtu.be/FMWabZbEynQ"
     }
@@ -6518,9 +6457,9 @@
       "description": "Apshait are named after mythical insects said to feast on the souls of the dead during their travels through the underworld. Those worrying about their immortal soul may be relieved to hear that the actual Apshait much prefer to feast on mortal bodies instead, making them a dangerous prospect for both lone travelers or armed transports traversing infested landscapes. Breeding in looming underground hives, the Asphait’s expansive tunnel networks stretch far beyond the central hive chambers, where the Apshait soldier swarms utilize them to coordinate intricate ambushes.",
       "name": "Apshait Ambusher",
       "properties": {
-        "biom": ["dungeon", "ruins", "wilderness", "desert", "mountains", "wasteland", "road"],
+        "biom": ["dungeon", "ruins", "wilderness", "desert", "Mountain", "wasteland", "road"],
         "cr": "2",
-        "fightingstyle": ["Ambusher", "Pack"],
+        "fightingstyle": ["Ambush", "Pack"],
         "movement": ["Walk"],
         "purpose": ["Debuff", "Pressure"],
         "releaseurl": "https://www.patreon.com/posts/apshait-ambusher-83576135",
@@ -6545,7 +6484,7 @@
       "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
       "name": "Aerocyte Floatling",
       "properties": {
-        "biom": ["dungeon", "ruins", "wilderness", "desert", "mountains", "wasteland", "road", "civilised", "planar", "ocean", "horror", "futuristic"],
+        "biom": ["dungeon", "ruins", "wilderness", "desert", "Mountain", "wasteland", "road", "Civilized", "planar", "ocean", "horror", "futuristic"],
         "cr": "0.5",
         "fightingstyle": ["Airborne", "Pack"],
         "movement": ["Fly"],
@@ -6562,8 +6501,7 @@
         "stat_wis": 6,
         "thumbnail": "111_aerocyte_floatling_1-idle_face_still.webp",
         "type": [
-          "aberration",
-          ""
+          "aberration"
         ],
         "videourl": "https://youtu.be/ENVcMNUZfIo"
     }
@@ -6572,7 +6510,7 @@
       "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
       "name": "Aerocyte Floatling",
       "properties": {
-        "biom": ["dungeon", "ruins", "wilderness", "desert", "mountains", "wasteland", "road", "civilised", "planar", "ocean", "horror", "futuristic"],
+        "biom": ["dungeon", "ruins", "wilderness", "desert", "Mountain", "wasteland", "road", "Civilized", "planar", "ocean", "horror", "futuristic"],
         "cr": "0.5",
         "fightingstyle": ["Airborne", "Pack"],
         "movement": ["Fly"],
@@ -6589,8 +6527,7 @@
         "stat_wis": 6,
         "thumbnail": "111_aerocyte_floatling_2-idle_face_still.webp",
         "type": [
-          "aberration",
-          ""
+          "aberration"
         ],
         "videourl": "https://youtu.be/ENVcMNUZfIo"
     }
@@ -6599,7 +6536,7 @@
       "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
       "name": "Aerocyte Floatling Inflated",
       "properties": {
-        "biom": ["dungeon", "ruins", "wilderness", "desert", "mountains", "wasteland", "road", "civilised", "planar", "ocean", "horror", "futuristic"],
+        "biom": ["dungeon", "ruins", "wilderness", "desert", "Mountain", "wasteland", "road", "Civilized", "planar", "ocean", "horror", "futuristic"],
         "cr": "0.5",
         "fightingstyle": ["Airborne", "Pack"],
         "movement": ["Fly"],
@@ -6616,8 +6553,7 @@
         "stat_wis": 6,
         "thumbnail": "111_aerocyte_floatling_inflated_1-idle_face_still.webp",
         "type": [
-          "aberration",
-          ""
+          "aberration"
         ],
         "videourl": "https://youtu.be/ENVcMNUZfIo"
     }
@@ -6626,7 +6562,7 @@
       "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
       "name": "Aerocyte Floatling Inflated",
       "properties": {
-        "biom": ["dungeon", "ruins", "wilderness", "desert", "mountains", "wasteland", "road", "civilised", "planar", "ocean", "horror", "futuristic"],
+        "biom": ["dungeon", "ruins", "wilderness", "desert", "Mountain", "wasteland", "road", "Civilized", "planar", "ocean", "horror", "futuristic"],
         "cr": "0.5",
         "fightingstyle": ["Airborne", "Pack"],
         "movement": ["Fly"],
@@ -6643,8 +6579,7 @@
         "stat_wis": 6,
         "thumbnail": "111_aerocyte_floatling_inflated_2-idle_face_still.webp",
         "type": [
-          "aberration",
-          ""
+          "aberration"
         ],
         "videourl": "https://youtu.be/ENVcMNUZfIo"
     }
@@ -6653,7 +6588,7 @@
       "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
       "name": "Aerocyte Stratohive",
       "properties": {
-        "biom": ["dungeon", "ruins", "wilderness", "desert", "mountains", "wasteland", "road", "civilised", "planar", "ocean", "horror", "futuristic"],
+        "biom": ["dungeon", "ruins", "wilderness", "desert", "Mountain", "wasteland", "road", "Civilized", "planar", "ocean", "horror", "futuristic"],
         "cr": "8",
         "fightingstyle": ["Airborne", "Pack"],
         "movement": ["Fly"],
@@ -6670,8 +6605,7 @@
         "stat_wis": 14,
         "thumbnail": "111_aerocyte_stratohive_1-idle_face_still.webp",
         "type": [
-          "aberration",
-          ""
+          "aberration"
         ],
         "videourl": "https://youtu.be/ENVcMNUZfIo"
     }
@@ -6680,7 +6614,7 @@
       "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
       "name": "Aerocyte Stratohive",
       "properties": {
-        "biom": ["dungeon", "ruins", "wilderness", "desert", "mountains", "wasteland", "road", "civilised", "planar", "ocean", "horror", "futuristic"],
+        "biom": ["dungeon", "ruins", "wilderness", "desert", "Mountain", "wasteland", "road", "Civilized", "planar", "ocean", "horror", "futuristic"],
         "cr": "8",
         "fightingstyle": ["Airborne", "Pack"],
         "movement": ["Fly"],
@@ -6697,8 +6631,7 @@
         "stat_wis": 14,
         "thumbnail": "111_aerocyte_stratohive_2-idle_face_still.webp",
         "type": [
-          "aberration",
-          ""
+          "aberration"
         ],
         "videourl": "https://youtu.be/ENVcMNUZfIo"
     }
@@ -6707,7 +6640,7 @@
       "description": "The Valkyrie’s purpose transcends mere escorts of the fallen, for they are seekers of the Allfather’s mightiest foes across all realms. Traversing the boundless expanse of countless worlds, they remain unyielding in their quest, the relentless pursuit of proving their mettle, that they may someday prove skillful enough to perceive the skeins of fate, recognizing warriors worthy of a place within the golden halls of heroism. Forged in the fires of battle and beaten into shape upon the anvil of her expectations, there are no greater warriors than those growing under the winged shadow of the Allfather’s champions.",
       "name": "Valkyrie",
       "properties": {
-        "biom": ["dungeon", "ruins", "wilderness", "mountains", "wasteland", "road", "civilised", "planar", "sacral"],
+        "biom": ["dungeon", "ruins", "wilderness", "Mountain", "wasteland", "road", "Civilized", "planar", "sacral"],
         "cr": "20",
         "fightingstyle": ["Melee", "Mobile"],
         "movement": ["Fly"],
@@ -6724,8 +6657,7 @@
         "stat_wis": 22,
         "thumbnail": "000_month_3_valkyrie-idle_face_still.webp",
         "type": [
-          "celestial",
-          ""
+          "celestial","Beneos Loyalty Token"
         ],
         "videourl": "https://youtu.be/CoFpWUb5aWg"
     }
@@ -6751,8 +6683,7 @@
         "stat_wis": 8,
         "thumbnail": "112_witherflesh_colossus_2-idle_face_still.webp",
         "type": [
-          "undead",
-          ""
+          "undead"
         ],
         "videourl": "https://youtu.be/NE004FYa0kw"
     }
@@ -6778,8 +6709,7 @@
         "stat_wis": 8,
         "thumbnail": "112_witherflesh_colossus_3-idle_face_still.webp",
         "type": [
-          "undead",
-          ""
+          "undead"
         ],
         "videourl": "https://youtu.be/NE004FYa0kw"
     }
@@ -6805,8 +6735,7 @@
         "stat_wis": 8,
         "thumbnail": "112_witherflesh_colossus_4-idle_face_still.webp",
         "type": [
-          "undead",
-          ""
+          "undead"
         ],
         "videourl": "https://youtu.be/NE004FYa0kw"
     }
@@ -6832,8 +6761,7 @@
         "stat_wis": 8,
         "thumbnail": "112_witherflesh_colossus_1-idle_face_still.webp",
         "type": [
-          "undead",
-          ""
+          "undead"
         ],
         "videourl": "https://youtu.be/NE004FYa0kw"
     }
@@ -7085,7 +7013,7 @@
       "description": "For ages, scholars have been contemplating the origin of the mighty Minotaurs, bovine man-beasts of considerable strength, often exhibiting an inborn lust for battle and an innate understanding of ancient martial traditions. While civilized Minotaurs can be found in the ranks or even upper brass of mercenary bands or royal armies, feral specimens plague untamed lands or cut bloody swathes through frontier regions. Regardless of if they are the cursed children of a bestial progenitor or the products of a war god’s special kind of divine intervention, Minotaurs embody mythical prowess in a way few creatures do.",
       "name": "Minotaur",
       "properties": {
-        "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "civilised", "road", "forest", "desert", "mountains", "tavern" ],
+        "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "Civilized", "road", "forest", "desert", "Mountain", "tavern" ],
         "cr": "3",
         "fightingstyle": ["Charge", "Melee"],
         "movement": ["Walk"],
@@ -7102,8 +7030,7 @@
         "stat_wis": 16,
         "thumbnail": "114_minotaur_2-idle_face_still.webp",
         "type": [
-          "monstrosity",
-          ""
+          "monstrosity"
         ],
         "videourl": "https://youtu.be/n1ndYxDZGtg"
     }
@@ -7112,7 +7039,7 @@
       "description": "For ages, scholars have been contemplating the origin of the mighty Minotaurs, bovine man-beasts of considerable strength, often exhibiting an inborn lust for battle and an innate understanding of ancient martial traditions. While civilized Minotaurs can be found in the ranks or even upper brass of mercenary bands or royal armies, feral specimens plague untamed lands or cut bloody swathes through frontier regions. Regardless of if they are the cursed children of a bestial progenitor or the products of a war god’s special kind of divine intervention, Minotaurs embody mythical prowess in a way few creatures do.",
       "name": "Minotaur",
       "properties": {
-        "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "civilised", "road", "forest", "desert", "mountains", "tavern" ],
+        "biom": ["dungeon", "ruins", "wilderness", "wasteland", "road", "Civilized", "road", "forest", "desert", "Mountain", "tavern" ],
         "cr": "3",
         "fightingstyle": ["Charge", "Melee"],
         "movement": ["Walk"],
@@ -7129,8 +7056,7 @@
         "stat_wis": 16,
         "thumbnail": "114_minotaur_1-idle_face_still.webp",
         "type": [
-          "monstrosity",
-          ""
+          "monstrosity"
         ],
         "videourl": "https://youtu.be/n1ndYxDZGtg"
 		   }
@@ -7139,7 +7065,7 @@
       "description": "Magma Wyrms inhabit the most inhospitable terrain imaginable, breeding at the black sand shores of great lava lakes or within the noxious calderas of active volcanoes. Glowing red with inner heat and covered in glistening obdsidan scales, fighting these great Wyrms head on is foolhardy bordering suicidal and only the greatest (or most boastful) dwarven heros are said to having defied a Wyrm’s withering heat and extinguished its molten core.",
       "name": "Magma Wyrm",
       "properties": {
-        "biom": ["lair", "infernal", "planar", "wilderness", "mountains", "desert","wasteland"],
+        "biom": ["lair", "infernal", "planar", "wilderness", "Mountain", "desert","wasteland"],
         "cr": "19",
         "fightingstyle": ["tactical", "demanding"],
         "movement": ["Burrow"],
@@ -7156,8 +7082,7 @@
         "stat_wis": 16,
         "thumbnail": "000_month_2_magma_wyrm-idle_face_still.webp",
         "type": [
-          "dragon",
-          ""
+          "dragon","Beneos Loyalty Token"
         ],
         "videourl": "https://youtu.be/1s64rZkx_o8"
 
@@ -7168,7 +7093,7 @@
       "description": "Powder Dancers are part of a pirate ship’s dedicated boarding crews, agile and tactically versatile fighters and marksmen well versed in the art of ship to ship combat. They constantly alternate between melee and ranged weaponry, overwhelming the defenders with devastating point blank salvos from their characteristic flintlock pistols or pressuring them with aggressive bladework. Once the rhythmic, bellowing blasts fade away and the powder dust dissipates, the enemy ship has been taken.",
       "name": "Pirate Powder Dancer",
       "properties": {
-        "biom": ["ocean", "tavern", "lair", "coastal"],
+        "biom": ["ocean", "tavern", "lair", "Coast"],
         "cr": "2",
         "fightingstyle": ["interactive","shock"],
         "movement": ["Walk"],
@@ -7194,7 +7119,7 @@
       "description": "Powder Dancers are part of a pirate ship’s dedicated boarding crews, agile and tactically versatile fighters and marksmen well versed in the art of ship to ship combat. They constantly alternate between melee and ranged weaponry, overwhelming the defenders with devastating point blank salvos from their characteristic flintlock pistols or pressuring them with aggressive bladework. Once the rhythmic, bellowing blasts fade away and the powder dust dissipates, the enemy ship has been taken.",
       "name": "Pirate Powder Dancer",
       "properties": {
-        "biom": ["ocean", "tavern", "lair", "coastal"],
+        "biom": ["ocean", "tavern", "lair", "Coast"],
         "cr": "2",
         "fightingstyle": ["interactive","shock"],
         "movement": ["Walk"],
@@ -7220,7 +7145,7 @@
       "description": "Powder Dancers are part of a pirate ship’s dedicated boarding crews, agile and tactically versatile fighters and marksmen well versed in the art of ship to ship combat. They constantly alternate between melee and ranged weaponry, overwhelming the defenders with devastating point blank salvos from their characteristic flintlock pistols or pressuring them with aggressive bladework. Once the rhythmic, bellowing blasts fade away and the powder dust dissipates, the enemy ship has been taken.",
       "name": "Pirate Powder Dancer",
       "properties": {
-        "biom": ["ocean", "tavern", "lair", "coastal"],
+        "biom": ["ocean", "tavern", "lair", "Coast"],
         "cr": "2",
         "fightingstyle": ["interactive", "shock"],
         "movement": ["Walk"],
@@ -7263,8 +7188,7 @@
         "stat_wis": 11,
         "thumbnail": "116_voracious_mawbloom_1-idle_face_still.webp",
         "type": [
-          "plant",
-          ""
+          "plant"
         ],
         "videourl": "https://youtu.be/rUq8gDMJkvg"
     }
@@ -7290,8 +7214,7 @@
         "stat_wis": 11,
         "thumbnail": "116_voracious_mawbloom_2-idle_face_still.webp",
         "type": [
-          "plant",
-          ""
+          "plant"
         ],
         "videourl": "https://youtu.be/rUq8gDMJkvg"
     }
@@ -7317,8 +7240,7 @@
         "stat_wis": 11,
         "thumbnail": "116_voracious_mawbloom_3-idle_face_still.webp",
         "type": [
-          "plant",
-          ""
+          "plant"
         ],
         "videourl": "https://youtu.be/rUq8gDMJkvg"
 	  }
@@ -7344,8 +7266,7 @@
         "stat_wis": 10,
         "thumbnail": "116_mawbloom_creepling_3-idle_face_still.webp",
         "type": [
-          "plant",
-          ""
+          "plant"
         ],
         "videourl": "https://youtu.be/rUq8gDMJkvg"
     }
@@ -7354,7 +7275,7 @@
       "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon’s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
       "name": "Draconic Elite",
       "properties": {
-        "biom": ["ocean", "dungeon", "lair", "coastal", "ruins", "grave", "wasteland", "forest", "desert", "mountains"],
+        "biom": ["ocean", "dungeon", "lair", "Coast", "ruins", "grave", "wasteland", "forest", "desert", "Mountain"],
         "cr": "9",
         "fightingstyle": ["simple", "mobile", "melee"],
         "movement": ["Fly"],
@@ -7371,8 +7292,7 @@
         "stat_wis": 16,
         "thumbnail": "000_month_3_draconic_elite_1-idle_face_still.webp",
         "type": [
-          "dragon",
-          ""
+          "dragon","Beneos Loyalty Token"
         ],
         "videourl": "https://youtu.be/tnOtP7tXB7M"
     }
@@ -7381,7 +7301,7 @@
       "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon’s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
       "name": "Draconic Elite",
       "properties": {
-        "biom": ["ocean", "dungeon", "lair", "coastal", "ruins", "grave", "wasteland", "forest", "desert", "mountains"],
+        "biom": ["ocean", "dungeon", "lair", "Coast", "ruins", "grave", "wasteland", "forest", "desert", "Mountain"],
         "cr": "9",
         "fightingstyle": ["simple", "mobile", "melee"],
         "movement": ["Fly"],
@@ -7398,8 +7318,7 @@
         "stat_wis": 16,
         "thumbnail": "000_month_3_draconic_elite_2-idle_face_still.webp",
         "type": [
-          "dragon",
-          ""
+          "dragon","Beneos Loyalty Token"
         ],
         "videourl": "https://youtu.be/tnOtP7tXB7M"
     }
@@ -7408,7 +7327,7 @@
       "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon’s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
       "name": "Draconic Elite",
       "properties": {
-        "biom": ["ocean", "dungeon", "lair", "coastal", "ruins", "grave", "wasteland", "forest", "desert", "mountains"],
+        "biom": ["ocean", "dungeon", "lair", "Coast", "ruins", "grave", "wasteland", "forest", "desert", "Mountain"],
         "cr": "9",
         "fightingstyle": ["simple", "mobile", "melee"],
         "movement": ["Fly"],
@@ -7425,8 +7344,7 @@
         "stat_wis": 16,
         "thumbnail": "000_month_3_draconic_elite_3-idle_face_still.webp",
         "type": [
-          "dragon",
-          ""
+          "dragon","Beneos Loyalty Token"
         ],
         "videourl": "https://youtu.be/tnOtP7tXB7M"
     }
@@ -7435,7 +7353,7 @@
       "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon’s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
       "name": "Draconic Elite",
       "properties": {
-        "biom": ["ocean", "dungeon", "lair", "coastal", "ruins", "grave", "wasteland", "forest", "desert", "mountains"],
+        "biom": ["ocean", "dungeon", "lair", "Coast", "ruins", "grave", "wasteland", "forest", "desert", "Mountain"],
         "cr": "9",
         "fightingstyle": ["simple", "mobile", "melee"],
         "movement": ["Fly"],
@@ -7452,8 +7370,7 @@
         "stat_wis": 16,
         "thumbnail": "000_month_3_draconic_elite_4-idle_face_still.webp",
         "type": [
-          "dragon",
-          ""
+          "dragon","Beneos Loyalty Token"
         ],
         "videourl": "https://youtu.be/tnOtP7tXB7M"
     }
@@ -7462,7 +7379,7 @@
       "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon’s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
       "name": "Draconic Elite",
       "properties": {
-        "biom": ["ocean", "dungeon", "lair", "coastal", "ruins", "grave", "wasteland", "forest", "desert", "mountains"],
+        "biom": ["ocean", "dungeon", "lair", "Coast", "ruins", "grave", "wasteland", "forest", "desert", "Mountain"],
         "cr": "9",
         "fightingstyle": ["simple", "mobile", "melee"],
         "movement": ["Fly"],
@@ -7479,8 +7396,7 @@
         "stat_wis": 16,
         "thumbnail": "000_month_3_draconic_elite_5-idle_face_still.webp",
         "type": [
-          "dragon",
-          ""
+          "dragon","Beneos Loyalty Token"
         ],
         "videourl": "https://youtu.be/tnOtP7tXB7M"
     }
@@ -7489,7 +7405,7 @@
       "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon’s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
       "name": "Draconic Elite",
       "properties": {
-        "biom": ["ocean", "dungeon", "lair", "coastal", "ruins", "grave", "wasteland", "forest", "desert", "mountains"],
+        "biom": ["ocean", "dungeon", "lair", "Coast", "ruins", "grave", "wasteland", "forest", "desert", "Mountain"],
         "cr": "9",
         "fightingstyle": ["simple", "mobile", "melee"],
         "movement": ["Fly"],
@@ -7506,8 +7422,7 @@
         "stat_wis": 16,
         "thumbnail": "000_month_3_draconic_elite_6-idle_face_still.webp",
         "type": [
-          "dragon",
-          ""
+          "dragon","Beneos Loyalty Token"
         ],
         "videourl": "https://youtu.be/tnOtP7tXB7M"
 		}
@@ -7533,8 +7448,7 @@
         "stat_wis": 10,
         "thumbnail": "116_mawbloom_creepling_2-idle_face_still.webp",
         "type": [
-          "plant",
-          ""
+          "plant"
         ],
         "videourl": "https://youtu.be/rUq8gDMJkvg"
 		}
@@ -7560,8 +7474,7 @@
         "stat_wis": 10,
         "thumbnail": "116_mawbloom_creepling_1-idle_face_still.webp",
         "type": [
-          "plant",
-          ""
+          "plant"
         ],
         "videourl": "https://youtu.be/rUq8gDMJkvg"
     
@@ -7588,8 +7501,7 @@
         "stat_wis": 13,
         "thumbnail": "117_skeletal_graveblade_1-idle_face_still.webp",
         "type": [
-          "undead",
-          ""
+          "undead"
         ],
         "videourl": "https://youtu.be/TeFs2CagNL8"
     }
@@ -7615,8 +7527,7 @@
         "stat_wis": 13,
         "thumbnail": "117_skeletal_graveblade_2-idle_face_still.webp",
         "type": [
-          "undead",
-          ""
+          "undead"
         ],
         "videourl": "https://youtu.be/TeFs2CagNL8"
     }
@@ -7642,8 +7553,7 @@
         "stat_wis": 13,
         "thumbnail": "117_skeletal_graveblade_3-idle_face_still.webp",
         "type": [
-          "undead",
-          ""
+          "undead"
         ],
         "videourl": "https://youtu.be/TeFs2CagNL8"
     }
@@ -7652,7 +7562,7 @@
       "description": "Cyclopeans are tragic figurs, once the master smiths of giant kind, using their god-given power over the elements to forge storm-wreathed weaponry for the High Kings of the Storm Giants, the Frost Giant Jarls or Stone Giant Thanes. But these days are over, the few Cyclopeans left are pale shades of former glory, lumbering thin-blooded brutes who barely know how to swing their club, let alone a blacksmith’s hammer. They are very suspicious, but once their mistrust has been overcome, they are trusting bordering gullibe - perhaps an indication that their downfall has been brought about by betrayal and that these wounds still linger.",
       "name": "Cyclops",
       "properties": {
-        "biom": ["dungeon", "lair", "ruins", "road", "wasteland", "desert", "mountains", "coastal"],
+        "biom": ["dungeon", "lair", "ruins", "road", "wasteland", "desert", "Mountain", "Coast"],
         "cr": "6",
         "fightingstyle": ["simple", "charge"],
         "movement": ["Walk"],
@@ -7669,8 +7579,7 @@
         "stat_wis": 6,
         "thumbnail": "118_cyclops_1-idle_face_still.webp",
         "type": [
-          "giant",
-          " "
+          "giant"
         ],
         "videourl": "https://youtu.be/aXew-j-MKIo"
     }
@@ -7679,7 +7588,7 @@
       "description": "Cyclopeans are tragic figurs, once the master smiths of giant kind, using their god-given power over the elements to forge storm-wreathed weaponry for the High Kings of the Storm Giants, the Frost Giant Jarls or Stone Giant Thanes. But these days are over, the few Cyclopeans left are pale shades of former glory, lumbering thin-blooded brutes who barely know how to swing their club, let alone a blacksmith’s hammer. They are very suspicious, but once their mistrust has been overcome, they are trusting bordering gullibe - perhaps an indication that their downfall has been brought about by betrayal and that these wounds still linger.",
       "name": "Cyclops",
       "properties": {
-        "biom": ["dungeon", "lair", "ruins", "road", "wasteland", "desert", "mountains", "coastal"],
+        "biom": ["dungeon", "lair", "ruins", "road", "wasteland", "desert", "Mountain", "Coast"],
         "cr": "6",
         "fightingstyle": ["simple", "charge"],
         "movement": ["Walk"],
@@ -7696,8 +7605,7 @@
         "stat_wis": 6,
         "thumbnail": "118_cyclops_2-idle_face_still.webp",
         "type": [
-          "giant",
-          " "
+          "giant"
         ],
         "videourl": "https://youtu.be/aXew-j-MKIo"
     }
@@ -7706,7 +7614,7 @@
       "description": "Cyclopeans are tragic figurs, once the master smiths of giant kind, using their god-given power over the elements to forge storm-wreathed weaponry for the High Kings of the Storm Giants, the Frost Giant Jarls or Stone Giant Thanes. But these days are over, the few Cyclopeans left are pale shades of former glory, lumbering thin-blooded brutes who barely know how to swing their club, let alone a blacksmith’s hammer. They are very suspicious, but once their mistrust has been overcome, they are trusting bordering gullibe - perhaps an indication that their downfall has been brought about by betrayal and that these wounds still linger.",
       "name": "Cyclops",
       "properties": {
-        "biom": ["dungeon", "lair", "ruins", "road", "wasteland", "desert", "mountains", "coastal"],
+        "biom": ["dungeon", "lair", "ruins", "road", "wasteland", "desert", "Mountain", "Coast"],
         "cr": "6",
         "fightingstyle": ["simple", "charge"],
         "movement": ["Walk"],
@@ -7723,8 +7631,7 @@
         "stat_wis": 6,
         "thumbnail": "118_cyclops_3-idle_face_still.webp",
         "type": [
-          "giant",
-          " "
+          "giant"
         ],
         "videourl": "https://youtu.be/aXew-j-MKIo"
 	}
@@ -7750,8 +7657,7 @@
         "stat_wis": 10,
         "thumbnail": "119_sand_elemental-idle_face_still.webp",
         "type": [
-          "Elemental",
-          ""
+          "Elemental"
         ],
         "videourl": "https://youtu.be/itTCrbVZ488"
     }
@@ -7760,7 +7666,7 @@
       "description": "Dregs are found at the bottom of the vampiric hierarchy, unloved offspring marked and transformed by the bestial nature of their sanguine legacy. They are driven by maddening hunger and the aching need to receive any semblance of acknowledgment from their creator. Once their hunger is satiated, they become even more dangerous, as the starved beast turns into a cunning predator, now pursuing its prey not out of desperation, but for its own debased amusement.",
       "name": "Vampire Dreg",
       "properties": {
-        "biom": ["Graves", "Horror", "Wasteland", "Forest", "Wilderness", "Road", "Civilized", "Dungeon", "Swamp"],
+        "biom": ["Grave", "Horror", "Wasteland", "Forest", "Wilderness", "Road", "Civilized", "Dungeon", "Swamp"],
         "cr": "5",
         "fightingstyle": ["Mobile", "Melee"],
         "movement": ["Walk"],
@@ -7787,7 +7693,7 @@
       "description": "Sporeshamblers are humanoid husks overtaken by a fungal infestation. These hosts become questing tendrils of the mycotic collective, connected to the greater network in sporular communion. The collective is in a state of continuous adaptation, dissecting every impression felt and every experience gathered by the shambling extensions of its will. Should resistance arise, waves of Sporeshamblers surge against it until the collective has gathered enough information to grow hunter organisms perfectly attuned to the weaknesses of their dedicated prey.",
       "name": "Sporeshambler",
       "properties": {
-        "biom": ["Graves", "Horror", "Wasteland", "Forest", "Wilderness", "Road","Dungeon", "Swamp", "Tropical", "Wilderness"],
+        "biom": ["Grave", "Horror", "Wasteland", "Forest", "Wilderness", "Road","Dungeon", "Swamp", "Tropical", "Wilderness"],
         "cr": "0.5",
         "fightingstyle": ["Simple", "Pack"],
         "movement": ["Walk"],
@@ -7805,7 +7711,6 @@
         "thumbnail": "121_sporeshambler_1-idle_face_still.webp",
         "type": [
           "Undead"
-          
         ],
         "videourl": "https://youtu.be/NHCuSjMFOrI"
     }
@@ -7814,7 +7719,7 @@
       "description": "Sporeshamblers are humanoid husks overtaken by a fungal infestation. These hosts become questing tendrils of the mycotic collective, connected to the greater network in sporular communion. The collective is in a state of continuous adaptation, dissecting every impression felt and every experience gathered by the shambling extensions of its will. Should resistance arise, waves of Sporeshamblers surge against it until the collective has gathered enough information to grow hunter organisms perfectly attuned to the weaknesses of their dedicated prey.",
       "name": "Sporeshambler",
       "properties": {
-        "biom": ["Graves", "Horror", "Wasteland", "Forest", "Wilderness", "Road","Dungeon", "Swamp","Tropical", "Wilderness"],
+        "biom": ["Grave", "Horror", "Wasteland", "Forest", "Wilderness", "Road","Dungeon", "Swamp","Tropical", "Wilderness"],
         "cr": "0.5",
         "fightingstyle": ["Simple", "Pack"],
         "movement": ["Walk"],
@@ -7832,7 +7737,6 @@
         "thumbnail": "121_sporeshambler_2-idle_face_still.webp",
         "type": [
           "Undead"
-          
         ],
         "videourl": "https://youtu.be/NHCuSjMFOrI"
     }
@@ -7841,7 +7745,7 @@
       "description": "Sporeshamblers are humanoid husks overtaken by a fungal infestation. These hosts become questing tendrils of the mycotic collective, connected to the greater network in sporular communion. The collective is in a state of continuous adaptation, dissecting every impression felt and every experience gathered by the shambling extensions of its will. Should resistance arise, waves of Sporeshamblers surge against it until the collective has gathered enough information to grow hunter organisms perfectly attuned to the weaknesses of their dedicated prey.",
       "name": "Sporeshambler",
       "properties": {
-        "biom": ["Graves", "Horror", "Wasteland", "Forest", "Wilderness", "Road","Dungeon", "Swamp", "Tropical", "Wilderness"],
+        "biom": ["Grave", "Horror", "Wasteland", "Forest", "Wilderness", "Road","Dungeon", "Swamp", "Tropical", "Wilderness"],
         "cr": "0.5",
         "fightingstyle": ["Simple", "Pack"],
         "movement": ["Walk"],
@@ -7859,7 +7763,6 @@
         "thumbnail": "121_sporeshambler_3-idle_face_still.webp",
         "type": [
           "Undead"
-          
         ],
         "videourl": "https://youtu.be/NHCuSjMFOrI"
     }
@@ -7868,7 +7771,7 @@
       "description": "Crownbreaker Archwyverns are the equivalent of a sentient tornado deciding that it wants to battle the nearest earthquake for catastrophic supremacy. Crownbreakers live to fight for the top of the food chain, tirelessly working their way from territory to territory, domain to domain, tirelessly challenging the rulers of those realms - be they other wyverns, chimeras, giants or even true dragons. Through physical strength, raw aggression, and ceaseless savagery alone, these colossal Arch-Wyverns manage to triumph over opponents that seem many times more powerful than their challengers. With each victory, the Arch-Wyvern emerges stronger, and with each triumph, it comes closer to its goal of absolute martial dominance.",
       "name": "Crownbreaker Archwyvern",
       "properties": {
-        "biom": ["Graves", "Forest", "Coast", "Oceal", "Mountains", "Desert", "Wasteland", "Wilderness", "Road", "Dungeon", "Lair"],
+        "biom": ["Grave", "Forest", "Coast", "Ocean", "Mountain", "Desert", "Wasteland", "Wilderness", "Road", "Dungeon", "Lair"],
         "cr": "16",
         "fightingstyle": ["Melee", "Tactical"],
         "movement": ["Fly"],
@@ -7886,7 +7789,7 @@
         "thumbnail": "000_month_5_crownbreaker_archwyvern-idle_face_still.webp",
         "type": [
           "Dragon",
-          "Wyvern"
+          "Wyvern","Beneos Loyalty Token"
         ],
         "videourl": "https://youtu.be/cTnFnZ1YzcA"
     }
@@ -7895,11 +7798,11 @@
       "description": "Gutterfists are hard-boiled brawlers, back alley thugs, prizefighters, or gentlemen pugilists. They hold their ground against better-armored foes with nothing but rock-hard abs, moxie, and their bare hands. Eventually, even veteran warriors might find themselves outmaneuvered and pinned to the ground as a hail of fists dents their priceless armor, all while the Gutterfist spouts filthy limericks concerning the promiscuous nature of their opponents’ mothers.",
       "name": "Gutterfist",
       "properties": {
-        "biom": ["Civilised", "City", "Tavern"],
+        "biom": ["Civilized", "City", "Tavern"],
         "cr": "5",
         "fightingstyle": ["Melee", "Interactive"],
         "movement": ["Walk"],
-        "purpose": ["Duellist"],
+        "purpose": ["Duelist"],
         "releaseurl": "https://www.patreon.com/posts/gutterfist-87724880",
         "size": "Medium",
         "stat_ac": 16,
@@ -7922,7 +7825,7 @@
       "description": "After the Black Rose Abbey was plundered and put to the torch by a band of roving robber-knights, the Abbess and her sworn sisters turned it into a briar-wreathed bastion and founded the clandestine order of Blackfeather Huntresses, an all female institution of knight-hunters sworn to neither king nor realm. Everyone can petition the Abbey to seek vengeance for unjust transgressions, abuse of power or breaking of chivalrous oaths. If the petition is granted, the Blackfeather Hunt is called and a pair of Huntressess seeks out their knightly prey.",
       "name": "Blackfeather Huntress",
       "properties": {
-        "biom": ["Civilised", "City", "Road", "Sacral", "Wilderness", "Ruins"],
+        "biom": ["Civilized", "City", "Road", "Sacral", "Wilderness", "Ruins"],
         "cr": "5",
         "fightingstyle": ["Ranged", "Mobile"],
         "movement": ["Walk"],
@@ -7949,7 +7852,7 @@
       "description": "Ogres are gluttonous and vile in nature, wild ogres even more so than their more civilized kin who hire themselves out as extra muscle for legally questionable endeavors. Some Ogres, however, gradually become more debased in their insatiable search for more and more food, eventually becoming dangerous, blood-drunk brutes hellbent on driving their carious tusks into everything they encounter, even taking their attention of ongoing fights to gorge themselves on the fallen combatants - much to the horror of eventual onlookers.",
       "name": "Ogre Maneater",
       "properties": {
-        "biom": ["Wilderness", "Forest", "Road", "Wastelands", "Desert", "Ruins", "Lair", "Mountains"],
+        "biom": ["Wilderness", "Forest", "Road", "Wasteland", "Desert", "Ruins", "Lair", "Mountain"],
         "cr": "4",
         "fightingstyle": ["Simple", "Melee"],
         "movement": ["Walk"],
@@ -7976,7 +7879,7 @@
       "description": "Ogres are gluttonous and vile in nature, wild ogres even more so than their more civilized kin who hire themselves out as extra muscle for legally questionable endeavors. Some Ogres, however, gradually become more debased in their insatiable search for more and more food, eventually becoming dangerous, blood-drunk brutes hellbent on driving their carious tusks into everything they encounter, even taking their attention of ongoing fights to gorge themselves on the fallen combatants - much to the horror of eventual onlookers.",
       "name": "Ogre Maneater",
       "properties": {
-        "biom": ["Wilderness", "Forest", "Road", "Wastelands", "Desert", "Ruins", "Lair", "Mountains"],
+        "biom": ["Wilderness", "Forest", "Road", "Wasteland", "Desert", "Ruins", "Lair", "Mountain"],
         "cr": "4",
         "fightingstyle": ["Simple", "Melee"],
         "movement": ["Walk"],
@@ -8003,7 +7906,7 @@
       "description": "Satyrs are minor fey who dedicate their lives to the pursuit of pleasure and excess. Due to their natural curiosity, they often find their way into the mundane world through rifts and gaps between planes, where they eagerly interact with its inhabitants. The danger posed by Satyrs is not immediately apparent - their inherent fey magic can plunge mortals into a state of intoxication that leads them to dissolve into a state of hedonistic ecstasy, losing their awareness of place and time before collapsing from exhaustion. Additionally, the satyric temperament can become increasingly unpredictable as the festivities approach their climax, and not infrequently, under the influence of intoxicating substances, the otherwise amicable and sociable creatures reveal their unpredictable and alien fey nature.",
       "name": "Satyr",
       "properties": {
-        "biom": ["Wilderness", "Forest", "Road", "Ruins", "Mountains", "Planar"],
+        "biom": ["Wilderness", "Forest", "Road", "Ruins", "Mountain", "Planar"],
         "cr": "0.5",
         "fightingstyle": ["Ranged", "Pack"],
         "movement": ["Walk"],
@@ -8030,7 +7933,7 @@
       "description": "Satyrs are minor fey who dedicate their lives to the pursuit of pleasure and excess. Due to their natural curiosity, they often find their way into the mundane world through rifts and gaps between planes, where they eagerly interact with its inhabitants. The danger posed by Satyrs is not immediately apparent - their inherent fey magic can plunge mortals into a state of intoxication that leads them to dissolve into a state of hedonistic ecstasy, losing their awareness of place and time before collapsing from exhaustion. Additionally, the satyric temperament can become increasingly unpredictable as the festivities approach their climax, and not infrequently, under the influence of intoxicating substances, the otherwise amicable and sociable creatures reveal their unpredictable and alien fey nature.",
       "name": "Satyr",
       "properties": {
-        "biom": ["Wilderness", "Forest", "Road", "Ruins", "Mountains", "Planar"],
+        "biom": ["Wilderness", "Forest", "Road", "Ruins", "Mountain", "Planar"],
         "cr": "0.5",
         "fightingstyle": ["Ranged", "Pack"],
         "movement": ["Walk"],
@@ -8059,9 +7962,9 @@
       "properties": {
         "biom": ["Ruins", "Civilized", "Planar", "Lair"],
         "cr": "23",
-        "fightingstyle": ["Boss", "Pressure"],
+        "fightingstyle": ["Pressure"],
         "movement": ["Fly"],
-        "purpose": ["Lethal", "Demanding"],
+        "purpose": ["Lethal", "Demanding","Boss"],
         "releaseurl": "",
         "size": "Medium",
         "stat_ac": 17,
@@ -8074,8 +7977,7 @@
         "stat_wis": 16,
         "thumbnail": "000_month_6_emissary_of_annihilation-idle_face_still.webp",
         "type": [
-          "Construct",
-          ""
+          "Construct","Beneos Loyalty Token"
         ],
         "videourl": "https://youtu.be/Yx8049uGtVg?si=PE5vpeCGflnO79-T"
     }
@@ -8084,7 +7986,7 @@
       "description": "Opulence Devils revel in subverting mortal structures and corrupting them from within, perhaps even more so than their infernal brethren. Concealed beneath the guise of opulent dignitaries, statesmen or merchant-princes bedecked in jewels, their ostentatious presence screams of extravagance and excess. They entice with promises and bargains, especially those who have little and crave much. Even in combat, these devils seek to tempt their foes, ultimately goading them into their own damnation.",
       "name": "Opulence Devil",
       "properties": {
-        "biom": ["Ruins", "Civilized", "Planar", "Lair" ,"Infernal", "Civilised"],
+        "biom": ["Ruins", "Civilized", "Planar", "Lair" ,"Infernal", "Civilized"],
         "cr": "9",
         "fightingstyle": ["Simple", "Swallow"],
         "movement": ["Walk"],
@@ -8111,7 +8013,7 @@
       "description": "It doesn’t take much imagination to understand why Constrictor Drakes bear their name, as they are the most serpentine of the lesser Wyverns, from their hunting methods to their puff adder-like jaws and tooth shape. They combine the worst qualities of snake and wyverns, resulting in a venomous, choke-happy, flying serpent the size of a horse. The Constrictor Drake’s vivid warning colors only heighten one’s unease because one can only imagine the kind of predator they are trying to deter.",
       "name": "Constrictor Drake",
       "properties": {
-        "biom": ["Ruins", "Forest", "Desert", "Wilderness" ,"Wasteland", "Road", "Mountains", "Coast"],
+        "biom": ["Ruins", "Forest", "Desert", "Wilderness" ,"Wasteland", "Road", "Mountain", "Coast"],
         "cr": "6",
         "fightingstyle": ["Tactical", "Swallow", "Mobile"],
         "movement": ["Fly"],
@@ -8129,7 +8031,7 @@
         "thumbnail": "127_constrictor_drake_1-idle_face_still.webp",
         "type": [
           "Dragon",
-          "Wyverm"
+          "Wyvern"
         ],
         "videourl": "https://youtu.be/5dD9TnTs5us?si=_XmwyJbgqQmOWHog"
     }
@@ -8138,7 +8040,7 @@
       "description": "It doesn’t take much imagination to understand why Constrictor Drakes bear their name, as they are the most serpentine of the lesser Wyverns, from their hunting methods to their puff adder-like jaws and tooth shape. They combine the worst qualities of snake and wyverns, resulting in a venomous, choke-happy, flying serpent the size of a horse. The Constrictor Drake’s vivid warning colors only heighten one’s unease because one can only imagine the kind of predator they are trying to deter.",
       "name": "Constrictor Drake",
       "properties": {
-        "biom": ["Ruins", "Forest", "Desert", "Wilderness" ,"Wasteland", "Road", "Mountains", "Coast"],
+        "biom": ["Ruins", "Forest", "Desert", "Wilderness" ,"Wasteland", "Road", "Mountain", "Coast"],
         "cr": "6",
         "fightingstyle": ["Tactical", "Swallow", "Mobile"],
         "movement": ["Fly"],
@@ -8156,7 +8058,7 @@
         "thumbnail": "127_constrictor_drake_2-idle_face_still.webp",
         "type": [
           "Dragon",
-          "Wyverm"
+          "Wyvern"
         ],
         "videourl": "https://youtu.be/5dD9TnTs5us?si=_XmwyJbgqQmOWHog"
     }
@@ -8165,7 +8067,7 @@
       "description": "It doesn’t take much imagination to understand why Constrictor Drakes bear their name, as they are the most serpentine of the lesser Wyverns, from their hunting methods to their puff adder-like jaws and tooth shape. They combine the worst qualities of snake and wyverns, resulting in a venomous, choke-happy, flying serpent the size of a horse. The Constrictor Drake’s vivid warning colors only heighten one’s unease because one can only imagine the kind of predator they are trying to deter.",
       "name": "Constrictor Drake",
       "properties": {
-        "biom": ["Ruins", "Forest", "Desert", "Wilderness" ,"Wasteland", "Road", "Mountains", "Coast"],
+        "biom": ["Ruins", "Forest", "Desert", "Wilderness" ,"Wasteland", "Road", "Mountain", "Coast"],
         "cr": "6",
         "fightingstyle": ["Tactical", "Swallow", "Mobile"],
         "movement": ["Fly"],
@@ -8183,7 +8085,7 @@
         "thumbnail": "127_constrictor_drake_3-idle_face_still.webp",
         "type": [
           "Dragon",
-          "Wyverm"
+          "Wyvern"
         ],
         "videourl": "https://youtu.be/5dD9TnTs5us?si=_XmwyJbgqQmOWHog"
     }
@@ -8192,7 +8094,7 @@
       "description": "It doesn’t take much imagination to understand why Constrictor Drakes bear their name, as they are the most serpentine of the lesser Wyverns, from their hunting methods to their puff adder-like jaws and tooth shape. They combine the worst qualities of snake and wyverns, resulting in a venomous, choke-happy, flying serpent the size of a horse. The Constrictor Drake’s vivid warning colors only heighten one’s unease because one can only imagine the kind of predator they are trying to deter.",
       "name": "Constrictor Drake",
       "properties": {
-        "biom": ["Ruins", "Forest", "Desert", "Wilderness" ,"Wasteland", "Road", "Mountains", "Coast"],
+        "biom": ["Ruins", "Forest", "Desert", "Wilderness" ,"Wasteland", "Road", "Mountain", "Coast"],
         "cr": "6",
         "fightingstyle": ["Tactical", "Swallow", "Mobile"],
         "movement": ["Fly"],
@@ -8210,7 +8112,7 @@
         "thumbnail": "127_constrictor_drake_4-idle_face_still.webp",
         "type": [
           "Dragon",
-          "Wyverm"
+          "Wyvern"
         ],
         "videourl": "https://youtu.be/5dD9TnTs5us?si=_XmwyJbgqQmOWHog"
     }
@@ -8219,7 +8121,7 @@
       "description": "It doesn’t take much imagination to understand why Constrictor Drakes bear their name, as they are the most serpentine of the lesser Wyverns, from their hunting methods to their puff adder-like jaws and tooth shape. They combine the worst qualities of snake and wyverns, resulting in a venomous, choke-happy, flying serpent the size of a horse. The Constrictor Drake’s vivid warning colors only heighten one’s unease because one can only imagine the kind of predator they are trying to deter.",
       "name": "Constrictor Drake",
       "properties": {
-        "biom": ["Ruins", "Forest", "Desert", "Wilderness" ,"Wasteland", "Road", "Mountains", "Coast"],
+        "biom": ["Ruins", "Forest", "Desert", "Wilderness" ,"Wasteland", "Road", "Mountain", "Coast"],
         "cr": "6",
         "fightingstyle": ["Tactical", "Swallow", "Mobile"],
         "movement": ["Fly"],
@@ -8237,7 +8139,7 @@
         "thumbnail": "127_constrictor_drake_5-idle_face_still.webp",
         "type": [
           "Dragon",
-          "Wyverm"
+          "Wyvern"
         ],
         "videourl": "https://youtu.be/5dD9TnTs5us?si=_XmwyJbgqQmOWHog"
     }
@@ -8246,9 +8148,9 @@
       "description": "Voidmare Wailers hail from the eponymous Voidmare, a nightmarish prison dimension steeped in cosmic darkness. Beings banished into the black cells of the Voidmare lose themselves in isolation and void-chill, eventually pupating and morphing into weeping and wailing monstrosities infused with the dimension’s tortuous, hungering for the dreams and memories of living beings, their own lost forever.",
       "name": "Voidmare Wailer",
       "properties": {
-        "biom": ["Ruins", "Graves", "Planar", "Horror", "Civilised"],
+        "biom": ["Ruins", "Grave", "Planar", "Horror", "Civilized"],
         "cr": "7",
-        "fightingstyle": ["Tactical", "Ambusher", "Demanding"],
+        "fightingstyle": ["Tactical", "Ambush", "Demanding"],
         "movement": ["Walk"],
         "purpose": ["Pressure", "Hunter"],
         "releaseurl": "",
@@ -8263,8 +8165,7 @@
         "stat_wis": 12,
         "thumbnail": "128_voidmare_wailer-idle_face_still.webp",
         "type": [
-          "Aberration",
-          ""
+          "Aberration"
         ],
         "videourl": ""
     }
@@ -8273,7 +8174,7 @@
       "description": "Dragon-Sages travel the world, offering their wisdom and experience to those whose philosophies align with their own. Most of them are hundreds of years old, and their gaze discerns patterns and causalities that remain hidden to most. Thus, they assume various roles, from saviors to destroyers, to steer the course of history in a way that aligns with their own nature. Characteristic of Azure Dragon-Sages is the pursuit of freedom for all peoples, and their arrival often heralds revolution and reformation. Some act as advisors, being able to foretel the future by discerning cloud patterns, some as elite instructors or even military leaders, their troops marching to the drum-beat of distant thunder.",
       "name": "Azure Dragon Sage",
       "properties": {
-        "biom": ["Ruins", "Sacral", "Planar", "Mountains", "Civilised", "Wilderness"],
+        "biom": ["Ruins", "Sacral", "Planar", "Mountain", "Civilized", "Wilderness"],
         "cr": "15",
         "fightingstyle": ["Tactical", "Demanding", "Mobile"],
         "movement": ["Walk"],
@@ -8290,8 +8191,7 @@
         "stat_wis": 22,
         "thumbnail": "000_month_7_azure_dragon_sage-idle_face_still.webp",
         "type": [
-          "dragon",
-          ""
+          "dragon","Beneos Loyalty Token"
         ],
         "videourl": ""
     }
@@ -8300,7 +8200,7 @@
       "description": "The legendary Undead Archers of the Burial Host serve as tireless artillery units, inexorable in their mission to provide cover for the marching troops. The Host’s shambling hordes advance through a torrent of Rothail arrows. Even though their deteriorated musculature only allows the use of shortbows, they can be deployed further forward than regular archers, as an undead archer felled by return fire may rise again to continue their ceaseless barrage. Even when outmaneuvered and locked in melee combat, the Host’s archers refuse to yield, continuing their unrelenting volleys until physically incapable of doing so.",
       "name": "Undead Archer",
       "properties": {
-        "biom": ["Ruins", "Swamp", "Graves", "Dungeon", "Horror", "Wilderness"],
+        "biom": ["Ruins", "Swamp", "Grave", "Dungeon", "Horror", "Wilderness"],
         "cr": "1",
         "fightingstyle": ["Simple", "Pack", "Ranged"],
         "movement": ["Walk"],
@@ -8317,8 +8217,7 @@
         "stat_wis": 6,
         "thumbnail": "129_undead_archer_1-idle_face_still.webp",
         "type": [
-          "undead",
-          ""
+          "undead"
         ],
         "videourl": ""
     }
@@ -8327,7 +8226,7 @@
       "description": "The legendary Undead Archers of the Burial Host serve as tireless artillery units, inexorable in their mission to provide cover for the marching troops. The Host’s shambling hordes advance through a torrent of Rothail arrows. Even though their deteriorated musculature only allows the use of shortbows, they can be deployed further forward than regular archers, as an undead archer felled by return fire may rise again to continue their ceaseless barrage. Even when outmaneuvered and locked in melee combat, the Host’s archers refuse to yield, continuing their unrelenting volleys until physically incapable of doing so.",
       "name": "Undead Archer",
       "properties": {
-        "biom": ["Ruins", "Swamp", "Graves", "Dungeon", "Horror", "Wilderness"],
+        "biom": ["Ruins", "Swamp", "Grave", "Dungeon", "Horror", "Wilderness"],
         "cr": "1",
         "fightingstyle": ["Simple", "Pack", "Ranged"],
         "movement": ["Walk"],
@@ -8344,8 +8243,7 @@
         "stat_wis": 6,
         "thumbnail": "129_undead_archer_2-idle_face_still.webp",
         "type": [
-          "undead",
-          ""
+          "undead"
         ],
         "videourl": ""
     }
@@ -8354,7 +8252,7 @@
       "description": "The legendary Undead Archers of the Burial Host serve as tireless artillery units, inexorable in their mission to provide cover for the marching troops. The Host’s shambling hordes advance through a torrent of Rothail arrows. Even though their deteriorated musculature only allows the use of shortbows, they can be deployed further forward than regular archers, as an undead archer felled by return fire may rise again to continue their ceaseless barrage. Even when outmaneuvered and locked in melee combat, the Host’s archers refuse to yield, continuing their unrelenting volleys until physically incapable of doing so.",
       "name": "Undead Archer",
       "properties": {
-        "biom": ["Ruins", "Swamp", "Graves", "Dungeon", "Horror", "Wilderness"],
+        "biom": ["Ruins", "Swamp", "Grave", "Dungeon", "Horror", "Wilderness"],
         "cr": "1",
         "fightingstyle": ["Simple", "Pack", "Ranged"],
         "movement": ["Walk"],
@@ -8371,8 +8269,7 @@
         "stat_wis": 6,
         "thumbnail": "129_undead_archer_3-idle_face_still.webp",
         "type": [
-          "undead",
-          ""
+          "undead"
         ],
         "videourl": ""
     }

@@ -107,9 +107,33 @@
       }
     },
 	"spell_type": {
-      "buff": {
-        "message": "To Do"
-      }
+      "Buff": {
+        "message": "Effects that make you or your allies stronger."
+      },
+      "Damage": {
+        "message": "Spells that harm your enemies."
+      },
+      "Debuff": {
+        "message": "Effects that weakens your enemeis."
+      },
+      "Capture": {
+        "message": "Spells that help you lock down enemies or prevent them from escaping."
+      },
+      "Summon": {
+        "message": "Spells that create entities on the battlefield."
+      },
+      "Utility": {
+        "message": "Spells that alter the battlefield to your will."
+      },
+      "Control": {
+        "message": "Effects that help to control creature."
+      },
+      "Area of Effect": {
+        "message": "Effects that cover an area."
+      },
+      "Mobility": {
+        "message": "Spells that increases movement speed or help overcoming obstacles."
+      }  
 	},
     "installed": {
       "installed": {
