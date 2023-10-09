@@ -148,10 +148,10 @@
 	},
     "installed": {
       "installed": {
-        "message": "Still to Define."
+        "message": "This content is available to you."
       },
       "not_installed": {
-        "message": "Still to Define."
+        "message": "This content is currently not available to you."
       }
     }
   }
