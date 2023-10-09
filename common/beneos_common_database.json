@@ -137,10 +137,10 @@
         "message": "Spells creating new entities on the battlefield, possibly acting on their own."
       },
       "Utility": {
-        "message": "Spells that have a wide array of applications."
+        "message": "Spells having a wide array of applications for varying situations."
       },
       "Mobility": {
-        "message": "Spells that increases movement speed or help overcoming obstacles."
+        "message": "Spells increasing movement speed, offering additional types of movement or genereally assist in overcoming environmental obstacles."
 	  },
       "Restoration": {
         "message": "Spells removing negative status conditions or debilitating effects."
