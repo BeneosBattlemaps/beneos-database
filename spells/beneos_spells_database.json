@@ -285,7 +285,7 @@
         "casting_time": "Action",
         "concentration": true,
         "ritual": true,
-        "spell_type": "Buff",
+        "spell_type": "Mobility",
         "classes": ["Druid","Sorcerer","Cleric","Paladin"],
         "components": ["V","S","M"],
         "icon": "0015_stormflight-icon.webp"
