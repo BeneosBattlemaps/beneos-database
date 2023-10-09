@@ -15,6 +15,9 @@
 		},
 		"crystalline": {
 			"message": "Throughout the mundane and planar realms, crystals act as conduits for all kinds of magic, with application in matters ranging from warfare to leisure activities or entertainment. "
+			},
+		"beastforged": {
+			"message": "Gear crafted from parts of a creature's inherent biology or physical makeup often retains some of the original creature's traits."
 		},
 		"druidic": {
 			"message": "These objects often incorporate living organisms, carefully nurtured and motivated to share nature's gifts or dole out her wrath."
@@ -24,6 +27,9 @@
 		},
 		"feywoven": {
 			"message": "Objects exemplifying the nature of the fair lords and ladies and their alien domain, equally plausible to have been brought into existence in pursuit of power or simply for fun."
+		},
+		"elemental": {
+			"message": "Infused with the essences of the elemental planes, these objects often allow their users to harness the raw forces of the elements."
 		},
 		"giantforged": {
 			"message": "Whether forged on storm-wreathed peaks or within the boiling depths of volcanic magma chambers, these artifacts embody the indomitable elemental might of giant-kin."
@@ -36,7 +42,6 @@
 		},
 		"occult": {
 			"message": "Sinister in appearance and function, these items were created using forbidden knowledge or had their essence marred through vile use."
-
 		},
 		"primordial": {
 			"message": "Remnants of a world that was, still drawing strength from the primal essences unleashed at the dawn of creation."
@@ -56,40 +61,40 @@
 	},
 	"item_type": {
 	  "Trinket": {
-		"message": "Still to Define."
+		"message": "A small item or token that holds sentimental or narrative value."
 	  }, 
 	  "Melee Weapon": {
-		"message": "Still to Define."
+		"message": "A tool to inflict physical damage, harm, or kill in close combat, differing in type and nature."
 	  }, 
 	  "Range Weapon": {
-		"message": "Still to Define."
+		"message": "A tool to inflict physical damage, harm, or kill from afar, differing in impact and effective range."
 	  }, 
 	  "Consumable": {
-		"message": "Still to Define."
+		"message": "Items whose effects activate after consumatation, generally with a limited amount of uses."
 	  }, 
 	  "Clothing": {
-		"message": "Still to Define."
+		"message": "Boots, cloaks, hats or gloves - anything that might cover a body without offering the protection of armor."
 	  }, 
 	  "Tool": {
-		"message": "Still to Define."
+		"message": "Specific devices to be used in particular situations."
 	  }, 
 	  "Natural": {
-		"message": "Still to Define."
+		"message": "Weapons or other means of armament that are part of a creature's inherent biology or physical makeup."
 	  }, 
 	  "Heavy Armor": {
-		"message": "Still to Define."
+		"message": "A full-body harness, crafted from metal or equally sturdy materials, requires great strength to wear but offers maximum protection"
 	  }, 
 	  "Medium Armor": {
-		"message": "Still to Define."
+		"message": "Flexible materials reinforced with heavy elements, striking a deal between protection and mobility."
 	  }, 
 	  "Light Armor": {
-		"message": "Still to Define."
+		"message": "Protective gear fashioned from light materials, preferred by combatants with superior agility or reflexes."
 	  }, 
 	  "Shield": {
-		"message": "Still to Define."
+		"message": "Personal armor varying in shape or size, usually strapped to the wielder's arm, used to actively intercept attacks."
 	  }, 
 	  "Backpack": {
-		"message": "Still to Define."
+		"message": "Varying containers usually strapped to a creature's back."
 	  }
     },
     "tier": {
@@ -108,31 +113,37 @@
     },
 	"spell_type": {
       "Buff": {
-        "message": "Effects that make you or your allies stronger."
+        "message": "Spells supporting your allies or strengthening yourself."
       },
-      "Damage": {
-        "message": "Spells that harm your enemies."
+      "Ranged Damage": {
+        "message": "Spells directly harming creatures from a distance."
+	 },
+      "Ranged Damage": {
+        "message": "Spells directly harming creatures within melee range."
+      },
+      "Area Effect": {
+        "message": "Spells affecting targets within a specific area or the area itself."
+	 },
+      "Curse": {
+        "message": "Spells compelling creatures to act in certain ways."
       },
       "Debuff": {
-        "message": "Effects that weakens your enemeis."
+        "message": "Spells hindering or weakening creatures."
       },
-      "Capture": {
-        "message": "Spells that help you lock down enemies or prevent them from escaping."
+      "Immobilization": {
+        "message": "Spells preventing creatures from moving or even acting at all."
       },
       "Summon": {
-        "message": "Spells that create entities on the battlefield."
+        "message": "Spells creating new entities on the battlefield, possibly acting on their own."
       },
       "Utility": {
-        "message": "Spells that alter the battlefield to your will."
-      },
-      "Control": {
-        "message": "Effects that help to control creature."
-      },
-      "Area of Effect": {
-        "message": "Effects that cover an area."
+        "message": "Spells that have a wide array of applications."
       },
       "Mobility": {
         "message": "Spells that increases movement speed or help overcoming obstacles."
+	  },
+      "Restoration": {
+        "message": "Spells removing negative status effects or debilitating effects."
       }  
 	},
     "installed": {

@@ -13,7 +13,7 @@
         "casting_time": "Action",
         "concentration": true,
         "ritual": true,
-        "spell_type": "Area Damage, Sustained",
+        "spell_type": "Area Effect",
         "classes": ["Druid","Sorcerer","Wizard","Bard","Warlock","Paladin","Ranger"],
         "components": ["V","S","M"],
         "icon": "0001_needleburst_cactus-icon.webp"
@@ -29,7 +29,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "Melee Damage, Debuff",
+        "spell_type": "Melee Damage",
         "classes": ["Cleric", "Sorcerer","Warlock","Wizard"],
         "components": ["V","S"],
         "icon": "0002_black_hand-icon.webp"
@@ -45,7 +45,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "Ranged Damage, Immobilization",
+        "spell_type": "Ranged Damage",
         "classes": ["Sorcerer","Warlock","Ranger","Bard"],
         "components": ["V","S","M"],
         "icon": "0003_spiteful_harpoon-icon.webp"
@@ -61,7 +61,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "Area Curse",
+        "spell_type": "Curse",
         "classes": ["Sorcerer","Warlock","Druid","Ranger"],
         "components": ["V","S","M"],
         "icon": "0005_red_mist_frenzy-icon.webp"
@@ -109,7 +109,7 @@
         "casting_time": "Action",
         "concentration": true,
         "ritual": true,
-        "spell_type": "Defensive Buff",
+        "spell_type": "Buff",
         "classes": ["Wizard", "Sorcerer", "Warlock","Bard","Cleric"],
         "components": ["V","S","M"],
         "icon": "0009_void_shield-icon.webp"
@@ -125,7 +125,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "Area Damage, Debuff",
+        "spell_type": "Area Effect",
         "classes": ["Bard", "Druid", "Ranger"],
         "components": ["V"],
         "icon": "0010_harrowshriek-icon.webp"
@@ -157,7 +157,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "Area Damage, Sustained",
+        "spell_type": "Area Effect",
         "classes": ["Druid","Ranger","Cleric","Paladin"],
         "components": ["V","S","M"],
         "icon": "0014_summon_megalith-icon.webp"
@@ -189,7 +189,7 @@
         "casting_time": "Bonus Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "Offensive Buff",
+        "spell_type": "Buff",
         "classes": ["Wizard","Sorcerer","Bard","Druid","Ranger","Warlock","Cleric","Paladin"],
         "components": ["V","S","M"],
         "icon": "0017_waynes_tag_team-icon.webp"
@@ -285,7 +285,7 @@
         "casting_time": "Action",
         "concentration": true,
         "ritual": true,
-        "spell_type": "Mobility Buff",
+        "spell_type": "Buff",
         "classes": ["Druid","Sorcerer","Cleric","Paladin"],
         "components": ["V","S","M"],
         "icon": "0015_stormflight-icon.webp"
@@ -301,7 +301,7 @@
         "casting_time": "Action",
         "concentration": true,
         "ritual": true,
-        "spell_type": "Self Buff",
+        "spell_type": "Buff",
         "classes": ["Druid","Ranger"],
         "components": ["V","S","M"],
         "icon": "0019_mist_phantoms-icon.webp"
