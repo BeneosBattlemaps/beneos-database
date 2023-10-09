@@ -12,7 +12,7 @@
       "name": "Ambush",
       "description": "This creature ideally starts combat from a hidden position and waits for the optimal moment to attack."
     },
-    "airborne": {
+    "Airborne": {
       "name": "Airborne",
       "description": "This creature has a flying speed and can continuously stay at a distance."
     },
@@ -1109,7 +1109,7 @@
         "biom": [
           "Tropical", "Swamp", "Wilderness"
         ],
-        "cr": "4",
+        "cr": "3",
         "fightingstyle": [
           "charge", "Melee", "Simple"
         ],
@@ -1121,7 +1121,7 @@
         "stat_cha": 7,
         "stat_con": 16,
         "stat_dex": 9,
-        "stat_hp": 40,
+        "stat_hp": 66,
         "stat_int": 7,
         "stat_str": 18,
         "stat_wis": 13,
@@ -1141,7 +1141,7 @@
         ],
         "cr": "3",
         "fightingstyle": [
-          "airborne", "pack", "aoe"
+          "Airborne", "pack", "aoe"
         ],
         "movement": ["walk", "fly"],
         "purpose": ["damage", "minion"],
@@ -1171,12 +1171,12 @@
         ],
         "cr": "19",
         "fightingstyle": [
-          "airborne",  "Interactive",  "lethal"
+          "Airborne",  "Interactive",  "Lethal"
         ],
         "movement": ["walk", "fly"],
         "purpose": ["boss",  "pressure", "damage"],
         "releaseurl": "https://www.patreon.com/posts/basic-creature-53778634",
-        "size": "grg",
+        "size": "gargantuan",
         "stat_ac": 20,
         "stat_cha": 25,
         "stat_con": 24,
@@ -2911,7 +2911,7 @@
         ],
         "cr": "3",
         "fightingstyle": [
-          "pack", "airborne"
+          "pack", "Airborne"
         ],
         "movement": ["climb", "fly"],
         "purpose": ["support", "minion"],
@@ -3091,7 +3091,7 @@
         ],
         "cr": "11",
         "fightingstyle": [
-          "airborne", "demanding", "Mobile"
+          "Airborne", "demanding", "Mobile"
         ],
         "movement": ["fly", "walk"],
         "purpose": ["damage", "boss"],
@@ -3181,7 +3181,7 @@
         ],
         "cr": "3",
         "fightingstyle": [
-          "airborne", "predator"
+          "Airborne", "predator"
         ],
         "movement": ["fly","walk"],
         "purpose": ["damage", "mount"],
@@ -3447,7 +3447,7 @@
         ],
         "cr": "3",
         "fightingstyle": [
-          "airborne", "pack", "Simple"
+          "Airborne", "pack", "Simple"
         ],
         "movement": ["walk", "fly"],
         "purpose": ["gimmick", "minion", "hunter"],
@@ -3507,7 +3507,7 @@
         ],
         "cr": "7",
         "fightingstyle": [
-          "airborne","aoe","Melee"
+          "Airborne","aoe","Melee"
         ],
         "movement": ["walk","fly"],
         "purpose": ["damage", "leader","pressure"],
@@ -3894,7 +3894,7 @@
       "properties": {
         "biom": ["abyssal","dungeon"],
         "cr": "5",
-        "fightingstyle": ["pack", "airborne"],
+        "fightingstyle": ["pack", "Airborne"],
         "movement": ["fly", "walk"],
         "purpose": ["Debuff", "gimmick"],
         "releaseurl": "https://www.patreon.com/posts/vrubel-66888868",
@@ -4215,7 +4215,7 @@
       "properties": {
         "biom": ["dungeon", "Wilderness", "horror", "forest", "wasteland", "road", "graves"],
         "cr": "0,5",
-        "fightingstyle": ["airborne", "pack"],
+        "fightingstyle": ["Airborne", "pack"],
         "movement": ["fly"],
         "purpose": ["Debuff","minion"],
         "releaseurl": "https://www.patreon.com/posts/rustmire-gadfly-69643596",
@@ -6511,7 +6511,7 @@
     }
     },
     "111_aerocyte_floatling_1": {
-      "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
+      "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these Airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
       "name": "Aerocyte Floatling",
       "properties": {
         "biom": ["dungeon", "ruins", "Wilderness", "desert", "Mountain", "wasteland", "road", "Civilized", "planar", "ocean", "horror", "Futuristic"],
@@ -6537,7 +6537,7 @@
     }
     },
     "111_aerocyte_floatling_2": {
-      "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
+      "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these Airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
       "name": "Aerocyte Floatling",
       "properties": {
         "biom": ["dungeon", "ruins", "Wilderness", "desert", "Mountain", "wasteland", "road", "Civilized", "planar", "ocean", "horror", "Futuristic"],
@@ -6563,7 +6563,7 @@
     }
     },
     "111_aerocyte_floatling_inflated_1": {
-      "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
+      "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these Airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
       "name": "Aerocyte Floatling Inflated",
       "properties": {
         "biom": ["dungeon", "ruins", "Wilderness", "desert", "Mountain", "wasteland", "road", "Civilized", "planar", "ocean", "horror", "Futuristic"],
@@ -6589,7 +6589,7 @@
     }
     },
     "111_aerocyte_floatling_inflated_2": {
-      "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
+      "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these Airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
       "name": "Aerocyte Floatling Inflated",
       "properties": {
         "biom": ["dungeon", "ruins", "Wilderness", "desert", "Mountain", "wasteland", "road", "Civilized", "planar", "ocean", "horror", "Futuristic"],
@@ -6615,7 +6615,7 @@
     }
     },
     "111_aerocyte_stratohive_1": {
-      "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
+      "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these Airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
       "name": "Aerocyte Stratohive",
       "properties": {
         "biom": ["dungeon", "ruins", "Wilderness", "desert", "Mountain", "wasteland", "road", "Civilized", "planar", "ocean", "horror", "Futuristic"],
@@ -6641,7 +6641,7 @@
     }
     },
     "111_aerocyte_stratohive_2": {
-      "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
+      "description": "Without warning, Aerocyte Floatlings descend from the high heavens, graceful like jellyfish slow-dancing on mistral currents. Awe quickly turns into horror as these Airborne parasites attach to organic hosts and begin to inflate, eventually carrying their prey off into the sky. There the bulbous Stratohives float, waiting for their Floatlings to deliver sustenance. Once the hulking specimens have drained the hosts of all biomass, the Floatlings attach to their Stratohive, receiving their equal share. When continuously fed, Floatlings evolve into Stratohive, becoming the host for their own flottilla of Floatlings and beginning the cycle a new.",
       "name": "Aerocyte Stratohive",
       "properties": {
         "biom": ["dungeon", "ruins", "Wilderness", "desert", "Mountain", "wasteland", "road", "Civilized", "planar", "ocean", "horror", "Futuristic"],
@@ -8183,7 +8183,7 @@
         "fightingstyle": ["Tactical", "Ambush", "Demanding"],
         "movement": ["Walk"],
         "purpose": ["Pressure", "Hunter"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/voidmare-wailer-90192773",
         "size": "Large",
         "stat_ac": 16,
         "stat_cha": 18,
@@ -8197,7 +8197,7 @@
         "type": [
           "Aberration"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/knFPQFfr1CU?si=DScd37mNqPKZhPeI"
     }
     },
     "000_month_7_azure_dragon_sage": {
@@ -8235,7 +8235,7 @@
         "fightingstyle": ["Simple", "Pack", "Ranged"],
         "movement": ["Walk"],
         "purpose": ["Minion", "Hunter"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/undead-archer-90626825",
         "size": "Medium",
         "stat_ac": 13,
         "stat_cha": 4,
@@ -8249,7 +8249,7 @@
         "type": [
           "undead"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/JEFKKEwg2zg?si=odVx5xmos_s4VOab"
     }
     },
     "129_undead_archer_2": {
@@ -8261,7 +8261,7 @@
         "fightingstyle": ["Simple", "Pack", "Ranged"],
         "movement": ["Walk"],
         "purpose": ["Minion", "Hunter"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/undead-archer-90626825",
         "size": "Medium",
         "stat_ac": 13,
         "stat_cha": 4,
@@ -8275,7 +8275,7 @@
         "type": [
           "undead"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/JEFKKEwg2zg?si=odVx5xmos_s4VOab"
     }
     },
     "129_undead_archer_3": {
@@ -8287,7 +8287,7 @@
         "fightingstyle": ["Simple", "Pack", "Ranged"],
         "movement": ["Walk"],
         "purpose": ["Minion", "Hunter"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/undead-archer-90626825",
         "size": "Medium",
         "stat_ac": 13,
         "stat_cha": 4,
@@ -8301,7 +8301,7 @@
         "type": [
           "undead"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/JEFKKEwg2zg?si=odVx5xmos_s4VOab"
     }
   }
   }
