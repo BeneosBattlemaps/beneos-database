@@ -113,16 +113,16 @@
     },
 	"spell_type": {
       "Buff": {
-        "message": "Spells supporting your allies or strengthening yourself."
+        "message": "Spells directly supporting your allies or strengthening yourself."
       },
       "Ranged Damage": {
         "message": "Spells directly harming creatures from a distance."
 	 },
-      "Ranged Damage": {
+      "Melee Damage": {
         "message": "Spells directly harming creatures within melee range."
       },
       "Area Effect": {
-        "message": "Spells affecting targets within a specific area or the area itself."
+        "message": "Spells either affecting targets within a specific area or the area itself."
 	 },
       "Curse": {
         "message": "Spells compelling creatures to act in certain ways."
@@ -143,7 +143,7 @@
         "message": "Spells that increases movement speed or help overcoming obstacles."
 	  },
       "Restoration": {
-        "message": "Spells removing negative status effects or debilitating effects."
+        "message": "Spells removing negative status conditions or debilitating effects."
       }  
 	},
     "installed": {
