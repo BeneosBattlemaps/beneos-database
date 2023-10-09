@@ -13,7 +13,7 @@
         "casting_time": "Action",
         "concentration": true,
         "ritual": true,
-        "spell_type": "Area Damage",
+        "spell_type": "Area Damage, Sustained",
         "classes": ["Druid","Sorcerer","Wizard","Bard","Warlock","Paladin","Ranger"],
         "components": ["V","S","M"],
         "icon": "0001_needleburst_cactus-icon.webp"
@@ -29,7 +29,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "Melee Damage",
+        "spell_type": "Melee Damage, Debuff",
         "classes": ["Cleric", "Sorcerer","Warlock","Wizard"],
         "components": ["V","S"],
         "icon": "0002_black_hand-icon.webp"
@@ -45,7 +45,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "Ranged Damage",
+        "spell_type": "Ranged Damage, Immobilization",
         "classes": ["Sorcerer","Warlock","Ranger","Bard"],
         "components": ["V","S","M"],
         "icon": "0003_spiteful_harpoon-icon.webp"
@@ -77,7 +77,7 @@
         "casting_time": "Bonus Action",
         "concentration": true,
         "ritual": true,
-        "spell_type": "Utility",
+        "spell_type": "Summon",
         "classes": ["Cleric","Paladin","Sorcerer","Wizard","Bard"],
         "components": ["V","S"],
         "icon": "0006_vengeful_spirit-icon.webp"
@@ -125,7 +125,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "Area Damage",
+        "spell_type": "Area Damage, Debuff",
         "classes": ["Bard", "Druid", "Ranger"],
         "components": ["V"],
         "icon": "0010_harrowshriek-icon.webp"
@@ -157,7 +157,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "Area Damage",
+        "spell_type": "Area Damage, Sustained",
         "classes": ["Druid","Ranger","Cleric","Paladin"],
         "components": ["V","S","M"],
         "icon": "0014_summon_megalith-icon.webp"
@@ -237,7 +237,7 @@
         "casting_time": "Action",
         "concentration": true,
         "ritual": true,
-        "spell_type": "Area Damage",
+        "spell_type": "Area Effect",
         "classes": ["Druid","Sorcerer","Wizard","Cleric"],
         "components": ["V","S","M"],
         "icon": "0008_ash_rain-icon.webp"
@@ -253,7 +253,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "Melee Damage",
+        "spell_type": "Area Effect",
         "classes": ["Wizard","Sorcerer","Warlock","Cleric"],
         "components": ["V","S","M"],
         "icon": "0011_grim_harvest-icon.webp"
@@ -285,7 +285,7 @@
         "casting_time": "Action",
         "concentration": true,
         "ritual": true,
-        "spell_type": "Buff",
+        "spell_type": "Mobility Buff",
         "classes": ["Druid","Sorcerer","Cleric","Paladin"],
         "components": ["V","S","M"],
         "icon": "0015_stormflight-icon.webp"
