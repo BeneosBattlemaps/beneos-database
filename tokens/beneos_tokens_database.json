@@ -229,7 +229,6 @@
         ],
         "videourl": "https://youtu.be/PPu5pyvSP5Y"
       }
-    
     },
     "005_assassin_1": {
       "description": "If one seeks to end a life, one does not necessarily have to get their hands dirty. There are professionals trained in the art of killing, who are eager to be of service - either to earn some coin, further a dark agenda or for personal pleasure. The play of murder has thousands of scripts and props, but a knife in the dark remains an all time classic.",
@@ -255,6 +254,37 @@
         "stat_str": 13,
         "stat_wis": 16,
         "thumbnail": "005_assassin_1-idle_face_still.webp",
+        "type": [
+          "humanoid",
+		  "human"
+        ],
+        "videourl": "https://www.youtube.com/watch?v=5VUPwtoq4ps"
+		     }
+    },
+    "005_assassin_2": {
+      "description": "If one seeks to end a life, one does not necessarily have to get their hands dirty. There are professionals trained in the art of killing, who are eager to be of service - either to earn some coin, further a dark agenda or for personal pleasure. The play of murder has thousands of scripts and props, but a knife in the dark remains an all time classic.",
+      "name": "Novice Assassin",
+      "properties": {
+        "biom": [
+          "City","Civilized","Road","Wilderness"
+        ],
+        "cr": "3",
+        "fightingstyle": [
+          "Mobile", "Simple"
+        ],
+        "movement": ["walk"],
+        "purpose": ["minion", "hunter"],
+        "releaseurl": "https://www.patreon.com/posts/basic-creature-51753769",
+        "size": "medium",
+        "stat_ac": 16,
+        "stat_cha": 12,
+        "stat_con": 13,
+        "stat_dex": 18,
+        "stat_hp": 45,
+        "stat_int": 14,
+        "stat_str": 13,
+        "stat_wis": 16,
+        "thumbnail": "005_assassin_2-idle_face_still.webp",
         "type": [
           "humanoid",
 		  "human"
