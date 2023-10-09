@@ -13,7 +13,7 @@
         "casting_time": "Action",
         "concentration": true,
         "ritual": true,
-        "spell_type": "false",
+        "spell_type": "Area Damage",
         "classes": ["Druid","Sorcerer","Wizard","Bard","Warlock","Paladin","Ranger"],
         "components": ["V","S","M"],
         "icon": "0001_needleburst_cactus-icon.webp"
@@ -29,7 +29,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "false",
+        "spell_type": "Melee Damage",
         "classes": ["Cleric", "Sorcerer","Warlock","Wizard"],
         "components": ["V","S"],
         "icon": "0002_black_hand-icon.webp"
@@ -45,7 +45,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "false",
+        "spell_type": "Ranged Damage",
         "classes": ["Sorcerer","Warlock","Ranger","Bard"],
         "components": ["V","S","M"],
         "icon": "0003_spiteful_harpoon-icon.webp"
@@ -61,7 +61,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "false",
+        "spell_type": "Area Curse",
         "classes": ["Sorcerer","Warlock","Druid","Ranger"],
         "components": ["V","S","M"],
         "icon": "0005_red_mist_frenzy-icon.webp"
@@ -77,7 +77,7 @@
         "casting_time": "Bonus Action",
         "concentration": true,
         "ritual": true,
-        "spell_type": "false",
+        "spell_type": "Utility",
         "classes": ["Cleric","Paladin","Sorcerer","Wizard","Bard"],
         "components": ["V","S"],
         "icon": "0006_vengeful_spirit-icon.webp"
@@ -93,7 +93,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "false",
+        "spell_type": "Utility",
         "classes": ["Wizard","Sorcerer","Bard","Warlock"],
         "components": ["V","S","M"],
         "icon": "0007_deconstruct-icon.webp"
@@ -109,7 +109,7 @@
         "casting_time": "Action",
         "concentration": true,
         "ritual": true,
-        "spell_type": "false",
+        "spell_type": "Defensive Buff",
         "classes": ["Wizard", "Sorcerer", "Warlock","Bard","Cleric"],
         "components": ["V","S","M"],
         "icon": "0009_void_shield-icon.webp"
@@ -125,7 +125,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "false",
+        "spell_type": "Area Damage",
         "classes": ["Bard", "Druid", "Ranger"],
         "components": ["V"],
         "icon": "0010_harrowshriek-icon.webp"
@@ -141,7 +141,7 @@
         "casting_time": "Action",
         "concentration": true,
         "ritual": true,
-        "spell_type": "false",
+        "spell_type": "Debuff",
         "classes": ["Warlock", "Cleric","Paladin"],
         "components": ["V","S","M"],
         "icon": "0013_deathrite_shroud-icon.webp"
@@ -157,7 +157,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "false",
+        "spell_type": "Area Damage",
         "classes": ["Druid","Ranger","Cleric","Paladin"],
         "components": ["V","S","M"],
         "icon": "0014_summon_megalith-icon.webp"
@@ -173,7 +173,7 @@
         "casting_time": "Reaction",
         "concentration": false,
         "ritual": false,
-        "spell_type": "false",
+        "spell_type": "Curse",
         "classes": ["Bard"],
         "components": ["V"],
         "icon": "0016_keep_moving-icon.webp"
@@ -189,7 +189,7 @@
         "casting_time": "Bonus Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "false",
+        "spell_type": "Offensive Buff",
         "classes": ["Wizard","Sorcerer","Bard","Druid","Ranger","Warlock","Cleric","Paladin"],
         "components": ["V","S","M"],
         "icon": "0017_waynes_tag_team-icon.webp"
@@ -205,7 +205,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "false",
+        "spell_type": "Melee Damage",
         "classes": ["Wizard","Sorcerer","Bard","Druid","Ranger","Warlock","Cleric","Paladin"],
         "components": ["V","S","M"],
         "icon": "0018_fist-icon.webp"
@@ -221,7 +221,7 @@
         "casting_time": "Action",
         "concentration": true,
         "ritual": true,
-        "spell_type": "false",
+        "spell_type": "Debuff",
         "classes": ["Wizard","Sorcerer","Bard","Warlock"],
         "components": ["V","S","M"],
         "icon": "0020_destabilize-icon.webp"
@@ -237,7 +237,7 @@
         "casting_time": "Action",
         "concentration": true,
         "ritual": true,
-        "spell_type": "false",
+        "spell_type": "Area Damage",
         "classes": ["Druid","Sorcerer","Wizard","Cleric"],
         "components": ["V","S","M"],
         "icon": "0008_ash_rain-icon.webp"
@@ -253,7 +253,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "false",
+        "spell_type": "Melee Damage",
         "classes": ["Wizard","Sorcerer","Warlock","Cleric"],
         "components": ["V","S","M"],
         "icon": "0011_grim_harvest-icon.webp"
@@ -269,7 +269,7 @@
         "casting_time": "Action",
         "concentration": true,
         "ritual": true,
-        "spell_type": "false",
+        "spell_type": "Immobilization",
         "classes": ["Druid","Wizard","Warlock","Sorcerer"],
         "components": ["V","S","M"],
         "icon": "0012_glacial_prison-icon.webp"
@@ -285,7 +285,7 @@
         "casting_time": "Action",
         "concentration": true,
         "ritual": true,
-        "spell_type": "false",
+        "spell_type": "Buff",
         "classes": ["Druid","Sorcerer","Cleric","Paladin"],
         "components": ["V","S","M"],
         "icon": "0015_stormflight-icon.webp"
@@ -293,7 +293,7 @@
     },
     "0019_mist_phantoms": {
       "key": "0019_mist_phantoms",
-      "description": "You summon a rusted harpoon with a barbed tip, the immaterial echo of a relic long lost to the waves.",
+      "description": "You form three shades from icy mist, shrouding your presence and attacking your enemies.",
       "name": "Mist Phantoms",
       "properties": {
         "level": "2",
@@ -301,7 +301,7 @@
         "casting_time": "Action",
         "concentration": true,
         "ritual": true,
-        "spell_type": "false",
+        "spell_type": "Self Buff",
         "classes": ["Druid","Ranger"],
         "components": ["V","S","M"],
         "icon": "0019_mist_phantoms-icon.webp"
@@ -317,7 +317,7 @@
         "casting_time": "Action",
         "concentration": true,
         "ritual": true,
-        "spell_type": "false",
+        "spell_type": "Immobilization",
         "classes": ["Bard","Sorcerer","Cleric","Wizard"],
         "components": ["V","S","M"],
         "icon": "0004_anchor_of_tragedy-icon.webp"
@@ -333,7 +333,7 @@
         "casting_time": "Action",
         "concentration": true,
         "ritual": true,
-        "spell_type": "false",
+        "spell_type": "Buff",
         "classes": ["Cleric","Druid"],
         "components": ["V","S"],
         "icon": "0000_srd_guidance-icon.webp"
@@ -349,7 +349,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "false",
+        "spell_type": "Utility",
         "classes": ["Bard","Sorcerer","Wizard"],
         "components": ["V","S","M"],
         "icon": "0000_srd_message-icon.webp"
@@ -358,7 +358,7 @@
 	
     "0021_grove_moss": {
       "key": "0021_grove_moss",
-      "description": "Moss exudes a calming earthy smell and is as soft as a feather bed, giving off warmth when it is cold or having a gentle cooling effect when it is hot",
+      "description": "Moss exudes a calming earthy smell and is as soft as a feather bed, giving off warmth when it is cold or having a gentle cooling effect when it is hot.",
       "name": "Grove Moss",
       "properties": {
         "level": "1",
@@ -366,7 +366,7 @@
         "casting_time": "10 Minutes",
         "concentration": false,
         "ritual": false,
-        "spell_type": "false",
+        "spell_type": "Buff",
         "classes": ["Druid","Ranger"],
         "components": ["V","S","M"],
         "icon": "0021_grove_moss-icon.webp"
@@ -390,15 +390,15 @@
     },
     "0023_soothing_scents": {
       "key": "0023_soothing_scents",
-      "description": "Create a number of useful minor effects.",
-      "name": "Prestidigitation",
+      "description": "Heal nearby allies from negative status effects.",
+      "name": "Soothing Scents",
       "properties": {
         "level": "3",
         "school": "Conjuration",
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "Buff",
+        "spell_type": "Restoration",
         "classes": ["Druid","Ranger"],
         "components": ["V","S","M"],
         "icon": "0023_soothing_scents-icon.webp"
@@ -414,7 +414,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "false",
+        "spell_type": "Utility",
         "classes": ["Bard","Sorcerer","Wizard","Warlock"],
         "components": ["V","S"],
         "icon": "0000_srd_prestidigitation-icon.webp"
