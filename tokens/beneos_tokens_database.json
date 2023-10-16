@@ -8306,14 +8306,14 @@
     },
     "130_automaton_enforcer_1": {
       "description": "Automaton Enforcers represent the culmination of generations of arcane artistry and inventive genius. Hulking avatars of steam and steel, these constructs house arcane reactors capable of producing electrical discharges and executing protocols that mimic cognitive thought. While their utility is hampered by a lack of autonomy and the demands of intricate maintenance, they occasionally find purpose as coveted prestige items among esteemed guild artisans or as experimental support units within forward-thinking security forces.",
-      "name": "Automaton Enforcer 1",
+      "name": "Automaton Enforcer",
       "properties": {
         "biom": ["City", "Civilized", "Futuristic"],
-        "cr": "",
+        "cr": "7",
         "fightingstyle": ["Shock", "Tactical"],
         "movement": ["Walk"],
         "purpose": ["Tank", "Pressure"],
-        "releaseurl": "7",
+        "releaseurl": "https://www.patreon.com/posts/automaton-91079222",
         "size": "Large",
         "stat_ac": 17,
         "stat_cha": 4,
@@ -8328,19 +8328,19 @@
           "Construct",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/P5u92o6kNog?si=xErqtlx_RixhGbj3"
     }
     },
     "130_automaton_enforcer_3": {
       "description": "Automaton Enforcers represent the culmination of generations of arcane artistry and inventive genius. Hulking avatars of steam and steel, these constructs house arcane reactors capable of producing electrical discharges and executing protocols that mimic cognitive thought. While their utility is hampered by a lack of autonomy and the demands of intricate maintenance, they occasionally find purpose as coveted prestige items among esteemed guild artisans or as experimental support units within forward-thinking security forces.",
-      "name": "Automaton Enforcer 3",
+      "name": "Automaton Enforcer",
       "properties": {
         "biom": ["City", "Civilized", "Futuristic"],
         "cr": "7",
         "fightingstyle": ["Shock", "Tactical"],
         "movement": ["Walk"],
         "purpose": ["Tank", "Pressure"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/automaton-91079222",
         "size": "Large",
         "stat_ac": 17,
         "stat_cha": 4,
@@ -8355,19 +8355,19 @@
           "Construct",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/P5u92o6kNog?si=xErqtlx_RixhGbj3"
     }
     },
     "130_automaton_enforcer_2": {
       "description": "Automaton Enforcers represent the culmination of generations of arcane artistry and inventive genius. Hulking avatars of steam and steel, these constructs house arcane reactors capable of producing electrical discharges and executing protocols that mimic cognitive thought. While their utility is hampered by a lack of autonomy and the demands of intricate maintenance, they occasionally find purpose as coveted prestige items among esteemed guild artisans or as experimental support units within forward-thinking security forces.",
-      "name": "Automaton Enforcer 2",
+      "name": "Automaton Enforcer",
       "properties": {
         "biom": ["City", "Civilized", "Futuristic"],
         "cr": "7",
         "fightingstyle": ["Shock", "Tactical"],
         "movement": ["Walk"],
         "purpose": ["Tank", "Pressure"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/automaton-91079222",
         "size": "Large",
         "stat_ac": 17,
         "stat_cha": 4,
@@ -8382,7 +8382,7 @@
           "Construct",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/P5u92o6kNog?si=xErqtlx_RixhGbj3"
     }
   }
   }
