@@ -8384,6 +8384,87 @@
         ],
         "videourl": "https://youtu.be/P5u92o6kNog?si=xErqtlx_RixhGbj3"
     }
+    },
+    "131_graftsman_1": {
+      "description": "Graftsmen occupy the lowest caste among the fleshcrafters of the Burial Host. As journeymen that have not yet passed their master’s examination, they don’t have access to the most choice resources from the Host’s Limbchambers, Fleshpits and charnel houses. Instead, they have to scavenge battlefields or undertake personal raids in search of suitable parts for their projects. However, this makes them flexible and pragmatic improvisers who don’t shy away from using less subtle and monstrous grafts, a practice frowned upon in the upper castes. Eager to practice advanced techniques on themselves, they are easily recognizable by their mismatched limbs, hulking statue and gruff demeanor.",
+      "name": "Graftsman 1",
+      "properties": {
+        "biom": ["Horror", "Graves", "Wilderness","Ruins","Wasteland"],
+        "cr": "",
+        "fightingstyle": ["Tactical", "Interactive"],
+        "movement": ["Walk"],
+        "purpose": ["Leader", "Gimmick"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": ,
+        "stat_cha": 6,
+        "stat_con": 20,
+        "stat_dex": 14,
+        "stat_hp": ,
+        "stat_int": 13,
+        "stat_str": 20,
+        "stat_wis": 8,
+        "thumbnail": "131_graftsman_1-idle_face_still.webp",
+        "type": [
+          "Undead",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "131_graftsman_2": {
+      "description": "Graftsmen occupy the lowest caste among the fleshcrafters of the Burial Host. As journeymen that have not yet passed their master’s examination, they don’t have access to the most choice resources from the Host’s Limbchambers, Fleshpits and charnel houses. Instead, they have to scavenge battlefields or undertake personal raids in search of suitable parts for their projects. However, this makes them flexible and pragmatic improvisers who don’t shy away from using less subtle and monstrous grafts, a practice frowned upon in the upper castes. Eager to practice advanced techniques on themselves, they are easily recognizable by their mismatched limbs, hulking statue and gruff demeanor.",
+      "name": "Graftsman 2",
+      "properties": {
+        "biom": ["Horror", "Graves", "Wilderness","Ruins","Wasteland"],
+        "cr": "",
+        "fightingstyle": ["Tactical", "Interactive"],
+        "movement": ["Walk"],
+        "purpose": ["Leader", "Gimmick"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": ,
+        "stat_cha": 6,
+        "stat_con": 20,
+        "stat_dex": 14,
+        "stat_hp": ,
+        "stat_int": 13,
+        "stat_str": 20,
+        "stat_wis": 8,
+        "thumbnail": "131_graftsman_2-idle_face_still.webp",
+        "type": [
+          "Undead",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "131_graftsman_3": {
+      "description": "Graftsmen occupy the lowest caste among the fleshcrafters of the Burial Host. As journeymen that have not yet passed their master’s examination, they don’t have access to the most choice resources from the Host’s Limbchambers, Fleshpits and charnel houses. Instead, they have to scavenge battlefields or undertake personal raids in search of suitable parts for their projects. However, this makes them flexible and pragmatic improvisers who don’t shy away from using less subtle and monstrous grafts, a practice frowned upon in the upper castes. Eager to practice advanced techniques on themselves, they are easily recognizable by their mismatched limbs, hulking statue and gruff demeanor.",
+      "name": "Graftsman 3",
+      "properties": {
+        "biom": ["Horror", "Graves", "Wilderness","Ruins","Wasteland"],
+        "cr": "",
+        "fightingstyle": ["Tactical", "Interactive"],
+        "movement": ["Walk"],
+        "purpose": ["Leader", "Gimmick"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": ,
+        "stat_cha": 6,
+        "stat_con": 20,
+        "stat_dex": 14,
+        "stat_hp": ,
+        "stat_int": 13,
+        "stat_str": 20,
+        "stat_wis": 8,
+        "thumbnail": "131_graftsman_3-idle_face_still.webp",
+        "type": [
+          "Undead",
+          ""
+        ],
+        "videourl": ""
+    }
   }
   }
   }

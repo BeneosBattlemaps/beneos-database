@@ -61,7 +61,7 @@
         },
         "0006_sea_tyrants_scales": {
             "key": "0006_sea_tyrants_scales",
-            "description": "Heavy armor, reducing damage taken and imbuing you with the hybris of a Leviathan.",
+            "description": "Scale armor, reducing damage taken and imbuing you with the hybris of a Leviathan.",
             "name": "Sea Tyrants Scales",
             "properties": {
             "rarity": "Very Rare",
@@ -132,7 +132,7 @@
         "0011_graveblade1": {
             "key": "0011_graveblade1",
             "description": "A sword dealing more damage to already wounded creatures.",
-            "name": "Graveblade1",
+            "name": "Graveblade +1",
             "properties": {
             "rarity": "Rare",
             "attunement": true,
@@ -146,7 +146,7 @@
         "0011_graveblade2": {
             "key": "0011_graveblade2",
             "description": "A sword dealing more damage to already wounded creatures.",
-            "name": "Graveblade2",
+            "name": "Graveblade +2",
             "properties": {
             "rarity": "Rare",
             "attunement": true,
@@ -160,7 +160,7 @@
         "0011_graveblade3": {
             "key": "0011_graveblade3",
             "description": "A sword dealing more damage to already wounded creatures.",
-            "name": "Graveblade3",
+            "name": "Graveblade +3",
             "properties": {
             "rarity": "Rare",
             "attunement": true,
@@ -173,7 +173,7 @@
         },
         "0012_defuser_harness": {
             "key": "0012_defuser_harness",
-            "description": "Paddened and enchanted armor that protects you from explosions and the like.",
+            "description": "Paddened and enchanted armor offering protection from explosions.",
             "name": "Defuser Harness",
             "properties": {
             "rarity": "Rare",
@@ -187,7 +187,7 @@
         },
         "0013_shoreclaimer": {
             "key": "0013_shoreclaimer",
-            "description": "A battleaxe granting you a set of boni during the early stages of combat.",
+            "description": "A battleaxe empowering you during the first round of combat.",
             "name": "Shoreclaimer",
             "properties": {
             "rarity": "Uncommon",
@@ -201,7 +201,7 @@
         },
         "0014_dreamers_prison": {
             "key": "0014_dreamers_prison",
-            "description": "A morbid artifact allowing you to trap a creature within the head's dream, imprisoning it.",
+            "description": "A morbid artifact allowing you to imprison a creature within the head's dream.",
             "name": "Dreamers Prison",
             "properties": {
             "rarity": "Uncommon",
@@ -215,7 +215,7 @@
         },
         "0015_sunflower_scepter": {
             "key": "0015_sunflower_scepter",
-            "description": "A spell focus strengthening radiant damage and granting two powerful spells.",
+            "description": "A spell focus strengthening radiant damage and granting two powerful solar spells.",
             "name": "Sunflower Scepter",
             "properties": {
             "rarity": "Very Rare",
@@ -243,7 +243,7 @@
         },
         "0017_griefplate": {
             "key": "0017_griefplate",
-            "description": "A haunted plate armor enshrouded by wailing ghosts, damaging creatures and allowing you to take possession of one.",
+            "description": "A haunted plate armor enshrouded by wailing ghosts, damaging all living creatures around you.",
             "name": "Griefplate",
             "properties": {
             "rarity": "Very Rare",
@@ -257,7 +257,7 @@
         },
         "0018_gatebreaker_gauntlets": {
             "key": "0018_gatebreaker_gauntlets",
-            "description": "Heavy gauntlets allowing you to crush foes with your fists and break through barriers at breackneck speed.",
+            "description": "Heavy gauntlets allowing you to crush foes with your fists and break through doors, walls and castle gates.",
             "name": "Gatebreaker Gauntlets",
             "properties": {
             "rarity": "Legendary",
@@ -342,7 +342,7 @@
         "0026_molten_core": {
             "key": "0026_molten_core",
             "description": "A grisly weapon allowing you to endure grave wounds and march on seemingly forever.",
-            "name": "Molten core",
+            "name": "Molten Core",
             "properties": {
             "rarity": "Very Rare",
             "attunement": true,
