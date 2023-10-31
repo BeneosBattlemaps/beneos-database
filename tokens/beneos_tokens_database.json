@@ -8390,7 +8390,7 @@
       "name": "Graftsman",
       "properties": {
         "biom": ["Horror", "Graves", "Wilderness","Ruins","Wasteland"],
-        "cr": "",
+        "cr": "8",
         "fightingstyle": ["Tactical", "Interactive"],
         "movement": ["Walk"],
         "purpose": ["Leader", "Gimmick"],
@@ -8417,7 +8417,7 @@
       "name": "Graftsman",
       "properties": {
         "biom": ["Horror", "Graves", "Wilderness","Ruins","Wasteland"],
-        "cr": "",
+        "cr": "8",
         "fightingstyle": ["Tactical", "Interactive"],
         "movement": ["Walk"],
         "purpose": ["Leader", "Gimmick"],
@@ -8444,7 +8444,7 @@
       "name": "Graftsman",
       "properties": {
         "biom": ["Horror", "Graves", "Wilderness","Ruins","Wasteland"],
-        "cr": "",
+        "cr": "8",
         "fightingstyle": ["Tactical", "Interactive"],
         "movement": ["Walk"],
         "purpose": ["Leader", "Gimmick"],
@@ -8464,6 +8464,33 @@
           ""
         ],
         "videourl": "https://youtu.be/EWsWFpiRSPE?si=Z_773U9S8WGQJMzR"
+    }
+    },
+    "132_animated_blade": {
+      "description": "Animated Blades are swords imbued with arcane essence, a semblance of life breathing through them. This phenomenon can occur through enchantment magic, ancient rituals, or more rarely, the awakening of the blade itself. Driven by a deep-seated thirst for combat or an unquenchable desire for revenge, these blades act on their own, no longer requiring a wielder to carry out their intended purpose. Some of these blades are tasked with guarding treasure chambers or wizards’ studies, while others tirelessly roam the the tombs and castles of their long-forgotten masters.",
+      "name": "Animated Blade",
+      "properties": {
+        "biom": ["Lair", "Graves", "City","Ruins","Civilized","Tavern"],
+        "cr": "0.5",
+        "fightingstyle": ["Melee","Ambusher","Mobile"],
+        "movement": ["Fly"],
+        "purpose": ["Damage", "Minion"],
+        "releaseurl": "https://www.patreon.com/posts/animated-blade-91953937",
+        "size": "Small",
+        "stat_ac": 17,
+        "stat_cha": 1,
+        "stat_con": 10,
+        "stat_dex": 18,
+        "stat_hp": 23,
+        "stat_int": 1,
+        "stat_str": 11,
+        "stat_wis": 5,
+        "thumbnail": "132_animated_blade-idle_face_still.webp",
+        "type": [
+          "Construct",
+          ""
+        ],
+        "videourl": "https://youtu.be/t5BKqmAsXlM?si=w90tx8h_iT6-QAck"
     }
   }
   }
