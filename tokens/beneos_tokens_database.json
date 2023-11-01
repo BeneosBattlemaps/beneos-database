@@ -8470,7 +8470,7 @@
       "description": "Animated Blades are swords imbued with arcane essence, a semblance of life breathing through them. This phenomenon can occur through enchantment magic, ancient rituals, or more rarely, the awakening of the blade itself. Driven by a deep-seated thirst for combat or an unquenchable desire for revenge, these blades act on their own, no longer requiring a wielder to carry out their intended purpose. Some of these blades are tasked with guarding treasure chambers or wizards’ studies, while others tirelessly roam the the tombs and castles of their long-forgotten masters.",
       "name": "Animated Blade",
       "properties": {
-        "biom": ["Lair", "Graves", "City","Ruins","Civilized","Tavern"],
+        "biom": ["Lair","Graves","City","Ruins","Civilized","Tavern"],
         "cr": "0.5",
         "fightingstyle": ["Melee","Ambusher","Mobile"],
         "movement": ["Fly"],
@@ -8491,6 +8491,33 @@
           ""
         ],
         "videourl": "https://youtu.be/t5BKqmAsXlM?si=w90tx8h_iT6-QAck"
+    }
+    },
+    "133_ratfolk_gutterskulk": {
+      "description": "Wherever damp tunnel networks extend beneath sprawling cities, one can find those who have chosen the Undercity as their domain. Shunned by even the less human-like races due to their unsettling appearance and unsavory reputation, the parallel worlds beneath the great cities are often a realm of matted fur, gnashing teeth, and crooked blades. And if one takes a wrong turn in the tunnels, it’s possible to find themselves confronted by a dozen pairs of yellow-gleaming eyes in the darkness.",
+      "name": "Ratfolk Gutterskulk",
+      "properties": {
+        "biom": ["Dungeon","City","Ruins","Civilized"],
+        "cr": "0.5",
+        "fightingstyle": ["Pack","Ambusher"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "",
+        "size": "Small",
+        "stat_ac": 15,
+        "stat_cha": 6,
+        "stat_con": 15,
+        "stat_dex": 16,
+        "stat_hp": 30,
+        "stat_int": 14,
+        "stat_str": 13,
+        "stat_wis": 13,
+        "thumbnail": "133_ratfolk_gutterskulk-idle_face_still.webp",
+        "type": [
+          "Humanoid",
+          "Demi-Human"
+        ],
+        "videourl": ""
     }
   }
   }
