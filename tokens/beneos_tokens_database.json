@@ -8551,7 +8551,7 @@
       "description": "Life at sea is perilous and offers myriad ways to meet an untimely demise — be it disease, violence, or the raw brutality of the elements. Yet, amidst this danger, sailors have discovered diverse means to transcend mortality, seldom by choice. Ancient curses, bonds to captain, crew, and vessel transcending death, or the mystical sway of natural forces all ensure a sailor’s journey sometimes doesn’t conclude with death. The Skeletal Swashbucklers are undead mariners who defy decay, their bleached bones pulsating with a lingering thrill for adventure and peril, refusing to succumb to mere oblivion.",
       "name": "Skeletal Swashbuckler 1",
       "properties": {
-        "biom": ["Coastal", "Ocean","Tavern"],
+        "biom": ["Coastal","Ocean","Tavern"],
         "cr": "3",
         "fightingstyle": ["Mobile"],
         "movement": ["Walk"],
