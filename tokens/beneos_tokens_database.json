@@ -8600,6 +8600,33 @@
         ],
         "videourl": "https://youtu.be/1bHvK0Kftvg?si=AVXfCrrA71cjkIRm"
     }
+    },
+    "000_month_8_lord_of_dust": {
+      "description": "The Ankhir Empire crumbled under the tireless assaults of their unliving former kings and generals, the populace being massacred by those they once worshiped. Soon the numbing desert sand settled on the sunken ruins of sprawling cities, with only the pyramidical god-prisons looming in quiet reminiscence of a cursed realm swallowed by the sand. Woe betide those who stumble upon the ruins of old, cursed Ankh! If roused from their slumber, the forgotten horrors will surely redden the sands once more.",
+      "name": "Lord of Dust",
+      "properties": {
+        "biom": ["Desert", "Graves","Ruins","Dungeon","Lair","Horror"],
+        "cr": "18",
+        "fightingstyle": ["Lethal","Demanding","AoE"],
+        "movement": ["Walk"],
+        "purpose": ["Boss","Leader","Debuff"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 22,
+        "stat_con": 20,
+        "stat_dex": 8,
+        "stat_hp": 234,
+        "stat_int": 18,
+        "stat_str": 16,
+        "stat_wis": 16,
+        "thumbnail": "000_month_8_lord_of_dust-idle_face_still.webp",
+        "type": [
+          "Undead",
+          
+        ],
+        "videourl": ""
+    }
   }
   }
   }
