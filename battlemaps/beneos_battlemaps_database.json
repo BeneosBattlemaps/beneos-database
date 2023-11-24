@@ -28261,6 +28261,38 @@
                                 "thumbnail":"71-04_Bandit_Camp_South-4k_scen.webp",
                                 "videourl":"WIP"
                                 }
+                    },
+                    "14-01_Mutation_Chamber-4k_BM":{
+                        "name":"Mutation Chamber",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Single Map"],
+                        "biom":["Science Fiction","Horror", "Underground", "Interiour", "Dungeon", "Gore"],
+                        "brightness":"Bright",
+                        "grid":"32x18",
+                        "pack":"14_mutation_Chamber",
+                        "releaseurl":"WIP",
+                        "sibling":"14-01_Mutation_Chamber-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"14-01_Mutation_Chamber-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "14-01_Mutation_Chamber-4k_Scen":{
+                                "name":"Mutation Chamber",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Single Map"],
+                                "biom":["Science Fiction","Horror", "Underground", "Interiour", "Dungeon", "Gore"],
+                                "brightness":"Bright",
+                                "grid":"32x18",
+                                "pack":"14_mutation_Chamber",
+                                "releaseurl":"WIP",
+                                "sibling":"14-01_Mutation_Chamber-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"14-01_Mutation_Chamber-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
                             }
                         }
                     }
