@@ -8502,7 +8502,7 @@
         "fightingstyle": ["Pack","Ambusher"],
         "movement": ["Walk"],
         "purpose": ["Minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/ratfolk-92218965",
         "size": "Small",
         "stat_ac": 15,
         "stat_cha": 6,
@@ -8516,6 +8516,114 @@
         "type": [
           "Humanoid",
           "Demi-Human"
+        ],
+        "videourl": "https://youtu.be/ChWLAFnTNfE?si=lbrZ2i1ytG2nNfXG"
+    }
+    },
+    "134_rock_golem": {
+      "description": "Hewn from solid rock, these lumbering behemoths lack the sophisticated intricacies of their more contemporary stone or metal counterparts. Instead, they embody the raw essence of ritualistic craftsmanship, of a time when the creation of golems was steeped in mystic rites rather than the precise incantations of modern magical science. The Rock Golem still harbors traces of elemental powers long lost to its more polished successors, echoing the ancient secrets of a lost era.",
+      "name": "Rock Golem",
+      "properties": {
+        "biom": ["Wilderness","Dungeon","City","Ruins","Civilized","Mountains","Wastelands","Underground"],
+        "cr": "10",
+        "fightingstyle": ["Simple"],
+        "movement": ["Walk"],
+        "purpose": ["Tank"],
+        "releaseurl": "https://www.patreon.com/posts/rock-golem-92591630",
+        "size": "Huge",
+        "stat_ac": 18,
+        "stat_cha": 1,
+        "stat_con": 20,
+        "stat_dex": 5,
+        "stat_hp": 187,
+        "stat_int": 3,
+        "stat_str": 22,
+        "stat_wis": 10,
+        "thumbnail": "134_rock_golem-idle_face_still.webp",
+        "type": [
+          "Construct",
+          "Golem"
+        ],
+        "videourl": "https://youtu.be/M33W119WU6o?si=mwo-p6YiR3AMopzO"
+    }
+    },
+    "135_skeletal_swashbuckler_1": {
+      "description": "Life at sea is perilous and offers myriad ways to meet an untimely demise — be it disease, violence, or the raw brutality of the elements. Yet, amidst this danger, sailors have discovered diverse means to transcend mortality, seldom by choice. Ancient curses, bonds to captain, crew, and vessel transcending death, or the mystical sway of natural forces all ensure a sailor’s journey sometimes doesn’t conclude with death. The Skeletal Swashbucklers are undead mariners who defy decay, their bleached bones pulsating with a lingering thrill for adventure and peril, refusing to succumb to mere oblivion.",
+      "name": "Skeletal Swashbuckler 1",
+      "properties": {
+        "biom": ["Coastal","Ocean","Tavern"],
+        "cr": "3",
+        "fightingstyle": ["Mobile"],
+        "movement": ["Walk"],
+        "purpose": ["Duellist", "Minion"],
+        "releaseurl": "https://www.patreon.com/posts/skeletal-93202698",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 9,
+        "stat_con": 15,
+        "stat_dex": 16,
+        "stat_hp": 26,
+        "stat_int": 5,
+        "stat_str": 13,
+        "stat_wis": 10,
+        "thumbnail": "135_skeletal_swashbuckler_1-idle_face_still.webp",
+        "type": [
+          "Undead",
+          
+        ],
+        "videourl": "https://youtu.be/1bHvK0Kftvg?si=AVXfCrrA71cjkIRm"
+    }
+    },
+    "135_skeletal_swashbuckler_2": {
+      "description": "Life at sea is perilous and offers myriad ways to meet an untimely demise — be it disease, violence, or the raw brutality of the elements. Yet, amidst this danger, sailors have discovered diverse means to transcend mortality, seldom by choice. Ancient curses, bonds to captain, crew, and vessel transcending death, or the mystical sway of natural forces all ensure a sailor’s journey sometimes doesn’t conclude with death. The Skeletal Swashbucklers are undead mariners who defy decay, their bleached bones pulsating with a lingering thrill for adventure and peril, refusing to succumb to mere oblivion.",
+      "name": "Skeletal Swashbuckler 2",
+      "properties": {
+        "biom": ["Coastal", "Ocean","Tavern"],
+        "cr": "3",
+        "fightingstyle": ["Mobile"],
+        "movement": ["Walk"],
+        "purpose": ["Duellist", "Minion"],
+        "releaseurl": "https://www.patreon.com/posts/skeletal-93202698",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 9,
+        "stat_con": 15,
+        "stat_dex": 16,
+        "stat_hp": 26,
+        "stat_int": 5,
+        "stat_str": 13,
+        "stat_wis": 10,
+        "thumbnail": "135_skeletal_swashbuckler_2-idle_face_still.webp",
+        "type": [
+          "Undead",
+          
+        ],
+        "videourl": "https://youtu.be/1bHvK0Kftvg?si=AVXfCrrA71cjkIRm"
+    }
+    },
+    "000_month_8_lord_of_dust": {
+      "description": "The Ankhir Empire crumbled under the tireless assaults of their unliving former kings and generals, the populace being massacred by those they once worshiped. Soon the numbing desert sand settled on the sunken ruins of sprawling cities, with only the pyramidical god-prisons looming in quiet reminiscence of a cursed realm swallowed by the sand. Woe betide those who stumble upon the ruins of old, cursed Ankh! If roused from their slumber, the forgotten horrors will surely redden the sands once more.",
+      "name": "Lord of Dust",
+      "properties": {
+        "biom": ["Desert", "Graves","Ruins","Dungeon","Lair","Horror"],
+        "cr": "18",
+        "fightingstyle": ["Lethal","Demanding","AoE"],
+        "movement": ["Walk"],
+        "purpose": ["Boss","Leader","Debuff"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 22,
+        "stat_con": 20,
+        "stat_dex": 8,
+        "stat_hp": 234,
+        "stat_int": 18,
+        "stat_str": 16,
+        "stat_wis": 16,
+        "thumbnail": "000_month_8_lord_of_dust-idle_face_still.webp",
+        "type": [
+          "Undead",
+          
         ],
         "videourl": ""
     }
