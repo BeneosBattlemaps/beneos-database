@@ -8568,8 +8568,7 @@
         "stat_wis": 10,
         "thumbnail": "135_skeletal_swashbuckler_1-idle_face_still.webp",
         "type": [
-          "Undead",
-          
+          "Undead"
         ],
         "videourl": "https://youtu.be/1bHvK0Kftvg?si=AVXfCrrA71cjkIRm"
     }
@@ -8595,8 +8594,7 @@
         "stat_wis": 10,
         "thumbnail": "135_skeletal_swashbuckler_2-idle_face_still.webp",
         "type": [
-          "Undead",
-          
+          "Undead"
         ],
         "videourl": "https://youtu.be/1bHvK0Kftvg?si=AVXfCrrA71cjkIRm"
     }
@@ -8622,13 +8620,40 @@
         "stat_wis": 16,
         "thumbnail": "000_month_8_lord_of_dust-idle_face_still.webp",
         "type": [
-          "Undead",
+          "Undead"
           
         ],
         "videourl": ""
     }
+    },
+    "136_tyrannosaurus_rex": {
+      "description": "Amidst the dense, primeval jungles of the Archipelago, lurks a creature whose presence alone invokes visions of primal power—the Tyrannosaurus Rex. Known as the Jungle Monarch in the indigenous xotl language, this colossal predator embodies an ancient and fearsome majesty that evolution wasn’t able to improve upon. Its thunderous footfalls reverberate through the foliage, conjuring images of bygone eras of lost worlds and untamed wilderness. Its towering form and menacing maw evoke the very essence of raw, untamed nature, a prehistoric force that roams the land, instilling a sense of ancient danger and primal instincts in all who dare to wander these unforgiving territories.",
+      "name": "Tyrannosaurus Rex",
+      "properties": {
+        "biom": ["Desert", "Jungle","Wilderness","Forest"],
+        "cr": "",
+        "fightingstyle": ["Melee","Mobile"],
+        "movement": ["Walk"],
+        "purpose": ["Leader","Gimmick"],
+        "releaseurl": "https://www.patreon.com/posts/tyrannosaurus-93493747",
+        "size": "Huge",
+        "stat_ac": 14,
+        "stat_cha": 9,
+        "stat_con": 19,
+        "stat_dex": 10,
+        "stat_hp": 159,
+        "stat_int": 2,
+        "stat_str": 25,
+        "stat_wis": 12,
+        "thumbnail": "136_tyrannosaurus_rex-idle_face_still.webp",
+        "type": [
+          "Beast",
+          "Dinosaur"
+        ],
+        "videourl": "https://youtu.be/WBQtNkgHlbM?si=_VS7PnVop3eDIQhy"
+    }
   }
   }
-  }
+}
   
 
