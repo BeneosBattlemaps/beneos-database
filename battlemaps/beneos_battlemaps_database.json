@@ -28133,6 +28133,166 @@
                                 "thumbnail":"13-01_Purple_Worm_Lair-4k_scen.webp",
                                 "videourl":"WIP"
                                 }
+                    },
+                    "71-01_Bandit_Camp_Road-4k_BM":{
+                        "name":"Bandit Camp Road",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Civilizied","Village", "Camp", "Exteriour", "Fort"],
+                        "brightness":"Bright",
+                        "grid":"50x25",
+                        "pack":"71_Bandit_Camp",
+                        "releaseurl":"WIP",
+                        "sibling":"71-01_Bandit_Camp_Road-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"71-01_Bandit_Camp_Road-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "71-01_Bandit_Camp_Road-4k_Scen":{
+                                "name":"Bandit Camp Road",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Civilizied","Village", "Camp", "Exteriour", "Fort"],
+                                "brightness":"Bright",
+                                "grid":"50x25",
+                                "pack":"71_Bandit_Camp",
+                                "releaseurl":"WIP",
+                                "sibling":"71-01_Bandit_Camp_Road-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"71-01_Bandit_Camp_Road-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "71-02_Bandit_Camp_Center-4k_BM":{
+                        "name":"Bandit Camp Center",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Civilizied","Village", "Camp", "Exteriour", "Fort"],
+                        "brightness":"Bright",
+                        "grid":"43x26",
+                        "pack":"71_Bandit_Camp",
+                        "releaseurl":"WIP",
+                        "sibling":"71-02_Bandit_Camp_Center-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"71-02_Bandit_Camp_Center-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "71-02_Bandit_Camp_Center-4k_Scen":{
+                                "name":"Bandit Camp Center",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Civilizied","Village", "Camp", "Exteriour", "Fort"],
+                                "brightness":"Bright",
+                                "grid":"43x26",
+                                "pack":"71_Bandit_Camp",
+                                "releaseurl":"WIP",
+                                "sibling":"71-02_Bandit_Camp_Center-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"71-02_Bandit_Camp_Center-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "71-03_Bandit_Camp_North-4k_BM":{
+                        "name":"Bandit Camp North",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Tavern","Civilised"],
+                        "brightness":"Bright",
+                        "grid":"52x28",
+                        "pack":"71_Bandit_Camp",
+                        "releaseurl":"WIP",
+                        "sibling":"71-03_Bandit_Camp_North-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"71-03_Bandit_Camp_North-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "71-03_Bandit_Camp_North-4k_Scen":{
+                                "name":"Bandit Camp North",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Tavern","Civilised"],
+                                "brightness":"Bright",
+                                "grid":"52x28",
+                                "pack":"71_Bandit_Camp",
+                                "releaseurl":"WIP",
+                                "sibling":"71-03_Bandit_Camp_North-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"71-03_Bandit_Camp_North-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "71-04_Bandit_Camp_South-4k_BM":{
+                        "name":"Bandit Camp South",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Civilizied","Village", "Camp", "Exteriour", "Fort"],
+                        "brightness":"Bright",
+                        "grid":"45x21",
+                        "pack":"71_Bandit_Camp",
+                        "releaseurl":"WIP",
+                        "sibling":"71-04_Bandit_Camp_South-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"71-04_Bandit_Camp_South-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "71-04_Bandit_Camp_South-4k_Scen":{
+                                "name":"Bandit Camp South",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Civilizied","Village", "Camp", "Exteriour", "Fort"],
+                                "brightness":"Bright",
+                                "grid":"45x21",
+                                "pack":"71_Bandit_Camp",
+                                "releaseurl":"WIP",
+                                "sibling":"71-04_Bandit_Camp_South-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"71-04_Bandit_Camp_South-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "14-01_Mutation_Chamber-4k_BM":{
+                        "name":"Mutation Chamber",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Single Map"],
+                        "biom":["Science Fiction","Horror", "Underground", "Interiour", "Dungeon", "Gore"],
+                        "brightness":"Bright",
+                        "grid":"32x18",
+                        "pack":"14_mutation_Chamber",
+                        "releaseurl":"WIP",
+                        "sibling":"14-01_Mutation_Chamber-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"14-01_Mutation_Chamber-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "14-01_Mutation_Chamber-4k_Scen":{
+                                "name":"Mutation Chamber",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Single Map"],
+                                "biom":["Science Fiction","Horror", "Underground", "Interiour", "Dungeon", "Gore"],
+                                "brightness":"Bright",
+                                "grid":"32x18",
+                                "pack":"14_mutation_Chamber",
+                                "releaseurl":"WIP",
+                                "sibling":"14-01_Mutation_Chamber-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"14-01_Mutation_Chamber-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
                             }
                         }
                     }
