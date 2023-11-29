@@ -1,20 +1,20 @@
 {
-  "id": "beneos_items_database",
-  "type": "item",
-  "version": "1.0.0",
-  "content": {
+    "id": "beneos_items_database",
+    "type": "item",
+    "version": "1.0.0",
+    "content": {
         "0001_nightfall": {
             "key": "0001_nightfall",
             "description": "A dreadful blade that extinguishes all light and wreathes its wielder in darkness.",
             "name": "Nightfall",
             "properties": {
-            "rarity": "Legendary",
-            "attunement": true,
-            "origin": "vampiric",
-            "item_type": "Melee Weapon",
-            "tier": 3,
-            "price": "52800",
-            "icon": "0001_nightfall-icon.webp"
+                "rarity": "Legendary",
+                "attunement": true,
+                "origin": "vampiric",
+                "item_type": "Melee Weapon",
+                "tier": 3,
+                "price": "52800",
+                "icon": "0001_nightfall-icon.webp"
             }
         },
         "0003_shamblevault_coffin": {
@@ -22,13 +22,13 @@
             "description": "A coffin used to summon undead creatures and press them into service.",
             "name": "Shamblevault Coffin",
             "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "occult",
-            "item_type": "Trinket",
-            "tier": 2,
-            "price": "3400",
-            "icon": "0003_shamblevault_coffin-icon.webp"
+                "rarity": "Rare",
+                "attunement": true,
+                "origin": "occult",
+                "item_type": "Trinket",
+                "tier": 2,
+                "price": "3400",
+                "icon": "0003_shamblevault_coffin-icon.webp"
             }
         },
         "0004_harrowshrike_deathmask": {
@@ -36,13 +36,13 @@
             "description": "A vampiric mask that strikes fear into the heart of your enemies.",
             "name": "Harrowshrike Deathmask",
             "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "vampiric",
-            "item_type": "Clothing",
-            "tier": 2,
-            "price": "4300",
-            "icon": "0004_harrowshrike_deathmask-icon.webp"
+                "rarity": "Very Rare",
+                "attunement": true,
+                "origin": "vampiric",
+                "item_type": "Clothing",
+                "tier": 2,
+                "price": "4300",
+                "icon": "0004_harrowshrike_deathmask-icon.webp"
             }
         },
         "0005_stormbreaker": {
@@ -50,13 +50,13 @@
             "description": "An indomitable tower shield imbued with tempest's fury",
             "name": "Stormbreaker",
             "properties": {
-            "rarity": "Legendary",
-            "attunement": true,
-            "origin": "giantforged",
-            "item_type": "Shield",
-            "tier": 3,
-            "price": "49600",
-            "icon": "0005_stormbreaker-icon.webp"
+                "rarity": "Legendary",
+                "attunement": true,
+                "origin": "giantforged",
+                "item_type": "Shield",
+                "tier": 3,
+                "price": "49600",
+                "icon": "0005_stormbreaker-icon.webp"
             }
         },
         "0006_sea_tyrants_scales": {
@@ -64,13 +64,13 @@
             "description": "Scale armor, reducing damage taken and imbuing you with the hybris of a Leviathan.",
             "name": "Sea Tyrants Scales",
             "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "dwarvenforged",
-            "item_type": "Medium Armor",
-            "tier": 2,
-            "price": "5800",
-            "icon": "0006_sea_tyrants_scales-icon.webp"
+                "rarity": "Very Rare",
+                "attunement": true,
+                "origin": "dwarvenforged",
+                "item_type": "Medium Armor",
+                "tier": 2,
+                "price": "5800",
+                "icon": "0006_sea_tyrants_scales-icon.webp"
             }
         },
         "0007_cloak_of_photosynthesis": {
@@ -78,13 +78,13 @@
             "description": "A cloak that slowly heals you when in direct sunlight",
             "name": "Cloak Of Photosynthesis",
             "properties": {
-            "rarity": "Uncommon",
-            "attunement": true,
-            "origin": "druidic",
-            "item_type": "Clothing",
-            "tier": 1,
-            "price": "800",
-            "icon": "0007_cloak_of_photosynthesis-icon.webp"
+                "rarity": "Uncommon",
+                "attunement": true,
+                "origin": "druidic",
+                "item_type": "Clothing",
+                "tier": 1,
+                "price": "800",
+                "icon": "0007_cloak_of_photosynthesis-icon.webp"
             }
         },
         "0008_scythe_of_the_long_march": {
@@ -92,13 +92,13 @@
             "description": "A grisly weapon allowing you to endure grave wounds and march on seemingly forever.",
             "name": "Scythe Of The Long March",
             "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "occult",
-            "item_type": "Melee Weapon",
-            "tier": 1,
-            "price": "2900",
-            "icon": "0008_scythe_of_the_long_march-icon.webp"
+                "rarity": "Rare",
+                "attunement": true,
+                "origin": "occult",
+                "item_type": "Melee Weapon",
+                "tier": 1,
+                "price": "2900",
+                "icon": "0008_scythe_of_the_long_march-icon.webp"
             }
         },
         "0009_blood_toll_bracers": {
@@ -106,13 +106,13 @@
             "description": "Blood-stained relics that enable you to retaliate when getting hit.",
             "name": "Blood Toll Bracers",
             "properties": {
-            "rarity": "Uncommon",
-            "attunement": true,
-            "origin": "ancient",
-            "item_type": "Clothing",
-            "tier": 1,
-            "price": "900",
-            "icon": "0009_blood_toll_bracers-icon.webp"
+                "rarity": "Uncommon",
+                "attunement": true,
+                "origin": "ancient",
+                "item_type": "Clothing",
+                "tier": 1,
+                "price": "900",
+                "icon": "0009_blood_toll_bracers-icon.webp"
             }
         },
         "0010_eye_of_obliteration": {
@@ -120,13 +120,13 @@
             "description": "An eye replacement enabling you to turn enemies into dust by looking at them.",
             "name": "Eye Of Obliteration",
             "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "arcane",
-            "item_type": "Trinket",
-            "tier": 4,
-            "price": "108000",
-            "icon": "0010_eye_of_obliteration-icon.webp"
+                "rarity": "Very Rare",
+                "attunement": true,
+                "origin": "arcane",
+                "item_type": "Trinket",
+                "tier": 4,
+                "price": "108000",
+                "icon": "0010_eye_of_obliteration-icon.webp"
             }
         },
         "0011_graveblade1": {
@@ -134,13 +134,13 @@
             "description": "A sword dealing more damage to already wounded creatures.",
             "name": "Graveblade +1",
             "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "occult",
-            "item_type": "Melee Weapon",
-            "tier": 1,
-            "price": "1700",
-            "icon": "0011_graveblade1-icon.webp"
+                "rarity": "Rare",
+                "attunement": true,
+                "origin": "occult",
+                "item_type": "Melee Weapon",
+                "tier": 1,
+                "price": "1700",
+                "icon": "0011_graveblade1-icon.webp"
             }
         },
         "0011_graveblade2": {
@@ -148,13 +148,13 @@
             "description": "A sword dealing more damage to already wounded creatures.",
             "name": "Graveblade +2",
             "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "occult",
-            "item_type": "Melee Weapon",
-            "tier": 2,
-            "price": "2900",
-            "icon": "0011_graveblade2-icon.webp"
+                "rarity": "Rare",
+                "attunement": true,
+                "origin": "occult",
+                "item_type": "Melee Weapon",
+                "tier": 2,
+                "price": "2900",
+                "icon": "0011_graveblade2-icon.webp"
             }
         },
         "0011_graveblade3": {
@@ -162,13 +162,13 @@
             "description": "A sword dealing more damage to already wounded creatures.",
             "name": "Graveblade +3",
             "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "occult",
-            "item_type": "Melee Weapon",
-            "tier": 3,
-            "price": "4400",
-            "icon": "0011_graveblade3-icon.webp"
+                "rarity": "Rare",
+                "attunement": true,
+                "origin": "occult",
+                "item_type": "Melee Weapon",
+                "tier": 3,
+                "price": "4400",
+                "icon": "0011_graveblade3-icon.webp"
             }
         },
         "0012_defuser_harness": {
@@ -176,13 +176,13 @@
             "description": "Paddened and enchanted armor offering protection from explosions.",
             "name": "Defuser Harness",
             "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "arcane",
-            "item_type": "Medium Armor",
-            "tier": 2,
-            "price": "5400",
-            "icon": "0012_defuser_harness-icon.webp"
+                "rarity": "Rare",
+                "attunement": true,
+                "origin": "arcane",
+                "item_type": "Medium Armor",
+                "tier": 2,
+                "price": "5400",
+                "icon": "0012_defuser_harness-icon.webp"
             }
         },
         "0013_shoreclaimer": {
@@ -190,13 +190,13 @@
             "description": "A battleaxe empowering you during the first round of combat.",
             "name": "Shoreclaimer",
             "properties": {
-            "rarity": "Uncommon",
-            "attunement": true,
-            "origin": "awoken",
-            "item_type": "Melee Weapon",
-            "tier": 1,
-            "price": "1800",
-            "icon": "0013_shoreclaimer-icon.webp"
+                "rarity": "Uncommon",
+                "attunement": true,
+                "origin": "awoken",
+                "item_type": "Melee Weapon",
+                "tier": 1,
+                "price": "1800",
+                "icon": "0013_shoreclaimer-icon.webp"
             }
         },
         "0014_dreamers_prison": {
@@ -204,13 +204,13 @@
             "description": "A morbid artifact allowing you to imprison a creature within the head's dream.",
             "name": "Dreamers Prison",
             "properties": {
-            "rarity": "Uncommon",
-            "attunement": true,
-            "origin": "occult",
-            "item_type": "Trinket",
-            "tier": 2,
-            "price": "2600",
-            "icon": "0014_dreamers_prison-icon.webp"
+                "rarity": "Uncommon",
+                "attunement": true,
+                "origin": "occult",
+                "item_type": "Trinket",
+                "tier": 2,
+                "price": "2600",
+                "icon": "0014_dreamers_prison-icon.webp"
             }
         },
         "0015_sunflower_scepter": {
@@ -218,13 +218,13 @@
             "description": "A spell focus strengthening radiant damage and granting two powerful solar spells.",
             "name": "Sunflower Scepter",
             "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "druidic",
-            "item_type": "Natural",
-            "tier": 2,
-            "price": "4400",
-            "icon": "0015_sunflower_scepter-icon.webp"
+                "rarity": "Very Rare",
+                "attunement": true,
+                "origin": "druidic",
+                "item_type": "Natural",
+                "tier": 2,
+                "price": "4400",
+                "icon": "0015_sunflower_scepter-icon.webp"
             }
         },
         "0016_harrowshrike_harness": {
@@ -232,13 +232,13 @@
             "description": "Winged armor that allows you to silently glide through the air.",
             "name": "Harrowshrike Harness",
             "properties": {
-            "rarity": "Rare",
-            "attunement": false,
-            "origin": "vampiric",
-            "item_type": "Medium Armor",
-            "tier": 1,
-            "price": "1600",
-            "icon": "0016_harrowshrike_harness-icon.webp"
+                "rarity": "Rare",
+                "attunement": false,
+                "origin": "vampiric",
+                "item_type": "Medium Armor",
+                "tier": 1,
+                "price": "1600",
+                "icon": "0016_harrowshrike_harness-icon.webp"
             }
         },
         "0017_griefplate": {
@@ -246,13 +246,13 @@
             "description": "A haunted plate armor enshrouded by wailing ghosts, damaging all living creatures around you.",
             "name": "Griefplate",
             "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "vampiric",
-            "item_type": "Heavy Armor",
-            "tier": 2,
-            "price": "6200",
-            "icon": "0017_griefplate-icon.webp"
+                "rarity": "Very Rare",
+                "attunement": true,
+                "origin": "vampiric",
+                "item_type": "Heavy Armor",
+                "tier": 2,
+                "price": "6200",
+                "icon": "0017_griefplate-icon.webp"
             }
         },
         "0018_gatebreaker_gauntlets": {
@@ -260,13 +260,13 @@
             "description": "Heavy gauntlets allowing you to crush foes with your fists and break through doors, walls and castle gates.",
             "name": "Gatebreaker Gauntlets",
             "properties": {
-            "rarity": "Legendary",
-            "attunement": true,
-            "origin": "blessed",
-            "item_type": "Heavy Armor",
-            "tier": 3,
-            "price": "28800",
-            "icon": "0018_gatebreaker_gauntlets-icon.webp"
+                "rarity": "Legendary",
+                "attunement": true,
+                "origin": "blessed",
+                "item_type": "Heavy Armor",
+                "tier": 3,
+                "price": "28800",
+                "icon": "0018_gatebreaker_gauntlets-icon.webp"
             }
         },
         "0019_osseous_mask": {
@@ -274,13 +274,13 @@
             "description": "A bone mask, granting you telepathy and the ability to target two allies with a single spell.",
             "name": "Osseous Mask",
             "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "arcane",
-            "item_type": "Clothing",
-            "tier": 1,
-            "price": "2500",
-            "icon": "0019_osseous_mask-icon.webp"
+                "rarity": "Rare",
+                "attunement": true,
+                "origin": "arcane",
+                "item_type": "Clothing",
+                "tier": 1,
+                "price": "2500",
+                "icon": "0019_osseous_mask-icon.webp"
             }
         },
         "0020_stormstrider_boots": {
@@ -288,13 +288,13 @@
             "description": "Boots allowing you to stride through air and granting resistance to lightning damage.",
             "name": "Stormstrider Boots",
             "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "giantforged",
-            "item_type": "Clothing",
-            "tier": 2,
-            "price": "6600",
-            "icon": "0020_stormstrider_boots-icon.webp"
+                "rarity": "Very Rare",
+                "attunement": true,
+                "origin": "giantforged",
+                "item_type": "Clothing",
+                "tier": 2,
+                "price": "6600",
+                "icon": "0020_stormstrider_boots-icon.webp"
             }
         },
         "0022_ossian_crown": {
@@ -302,13 +302,13 @@
             "description": "A crown granting the ability to cast animate dead on a beast.",
             "name": "Ossian Crown",
             "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "relic",
-            "item_type": "Clothing",
-            "tier": 1,
-            "price": "2700",
-            "icon": "0022_ossian_crown-icon.webp"
+                "rarity": "Very Rare",
+                "attunement": true,
+                "origin": "relic",
+                "item_type": "Clothing",
+                "tier": 1,
+                "price": "2700",
+                "icon": "0022_ossian_crown-icon.webp"
             }
         },
         "0024_ancestral_fragment": {
@@ -316,13 +316,13 @@
             "description": "A piece of magical rock that lets you commune with your ancestors.",
             "name": "Ancestral Fragment",
             "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "primordial",
-            "item_type": "Trinket",
-            "tier": 2,
-            "price": "2100",
-            "icon": "0024_ancestral_fragment-icon.webp"
+                "rarity": "Rare",
+                "attunement": true,
+                "origin": "primordial",
+                "item_type": "Trinket",
+                "tier": 2,
+                "price": "2100",
+                "icon": "0024_ancestral_fragment-icon.webp"
             }
         },
         "0025_lightbringer_torch": {
@@ -330,13 +330,13 @@
             "description": "A magical torch that emits magical sunlight, banishes darkness and heals allies.",
             "name": "Lightbringer Torch",
             "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "relic",
-            "item_type": "Trinket",
-            "tier": 2,
-            "price": "4600",
-            "icon": "0025_lightbringer_torch-icon.webp"
+                "rarity": "Rare",
+                "attunement": true,
+                "origin": "relic",
+                "item_type": "Trinket",
+                "tier": 2,
+                "price": "4600",
+                "icon": "0025_lightbringer_torch-icon.webp"
             }
         },
         "0026_molten_core": {
@@ -344,13 +344,13 @@
             "description": "A grisly weapon allowing you to endure grave wounds and march on seemingly forever.",
             "name": "Molten Core",
             "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "primordial",
-            "item_type": "Trinket",
-            "tier": 2,
-            "price": "4800",
-            "icon": "0026_molten_core-icon.webp"
+                "rarity": "Very Rare",
+                "attunement": true,
+                "origin": "primordial",
+                "item_type": "Trinket",
+                "tier": 2,
+                "price": "4800",
+                "icon": "0026_molten_core-icon.webp"
             }
         },
         "0028_fleshgrafter_workgloves": {
@@ -358,13 +358,13 @@
             "description": "Summon a giant mummified arm and crush your foes with it.",
             "name": "Fleshgrafter Workgloves",
             "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "occult",
-            "item_type": "Trinket",
-            "tier": 2,
-            "price": "2600",
-            "icon": "0028_fleshgrafter_workgloves-icon.webp"
+                "rarity": "Rare",
+                "attunement": true,
+                "origin": "occult",
+                "item_type": "Trinket",
+                "tier": 2,
+                "price": "2600",
+                "icon": "0028_fleshgrafter_workgloves-icon.webp"
             }
         },
         "0002_devils_decksweeper": {
@@ -372,14 +372,14 @@
             "description": "An overgrown pistol cursed by a devil of the sea",
             "name": "Devils Decksweeper",
             "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "occult",
-            "item_type": "Range Weapon",
-            "tier": 2,
-            "price": "2400",
-            "icon": "0002_devils_decksweeper-icon.webp"
+                "rarity": "Rare",
+                "attunement": true,
+                "origin": "occult",
+                "item_type": "Range Weapon",
+                "tier": 2,
+                "price": "2400",
+                "icon": "0002_devils_decksweeper-icon.webp"
             }
-         }
-       }
-     }
+        }
+    }
+}
