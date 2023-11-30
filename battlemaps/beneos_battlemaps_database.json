@@ -28729,6 +28729,38 @@
                 "thumbnail": "14-01_Mutation_Chamber-4k_scen.webp",
                 "videourl": "WIP"
             }
-        }
-    }
-}
+                    },
+                    "15-01_Monster_Pit-4k_BM":{
+                        "name":"Monster Pit",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Single Map"],
+                        "biom":["Organic","Desert", "Lair", "Exteriour", "Horror"],
+                        "brightness":"Bright",
+                        "grid":"35x35",
+                        "pack":"15_Monster_Pit",
+                        "releaseurl":"WIP",
+                        "sibling":"15-01_Monster_Pit-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"15-01_Monster_Pit-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "15-01_Monster_Pit-4k_Scen":{
+                                "name":"Monster Pit",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Single Map"],
+                                "biom":["Organic","Desert", "Lair", "Exteriour", "Horror"],
+                                "brightness":"Bright",
+                                "grid":"35x35",
+                                "pack":"15_Monster_Pit",
+                                "releaseurl":"WIP",
+                                "sibling":"15-01_Monster_Pit-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"15-01_Monster_Pit-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                            }
+                        }
+                    }
