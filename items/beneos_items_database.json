@@ -341,7 +341,7 @@
         },
         "0026_molten_core": {
             "key": "0026_molten_core",
-            "description": "A grisly weapon allowing you to endure grave wounds and march on seemingly forever.",
+            "description": "A Magma Dragon's heart, utilized to invoke different fiery boons.",
             "name": "Molten Core",
             "properties": {
                 "rarity": "Very Rare",
