@@ -5,7 +5,7 @@
   "content": {
     "0001_needleburst_cactus": {
       "key": "0001_needleburst_cactus",
-      "description": "A towering cactus bursts from the ground, expelling its needles in devastating bursts.",
+      "description": "A towering cactus emerges from the ground, expelling its needles in devastating bursts.",
       "name": "Needleburst Cactus",
       "properties": {
         "level": "3",
@@ -107,7 +107,7 @@
     },
     "0006_vengeful_spirit": {
       "key": "0006_vengeful_spirit",
-      "description": "You conjure a vengeful manifestation of an unconscious ally that is under the control of the target creature's player.",
+      "description": "You conjure a vengeful manifestation of an unconscious ally, allowing their player to still play a part in battle.",
       "name": "Vengeful Spirit",
       "properties": {
         "level": "4",
@@ -132,7 +132,7 @@
     },
     "0007_deconstruct": {
       "key": "0007_deconstruct",
-      "description": "You reduce a Medium or smaller non-magical item or object into its smallest mechanical components.",
+      "description": "Disassemble mundane objects into their smallest mechanical components.",
       "name": "Deconstruct",
       "properties": {
         "level": "3",
@@ -183,7 +183,7 @@
     },
     "0010_harrowshriek": {
       "key": "0010_harrowshriek",
-      "description": "High-pitched shrieking that damages, deafens and frightens target creatures.",
+      "description": "The high-pitched shriek of a chiropteran beast, damaging, deafening and frightening your prey.",
       "name": "Harrowshriek",
       "properties": {
         "level": "2",
@@ -205,7 +205,7 @@
     },
     "0013_deathrite_shroud": {
       "key": "0013_deathrite_shroud",
-      "description": "Summon a cursed shroud that silences a creature and slowly damages it.",
+      "description": "Summon a cursed shroud that silences a creature and slowly tears at its physical body.",
       "name": "Deathrite Shroud",
       "properties": {
         "level": "2",
@@ -229,7 +229,7 @@
     },
     "0014_summon_megalith": {
       "key": "0014_summon_megalith",
-      "description": "You summon an ancient monolith, damaging enemies and granting temporary hit points to allies within range.",
+      "description": "You summon an ancient monolith, damaging enemies and granting strength to your allies.",
       "name": "Summon Megalith",
       "properties": {
         "level": "3",
@@ -382,7 +382,7 @@
     },
     "0011_grim_harvest": {
       "key": "0011_grim_harvest",
-      "description": "Deal damage to enemies close to you and regain hit points.",
+      "description": "Reap nearby creatures' life force and claim it as your own.",
       "name": "Grim Harvest",
       "properties": {
         "level": "2",
@@ -407,7 +407,7 @@
     },
     "0012_glacial_prison": {
       "key": "0012_glacial_prison",
-      "description": "Imprison a creature in ice and deal continuous damage to it.",
+      "description": "Imprison a creature in ice, draining any warmth from it over time.",
       "name": "Glacial Prison",
       "properties": {
         "level": "6",
@@ -457,7 +457,7 @@
     },
     "0019_mist_phantoms": {
       "key": "0019_mist_phantoms",
-      "description": "You form three shades from icy mist, shrouding your presence and attacking your enemies.",
+      "description": "Icy mist takes up the shapes of three murderous phantoms, shrouding your presence and hunting down your enemies.",
       "name": "Mist Phantoms",
       "properties": {
         "level": "2",
@@ -480,7 +480,7 @@
     },
     "0004_anchor_of_tragedy": {
       "key": "0004_anchor_of_tragedy",
-      "description": "A distant ship’s bell sounds, ethereal chains rattle and a black iron anchor appears to drag its target into the depths of the sea.",
+      "description": "A distant ship’s bell sounds, ethereal chains rattle and a black iron anchor appears to drag its target to the depths of the sea.",
       "name": "Anchor Of Tragedy",
       "properties": {
         "level": "2",
@@ -574,7 +574,7 @@
     },
     "0022_brittlebone_hex": {
       "key": "0022_brittlebone_hex",
-      "description": "The target’s bones become frail and brittle.",
+      "description": "Weaken the curse victim's bones until they crumble unter the slightest pressure.",
       "name": "Brittlebone Hex",
       "properties": {
         "level": "3",
@@ -597,7 +597,7 @@
     },
     "0023_soothing_scents": {
       "key": "0023_soothing_scents",
-      "description": "Heal nearby allies from negative status effects.",
+      "description": "You exude a pleasent smell, granting nearby allies reprieve from their ailments.",
       "name": "Soothing Scents",
       "properties": {
         "level": "3",
@@ -620,7 +620,7 @@
     },
     "0000_srd_prestidigitation": {
       "key": "0000_srd_prestidigitation",
-      "description": "Create a number of useful minor effects.",
+      "description": "Create a number of useful minor magical effects.",
       "name": "Prestidigitation",
       "properties": {
         "level": "0",
