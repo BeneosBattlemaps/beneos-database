@@ -12842,7 +12842,7 @@
     },
     "135_skeletal_swashbuckler_1": {
       "description": "Life at sea is perilous and offers myriad ways to meet an untimely demise — be it disease, violence, or the raw brutality of the elements. Yet, amidst this danger, sailors have discovered diverse means to transcend mortality, seldom by choice. Ancient curses, bonds to captain, crew, and vessel transcending death, or the mystical sway of natural forces all ensure a sailor’s journey sometimes doesn’t conclude with death. The Skeletal Swashbucklers are undead mariners who defy decay, their bleached bones pulsating with a lingering thrill for adventure and peril, refusing to succumb to mere oblivion.",
-      "name": "Skeletal Swashbuckler 1",
+      "name": "Skeletal Swashbuckler",
       "properties": {
         "biom": [
           "Coastal",
@@ -12879,7 +12879,7 @@
     },
     "135_skeletal_swashbuckler_2": {
       "description": "Life at sea is perilous and offers myriad ways to meet an untimely demise — be it disease, violence, or the raw brutality of the elements. Yet, amidst this danger, sailors have discovered diverse means to transcend mortality, seldom by choice. Ancient curses, bonds to captain, crew, and vessel transcending death, or the mystical sway of natural forces all ensure a sailor’s journey sometimes doesn’t conclude with death. The Skeletal Swashbucklers are undead mariners who defy decay, their bleached bones pulsating with a lingering thrill for adventure and peril, refusing to succumb to mere oblivion.",
-      "name": "Skeletal Swashbuckler 2",
+      "name": "Skeletal Swashbuckler",
       "properties": {
         "biom": [
           "Coastal",
@@ -12993,9 +12993,119 @@
         "type": [
           "Beast",
           "Dinosaur"
+		  ],
+		  "videourl": ""
+	  }
+    },
+    "137_cannonade_crawler_1": {
+      "description": "The Cannonade Crawlers, colossal mega-arthopods renowned for their potent acid bombardments, possess a unique physiology fueled by arcane influences and distinctive biochemical compounds from their diet. They live a symbiotic lifestyle, residing in clusters called regiments, and often engage in battles for other creatures in exchange for sustenance. This mutual relationship has raised questions about a possible feralization from a previously domesticated state. Typically, these agreements involve the Crawlers defending hives, dens, or even villages in exchange for food resources from their employers. This strategic approach secures their survival while allowing them to utilize their specialized defense mechanisms as living artillery.",
+      "name": "Cannonade Crawler",
+      "properties": {
+        "biom": ["Desert", "Jungle","Underground","Dungeon","Wilderness","Forest","Mountain", "Coast", "Road"],
+        "cr": "3",
+        "fightingstyle": ["Pack","Ranged"],
+        "movement": ["Walk"],
+        "purpose": ["Support"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 15,
+        "stat_cha": 5,
+        "stat_con": 14,
+        "stat_dex": 13,
+        "stat_hp": 47,
+        "stat_int": 1,
+        "stat_str": 16,
+        "stat_wis": 13,
+        "thumbnail": "137_cannonade_crawler_1-idle_face_still.webp",
+        "type": [
+          "Monstrosity",
+          ""
         ],
-        "videourl": "https://youtu.be/WBQtNkgHlbM?si=_VS7PnVop3eDIQhy"
-      }
+        "videourl": ""
+    }
+    },
+    "137_cannonade_crawler_2": {
+      "description": "The Cannonade Crawlers, colossal mega-arthopods renowned for their potent acid bombardments, possess a unique physiology fueled by arcane influences and distinctive biochemical compounds from their diet. They live a symbiotic lifestyle, residing in clusters called regiments, and often engage in battles for other creatures in exchange for sustenance. This mutual relationship has raised questions about a possible feralization from a previously domesticated state. Typically, these agreements involve the Crawlers defending hives, dens, or even villages in exchange for food resources from their employers. This strategic approach secures their survival while allowing them to utilize their specialized defense mechanisms as living artillery.",
+      "name": "Cannonade Crawler",
+      "properties": {
+        "biom": ["Desert", "Jungle","Underground","Dungeon", "Wilderness","Forest","Mountain", "Coast", "Road"],
+        "cr": "3",
+        "fightingstyle": ["Pack","Ranged"],
+        "movement": ["Walk"],
+        "purpose": ["Support"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 15,
+        "stat_cha": 5,
+        "stat_con": 14,
+        "stat_dex": 13,
+        "stat_hp": 47,
+        "stat_int": 1,
+        "stat_str": 16,
+        "stat_wis": 13,
+        "thumbnail": "137_cannonade_crawler_2-idle_face_still.webp",
+        "type": [
+          "Monstrosity",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "137_cannonade_crawler_3": {
+      "description": "The Cannonade Crawlers, colossal mega-arthopods renowned for their potent acid bombardments, possess a unique physiology fueled by arcane influences and distinctive biochemical compounds from their diet. They live a symbiotic lifestyle, residing in clusters called regiments, and often engage in battles for other creatures in exchange for sustenance. This mutual relationship has raised questions about a possible feralization from a previously domesticated state. Typically, these agreements involve the Crawlers defending hives, dens, or even villages in exchange for food resources from their employers. This strategic approach secures their survival while allowing them to utilize their specialized defense mechanisms as living artillery.",
+      "name": "Cannonade Crawler",
+      "properties": {
+        "biom": ["Desert","Underground", "Dungeon","Jungle","Wilderness","Forest","Mountain", "Coast", "Road"],
+        "cr": "3",
+        "fightingstyle": ["Pack","Ranged"],
+        "movement": ["Walk"],
+        "purpose": ["Support"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 15,
+        "stat_cha": 5,
+        "stat_con": 14,
+        "stat_dex": 13,
+        "stat_hp": 47,
+        "stat_int": 1,
+        "stat_str": 16,
+        "stat_wis": 13,
+        "thumbnail": "137_cannonade_crawler_3-idle_face_still.webp",
+        "type": [
+          "Monstrosity",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "137_cannonade_crawler_4": {
+      "description": "The Cannonade Crawlers, colossal mega-arthopods renowned for their potent acid bombardments, possess a unique physiology fueled by arcane influences and distinctive biochemical compounds from their diet. They live a symbiotic lifestyle, residing in clusters called regiments, and often engage in battles for other creatures in exchange for sustenance. This mutual relationship has raised questions about a possible feralization from a previously domesticated state. Typically, these agreements involve the Crawlers defending hives, dens, or even villages in exchange for food resources from their employers. This strategic approach secures their survival while allowing them to utilize their specialized defense mechanisms as living artillery.",
+      "name": "Cannonade Crawler",
+      "properties": {
+        "biom": ["Desert","Underground", "Dungeon", "Jungle","Wilderness","Forest","Mountain", "Coast", "Road"],
+        "cr": "3",
+        "fightingstyle": ["Pack","Ranged"],
+        "movement": ["Walk"],
+        "purpose": ["Support"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 15,
+        "stat_cha": 5,
+        "stat_con": 14,
+        "stat_dex": 13,
+        "stat_hp": 47,
+        "stat_int": 1,
+        "stat_str": 16,
+        "stat_wis": 13,
+        "thumbnail": "137_cannonade_crawler_4-idle_face_still.webp",
+        "type": [
+          "Monstrosity",
+          ""
+        ],
+        "videourl": ""
     }
   }
-}
+  }
+  }
+  
+
