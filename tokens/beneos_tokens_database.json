@@ -12954,7 +12954,7 @@
         "type": [
           "Undead"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/AsVZh6eUIm8?si=vZJbdJsi22qpDJn9"
       }
     },
     "136_tyrannosaurus_rex": {
@@ -12967,7 +12967,7 @@
           "Wilderness",
           "Forest"
         ],
-        "cr": "",
+        "cr": "9",
         "fightingstyle": [
           "Melee",
           "Mobile"
@@ -12994,7 +12994,7 @@
           "Beast",
           "Dinosaur"
 		  ],
-		  "videourl": ""
+		  "videourl": "https://youtu.be/WBQtNkgHlbM?si=nuOO9Msrx5mYgoRh"
 	  }
     },
     "137_cannonade_crawler_1": {
@@ -13006,7 +13006,7 @@
         "fightingstyle": ["Pack","Ranged"],
         "movement": ["Walk"],
         "purpose": ["Support"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/cannonade-93973570",
         "size": "Large",
         "stat_ac": 15,
         "stat_cha": 5,
@@ -13021,7 +13021,7 @@
           "Monstrosity",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/1fS3i6_SZII?si=ULIN5uJHPisXxWv0"
     }
     },
     "137_cannonade_crawler_2": {
@@ -13033,7 +13033,7 @@
         "fightingstyle": ["Pack","Ranged"],
         "movement": ["Walk"],
         "purpose": ["Support"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/cannonade-93973570",
         "size": "Large",
         "stat_ac": 15,
         "stat_cha": 5,
@@ -13048,7 +13048,7 @@
           "Monstrosity",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/1fS3i6_SZII?si=ULIN5uJHPisXxWv0"
     }
     },
     "137_cannonade_crawler_3": {
@@ -13060,7 +13060,7 @@
         "fightingstyle": ["Pack","Ranged"],
         "movement": ["Walk"],
         "purpose": ["Support"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/cannonade-93973570",
         "size": "Large",
         "stat_ac": 15,
         "stat_cha": 5,
@@ -13075,7 +13075,7 @@
           "Monstrosity",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/1fS3i6_SZII?si=ULIN5uJHPisXxWv0"
     }
     },
     "137_cannonade_crawler_4": {
@@ -13087,7 +13087,7 @@
         "fightingstyle": ["Pack","Ranged"],
         "movement": ["Walk"],
         "purpose": ["Support"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/cannonade-93973570",
         "size": "Large",
         "stat_ac": 15,
         "stat_cha": 5,
@@ -13102,7 +13102,7 @@
           "Monstrosity",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/1fS3i6_SZII?si=ULIN5uJHPisXxWv0"
     }
   }
   }
