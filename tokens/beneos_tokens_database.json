@@ -4880,7 +4880,9 @@
         "biom": [
           "Wilderness",
           "forest",
-          "dungeon"
+          "dungeon",
+		  "tropical",
+		  "jungle"
         ],
         "cr": "2",
         "fightingstyle": [
@@ -4923,7 +4925,8 @@
           "graves",
           "ruins",
           "dungeon",
-          "lair"
+          "lair",
+		  "jungle"
         ],
         "cr": "9",
         "fightingstyle": [
@@ -4970,7 +4973,8 @@
           "graves",
           "ruins",
           "dungeon",
-          "lair"
+          "lair",
+		  "jungle"
         ],
         "cr": "9",
         "fightingstyle": [
@@ -5017,7 +5021,8 @@
           "graves",
           "ruins",
           "dungeon",
-          "lair"
+          "lair",
+		  "jungle"
         ],
         "cr": "9",
         "fightingstyle": [
@@ -5064,7 +5069,8 @@
           "graves",
           "ruins",
           "dungeon",
-          "lair"
+          "lair",
+		  "jungle"
         ],
         "cr": "9",
         "fightingstyle": [
@@ -5146,7 +5152,10 @@
       "properties": {
         "biom": [
           "Wilderness",
-          "wasteland"
+          "wasteland",
+		  "jungle",
+		  "tropical",
+		  "swamp"
         ],
         "cr": "4",
         "fightingstyle": [
@@ -5185,7 +5194,9 @@
       "properties": {
         "biom": [
           "ocean",
-          "Coast"
+          "Coast",
+		  "tropical",
+		  "tavern"
         ],
         "cr": "7",
         "fightingstyle": [
@@ -5263,7 +5274,8 @@
       "properties": {
         "biom": [
           "wasteland",
-          "desert"
+          "desert",
+		  "tropical"
         ],
         "cr": "17",
         "fightingstyle": [
@@ -5300,7 +5312,8 @@
       "properties": {
         "biom": [
           "abyssal",
-          "dungeon"
+          "dungeon",
+		  "planar"
         ],
         "cr": "5",
         "fightingstyle": [
@@ -5339,7 +5352,9 @@
       "properties": {
         "biom": [
           "City",
-          "Civilized"
+          "Civilized",
+		  "tavern",
+		  "road"
         ],
         "cr": "5",
         "fightingstyle": [
@@ -5377,7 +5392,9 @@
       "properties": {
         "biom": [
           "City",
-          "Civilized"
+          "Civilized",
+		  "tavern",
+		  "road"
         ],
         "cr": "5",
         "fightingstyle": [
@@ -5415,7 +5432,9 @@
       "properties": {
         "biom": [
           "City",
-          "Civilized"
+          "Civilized",
+		  "tavern",
+		  "road"
         ],
         "cr": "5",
         "fightingstyle": [
@@ -5455,7 +5474,8 @@
           "dungeon",
           "underground",
           "Wilderness",
-          "road"
+          "road",
+		  "planar"
         ],
         "cr": "5",
         "fightingstyle": [
@@ -5494,7 +5514,9 @@
           "Wilderness",
           "road",
           "desert",
-          "forest"
+          "forest",
+		  "jungle",
+		  "tropical"
         ],
         "cr": "6",
         "fightingstyle": [
@@ -5672,7 +5694,9 @@
           "dungeon",
           "ruins",
           "sacral",
-          "Mountain"
+          "Mountain",
+		  "jungle",
+		  "tropical"
         ],
         "cr": "5",
         "fightingstyle": [
@@ -5749,7 +5773,8 @@
         "biom": [
           "planar",
           "dungeon",
-          "lair"
+          "lair",
+		  "mountain"
         ],
         "cr": "4",
         "fightingstyle": [
@@ -5792,7 +5817,10 @@
           "forest",
           "wasteland",
           "road",
-          "graves"
+          "graves",
+		  "tropical",
+		  "jungle",
+		  "swamp"
         ],
         "cr": "0,5",
         "fightingstyle": [
@@ -5831,7 +5859,11 @@
         "biom": [
           "Wilderness",
           "dungeon",
-          "road"
+          "road",
+		  "civilization",
+		  "tavern",
+		  "mountain",
+		  "wasteland"
         ],
         "cr": "4",
         "fightingstyle": [
@@ -6080,7 +6112,10 @@
       "properties": {
         "biom": [
           "Wilderness",
-          "forest"
+          "forest",
+		  "jungle",
+		  "tropical",
+		  "swamp"
         ],
         "cr": "2",
         "fightingstyle": [
@@ -6116,7 +6151,10 @@
       "properties": {
         "biom": [
           "Wilderness",
-          "forest"
+          "forest",
+		  "tropical",
+		  "jungle",
+		  "swamp"
         ],
         "cr": "2",
         "fightingstyle": [
@@ -6152,7 +6190,10 @@
       "properties": {
         "biom": [
           "Wilderness",
-          "forest"
+          "forest",
+		  "tropical",
+		  "jungle",
+		  "swamp"
         ],
         "cr": "2",
         "fightingstyle": [
@@ -6188,7 +6229,10 @@
       "properties": {
         "biom": [
           "Wilderness",
-          "forest"
+          "forest",
+		  "tropical",
+		  "jungle",
+		  "swamp"
         ],
         "cr": "2",
         "fightingstyle": [
@@ -6224,7 +6268,14 @@
       "properties": {
         "biom": [
           "Wilderness",
-          "forest"
+          "forest",
+		  "swamp",
+		  "graves",
+		  "ruins",
+		  "horror",
+		  "dungeon",
+		  "road",
+		  "wasteland"
         ],
         "cr": "1",
         "fightingstyle": [
@@ -6349,7 +6400,9 @@
           "underground",
           "dungeon",
           "lair",
-          "horror"
+          "horror",
+		  "swamp",
+		  "graves"
         ],
         "cr": "9",
         "fightingstyle": [
@@ -6607,7 +6660,10 @@
           "ocean",
           "desert",
           "tavern",
-          "City"
+          "City",
+		  "tropical",
+		  "jungle",
+		  "swamp"
         ],
         "cr": "2",
         "fightingstyle": [
@@ -6652,7 +6708,10 @@
           "wasteland",
           "underground",
           "Coast",
-          "ocean"
+          "ocean",
+		  "tropical",
+		  "jungle",
+		  "swamp"
         ],
         "cr": "15",
         "fightingstyle": [
@@ -6736,7 +6795,8 @@
           "Civilized",
           "City",
           "lair",
-          "Wilderness"
+          "Wilderness",
+		  "planar"
         ],
         "cr": "14",
         "fightingstyle": [
@@ -6777,7 +6837,8 @@
           "Civilized",
           "City",
           "lair",
-          "Wilderness"
+          "Wilderness",
+		  "planar"
         ],
         "cr": "14",
         "fightingstyle": [
@@ -6818,7 +6879,8 @@
           "Civilized",
           "City",
           "lair",
-          "Wilderness"
+          "Wilderness",
+		  "planar"
         ],
         "cr": "14",
         "fightingstyle": [
@@ -6859,7 +6921,8 @@
           "Civilized",
           "City",
           "lair",
-          "Wilderness"
+          "Wilderness",
+		  "planar"
         ],
         "cr": "14",
         "fightingstyle": [
@@ -6906,7 +6969,8 @@
           "wasteland",
           "desert",
           "Mountain",
-          "Coast"
+          "Coast",
+		  "swamp"
         ],
         "cr": "0,5",
         "fightingstyle": [
@@ -6954,7 +7018,8 @@
           "wasteland",
           "desert",
           "Mountain",
-          "Coast"
+          "Coast",
+		  "swamp"
         ],
         "cr": "0,5",
         "fightingstyle": [
@@ -7002,7 +7067,8 @@
           "wasteland",
           "desert",
           "Mountain",
-          "Coast"
+          "Coast",
+		  "swamp"
         ],
         "cr": "0,5",
         "fightingstyle": [
@@ -7050,7 +7116,8 @@
           "wasteland",
           "desert",
           "Mountain",
-          "Coast"
+          "Coast",
+		  "swamp"
         ],
         "cr": "0,5",
         "fightingstyle": [
@@ -7098,7 +7165,8 @@
           "wasteland",
           "desert",
           "Mountain",
-          "Coast"
+          "Coast",
+		  "swamp"
         ],
         "cr": "0,5",
         "fightingstyle": [
@@ -7146,7 +7214,8 @@
           "wasteland",
           "desert",
           "Mountain",
-          "Coast"
+          "Coast",
+		  "swamp"
         ],
         "cr": "0,5",
         "fightingstyle": [
@@ -7195,7 +7264,8 @@
           "wasteland",
           "desert",
           "Mountain",
-          "Coast"
+          "Coast",
+		  "swamp"
         ],
         "cr": "0,5",
         "fightingstyle": [
@@ -7244,7 +7314,8 @@
           "wasteland",
           "desert",
           "Mountain",
-          "Coast"
+          "Coast",
+		  "swamp"
         ],
         "cr": "0,5",
         "fightingstyle": [
@@ -7293,7 +7364,8 @@
           "wasteland",
           "desert",
           "Mountain",
-          "Coast"
+          "Coast",
+		  "swamp"
         ],
         "cr": "0,5",
         "fightingstyle": [
@@ -7343,7 +7415,8 @@
           "wasteland",
           "desert",
           "Mountain",
-          "Coast"
+          "Coast",
+		  "swamp"
         ],
         "cr": "0,5",
         "fightingstyle": [
@@ -7393,7 +7466,8 @@
           "wasteland",
           "desert",
           "Mountain",
-          "Coast"
+          "Coast",
+		  "swamp"
         ],
         "cr": "1",
         "fightingstyle": [
@@ -7442,7 +7516,8 @@
           "wasteland",
           "desert",
           "Mountain",
-          "Coast"
+          "Coast",
+		  "swamp"
         ],
         "cr": "1",
         "fightingstyle": [
@@ -7492,7 +7567,8 @@
           "desert",
           "Mountain",
           "Coast",
-          "graves"
+          "graves",
+		  "swamp"
         ],
         "cr": "1",
         "fightingstyle": [
@@ -7542,7 +7618,8 @@
           "Mountain",
           "Coast",
           "graves",
-          "horror"
+          "horror",
+		  "swamp"
         ],
         "cr": "0,5",
         "fightingstyle": [
@@ -7594,7 +7671,8 @@
           "Mountain",
           "Coast",
           "graves",
-          "horror"
+          "horror",
+		  "swamp"
         ],
         "cr": "0,5",
         "fightingstyle": [
@@ -7645,7 +7723,8 @@
           "desert",
           "Mountain",
           "Coast",
-          "graves"
+          "graves",
+		  "swamp"
         ],
         "cr": "0,5",
         "fightingstyle": [
@@ -7776,7 +7855,9 @@
           "forest",
           "Mountain",
           "Coast",
-          "sacral"
+          "sacral",
+		  "jungle",
+		  "tropical"
         ],
         "cr": "7",
         "fightingstyle": [
@@ -7814,7 +7895,14 @@
         "biom": [
           "planar",
           "dungeon",
-          "lair"
+          "lair",
+		  "wilderness",
+		  "road",
+		  "wasteland",
+		  "city",
+		  "civilized",
+		  "coast",
+		  "mountain"
         ],
         "cr": "4",
         "fightingstyle": [
@@ -7858,7 +7946,10 @@
           "forest",
           "Mountain",
           "Coast",
-          "sacral"
+          "sacral",
+		  "swamp",
+		  "tropical",
+		  "jungle"
         ],
         "cr": "9",
         "fightingstyle": [
@@ -7900,7 +7991,9 @@
           "Mountain",
           "Coast",
           "tavern",
-          "Civilized"
+          "Civilized",
+		  "city",
+		  "tavern"
         ],
         "cr": "5",
         "fightingstyle": [
@@ -7940,7 +8033,9 @@
           "ruins",
           "dungeon",
           "Coast",
-          "ocean"
+          "ocean",
+		  "tropical",
+		  "jungle"
         ],
         "cr": "1",
         "fightingstyle": [
@@ -7978,7 +8073,9 @@
           "ruins",
           "dungeon",
           "Coast",
-          "ocean"
+          "ocean",
+		  "tropical",
+		  "jungle"
         ],
         "cr": "1",
         "fightingstyle": [
@@ -8016,7 +8113,9 @@
           "ruins",
           "dungeon",
           "Coast",
-          "ocean"
+          "ocean",
+		  "tropical",
+		  "jungle"
         ],
         "cr": "1",
         "fightingstyle": [
@@ -8097,7 +8196,9 @@
           "road",
           "horror",
           "Wilderness",
-          "lair"
+          "lair",
+		  "swamp",
+		  "graves"
         ],
         "cr": "1",
         "fightingstyle": [
@@ -8632,12 +8733,16 @@
             "Civilized",
             "City",
             "planar",
-            "Wilderness"
+            "Wilderness",
+			"tropical",
+			"jungle",
+			"forest",
+			"tropical"
           ],
           "cr": "1",
           "fightingstyle": [
-            "Melee",
-            "lethal"
+            "Mobile","airborne"
+          
           ],
           "movement": [
             "Fly"
@@ -8675,12 +8780,15 @@
             "Civilized",
             "City",
             "planar",
-            "Wilderness"
+            "Wilderness",
+			"jungle",
+			"forest",
+			"tropical"
           ],
           "cr": "1",
           "fightingstyle": [
-            "Melee",
-            "lethal"
+            "mobile", "airbone"
+       
           ],
           "movement": [
             "Fly"
@@ -8718,12 +8826,15 @@
             "Civilized",
             "City",
             "planar",
-            "Wilderness"
+            "Wilderness",
+			"jungle",
+			"forest",
+			"tropical"
           ],
           "cr": "1",
           "fightingstyle": [
-            "Melee",
-            "lethal"
+            "airborne",
+            "mobile"
           ],
           "movement": [
             "Fly"
@@ -8761,7 +8872,8 @@
             "Civilized",
             "City",
             "planar",
-            "Wilderness"
+            "Wilderness",
+			"underground"
           ],
           "cr": "6",
           "fightingstyle": [
@@ -8841,7 +8953,10 @@
             "forest",
             "underground",
             "planar",
-            "Wilderness"
+            "Wilderness",
+			"Jungle",
+			"Tropical"
+		
           ],
           "cr": "7",
           "fightingstyle": [
@@ -9026,7 +9141,9 @@
             "tavern",
             "wasteland",
             "forest",
-            "City"
+            "City",
+			"swamp",
+			"jungle"
           ],
           "cr": "4",
           "fightingstyle": [
@@ -9071,7 +9188,9 @@
             "road",
             "Mountain",
             "desert",
-            "wasteland"
+            "wasteland",
+			"jungle",
+			"tropical"
           ],
           "cr": "4",
           "fightingstyle": [
@@ -9359,7 +9478,9 @@
           "Mountain",
           "forest",
           "wasteland",
-          "Civilized"
+          "Civilized",
+		  "jungle",
+		  "tropical"
         ],
         "cr": "10",
         "fightingstyle": [
@@ -9405,7 +9526,8 @@
           "Mountain",
           "forest",
           "wasteland",
-          "Civilized"
+          "Civilized",
+		  "tropical"
         ],
         "cr": "10",
         "fightingstyle": [
@@ -9451,7 +9573,8 @@
           "Mountain",
           "forest",
           "wasteland",
-          "Civilized"
+          "Civilized",
+		  "jungle"
         ],
         "cr": "10",
         "fightingstyle": [
@@ -9859,7 +9982,8 @@
           "wasteland",
           "road",
           "graves",
-          "horror"
+          "horror",
+		  "swamp"
         ],
         "cr": "9",
         "fightingstyle": [
@@ -9900,7 +10024,8 @@
           "wasteland",
           "road",
           "graves",
-          "horror"
+          "horror",
+		  "swamp"
         ],
         "cr": "9",
         "fightingstyle": [
@@ -9941,7 +10066,8 @@
           "wasteland",
           "road",
           "graves",
-          "horror"
+          "horror",
+		  "swamp"
         ],
         "cr": "9",
         "fightingstyle": [
@@ -9982,7 +10108,8 @@
           "wasteland",
           "road",
           "graves",
-          "horror"
+          "horror",
+		  "swamp"
         ],
         "cr": "9",
         "fightingstyle": [
@@ -10556,7 +10683,8 @@
           "ocean",
           "tavern",
           "lair",
-          "Coast"
+          "Coast",
+		  "Tropical"
         ],
         "cr": "2",
         "fightingstyle": [
@@ -10595,7 +10723,8 @@
           "ocean",
           "tavern",
           "lair",
-          "Coast"
+          "Coast",
+		  "Tropical"
         ],
         "cr": "2",
         "fightingstyle": [
@@ -10634,7 +10763,8 @@
           "ocean",
           "tavern",
           "lair",
-          "Coast"
+          "Coast",
+		  "Tropical"
         ],
         "cr": "2",
         "fightingstyle": [
@@ -10672,7 +10802,9 @@
         "biom": [
           "forest",
           "dungeon",
-          "Wilderness"
+          "Wilderness",
+		  "Tropical",
+		  "jungle"
         ],
         "cr": "7",
         "fightingstyle": [
@@ -10711,7 +10843,9 @@
         "biom": [
           "forest",
           "dungeon",
-          "Wilderness"
+          "Wilderness",
+		  "Tropical",
+		  "jungle"
         ],
         "cr": "7",
         "fightingstyle": [
@@ -10750,7 +10884,10 @@
         "biom": [
           "forest",
           "dungeon",
-          "Wilderness"
+          "Wilderness",
+		  "Tropical",
+		  "jungle",
+		  "swamp"
         ],
         "cr": "7",
         "fightingstyle": [
@@ -10789,7 +10926,10 @@
         "biom": [
           "forest",
           "dungeon",
-          "Wilderness"
+          "Wilderness",
+		  "Tropical",
+		  "jungle",
+		  "swamp"
         ],
         "cr": "0.25",
         "fightingstyle": [
@@ -10829,11 +10969,13 @@
           "lair",
           "Coast",
           "ruins",
-          "grave",
+          "graves",
           "wasteland",
           "forest",
           "desert",
-          "Mountain"
+          "Mountain",
+		  "jungle",
+		  "swamp"
         ],
         "cr": "9",
         "fightingstyle": [
@@ -10877,11 +11019,13 @@
           "lair",
           "Coast",
           "ruins",
-          "grave",
+          "graves",
           "wasteland",
           "forest",
           "desert",
-          "Mountain"
+          "Mountain",
+		  "jungle",
+		  "swamp"
         ],
         "cr": "9",
         "fightingstyle": [
@@ -10925,11 +11069,13 @@
           "lair",
           "Coast",
           "ruins",
-          "grave",
+          "graves",
           "wasteland",
           "forest",
           "desert",
-          "Mountain"
+          "Mountain",
+		  "jungle",
+		  "swamp"
         ],
         "cr": "9",
         "fightingstyle": [
@@ -10973,11 +11119,13 @@
           "lair",
           "Coast",
           "ruins",
-          "grave",
+          "graves",
           "wasteland",
           "forest",
           "desert",
-          "Mountain"
+          "Mountain",
+		  "jungle",
+		  "swamp"
         ],
         "cr": "9",
         "fightingstyle": [
@@ -11021,11 +11169,13 @@
           "lair",
           "Coast",
           "ruins",
-          "grave",
+          "graves",
           "wasteland",
           "forest",
           "desert",
-          "Mountain"
+          "Mountain",
+		  "jungle",
+		  "tropical"
         ],
         "cr": "9",
         "fightingstyle": [
@@ -11073,7 +11223,9 @@
           "wasteland",
           "forest",
           "desert",
-          "Mountain"
+          "Mountain",
+		  "jungle",
+		  "swamp"
         ],
         "cr": "9",
         "fightingstyle": [
@@ -11151,7 +11303,10 @@
         "biom": [
           "forest",
           "dungeon",
-          "Wilderness"
+          "Wilderness",
+		  "swamp",
+		  "jungle",
+		  "tropical"
         ],
         "cr": "0.25",
         "fightingstyle": [
@@ -11322,7 +11477,9 @@
           "wasteland",
           "desert",
           "Mountain",
-          "Coast"
+          "Coast",
+		  "swamp",
+		  "jungle"
         ],
         "cr": "6",
         "fightingstyle": [
@@ -11365,7 +11522,9 @@
           "wasteland",
           "desert",
           "Mountain",
-          "Coast"
+          "Coast",
+		  "jungle",
+		  "swamp"
         ],
         "cr": "6",
         "fightingstyle": [
@@ -11408,7 +11567,9 @@
           "wasteland",
           "desert",
           "Mountain",
-          "Coast"
+          "Coast",
+		  "swamp",
+		  "jungle"
         ],
         "cr": "6",
         "fightingstyle": [
@@ -11447,7 +11608,8 @@
           "Desert",
           "Planar",
           "Wasteland",
-          "Coast"
+          "Coast",
+		  "tropical"
         ],
         "cr": "8",
         "fightingstyle": [
@@ -11673,7 +11835,10 @@
           "Wilderness",
           "Road",
           "Dungeon",
-          "Lair"
+          "Lair",
+		  "tropical",
+		  "jungle",
+		  "swamp"
         ],
         "cr": "16",
         "fightingstyle": [
@@ -11713,7 +11878,8 @@
         "biom": [
           "Civilized",
           "City",
-          "Tavern"
+          "Tavern",
+		  "road"
         ],
         "cr": "5",
         "fightingstyle": [
@@ -11798,7 +11964,9 @@
           "Desert",
           "Ruins",
           "Lair",
-          "Mountain"
+          "Mountain",
+		  "jungle",
+		  "swamp"
         ],
         "cr": "4",
         "fightingstyle": [
@@ -11842,7 +12010,9 @@
           "Desert",
           "Ruins",
           "Lair",
-          "Mountain"
+          "Mountain",
+		  "jungle",
+		  "swamp"
         ],
         "cr": "4",
         "fightingstyle": [
@@ -11884,7 +12054,8 @@
           "Road",
           "Ruins",
           "Mountain",
-          "Planar"
+          "Planar",
+		  "jungle"
         ],
         "cr": "0.5",
         "fightingstyle": [
@@ -11926,7 +12097,8 @@
           "Road",
           "Ruins",
           "Mountain",
-          "Planar"
+          "Planar",
+		  "jungle"
         ],
         "cr": "0.5",
         "fightingstyle": [
@@ -11966,7 +12138,8 @@
           "Ruins",
           "Civilized",
           "Planar",
-          "Lair"
+          "Lair",
+		  "dungeon"
         ],
         "cr": "23",
         "fightingstyle": [
@@ -12053,7 +12226,10 @@
           "Wasteland",
           "Road",
           "Mountain",
-          "Coast"
+          "Coast",
+		  "tropical",
+		  "jungle",
+		  "swamp"
         ],
         "cr": "6",
         "fightingstyle": [
@@ -12098,7 +12274,10 @@
           "Wasteland",
           "Road",
           "Mountain",
-          "Coast"
+          "Coast",
+		  "tropical",
+		  "jungle",
+		  "swamp"
         ],
         "cr": "6",
         "fightingstyle": [
@@ -12143,7 +12322,10 @@
           "Wasteland",
           "Road",
           "Mountain",
-          "Coast"
+          "Coast",
+		  "tropical",
+		  "jungle",
+		  "swamp"
         ],
         "cr": "6",
         "fightingstyle": [
@@ -12188,7 +12370,10 @@
           "Wasteland",
           "Road",
           "Mountain",
-          "Coast"
+          "Coast",
+		  "tropical",
+		  "jungle", 
+		  "swamp"
         ],
         "cr": "6",
         "fightingstyle": [
@@ -12233,7 +12418,10 @@
           "Wasteland",
           "Road",
           "Mountain",
-          "Coast"
+          "Coast",
+		  "tropical",
+		 "jungle",
+		 "swamp"
         ],
         "cr": "6",
         "fightingstyle": [
@@ -12357,10 +12545,11 @@
         "biom": [
           "Ruins",
           "Swamp",
-          "Grave",
+          "Graves",
           "Dungeon",
           "Horror",
-          "Wilderness"
+          "Wilderness",
+		  "swamp"
         ],
         "cr": "1",
         "fightingstyle": [
@@ -12399,10 +12588,11 @@
         "biom": [
           "Ruins",
           "Swamp",
-          "Grave",
+          "Graves",
           "Dungeon",
           "Horror",
-          "Wilderness"
+          "Wilderness",
+		  "swamp"
         ],
         "cr": "1",
         "fightingstyle": [
@@ -12441,10 +12631,11 @@
         "biom": [
           "Ruins",
           "Swamp",
-          "Grave",
+          "Graves",
           "Dungeon",
           "Horror",
-          "Wilderness"
+          "Wilderness",
+		  "swamp"
         ],
         "cr": "1",
         "fightingstyle": [
@@ -12602,7 +12793,8 @@
           "Graves",
           "Wilderness",
           "Ruins",
-          "Wasteland"
+          "Wasteland",
+		  "swamp"
         ],
         "cr": "8",
         "fightingstyle": [
@@ -12643,7 +12835,8 @@
           "Graves",
           "Wilderness",
           "Ruins",
-          "Wasteland"
+          "Wasteland",
+		  "swamp"
         ],
         "cr": "8",
         "fightingstyle": [
@@ -12684,7 +12877,8 @@
           "Graves",
           "Wilderness",
           "Ruins",
-          "Wasteland"
+          "Wasteland",
+		  "swamp"
         ],
         "cr": "8",
         "fightingstyle": [
@@ -12810,7 +13004,9 @@
           "Civilized",
           "Mountains",
           "Wastelands",
-          "Underground"
+          "Underground",
+		  "swamp",
+		  "jungle"
         ],
         "cr": "10",
         "fightingstyle": [
@@ -12847,7 +13043,8 @@
         "biom": [
           "Coastal",
           "Ocean",
-          "Tavern"
+          "Tavern",
+		  "Tropical"
         ],
         "cr": "3",
         "fightingstyle": [
@@ -12884,7 +13081,8 @@
         "biom": [
           "Coastal",
           "Ocean",
-          "Tavern"
+          "Tavern",
+		  "Tropical"
         ],
         "cr": "3",
         "fightingstyle": [
@@ -12924,7 +13122,8 @@
           "Ruins",
           "Dungeon",
           "Lair",
-          "Horror"
+          "Horror",
+		  "Tropical"
         ],
         "cr": "18",
         "fightingstyle": [
@@ -12965,7 +13164,8 @@
           "Desert",
           "Jungle",
           "Wilderness",
-          "Forest"
+          "Forest",
+		  "Tropical"
         ],
         "cr": "9",
         "fightingstyle": [
@@ -13001,7 +13201,7 @@
       "description": "The Cannonade Crawlers, colossal mega-arthopods renowned for their potent acid bombardments, possess a unique physiology fueled by arcane influences and distinctive biochemical compounds from their diet. They live a symbiotic lifestyle, residing in clusters called regiments, and often engage in battles for other creatures in exchange for sustenance. This mutual relationship has raised questions about a possible feralization from a previously domesticated state. Typically, these agreements involve the Crawlers defending hives, dens, or even villages in exchange for food resources from their employers. This strategic approach secures their survival while allowing them to utilize their specialized defense mechanisms as living artillery.",
       "name": "Cannonade Crawler",
       "properties": {
-        "biom": ["Desert", "Jungle","Underground","Dungeon","Wilderness","Forest","Mountain", "Coast", "Road"],
+        "biom": ["Desert", "Jungle","Underground","Dungeon","Wilderness","Forest","Mountain","Tropical","Swamp", "Coast", "Road"],
         "cr": "3",
         "fightingstyle": ["Pack","Ranged"],
         "movement": ["Walk"],
@@ -13028,7 +13228,7 @@
       "description": "The Cannonade Crawlers, colossal mega-arthopods renowned for their potent acid bombardments, possess a unique physiology fueled by arcane influences and distinctive biochemical compounds from their diet. They live a symbiotic lifestyle, residing in clusters called regiments, and often engage in battles for other creatures in exchange for sustenance. This mutual relationship has raised questions about a possible feralization from a previously domesticated state. Typically, these agreements involve the Crawlers defending hives, dens, or even villages in exchange for food resources from their employers. This strategic approach secures their survival while allowing them to utilize their specialized defense mechanisms as living artillery.",
       "name": "Cannonade Crawler",
       "properties": {
-        "biom": ["Desert", "Jungle","Underground","Dungeon", "Wilderness","Forest","Mountain", "Coast", "Road"],
+        "biom": ["Desert", "Jungle","Underground","Dungeon", "Wilderness","Swamp","Tropical","Forest","Mountain", "Coast", "Road"],
         "cr": "3",
         "fightingstyle": ["Pack","Ranged"],
         "movement": ["Walk"],
@@ -13055,7 +13255,7 @@
       "description": "The Cannonade Crawlers, colossal mega-arthopods renowned for their potent acid bombardments, possess a unique physiology fueled by arcane influences and distinctive biochemical compounds from their diet. They live a symbiotic lifestyle, residing in clusters called regiments, and often engage in battles for other creatures in exchange for sustenance. This mutual relationship has raised questions about a possible feralization from a previously domesticated state. Typically, these agreements involve the Crawlers defending hives, dens, or even villages in exchange for food resources from their employers. This strategic approach secures their survival while allowing them to utilize their specialized defense mechanisms as living artillery.",
       "name": "Cannonade Crawler",
       "properties": {
-        "biom": ["Desert","Underground", "Dungeon","Jungle","Wilderness","Forest","Mountain", "Coast", "Road"],
+        "biom": ["Desert","Underground", "Dungeon","Jungle","Wilderness","Forest","Mountain", "Coast", "Road","tropical","swamp"],
         "cr": "3",
         "fightingstyle": ["Pack","Ranged"],
         "movement": ["Walk"],
@@ -13082,7 +13282,7 @@
       "description": "The Cannonade Crawlers, colossal mega-arthopods renowned for their potent acid bombardments, possess a unique physiology fueled by arcane influences and distinctive biochemical compounds from their diet. They live a symbiotic lifestyle, residing in clusters called regiments, and often engage in battles for other creatures in exchange for sustenance. This mutual relationship has raised questions about a possible feralization from a previously domesticated state. Typically, these agreements involve the Crawlers defending hives, dens, or even villages in exchange for food resources from their employers. This strategic approach secures their survival while allowing them to utilize their specialized defense mechanisms as living artillery.",
       "name": "Cannonade Crawler",
       "properties": {
-        "biom": ["Desert","Underground", "Dungeon", "Jungle","Wilderness","Forest","Mountain", "Coast", "Road"],
+        "biom": ["Desert","Underground", "Dungeon", "Jungle","Wilderness","Forest","Mountain", "Coast", "Road","tropical","swamp"],
         "cr": "3",
         "fightingstyle": ["Pack","Ranged"],
         "movement": ["Walk"],
