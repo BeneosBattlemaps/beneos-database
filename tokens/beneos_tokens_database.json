@@ -13304,6 +13304,33 @@
         ],
         "videourl": "https://youtu.be/1fS3i6_SZII?si=ULIN5uJHPisXxWv0"
     }
+    },
+    "000_month_8_forge_devil": {
+      "description": "Forge Devils revel in subjugation, be it the subjugation of elements within their hellish forge complexes, the submission of those who kneel to grasp a morsel of the forbidden arts and infernal intricacies of the Devil’s own craftsmanship, or the subjugation of entire peoples by armies clad in hellforged iron.",
+      "name": "Forge Devil",
+      "properties": {
+        "biom": ["Planar", "Lair","Mountains","Mountain","Ruins","Underground","infernal"],
+        "cr": "18",
+        "fightingstyle": ["Interactive","Tactical"],
+        "movement": ["Walk"],
+        "purpose": ["Boss","Leader"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 22,
+        "stat_cha": 22,
+        "stat_con": 24,
+        "stat_dex": 12,
+        "stat_hp": 334,
+        "stat_int": 17,
+        "stat_str": 23,
+        "stat_wis": 18,
+        "thumbnail": "000_month_8_forge_devil-idle_face_still.webp",
+        "type": [
+          "Fiend",
+          "Devil"
+        ],
+        "videourl": ""
+    }
   }
   }
   }
