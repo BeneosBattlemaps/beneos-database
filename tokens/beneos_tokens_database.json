@@ -3911,7 +3911,7 @@
       }
     },
     "032_night_hag_1": {
-      "description": "Night Hags (sometimes literally) just scream ''Dungeons and Dragons'' to us, so we are happy to just bang out this classic a monster once in a while! Night hags are vile creatures, once proud denizens of the fae wild who's cruel inclinations got them banished to the Grey Wastes, an ever-gloomy hellscape out in the Far Realms. Not that it matters, for they are able to plane shift to freely spread their very own flavour of chaos, obsession and corruption by poisoning creatures dreams, driving them mad and eventually collecting their souls. Of course, we made some adjustments to the original creature, giving her two additional nightmarish abilities!",
+      "description": " Night Hags are vile creatures, once proud denizens of the fae wild who's cruel inclinations got them banished to the Grey Wastes, an ever-gloomy hellscape out in the Far Realms. Not that it matters, for they are able to plane shift to freely spread their very own flavour of chaos, obsession and corruption by poisoning creatures dreams, driving them mad and eventually collecting their souls. Of course, we made some adjustments to the original creature, giving her two additional nightmarish abilities!",
       "name": "Night Hag",
       "properties": {
         "biom": [
@@ -3960,7 +3960,7 @@
       }
     },
     "032_night_hag_2": {
-      "description": "Night Hags (sometimes literally) just scream ''Dungeons and Dragons'' to us, so we are happy to just bang out this classic a monster once in a while! Night hags are vile creatures, once proud denizens of the fae wild who's cruel inclinations got them banished to the Grey Wastes, an ever-gloomy hellscape out in the Far Realms. Not that it matters, for they are able to plane shift to freely spread their very own flavour of chaos, obsession and corruption by poisoning creatures dreams, driving them mad and eventually collecting their souls. Of course, we made some adjustments to the original creature, giving her two additional nightmarish abilities!",
+      "description": "Night Hags are vile creatures, once proud denizens of the fae wild who's cruel inclinations got them banished to the Grey Wastes, an ever-gloomy hellscape out in the Far Realms. Not that it matters, for they are able to plane shift to freely spread their very own flavour of chaos, obsession and corruption by poisoning creatures dreams, driving them mad and eventually collecting their souls. Of course, we made some adjustments to the original creature, giving her two additional nightmarish abilities!",
       "name": "Night Hag",
       "properties": {
         "biom": [
@@ -4009,7 +4009,7 @@
       }
     },
     "032_night_hag_3": {
-      "description": "Night Hags (sometimes literally) just scream ''Dungeons and Dragons'' to us, so we are happy to just bang out this classic a monster once in a while! Night hags are vile creatures, once proud denizens of the fae wild who's cruel inclinations got them banished to the Grey Wastes, an ever-gloomy hellscape out in the Far Realms. Not that it matters, for they are able to plane shift to freely spread their very own flavour of chaos, obsession and corruption by poisoning creatures dreams, driving them mad and eventually collecting their souls. Of course, we made some adjustments to the original creature, giving her two additional nightmarish abilities!",
+      "description": "Night Hags are vile creatures, once proud denizens of the fae wild who's cruel inclinations got them banished to the Grey Wastes, an ever-gloomy hellscape out in the Far Realms. Not that it matters, for they are able to plane shift to freely spread their very own flavour of chaos, obsession and corruption by poisoning creatures dreams, driving them mad and eventually collecting their souls. Of course, we made some adjustments to the original creature, giving her two additional nightmarish abilities!",
       "name": "Night Hag",
       "properties": {
         "biom": [
@@ -13328,6 +13328,60 @@
         "type": [
           "Fiend",
           "Devil"
+        ],
+        "videourl": ""
+    }
+    },
+    "138_back_alley_slasher_1": {
+      "description": "Back Alley Slashers are masters of the cobble-plastered underbelly’s unique brand of fighting - swift, dirty bladework. They are quick to anger, seasoned, and ruthless, ever ready to exploit the crooked lanes and nestled alleys of their home city to their advantage. Those who don’t meet their end in their initial conflicts often find their names whispered throughout the gutters, their police records filled with autopsy reports.",
+      "name": "Back Alley Slasher",
+      "properties": {
+        "biom": ["forest", "dungeon", "wilderness","city","civilized","road","swamp","tavern"],
+        "cr": "1",
+        "fightingstyle": ["Duelist"],
+        "movement": ["Walk"],
+        "purpose": ["Shock"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 8,
+        "stat_con": 15,
+        "stat_dex": 16,
+        "stat_hp": 27,
+        "stat_int": 12,
+        "stat_str": 13,
+        "stat_wis": 11,
+        "thumbnail": "138_back_alley_slasher_1-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "138_back_alley_slasher_2": {
+      "description": "Back Alley Slashers are masters of the cobble-plastered underbelly’s unique brand of fighting - swift, dirty bladework. They are quick to anger, seasoned, and ruthless, ever ready to exploit the crooked lanes and nestled alleys of their home city to their advantage. Those who don’t meet their end in their initial conflicts often find their names whispered throughout the gutters, their police records filled with autopsy reports.",
+      "name": "Back Alley Slasher",
+      "properties": {
+        "biom": ["forest", "dungeon", "wilderness","city","civilized","road","swamp","tavern"],
+        "cr": "1",
+        "fightingstyle": ["Duelist"],
+        "movement": ["Walk"],
+        "purpose": ["Shock"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 8,
+        "stat_con": 15,
+        "stat_dex": 16,
+        "stat_hp": 27,
+        "stat_int": 12,
+        "stat_str": 13,
+        "stat_wis": 11,
+        "thumbnail": "138_back_alley_slasher_2-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          ""
         ],
         "videourl": ""
     }
