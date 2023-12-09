@@ -141,6 +141,9 @@
 			},
 			"Restoration": {
 				"message": "Spells removing negative status conditions or debilitating effects."
+			},
+			"Protection": {
+				"message": "Spells actively or passively negating or reducing damage to the caster or their allies as their primary purpose."
 			}
 		},
 		"installed": {
