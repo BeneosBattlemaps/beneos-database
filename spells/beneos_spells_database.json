@@ -641,6 +641,71 @@
         ],
         "icon": "0000_srd_prestidigitation-icon.webp"
       }
+    },
+    "0024_rats": {
+      "key": "0024_rats",
+      "description": "To lessen an attack's impact, you turn into a swam of rats, absorbing the hit and skitter-scuttling to safety.",
+      "name": "Rats!",
+      "properties": {
+        "level": "1",
+        "school": "Transmutation",
+        "casting_time": "Reaction",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "false",
+        "classes": ["Ranger Druid"],
+        "components": ["V S"],
+        "icon": "0024_rats-icon.webp"
+      }
+    },
+    "0025_magma_prison": {
+      "key": "0025_magma_prison",
+      "description": "Imprisoned within a magma sphere's molten core, a creature will suffer horrendous amounts of fire damage over time, its body possibly being destroyed by the magma.",
+      "name": "Magma Prison",
+      "properties": {
+        "level": "8",
+        "school": "Evocation",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": true,
+        "spell_type": "false",
+        "classes": ["Druid Sorcer Warlock Wizard"],
+        "components": ["V S M"],
+        "icon": "0025_magma_prison-icon.webp"
+      }
+    },
+    "0026_detonate": {
+      "key": "0026_detonate",
+      "description": "You blow up a non-magical object, causing it to violently rip apart and damage surrounding creatures.",
+      "name": "Detonate",
+      "properties": {
+        "level": "2",
+        "school": "Evocation",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "false",
+        "classes": ["Bard Cleric Druid Sorcerer Warlock Wizard"],
+        "components": ["V S"],
+        "icon": "0026_detonate-icon.webp"
+      }
+    },
+    "0027_gunpowder_cloud": {
+      "key": "0027_gunpowder_cloud",
+      "description": "You create an obscuring cloud of swirling gunpowder that violently explodes when ignited.",
+      "name": "Gunpowder Cloud",
+      "properties": {
+        "level": "2",
+        "school": "Evocation",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": true,
+        "spell_type": "false",
+        "classes": ["Bard Sorcerer Warlock Wizard"],
+        "components": ["V S M"],
+        "icon": "0027_gunpowder_cloud-icon.webp"
+      }
+    
     }
   }
 }
