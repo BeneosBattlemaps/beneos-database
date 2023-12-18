@@ -28761,6 +28761,102 @@
                                 "thumbnail":"15-01_Monster_Pit-4k_scen.webp",
                                 "videourl":"WIP"
                                 }
+                    },
+                    "72-01_Entrance-4k_BM":{
+                        "name":"Entrance",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Civilizied","Castle", "Exteriour", "Gothic", "Planar"],
+                        "brightness":"Medium",
+                        "grid":"30x60",
+                        "pack":"72_Astral_Plane_Castle",
+                        "releaseurl":"WIP",
+                        "sibling":"72-01_Entrance-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"72-01_Entrance-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "72-01_Entrance-4k_Scen":{
+                                "name":"Entrance",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Civilizied","Castle", "Exteriour", "Gothic", "Planar"],
+                                "brightness":"Medium",
+                                "grid":"30x60",
+                                "pack":"72_Astral_Plane_Castle",
+                                "releaseurl":"WIP",
+                                "sibling":"72-01_Entrance-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"72-01_Entrance-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "72-02_Entry_Hall-4k_BM":{
+                        "name":"Entry Hall",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Civilizied","Castle", "Interiour", "Gothic", "Church"],
+                        "brightness":"Dark",
+                        "grid":"22x65",
+                        "pack":"72_Astral_Plane_Castle",
+                        "releaseurl":"WIP",
+                        "sibling":"72-02_Entry_Hall-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"72-02_Entry_Hall-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "72-02_Entry_Hall-4k_Scen":{
+                                "name":"Entry Hall",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Civilizied","Castle", "Interiour", "Gothic", "Church"],
+                                "brightness":"Dark",
+                                "grid":"22x65",
+                                "pack":"72_Astral_Plane_Castle",
+                                "releaseurl":"WIP",
+                                "sibling":"72-02_Entry_Hall-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"72-02_Entry_Hall-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "72-03_Courtyard_Portal-4k_BM":{
+                        "name":"Courtyard Portal",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Civilizied","Castle", "Exteriour", "Gothic", "Battle", "Gory"],
+                        "brightness":"Bright",
+                        "grid":"30x58",
+                        "pack":"72_Astral_Plane_Castle",
+                        "releaseurl":"WIP",
+                        "sibling":"72-03_Courtyard_Portal-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"72-03_Courtyard_Portal-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "72-03_Courtyard_Portal-4k_Scen":{
+                                "name":"Courtyard Portal",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Civilizied","Castle", "Exteriour", "Gothic", "Battle", "Gory"],
+                                "brightness":"Bright",
+                                "grid":"30x58",
+                                "pack":"72_Astral_Plane_Castle",
+                                "releaseurl":"WIP",
+                                "sibling":"72-03_Courtyard_Portal-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"72-03_Courtyard_Portal-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
                             }
                         }
                     }
