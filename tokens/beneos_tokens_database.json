@@ -13314,7 +13314,7 @@
         "fightingstyle": ["Interactive","Tactical"],
         "movement": ["Walk"],
         "purpose": ["Boss","Leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/loyalty-token-94238222",
         "size": "Large",
         "stat_ac": 22,
         "stat_cha": 22,
@@ -13329,7 +13329,7 @@
           "Fiend",
           "Devil"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/YUwQK39UR5Y?si=hx-OmLtkIeuvCXEO"
     }
     },
     "138_back_alley_slasher_1": {
@@ -13341,7 +13341,7 @@
         "fightingstyle": ["Duelist"],
         "movement": ["Walk"],
         "purpose": ["Shock"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/back-alley-94411472",
         "size": "Medium",
         "stat_ac": 15,
         "stat_cha": 8,
@@ -13356,7 +13356,7 @@
           "humanoid",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/D3A4f7xCfdo?si=B3uJAyMVUmo52-9D"
     }
     },
     "138_back_alley_slasher_2": {
@@ -13368,7 +13368,7 @@
         "fightingstyle": ["Duelist"],
         "movement": ["Walk"],
         "purpose": ["Shock"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/back-alley-94411472",
         "size": "Medium",
         "stat_ac": 15,
         "stat_cha": 8,
@@ -13383,7 +13383,34 @@
           "humanoid",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/D3A4f7xCfdo?si=B3uJAyMVUmo52-9D"
+    }
+    },
+    "139_witherflesh_ripper": {
+      "description": "At the feet of towering Witherflesh Colossi, swarms of Witherflesh Rippers gather—ravenous undead controllable only through indirect manipulation of their collective swarm-like consciousness. Exposure to large groups of Rippers can transform ordinary undead into Rippers, their physiology swiftly adapting to satisfy the need for tearing and feeding. In regions already wrestling with the presence of undead, these circumstances can lead to additional Ripper epidemics.",
+      "name": "Witherflesh Ripper",
+      "properties": {
+        "biom": ["forest", "dungeon", "wilderness","city","civilized","road","swamp","graves","horror","scifi"],
+        "cr": "0.5",
+        "fightingstyle": ["Pack and Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Pressure and Minion"],
+        "releaseurl": "https://www.patreon.com/posts/witherflesh-94725998",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 1,
+        "stat_con": 15,
+        "stat_dex": 17,
+        "stat_hp": 17,
+        "stat_int": 4,
+        "stat_str": 13,
+        "stat_wis": 8,
+        "thumbnail": "139_witherflesh_ripper-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": "https://youtu.be/QlESlbR0VgY?si=1MuLonkFMGJvSX2_"
     }
   }
   }
