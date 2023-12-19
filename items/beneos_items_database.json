@@ -380,6 +380,63 @@
                 "price": "2400",
                 "icon": "0002_devils_decksweeper-icon.webp"
             }
-        }
-    }
-}
+        },
+        "0031_gravewardens_bell": {
+            "key": "0031_gravewardens_bell",
+            "description": "This bell grants communion with the Deathshroud, allowing you to partake in its holy silence and grant its burial shroud.",
+            "name": "Gravewardens Bell",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": true,
+            "origin": "occult",
+            "item_type": "Trinket",
+            "tier": 1,
+            "price": "750",
+            "icon": "0031_gravewardens_bell-icon.webp"
+            }
+        },
+        "0032_crescent_moon": {
+            "key": "0032_crescent_moon",
+            "description": "Upon falling unconscious, the sword's ghost possesses you, fighting on your behalf.",
+            "name": "Crescent Moon",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "awoken",
+            "item_type": "Melee Weapon",
+            "tier": 2,
+            "price": "4400",
+            "icon": "0032_crescent_moon-icon.webp"
+            }
+        },
+     
+        "0034_cloak_of_billowing_ash": {
+            "key": "0034_cloak_of_billowing_ash",
+            "description": "Swiftly move as a coiling cloud of ash-smoke, wind-fast and untouchable.",
+            "name": "Cloak Of Billowing Ash",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "elemental",
+            "item_type": "Clothing",
+            "tier": 3,
+            "price": "48000",
+            "icon": "0034_cloak_of_billowing_ash-icon.webp"
+            }
+        },
+        "0033_wiredevil": {
+            "key": "0033_wiredevil",
+            "description": "An indomitable tower shield imbued with tempest's fury",
+            "name": "Wiredevil",
+            "properties": {
+            "rarity": "rare",
+            "attunement": true,
+            "origin": "technoarcane",
+            "item_type": "consumable",
+            "tier": 1,
+            "price": "800",
+            "icon": "0033_wiredevil-icon.webp"
+            }
+         }
+       }
+     }

@@ -706,6 +706,39 @@
         "icon": "0027_gunpowder_cloud-icon.webp"
       }
     
+    },
+    "0030_scarab_infestation": {
+      "key": "0030_scarab_infestation",
+      "description": "You summon a swarm of scarabs, feeding on your enemies' life force and healing your allies in turn.",
+      "name": "Scarab Infestation",
+      "properties": {
+        "level": "4",
+        "school": "Conjuration",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": true,
+        "spell_type": "false",
+        "classes": ["Ranger Druid Cleric"],
+        "components": ["V S M"],
+        "icon": "0030_scarab_infestation-icon.webp"
+      }
+    },
+ 
+    "0033_bullet_dew": {
+      "key": "0033_bullet_dew",
+      "description": "You shoot frozen projectiles formed from drops of water, dealing more damage when it rains.",
+      "name": "Bullet Dew",
+      "properties": {
+        "level": "1",
+        "school": "Evocation",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": true,
+        "spell_type": "false",
+        "classes": ["Ranger Druid"],
+        "components": ["V S M"],
+        "icon": "0033_bullet_dew-icon.webp"
+      }
     }
   }
 }
