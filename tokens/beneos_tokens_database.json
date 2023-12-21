@@ -13392,9 +13392,9 @@
       "properties": {
         "biom": ["forest", "dungeon", "wilderness","city","civilized","road","swamp","graves","horror","scifi"],
         "cr": "0.5",
-        "fightingstyle": ["Pack and Melee"],
+        "fightingstyle": ["Pack","Melee"],
         "movement": ["Walk"],
-        "purpose": ["Pressure and Minion"],
+        "purpose": ["Pressure","Minion"],
         "releaseurl": "https://www.patreon.com/posts/witherflesh-94725998",
         "size": "Medium",
         "stat_ac": 15,
@@ -13411,6 +13411,114 @@
           ""
         ],
         "videourl": "https://youtu.be/QlESlbR0VgY?si=1MuLonkFMGJvSX2_"
+    }
+    },
+    "140_samurai_1": {
+      "description": "The Samurai, as a pop cultural icon, embodies honor, discipline, and swordsmanship in the collective imagination. Their significance resonates deeply in various forms of media, painting a picture of skilled warriors, bound by a martial code and pursuing an ideal of unwavering loyalty. The samurai’s lore offers a wealth of themes: loyalty to a lord, a sense of duty, and the pursuit of personal honor. They bring an air of martial prowess and elegance,enhancing the thematic depth of a campaign. The duality of their stoic discipline and the emotional intensity beneath the surface makes them compelling adversaries. Their historical relevance and pop cultural impact make them an excellent choice for challenging and evocative encounters.",
+      "name": "Samurai",
+      "properties": {
+        "biom": ["road", "city","civilized","tavern"],
+        "cr": "5",
+        "fightingstyle": ["Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Duelist","Leader"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 15,
+        "stat_con": 16,
+        "stat_dex": 14,
+        "stat_hp": 137,
+        "stat_int": 13,
+        "stat_str": 17,
+        "stat_wis": 16,
+        "thumbnail": "140_samurai_1-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "140_samurai_2": {
+      "description": "The Samurai, as a pop cultural icon, embodies honor, discipline, and swordsmanship in the collective imagination. Their significance resonates deeply in various forms of media, painting a picture of skilled warriors, bound by a martial code and pursuing an ideal of unwavering loyalty. The samurai’s lore offers a wealth of themes: loyalty to a lord, a sense of duty, and the pursuit of personal honor. They bring an air of martial prowess and elegance,enhancing the thematic depth of a campaign. The duality of their stoic discipline and the emotional intensity beneath the surface makes them compelling adversaries. Their historical relevance and pop cultural impact make them an excellent choice for challenging and evocative encounters.",
+      "name": "Samurai",
+      "properties": {
+        "biom": ["road", "city","civilized","tavern"],
+        "cr": "5",
+        "fightingstyle": ["Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Duelist","Leader"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 15,
+        "stat_con": 16,
+        "stat_dex": 14,
+        "stat_hp": 137,
+        "stat_int": 13,
+        "stat_str": 17,
+        "stat_wis": 16,
+        "thumbnail": "140_samurai_2-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "140_samurai_3": {
+      "description": "The Samurai, as a pop cultural icon, embodies honor, discipline, and swordsmanship in the collective imagination. Their significance resonates deeply in various forms of media, painting a picture of skilled warriors, bound by a martial code and pursuing an ideal of unwavering loyalty. The samurai’s lore offers a wealth of themes: loyalty to a lord, a sense of duty, and the pursuit of personal honor. They bring an air of martial prowess and elegance,enhancing the thematic depth of a campaign. The duality of their stoic discipline and the emotional intensity beneath the surface makes them compelling adversaries. Their historical relevance and pop cultural impact make them an excellent choice for challenging and evocative encounters.",
+      "name": "Samurai",
+      "properties": {
+        "biom": ["road", "city","civilized","tavern"],
+        "cr": "5",
+       "fightingstyle": ["Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Duelist","Leader"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 15,
+        "stat_con": 16,
+        "stat_dex": 14,
+        "stat_hp": 137,
+        "stat_int": 13,
+        "stat_str": 17,
+        "stat_wis": 16,
+        "thumbnail": "140_samurai_3-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "140_samurai_4": {
+      "description": "The Samurai, as a pop cultural icon, embodies honor, discipline, and swordsmanship in the collective imagination. Their significance resonates deeply in various forms of media, painting a picture of skilled warriors, bound by a martial code and pursuing an ideal of unwavering loyalty. The samurai’s lore offers a wealth of themes: loyalty to a lord, a sense of duty, and the pursuit of personal honor. They bring an air of martial prowess and elegance,enhancing the thematic depth of a campaign. The duality of their stoic discipline and the emotional intensity beneath the surface makes them compelling adversaries. Their historical relevance and pop cultural impact make them an excellent choice for challenging and evocative encounters.",
+      "name": "Samurai",
+      "properties": {
+        "biom": ["road", "city","civilized","tavern"],
+        "cr": "5",
+     "fightingstyle": ["Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Duelist","Leader"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 15,
+        "stat_con": 16,
+        "stat_dex": 14,
+        "stat_hp": 137,
+        "stat_int": 13,
+        "stat_str": 17,
+        "stat_wis": 16,
+        "thumbnail": "140_samurai_4-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          ""
+        ],
+        "videourl": ""
     }
   }
   }

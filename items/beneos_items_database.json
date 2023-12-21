@@ -426,7 +426,7 @@
         },
         "0033_wiredevil": {
             "key": "0033_wiredevil",
-            "description": "An indomitable tower shield imbued with tempest's fury",
+            "description": "A wind-up grenade unleashing a torrent of razor-wire when activated.",
             "name": "Wiredevil",
             "properties": {
             "rarity": "rare",
