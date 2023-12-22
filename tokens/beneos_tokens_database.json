@@ -8027,7 +8027,7 @@
     },
     "092_gargling_headtaker_1": {
       "description": "Gargling Headtakers roam shallow waters and coastal regions, inhabiting flooded coves or stranded shipwrecks. They are an unsettling sight, lumbering mancrabs, foam dripping ceaselessly from their strange crustacean mouthparts, unfeeling eyes and wiggling antennas. As they hunt in small packs, their characteristic and disquieting gargling noises used to communicate oftentimes herald an incoming attack. When fighting, the Headtakers make use of their oversized pincers, grasping, impaling or crushing their prey, knowing no difference between man or animal.",
-      "name": "Gargling Headtaker 1",
+      "name": "Gargling Headtaker",
       "properties": {
         "biom": [
           "ruins",
@@ -8067,7 +8067,7 @@
     },
     "092_gargling_headtaker_2": {
       "description": "Gargling Headtakers roam shallow waters and coastal regions, inhabiting flooded coves or stranded shipwrecks. They are an unsettling sight, lumbering mancrabs, foam dripping ceaselessly from their strange crustacean mouthparts, unfeeling eyes and wiggling antennas. As they hunt in small packs, their characteristic and disquieting gargling noises used to communicate oftentimes herald an incoming attack. When fighting, the Headtakers make use of their oversized pincers, grasping, impaling or crushing their prey, knowing no difference between man or animal.",
-      "name": "Gargling Headtaker 2",
+      "name": "Gargling Headtaker",
       "properties": {
         "biom": [
           "ruins",
@@ -8107,7 +8107,7 @@
     },
     "092_gargling_headtaker_3": {
       "description": "Gargling Headtakers roam shallow waters and coastal regions, inhabiting flooded coves or stranded shipwrecks. They are an unsettling sight, lumbering mancrabs, foam dripping ceaselessly from their strange crustacean mouthparts, unfeeling eyes and wiggling antennas. As they hunt in small packs, their characteristic and disquieting gargling noises used to communicate oftentimes herald an incoming attack. When fighting, the Headtakers make use of their oversized pincers, grasping, impaling or crushing their prey, knowing no difference between man or animal.",
-      "name": "Gargling Headtaker 3",
+      "name": "Gargling Headtaker",
       "properties": {
         "biom": [
           "ruins",
@@ -8312,7 +8312,7 @@
     },
     "096_coastal_marauder_1": {
       "description": "Marauders rely on speed and the element of surprise to overun less fortified and sparsely defended targets like coastal hamlets or monasteries. If met with resistance, the momentum of the attack needs to be upheld at any cost. Independed veteran war bands split off from the main force to hunt down enemy clusters before they can mount an organized defense. As houses go up in flames, the thick smoke covers the retreat back to the ship and onto the open sea..",
-      "name": "Coastal Marauder 1",
+      "name": "Coastal Marauder",
       "properties": {
         "biom": [
           "Coast",
@@ -8352,7 +8352,7 @@
     },
     "096_coastal_marauder_2": {
       "description": "Marauders rely on speed and the element of surprise to overun less fortified and sparsely defended targets like coastal hamlets or monasteries. If met with resistance, the momentum of the attack needs to be upheld at any cost. Independed veteran war bands split off from the main force to hunt down enemy clusters before they can mount an organized defense. As houses go up in flames, the thick smoke covers the retreat back to the ship and onto the open sea..",
-      "name": "Coastal Marauder 2",
+      "name": "Coastal Marauder",
       "properties": {
         "biom": [
           "Coast",
@@ -8392,7 +8392,7 @@
     },
     "096_coastal_marauder_3": {
       "description": "Marauders rely on speed and the element of surprise to overun less fortified and sparsely defended targets like coastal hamlets or monasteries. If met with resistance, the momentum of the attack needs to be upheld at any cost. Independed veteran war bands split off from the main force to hunt down enemy clusters before they can mount an organized defense. As houses go up in flames, the thick smoke covers the retreat back to the ship and onto the open sea..",
-      "name": "Coastal Marauder 3",
+      "name": "Coastal Marauder",
       "properties": {
         "biom": [
           "Coast",
@@ -13422,7 +13422,7 @@
         "fightingstyle": ["Melee"],
         "movement": ["Walk"],
         "purpose": ["Duelist","Leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/95098681",
         "size": "Medium",
         "stat_ac": 17,
         "stat_cha": 15,
@@ -13437,7 +13437,7 @@
           "humanoid",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/7IhYktwT2u4?si=CvWX_hRXR5M8m-Uq"
     }
     },
     "140_samurai_2": {
@@ -13449,7 +13449,7 @@
         "fightingstyle": ["Melee"],
         "movement": ["Walk"],
         "purpose": ["Duelist","Leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/95098681",
         "size": "Medium",
         "stat_ac": 17,
         "stat_cha": 15,
@@ -13464,7 +13464,7 @@
           "humanoid",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/7IhYktwT2u4?si=CvWX_hRXR5M8m-Uq"
     }
     },
     "140_samurai_3": {
@@ -13476,7 +13476,7 @@
        "fightingstyle": ["Melee"],
         "movement": ["Walk"],
         "purpose": ["Duelist","Leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/95098681",
         "size": "Medium",
         "stat_ac": 17,
         "stat_cha": 15,
@@ -13491,7 +13491,7 @@
           "humanoid",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/7IhYktwT2u4?si=CvWX_hRXR5M8m-Uq"
     }
     },
     "140_samurai_4": {
@@ -13503,7 +13503,7 @@
      "fightingstyle": ["Melee"],
         "movement": ["Walk"],
         "purpose": ["Duelist","Leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/95098681",
         "size": "Medium",
         "stat_ac": 17,
         "stat_cha": 15,
@@ -13518,7 +13518,7 @@
           "humanoid",
           ""
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/7IhYktwT2u4?si=CvWX_hRXR5M8m-Uq"
     }
     },
     "000_month_10_skeleton_dragon": {
