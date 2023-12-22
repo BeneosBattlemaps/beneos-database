@@ -4114,7 +4114,7 @@
           "desert",
           "underground"
         ],
-        "cr": "8",
+        "cr": "6",
         "fightingstyle": [
           "charge",
           "Melee",
@@ -13516,6 +13516,33 @@
         "thumbnail": "140_samurai_4-idle_face_still.webp",
         "type": [
           "humanoid",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "000_month_10_skeleton_dragon": {
+      "description": "A dragon’s might appears to be limited only by the constraints of a physical form, forcing it to obey the laws of mortality, as they already ignore those of physics, displaying this particular brand of hybris everytime they take flight. Imagine now this creature no lounger bound to a mortal shell, instead transcending the border between life and death to become something even greater, something even more terrifying. Wreathed in night-coloured soulfire and with a malign spark lightning up its empty eye sockets, a Skeleton Dragon is a draconic nightmare given form, its mere presence draining colour from life and hope from the heart of mortal folk.",
+      "name": "Skeleton Dragon",
+      "properties": {
+        "biom": ["road", "graves","lair","planar","dungeon","wilderness","wasteland","horror"],
+        "cr": "16",
+        "fightingstyle": ["Simple","Tactical"],
+        "movement": ["Fly"],
+        "purpose": ["Boss","Gimmick"],
+        "releaseurl": "",
+        "size": "Gargantuan",
+        "stat_ac": 18,
+        "stat_cha": 15,
+        "stat_con": 23,
+        "stat_dex": 14,
+        "stat_hp": 327,
+        "stat_int": 19,
+        "stat_str": 23,
+        "stat_wis": 16,
+        "thumbnail": "000_month_10_skeleton_dragon-idle_face_still.webp",
+        "type": [
+          "dragon",
           ""
         ],
         "videourl": ""
