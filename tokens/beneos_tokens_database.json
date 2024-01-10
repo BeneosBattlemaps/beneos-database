@@ -8469,10 +8469,11 @@
           "humanoid"
         ],
         "videourl": "https://youtu.be/14buhmfD2uU"
+	  }
       },
       "097_hoplite_1": {
         "description": "Heavy infantry fighting in unison, shield to shield and with their spears raised they stand against onrushing waves of attackers - regardless the setting, Hoplites fighting in phalanx formation are a powerful image to evoke. As it took more than two thousand years to dethrone the phalanx as the most effective method of ancient warfare, one has to wonder how how effective it might be in a fantasy setting, supported by magic or divine powers.",
-        "name": "Hoplite 1",
+        "name": "Hoplite",
         "properties": {
           "biom": [
             "Coast",
@@ -8515,7 +8516,7 @@
       },
       "097_hoplite_2": {
         "description": "Heavy infantry fighting in unison, shield to shield and with their spears raised they stand against onrushing waves of attackers - regardless the setting, Hoplites fighting in phalanx formation are a powerful image to evoke. As it took more than two thousand years to dethrone the phalanx as the most effective method of ancient warfare, one has to wonder how how effective it might be in a fantasy setting, supported by magic or divine powers.",
-        "name": "Hoplite 2",
+        "name": "Hoplite",
         "properties": {
           "biom": [
             "Coast",
@@ -8558,7 +8559,7 @@
       },
       "097_hoplite_3": {
         "description": "Heavy infantry fighting in unison, shield to shield and with their spears raised they stand against onrushing waves of attackers - regardless the setting, Hoplites fighting in phalanx formation are a powerful image to evoke. As it took more than two thousand years to dethrone the phalanx as the most effective method of ancient warfare, one has to wonder how how effective it might be in a fantasy setting, supported by magic or divine powers.",
-        "name": "Hoplite 3",
+        "name": "Hoplite",
         "properties": {
           "biom": [
             "Coast",
@@ -8601,7 +8602,7 @@
       },
       "097_hoplite_4": {
         "description": "Heavy infantry fighting in unison, shield to shield and with their spears raised they stand against onrushing waves of attackers - regardless the setting, Hoplites fighting in phalanx formation are a powerful image to evoke. As it took more than two thousand years to dethrone the phalanx as the most effective method of ancient warfare, one has to wonder how how effective it might be in a fantasy setting, supported by magic or divine powers.",
-        "name": "Hoplite 4",
+        "name": "Hoplite",
         "properties": {
           "biom": [
             "Coast",
@@ -9220,7 +9221,6 @@
           ],
           "videourl": "https://youtu.be/rWHdnu3Qcuc"
         }
-      }
     },
     "107_trained_mage_1": {
       "description": "Trained Mages are not only gifted with arcane potential, but have already taken steps to hone and further develop it. Their stern gaze tells of years of intense study, their confidence of their ability to bend reality to their will. They know what power they hold, what they sacrificed to aquire it and have already set their eyes on gaining more.",
@@ -13544,6 +13544,87 @@
         "type": [
           "dragon",
           ""
+        ],
+        "videourl": ""
+    }
+    },
+    "141_troll_ironhead": {
+      "description": "Trolls have become increasingly prevalent within gangs, bands, or paramilitary organizations. Those distinguished by exceptional brutality and a spark of intelligence are clad in heavy plate armor and made to believe that nothing can overcome the combination of their thick skulls, natural regeneration, and full plate armor. Their belief in invulnerability renders them dangerously fearless, eagerly throwing themselves into the fray in pursuit of glory and plunder, facing the greatest dangers as waves of enemies crash upon them. However, should their defense be breached, doubts sprout within the troll’s mind, either fermenting into paralyzing fear or boiling over into boundless rage.",
+      "name": "Troll Ironhead",
+      "properties": {
+        "biom": ["road", "city","civilized","forest","dungeon","wilderness","wasteland","mountain"],
+        "cr": "8",
+        "fightingstyle": ["Charge","Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Damage","Tank"],
+        "releaseurl": "https://www.patreon.com/posts/troll-ironhead-95711895",
+        "size": "Huge",
+        "stat_ac": 18,
+        "stat_cha": 7,
+        "stat_con": 20,
+        "stat_dex": 10,
+        "stat_hp": 160,
+        "stat_int": 7,
+        "stat_str": 20,
+        "stat_wis": 9,
+        "thumbnail": "141_troll_ironhead-idle_face_still.webp",
+        "type": [
+          "giant",
+          "troll"
+        ],
+        "videourl": "https://youtu.be/wsMBuFJ9dWI?si=W692xmlgjrj0MDH7"
+    }
+    },
+    "142_pyreling": {
+      "description": "Folklore describes Pyrelings as humans who succumbed to volcanic heat or ash smoke, their skeletons enriched with igneous rock and their souls burning with anger caused by their untimely demise. In actuality, Pyrelings are lesser elementals, fire-fickle beings manifesting in places of intense volcanic activity, either to a minor planar convergence or on the behest of greater elemental beings. Pyreling familiars are conceivably very popular among Pyromancers, as they are amicable, if hot-headed and vivacious, undemanding and worthwhile objects of study for those seeking insight into the very nature of fire itself.",
+      "name": "Pyreling",
+      "properties": {
+        "biom": ["road", "planar","infernal","dungeon","wilderness","wasteland","mountain","desert"],
+        "cr": "0.5",
+        "fightingstyle": ["Pack","Interactive"],
+        "movement": ["Fly"],
+        "purpose": ["Minion"],
+        "releaseurl": "https://www.patreon.com/posts/pyreling-95973726",
+        "size": "Small",
+        "stat_ac": 13,
+        "stat_cha": 11,
+        "stat_con": 14,
+        "stat_dex": 12,
+        "stat_hp": 27,
+        "stat_int": 7,
+        "stat_str": 10,
+        "stat_wis": 9,
+        "thumbnail": "142_pyreling-idle_face_still.webp",
+        "type": [
+          "elemental",
+          "fire"
+        ],
+        "videourl": "https://youtu.be/zwVzlRZuTyM?si=0dNOWaCnlBNdwD75"
+    }
+    },
+    "143_gnoll_trophy_hunter": {
+      "description": "Gnoll Trophy Hunters start off as typical gnolls, if one could consider a demon-born anthropomorphic hyena to be in any way normal. Some Gnolls display a targeted savagery that surpasses mere hunger; and, under the watchful gaze of their demonic progenitor, they are driven to hunt for increasingly grand prey. Every battle becomes a personal pursuit for trophies, and soon, only the flesh of elite warriors or pack alphas can momentarily sate their all-consuming hunger.",
+      "name": "Gnoll Trophy Hunter",
+      "properties": {
+        "biom": ["road", "planar","abyssal","dungeon","wilderness","wasteland","forest","desert"],
+        "cr": "",
+        "fightingstyle": ["Pack","Ambusher"],
+        "movement": ["Walk"],
+        "purpose": ["Leader","Hunter"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": ,
+        "stat_cha": 16,
+        "stat_con": 15,
+        "stat_dex": 16,
+        "stat_hp": ,
+        "stat_int": 8,
+        "stat_str": 18,
+        "stat_wis": 11,
+        "thumbnail": "143_gnoll_trophy_hunter-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "gnoll"
         ],
         "videourl": ""
     }

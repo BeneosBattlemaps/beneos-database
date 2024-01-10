@@ -12,7 +12,7 @@
         "school": "Conjuration",
         "casting_time": "Action",
         "concentration": true,
-        "ritual": true,
+        "ritual": false,
         "spell_type": "Area Effect",
         "classes": [
           "Druid",
@@ -164,7 +164,7 @@
         "school": "Abjuration",
         "casting_time": "Action",
         "concentration": true,
-        "ritual": true,
+        "ritual": false,
         "spell_type": "Buff",
         "classes": [
           "Wizard",
@@ -212,7 +212,7 @@
         "school": "Enchantment",
         "casting_time": "Action",
         "concentration": true,
-        "ritual": true,
+        "ritual": false,
         "spell_type": "Debuff",
         "classes": [
           "Warlock",
@@ -235,7 +235,7 @@
         "level": "3",
         "school": "Conjuration",
         "casting_time": "Action",
-        "concentration": false,
+        "concentration": true,
         "ritual": false,
         "spell_type": "Area Effect",
         "classes": [
@@ -339,7 +339,7 @@
         "school": "Transmutation",
         "casting_time": "Action",
         "concentration": true,
-        "ritual": true,
+        "ritual": false,
         "spell_type": "Debuff",
         "classes": [
           "Wizard",
@@ -364,7 +364,7 @@
         "school": "Evocation",
         "casting_time": "Action",
         "concentration": true,
-        "ritual": true,
+        "ritual": false,
         "spell_type": "Area Effect",
         "classes": [
           "Druid",
@@ -414,7 +414,7 @@
         "school": "Evocation",
         "casting_time": "Action",
         "concentration": true,
-        "ritual": true,
+        "ritual": false,
         "spell_type": "Immobilization",
         "classes": [
           "Druid",
@@ -439,7 +439,7 @@
         "school": "Transmutation",
         "casting_time": "Action",
         "concentration": true,
-        "ritual": true,
+        "ritual": false,
         "spell_type": "Mobility",
         "classes": [
           "Druid",
@@ -464,7 +464,7 @@
         "school": "Evocation",
         "casting_time": "Action",
         "concentration": true,
-        "ritual": true,
+        "ritual": false,
         "spell_type": "Buff",
         "classes": [
           "Druid",
@@ -487,7 +487,7 @@
         "school": "Conjuration",
         "casting_time": "Action",
         "concentration": true,
-        "ritual": true,
+        "ritual": false,
         "spell_type": "Immobilization",
         "classes": [
           "Bard",
@@ -652,7 +652,7 @@
         "casting_time": "Reaction",
         "concentration": false,
         "ritual": false,
-        "spell_type": "false",
+        "spell_type": "Protection",
         "classes": ["Ranger Druid"],
         "components": ["V S"],
         "icon": "0024_rats-icon.webp"
@@ -667,8 +667,8 @@
         "school": "Evocation",
         "casting_time": "Action",
         "concentration": true,
-        "ritual": true,
-        "spell_type": "false",
+        "ritual": false,
+        "spell_type": "Immobilization",
         "classes": ["Druid Sorcer Warlock Wizard"],
         "components": ["V S M"],
         "icon": "0025_magma_prison-icon.webp"
@@ -684,7 +684,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "false",
+        "spell_type": "Utility",
         "classes": ["Bard Cleric Druid Sorcerer Warlock Wizard"],
         "components": ["V S"],
         "icon": "0026_detonate-icon.webp"
@@ -699,13 +699,60 @@
         "school": "Evocation",
         "casting_time": "Action",
         "concentration": true,
-        "ritual": true,
-        "spell_type": "false",
+        "ritual": false,
+        "spell_type": "Area Damage",
         "classes": ["Bard Sorcerer Warlock Wizard"],
         "components": ["V S M"],
         "icon": "0027_gunpowder_cloud-icon.webp"
       }
-    
+    },
+	 "0028_arcane_bombardment": {
+      "key": "0028_arcane_bombardment",
+      "description": "You call in an arcane bombardment, causing area damage over a randomized number of turns.",
+      "name": "Arcane Bombardment",
+      "properties": {
+        "level": "2",
+        "school": "Evocation",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Area Damage",
+        "classes": ["Bard Sorcerer Warlock Wizard"],
+        "components": ["V S M"],
+        "icon": "0028_arcane_bombardment-icon.webp"
+      }
+    },
+	"0029_inner_heat": {
+      "key": "0029_inner_heat",
+      "description": "Purge your body from cold and poison and unleash your inner fire against your enemies.",
+      "name": "Inner Heat",
+      "properties": {
+        "level": "1",
+        "school": "Evocation",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Protection",
+        "classes": ["Ranger Druid"],
+        "components": ["V S M"],
+        "icon": "0029_inner_heat-icon.webp"
+		  }
+    },
+	 "0031_gravegraspers": {
+      "key": "0031_gravegraspers",
+      "description": "Undead hands claw at an enemy, choking the life from it and slowing it down.",
+      "name": "Gravegraspers",
+      "properties": {
+        "level": "1",
+        "school": "Necromancy",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Ranged Damage",
+        "classes": ["Bard Sorcerer Warlock Wizard"],
+        "components": ["V S M"],
+        "icon": "0031_gravegraspers-icon.webp"
+      }
     },
     "0030_scarab_infestation": {
       "key": "0030_scarab_infestation",
@@ -716,29 +763,14 @@
         "school": "Conjuration",
         "casting_time": "Action",
         "concentration": true,
-        "ritual": true,
-        "spell_type": "false",
+        "ritual": false,
+        "spell_type": "Summon",
         "classes": ["Ranger Druid Cleric"],
         "components": ["V S M"],
         "icon": "0030_scarab_infestation-icon.webp"
       }
-    },
+    }
  
-    "0033_bullet_dew": {
-      "key": "0033_bullet_dew",
-      "description": "You shoot frozen projectiles formed from drops of water, dealing more damage when it rains.",
-      "name": "Bullet Dew",
-      "properties": {
-        "level": "1",
-        "school": "Evocation",
-        "casting_time": "Action",
-        "concentration": true,
-        "ritual": true,
-        "spell_type": "false",
-        "classes": ["Ranger Druid"],
-        "components": ["V S M"],
-        "icon": "0033_bullet_dew-icon.webp"
-      }
     }
   }
-}
+
