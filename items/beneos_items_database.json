@@ -437,6 +437,8 @@
             "price": "800",
             "icon": "0033_wiredevil-icon.webp"
             }
+        
+            }
         },
         "0035_dreamraker": {
             "key": "0035_dreamraker",
@@ -468,7 +470,7 @@
         },
         "0037_grovekeepers_promise": {
             "key": "0037_grovekeepers_promise",
-            "description": "Taking damage yourself, you can heal various ailments.",
+            "description": "Activating this magical shield, you become rooted to the earth, nigh impossible to shift, as thorny vines lash at your enemies.",
             "name": "Grovekeepers Promise",
             "properties": {
             "rarity": "Very Rare",
@@ -495,4 +497,4 @@
             }
          }
        }
-     }
+     
