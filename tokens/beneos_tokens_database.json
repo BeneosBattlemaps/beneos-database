@@ -13607,17 +13607,17 @@
       "name": "Gnoll Trophy Hunter",
       "properties": {
         "biom": ["road", "planar","abyssal","dungeon","wilderness","wasteland","forest","desert"],
-        "cr": "",
+        "cr": "6",
         "fightingstyle": ["Pack","Ambusher"],
         "movement": ["Walk"],
         "purpose": ["Leader","Hunter"],
         "releaseurl": "",
         "size": "Large",
-        "stat_ac": ,
+        "stat_ac": 16,
         "stat_cha": 16,
         "stat_con": 15,
         "stat_dex": 16,
-        "stat_hp": ,
+        "stat_hp": 84,
         "stat_int": 8,
         "stat_str": 18,
         "stat_wis": 11,
@@ -13625,6 +13625,33 @@
         "type": [
           "humanoid",
           "gnoll"
+        ],
+        "videourl": ""
+    }
+    },
+    "144_tactician": {
+      "description": "No strategy survives first enemy contact, a statement that is tried and tested. Those taking to the field themselves to make sure that a mind equal to those devising strategy will see it adapted to the flow of the encounter are strategists no longer, but Tacticians. Tutored in all manners of practical warfare by military academies or veterans, these Tacticians are effective force multipliers on the battlefield, assessing threats, relaying immediate orders and acting as the tactical lynchpin for small to medium-scale fighting forces.",
+      "name": "Tactician",
+      "properties": {
+        "biom": ["road", "civilized","city","dungeon","tavern"],
+        "cr": "",
+        "fightingstyle": ["Tactical"],
+        "movement": ["Walk"],
+        "purpose": ["Leader","Support"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": ,
+        "stat_cha": 16,
+        "stat_con": 15,
+        "stat_dex": 14,
+        "stat_hp": ,
+        "stat_int": 19,
+        "stat_str": 15,
+        "stat_wis": 18,
+        "thumbnail": "144_tactician-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "human"
         ],
         "videourl": ""
     }

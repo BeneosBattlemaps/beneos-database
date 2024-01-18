@@ -437,6 +437,62 @@
             "price": "800",
             "icon": "0033_wiredevil-icon.webp"
             }
+        },
+        "0035_dreamraker": {
+            "key": "0035_dreamraker",
+            "description": "Allows you to haunt sleeping creatures, the damage you deal to them causing them horrible nightmares but not rousing them from their slumber.",
+            "name": "Dreamraker",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "occult",
+            "item_type": "Melee Weapon",
+            "tier": 2,
+            "price": "6600",
+            "icon": "0035_dreamraker-icon.webp"
+            }
+        },
+        "0036_vermin_crown": {
+            "key": "0036_vermin_crown",
+            "description": "Allows you to summon swarms of vermin, heeding your every command.",
+            "name": "Vermin Crown",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "relic",
+            "item_type": "Trinket",
+            "tier": 1,
+            "price": "2200",
+            "icon": "0036_vermin_crown-icon.webp"
+            }
+        },
+        "0037_grovekeepers_promise": {
+            "key": "0037_grovekeepers_promise",
+            "description": "Taking damage yourself, you can heal various ailments.",
+            "name": "Grovekeepers Promise",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "druidic",
+            "item_type": "Shield",
+            "tier": 2,
+            "price": "5600",
+            "icon": "0037_grovekeepers_promise-icon.webp"
+            }
+        },
+        "0038_seed_of_renewal": {
+            "key": "0038_seed_of_renewal",
+            "description": "The seedling of a magical tree that grows healing fruit and blesses those that sleep near it.",
+            "name": "Seed Of Renewal",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "druidic",
+            "item_type": "Consumable",
+            "tier": 1,
+            "price": "3200",
+            "icon": "0038_seed_of_renewal-icon.webp"
+            }
          }
        }
      }
