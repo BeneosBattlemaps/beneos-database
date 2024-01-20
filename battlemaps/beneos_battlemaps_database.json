@@ -32712,6 +32712,294 @@
         "download_terms": "BM: Arcane Library Roof",
         "download_creator": "Beneos Battlemaps"
       }
-    }
-  }
-}
+                    },
+                    "74-01_cliff_1-4k_BM":{
+                        "name":"cliff 1",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Shadow Realm","Exteriour","Horror","Otherworldly","Mountain"],
+                        "brightness":"Dark",
+                        "grid":"35x25",
+                        "pack":"74_Shadow_Realm_Mountains",
+                        "releaseurl":"WIP",
+                        "sibling":"74-01_cliff_1-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"74-01_cliff_1-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "74-01_cliff_1-4k_Scen":{
+                                "name":"cliff 1",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Shadow Realm","Exteriour","Horror","Otherworldly","Mountain"],
+                                "brightness":"Dark",
+                                "grid":"35x25",
+                                "pack":"74_Shadow_Realm_Mountains",
+                                "releaseurl":"WIP",
+                                "sibling":"74-01_cliff_1-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"74-01_cliff_1-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "74-02_cliff_2-4k_BM":{
+                        "name":"cliff 2",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Shadow Realm","Exteriour","Horror","Otherworldly","Mountain"],
+                        "brightness":"Dark",
+                        "grid":"35x25",
+                        "pack":"74_Shadow_Realm_Mountains",
+                        "releaseurl":"WIP",
+                        "sibling":"74-02_cliff_2-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"74-02_cliff_2-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "74-02_cliff_2-4k_Scen":{
+                                "name":"cliff 2",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Shadow Realm","Exteriour","Horror","Otherworldly","Mountain"],
+                                "brightness":"Dark",
+                                "grid":"35x25",
+                                "pack":"74_Shadow_Realm_Mountains",
+                                "releaseurl":"WIP",
+                                "sibling":"74-02_cliff_2-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"74-02_cliff_2-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "74-03_ruined_gate-4k_BM":{
+                        "name":"ruined gate",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Shadow Realm","Exteriour","Horror","Otherworldly","Mountain"],
+                        "brightness":"Medium",
+                        "grid":"35x25",
+                        "pack":"74_Shadow_Realm_Mountains",
+                        "releaseurl":"WIP",
+                        "sibling":"74-03_ruined_gate-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"74-03_ruined_gate-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "74-03_ruined_gate-4k_Scen":{
+                                "name":"ruined gate",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Shadow Realm","Exteriour","Horror","Otherworldly","Mountain"],
+                                "brightness":"Medium",
+                                "grid":"35x25",
+                                "pack":"74_Shadow_Realm_Mountains",
+                                "releaseurl":"WIP",
+                                "sibling":"74-03_ruined_gate-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"74-03_ruined_gate-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "74-04_cliff_pass_1-4k_BM":{
+                        "name":"cliff pass 1",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Shadow Realm","Exteriour","Horror","Otherworldly","Mountain"],
+                        "brightness":"Medium",
+                        "grid":"35x25",
+                        "pack":"74_Shadow_Realm_Mountains",
+                        "releaseurl":"WIP",
+                        "sibling":"74-04_cliff_pass_1-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"74-04_cliff_pass_1-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "74-04_cliff_pass_1-4k_Scen":{
+                                "name":"cliff pass 1",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Shadow Realm","Exteriour","Horror","Otherworldly","Mountain"],
+                                "brightness":"Medium",
+                                "grid":"35x25",
+                                "pack":"74_Shadow_Realm_Mountains",
+                                "releaseurl":"WIP",
+                                "sibling":"74-04_cliff_pass_1-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"74-04_cliff_pass_1-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "74-05_cliff_pass_2-4k_BM":{
+                        "name":"cliff pass 2",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Shadow Realm","Exteriour","Horror","Otherworldly","Mountain"],
+                        "brightness":"Medium",
+                        "grid":"35x25",
+                        "pack":"74_Shadow_Realm_Mountains",
+                        "releaseurl":"WIP",
+                        "sibling":"74-05_cliff_pass_2-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"74-05_cliff_pass_2-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "74-05_cliff_pass_2-4k_Scen":{
+                                "name":"cliff pass 2",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Shadow Realm","Exteriour","Horror","Otherworldly","Mountain"],
+                                "brightness":"Medium",
+                                "grid":"35x25",
+                                "pack":"74_Shadow_Realm_Mountains",
+                                "releaseurl":"WIP",
+                                "sibling":"74-05_cliff_pass_2-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"74-05_cliff_pass_2-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "74-06_end_of_the_bridge-4k_BM":{
+                        "name":"end of the bridge",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Shadow Realm","Exteriour","Horror","Otherworldly","Mountain"],
+                        "brightness":"Dark",
+                        "grid":"35x25",
+                        "pack":"74_Shadow_Realm_Mountains",
+                        "releaseurl":"WIP",
+                        "sibling":"74-06_end_of_the_bridge-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"74-06_end_of_the_bridge-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "74-06_end_of_the_bridge-4k_Scen":{
+                                "name":"end of the bridge",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Shadow Realm","Exteriour","Horror","Otherworldly","Mountain"],
+                                "brightness":"Dark",
+                                "grid":"35x25",
+                                "pack":"74_Shadow_Realm_Mountains",
+                                "releaseurl":"WIP",
+                                "sibling":"74-06_end_of_the_bridge-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"74-06_end_of_the_bridge-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "74-07_monster_lair-4k_BM":{
+                        "name":"monster lair",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Shadow Realm","Exteriour","Horror","Otherworldly","Mountain"],
+                        "brightness":"Dark",
+                        "grid":"35x25",
+                        "pack":"74_Shadow_Realm_Mountains",
+                        "releaseurl":"WIP",
+                        "sibling":"74-07_monster_lair-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"74-07_monster_lair-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "74-07_monster_lair-4k_Scen":{
+                                "name":"monster lair",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Shadow Realm","Exteriour","Horror","Otherworldly","Mountain"],
+                                "brightness":"Dark",
+                                "grid":"35x25",
+                                "pack":"74_Shadow_Realm_Mountains",
+                                "releaseurl":"WIP",
+                                "sibling":"74-07_monster_lair-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"74-07_monster_lair-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "74-08_mountain_pass-4k_BM":{
+                        "name":"mountain pass",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Shadow Realm","Exteriour","Horror","Otherworldly","Mountain"],
+                        "brightness":"Dark",
+                        "grid":"35x25",
+                        "pack":"74_Shadow_Realm_Mountains",
+                        "releaseurl":"WIP",
+                        "sibling":"74-08_mountain_pass-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"74-08_mountain_pass-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "74-08_mountain_pass-4k_Scen":{
+                                "name":"mountain pass",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Shadow Realm","Exteriour","Horror","Otherworldly","Mountain"],
+                                "brightness":"Dark",
+                                "grid":"35x25",
+                                "pack":"74_Shadow_Realm_Mountains",
+                                "releaseurl":"WIP",
+                                "sibling":"74-08_mountain_pass-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"74-08_mountain_pass-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                    },
+                    "74-09_forest_entrance-4k_BM":{
+                        "name":"forest entrance",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Shadow Realm","Exteriour","Horror","Otherworldly","Mountain"],
+                        "brightness":"Dark",
+                        "grid":"35x25",
+                        "pack":"74_Shadow_Realm_Mountains",
+                        "releaseurl":"WIP",
+                        "sibling":"74-09_forest_entrance-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"74-09_forest_entrance-4k_bm.webp",
+                        "videourl":"WIP"
+                        }
+                            },
+                            "74-09_forest_entrance-4k_Scen":{
+                                "name":"forest entrance",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Shadow Realm","Exteriour","Horror","Otherworldly","Mountain"],
+                                "brightness":"Dark",
+                                "grid":"35x25",
+                                "pack":"74_Shadow_Realm_Mountains",
+                                "releaseurl":"WIP",
+                                "sibling":"74-09_forest_entrance-4k_BM",
+                                "type":"Battlemap",
+                                "thumbnail":"74-09_forest_entrance-4k_scen.webp",
+                                "videourl":"WIP"
+                                }
+                            }
+                        }
+                    }
