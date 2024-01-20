@@ -13626,7 +13626,7 @@
           "humanoid",
           "gnoll"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/bj1_bggOmKQ?si=TZt4vj6QHa7KgKNW"
     }
     },
     "144_tactician": {
@@ -13634,17 +13634,17 @@
       "name": "Tactician",
       "properties": {
         "biom": ["road", "civilized","city","dungeon","tavern"],
-        "cr": "",
+        "cr": "5",
         "fightingstyle": ["Tactical"],
         "movement": ["Walk"],
         "purpose": ["Leader","Support"],
         "releaseurl": "",
         "size": "Medium",
-        "stat_ac": ,
+        "stat_ac": 17,
         "stat_cha": 16,
         "stat_con": 15,
         "stat_dex": 14,
-        "stat_hp": ,
+        "stat_hp": 64,
         "stat_int": 19,
         "stat_str": 15,
         "stat_wis": 18,
@@ -13653,7 +13653,7 @@
           "humanoid",
           "human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/fpjN3EN2gjc?si=0Ct8uKdXVEAkLtRj"
     }
   }
   }
