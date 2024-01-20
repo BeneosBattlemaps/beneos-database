@@ -409,7 +409,6 @@
             "icon": "0032_crescent_moon-icon.webp"
             }
         },
-     
         "0034_cloak_of_billowing_ash": {
             "key": "0034_cloak_of_billowing_ash",
             "description": "Swiftly move as a coiling cloud of ash-smoke, wind-fast and untouchable.",
@@ -436,8 +435,6 @@
             "tier": 1,
             "price": "800",
             "icon": "0033_wiredevil-icon.webp"
-            }
-        
             }
         },
         "0035_dreamraker": {
@@ -496,5 +493,5 @@
             "icon": "0038_seed_of_renewal-icon.webp"
             }
          }
-       }
+}}
      
