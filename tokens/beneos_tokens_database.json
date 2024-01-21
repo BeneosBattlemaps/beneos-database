@@ -13655,6 +13655,87 @@
         ],
         "videourl": "https://youtu.be/fpjN3EN2gjc?si=0Ct8uKdXVEAkLtRj"
     }
+    },
+    "145_ghoul_bonegnawer_1": {
+      "description": "Bone Gnawers are more aggressive and feral than ordinary ghouls. Defying the image of lurking, gaunt and emaciated creatures, they are infused with unnatural strength, pouncing on their victims with unnatural bulk, unsettling body movements, and flesh-hungry savagery. Their grave-cold hands choking the life from their victims, they often start feeding before the last breath is drawn.",
+      "name": "Ghoul Bone Gnawer",
+      "properties": {
+        "biom": ["road", "civilized","city","dungeon","graves","wilderness","horror","ruins","forest"],
+        "cr": "2",
+        "fightingstyle": ["Pack","Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Debuff","Hunter"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 14,
+        "stat_cha": 4,
+        "stat_con": 12,
+        "stat_dex": 14,
+        "stat_hp": 44,
+        "stat_int": 7,
+        "stat_str": 16,
+        "stat_wis": 10,
+        "thumbnail": "145_ghoul_bonegnawer_1-idle_face_still.webp",
+        "type": [
+          "undead",
+          "ghoul"
+        ],
+        "videourl": ""
+    }
+    },
+    "145_ghoul_bonegnawer_2": {
+      "description": "Bone Gnawers are more aggressive and feral than ordinary ghouls. Defying the image of lurking, gaunt and emaciated creatures, they are infused with unnatural strength, pouncing on their victims with unnatural bulk, unsettling body movements, and flesh-hungry savagery. Their grave-cold hands choking the life from their victims, they often start feeding before the last breath is drawn.",
+      "name": "Ghoul Bone Gnawer",
+      "properties": {
+        "biom": ["road", "civilized","city","dungeon","graves","wilderness","horror","ruins","forest"],
+        "cr": "2",
+        "fightingstyle": ["Pack","Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Debuff","Hunter"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 14,
+        "stat_cha": 4,
+        "stat_con": 12,
+        "stat_dex": 14,
+        "stat_hp": 44,
+        "stat_int": 7,
+        "stat_str": 16,
+        "stat_wis": 10,
+        "thumbnail": "145_ghoul_bonegnawer_2-idle_face_still.webp",
+        "type": [
+          "undead",
+          "ghoul"
+        ],
+        "videourl": ""
+    }
+    },
+    "145_ghoul_bonegnawer_3": {
+      "description": "Bone Gnawers are more aggressive and feral than ordinary ghouls. Defying the image of lurking, gaunt and emaciated creatures, they are infused with unnatural strength, pouncing on their victims with unnatural bulk, unsettling body movements, and flesh-hungry savagery. Their grave-cold hands choking the life from their victims, they often start feeding before the last breath is drawn.",
+      "name": "Ghoul Bone Gnawer",
+      "properties": {
+        "biom": ["road", "civilized","city","dungeon","graves","wilderness","horror","ruins","forest"],
+        "cr": "2",
+        "fightingstyle": ["Pack","Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Debuff","Hunter"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 14,
+        "stat_cha": 4,
+        "stat_con": 12,
+        "stat_dex": 14,
+        "stat_hp": 44,
+        "stat_int": 7,
+        "stat_str": 16,
+        "stat_wis": 10,
+        "thumbnail": "145_ghoul_bonegnawer_3-idle_face_still.webp",
+        "type": [
+          "undead",
+          "ghoul"
+        ],
+        "videourl": ""
+    }
   }
   }
   }

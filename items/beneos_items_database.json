@@ -439,7 +439,7 @@
         },
         "0035_dreamraker": {
             "key": "0035_dreamraker",
-            "description": "Allows you to haunt sleeping creatures, the damage you deal to them causing them horrible nightmares but not rousing them from their slumber.",
+            "description": "Allows you to haunt sleeping creatures, damaging them but not rousing them from their slumber.",
             "name": "Dreamraker",
             "properties": {
             "rarity": "Very Rare",
@@ -493,5 +493,6 @@
             "icon": "0038_seed_of_renewal-icon.webp"
             }
          }
-}}
+}
+}
      
