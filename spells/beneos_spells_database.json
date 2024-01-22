@@ -653,7 +653,7 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "Protection",
-        "classes": ["Ranger Druid"],
+        "classes": ["Ranger", "Druid"],
         "components": ["V S"],
         "icon": "0024_rats-icon.webp"
       }
@@ -669,7 +669,7 @@
         "concentration": true,
         "ritual": false,
         "spell_type": "Immobilization",
-        "classes": ["Druid Sorcer Warlock Wizard"],
+        "classes": ["Druid", "Sorcer", "Warlock", "Wizard"],
         "components": ["V S M"],
         "icon": "0025_magma_prison-icon.webp"
       }
@@ -685,7 +685,7 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "Utility",
-        "classes": ["Bard Cleric Druid Sorcerer Warlock Wizard"],
+        "classes": ["Bard", "Cleric", "Druid", "Sorcerer", "Warlock", "Wizard"],
         "components": ["V S"],
         "icon": "0026_detonate-icon.webp"
       }
@@ -701,7 +701,7 @@
         "concentration": true,
         "ritual": false,
         "spell_type": "Area Damage",
-        "classes": ["Bard Sorcerer Warlock Wizard"],
+        "classes": ["Bard", "Sorcerer", "Warlock", "Wizard"],
         "components": ["V S M"],
         "icon": "0027_gunpowder_cloud-icon.webp"
       }
@@ -717,7 +717,7 @@
         "concentration": true,
         "ritual": false,
         "spell_type": "Area Damage",
-        "classes": ["Bard Sorcerer Warlock Wizard"],
+        "classes": ["Bard", "Sorcerer", "Warlock", "Wizard"],
         "components": ["V S M"],
         "icon": "0028_arcane_bombardment-icon.webp"
       }
@@ -733,7 +733,7 @@
         "concentration": true,
         "ritual": false,
         "spell_type": "Protection",
-        "classes": ["Ranger Druid"],
+        "classes": ["Ranger", "Druid"],
         "components": ["V S M"],
         "icon": "0029_inner_heat-icon.webp"
 		  }
@@ -749,7 +749,7 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "Ranged Damage",
-        "classes": ["Bard Sorcerer Warlock Wizard"],
+        "classes": ["Bard", "Sorcerer", "Warlock", "Wizard"],
         "components": ["V S M"],
         "icon": "0031_gravegraspers-icon.webp"
       }
@@ -765,7 +765,7 @@
         "concentration": true,
         "ritual": false,
         "spell_type": "Summon",
-        "classes": ["Ranger Druid Cleric"],
+        "classes": ["Ranger", "Druid", "Cleric"],
         "components": ["V S M"],
         "icon": "0030_scarab_infestation-icon.webp"
       }
