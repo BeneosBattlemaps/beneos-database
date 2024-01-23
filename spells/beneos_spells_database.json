@@ -771,6 +771,134 @@
       }
     }
  
+    },
+    "0036_numerology": {
+      "key": "0036_numerology",
+      "description": "You ask a question and receive a single number an answer.",
+      "name": "Numerology",
+      "properties": {
+        "level": "1",
+        "school": "Divination",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "true",
+        "classes": ["Cleric Warlock Sorcerer Wizard"],
+        "components": ["V S M"],
+        "icon": "0036_numerology-icon.webp"
+      }
+    },
+    "0037_bulwark_of_faith": {
+      "key": "0037_bulwark_of_faith",
+      "description": "At the cost of half your movement speed, you grant nearby allies half cover, as their faith in you provides you with temporary hit points in turn.",
+      "name": "Bulwark Of Faith",
+      "properties": {
+        "level": "3",
+        "school": "Abjuration",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": true,
+        "spell_type": "false",
+        "classes": ["Paladin"],
+        "components": ["V S"],
+        "icon": "0037_bulwark_of_faith-icon.webp"
+      }
+    },
+    "0038_grand_entrance": {
+      "key": "0038_grand_entrance",
+      "description": "Your magnificent presence upon entering combat provides temporary hit points to your allies and weakens your enemies' resolve, possibly frightening them.",
+      "name": "Grand Entrance",
+      "properties": {
+        "level": "2",
+        "school": "Enchantment",
+        "casting_time": "Reaction",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "false",
+        "classes": ["Bard Paladin Warlock Sorcerer"],
+        "components": ["V S M"],
+        "icon": "0038_grand_entrance-icon.webp"
+      }
+    },
+    "0039_stormsong": {
+      "key": "0039_stormsong",
+      "description": "Your words carry the power of the storm, empowering a creature's movement with the speed of lightning and its attacks with the fury of thunder.",
+      "name": "Stormsong",
+      "properties": {
+        "level": "1",
+        "school": "Evocation",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": true,
+        "spell_type": "false",
+        "classes": ["Bard Cleric Druid Ranger"],
+        "components": ["V S M"],
+        "icon": "0039_stormsong-icon.webp"
+      }
+    },
+    "0036_numerology": {
+      "key": "0036_numerology",
+      "description": "You ask a question and receive a single number an answer.",
+      "name": "Numerology",
+      "properties": {
+        "level": "1",
+        "school": "Divination",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "true",
+        "classes": ["Cleric Warlock Sorcerer Wizard"],
+        "components": ["V S M"],
+        "icon": "0036_numerology-icon.webp"
+      }
+    },
+    "0037_bulwark_of_faith": {
+      "key": "0037_bulwark_of_faith",
+      "description": "At the cost of half your movement speed, you grant nearby allies half cover, as their faith in you provides you with temporary hit points in turn.",
+      "name": "Bulwark Of Faith",
+      "properties": {
+        "level": "3",
+        "school": "Abjuration",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": true,
+        "spell_type": "false",
+        "classes": ["Paladin"],
+        "components": ["V S"],
+        "icon": "0037_bulwark_of_faith-icon.webp"
+      }
+    },
+    "0038_grand_entrance": {
+      "key": "0038_grand_entrance",
+      "description": "Your magnificent presence upon entering combat provides temporary hit points to your allies and weakens your enemies' resolve, possibly frightening them.",
+      "name": "Grand Entrance",
+      "properties": {
+        "level": "2",
+        "school": "Enchantment",
+        "casting_time": "Reaction",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "false",
+        "classes": ["Bard Paladin Warlock Sorcerer"],
+        "components": ["V S M"],
+        "icon": "0038_grand_entrance-icon.webp"
+      }
+    },
+    "0039_stormsong": {
+      "key": "0039_stormsong",
+      "description": "Your words carry the power of the storm, empowering a creature's movement with the speed of lightning and its attacks with the fury of thunder.",
+      "name": "Stormsong",
+      "properties": {
+        "level": "1",
+        "school": "Evocation",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": true,
+        "spell_type": "false",
+        "classes": ["Bard Cleric Druid Ranger"],
+        "components": ["V S M"],
+        "icon": "0039_stormsong-icon.webp"
+      }
     }
   }
-
+}
