@@ -13736,6 +13736,114 @@
         ],
         "videourl": ""
     }
+    },
+    "146_bard_1": {
+      "description": "Few things are as impactful as music, mere sound touching creatures’ souls, inspiring them, soothing or even frightening them. Within music itself resides an inherent power that can act as a catalyst, unleashing both subtle glamours or earth shattering spells. Not everyone can actively harness this special magic, but those who can, be it through the power of their genius, a grand personality or a deep understanding of the intricacies of the acoustic arcana, possess great power, whether in social situations or on the battlefield.",
+      "name": "Bard",
+      "properties": {
+        "biom": ["road", "civilized","city","dungeon","tavern","wilderness","ruins","forest","ocean","coast"],
+        "cr": "3",
+        "fightingstyle": ["Pack","Tactical"],
+        "movement": ["Walk"],
+        "purpose": ["Debuff","Support"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 16,
+        "stat_cha": 18,
+        "stat_con": 15,
+        "stat_dex": 16,
+        "stat_hp": 53,
+        "stat_int": 14,
+        "stat_str": 11,
+        "stat_wis": 8,
+        "thumbnail": "146_bard_1-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "Human"
+        ],
+        "videourl": ""
+    }
+    },
+    "146_bard_2": {
+      "description": "Few things are as impactful as music, mere sound touching creatures’ souls, inspiring them, soothing or even frightening them. Within music itself resides an inherent power that can act as a catalyst, unleashing both subtle glamours or earth shattering spells. Not everyone can actively harness this special magic, but those who can, be it through the power of their genius, a grand personality or a deep understanding of the intricacies of the acoustic arcana, possess great power, whether in social situations or on the battlefield.",
+      "name": "Bard",
+      "properties": {
+        "biom": ["road", "civilized","city","dungeon","tavern","wilderness","ruins","forest","ocean","coast"],
+        "cr": "3",
+        "fightingstyle": ["Pack","Tactical"],
+        "movement": ["Walk"],
+        "purpose": ["Debuff","Support"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 16,
+        "stat_cha": 18,
+        "stat_con": 15,
+        "stat_dex": 16,
+        "stat_hp": 53,
+        "stat_int": 14,
+        "stat_str": 11,
+        "stat_wis": 8,
+        "thumbnail": "146_bard_2-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "Human"
+        ],
+        "videourl": ""
+    }
+    },
+    "146_bard_3": {
+      "description": "Few things are as impactful as music, mere sound touching creatures’ souls, inspiring them, soothing or even frightening them. Within music itself resides an inherent power that can act as a catalyst, unleashing both subtle glamours or earth shattering spells. Not everyone can actively harness this special magic, but those who can, be it through the power of their genius, a grand personality or a deep understanding of the intricacies of the acoustic arcana, possess great power, whether in social situations or on the battlefield.",
+      "name": "Bard",
+      "properties": {
+        "biom": ["road", "civilized","city","dungeon","tavern","wilderness","ruins","forest","ocean","coast"],
+        "cr": "3",
+        "fightingstyle": ["Pack","Tactical"],
+        "movement": ["Walk"],
+        "purpose": ["Debuff","Support"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 16,
+        "stat_cha": 18,
+        "stat_con": 15,
+        "stat_dex": 16,
+        "stat_hp": 53,
+        "stat_int": 14,
+        "stat_str": 11,
+        "stat_wis": 8,
+        "thumbnail": "146_bard_3-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "Human"
+        ],
+        "videourl": ""
+    }
+    },
+    "146_bard_4": {
+      "description": "Few things are as impactful as music, mere sound touching creatures’ souls, inspiring them, soothing or even frightening them. Within music itself resides an inherent power that can act as a catalyst, unleashing both subtle glamours or earth shattering spells. Not everyone can actively harness this special magic, but those who can, be it through the power of their genius, a grand personality or a deep understanding of the intricacies of the acoustic arcana, possess great power, whether in social situations or on the battlefield.",
+      "name": "Bard",
+      "properties": {
+        "biom": ["road", "civilized","city","dungeon","tavern","wilderness","ruins","forest","ocean","coast"],
+        "cr": "3",
+        "fightingstyle": ["Pack","Tactical"],
+        "movement": ["Walk"],
+        "purpose": ["Debuff","Support"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 16,
+        "stat_cha": 18,
+        "stat_con": 15,
+        "stat_dex": 16,
+        "stat_hp": 53,
+        "stat_int": 14,
+        "stat_str": 11,
+        "stat_wis": 8,
+        "thumbnail": "146_bard_4-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "Human"
+        ],
+        "videourl": ""
+    }
   }
   }
   }
