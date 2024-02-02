@@ -13844,6 +13844,60 @@
         ],
         "videourl": ""
     }
+    },
+    "000_month_11_mother_base_1": {
+      "description": "Since its inception, various models of the Mobile Operations Transport and Headquarters for Exploration and Reconnaissance Base - or in short Mother Base - serve as a staging post for governmental or private operations, scientific expeditions or incursions into the planar cosmos. Powered by experimental arcane reactors and highly classified clockwork magic, outfitted with different means of environmental traversal and equipped with state of the art weaponry, Mother Base is highly automated and can even act autonomously, lending fire support or tactical assistance to its crew. However, its developers notice with increasing concern that Mother Base units start to develop close bonds with their pilots and crew over time, even behaving irrationally, acting outside of permitted protocol or in other ways considered impossible to protect or even avenge their attached unit.",
+      "name": "M.O.T.H.E.R. Base",
+      "properties": {
+        "biom": ["road", "civilized","city","dungeon","tavern","wilderness","ruins","forest","ocean","coast","planar","coastal"],
+        "cr": "20",
+        "fightingstyle": ["Interactive","Tactical"],
+        "movement": ["Walk"],
+        "purpose": ["Ally","Tank","Support"],
+        "releaseurl": "",
+        "size": "Gargantuan",
+        "stat_ac": 20,
+        "stat_cha": 10,
+        "stat_con": 22,
+        "stat_dex": 13,
+        "stat_hp": 300,
+        "stat_int": 5,
+        "stat_str": 22,
+        "stat_wis": 10,
+        "thumbnail": "000_month_11_mother_base_1-idle_face_still.webp",
+        "type": [
+          "Construct",
+          
+        ],
+        "videourl": ""
+    }
+    },
+    "000_month_11_mother_base_2": {
+      "description": "Since its inception, various models of the Mobile Operations Transport and Headquarters for Exploration and Reconnaissance Base - or in short Mother Base - serve as a staging post for governmental or private operations, scientific expeditions or incursions into the planar cosmos. Powered by experimental arcane reactors and highly classified clockwork magic, outfitted with different means of environmental traversal and equipped with state of the art weaponry, Mother Base is highly automated and can even act autonomously, lending fire support or tactical assistance to its crew. However, its developers notice with increasing concern that Mother Base units start to develop close bonds with their pilots and crew over time, even behaving irrationally, acting outside of permitted protocol or in other ways considered impossible to protect or even avenge their attached unit.",
+      "name": "M.O.T.H.E.R. Base",
+      "properties": {
+        "biom": ["road", "civilized","city","dungeon","tavern","wilderness","ruins","forest","ocean","coast","planar","coastal"],
+        "cr": "",
+        "fightingstyle": ["Interactive","Tactical"],
+        "movement": ["Walk"],
+        "purpose": ["Ally","Tank","Support"],
+        "releaseurl": "",
+        "size": "Gargantuan",
+        "stat_ac": 20,
+        "stat_cha": 10,
+        "stat_con": 22,
+        "stat_dex": 13,
+        "stat_hp": 300,
+        "stat_int": 5,
+        "stat_str": 22,
+        "stat_wis": 10,
+        "thumbnail": "000_month_11_mother_base_2-idle_face_still.webp",
+        "type": [
+          "Construct",
+          
+        ],
+        "videourl": ""
+    }
   }
   }
   }
