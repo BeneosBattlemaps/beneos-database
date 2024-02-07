@@ -768,8 +768,73 @@
         "classes": ["Ranger", "Druid", "Cleric"],
         "components": ["V S M"],
         "icon": "0030_scarab_infestation-icon.webp"
+		    }
+    },
+	"0032_profane_parrot": {
+      "key": "0032_profane_parrot",
+      "description": "You summon the spiritual apparition of a potty mouthed parrot to circle above you, hurling insults at your opponents.",
+      "name": "Profane Parrot",
+      "properties": {
+        "level": "1",
+        "school": "Conjuration",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Summon",
+        "classes": ["Bard","Druid","Ranger","Sorcerer","Warlock","Wizard"],
+        "components": ["V S M"],
+        "icon": "0032_profane_parrot-icon.webp"
+		  }
+    },
+	"0033_bullet_dew": {
+      "key": "0033_bullet_dew",
+      "description": "You shoot frozen projectiles formed from drops of water, dealing more damage when it rains.",
+      "name": "Bullet Dew",
+      "properties": {
+        "level": "1",
+        "school": "Evocation",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Ranged Damage",
+        "classes": ["Ranger", "Druid"],
+        "components": ["V S M"],
+        "icon": "0033_bullet_dew-icon.webp"
+		  }
+    },
+	"0034_slashers_shroud": {
+      "key": "0034_slashers_shroud",
+      "description": "A misty fog surrounds you, shrouding your presence and allowing you to instantly appear anywhere within, attacking those who approach you.",
+      "name": "Slasher's Shroud",
+      "properties": {
+        "level": "2",
+        "school": "Conjuration",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Area Effect",
+        "classes": ["Bard","Ranger","Warlock", "Wizard"],
+        "components": ["V S M"],
+        "icon": "0034_slashers_shroud-icon.webp"
+		  }
+    },
+	"0035_relive": {
+      "key": "0035_relive",
+      "description": "You enter a creature's memories to relive the last hour of its life.",
+      "name": "Relive",
+      "properties": {
+        "level": "3",
+        "school": "Divination",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Utility",
+        "classes": ["Bard","Cleric","Sorcerer","Warlock","Wizard","Ranger", "Druid"],
+        "components": ["V S M"],
+        "icon": "0035_relive-icon.webp"
+		  }
+
       }
     
     }
   }
-}
