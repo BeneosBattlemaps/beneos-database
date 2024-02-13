@@ -13898,6 +13898,115 @@
         ],
         "videourl": "https://youtu.be/Jozhlm8Yf_U?si=0Qq5ncH74udMPDB7"
     }
+    },
+    "147_witch_hunter": {
+      "description": "Witch Hunters coordinate the pursuit of magic users who fall outside the accepted framework of arcane arts. This may be related to religious structures, general prejudices, or well-founded fears regarding those who wield such incomprehensible power for many. Witch Hunters must possess strong wills and pursue their mission with nigh-fanatical devotion, otherwise, they can hardly hope to counteract the manifold magical powers with mundane means, be they subtle or obvious. Their work often drives them to the edge of morality and sometimes beyond, and many break under the responsibility that rests on their shoulders - making them particularly dangerous for those who seek to harm no one with their craft but still find themselves in the hunter’s sights.",
+      "name": "Witch Hunter",
+      "properties": {
+        "biom": ["road", "civilized","city","dungeon","tavern","wilderness","ruins","forest","ocean","coast","sacral","coastal"],
+        "cr": "5",
+        "fightingstyle": ["Interactive"],
+        "movement": ["Walk"],
+        "purpose": ["Anti Caster","Hunter","Support"],
+        "releaseurl": "https://www.patreon.com/posts/witch-hunter-98283605",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 16,
+        "stat_con": 17,
+        "stat_dex": 14,
+        "stat_hp": 75,
+        "stat_int": 18,
+        "stat_str": 16,
+        "stat_wis": 14,
+        "thumbnail": "147_witch_hunter-idle_face_still.webp",
+        "type": [
+          "humanoid",
+		  "Human"
+          
+        ],
+        "videourl": "https://youtu.be/-1RoBVo1DYE?si=SZ1VwG_nlIjfOxcL"
+    }
+    },
+    "148_spore_shepherd_1": {
+      "description": "Spore Shepherds are of tranquil demeanor, tending to the diverse mushroom colonies thriving in their territories, be it long-stalked or wide-capped varieties with wide, delicate fungi or blobs of slime mold. They make no distinction whether their wards are animate, sentient fungi or mundane mushrooms, although outsiders may hardly grasp the intricate mycotic processes and the assessment of fungal sentience. The Shepherds are fiercely protective of their flock and possess extensive mycotic networks, constantly providing them with information about their environment.",
+      "name": "Spore Shepherd 1",
+      "properties": {
+        "biom": ["forest", "wilderness","jungle","dungeon","underground"],
+        "cr": "",
+        "fightingstyle": ["Regeneration","AoE"],
+        "movement": ["Walk"],
+        "purpose": ["Leader","Debuff","Support"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": ,
+        "stat_cha": 11,
+        "stat_con": 17,
+        "stat_dex": 10,
+        "stat_hp": ,
+        "stat_int": 13,
+        "stat_str": 18,
+        "stat_wis": 16,
+        "thumbnail": "148_spore_shepherd_1-idle_face_still.webp",
+        "type": [
+          "plant",
+          
+        ],
+        "videourl": ""
+    }
+    },
+    "148_spore_shepherd_2": {
+      "description": "Spore Shepherds are of tranquil demeanor, tending to the diverse mushroom colonies thriving in their territories, be it long-stalked or wide-capped varieties with wide, delicate fungi or blobs of slime mold. They make no distinction whether their wards are animate, sentient fungi or mundane mushrooms, although outsiders may hardly grasp the intricate mycotic processes and the assessment of fungal sentience. The Shepherds are fiercely protective of their flock and possess extensive mycotic networks, constantly providing them with information about their environment.",
+      "name": "Spore Shepherd 2",
+      "properties": {
+        "biom": ["forest", "wilderness","jungle","dungeon","underground"],
+        "cr": "",
+        "fightingstyle": ["Regeneration","AoE"],
+        "movement": ["Walk"],
+        "purpose": ["Leader","Debuff","Support"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": ,
+        "stat_cha": 11,
+        "stat_con": 17,
+        "stat_dex": 10,
+        "stat_hp": ,
+        "stat_int": 13,
+        "stat_str": 18,
+        "stat_wis": 16,
+        "thumbnail": "148_spore_shepherd_2-idle_face_still.webp",
+        "type": [
+          "plant",
+          
+        ],
+        "videourl": ""
+    }
+    },
+    "148_spore_shepherd_3": {
+      "description": "Spore Shepherds are of tranquil demeanor, tending to the diverse mushroom colonies thriving in their territories, be it long-stalked or wide-capped varieties with wide, delicate fungi or blobs of slime mold. They make no distinction whether their wards are animate, sentient fungi or mundane mushrooms, although outsiders may hardly grasp the intricate mycotic processes and the assessment of fungal sentience. The Shepherds are fiercely protective of their flock and possess extensive mycotic networks, constantly providing them with information about their environment.",
+      "name": "Spore Shepherd 3",
+      "properties": {
+        "biom": ["forest", "wilderness","jungle","dungeon","underground"],
+        "cr": "",
+        "fightingstyle": ["Regeneration","AoE"],
+        "movement": ["Walk"],
+        "purpose": ["Leader","Debuff","Support"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": ,
+        "stat_cha": 11,
+        "stat_con": 17,
+        "stat_dex": 10,
+        "stat_hp": ,
+        "stat_int": 13,
+        "stat_str": 18,
+        "stat_wis": 16,
+        "thumbnail": "148_spore_shepherd_3-idle_face_still.webp",
+        "type": [
+          "plant",
+          
+        ],
+        "videourl": ""
+    }
   }
   }
   }
