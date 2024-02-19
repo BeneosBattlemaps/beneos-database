@@ -492,7 +492,62 @@
             "price": "3200",
             "icon": "0038_seed_of_renewal-icon.webp"
             }
+        },
+        "0039_blade_sage_scroll": {
+            "key": "0039_blade_sage_scroll",
+            "description": "Allows you to store and retrieve weapons within, as well as permantently strengthens your bladework upon careful study.",
+            "name": "Blade Sage Scroll",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": false,
+            "origin": "sanctified",
+            "item_type": "Trinket",
+            "tier": 1,
+            "price": "3800",
+            "icon": "0039_blade_sage_scroll-icon.webp"
+            }
+        },
+        "0040_jungle_monarch": {
+            "key": "0040_jungle_monarch",
+            "description": "Increases the chance to score critical hits and always deals maximal weapon damage against Huge and larger creatures.",
+            "name": "Jungle Monarch",
+            "properties": {
+            "rarity": "Uncommon",
+            "attunement": true,
+            "origin": "primordial",
+            "item_type": "Melee Weapon",
+            "tier": 2,
+            "price": "3600",
+            "icon": "0040_jungle_monarch-icon.webp"
+            }
+        },
+        "0041_lantern_of_waning_hope": {
+            "key": "0041_lantern_of_waning_hope",
+            "description": "A flickering lantern providing aid when you are at death's door.",
+            "name": "Lantern Of Waning Hope",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "blessed",
+            "item_type": "Trinket",
+            "tier": 1,
+            "price": "2700",
+            "icon": "0041_lantern_of_waning_hope-icon.webp"
+            }
+        },
+        "0042_rothail_shortbow": {
+            "key": "0042_rothail_shortbow",
+            "description": "Mud-dripping short bow infecting targets with Bog Rot, dealing necrotic damage over time.",
+            "name": "Rothail Shortbow",
+            "properties": {
+            "rarity": "Uncommon",
+            "attunement": true,
+            "origin": "awoken",
+            "item_type": "Range Weapon",
+            "tier": 1,
+            "price": "1400",
+            "icon": "0042_rothail_shortbow-icon.webp"
+            }
          }
+       }
 }
-}
-     

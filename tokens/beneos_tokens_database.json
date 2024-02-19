@@ -13877,7 +13877,7 @@
       "name": "M.O.T.H.E.R. Base",
       "properties": {
         "biom": ["road", "civilized","city","dungeon","tavern","wilderness","ruins","forest","ocean","coast","planar","coastal"],
-        "cr": "",
+        "cr": "20",
         "fightingstyle": ["Interactive","Tactical"],
         "movement": ["Walk"],
         "purpose": ["Ally","Tank","Support"],
@@ -13929,83 +13929,83 @@
     },
     "148_spore_shepherd_1": {
       "description": "Spore Shepherds are of tranquil demeanor, tending to the diverse mushroom colonies thriving in their territories, be it long-stalked or wide-capped varieties with wide, delicate fungi or blobs of slime mold. They make no distinction whether their wards are animate, sentient fungi or mundane mushrooms, although outsiders may hardly grasp the intricate mycotic processes and the assessment of fungal sentience. The Shepherds are fiercely protective of their flock and possess extensive mycotic networks, constantly providing them with information about their environment.",
-      "name": "Spore Shepherd 1",
+      "name": "Spore Shepherd",
       "properties": {
         "biom": ["forest", "wilderness","jungle","dungeon","underground"],
-        "cr": "",
-        "fightingstyle": ["Regeneration","AoE"],
+        "cr": "7",
+        "fightingstyle": ["Regeneration","AoE","Demanding"],
         "movement": ["Walk"],
         "purpose": ["Leader","Debuff","Support"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/spore-shepherd-98752599",
         "size": "Large",
-        "stat_ac": ,
+        "stat_ac": 15,
         "stat_cha": 11,
         "stat_con": 17,
         "stat_dex": 10,
-        "stat_hp": ,
+        "stat_hp": 142,
         "stat_int": 13,
         "stat_str": 18,
         "stat_wis": 16,
         "thumbnail": "148_spore_shepherd_1-idle_face_still.webp",
         "type": [
-          "plant",
+          "plant"
           
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/ziEvIyUtfgU?si=yCOBxXuNBF9GNccu"
     }
     },
     "148_spore_shepherd_2": {
       "description": "Spore Shepherds are of tranquil demeanor, tending to the diverse mushroom colonies thriving in their territories, be it long-stalked or wide-capped varieties with wide, delicate fungi or blobs of slime mold. They make no distinction whether their wards are animate, sentient fungi or mundane mushrooms, although outsiders may hardly grasp the intricate mycotic processes and the assessment of fungal sentience. The Shepherds are fiercely protective of their flock and possess extensive mycotic networks, constantly providing them with information about their environment.",
-      "name": "Spore Shepherd 2",
+      "name": "Spore Shepherd",
       "properties": {
         "biom": ["forest", "wilderness","jungle","dungeon","underground"],
-        "cr": "",
-        "fightingstyle": ["Regeneration","AoE"],
+        "cr": "7",
+        "fightingstyle": ["Regeneration","AoE","Demanding"],
         "movement": ["Walk"],
         "purpose": ["Leader","Debuff","Support"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/spore-shepherd-98752599",
         "size": "Large",
-        "stat_ac": ,
+        "stat_ac": 15,
         "stat_cha": 11,
         "stat_con": 17,
         "stat_dex": 10,
-        "stat_hp": ,
+        "stat_hp": 142,
         "stat_int": 13,
         "stat_str": 18,
         "stat_wis": 16,
         "thumbnail": "148_spore_shepherd_2-idle_face_still.webp",
         "type": [
-          "plant",
+          "plant"
           
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/ziEvIyUtfgU?si=yCOBxXuNBF9GNccu"
     }
     },
     "148_spore_shepherd_3": {
       "description": "Spore Shepherds are of tranquil demeanor, tending to the diverse mushroom colonies thriving in their territories, be it long-stalked or wide-capped varieties with wide, delicate fungi or blobs of slime mold. They make no distinction whether their wards are animate, sentient fungi or mundane mushrooms, although outsiders may hardly grasp the intricate mycotic processes and the assessment of fungal sentience. The Shepherds are fiercely protective of their flock and possess extensive mycotic networks, constantly providing them with information about their environment.",
-      "name": "Spore Shepherd 3",
+      "name": "Spore Shepherd",
       "properties": {
         "biom": ["forest", "wilderness","jungle","dungeon","underground"],
-        "cr": "",
-        "fightingstyle": ["Regeneration","AoE"],
+        "cr": "7",
+        "fightingstyle": ["Regeneration","AoE","Demanding"],
         "movement": ["Walk"],
         "purpose": ["Leader","Debuff","Support"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/spore-shepherd-98752599",
         "size": "Large",
-        "stat_ac": ,
+        "stat_ac": 15,
         "stat_cha": 11,
         "stat_con": 17,
         "stat_dex": 10,
-        "stat_hp": ,
+        "stat_hp": 142,
         "stat_int": 13,
         "stat_str": 18,
         "stat_wis": 16,
         "thumbnail": "148_spore_shepherd_3-idle_face_still.webp",
         "type": [
-          "plant",
+          "plant"
           
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/ziEvIyUtfgU?si=yCOBxXuNBF9GNccu"
     }
   }
   }

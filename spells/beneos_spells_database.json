@@ -832,9 +832,7 @@
         "classes": ["Bard","Cleric","Sorcerer","Warlock","Wizard","Ranger", "Druid"],
         "components": ["V S M"],
         "icon": "0035_relive-icon.webp"
-		  }
-
-      }
     
     }
   }
+}}
