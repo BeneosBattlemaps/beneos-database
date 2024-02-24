@@ -14007,6 +14007,87 @@
         ],
         "videourl": "https://youtu.be/ziEvIyUtfgU?si=yCOBxXuNBF9GNccu"
     }
+    },
+    "149_gatekeeper_3": {
+      "description": "The role of Gatekeepers is to grant entry and, if necessary, prevent intrusion.  They do this with stoic elegance and an inherent sense of the theatrical demands and expectations of their role. Gatekeepers are the ultimate aesthetic embellishment to any throne room or fortress walkway, poised and ready to cross halberds and stop newcomers dead in their tracks, if only for a thrilling moment of suspense before stepping aside. Gatekeepers are renowned for their patience, their calm demeanor, unwavering loyalty, a flair for the dramatic and of course the combat skills to enforce the implied threat of their presence.",
+      "name": "Gatekeeper",
+      "properties": {
+        "biom": ["Civilized", "City","Dungeon","Tavern","Road"],
+        "cr": "3",
+        "fightingstyle": ["Melee","Interactive","Pack"],
+        "movement": ["Walk"],
+        "purpose": ["Bodyguard","Minion"],
+        "releaseurl": "https://www.patreon.com/posts/99143461",
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 14,
+        "stat_con": 14,
+        "stat_dex": 13,
+        "stat_hp": 52,
+        "stat_int": 10,
+        "stat_str": 17,
+        "stat_wis": 12,
+        "thumbnail": "149_gatekeeper_3-idle_face_still.webp",
+        "type": [
+          "humanoid"
+          
+        ],
+        "videourl": "https://youtu.be/mVANXTmIoVI?si=_12vQOTE6MnxbC8d"
+    }
+    },
+    "149_gatekeeper_2": {
+      "description": "The role of Gatekeepers is to grant entry and, if necessary, prevent intrusion.  They do this with stoic elegance and an inherent sense of the theatrical demands and expectations of their role. Gatekeepers are the ultimate aesthetic embellishment to any throne room or fortress walkway, poised and ready to cross halberds and stop newcomers dead in their tracks, if only for a thrilling moment of suspense before stepping aside. Gatekeepers are renowned for their patience, their calm demeanor, unwavering loyalty, a flair for the dramatic and of course the combat skills to enforce the implied threat of their presence.",
+      "name": "Gatekeeper",
+      "properties": {
+        "biom": ["Civilized", "City","Dungeon","Tavern","Road"],
+        "cr": "3",
+        "fightingstyle": ["Melee","Interactive","Pack"],
+        "movement": ["Walk"],
+        "purpose": ["Bodyguard","Minion"],
+        "releaseurl": "https://www.patreon.com/posts/99143461",
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 14,
+        "stat_con": 14,
+        "stat_dex": 13,
+        "stat_hp": 52,
+        "stat_int": 10,
+        "stat_str": 17,
+        "stat_wis": 12,
+        "thumbnail": "149_gatekeeper_2-idle_face_still.webp",
+        "type": [
+          "humanoid"
+          
+        ],
+        "videourl": "https://youtu.be/mVANXTmIoVI?si=_12vQOTE6MnxbC8d"
+    }
+    },
+    "149_gatekeeper_1": {
+      "description": "The role of Gatekeepers is to grant entry and, if necessary, prevent intrusion.  They do this with stoic elegance and an inherent sense of the theatrical demands and expectations of their role. Gatekeepers are the ultimate aesthetic embellishment to any throne room or fortress walkway, poised and ready to cross halberds and stop newcomers dead in their tracks, if only for a thrilling moment of suspense before stepping aside. Gatekeepers are renowned for their patience, their calm demeanor, unwavering loyalty, a flair for the dramatic and of course the combat skills to enforce the implied threat of their presence.",
+      "name": "Gatekeeper",
+      "properties": {
+        "biom": ["Civilized", "City","Dungeon","Tavern","Road"],
+        "cr": "3",
+        "fightingstyle": ["Melee","Interactive","Pack"],
+        "movement": ["Walk"],
+        "purpose": ["Bodyguard","Minion"],
+        "releaseurl": "https://www.patreon.com/posts/99143461",
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 14,
+        "stat_con": 14,
+        "stat_dex": 13,
+        "stat_hp": 52,
+        "stat_int": 10,
+        "stat_str": 17,
+        "stat_wis": 12,
+        "thumbnail": "149_gatekeeper_1-idle_face_still.webp",
+        "type": [
+          "humanoid"
+          
+        ],
+        "videourl": "https://youtu.be/mVANXTmIoVI?si=_12vQOTE6MnxbC8d"
+    }
   }
   }
   }
