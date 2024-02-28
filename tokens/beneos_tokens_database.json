@@ -14088,6 +14088,87 @@
         ],
         "videourl": "https://youtu.be/mVANXTmIoVI?si=_12vQOTE6MnxbC8d"
     }
+    },
+    "150_ravager_2": {
+      "description": "Ravagers are nigh-legendary warriors whose physical abilities surpass human limits, reaching mythical proportions. Whether living in solitude or leading like minded individuals, their lives are defined by combat, whether born of the harsh circumstances of their origin or by choice. These indomitable warriors have been shaped by years or decades of struggle for survival, their bodies and minds hardened to resist forces that would break lesser beings.",
+      "name": "Ravager",
+      "properties": {
+        "biom": ["Civilized","City","Dungeon","Tavern","Road","Wilderness","Mountain","Arctic"],
+        "cr": "7",
+        "fightingstyle": ["Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Tank","Damage"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 14,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 120,
+        "stat_int": 7,
+        "stat_str": 20,
+        "stat_wis": 15,
+        "thumbnail": "150_ravager_2-idle_face_still.webp",
+        "type": [
+          "humanoid"
+          
+        ],
+        "videourl": ""
+    }
+    },
+    "150_ravager_1": {
+      "description": "Ravagers are nigh-legendary warriors whose physical abilities surpass human limits, reaching mythical proportions. Whether living in solitude or leading like minded individuals, their lives are defined by combat, whether born of the harsh circumstances of their origin or by choice. These indomitable warriors have been shaped by years or decades of struggle for survival, their bodies and minds hardened to resist forces that would break lesser beings.",
+      "name": "Ravager",
+      "properties": {
+        "biom": ["Civilized","City","Dungeon","Tavern","Road","Wilderness","Mountain","Arctic"],
+        "cr": "7",
+        "fightingstyle": ["Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Tank","Damage"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 14,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 120,
+        "stat_int": 7,
+        "stat_str": 20,
+        "stat_wis": 15,
+        "thumbnail": "150_ravager_1-idle_face_still.webp",
+        "type": [
+          "humanoid"
+          
+        ],
+        "videourl": ""
+    }
+    },
+    "150_ravager_3": {
+      "description": "Ravagers are nigh-legendary warriors whose physical abilities surpass human limits, reaching mythical proportions. Whether living in solitude or leading like minded individuals, their lives are defined by combat, whether born of the harsh circumstances of their origin or by choice. These indomitable warriors have been shaped by years or decades of struggle for survival, their bodies and minds hardened to resist forces that would break lesser beings.",
+      "name": "Ravager",
+      "properties": {
+        "biom": ["Civilized","City","Dungeon","Tavern","Road","Wilderness","Mountain","Arctic"],
+        "cr": "7",
+        "fightingstyle": ["Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Tank","Damage"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 14,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 120,
+        "stat_int": 7,
+        "stat_str": 20,
+        "stat_wis": 15,
+        "thumbnail": "150_ravager_3-idle_face_still.webp",
+        "type": [
+          "humanoid"
+          
+        ],
+        "videourl": ""
+    }
   }
   }
   }
