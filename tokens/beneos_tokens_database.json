@@ -14098,7 +14098,7 @@
         "fightingstyle": ["Melee"],
         "movement": ["Walk"],
         "purpose": ["Tank","Damage"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/99537227",
         "size": "Medium",
         "stat_ac": 17,
         "stat_cha": 14,
@@ -14113,7 +14113,7 @@
           "humanoid"
           
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/GJcUi4kxkHQ?si=mLmcZKVJLLZlMKzL"
     }
     },
     "150_ravager_1": {
@@ -14125,7 +14125,7 @@
         "fightingstyle": ["Melee"],
         "movement": ["Walk"],
         "purpose": ["Tank","Damage"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/99537227",
         "size": "Medium",
         "stat_ac": 17,
         "stat_cha": 14,
@@ -14140,7 +14140,7 @@
           "humanoid"
           
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/GJcUi4kxkHQ?si=mLmcZKVJLLZlMKzL"
     }
     },
     "150_ravager_3": {
@@ -14152,7 +14152,7 @@
         "fightingstyle": ["Melee"],
         "movement": ["Walk"],
         "purpose": ["Tank","Damage"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/99537227",
         "size": "Medium",
         "stat_ac": 17,
         "stat_cha": 14,
@@ -14167,7 +14167,7 @@
           "humanoid"
           
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/GJcUi4kxkHQ?si=mLmcZKVJLLZlMKzL"
     }
   }
   }
