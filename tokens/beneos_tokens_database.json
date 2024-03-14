@@ -14169,6 +14169,60 @@
         ],
         "videourl": "https://youtu.be/GJcUi4kxkHQ?si=mLmcZKVJLLZlMKzL"
     }
+    },
+    "000_month_12_weavstress": {
+      "description": "The Weavstress is a sinister creature, the extent of its cruel and deceitful nature hidden behind this unassuming title. This colossal arachnid weaves its silvery threads into intricate traps, capable of spinning almost invisible, delicate strands and massive ropes with the strength of steel cables. These threads are soaked in narcotic secretions, inducing hallucinations or narcoleptic episodes. Sleeping creatures are then controlled by the Weavstresses spider-like brood, the Dreamweavers, through narcotic poisons, acting against their will and dancing to the ethereal tunes of the Weavstresses’ haunting song.",
+      "name": "Weavstress",
+      "properties": {
+        "biom": ["Lair","Dungeon","Wilderness","Mountain"],
+        "cr": "17",
+        "fightingstyle": ["Demanding","Leader"],
+        "movement": ["Walk"],
+        "purpose": ["Boss","Debuff"],
+        "releaseurl": "",
+        "size": "Gargantuan",
+        "stat_ac": 18,
+        "stat_cha": 22,
+        "stat_con": 17,
+        "stat_dex": 16,
+        "stat_hp": 267,
+        "stat_int": 18,
+        "stat_str": 22,
+        "stat_wis": 16,
+        "thumbnail": "000_month_12_weavstress-idle_face_still.webp",
+        "type": [
+          "monstrosity"
+          
+        ],
+        "videourl": ""
+    }
+    },
+    "000_month_12_dreamweaver": {
+      "description": "Dreamweavers are the single-minded offspring of the Weavstress. With their oneiric toxins, they are able to manipulate the flow of the Dreamweave, the illusory realm through which the victims of the Weavstress sleepwalk, in order to exert direct control over the behavior of the dreamers.",
+      "name": "Dreamweaver",
+      "properties": {
+        "biom": ["Lair","Dungeon","Wilderness","Mountain"],
+        "cr": "0.25",
+        "fightingstyle": ["Simple"],
+        "movement": ["Walk"],
+        "purpose": ["Minion","Gimmick"],
+        "releaseurl": "",
+        "size": "Small",
+        "stat_ac": 14,
+        "stat_cha": 3,
+        "stat_con": 4,
+        "stat_dex": 15,
+        "stat_hp": 7,
+        "stat_int": 4,
+        "stat_str": 5,
+        "stat_wis": 11,
+        "thumbnail": "000_month_12_dreamweaver-idle_face_still.webp",
+        "type": [
+          "monstrosity"
+          
+        ],
+        "videourl": ""
+    }
   }
   }
   }
