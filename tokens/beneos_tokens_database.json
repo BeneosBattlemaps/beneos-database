@@ -14179,7 +14179,7 @@
         "fightingstyle": ["Demanding","Leader"],
         "movement": ["Walk"],
         "purpose": ["Boss","Debuff"],
-        "releaseurl": "",
+        "releaseurl": "https://beneos-battlemaps.com/de/products/beneos-tokens-weavstress-dreamweavers",
         "size": "Gargantuan",
         "stat_ac": 18,
         "stat_cha": 22,
@@ -14194,7 +14194,7 @@
           "monstrosity"
           
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/DmhpGCSxs-Y?si=k3-G_gtYT0uQYJQR"
     }
     },
     "000_month_12_dreamweaver": {
@@ -14206,7 +14206,7 @@
         "fightingstyle": ["Simple"],
         "movement": ["Walk"],
         "purpose": ["Minion","Gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://beneos-battlemaps.com/de/products/beneos-tokens-weavstress-dreamweavers",
         "size": "Small",
         "stat_ac": 14,
         "stat_cha": 3,
@@ -14217,6 +14217,114 @@
         "stat_str": 5,
         "stat_wis": 11,
         "thumbnail": "000_month_12_dreamweaver-idle_face_still.webp",
+        "type": [
+          "monstrosity"
+          
+        ],
+        "videourl": "https://youtu.be/DmhpGCSxs-Y?si=k3-G_gtYT0uQYJQR"
+    }
+    },
+    "151_dwarven_battlemason": {
+      "description": "Battle-Masons epitomize the convergence of artisanal skill and martial expertise, exemplifying dwarven virtues. Hardened veterans and master craftsmen, they operate and fight in the most adverse conditions, often deployed during sieges or subterranean conflicts. Battle-Masons do not settle for just clearing a tunnel or capturing an enemy position. Materials are reinforced, equipment is set up instantly, and a position is only vacated when it is in better condition than when it was captured. Stern and steadfast, they are the reliable force to turn to in times of crisis, offering expertise in high-pressure environments.",
+      "name": "Dwarven Battlemason",
+      "properties": {
+        "biom": ["Dungeon","City","Mountain","Underground","Civilized"],
+        "cr": "6s",
+        "fightingstyle": ["Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Tank","Support"],
+        "releaseurl": "https://www.patreon.com/posts/dwarven-battle-100093090",
+        "size": "Medium",
+        "stat_ac": 20,
+        "stat_cha": 12,
+        "stat_con": 18,
+        "stat_dex": 8,
+        "stat_hp": 85,
+        "stat_int": 15,
+        "stat_str": 18,
+        "stat_wis": 18,
+        "thumbnail": "151_dwarven_battlemason-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "Dwarf"
+        ],
+        "videourl": "https://youtu.be/VBcr9TwxMaY"
+    }
+    },
+    "152_tunnelterror_gorgeworm": {
+      "description": "When a Gorgewormling detects a rich food source or manages to attach unnoticed as a parasite to larger beings, it rapidly grows to immense size. The fully grown Gorgeworm, driven mad by hunger, then burrows through the earth, devouring everything that falls within the reach of its scythe-like mandibles. Though tenacious prey may escape from the worm’s gullet, they are often left with a Broodspawn attached, an undulating egg sac from which the asexually produced offspring of the worm hatch.",
+      "name": "Tunnelterror Gorgeworm",
+      "properties": {
+        "biom": ["Dungeon","Wasteland","Mountain","Underground","Desert"],
+        "cr": "9",
+        "fightingstyle": ["Ambusher","Swallow"],
+        "movement": ["Burrow"],
+        "purpose": ["Gimmick","Pressure","Gimmick"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 17,
+        "stat_cha": 1,
+        "stat_con": 18,
+        "stat_dex": 16,
+        "stat_hp": 167,
+        "stat_int": 3,
+        "stat_str": 20,
+        "stat_wis": 11,
+        "thumbnail": "152_tunnelterror_gorgeworm-idle_face_still.webp",
+        "type": [
+          "monstrosity"
+          
+        ],
+        "videourl": ""
+    }
+    },
+    "152_tunnelterror_gorgewormling": {
+      "description": "When a Gorgewormling detects a rich food source or manages to attach unnoticed as a parasite to larger beings, it rapidly grows to immense size. The fully grown Gorgeworm, driven mad by hunger, then burrows through the earth, devouring everything that falls within the reach of its scythe-like mandibles. Though tenacious prey may escape from the worm’s gullet, they are often left with a Broodspawn attached, an undulating egg sac from which the asexually produced offspring of the worm hatch.",
+      "name": "Tunnelterror Gorgewormling",
+      "properties": {
+        "biom": ["Dungeon","Wasteland","Mountain","Underground","Desert"],
+        "cr": "0.25",
+        "fightingstyle": ["Pack","Simple"],
+        "movement": ["Burrow"],
+        "purpose": ["Gimmick","Minion"],
+        "releaseurl": "",
+        "size": "Small",
+        "stat_ac": 11,
+        "stat_cha": 1,
+        "stat_con": 12,
+        "stat_dex": 5,
+        "stat_hp": 9,
+        "stat_int": 1,
+        "stat_str": 6,
+        "stat_wis": 10,
+        "thumbnail": "152_tunnelterror_gorgewormling-idle_face_still.webp",
+        "type": [
+          "monstrosity"
+          
+        ],
+        "videourl": ""
+    }
+    },
+    "152_tunnelterror_gorgeworm_broodspawn": {
+      "description": "When a Gorgewormling detects a rich food source or manages to attach unnoticed as a parasite to larger beings, it rapidly grows to immense size. The fully grown Gorgeworm, driven mad by hunger, then burrows through the earth, devouring everything that falls within the reach of its scythe-like mandibles. Though tenacious prey may escape from the worm’s gullet, they are often left with a Broodspawn attached, an undulating egg sac from which the asexually produced offspring of the worm hatch.",
+      "name": "Tunnelterror Gorgeworm Broodspawn",
+      "properties": {
+        "biom": ["Dungeon","Wasteland","Mountain","Underground","Desert"],
+        "cr": "0.25",
+        "fightingstyle": ["Pack","Simple"],
+        "movement": ["Burrow"],
+        "purpose": ["Gimmick","Minion"],
+        "releaseurl": "",
+        "size": "Small",
+        "stat_ac": 6,
+        "stat_cha": 1,
+        "stat_con": 1,
+        "stat_dex": 1,
+        "stat_hp": 16,
+        "stat_int": 1,
+        "stat_str": 1,
+        "stat_wis": 1,
+        "thumbnail": "152_tunnelterror_gorgeworm_broodspawn-idle_face_still.webp",
         "type": [
           "monstrosity"
           
