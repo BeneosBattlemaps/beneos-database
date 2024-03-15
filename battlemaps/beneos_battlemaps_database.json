@@ -32660,6 +32660,386 @@
 								"download_terms": "BM: Razorcliff Cove",
 								"download_creator": "Beneos Battlemaps"
                                 }
+                    },
+                    "76-01_Spider_waiting-4k_BM":{
+                        "name":"Spider waiting",
+                        "description":"",
+                      "properties": {
+                        "adventure": [ "None" ],
+                        "biom": [ "Underdark", "Underground", "Cave", "Monster", "Special" ],
+                        "brightness": "Dark",
+                        "grid": "35x35",
+                        "pack": "76_Underdark_Spider_Titan",
+                        "releaseurl": "WIP",
+                        "sibling": "76-01_Spider_waiting-4k_Scen",
+                        "type": "Battlemap",
+                        "thumbnail": "76-01_Spider_waiting-4k_bm.webp",
+                        "videourl": "WIP",
+                        "download_pack": "Underdark Spider Titan - 76",
+                        "download_terms": "BM: Spider waiting",
+                        "download_creator": "Beneos Battlemaps"
+                      }
+                            },
+                            "76-01_Spider_waiting-4k_Scen":{
+                                "name":"Spider waiting",
+                                "description":"",
+                              "properties": {
+                                "adventure": [ "None" ],
+                                "biom": [ "Underdark", "Underground", "Cave", "Monster", "Special" ],
+                                "brightness": "Dark",
+                                "grid": "35x35",
+                                "pack": "76_Underdark_Spider_Titan",
+                                "releaseurl": "WIP",
+                                "sibling": "76-01_Spider_waiting-4k_BM",
+                                "type": "Scenery",
+                                "thumbnail": "76-01_Spider_waiting-4k_scen.webp",
+                                "videourl": "WIP",
+                                "download_pack": "Underdark Spider Titan - 76",
+                                "download_terms": "SC: Spider waiting",
+                                "download_creator": "Beneos Battlemaps"
+                              }
+                    },
+                    "76-02_Spider_waiting_on_top-4k_BM":{
+                        "name":"Spider waiting on top",
+                        "description":"",
+                      "properties": {
+                        "adventure": [ "None" ],
+                        "biom": [ "Underdark", "Underground", "Cave", "Monster", "Special" ],
+                        "brightness": "Dark",
+                        "grid": "44x35",
+                        "pack": "76_Underdark_Spider_Titan",
+                        "releaseurl": "WIP",
+                        "sibling": "76-02_Spider_waiting_on_top-4k_Scen",
+                        "type": "Battlemap",
+                        "thumbnail": "76-02_Spider_waiting_on_top-4k_bm.webp",
+                        "videourl": "WIP",
+                        "download_pack": "Underdark Spider Titan - 76",
+                        "download_terms": "BM: Spider waiting on top",
+                        "download_creator": "Beneos Battlemaps"
+                      }
+                            },
+                            "76-02_Spider_waiting_on_top-4k_Scen":{
+                                "name":"Spider waiting on top",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Underdark","Underground","Cave", "Monster","Special"],
+                                "brightness":"Dark",
+                                "grid":"44x35",
+                                "pack":"76_Underdark_Spider_Titan",
+                                "releaseurl":"WIP",
+                                "sibling":"76-02_Spider_waiting_on_top-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"76-02_Spider_waiting_on_top-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Underdark Spider Titan - 76",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "76-03_Spider_Fighting-4k_BM":{
+                        "name":"Spider Fighting",
+                        "description":"",
+                      "properties": {
+                        "adventure": [ "None" ],
+                        "biom": [ "Underdark", "Underground", "Cave", "Monster", "Special" ],
+                        "brightness": "Dark",
+                        "grid": "35x35",
+                        "pack": "76_Underdark_Spider_Titan",
+                        "releaseurl": "WIP",
+                        "sibling": "76-03_Spider_Fighting-4k_Scen",
+                        "type": "Battlemap",
+                        "thumbnail": "76-03_Spider_Fighting-4k_bm.webp",
+                        "videourl": "WIP",
+                        "download_pack": "Underdark Spider Titan - 76",
+                        "download_terms": "BM: Spider Fighting",
+                        "download_creator": "Beneos Battlemaps"
+                      }
+                            },
+                            "76-03_Spider_Fighting-4k_Scen":{
+                                "name":"Spider Fighting",
+                                "description":"",
+                              "properties": {
+                                "adventure": [ "None" ],
+                                "biom": [ "Underdark", "Underground", "Cave", "Monster", "Special" ],
+                                "brightness": "Dark",
+                                "grid": "35x35",
+                                "pack": "76_Underdark_Spider_Titan",
+                                "releaseurl": "WIP",
+                                "sibling": "76-03_Spider_Fighting-4k_BM",
+                                "type": "Scenery",
+                                "thumbnail": "76-03_Spider_Fighting-4k_scen.webp",
+                                "videourl": "WIP",
+                                "download_pack": "Underdark Spider Titan - 76",
+                                "download_terms": "SC: Spider Fighting",
+                                "download_creator": "Beneos Battlemaps"
+                              }
+                    },
+                    "76-04_Spider_Fighting_on_top-4k_BM":{
+                        "name":"Spider Fighting on top",
+                        "description":"",
+                      "properties": {
+                        "adventure": [ "None" ],
+                        "biom": [ "Underdark", "Underground", "Cave", "Monster", "Special" ],
+                        "brightness": "Dark",
+                        "grid": "44x35",
+                        "pack": "76_Underdark_Spider_Titan",
+                        "releaseurl": "WIP",
+                        "sibling": "76-04_Spider_Fighting_on_top-4k_Scen",
+                        "type": "Battlemap",
+                        "thumbnail": "76-04_Spider_Fighting_on_top-4k_bm.webp",
+                        "videourl": "WIP",
+                        "download_pack": "Underdark Spider Titan - 76",
+                        "download_terms": "BM: Spider Fighting on top",
+                        "download_creator": "Beneos Battlemaps"
+                      }
+                            },
+                            "76-04_Spider_Fighting_on_top-4k_Scen":{
+                                "name":"Spider Fighting on top",
+                                "description":"",
+                              "properties": {
+                                "adventure": [ "None" ],
+                                "biom": [ "Underdark", "Underground", "Cave", "Monster", "Special" ],
+                                "brightness": "Dark",
+                                "grid": "44x35",
+                                "pack": "76_Underdark_Spider_Titan",
+                                "releaseurl": "WIP",
+                                "sibling": "76-04_Spider_Fighting_on_top-4k_BM",
+                                "type": "Scenery",
+                                "thumbnail": "76-04_Spider_Fighting_on_top-4k_scen.webp",
+                                "videourl": "WIP",
+                                "download_pack": "Underdark Spider Titan - 76",
+                                "download_terms": "SC: Spider Fighting on top",
+                                "download_creator": "Beneos Battlemaps"
+                              }
+                    },
+                    "76-05_Spider_Walking_on_top-4k_BM":{
+                        "name":"Spider Walking on top",
+                        "description":"",
+                      "properties": {
+                        "adventure": [ "None" ],
+                        "biom": [ "Underdark", "Underground", "Cave", "Monster", "Special" ],
+                        "brightness": "Dark",
+                        "grid": "44x35",
+                        "pack": "76_Underdark_Spider_Titan",
+                        "releaseurl": "WIP",
+                        "sibling": "76-05_Spider_Walking_on_top-4k_Scen",
+                        "type": "Battlemap",
+                        "thumbnail": "76-05_Spider_Walking_on_top-4k_bm.webp",
+                        "videourl": "WIP",
+                        "download_pack": "Underdark Spider Titan - 76",
+                        "download_terms": "BM: Spider Walking on top",
+                        "download_creator": "Beneos Battlemaps"
+                      }
+                            },
+                            "76-05_Spider_Walking_on_top-4k_Scen":{
+                                "name":"Spider Walking on top",
+                                "description":"",
+                              "properties": {
+                                "adventure": [ "None" ],
+                                "biom": [ "Underdark", "Underground", "Cave", "Monster", "Special" ],
+                                "brightness": "Dark",
+                                "grid": "44x35",
+                                "pack": "76_Underdark_Spider_Titan",
+                                "releaseurl": "WIP",
+                                "sibling": "76-05_Spider_Walking_on_top-4k_BM",
+                                "type": "Scenery",
+                                "thumbnail": "76-05_Spider_Walking_on_top-4k_scen.webp",
+                                "videourl": "WIP",
+                                "download_pack": "Underdark Spider Titan - 76",
+                                "download_terms": "SC: Spider Walking on top",
+                                "download_creator": "Beneos Battlemaps"
+                              }
+                    },
+                    "76-06_Naked_Spider_waiting-4k_BM":{
+                        "name":"Naked Spider waiting",
+                        "description":"",
+                      "properties": {
+                        "adventure": [ "None" ],
+                        "biom": [ "Underdark", "Underground", "Cave", "Monster", "Special" ],
+                        "brightness": "Dark",
+                        "grid": "35x35",
+                        "pack": "76_Underdark_Spider_Titan",
+                        "releaseurl": "WIP",
+                        "sibling": "76-06_Naked_Spider_waiting-4k_Scen",
+                        "type": "Battlemap",
+                        "thumbnail": "76-06_Naked_Spider_waiting-4k_bm.webp",
+                        "videourl": "WIP",
+                        "download_pack": "Underdark Spider Titan - 76",
+                        "download_terms": "BM: Naked Spider waiting",
+                        "download_creator": "Beneos Battlemaps"
+                      }
+                            },
+                            "76-06_Naked_Spider_waiting-4k_Scen":{
+                                "name":"Naked Spider waiting",
+                                "description":"",
+                              "properties": {
+                                "adventure": [ "None" ],
+                                "biom": [ "Underdark", "Underground", "Cave", "Monster", "Special" ],
+                                "brightness": "Dark",
+                                "grid": "35x35",
+                                "pack": "76_Underdark_Spider_Titan",
+                                "releaseurl": "WIP",
+                                "sibling": "76-06_Naked_Spider_waiting-4k_BM",
+                                "type": "Scenery",
+                                "thumbnail": "76-06_Naked_Spider_waiting-4k_scen.webp",
+                                "videourl": "WIP",
+                                "download_pack": "Underdark Spider Titan - 76",
+                                "download_terms": "SC: Naked Spider waiting",
+                                "download_creator": "Beneos Battlemaps"
+                              }
+                    },
+                    "76-07_Naked_waiting_on_top-4k_BM":{
+                        "name":"Naked waiting on top",
+                        "description":"",
+                      "properties": {
+                        "adventure": [ "None" ],
+                        "biom": [ "Underdark", "Underground", "Cave", "Monster", "Special" ],
+                        "brightness": "Dark",
+                        "grid": "44x35",
+                        "pack": "76_Underdark_Spider_Titan",
+                        "releaseurl": "WIP",
+                        "sibling": "76-07_Naked_waiting_on_top-4k_Scen",
+                        "type": "Battlemap",
+                        "thumbnail": "76-07_Naked_waiting_on_top-4k_bm.webp",
+                        "videourl": "WIP",
+                        "download_pack": "Underdark Spider Titan - 76",
+                        "download_terms": "BM: Naked waiting on top",
+                        "download_creator": "Beneos Battlemaps"
+                      }
+                            },
+                            "76-07_Naked_waiting_on_top-4k_Scen":{
+                                "name":"Naked waiting on top",
+                                "description":"",
+                              "properties": {
+                                "adventure": [ "None" ],
+                                "biom": [ "Underdark", "Underground", "Cave", "Monster", "Special" ],
+                                "brightness": "Dark",
+                                "grid": "44x35",
+                                "pack": "76_Underdark_Spider_Titan",
+                                "releaseurl": "WIP",
+                                "sibling": "76-07_Naked_waiting_on_top-4k_BM",
+                                "type": "Scenery",
+                                "thumbnail": "76-07_Naked_waiting_on_top-4k_scen.webp",
+                                "videourl": "WIP",
+                                "download_pack": "Underdark Spider Titan - 76",
+                                "download_terms": "SC: Naked waiting on top",
+                                "download_creator": "Beneos Battlemaps"
+                              }
+                    },
+                    "76-08_Naked_Spider_Fighting-4k_BM":{
+                        "name":"Naked Spider Fighting",
+                        "description":"",
+                      "properties": {
+                        "adventure": [ "None" ],
+                        "biom": [ "Underdark", "Underground", "Cave", "Monster", "Special" ],
+                        "brightness": "Dark",
+                        "grid": "35x35",
+                        "pack": "76_Underdark_Spider_Titan",
+                        "releaseurl": "WIP",
+                        "sibling": "76-08_Naked_Spider_Fighting-4k_Scen",
+                        "type": "Battlemap",
+                        "thumbnail": "76-08_Naked_Spider_Fighting-4k_bm.webp",
+                        "videourl": "WIP",
+                        "download_pack": "Underdark Spider Titan - 76",
+                        "download_terms": "BM: Naked Spider Fighting",
+                        "download_creator": "Beneos Battlemaps"
+                      }
+                            },
+                            "76-08_Naked_Spider_Fighting-4k_Scen":{
+                                "name":"Naked Spider Fighting",
+                                "description":"",
+                              "properties": {
+                                "adventure": [ "None" ],
+                                "biom": [ "Underdark", "Underground", "Cave", "Monster", "Special" ],
+                                "brightness": "Dark",
+                                "grid": "35x35",
+                                "pack": "76_Underdark_Spider_Titan",
+                                "releaseurl": "WIP",
+                                "sibling": "76-08_Naked_Spider_Fighting-4k_BM",
+                                "type": "Scenery",
+                                "thumbnail": "76-08_Naked_Spider_Fighting-4k_scen.webp",
+                                "videourl": "WIP",
+                                "download_pack": "Underdark Spider Titan - 76",
+                                "download_terms": "SC: Naked Spider Fighting",
+                                "download_creator": "Beneos Battlemaps"
+                              }
+                    },
+                    "76-09_Naked_Spider_Fighting_on_top-4k_BM":{
+                        "name":"Naked Spider Fighting on top",
+                        "description":"",
+                      "properties": {
+                        "adventure": [ "None" ],
+                        "biom": [ "Underdark", "Underground", "Cave", "Monster", "Special" ],
+                        "brightness": "Dark",
+                        "grid": "44x35",
+                        "pack": "76_Underdark_Spider_Titan",
+                        "releaseurl": "WIP",
+                        "sibling": "76-09_Naked_Spider_Fighting_on_top-4k_Scen",
+                        "type": "Battlemap",
+                        "thumbnail": "76-09_Naked_Spider_Fighting_on_top-4k_bm.webp",
+                        "videourl": "WIP",
+                        "download_pack": "Underdark Spider Titan - 76",
+                        "download_terms": "BM: Naked Spider Fighting on top",
+                        "download_creator": "Beneos Battlemaps"
+                      }
+                            },
+                            "76-09_Naked_Spider_Fighting_on_top-4k_Scen":{
+                                "name":"Naked Spider Fighting on top",
+                                "description":"",
+                              "properties": {
+                                "adventure": [ "None" ],
+                                "biom": [ "Underdark", "Underground", "Cave", "Monster", "Special" ],
+                                "brightness": "Dark",
+                                "grid": "44x35",
+                                "pack": "76_Underdark_Spider_Titan",
+                                "releaseurl": "WIP",
+                                "sibling": "76-09_Naked_Spider_Fighting_on_top-4k_BM",
+                                "type": "Scenery",
+                                "thumbnail": "76-09_Naked_Spider_Fighting_on_top-4k_scen.webp",
+                                "videourl": "WIP",
+                                "download_pack": "Underdark Spider Titan - 76",
+                                "download_terms": "SC: Naked Spider Fighting on top",
+                                "download_creator": "Beneos Battlemaps"
+                              }
+                    },
+                    "76-10_Naked_Spider_Walking_on_top-4k_BM":{
+                        "name":"Naked Spider Walking on top",
+                        "description":"",
+                      "properties": {
+                        "adventure": [ "None" ],
+                        "biom": [ "Underdark", "Underground", "Cave", "Monster", "Special" ],
+                        "brightness": "Dark",
+                        "grid": "44x35",
+                        "pack": "76_Underdark_Spider_Titan",
+                        "releaseurl": "WIP",
+                        "sibling": "76-10_Naked_Spider_Walking_on_top-4k_Scen",
+                        "type": "Battlemap",
+                        "thumbnail": "76-10_Naked_Spider_Walking_on_top-4k_bm.webp",
+                        "videourl": "WIP",
+                        "download_pack": "Underdark Spider Titan - 76",
+                        "download_terms": "BM: Naked Spider Walking on top",
+                        "download_creator": "Beneos Battlemaps"
+                      }
+                            },
+                            "76-10_Naked_Spider_Walking_on_top-4k_Scen":{
+                                "name":"Naked Spider Walking on top",
+                                "description":"",
+                              "properties": {
+                                "adventure": [ "None" ],
+                                "biom": [ "Underdark", "Underground", "Cave", "Monster", "Special" ],
+                                "brightness": "Dark",
+                                "grid": "44x35",
+                                "pack": "76_Underdark_Spider_Titan",
+                                "releaseurl": "WIP",
+                                "sibling": "76-10_Naked_Spider_Walking_on_top-4k_BM",
+                                "type": "Scenery",
+                                "thumbnail": "76-10_Naked_Spider_Walking_on_top-4k_scen.webp",
+                                "videourl": "WIP",
+                                "download_pack": "Underdark Spider Titan - 76",
+                                "download_terms": "SC: Naked Spider Walking on top",
+                                "download_creator": "Beneos Battlemaps"
+                              }
                             }
                         }
                     }
