@@ -10334,7 +10334,7 @@
           "planar",
           "abyssal"
         ],
-        "cr": "1/2",
+        "cr": "0.5",
         "fightingstyle": [
           "Pack",
           "Melee"
@@ -10378,7 +10378,7 @@
           "planar",
           "abyssal"
         ],
-        "cr": "1/2",
+        "cr": "0.5",
         "fightingstyle": [
           "Pack",
           "Melee"
@@ -10422,7 +10422,7 @@
           "planar",
           "abyssal"
         ],
-        "cr": "1/2",
+        "cr": "0.5",
         "fightingstyle": [
           "Pack",
           "Melee"
@@ -10466,7 +10466,7 @@
           "planar",
           "abyssal"
         ],
-        "cr": "1/2",
+        "cr": "0.5",
         "fightingstyle": [
           "Pack",
           "Melee"
@@ -10510,7 +10510,7 @@
           "planar",
           "abyssal"
         ],
-        "cr": "1/2",
+        "cr": "0.5",
         "fightingstyle": [
           "Pack",
           "Melee"
@@ -14229,7 +14229,7 @@
       "name": "Dwarven Battlemason",
       "properties": {
         "biom": ["Dungeon","City","Mountain","Underground","Civilized"],
-        "cr": "6s",
+        "cr": "6",
         "fightingstyle": ["Melee"],
         "movement": ["Walk"],
         "purpose": ["Tank","Support"],
@@ -14259,8 +14259,8 @@
         "cr": "9",
         "fightingstyle": ["Ambusher","Swallow"],
         "movement": ["Burrow"],
-        "purpose": ["Gimmick","Pressure","Gimmick"],
-        "releaseurl": "",
+        "purpose": ["Gimmick","Pressure"],
+        "releaseurl": "https://www.patreon.com/posts/100525714",
         "size": "Huge",
         "stat_ac": 17,
         "stat_cha": 1,
@@ -14275,7 +14275,7 @@
           "monstrosity"
           
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/LvzRqj2hkTM?si=-cP1Vv4iT-IK2fYS"
     }
     },
     "152_tunnelterror_gorgewormling": {
@@ -14287,7 +14287,7 @@
         "fightingstyle": ["Pack","Simple"],
         "movement": ["Burrow"],
         "purpose": ["Gimmick","Minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/100525714",
         "size": "Small",
         "stat_ac": 11,
         "stat_cha": 1,
@@ -14302,7 +14302,7 @@
           "monstrosity"
           
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/LvzRqj2hkTM?si=-cP1Vv4iT-IK2fYS"
     }
     },
     "152_tunnelterror_gorgeworm_broodspawn": {
@@ -14311,10 +14311,10 @@
       "properties": {
         "biom": ["Dungeon","Wasteland","Mountain","Underground","Desert"],
         "cr": "0.25",
-        "fightingstyle": ["Pack","Simple"],
+        "fightingstyle": ["Simple"],
         "movement": ["Burrow"],
         "purpose": ["Gimmick","Minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/100525714",
         "size": "Small",
         "stat_ac": 6,
         "stat_cha": 1,
@@ -14329,7 +14329,7 @@
           "monstrosity"
           
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/LvzRqj2hkTM?si=-cP1Vv4iT-IK2fYS"
     }
   }
   }
