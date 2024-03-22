@@ -14331,6 +14331,60 @@
         ],
         "videourl": "https://youtu.be/LvzRqj2hkTM?si=-cP1Vv4iT-IK2fYS"
     }
+    },
+    "153_mummy_tombthrall_1": {
+      "description": "Tomb-Thralls were low-ranking devotees who did not necessarily follow their sovereign into death and embalmment willingly. In their current unliving state, their position remains unchanged, rendering them the lowest in hierarchy yet the numerically strongest force, reanimated by the transcendent power of their sovereign, blurring the boundaries between life and death. They serve either to protect their master’s tomb, prepare for his return, or, if he has already risen, to march at the forefront against the living.",
+      "name": "Mummy Tombthrall 1",
+      "properties": {
+        "biom": ["Desert","Dungeon","Graves","Horror","Mountain","Jungle"],
+        "cr": "2",
+        "fightingstyle": ["melee","pack"],
+        "movement": ["Walk"],
+        "purpose": ["minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 6,
+        "stat_con": 17,
+        "stat_dex": 6,
+        "stat_hp": 30,
+        "stat_int": 4,
+        "stat_str": 16,
+        "stat_wis": 12,
+        "thumbnail": "153_mummy_tombthrall_1-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": ""
+    }
+    },
+    "153_mummy_tombthrall_2": {
+      "description": "Tomb-Thralls were low-ranking devotees who did not necessarily follow their sovereign into death and embalmment willingly. In their current unliving state, their position remains unchanged, rendering them the lowest in hierarchy yet the numerically strongest force, reanimated by the transcendent power of their sovereign, blurring the boundaries between life and death. They serve either to protect their master’s tomb, prepare for his return, or, if he has already risen, to march at the forefront against the living.",
+      "name": "Mummy Tombthrall 2",
+      "properties": {
+        "biom": ["Desert","Dungeon","Graves","Horror","Mountain","Jungle"],
+        "cr": "2",
+        "fightingstyle": ["melee","pack"],
+        "movement": ["Walk"],
+        "purpose": ["minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 6,
+        "stat_con": 17,
+        "stat_dex": 6,
+        "stat_hp": 30,
+        "stat_int": 4,
+        "stat_str": 16,
+        "stat_wis": 12,
+        "thumbnail": "153_mummy_tombthrall_2-idle_face_still.webp",
+        "type": [
+          "undead",
+          ""
+        ],
+        "videourl": ""
+    }
   }
   }
   }
