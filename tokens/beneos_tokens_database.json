@@ -14332,9 +14332,9 @@
         "videourl": "https://youtu.be/LvzRqj2hkTM?si=-cP1Vv4iT-IK2fYS"
     }
     },
-    "153_mummy_tombthrall_1": {
-      "description": "Tomb-Thralls were low-ranking devotees who did not necessarily follow their sovereign into death and embalmment willingly. In their current unliving state, their position remains unchanged, rendering them the lowest in hierarchy yet the numerically strongest force, reanimated by the transcendent power of their sovereign, blurring the boundaries between life and death. They serve either to protect their master’s tomb, prepare for his return, or, if he has already risen, to march at the forefront against the living.",
-      "name": "Mummy Tombthrall 1",
+    "153_mummy_tomb_thrall_1": {
+      "description": "Tomb Thralls were low-ranking devotees who did not necessarily follow their sovereign into death and embalmment willingly. In their current unliving state, their position remains unchanged, rendering them the lowest in hierarchy yet the numerically strongest force, reanimated by the transcendent power of their sovereign, blurring the boundaries between life and death. They serve either to protect their master’s tomb, prepare for his return, or, if he has already risen, to march at the forefront against the living.",
+      "name": "Mummy Tomb-Thrall",
       "properties": {
         "biom": ["Desert","Dungeon","Graves","Horror","Mountain","Jungle"],
         "cr": "2",
@@ -14351,17 +14351,16 @@
         "stat_int": 4,
         "stat_str": 16,
         "stat_wis": 12,
-        "thumbnail": "153_mummy_tombthrall_1-idle_face_still.webp",
+        "thumbnail": "153_mummy_tomb_thrall_1-idle_face_still.webp",
         "type": [
-          "undead",
-          ""
+          "undead"
         ],
         "videourl": ""
     }
     },
-    "153_mummy_tombthrall_2": {
-      "description": "Tomb-Thralls were low-ranking devotees who did not necessarily follow their sovereign into death and embalmment willingly. In their current unliving state, their position remains unchanged, rendering them the lowest in hierarchy yet the numerically strongest force, reanimated by the transcendent power of their sovereign, blurring the boundaries between life and death. They serve either to protect their master’s tomb, prepare for his return, or, if he has already risen, to march at the forefront against the living.",
-      "name": "Mummy Tombthrall 2",
+    "153_mummy_tomb_thrall_2": {
+      "description": "Tomb Thralls were low-ranking devotees who did not necessarily follow their sovereign into death and embalmment willingly. In their current unliving state, their position remains unchanged, rendering them the lowest in hierarchy yet the numerically strongest force, reanimated by the transcendent power of their sovereign, blurring the boundaries between life and death. They serve either to protect their master’s tomb, prepare for his return, or, if he has already risen, to march at the forefront against the living.",
+      "name": "Mummy Tomb-Thrall",
       "properties": {
         "biom": ["Desert","Dungeon","Graves","Horror","Mountain","Jungle"],
         "cr": "2",
@@ -14378,10 +14377,9 @@
         "stat_int": 4,
         "stat_str": 16,
         "stat_wis": 12,
-        "thumbnail": "153_mummy_tombthrall_2-idle_face_still.webp",
+        "thumbnail": "153_mummy_tomb_thrall_2-idle_face_still.webp",
         "type": [
-          "undead",
-          ""
+          "undead"
         ],
         "videourl": ""
     }
