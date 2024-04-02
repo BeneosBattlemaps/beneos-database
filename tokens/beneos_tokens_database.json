@@ -14341,7 +14341,7 @@
         "fightingstyle": ["melee","pack"],
         "movement": ["Walk"],
         "purpose": ["minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/mummy-tomb-100915018",
         "size": "Medium",
         "stat_ac": 15,
         "stat_cha": 6,
@@ -14355,7 +14355,7 @@
         "type": [
           "undead"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/OrHkY6pOYUk?si=dAowNc0C8PGU1KxU"
     }
     },
     "153_mummy_tomb_thrall_2": {
@@ -14367,7 +14367,7 @@
         "fightingstyle": ["melee","pack"],
         "movement": ["Walk"],
         "purpose": ["minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/mummy-tomb-100915018",
         "size": "Medium",
         "stat_ac": 15,
         "stat_cha": 6,
@@ -14378,6 +14378,86 @@
         "stat_str": 16,
         "stat_wis": 12,
         "thumbnail": "153_mummy_tomb_thrall_2-idle_face_still.webp",
+        "type": [
+          "undead"
+        ],
+        "videourl": "https://youtu.be/OrHkY6pOYUk?si=dAowNc0C8PGU1KxU"
+  
+    }
+    },
+    "154_awakened_armor": {
+      "description": "In a world teeming with dragons, magic, or extraplanar incursions, some hardened adventurers lose respect for the simple dangers of the adventurer’s life. An awakened armor stands as a towering suit of plate mail, devoid of the any weaknesses imposed by organic parts. It feels no pain and knows no mercy; the armor is a tool of overwhelming violence, advancing unstoppably through arrow volleys, hostile terrain or arcane fire.",
+      "name": "AWakened Armor",
+      "properties": {
+        "biom": ["Dungeon","Graves","Civilized"],
+        "cr": "4",
+        "fightingstyle": ["Ambush","Interactive"],
+        "movement": ["Walk"],
+        "purpose": ["Debuff","Tank"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 18,
+        "stat_cha": 6,
+        "stat_con": 17,
+        "stat_dex": 6,
+        "stat_hp": 30,
+        "stat_int": 1,
+        "stat_str": 16,
+        "stat_wis": 12,
+        "thumbnail": "154_awakened_armor-idle_face_still.webp",
+        "type": [
+          "construct"
+        ],
+        "videourl": "https://youtu.be/T0CZM05P91w?si=sxnTrycGmR8qbE2U"
+    }
+    },
+    "155_undead_deplorable_horde": {
+      "description": "Deplorables is a catch-all term for undead creatures barely held together by waning dregs of necromantic energies coursing through their clotted veins. Reduced to decaying husks by ages of service, starvation or especially hostile working conditions, Deplorables make for the bottom tier of undead operatives. But as long as their bones haven‘t been ground to dust and their flesh hasn‘t fully withered, they keep on, shambling, crawling and creeping forwards at the behest of their dark masters, compensating their lack of redeeming qualities with sheer numbers and their indisputable tenacity. Often, these deplorables band together into hordes, descending upon living beings like waves of withered flesh and missing limbs.",
+      "name": "Undead Deplorable Horde",
+      "properties": {
+        "biom": ["Dungeon","Graves","Horror","Wilderness","Road"],
+        "cr": "3",
+        "fightingstyle": ["Simple","Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 18,
+        "stat_cha": 6,
+        "stat_con": 17,
+        "stat_dex": 6,
+        "stat_hp": 30,
+        "stat_int": 1,
+        "stat_str": 16,
+        "stat_wis": 12,
+        "thumbnail": "155_undead_deplorable_horde-idle_face_still.webp",
+        "type": [
+          "undead",
+          "swarm"
+        ],
+        "videourl": ""
+    }
+    },
+    "155_undead_deplorable": {
+      "description": "Deplorables is a catch-all term for undead creatures barely held together by waning dregs of necromantic energies coursing through their clotted veins. Reduced to decaying husks by ages of service, starvation or especially hostile working conditions, Deplorables make for the bottom tier of undead operatives. But as long as their bones haven‘t been ground to dust and their flesh hasn‘t fully withered, they keep on, shambling, crawling and creeping forwards at the behest of their dark masters, compensating their lack of redeeming qualities with sheer numbers and their indisputable tenacity. Often, these deplorables band together into hordes, descending upon living beings like waves of withered flesh and missing limbs.",
+      "name": "Undead Deplorable",
+      "properties": {
+        "biom": ["Dungeon","Graves","Horror","Wilderness","Road"],
+        "cr": "3",
+        "fightingstyle": ["Simple","Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 18,
+        "stat_cha": 6,
+        "stat_con": 17,
+        "stat_dex": 6,
+        "stat_hp": 30,
+        "stat_int": 1,
+        "stat_str": 16,
+        "stat_wis": 12,
+        "thumbnail": "155_undead_deplorable-idle_face_still.webp",
         "type": [
           "undead"
         ],
