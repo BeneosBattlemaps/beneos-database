@@ -10334,7 +10334,7 @@
           "planar",
           "abyssal"
         ],
-        "cr": "1/2",
+        "cr": "0.5",
         "fightingstyle": [
           "Pack",
           "Melee"
@@ -10378,7 +10378,7 @@
           "planar",
           "abyssal"
         ],
-        "cr": "1/2",
+        "cr": "0.5",
         "fightingstyle": [
           "Pack",
           "Melee"
@@ -10422,7 +10422,7 @@
           "planar",
           "abyssal"
         ],
-        "cr": "1/2",
+        "cr": "0.5",
         "fightingstyle": [
           "Pack",
           "Melee"
@@ -10466,7 +10466,7 @@
           "planar",
           "abyssal"
         ],
-        "cr": "1/2",
+        "cr": "0.5",
         "fightingstyle": [
           "Pack",
           "Melee"
@@ -10510,7 +10510,7 @@
           "planar",
           "abyssal"
         ],
-        "cr": "1/2",
+        "cr": "0.5",
         "fightingstyle": [
           "Pack",
           "Melee"
@@ -14179,7 +14179,7 @@
         "fightingstyle": ["Demanding","Leader"],
         "movement": ["Walk"],
         "purpose": ["Boss","Debuff"],
-        "releaseurl": "",
+        "releaseurl": "https://beneos-battlemaps.com/de/products/beneos-tokens-weavstress-dreamweavers",
         "size": "Gargantuan",
         "stat_ac": 18,
         "stat_cha": 22,
@@ -14194,7 +14194,7 @@
           "monstrosity"
           
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/DmhpGCSxs-Y?si=k3-G_gtYT0uQYJQR"
     }
     },
     "000_month_12_dreamweaver": {
@@ -14206,7 +14206,7 @@
         "fightingstyle": ["Simple"],
         "movement": ["Walk"],
         "purpose": ["Minion","Gimmick"],
-        "releaseurl": "",
+        "releaseurl": "https://beneos-battlemaps.com/de/products/beneos-tokens-weavstress-dreamweavers",
         "size": "Small",
         "stat_ac": 14,
         "stat_cha": 3,
@@ -14220,6 +14220,246 @@
         "type": [
           "monstrosity"
           
+        ],
+        "videourl": "https://youtu.be/DmhpGCSxs-Y?si=k3-G_gtYT0uQYJQR"
+    }
+    },
+    "151_dwarven_battlemason": {
+      "description": "Battle-Masons epitomize the convergence of artisanal skill and martial expertise, exemplifying dwarven virtues. Hardened veterans and master craftsmen, they operate and fight in the most adverse conditions, often deployed during sieges or subterranean conflicts. Battle-Masons do not settle for just clearing a tunnel or capturing an enemy position. Materials are reinforced, equipment is set up instantly, and a position is only vacated when it is in better condition than when it was captured. Stern and steadfast, they are the reliable force to turn to in times of crisis, offering expertise in high-pressure environments.",
+      "name": "Dwarven Battlemason",
+      "properties": {
+        "biom": ["Dungeon","City","Mountain","Underground","Civilized"],
+        "cr": "6",
+        "fightingstyle": ["Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Tank","Support"],
+        "releaseurl": "https://www.patreon.com/posts/dwarven-battle-100093090",
+        "size": "Medium",
+        "stat_ac": 20,
+        "stat_cha": 12,
+        "stat_con": 18,
+        "stat_dex": 8,
+        "stat_hp": 85,
+        "stat_int": 15,
+        "stat_str": 18,
+        "stat_wis": 18,
+        "thumbnail": "151_dwarven_battlemason-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "Dwarf"
+        ],
+        "videourl": "https://youtu.be/VBcr9TwxMaY"
+    }
+    },
+    "152_tunnelterror_gorgeworm": {
+      "description": "When a Gorgewormling detects a rich food source or manages to attach unnoticed as a parasite to larger beings, it rapidly grows to immense size. The fully grown Gorgeworm, driven mad by hunger, then burrows through the earth, devouring everything that falls within the reach of its scythe-like mandibles. Though tenacious prey may escape from the worm’s gullet, they are often left with a Broodspawn attached, an undulating egg sac from which the asexually produced offspring of the worm hatch.",
+      "name": "Tunnelterror Gorgeworm",
+      "properties": {
+        "biom": ["Dungeon","Wasteland","Mountain","Underground","Desert"],
+        "cr": "9",
+        "fightingstyle": ["Ambusher","Swallow"],
+        "movement": ["Burrow"],
+        "purpose": ["Gimmick","Pressure"],
+        "releaseurl": "https://www.patreon.com/posts/100525714",
+        "size": "Huge",
+        "stat_ac": 17,
+        "stat_cha": 1,
+        "stat_con": 18,
+        "stat_dex": 16,
+        "stat_hp": 167,
+        "stat_int": 3,
+        "stat_str": 20,
+        "stat_wis": 11,
+        "thumbnail": "152_tunnelterror_gorgeworm-idle_face_still.webp",
+        "type": [
+          "monstrosity"
+          
+        ],
+        "videourl": "https://youtu.be/LvzRqj2hkTM?si=-cP1Vv4iT-IK2fYS"
+    }
+    },
+    "152_tunnelterror_gorgewormling": {
+      "description": "When a Gorgewormling detects a rich food source or manages to attach unnoticed as a parasite to larger beings, it rapidly grows to immense size. The fully grown Gorgeworm, driven mad by hunger, then burrows through the earth, devouring everything that falls within the reach of its scythe-like mandibles. Though tenacious prey may escape from the worm’s gullet, they are often left with a Broodspawn attached, an undulating egg sac from which the asexually produced offspring of the worm hatch.",
+      "name": "Tunnelterror Gorgewormling",
+      "properties": {
+        "biom": ["Dungeon","Wasteland","Mountain","Underground","Desert"],
+        "cr": "0.25",
+        "fightingstyle": ["Pack","Simple"],
+        "movement": ["Burrow"],
+        "purpose": ["Gimmick","Minion"],
+        "releaseurl": "https://www.patreon.com/posts/100525714",
+        "size": "Small",
+        "stat_ac": 11,
+        "stat_cha": 1,
+        "stat_con": 12,
+        "stat_dex": 5,
+        "stat_hp": 9,
+        "stat_int": 1,
+        "stat_str": 6,
+        "stat_wis": 10,
+        "thumbnail": "152_tunnelterror_gorgewormling-idle_face_still.webp",
+        "type": [
+          "monstrosity"
+          
+        ],
+        "videourl": "https://youtu.be/LvzRqj2hkTM?si=-cP1Vv4iT-IK2fYS"
+    }
+    },
+    "152_tunnelterror_gorgeworm_broodspawn": {
+      "description": "When a Gorgewormling detects a rich food source or manages to attach unnoticed as a parasite to larger beings, it rapidly grows to immense size. The fully grown Gorgeworm, driven mad by hunger, then burrows through the earth, devouring everything that falls within the reach of its scythe-like mandibles. Though tenacious prey may escape from the worm’s gullet, they are often left with a Broodspawn attached, an undulating egg sac from which the asexually produced offspring of the worm hatch.",
+      "name": "Tunnelterror Gorgeworm Broodspawn",
+      "properties": {
+        "biom": ["Dungeon","Wasteland","Mountain","Underground","Desert"],
+        "cr": "0.25",
+        "fightingstyle": ["Simple"],
+        "movement": ["Burrow"],
+        "purpose": ["Gimmick","Minion"],
+        "releaseurl": "https://www.patreon.com/posts/100525714",
+        "size": "Small",
+        "stat_ac": 6,
+        "stat_cha": 1,
+        "stat_con": 1,
+        "stat_dex": 1,
+        "stat_hp": 16,
+        "stat_int": 1,
+        "stat_str": 1,
+        "stat_wis": 1,
+        "thumbnail": "152_tunnelterror_gorgeworm_broodspawn-idle_face_still.webp",
+        "type": [
+          "monstrosity"
+          
+        ],
+        "videourl": "https://youtu.be/LvzRqj2hkTM?si=-cP1Vv4iT-IK2fYS"
+    }
+    },
+    "153_mummy_tomb_thrall_1": {
+      "description": "Tomb Thralls were low-ranking devotees who did not necessarily follow their sovereign into death and embalmment willingly. In their current unliving state, their position remains unchanged, rendering them the lowest in hierarchy yet the numerically strongest force, reanimated by the transcendent power of their sovereign, blurring the boundaries between life and death. They serve either to protect their master’s tomb, prepare for his return, or, if he has already risen, to march at the forefront against the living.",
+      "name": "Mummy Tomb-Thrall",
+      "properties": {
+        "biom": ["Desert","Dungeon","Graves","Horror","Mountain","Jungle"],
+        "cr": "2",
+        "fightingstyle": ["melee","pack"],
+        "movement": ["Walk"],
+        "purpose": ["minion"],
+        "releaseurl": "https://www.patreon.com/posts/mummy-tomb-100915018",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 6,
+        "stat_con": 17,
+        "stat_dex": 6,
+        "stat_hp": 30,
+        "stat_int": 4,
+        "stat_str": 16,
+        "stat_wis": 12,
+        "thumbnail": "153_mummy_tomb_thrall_1-idle_face_still.webp",
+        "type": [
+          "undead"
+        ],
+        "videourl": "https://youtu.be/OrHkY6pOYUk?si=dAowNc0C8PGU1KxU"
+    }
+    },
+    "153_mummy_tomb_thrall_2": {
+      "description": "Tomb Thralls were low-ranking devotees who did not necessarily follow their sovereign into death and embalmment willingly. In their current unliving state, their position remains unchanged, rendering them the lowest in hierarchy yet the numerically strongest force, reanimated by the transcendent power of their sovereign, blurring the boundaries between life and death. They serve either to protect their master’s tomb, prepare for his return, or, if he has already risen, to march at the forefront against the living.",
+      "name": "Mummy Tomb-Thrall",
+      "properties": {
+        "biom": ["Desert","Dungeon","Graves","Horror","Mountain","Jungle"],
+        "cr": "2",
+        "fightingstyle": ["melee","pack"],
+        "movement": ["Walk"],
+        "purpose": ["minion"],
+        "releaseurl": "https://www.patreon.com/posts/mummy-tomb-100915018",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 6,
+        "stat_con": 17,
+        "stat_dex": 6,
+        "stat_hp": 30,
+        "stat_int": 4,
+        "stat_str": 16,
+        "stat_wis": 12,
+        "thumbnail": "153_mummy_tomb_thrall_2-idle_face_still.webp",
+        "type": [
+          "undead"
+        ],
+        "videourl": "https://youtu.be/OrHkY6pOYUk?si=dAowNc0C8PGU1KxU"
+  
+    }
+    },
+    "154_awakened_armor": {
+      "description": "In a world teeming with dragons, magic, or extraplanar incursions, some hardened adventurers lose respect for the simple dangers of the adventurer’s life. An awakened armor stands as a towering suit of plate mail, devoid of the any weaknesses imposed by organic parts. It feels no pain and knows no mercy; the armor is a tool of overwhelming violence, advancing unstoppably through arrow volleys, hostile terrain or arcane fire.",
+      "name": "AWakened Armor",
+      "properties": {
+        "biom": ["Dungeon","Graves","Civilized"],
+        "cr": "4",
+        "fightingstyle": ["Ambush","Interactive"],
+        "movement": ["Walk"],
+        "purpose": ["Debuff","Tank"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 18,
+        "stat_cha": 6,
+        "stat_con": 17,
+        "stat_dex": 6,
+        "stat_hp": 30,
+        "stat_int": 1,
+        "stat_str": 16,
+        "stat_wis": 12,
+        "thumbnail": "154_awakened_armor-idle_face_still.webp",
+        "type": [
+          "construct"
+        ],
+        "videourl": "https://youtu.be/T0CZM05P91w?si=sxnTrycGmR8qbE2U"
+    }
+    },
+    "155_undead_deplorable_horde": {
+      "description": "Deplorables is a catch-all term for undead creatures barely held together by waning dregs of necromantic energies coursing through their clotted veins. Reduced to decaying husks by ages of service, starvation or especially hostile working conditions, Deplorables make for the bottom tier of undead operatives. But as long as their bones haven‘t been ground to dust and their flesh hasn‘t fully withered, they keep on, shambling, crawling and creeping forwards at the behest of their dark masters, compensating their lack of redeeming qualities with sheer numbers and their indisputable tenacity. Often, these deplorables band together into hordes, descending upon living beings like waves of withered flesh and missing limbs.",
+      "name": "Undead Deplorable Horde",
+      "properties": {
+        "biom": ["Dungeon","Graves","Horror","Wilderness","Road"],
+        "cr": "3",
+        "fightingstyle": ["Simple","Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 18,
+        "stat_cha": 6,
+        "stat_con": 17,
+        "stat_dex": 6,
+        "stat_hp": 30,
+        "stat_int": 1,
+        "stat_str": 16,
+        "stat_wis": 12,
+        "thumbnail": "155_undead_deplorable_horde-idle_face_still.webp",
+        "type": [
+          "undead",
+          "swarm"
+        ],
+        "videourl": ""
+    }
+    },
+    "155_undead_deplorable": {
+      "description": "Deplorables is a catch-all term for undead creatures barely held together by waning dregs of necromantic energies coursing through their clotted veins. Reduced to decaying husks by ages of service, starvation or especially hostile working conditions, Deplorables make for the bottom tier of undead operatives. But as long as their bones haven‘t been ground to dust and their flesh hasn‘t fully withered, they keep on, shambling, crawling and creeping forwards at the behest of their dark masters, compensating their lack of redeeming qualities with sheer numbers and their indisputable tenacity. Often, these deplorables band together into hordes, descending upon living beings like waves of withered flesh and missing limbs.",
+      "name": "Undead Deplorable",
+      "properties": {
+        "biom": ["Dungeon","Graves","Horror","Wilderness","Road"],
+        "cr": "3",
+        "fightingstyle": ["Simple","Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 18,
+        "stat_cha": 6,
+        "stat_con": 17,
+        "stat_dex": 6,
+        "stat_hp": 30,
+        "stat_int": 1,
+        "stat_str": 16,
+        "stat_wis": 12,
+        "thumbnail": "155_undead_deplorable-idle_face_still.webp",
+        "type": [
+          "undead"
         ],
         "videourl": ""
     }

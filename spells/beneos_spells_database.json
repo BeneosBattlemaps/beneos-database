@@ -834,5 +834,310 @@
         "icon": "0035_relive-icon.webp"
     
     }
+  },
+    "0036_numerology": {
+      "key": "0036_numerology",
+      "description": "You ask a question and receive a single number an answer.",
+      "name": "Numerology",
+      "properties": {
+        "level": "1",
+        "school": "Divination",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "true",
+        "classes": ["Cleric Warlock Sorcerer Wizard"],
+        "components": ["V S M"],
+        "icon": "0036_numerology-icon.webp"
+      }
+    },
+    "0037_bulwark_of_faith": {
+      "key": "0037_bulwark_of_faith",
+      "description": "At the cost of half your movement speed, you grant nearby allies half cover, as their faith in you provides you with temporary hit points in turn.",
+      "name": "Bulwark Of Faith",
+      "properties": {
+        "level": "3",
+        "school": "Abjuration",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": true,
+        "spell_type": "false",
+        "classes": ["Paladin"],
+        "components": ["V S"],
+        "icon": "0037_bulwark_of_faith-icon.webp"
+      }
+    },
+    "0038_grand_entrance": {
+      "key": "0038_grand_entrance",
+      "description": "Your magnificent presence upon entering combat provides temporary hit points to your allies and weakens your enemies' resolve, possibly frightening them.",
+      "name": "Grand Entrance",
+      "properties": {
+        "level": "2",
+        "school": "Enchantment",
+        "casting_time": "Reaction",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "false",
+        "classes": ["Bard Paladin Warlock Sorcerer"],
+        "components": ["V S M"],
+        "icon": "0038_grand_entrance-icon.webp"
+      }
+    },
+    "0039_stormsong": {
+      "key": "0039_stormsong",
+      "description": "Your words carry the power of the storm, empowering a creature's movement with the speed of lightning and its attacks with the fury of thunder.",
+      "name": "Stormsong",
+      "properties": {
+        "level": "1",
+        "school": "Evocation",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": true,
+        "spell_type": "false",
+        "classes": ["Bard Cleric Druid Ranger"],
+        "components": ["V S M"],
+        "icon": "0039_stormsong-icon.webp"
+}
+    },
+    "0000_paladin_pack_1_bladevow": {
+      "key": "0000_paladin_pack_1_bladevow",
+      "description": "Vow to make a number of attacks, each one increasing your chance to hit, but forcing you to only attack and possibly meditate on your failings if do not uphold your vow.",
+      "name": "Paladin Pack 1 Bladevow",
+      "properties": {
+        "level": "2",
+        "school": "Evocation",
+        "casting_time": "Bonus Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "false",
+        "classes": ["Paladin"],
+        "components": ["V M"],
+        "icon": "0000_paladin_pack_1_bladevow-icon.webp"
+      }
+    },
+    "0000_paladin_pack_1_blessed_battlegrounds": {
+      "key": "0000_paladin_pack_1_blessed_battlegrounds",
+      "description": "This sanctified space grants magical potency to non-magical weapon attacks against fiends and undead, weakening their vitality and hindering their ability to resist death.",
+      "name": "Paladin Pack 1 Blessed Battlegrounds",
+      "properties": {
+        "level": "1",
+        "school": "Evocation",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "false",
+        "classes": ["Cleric Paladin"],
+        "components": ["V S M"],
+        "icon": "0000_paladin_pack_1_blessed_battlegrounds-icon.webp"
+      }
+    },
+    "0000_paladin_pack_1_bloodrain": {
+      "key": "0000_paladin_pack_1_bloodrain",
+      "description": "Sacrifice your own life force to either deal damage or heal creatures within an area, at the cost of reducing your maximum hit points until you rest.",
+      "name": "Paladin Pack 1 Bloodrain",
+      "properties": {
+        "level": "3",
+        "school": "Necromancy",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "false",
+        "classes": ["Paladin Warlock"],
+        "components": ["V S"],
+        "icon": "0000_paladin_pack_1_bloodrain-icon.webp"
+      }
+    },
+    "0000_paladin_pack_1_cavalcade": {
+      "key": "0000_paladin_pack_1_cavalcade",
+      "description": "This spell summons spectral mounts for you and your allies,  granting a bonus move and attack, when beginning combat in formation.",
+      "name": "Paladin Pack 1 Cavalcade",
+      "properties": {
+        "level": "3",
+        "school": "Conjuration",
+        "casting_time": "10 Minutes",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "false",
+        "classes": ["Paladin"],
+        "components": ["V S M"],
+        "icon": "0000_paladin_pack_1_cavalcade-icon.webp"
+      }
+    },
+    "0000_paladin_pack_1_chalice_of_charity": {
+      "key": "0000_paladin_pack_1_chalice_of_charity",
+      "description": "Fill a chalice with healing nectar from your lay on hands pool, which can be consumed to regain hit points by drinking or pouring into another creature's mouth.",
+      "name": "Paladin Pack 1 Chalice Of Charity",
+      "properties": {
+        "level": "2",
+        "school": "Abjuration",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "false",
+        "classes": ["Paladin"],
+        "components": ["V S M"],
+        "icon": "0000_paladin_pack_1_chalice_of_charity-icon.webp"
+      }
+    },
+    "0000_paladin_pack_1_death_oath": {
+      "key": "0000_paladin_pack_1_death_oath",
+      "description": "You return to consciousness with 1 hit point after being reduced to 0 hit points, with the condition that you must confront the creature responsible, up to three times.",
+      "name": "Paladin Pack 1 Death Oath",
+      "properties": {
+        "level": "3",
+        "school": "Evocation",
+        "casting_time": "Reaction",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "false",
+        "classes": ["Warlock Paladin"],
+        "components": ["V"],
+        "icon": "0000_paladin_pack_1_death_oath-icon.webp"
+      }
+    },
+    "0000_paladin_pack_1_desperate_plea-icon": {
+      "key": "0000_paladin_pack_1_desperate_plea-icon",
+      "description": "This spell temporarily grants you the ability to cast a chosen spell without it counting against your usual preparation limit.",
+      "name": "Paladin Pack 1 Desperate Plea-icon",
+      "properties": {
+        "level": "1",
+        "school": "Evocation",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "false",
+        "classes": ["Cleric Paladin"],
+        "components": ["V S M"],
+        "icon": "0000_paladin_pack_1_desperate_plea-icon-icon.webp"
+      }
+    },
+    "0000_paladin_pack_1_ironclad": {
+      "key": "0000_paladin_pack_1_ironclad",
+      "description": "Once you've ritually bound a suit of armor to you, you can instantly equip it using this spell, conjuring it up from thin air.",
+      "name": "Paladin Pack 1 Ironclad",
+      "properties": {
+        "level": "1",
+        "school": "Conjuration",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "true",
+        "classes": ["Paladin"],
+        "components": ["V S"],
+        "icon": "0000_paladin_pack_1_ironclad-icon.webp"
+      }
+    },
+    "0000_paladin_pack_1_onwards": {
+      "key": "0000_paladin_pack_1_onwards",
+      "description": "Using a reaction triggered by your war cry, allies within range can move freely and swiftly towards you, unaffected by obstacles or attacks of opportunity.",
+      "name": "Paladin Pack 1 Onwards",
+      "properties": {
+        "level": "1",
+        "school": "Enchantment",
+        "casting_time": "Bonus Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "false",
+        "classes": ["Paladin"],
+        "components": ["V S M"],
+        "icon": "0000_paladin_pack_1_onwards-icon.webp"
+      }
+    },
+    "0000_paladin_pack_1_raise_banner": {
+      "key": "0000_paladin_pack_1_raise_banner",
+      "description": "Plant your banner, allowing your allies to benefit from your Aura of Protection while within range.",
+      "name": "Paladin Pack 1 Raise Banner",
+      "properties": {
+        "level": "3",
+        "school": "Abjuration",
+        "casting_time": "Bonus Action",
+        "concentration": true,
+        "ritual": true,
+        "spell_type": "false",
+        "classes": ["Paladin"],
+        "components": ["V S"],
+        "icon": "0000_paladin_pack_1_raise_banner-icon.webp"
+      }
+    },
+    "0000_paladin_pack_1_shieldwall": {
+      "key": "0000_paladin_pack_1_shieldwall",
+      "description": "Become part of a spectral shield wall, bolstering your defenses and providing cover for allies while blocking and dealing radiant damage to nearby enemies.",
+      "name": "Paladin Pack 1 Shieldwall",
+      "properties": {
+        "level": "4",
+        "school": "Abjuration",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": true,
+        "spell_type": "false",
+        "classes": ["Paladin"],
+        "components": ["V S M"],
+        "icon": "0000_paladin_pack_1_shieldwall-icon.webp"
+      }
+    },
+    "0000_paladin_pack_1_shoulder_the_burden": {
+      "key": "0000_paladin_pack_1_shoulder_the_burden",
+      "description": "Granting allies near-immunity to death, the spell ensures they are reduced to 1 hit point instead of 0, with the caster potentially reviving if they die from the strain of sustaining their comrades.",
+      "name": "Paladin Pack 1 Shoulder The Burden",
+      "properties": {
+        "level": "4",
+        "school": "Abjuration",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "false",
+        "classes": ["Paladin"],
+        "components": ["V S"],
+        "icon": "0000_paladin_pack_1_shoulder_the_burden-icon.webp"
+      }
+    },
+    "0000_paladin_pack_1_chalice_of_charity": {
+      "key": "0000_paladin_pack_1_chalice_of_charity",
+      "description": "Fill a chalice with healing nectar from your lay on hands pool, which can be consumed to regain hit points by drinking or pouring into another creature's mouth.",
+      "name": "Paladin Pack 1 Chalice Of Charity",
+      "properties": {
+        "level": "2",
+        "school": "Abjuration",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "false",
+        "classes": ["Paladin"],
+        "components": ["V S M"],
+        "icon": "0000_paladin_pack_1_chalice_of_charity-icon.webp"
+      }
+    },
+    "0000_paladin_pack_1_desperate_plea": {
+      "key": "0000_paladin_pack_1_desperate_plea",
+      "description": "This spell temporarily grants you the ability to cast a chosen spell without it counting against your usual preparation limit.",
+      "name": "Paladin Pack 1 Desperate Plea",
+      "properties": {
+        "level": "1",
+        "school": "Evocation",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "false",
+        "classes": ["Cleric Paladin"],
+        "components": ["V S M"],
+        "icon": "0000_paladin_pack_1_desperate_plea-icon.webp"
+      }
+    },
+    "0000_paladin_pack_1_shieldwall": {
+      "key": "0000_paladin_pack_1_shieldwall",
+      "description": "Become part of a spectral shield wall, bolstering your defenses and providing cover for allies while blocking and dealing radiant damage to nearby enemies.",
+      "name": "Paladin Pack 1 Shieldwall",
+      "properties": {
+        "level": "4",
+        "school": "Abjuration",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": true,
+        "spell_type": "false",
+        "classes": ["Paladin"],
+        "components": ["V S M"],
+        "icon": "0000_paladin_pack_1_shieldwall-icon.webp"
+      }
+    }
   }
-}}
+}
