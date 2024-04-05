@@ -33040,6 +33040,386 @@
                                 "download_terms": "SC: Naked Spider Walking on top",
                                 "download_creator": "Beneos Battlemaps"
                               }
+                    },
+                    "77-01_Boat_Canal_Daylight-4k_BM":{
+                        "name":"Boat Canal Daylight",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
+                        "brightness":"Bright",
+                        "grid":"33x23",
+                        "pack":"77_Smuggler_Boat_Pack",
+                        "releaseurl":"WIP",
+                        "sibling":"77-01_Boat_Canal_Daylight-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"77-01_Boat_Canal_Daylight-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Smuggler Boat - 77",
+                        "download_terms": "BM: 01 Canal Day",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "77-01_Boat_Canal_Daylight-4k_Scen":{
+                                "name":"Boat Canal Daylight",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
+                                "brightness":"Bright",
+                                "grid":"33x23",
+                                "pack":"77_Smuggler_Boat_Pack",
+                                "releaseurl":"WIP",
+                                "sibling":"77-01_Boat_Canal_Daylight-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"77-01_Boat_Canal_Daylight-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Smuggler Boat - 77",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "77-02_Boat_Canal_Dark-4k_BM":{
+                        "name":"Boat Canal Dark",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water","Horror"],
+                        "brightness":"Dark",
+                        "grid":"33x23",
+                        "pack":"77_Smuggler_Boat_Pack",
+                        "releaseurl":"WIP",
+                        "sibling":"77-02_Boat_Canal_Dark-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"77-02_Boat_Canal_Dark-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Smuggler Boat - 77",
+                        "download_terms": "BM: 02 Canal Dark",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "77-02_Boat_Canal_Dark-4k_Scen":{
+                                "name":"Boat Canal Dark",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water","Horror"],
+                                "brightness":"Dark",
+                                "grid":"33x23",
+                                "pack":"77_Smuggler_Boat_Pack",
+                                "releaseurl":"WIP",
+                                "sibling":"77-02_Boat_Canal_Dark-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"77-02_Boat_Canal_Dark-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Smuggler Boat - 77",
+                                "download_terms": "SC: 02 Canal Dark",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "77-03_Boat_Camp-4k_BM":{
+                        "name":"Boat Camp",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Civilizied","Exteriour", "Ship","Vehicle", "Camp","Night","Water"],
+                        "brightness":"Dark",
+                        "grid":"30x25",
+                        "pack":"77_Smuggler_Boat_Pack",
+                        "releaseurl":"WIP",
+                        "sibling":"77-03_Boat_Camp-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"77-03_Boat_Camp-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Smuggler Boat - 77",
+                        "download_terms": "BM: 03 Camp",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "77-03_Boat_Camp-4k_Scen":{
+                                "name":"Boat Camp",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Civilizied","Exteriour", "Ship","Vehicle", "Camp","Night","Water"],
+                                "brightness":"Dark",
+                                "grid":"30x25",
+                                "pack":"77_Smuggler_Boat_Pack",
+                                "releaseurl":"WIP",
+                                "sibling":"77-03_Boat_Camp-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"77-03_Boat_Camp-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Smuggler Boat - 77",
+                                "download_terms": "SC: 03 Camp",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "77-04_Boat_Lake_Moving-4k_BM":{
+                        "name":"Boat Lake Moving",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
+                        "brightness":"Bright",
+                        "grid":"32x18",
+                        "pack":"77_Smuggler_Boat_Pack",
+                        "releaseurl":"WIP",
+                        "sibling":"77-04_Boat_Lake_Moving-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"77-04_Boat_Lake_Moving-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Smuggler Boat - 77",
+                        "download_terms": "BM: 04 Lake Moving",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "77-04_Boat_Lake_Moving-4k_Scen":{
+                                "name":"Boat Lake Moving",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
+                                "brightness":"Bright",
+                                "grid":"32x18",
+                                "pack":"77_Smuggler_Boat_Pack",
+                                "releaseurl":"WIP",
+                                "sibling":"77-04_Boat_Lake_Moving-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"77-04_Boat_Lake_Moving-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Smuggler Boat - 77",
+                                "download_terms": "SC: 04 Lake Moving",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "77-05_Boat_Lake_Still-4k_BM":{
+                        "name":"Boat Lake Still",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"77_Smuggler_Boat_Pack",
+                        "releaseurl":"WIP",
+                        "sibling":"77-05_Boat_Lake_Still-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"77-05_Boat_Lake_Still-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Smuggler Boat - 77",
+                        "download_terms": "BM: 05 Lake Still",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "77-05_Boat_Lake_Still-4k_Scen":{
+                                "name":"Boat Lake Still",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"77_Smuggler_Boat_Pack",
+                                "releaseurl":"WIP",
+                                "sibling":"77-05_Boat_Lake_Still-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"77-05_Boat_Lake_Still-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Smuggler Boat - 77",
+                                "download_terms": "SC: 05 Lake Still",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "77-06_Boat_Dock-4k_BM":{
+                        "name":"Boat Dock",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water","Harbour"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"77_Smuggler_Boat_Pack",
+                        "releaseurl":"WIP",
+                        "sibling":"77-06_Boat_Dock-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"77-06_Boat_Dock-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Smuggler Boat - 77",
+                        "download_terms": "BM: 06 Smuggler Dock",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "77-06_Boat_Dock-4k_Scen":{
+                                "name":"Boat Dock",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water","Harbour"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"77_Smuggler_Boat_Pack",
+                                "releaseurl":"WIP",
+                                "sibling":"77-06_Boat_Dock-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"77-06_Boat_Dock-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Smuggler Boat - 77",
+                                "download_terms": "SC: 06 Smuggler Dock",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "77-07_Boat_Ocean_Moving-4k_BM":{
+                        "name":"Boat Ocean Moving",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Civilizied","Exteriour", "Ship","Vehicle","Ocean","Water"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"77_Smuggler_Boat_Pack",
+                        "releaseurl":"WIP",
+                        "sibling":"77-07_Boat_Ocean_Moving-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"77-07_Boat_Ocean_Moving-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Smuggler Boat - 77",
+                        "download_terms": "BM: 07 Ocean Day",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "77-07_Boat_Ocean_Moving-4k_Scen":{
+                                "name":"Boat Ocean Moving",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Civilizied","Exteriour", "Ship","Vehicle","Ocean","Water"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"77_Smuggler_Boat_Pack",
+                                "releaseurl":"WIP",
+                                "sibling":"77-07_Boat_Ocean_Moving-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"77-07_Boat_Ocean_Moving-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Smuggler Boat - 77",
+                                "download_terms": "SC: 07 Ocean Day",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "77-08_Boat_Ocean_Still-4k_BM":{
+                        "name":"Boat Ocean Still",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Civilizied","Exteriour", "Ship","Vehicle","Ocean","Water"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"77_Smuggler_Boat_Pack",
+                        "releaseurl":"WIP",
+                        "sibling":"77-08_Boat_Ocean_Still-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"77-08_Boat_Ocean_Still-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Smuggler Boat - 77",
+                        "download_terms": "BM: 08 Ocean Still",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "77-08_Boat_Ocean_Still-4k_Scen":{
+                                "name":"Boat Ocean Still",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Civilizied","Exteriour", "Ship","Vehicle","Ocean","Water"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"77_Smuggler_Boat_Pack",
+                                "releaseurl":"WIP",
+                                "sibling":"77-08_Boat_Ocean_Still-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"77-08_Boat_Ocean_Still-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Smuggler Boat - 77",
+                                "download_terms": "SC: 08 Ocean Still",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "77-09_Boat_Ocean_Storm-4k_BM":{
+                        "name":"Boat Ocean Storm",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Civilizied","Exteriour", "Ship","Vehicle","Ocean","Water","Storm"],
+                        "brightness":"Dark",
+                        "grid":"32x18",
+                        "pack":"77_Smuggler_Boat_Pack",
+                        "releaseurl":"WIP",
+                        "sibling":"77-09_Boat_Ocean_Storm-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"77-09_Boat_Ocean_Storm-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Smuggler Boat - 77",
+                        "download_terms": "BM: 09 Ocean Storm",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "77-09_Boat_Ocean_Storm-4k_Scen":{
+                                "name":"Boat Ocean Storm",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Civilizied","Exteriour", "Ship","Vehicle","Ocean","Water","Storm"],
+                                "brightness":"Dark",
+                                "grid":"32x18",
+                                "pack":"77_Smuggler_Boat_Pack",
+                                "releaseurl":"WIP",
+                                "sibling":"77-09_Boat_Ocean_Storm-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"77-09_Boat_Ocean_Storm-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Smuggler Boat - 77",
+                                "download_terms": "SC: 09 Ocean Storm",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "77-10_Boat_Wreck-4k_BM":{
+                        "name":"Boat Wreck",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Civilizied","Exteriour", "Ship","Vehicle","Ocean","Water","Beach","Wreckage"],
+                        "brightness":"Bright",
+                        "grid":"32x18",
+                        "pack":"77_Smuggler_Boat_Pack",
+                        "releaseurl":"WIP",
+                        "sibling":"77-10_Boat_Wreck-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"77-10_Boat_Wreck-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Smuggler Boat - 77",
+                        "download_terms": "BM: 10 Ship Wreck",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "77-10_Boat_Wreck-4k_Scen":{
+                                "name":"Boat Wreck",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Civilizied","Exteriour", "Ship","Vehicle","Ocean","Water","Beach","Wreckage"],
+                                "brightness":"Bright",
+                                "grid":"32x18",
+                                "pack":"77_Smuggler_Boat_Pack",
+                                "releaseurl":"WIP",
+                                "sibling":"77-10_Boat_Wreck-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"77-10_Boat_Wreck-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Smuggler Boat - 77",
+                                "download_terms": "SC: 10 Ship Wreck",
+                                "download_creator": "Beneos Battlemaps"
+                                }
                             }
                         }
                     }
