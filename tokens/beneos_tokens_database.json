@@ -4404,7 +4404,7 @@
       "name": "Ossian Debt Collector",
       "properties": {
         "biom": [],
-        "cr": "7",
+        "cr": "6",
         "fightingstyle": [
           "tactical",
           "Interactive",
@@ -14394,7 +14394,7 @@
         "fightingstyle": ["Ambush","Interactive"],
         "movement": ["Walk"],
         "purpose": ["Debuff","Tank"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/awakened-armor-101549906",
         "size": "Medium",
         "stat_ac": 18,
         "stat_cha": 6,
@@ -14411,33 +14411,6 @@
         "videourl": "https://youtu.be/T0CZM05P91w?si=sxnTrycGmR8qbE2U"
     }
     },
-    "155_undead_deplorable_horde": {
-      "description": "Deplorables is a catch-all term for undead creatures barely held together by waning dregs of necromantic energies coursing through their clotted veins. Reduced to decaying husks by ages of service, starvation or especially hostile working conditions, Deplorables make for the bottom tier of undead operatives. But as long as their bones haven‘t been ground to dust and their flesh hasn‘t fully withered, they keep on, shambling, crawling and creeping forwards at the behest of their dark masters, compensating their lack of redeeming qualities with sheer numbers and their indisputable tenacity. Often, these deplorables band together into hordes, descending upon living beings like waves of withered flesh and missing limbs.",
-      "name": "Undead Deplorable Horde",
-      "properties": {
-        "biom": ["Dungeon","Graves","Horror","Wilderness","Road"],
-        "cr": "3",
-        "fightingstyle": ["Simple","Melee"],
-        "movement": ["Walk"],
-        "purpose": ["Minion"],
-        "releaseurl": "",
-        "size": "Huge",
-        "stat_ac": 18,
-        "stat_cha": 6,
-        "stat_con": 17,
-        "stat_dex": 6,
-        "stat_hp": 30,
-        "stat_int": 1,
-        "stat_str": 16,
-        "stat_wis": 12,
-        "thumbnail": "155_undead_deplorable_horde-idle_face_still.webp",
-        "type": [
-          "undead",
-          "swarm"
-        ],
-        "videourl": ""
-    }
-    },
     "155_undead_deplorable": {
       "description": "Deplorables is a catch-all term for undead creatures barely held together by waning dregs of necromantic energies coursing through their clotted veins. Reduced to decaying husks by ages of service, starvation or especially hostile working conditions, Deplorables make for the bottom tier of undead operatives. But as long as their bones haven‘t been ground to dust and their flesh hasn‘t fully withered, they keep on, shambling, crawling and creeping forwards at the behest of their dark masters, compensating their lack of redeeming qualities with sheer numbers and their indisputable tenacity. Often, these deplorables band together into hordes, descending upon living beings like waves of withered flesh and missing limbs.",
       "name": "Undead Deplorable",
@@ -14447,7 +14420,7 @@
         "fightingstyle": ["Simple","Melee"],
         "movement": ["Walk"],
         "purpose": ["Minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/undead-deplorabe-101815324",
         "size": "Medium",
         "stat_ac": 18,
         "stat_cha": 6,
@@ -14460,6 +14433,85 @@
         "thumbnail": "155_undead_deplorable-idle_face_still.webp",
         "type": [
           "undead"
+        ],
+        "videourl": "https://youtu.be/LOBbzz3cu6c?si=mY1br7jtftKCRj2V"
+    }
+    },
+    "155_undead_deplorable_horde": {
+      "description": "Deplorables is a catch-all term for undead creatures barely held together by waning dregs of necromantic energies coursing through their clotted veins. Reduced to decaying husks by ages of service, starvation or especially hostile working conditions, Deplorables make for the bottom tier of undead operatives. But as long as their bones haven‘t been ground to dust and their flesh hasn‘t fully withered, they keep on, shambling, crawling and creeping forwards at the behest of their dark masters, compensating their lack of redeeming qualities with sheer numbers and their indisputable tenacity. Often, these deplorables band together into hordes, descending upon living beings like waves of withered flesh and missing limbs.",
+      "name": "Undead Deplorable Horde",
+      "properties": {
+        "biom": ["Dungeon","Graves","Horror","Wilderness","Road"],
+        "cr": "2",
+        "fightingstyle": ["Simple","Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "https://www.patreon.com/posts/undead-deplorabe-101815324",
+        "size": "Huge",
+        "stat_ac": 8,
+        "stat_cha": 1,
+        "stat_con": 15,
+        "stat_dex": 6,
+        "stat_hp": 42,
+        "stat_int": 3,
+        "stat_str": 15,
+        "stat_wis": 10,
+        "thumbnail": "155_undead_deplorable_horde-idle_face_still.webp",
+        "type": [
+          "undead",
+          "swarm"
+        ],
+        "videourl": "https://youtu.be/LOBbzz3cu6c?si=mY1br7jtftKCRj2V"
+    }
+    },
+    "000_month_13_chimera": {
+      "description": "Technically, any monstrosity combining the traits of various beasts within a creature is a chimera. But there are instances, where magical happenstance, particularly repulsive instances of procreation or especially ambitious broodmasters create something greater than the sum of its parts, a bestial force driven by a need for domination, channeling the pain and madness coursing through its unnatural body into a destructive force that is terrifying to behold.",
+      "name": "Chimera",
+      "properties": {
+        "biom": ["Dungeon","Mountain","Jungle","Wilderness","Road","Forest","Desert","Wasteland"],
+        "cr": "12",
+        "fightingstyle": ["Airborne","Tactical"],
+        "movement": ["Fly"],
+        "purpose": ["Gimmick","Boss"],
+        "releaseurl": "https://beneos-battlemaps.com/de/collections/animated-tokens/products/beneos-tokens-chimera",
+        "size": "Huge",
+        "stat_ac": 17,
+        "stat_cha": 15,
+        "stat_con": 19,
+        "stat_dex": 18,
+        "stat_hp": 240,
+        "stat_int": 13,
+        "stat_str": 22,
+        "stat_wis": 16,
+        "thumbnail": "000_month_13_chimera-idle_face_still.webp",
+        "type": [
+          "monstrosity"
+        ],
+        "videourl": "https://youtu.be/JOUNdJ203jU?si=l5EMZ_QhsjHnD6gh"
+    }
+    },
+    "156_carnax_hatchet_head": {
+      "description": "Carnax Hatchet-Hulks are formidable creatures, scaled behemoths resembling a green-scaled and axe-faced lump of stacked muscle mass moving with harrowing speed and bone-crushing momentum. Despite their ferocity, they are more complex than their bestial appearance and a cursory assessment of their behaviour lets on. It is common for a mature Carnax to seek an equal opponent in battle and, should they prove worthy, submit to them, forming a martial bond in and out of combat, mutually learning from one another as battle brothers, mutuals and mounts. Warriors able to forge such a bond with a Carnax often attain legendary renown, and the power of such a mighty ally often allows them to naturally or violently rise to the top of their respective hierarchical structures.",
+      "name": "Carnax Hatchet-Hulk",
+      "properties": {
+        "biom": ["Dungeon","Mountain","Jungle","Wilderness","Road","Forest","Desert","Wasteland","Swamp"],
+        "cr": "7",
+        "fightingstyle": ["Damage","Mobile"],
+        "movement": ["Walk"],
+        "purpose": ["Ally", "Mount","Gimmick","Pressure"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 17,
+        "stat_cha": 15,
+        "stat_con": 19,
+        "stat_dex": 18,
+        "stat_hp": 168,
+        "stat_int": 13,
+        "stat_str": 22,
+        "stat_wis": 16,
+        "thumbnail": "156_carnax_hatchet_head-idle_face_still.webp",
+        "type": [
+          "monstrosity"
         ],
         "videourl": ""
     }
