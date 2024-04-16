@@ -548,6 +548,90 @@
             "price": "1400",
             "icon": "0042_rothail_shortbow-icon.webp"
             }
+        },
+        "0043_conquerors_chalice": {
+            "key": "0043_conquerors_chalice",
+            "description": "Imbibe a worty enemy's life blood to increase your maximum hit points and terrorize its kindred.",
+            "name": "Conquerors Chalice",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": true,
+            "origin": "relic",
+            "item_type": "Trinket",
+            "tier": 1,
+            "price": "2100",
+            "icon": "0043_conquerors_chalice-icon.webp"
+            }
+        },
+        "0044_ghoulskin_gloves": {
+            "key": "0044_ghoulskin_gloves",
+            "description": "Made to hunt enormous prey, this knife increases the chance to score critical hits and always deals maximal weapon damage against Huge and larger creatures.",
+            "name": "Ghoulskin Gloves",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": true,
+            "origin": "occult",
+            "item_type": "Clothing",
+            "tier": 1,
+            "price": "1700",
+            "icon": "0044_ghoulskin_gloves-icon.webp"
+            }
+        },
+        "0043_conquerors_chalice": {
+            "key": "0043_conquerors_chalice",
+            "description": "Imbibe a worty enemy's life blood to increase your maximum hit points and terrorize its kindred.",
+            "name": "Conquerors Chalice",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": true,
+            "origin": "relic",
+            "item_type": "Trinket",
+            "tier": 1,
+            "price": "2100",
+            "icon": "0043_conquerors_chalice-icon.webp"
+            }
+        },
+        "0044_ghoulskin_gloves": {
+            "key": "0044_ghoulskin_gloves",
+            "description": "Made to hunt enormous prey, this knife increases the chance to score critical hits and always deals maximal weapon damage against Huge and larger creatures.",
+            "name": "Ghoulskin Gloves",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": true,
+            "origin": "occult",
+            "item_type": "Clothing",
+            "tier": 1,
+            "price": "1700",
+            "icon": "0044_ghoulskin_gloves-icon.webp"
+            }
+        },
+        "0045_bridgehead": {
+            "key": "0045_bridgehead",
+            "description": "This armor lets you either withstand a single instance of tremendous damage or pay a blood toll and pay it back.",
+            "name": "Bridgehead",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "blessed",
+            "item_type": "Heavy Armor",
+            "tier": 2,
+            "price": "5200",
+            "icon": "0045_bridgehead-icon.webp"
+            }
+        },
+        "0046_mourners_frock": {
+            "key": "0046_mourners_frock",
+            "description": "You gain access to two of the Mourner's signature spells, allowing you to stalk the mists in style.",
+            "name": "Mourners Frock",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": true,
+            "origin": "awoken",
+            "item_type": "Light Armor",
+            "tier": 2,
+            "price": "4700",
+            "icon": "0046_mourners_frock-icon.webp"
+            }
          }
        }
-}
+     }
