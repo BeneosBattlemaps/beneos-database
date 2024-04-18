@@ -1,0 +1,158 @@
+{
+	"hover": {
+		"origin": {
+			"vampiric": {
+				"message": "Vampiric: In their pursuit of mastery over the very life-essence that they so crave, Vampires have mastered many abhorrent methods of imbuing items with sanguine power."
+			},
+			"ancient": {
+				"message": "Ancient: These objects outlasted the rise and fall of empires and civilisations, their essence enriched by the gravitas of bygone days."
+			},
+			"awoken": {
+				"message": "Awoken: Some objects acquire magical properties by being shaped through continued and singular use, becoming a concrete object signifying and drawing strength from abstract concepts."
+			},
+			"arcane": {
+				"message": "Arcane: Some items are consciously imbued with magic upon their construction by their creators."
+			},
+			"crystalline": {
+				"message": "Crystalline: Throughout the mundane and planar realms, crystals act as conduits for all kinds of magic, with application in matters ranging from warfare to leisure activities or entertainment. "
+			},
+			"beastforged": {
+				"message": "Beastforged: Gear crafted from parts of a creature's inherent biology or physical makeup often retains some of the original creature's traits."
+			},
+			"druidic": {
+				"message": "Druidic: These objects often incorporate living organisms, carefully nurtured and motivated to share nature's gifts or dole out her wrath."
+			},
+			"dwarvenforged": {
+				"message": "Dwarvenforged: Unparalleled in their mastery over steel and stone, the dwarven forgemasters' creations are inimitable in their unique blend of practicability and craftsmanship."
+			},
+			"feywoven": {
+				"message": "Feywoven: Objects exemplifying the nature of the fair lords and ladies and their alien domain, equally plausible to have been brought into existence in pursuit of power or simply for fun."
+			},
+			"elemental": {
+				"message": "Elemental: Infused with the essences of the elemental planes, these objects often allow their users to harness the raw forces of the elements."
+			},
+			"giantforged": {
+				"message": "Giantforged: Whether forged on storm-wreathed peaks or within the boiling depths of volcanic magma chambers, these artifacts embody the indomitable elemental might of giant-kin."
+			},
+			"mutation": {
+				"message": "Mutation: Cells upon cells upon cells, two organisms fusing together in harmonious symbiosis."
+			},
+			"occult": {
+				"message": "Occult: Sinister in appearance and function, these items were created using forbidden knowledge or had their essence marred through vile use."
+			},
+			"primordial": {
+				"message": "Primordial: Remnants of a world that was, still drawing strength from the primal essences unleashed at the dawn of creation."
+			},
+			"relic": {
+				"message": "Relic: Exalted vestiges enwrapped by the gossamer strings of fate, their wielders burdened with the glorious purpose of changing the world for better or for worse."
+			},
+			"blessed": {
+				"message": "Blessed: Brimming with godly powers or bearing the stigmata of a saintly touch, blessed items are divine intention given form."
+			},
+			"sanctified": {
+				"message": "sanctified: These objects are ritually imbued with sacred purpose, each one a manifestation of unquestioning devotion."
+			},
+			"technoarcane": {
+				"message": "Technoarcane: There is power in the profane, be it the certainty of the clockwork or the energies harvested from coal and steel. Ingenuity knows no bounds and any sufficiently advanced technology is indistinguishable from magic."
+			}
+		},
+		"item_type": {
+			"Trinket": {
+				"message": "A small item or token that holds sentimental or narrative value."
+			},
+			"Melee Weapon": {
+				"message": "A tool to inflict physical damage, harm, or kill in close combat, differing in type and nature."
+			},
+			"Range Weapon": {
+				"message": "A tool to inflict physical damage, harm, or kill from afar, differing in impact and effective range."
+			},
+			"Consumable": {
+				"message": "Items whose effects activate after consumatation, generally with a limited amount of uses."
+			},
+			"Clothing": {
+				"message": "Boots, cloaks, hats or gloves - anything that might cover a body without offering the protection of armor."
+			},
+			"Tool": {
+				"message": "Specific devices to be used in particular situations."
+			},
+			"Natural": {
+				"message": "Weapons or other means of armament that are part of a creature's inherent biology or physical makeup."
+			},
+			"Heavy Armor": {
+				"message": "A full-body harness, crafted from metal or equally sturdy materials, requires great strength to wear but offers maximum protection"
+			},
+			"Medium Armor": {
+				"message": "Flexible materials reinforced with heavy elements, striking a deal between protection and mobility."
+			},
+			"Light Armor": {
+				"message": "Protective gear fashioned from light materials, preferred by combatants with superior agility or reflexes."
+			},
+			"Shield": {
+				"message": "Personal armor varying in shape or size, usually strapped to the wielder's arm, used to actively intercept attacks."
+			},
+			"Backpack": {
+				"message": "Varying containers usually strapped to a creature's back."
+			}
+		},
+		"tier": {
+			"1": {
+				"message": "(Level 1-5) These items have a minor, but flavourful effect, enhancing the player experience without overshadowing the class mechanics."
+			},
+			"2": {
+				"message": "(Level 6-10) These items provide meaningful gameplay variations and modifications of the core gameplay for experienced players."
+			},
+			"3": {
+				"message": "(Level 11-15) These items provide abilities that profit from advanced understanding of the game dynamics to utilize to great effect."
+			},
+			"4": {
+				"message": "(Level 16-20) These legendary weaponry and reality-defying artifacts boast exceedingly powerful effects necessary to weather the challenges of adventuring on the highest levels."
+			}
+		},
+		"spell_type": {
+			"Buff": {
+				"message": "Spells directly supporting your allies or strengthening yourself."
+			},
+			"Ranged Damage": {
+				"message": "Spells directly harming creatures from a distance."
+			},
+			"Melee Damage": {
+				"message": "Spells directly harming creatures within melee range."
+			},
+			"Area Effect": {
+				"message": "Spells either affecting targets within a specific area or the area itself."
+			},
+			"Curse": {
+				"message": "Spells compelling creatures to act in certain ways."
+			},
+			"Debuff": {
+				"message": "Spells hindering or weakening creatures."
+			},
+			"Immobilization": {
+				"message": "Spells preventing creatures from moving or even acting at all."
+			},
+			"Summon": {
+				"message": "Spells creating new entities on the battlefield, possibly acting on their own."
+			},
+			"Utility": {
+				"message": "Spells having a wide array of applications for varying situations."
+			},
+			"Mobility": {
+				"message": "Spells increasing movement speed, offering additional types of movement or genereally assist in overcoming environmental obstacles."
+			},
+			"Restoration": {
+				"message": "Spells removing negative status conditions or debilitating effects."
+			},
+			"Protection": {
+				"message": "Spells actively or passively negating or reducing damage to the caster or their allies as their primary purpose."
+			}
+		},
+		"installed": {
+			"installed": {
+				"message": "This content is available to you."
+			},
+			"not_installed": {
+				"message": "This content is currently not available to you."
+			}
+		}
+	}
+}

@@ -33420,6 +33420,234 @@
                                 "download_terms": "SC: 10 Ship Wreck",
                                 "download_creator": "Beneos Battlemaps"
                                 }
+                    },
+                    "78-01_Antlers_Tavern_Normal_1F-4k_BM":{
+                        "name":"Antlers Tavern Normal 1F",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Decent into Avernus"],
+                        "biom":["Civilizied","Interiour", "Tavern"],
+                        "brightness":"Medium",
+                        "grid":"34x28",
+                        "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
+                        "releaseurl":"WIP",
+                        "sibling":"78-01_Antlers_Tavern_Normal_1F-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"78-01_Antlers_Tavern_Normal_1F-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA 01 A Pair of Two Antlers Tavern",
+                        "download_terms": "BM: 1 F",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "78-01_Antlers_Tavern_Normal_1F-4k_Scen":{
+                                "name":"Antlers Tavern Normal 1F",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Decent into Avernus"],
+                                "biom":["Civilizied","Interiour", "Tavern"],
+                                "brightness":"Medium",
+                                "grid":"34x28",
+                                "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
+                                "releaseurl":"WIP",
+                                "sibling":"78-01_Antlers_Tavern_Normal_1F-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"78-01_Antlers_Tavern_Normal_1F-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA 01 A Pair of Two Antlers Tavern",
+                                "download_terms": "SC: 1 F",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "78-02_Antlers_Tavern_Normal_2F-4k_BM":{
+                        "name":"Antlers Tavern Normal 2F",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Decent into Avernus"],
+                        "biom":["Civilizied","Interiour", "Tavern"],
+                        "brightness":"Medium",
+                        "grid":"34x28",
+                        "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
+                        "releaseurl":"WIP",
+                        "sibling":"78-02_Antlers_Tavern_Normal_2F-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"78-02_Antlers_Tavern_Normal_2F-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA 01 A Pair of Two Antlers Tavern",
+                        "download_terms": "BM: 2 F",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "78-02_Antlers_Tavern_Normal_2F-4k_Scen":{
+                                "name":"Antlers Tavern Normal 2F",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Decent into Avernus"],
+                                "biom":["Civilizied","Interiour", "Tavern"],
+                                "brightness":"Medium",
+                                "grid":"34x28",
+                                "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
+                                "releaseurl":"WIP",
+                                "sibling":"78-02_Antlers_Tavern_Normal_2F-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"78-02_Antlers_Tavern_Normal_2F-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA 01 A Pair of Two Antlers Tavern",
+                                "download_terms": "SC: 2 F",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "78-03_Antlers_Tavern_Normal_Roof-4k_BM":{
+                        "name":"Antlers Tavern Normal Roof",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Decent into Avernus"],
+                        "biom":["Civilizied","Exteriour","Roof","Tavern","Hell"],
+                        "brightness":"Medium",
+                        "grid":"29x25",
+                        "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
+                        "releaseurl":"WIP",
+                        "sibling":"78-03_Antlers_Tavern_Normal_Roof-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"78-03_Antlers_Tavern_Normal_Roof-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA 01 A Pair of Two Antlers Tavern",
+                        "download_terms": "BM: Roof",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "78-03_Antlers_Tavern_Normal_Roof-4k_Scen":{
+                                "name":"Antlers Tavern Normal Roof",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Decent into Avernus"],
+                                "biom":["Civilizied","Exteriour","Roof","Tavern","Hell"],
+                                "brightness":"Medium",
+                                "grid":"29x25",
+                                "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
+                                "releaseurl":"WIP",
+                                "sibling":"78-03_Antlers_Tavern_Normal_Roof-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"78-03_Antlers_Tavern_Normal_Roof-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA 01 A Pair of Two Antlers Tavern",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "78-04_Antlers_Tavern_Hell_1F-4k_BM":{
+                        "name":"Antlers Tavern Hell 1F",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Decent into Avernus"],
+                        "biom":["Civilizied","Interiour", "Tavern","Hell"],
+                        "brightness":"Medium",
+                        "grid":"34x28",
+                        "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
+                        "releaseurl":"WIP",
+                        "sibling":"78-04_Antlers_Tavern_Hell_1F-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"78-04_Antlers_Tavern_Hell_1F-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA 01 A Pair of Two Antlers Tavern",
+                        "download_terms": "BM: 1 F",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "78-04_Antlers_Tavern_Hell_1F-4k_Scen":{
+                                "name":"Antlers Tavern Hell 1F",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Decent into Avernus"],
+                                "biom":["Civilizied","Interiour", "Tavern","Hell"],
+                                "brightness":"Medium",
+                                "grid":"34x28",
+                                "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
+                                "releaseurl":"WIP",
+                                "sibling":"78-04_Antlers_Tavern_Hell_1F-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"78-04_Antlers_Tavern_Hell_1F-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA 01 A Pair of Two Antlers Tavern",
+                                "download_terms": "SC: 1 F",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "78-05_Antlers_Tavern_Hell_2F-4k_BM":{
+                        "name":"Antlers Tavern Hell 2F",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Decent into Avernus"],
+                        "biom":["Civilizied","Exteriour","Roof","Tavern","Hell"],
+                        "brightness":"Medium",
+                        "grid":"34x28",
+                        "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
+                        "releaseurl":"WIP",
+                        "sibling":"78-05_Antlers_Tavern_Hell_2F-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"78-05_Antlers_Tavern_Hell_2F-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA 01 A Pair of Two Antlers Tavern",
+                        "download_terms": "BM: 2 F",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "78-05_Antlers_Tavern_Hell_2F-4k_Scen":{
+                                "name":"Antlers Tavern Hell 2F",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Decent into Avernus"],
+                                "biom":["Civilizied","Exteriour","Roof","Tavern","Hell"],
+                                "brightness":"Medium",
+                                "grid":"34x28",
+                                "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
+                                "releaseurl":"WIP",
+                                "sibling":"78-05_Antlers_Tavern_Hell_2F-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"78-05_Antlers_Tavern_Hell_2F-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA 01 A Pair of Two Antlers Tavern",
+                                "download_terms": "SC: 2 F",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "78-06_Antlers_Tavern_Hell_Roof-4k_BM":{
+                        "name":"Antlers Tavern Hell Roof",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Decent into Avernus"],
+                        "biom":["Civilizied","Interiour", "Tavern"],
+                        "brightness":"Dark",
+                        "grid":"29x25",
+                        "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
+                        "releaseurl":"WIP",
+                        "sibling":"78-06_Antlers_Tavern_Hell_Roof-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"78-06_Antlers_Tavern_Hell_Roof-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA 01 A Pair of Two Antlers Tavern",
+                        "download_terms": "BM: Roof",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "78-06_Antlers_Tavern_Hell_Roof-4k_Scen":{
+                                "name":"Antlers Tavern Hell Roof",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Decent into Avernus"],
+                                "biom":["Civilizied","Interiour", "Tavern"],
+                                "brightness":"Dark",
+                                "grid":"29x25",
+                                "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
+                                "releaseurl":"WIP",
+                                "sibling":"78-06_Antlers_Tavern_Hell_Roof-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"78-06_Antlers_Tavern_Hell_Roof-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA 01 A Pair of Two Antlers Tavern",
+                                "download_terms": "SC: Roof",
+                                "download_creator": "Beneos Battlemaps"
+                                }
                             }
                         }
                     }
