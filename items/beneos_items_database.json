@@ -621,7 +621,7 @@
         },
         "0049_wrathfire_talisman": {
             "key": "0049_wrathfire_talisman",
-            "description": "Wreath yourself in scorching Wrathfire, granting you an extra attack, various damage resistances and extra fire damage at the low cost of turning into a blood-crazed maniac.",
+            "description": "Wreath yourself in scorching Wrathfire, granting you increased damage and resistance at the low cost of turning into a blood-crazed maniac.",
             "name": "Wrathfire Talisman",
             "properties": {
             "rarity": "Rare",
@@ -635,7 +635,7 @@
         },
         "0047_beast_hunters_cowl": {
             "key": "0047_beast_hunters_cowl",
-            "description": "Allows you to cast predatory focus, a spell that highlights vulnerable prey and increases your chance of a critical hit against it.",
+            "description": "Allows you to cast a spell that highlights vulnerable prey and increases your chance of a critical hit against it.",
             "name": "Beast Hunters Cowl",
             "properties": {
             "rarity": "Uncommon",
