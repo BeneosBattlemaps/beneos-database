@@ -632,6 +632,62 @@
             "price": "4700",
             "icon": "0046_mourners_frock-icon.webp"
             }
+        },
+        "0047_beast_hunters_cowl": {
+            "key": "0047_beast_hunters_cowl",
+            "description": "Allows you to cast predatory focus, a spell that highlights vulnerable prey and increases your chance of a critical hit against it.",
+            "name": "Beast Hunters Cowl",
+            "properties": {
+            "rarity": "Uncommon",
+            "attunement": true,
+            "origin": "beastforged",
+            "item_type": "Cloak",
+            "tier": 2,
+            "price": "2200",
+            "icon": "0047_beast_hunters_cowl-icon.webp"
+            }
+        },
+        "0048_fadesilk_shroud": {
+            "key": "0048_fadesilk_shroud",
+            "description": "Upon being discovered by a creature, possibly erase yourself from a creature's perception and memory.",
+            "name": "Fadesilk Shroud",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": true,
+            "origin": "arcane",
+            "item_type": "Cloak",
+            "tier": 2,
+            "price": "3200",
+            "icon": "0048_fadesilk_shroud-icon.webp"
+            }
+        },
+        "0049_foremans_flask": {
+            "key": "0049_foremans_flask",
+            "description": "Drink from the flask to benefit from a short rest. Do so secretly to also gain 2d10 temporary hit points.",
+            "name": "Foremans Flask",
+            "properties": {
+            "rarity": "Uncommon",
+            "attunement": true,
+            "origin": "dwarvenforged",
+            "item_type": "Trinket",
+            "tier": 1,
+            "price": "1700",
+            "icon": "0049_foremans_flask-icon.webp"
+            }
+        },
+        "0049_wrathfire_talisman": {
+            "key": "0049_wrathfire_talisman",
+            "description": "Wreath yourself in scorching Wrathfire, granting you an extra attack, various damage resistances and extra fire damage at the low cost of turning into a blood-crazed maniac.",
+            "name": "Wrathfire Talisman",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": true,
+            "origin": "infernal",
+            "item_type": "Trinket",
+            "tier": 2,
+            "price": "3800",
+            "icon": "0049_wrathfire_talisman-icon.webp"
+            }
          }
        }
      }

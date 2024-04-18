@@ -4709,18 +4709,17 @@
           "desert",
           "Coast"
         ],
-        "cr": "2",
+        "cr": "1",
         "fightingstyle": [
           "pack",
-          "Ambush",
-          "Melee"
+          "mobile"
         ],
         "movement": [
           "walk"
         ],
         "purpose": [
-          "damage",
-          "hunter"
+          "minion",
+          "simple"
         ],
         "releaseurl": "https://www.patreon.com/posts/swifttalon-is-63666888",
         "size": "medium",
@@ -14512,6 +14511,60 @@
         "thumbnail": "156_carnax_hatchet_head-idle_face_still.webp",
         "type": [
           "monstrosity"
+        ],
+        "videourl": ""
+    }
+    },
+    "047_swifttalon_raptor_2": {
+      "description": "Lightning fast, agile and deadly - Swifttalon Raptors showcase peak evolutionary efficiency. They hunt in small packs, stalking and outmaneuvering prey much larger than themselves. When the Raptors have their prey encircled, they first attack in waves, probing their quarry’s defenses and opening up gashing wounds with their crooked talons. Lastly they overwhelm with numbers, bearing down on their exhausted prey in a surge of scales, teeth and claws.",
+      "name": "Swifttalon Raptor",
+      "properties": {
+        "biom": ["Mountain","Jungle","Wilderness","Road","Forest","Desert","Wasteland","Swamp"],
+        "cr": "1",
+        "fightingstyle": ["Pack","Mobile"],
+        "movement": ["Walk"],
+        "purpose": ["Simple","Minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 14,
+        "stat_cha": 6,
+        "stat_con": 10,
+        "stat_dex": 16,
+        "stat_hp": 22,
+        "stat_int": 7,
+        "stat_str": 11,
+        "stat_wis": 12,
+        "thumbnail": "047_swifttalon_raptor_2-idle_face_still.webp",
+        "type": [
+          "beast",
+          "dinosaur"
+        ],
+        "videourl": ""
+    }
+    },
+    "047_swifttalon_raptor_3": {
+      "description": "Lightning fast, agile and deadly - Swifttalon Raptors showcase peak evolutionary efficiency. They hunt in small packs, stalking and outmaneuvering prey much larger than themselves. When the Raptors have their prey encircled, they first attack in waves, probing their quarry’s defenses and opening up gashing wounds with their crooked talons. Lastly they overwhelm with numbers, bearing down on their exhausted prey in a surge of scales, teeth and claws.",
+      "name": "Swifttalon Raptor",
+      "properties": {
+        "biom": ["Mountain","Jungle","Wilderness","Road","Forest","Desert","Wasteland","Swamp"],
+        "cr": "1",
+        "fightingstyle": ["Pack","Mobile"],
+        "movement": ["Walk"],
+        "purpose": ["Simple","Minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 14,
+        "stat_cha": 6,
+        "stat_con": 10,
+        "stat_dex": 16,
+        "stat_hp": 22,
+        "stat_int": 7,
+        "stat_str": 11,
+        "stat_wis": 12,
+        "thumbnail": "047_swifttalon_raptor_3-idle_face_still.webp",
+        "type": [
+          "beast",
+          "dinosaur"
         ],
         "videourl": ""
     }
