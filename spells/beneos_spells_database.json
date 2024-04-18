@@ -965,7 +965,7 @@
     },
     "0048_predatory_focus": {
       "key": "0048_predatory_focus",
-      "description": "As your focus sharpens, vulnerable prey is highlighted to you, allowing you to cull the herd with a exceptionally placed shot.",
+      "description": "As your focus sharpens, vulnerable prey is highlighted to you, allowing you to cull the herd with an exceptionally placed shot.",
       "name": "Predatory Focus",
       "properties": {
         "level": "1",
@@ -973,8 +973,8 @@
         "casting_time": "Bonus Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "false",
-        "classes": ["Druid Ranger"],
+        "spell_type": "Buff",
+        "classes": ["Druid", "Ranger"],
         "components": ["V S M"],
         "icon": "0048_predatory_focus-icon.webp"
       }
