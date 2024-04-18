@@ -514,7 +514,7 @@
             "properties": {
             "rarity": "Uncommon",
             "attunement": true,
-            "origin": "primordial",
+            "origin": "beastforged",
             "item_type": "Melee Weapon",
             "tier": 2,
             "price": "3600",
@@ -577,34 +577,6 @@
             "icon": "0044_ghoulskin_gloves-icon.webp"
             }
         },
-        "0043_conquerors_chalice": {
-            "key": "0043_conquerors_chalice",
-            "description": "Imbibe a worty enemy's life blood to increase your maximum hit points and terrorize its kindred.",
-            "name": "Conquerors Chalice",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "relic",
-            "item_type": "Trinket",
-            "tier": 1,
-            "price": "2100",
-            "icon": "0043_conquerors_chalice-icon.webp"
-            }
-        },
-        "0044_ghoulskin_gloves": {
-            "key": "0044_ghoulskin_gloves",
-            "description": "Made to hunt enormous prey, this knife increases the chance to score critical hits and always deals maximal weapon damage against Huge and larger creatures.",
-            "name": "Ghoulskin Gloves",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "occult",
-            "item_type": "Clothing",
-            "tier": 1,
-            "price": "1700",
-            "icon": "0044_ghoulskin_gloves-icon.webp"
-            }
-        },
         "0045_bridgehead": {
             "key": "0045_bridgehead",
             "description": "This armor lets you either withstand a single instance of tremendous damage or pay a blood toll and pay it back.",
@@ -633,34 +605,6 @@
             "icon": "0046_mourners_frock-icon.webp"
             }
         },
-        "0047_beast_hunters_cowl": {
-            "key": "0047_beast_hunters_cowl",
-            "description": "Allows you to cast predatory focus, a spell that highlights vulnerable prey and increases your chance of a critical hit against it.",
-            "name": "Beast Hunters Cowl",
-            "properties": {
-            "rarity": "Uncommon",
-            "attunement": true,
-            "origin": "beastforged",
-            "item_type": "Cloak",
-            "tier": 2,
-            "price": "2200",
-            "icon": "0047_beast_hunters_cowl-icon.webp"
-            }
-        },
-        "0048_fadesilk_shroud": {
-            "key": "0048_fadesilk_shroud",
-            "description": "Upon being discovered by a creature, possibly erase yourself from a creature's perception and memory.",
-            "name": "Fadesilk Shroud",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "arcane",
-            "item_type": "Cloak",
-            "tier": 2,
-            "price": "3200",
-            "icon": "0048_fadesilk_shroud-icon.webp"
-            }
-        },
         "0049_foremans_flask": {
             "key": "0049_foremans_flask",
             "description": "Drink from the flask to benefit from a short rest. Do so secretly to also gain 2d10 temporary hit points.",
@@ -687,6 +631,34 @@
             "tier": 2,
             "price": "3800",
             "icon": "0049_wrathfire_talisman-icon.webp"
+            }
+        },
+        "0047_beast_hunters_cowl": {
+            "key": "0047_beast_hunters_cowl",
+            "description": "Allows you to cast predatory focus, a spell that highlights vulnerable prey and increases your chance of a critical hit against it.",
+            "name": "Beast Hunters Cowl",
+            "properties": {
+            "rarity": "Uncommon",
+            "attunement": true,
+            "origin": "beastforged",
+            "item_type": "Clothing",
+            "tier": 2,
+            "price": "2200",
+            "icon": "0047_beast_hunters_cowl-icon.webp"
+            }
+        },
+        "0048_fadesilk_shroud": {
+            "key": "0048_fadesilk_shroud",
+            "description": "Upon being discovered by a creature, possibly erase yourself from a creature's perception and memory.",
+            "name": "Fadesilk Shroud",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": true,
+            "origin": "arcane",
+            "item_type": "Clothing",
+            "tier": 2,
+            "price": "3200",
+            "icon": "0048_fadesilk_shroud-icon.webp"
             }
          }
        }
