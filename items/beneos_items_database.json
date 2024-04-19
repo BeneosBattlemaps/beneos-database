@@ -636,7 +636,7 @@
         "0047_beast_hunters_cowl": {
             "key": "0047_beast_hunters_cowl",
             "description": "Allows you to cast a spell that highlights vulnerable prey and increases your chance of a critical hit against it.",
-            "name": "Beast Hunters Cowl",
+            "name": "Beast-Hunter's Cowl",
             "properties": {
             "rarity": "Uncommon",
             "attunement": true,
