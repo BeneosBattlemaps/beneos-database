@@ -1,6 +1,6 @@
 ﻿{
   "tag_description": {
-    "Melee": {
+    "melee": {
       "name": "Melee",
       "description": "This creature excels at close combat and has limited or no ranged combat capabilities."
     },
@@ -8,11 +8,11 @@
       "name": "Ranged",
       "description": "This creature attacks from afar and has limited or no Melee combat capabilities."
     },
-    "Ambush": {
+    "ambush": {
       "name": "Ambush",
       "description": "This creature ideally starts combat from a hidden position and waits for the optimal moment to attack."
     },
-    "Airborne": {
+    "airborne": {
       "name": "Airborne",
       "description": "This creature has a flying speed and can continuously stay at a distance."
     },
@@ -64,7 +64,7 @@
       "name": "AoE",
       "description": "This creature heavily utilizes >Area Of Effect< damage. "
     },
-    "Interactive": {
+    "interactive": {
       "name": "Interactive",
       "description": "This creature utilizes a combination of abilities, actions, bonus actions and reactions."
     },
@@ -76,7 +76,7 @@
       "name": "Bodyguard",
       "description": "This creature aims to protect another creature, rarely leaving its side and acting in the interest of keeping danger from it."
     },
-    "Debuff": {
+    "debuff": {
       "name": "Debuff",
       "description": "This creature weakens or hinders its enemies."
     },
