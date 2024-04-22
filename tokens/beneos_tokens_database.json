@@ -14568,6 +14568,87 @@
         ],
         "videourl": ""
     }
+    },
+    "157_infernal_infanterist_1": {
+      "description": "Untold legions of lesser devils form the bulk of the infernal armies, born from soot, sulfur, and sin. Automatically under the command of the ruler whose domain they manifest in, they themselves have only minimal agendas, their emotional spectrum reduced to those traits necessary to wage war at their leader’s behest. Yet, over the course of their service, they may gain power and consciousness, perhaps even managing to distinguish themselves among their peers and begin their ascent through the ranks of the hellish legions.",
+      "name": "Infernal Infanterist 1",
+      "properties": {
+        "biom": ["Planar","Infernal","Dungeon"],
+        "cr": "3",
+        "fightingstyle": ["Pack","Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 16,
+        "stat_cha": 14,
+        "stat_con": 15,
+        "stat_dex": 13,
+        "stat_hp": 39,
+        "stat_int": 7,
+        "stat_str": 18,
+        "stat_wis": 12,
+        "thumbnail": "157_infernal_infanterist_1-idle_face_still.webp",
+        "type": [
+          "fiend",
+          "devil"
+        ],
+        "videourl": ""
+    }
+    },
+    "157_infernal_infanterist_2": {
+      "description": "Untold legions of lesser devils form the bulk of the infernal armies, born from soot, sulfur, and sin. Automatically under the command of the ruler whose domain they manifest in, they themselves have only minimal agendas, their emotional spectrum reduced to those traits necessary to wage war at their leader’s behest. Yet, over the course of their service, they may gain power and consciousness, perhaps even managing to distinguish themselves among their peers and begin their ascent through the ranks of the hellish legions.",
+      "name": "Infernal Infanterist 2",
+      "properties": {
+        "biom": ["Planar","Infernal","Dungeon"],
+        "cr": "3",
+        "fightingstyle": ["Pack","Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 16,
+        "stat_cha": 14,
+        "stat_con": 15,
+        "stat_dex": 13,
+        "stat_hp": 39,
+        "stat_int": 7,
+        "stat_str": 18,
+        "stat_wis": 12,
+        "thumbnail": "157_infernal_infanterist_2-idle_face_still.webp",
+        "type": [
+          "fiend",
+          "devil"
+        ],
+        "videourl": ""
+    }
+    },
+    "157_infernal_infanterist_3": {
+      "description": "Untold legions of lesser devils form the bulk of the infernal armies, born from soot, sulfur, and sin. Automatically under the command of the ruler whose domain they manifest in, they themselves have only minimal agendas, their emotional spectrum reduced to those traits necessary to wage war at their leader’s behest. Yet, over the course of their service, they may gain power and consciousness, perhaps even managing to distinguish themselves among their peers and begin their ascent through the ranks of the hellish legions.",
+      "name": "Infernal Infanterist 3",
+      "properties": {
+        "biom": ["Planar","Infernal","Dungeon"],
+        "cr": "3",
+        "fightingstyle": ["Pack","Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 16,
+        "stat_cha": 14,
+        "stat_con": 15,
+        "stat_dex": 13,
+        "stat_hp": 39,
+        "stat_int": 7,
+        "stat_str": 18,
+        "stat_wis": 12,
+        "thumbnail": "157_infernal_infanterist_3-idle_face_still.webp",
+        "type": [
+          "fiend",
+          "devil"
+        ],
+        "videourl": ""
+    }
   }
   }
   }
