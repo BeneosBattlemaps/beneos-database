@@ -14649,6 +14649,60 @@
         ],
         "videourl": ""
     }
+    },
+    "157_infernal_immolator_1": {
+      "description": "Within the infernal realms, some factions of devils actively contemplate their roles in the construct of sin, punishment, and atonement. They are dismissed by the more straightforward fiends as esoterics, yet bloody wars have been fought over interpretations of infernal nature. Immolators belong to the more radical factions of these mystic covens, firmly convinced of their role as harbingers of the punishing, all-consuming fire. Surrounded by an ominous calm, they readily join infernal hosts as independent actors, and no sin escapes their sixfold gaze.",
+      "name": "Infernal Immolator 1",
+      "properties": {
+        "biom": ["Planar","Infernal","Dungeon"],
+        "cr": "9",
+        "fightingstyle": ["Lethal","AoE"],
+        "movement": ["Walk"],
+        "purpose": ["Damage"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 18,
+        "stat_con": 15,
+        "stat_dex": 12,
+        "stat_hp": 124,
+        "stat_int": 15,
+        "stat_str": 16,
+        "stat_wis": 14,
+        "thumbnail": "157_infernal_immolator_1-idle_face_still.webp",
+        "type": [
+          "fiend",
+          "devil"
+        ],
+        "videourl": ""
+    }
+    },
+    "157_infernal_immolator_2": {
+      "description": "Within the infernal realms, some factions of devils actively contemplate their roles in the construct of sin, punishment, and atonement. They are dismissed by the more straightforward fiends as esoterics, yet bloody wars have been fought over interpretations of infernal nature. Immolators belong to the more radical factions of these mystic covens, firmly convinced of their role as harbingers of the punishing, all-consuming fire. Surrounded by an ominous calm, they readily join infernal hosts as independent actors, and no sin escapes their sixfold gaze.",
+      "name": "Infernal Immolator 2",
+      "properties": {
+        "biom": ["Planar","Infernal","Dungeon"],
+        "cr": "9",
+        "fightingstyle": ["Lethal","AoE"],
+        "movement": ["Walk"],
+        "purpose": ["Damage"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 18,
+        "stat_con": 15,
+        "stat_dex": 12,
+        "stat_hp": 124,
+        "stat_int": 15,
+        "stat_str": 16,
+        "stat_wis": 14,
+        "thumbnail": "157_infernal_immolator_2-idle_face_still.webp",
+        "type": [
+          "fiend",
+          "devil"
+        ],
+        "videourl": ""
+    }
   }
   }
   }
