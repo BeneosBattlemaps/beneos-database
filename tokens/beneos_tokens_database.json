@@ -14524,7 +14524,7 @@
         "fightingstyle": ["Pack","Mobile"],
         "movement": ["Walk"],
         "purpose": ["Simple","Minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/swifttalon-is-63666888",
         "size": "Medium",
         "stat_ac": 14,
         "stat_cha": 6,
@@ -14539,7 +14539,7 @@
           "beast",
           "dinosaur"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/oTq8t-rD6xI?si=2NVdK2Bl9lfcJJIg"
     }
     },
     "047_swifttalon_raptor_3": {
@@ -14551,7 +14551,7 @@
         "fightingstyle": ["Pack","Mobile"],
         "movement": ["Walk"],
         "purpose": ["Simple","Minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/swifttalon-is-63666888",
         "size": "Medium",
         "stat_ac": 14,
         "stat_cha": 6,
@@ -14566,19 +14566,19 @@
           "beast",
           "dinosaur"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/oTq8t-rD6xI?si=2NVdK2Bl9lfcJJIg"
     }
     },
     "157_infernal_infanterist_1": {
       "description": "Untold legions of lesser devils form the bulk of the infernal armies, born from soot, sulfur, and sin. Automatically under the command of the ruler whose domain they manifest in, they themselves have only minimal agendas, their emotional spectrum reduced to those traits necessary to wage war at their leader’s behest. Yet, over the course of their service, they may gain power and consciousness, perhaps even managing to distinguish themselves among their peers and begin their ascent through the ranks of the hellish legions.",
-      "name": "Infernal Infanterist 1",
+      "name": "Infernal Infanterist",
       "properties": {
         "biom": ["Planar","Infernal","Dungeon"],
         "cr": "3",
         "fightingstyle": ["Pack","Melee"],
         "movement": ["Walk"],
         "purpose": ["Minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/infernal-102881176",
         "size": "Medium",
         "stat_ac": 16,
         "stat_cha": 14,
@@ -14593,19 +14593,19 @@
           "fiend",
           "devil"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/lv26m17ZnPU?si=Z23gFbRZpNRprUYs"
     }
     },
     "157_infernal_infanterist_2": {
       "description": "Untold legions of lesser devils form the bulk of the infernal armies, born from soot, sulfur, and sin. Automatically under the command of the ruler whose domain they manifest in, they themselves have only minimal agendas, their emotional spectrum reduced to those traits necessary to wage war at their leader’s behest. Yet, over the course of their service, they may gain power and consciousness, perhaps even managing to distinguish themselves among their peers and begin their ascent through the ranks of the hellish legions.",
-      "name": "Infernal Infanterist 2",
+      "name": "Infernal Infanterist",
       "properties": {
         "biom": ["Planar","Infernal","Dungeon"],
         "cr": "3",
         "fightingstyle": ["Pack","Melee"],
         "movement": ["Walk"],
         "purpose": ["Minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/infernal-102881176",
         "size": "Medium",
         "stat_ac": 16,
         "stat_cha": 14,
@@ -14620,19 +14620,19 @@
           "fiend",
           "devil"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/lv26m17ZnPU?si=Z23gFbRZpNRprUYs"
     }
     },
     "157_infernal_infanterist_3": {
       "description": "Untold legions of lesser devils form the bulk of the infernal armies, born from soot, sulfur, and sin. Automatically under the command of the ruler whose domain they manifest in, they themselves have only minimal agendas, their emotional spectrum reduced to those traits necessary to wage war at their leader’s behest. Yet, over the course of their service, they may gain power and consciousness, perhaps even managing to distinguish themselves among their peers and begin their ascent through the ranks of the hellish legions.",
-      "name": "Infernal Infanterist 3",
+      "name": "Infernal Infanterist",
       "properties": {
         "biom": ["Planar","Infernal","Dungeon"],
         "cr": "3",
         "fightingstyle": ["Pack","Melee"],
         "movement": ["Walk"],
         "purpose": ["Minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/infernal-102881176",
         "size": "Medium",
         "stat_ac": 16,
         "stat_cha": 14,
@@ -14647,19 +14647,20 @@
           "fiend",
           "devil"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/lv26m17ZnPU?si=Z23gFbRZpNRprUYs"
+   
     }
     },
-    "157_infernal_immolator_1": {
+    "158_infernal_immolator_1": {
       "description": "Within the infernal realms, some factions of devils actively contemplate their roles in the construct of sin, punishment, and atonement. They are dismissed by the more straightforward fiends as esoterics, yet bloody wars have been fought over interpretations of infernal nature. Immolators belong to the more radical factions of these mystic covens, firmly convinced of their role as harbingers of the punishing, all-consuming fire. Surrounded by an ominous calm, they readily join infernal hosts as independent actors, and no sin escapes their sixfold gaze.",
-      "name": "Infernal Immolator 1",
+      "name": "Infernal Immolator",
       "properties": {
         "biom": ["Planar","Infernal","Dungeon"],
         "cr": "9",
         "fightingstyle": ["Lethal","AoE"],
         "movement": ["Walk"],
         "purpose": ["Damage"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/103259092",
         "size": "Large",
         "stat_ac": 16,
         "stat_cha": 18,
@@ -14669,15 +14670,15 @@
         "stat_int": 15,
         "stat_str": 16,
         "stat_wis": 14,
-        "thumbnail": "157_infernal_immolator_1-idle_face_still.webp",
+        "thumbnail": "158_infernal_immolator_1-idle_face_still.webp",
         "type": [
           "fiend",
           "devil"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/K2zfN8bE2Fc?si=mVIfc46rzcrPnL-5"
     }
     },
-    "157_infernal_immolator_2": {
+    "158_infernal_immolator_2": {
       "description": "Within the infernal realms, some factions of devils actively contemplate their roles in the construct of sin, punishment, and atonement. They are dismissed by the more straightforward fiends as esoterics, yet bloody wars have been fought over interpretations of infernal nature. Immolators belong to the more radical factions of these mystic covens, firmly convinced of their role as harbingers of the punishing, all-consuming fire. Surrounded by an ominous calm, they readily join infernal hosts as independent actors, and no sin escapes their sixfold gaze.",
       "name": "Infernal Immolator 2",
       "properties": {
@@ -14686,7 +14687,7 @@
         "fightingstyle": ["Lethal","AoE"],
         "movement": ["Walk"],
         "purpose": ["Damage"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/103259092",
         "size": "Large",
         "stat_ac": 16,
         "stat_cha": 18,
@@ -14696,12 +14697,12 @@
         "stat_int": 15,
         "stat_str": 16,
         "stat_wis": 14,
-        "thumbnail": "157_infernal_immolator_2-idle_face_still.webp",
+        "thumbnail": "158_infernal_immolator_2-idle_face_still.webp",
         "type": [
           "fiend",
           "devil"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/K2zfN8bE2Fc?si=mVIfc46rzcrPnL-5"
     }
   }
   }
