@@ -1541,152 +1541,6 @@
         "videourl": "https://youtu.be/rU2-Ph6Gp4Y"
       }
     },
-    "016_wolf_1": {
-      "description": "Those afflicted by the Curse of the Wulfen slowly lose themselves to the bestial urges festering within their soul. After each hunt it gets harder to take on human form and even the horrid shape of the man-wolf becomes difficult to maintain. Soon the Wolfkin have all but forgotten what it means to be human and gather around a strong Wulfen to lead them on their eternal hunt. Or just a normal Wolf. ",
-      "name": "Wolf",
-      "properties": {
-        "biom": [
-          "Wilderness"
-        ],
-        "cr": "1",
-        "fightingstyle": [
-          "Melee",
-          "pack"
-        ],
-        "movement": [
-          "walk"
-        ],
-        "purpose": [
-          "minion"
-        ],
-        "releaseurl": "https://www.patreon.com/posts/basic-creature-54387652",
-        "size": "medium",
-        "stat_ac": 10,
-        "stat_cha": 6,
-        "stat_con": 14,
-        "stat_dex": 14,
-        "stat_hp": 19,
-        "stat_int": 5,
-        "stat_str": 14,
-        "stat_wis": 12,
-        "thumbnail": "016_wolf_1-idle_face_still.webp",
-        "type": [
-          "beast"
-        ],
-        "videourl": "https://youtu.be/r2QZhKXzaT4"
-      }
-    },
-    "016_wolf_2": {
-      "description": "Those afflicted by the Curse of the Wulfen slowly lose themselves to the bestial urges festering within their soul. After each hunt it gets harder to take on human form and even the horrid shape of the man-wolf becomes difficult to maintain. Soon the Wolfkin have all but forgotten what it means to be human and gather around a strong Wulfen to lead them on their eternal hunt. Or just a normal Wolf.",
-      "name": "Wolf",
-      "properties": {
-        "biom": [
-          "Wilderness",
-          "forest",
-          "horror"
-        ],
-        "cr": "1",
-        "fightingstyle": [
-          "Melee",
-          "pack"
-        ],
-        "movement": [
-          "walk"
-        ],
-        "purpose": [
-          "minion"
-        ],
-        "releaseurl": "https://www.patreon.com/posts/basic-creature-54387652",
-        "size": "medium",
-        "stat_ac": 10,
-        "stat_cha": 6,
-        "stat_con": 14,
-        "stat_dex": 14,
-        "stat_hp": 19,
-        "stat_int": 5,
-        "stat_str": 14,
-        "stat_wis": 12,
-        "thumbnail": "016_wolf_2-idle_face_still.webp",
-        "type": [
-          "beast"
-        ],
-        "videourl": "https://youtu.be/r2QZhKXzaT4"
-      }
-    },
-    "016_wolf_3": {
-      "description": "Those afflicted by the Curse of the Wulfen slowly lose themselves to the bestial urges festering within their soul. After each hunt it gets harder to take on human form and even the horrid shape of the man-wolf becomes difficult to maintain. Soon the Wolfkin have all but forgotten what it means to be human and fully dedicate themselves to the hunt. Bigger, stronger and blessed with remaining spark of malicious intellect, Wolfkin soon find themselves in charge of a pack of regular wolves, often answering the call of other hunting Wulfen, eager to redden their snout in the ensuing bloodbath. Or just a normal Wolf.",
-      "name": "Wolfkin",
-      "properties": {
-        "biom": [
-          "Wilderness",
-          "forest",
-          "horror"
-        ],
-        "cr": "5",
-        "fightingstyle": [
-          "Melee",
-          "hunter"
-        ],
-        "movement": [
-          "walk"
-        ],
-        "purpose": [
-          "damage"
-        ],
-        "releaseurl": "https://www.patreon.com/posts/basic-creature-54387652",
-        "size": "medium",
-        "stat_ac": 13,
-        "stat_cha": 5,
-        "stat_con": 14,
-        "stat_dex": 14,
-        "stat_hp": 33,
-        "stat_int": 6,
-        "stat_str": 16,
-        "stat_wis": 13,
-        "thumbnail": "016_wolf_3-idle_face_still.webp",
-        "type": [
-          "beast"
-        ],
-        "videourl": "https://youtu.be/r2QZhKXzaT4"
-      }
-    },
-    "016_wolf_4": {
-      "description": "For all their might, wolf packs live dangerous lifes on a knife’s edge. Bad weather, lack of food or the confrontation with a superior opponent can spell certain death for a whole pack. And even those who narrowly escape death may succumb to the hardships of the Wilderness. But some adapt to a life of solitude. Their constant fight for survival shapes them to be more ferocious in combat and forces them to rely on their keen senses even more. They develop a sharper instinct for survival and become more cunning than their pack-hunting kin, often stalking their chosen prey for days before deciding on the ideal moment to strike.",
-      "name": "Lone Wolf",
-      "properties": {
-        "biom": [
-          "Wilderness",
-          "forest",
-          "horror"
-        ],
-        "cr": "1",
-        "fightingstyle": [
-          "Melee",
-          "pack"
-        ],
-        "movement": [
-          "walk"
-        ],
-        "purpose": [
-          "minion"
-        ],
-        "releaseurl": "https://www.patreon.com/posts/basic-creature-54387652",
-        "size": "medium",
-        "stat_ac": 13,
-        "stat_cha": 6,
-        "stat_con": 16,
-        "stat_dex": 14,
-        "stat_hp": 28,
-        "stat_int": 6,
-        "stat_str": 15,
-        "stat_wis": 16,
-        "thumbnail": "016_wolf_4-idle_face_still.webp",
-        "type": [
-          "beast"
-        ],
-        "videourl": "https://youtu.be/r2QZhKXzaT4"
-      }
-    },
     "017_dwarven_king": {
       "description": "Dwarven Kings do not rule by birthright alone, but command respect earned by dilligence, grit and merit. Dwarves are a proud and stubborn folk and while they appreciate the rigid structures of monarchy, they need a reason for why a specific individual should hold the power to rule the grand cave cities, vast mountain halls and stalwart hill fortresses of dwarvenkind. However, if an aspirant to the throne manages to endure the ordeals and rites necessary to claim the title of king, their subjects serve them with unwavering loyalty. Each Dwarven King is a statesman, general and master craftsman with a body of granite, a soul of iron and a heart of gold.",
       "name": "Dwarven King",
@@ -14703,6 +14557,114 @@
           "devil"
         ],
         "videourl": "https://youtu.be/K2zfN8bE2Fc?si=mVIfc46rzcrPnL-5"
+    }
+    },
+    "016_lone_wolf": {
+      "description": "For all their might, wolf packs live dangerous lives on a knife’s edge. Bad weather, lack of food or the confrontation with a superior opponent can spell certain death for a whole pack. And even those who narrowly escape death may succumb to the hardships of the wilderness. But some adapt to a life of solitude. Their constant fight for survival shapes them to be more ferocious in combat and forces them to rely on their keen senses even more. They develop a sharper instinct for survival and become more cunning than their pack-hunting kin, often stalking their chosen prey for days before deciding on the ideal moment to strike.",
+      "name": "Lone Wolf",
+      "properties": {
+        "biom": ["Forest","Wilderness","Road","Mountains","Wasteland"],
+        "cr": "1",
+        "fightingstyle": ["Melee","Pack","Simple"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 13,
+        "stat_cha": 6,
+        "stat_con": 16,
+        "stat_dex": 14,
+        "stat_hp": 28,
+        "stat_int": 6,
+        "stat_str": 16,
+        "stat_wis": 16,
+        "thumbnail": "016_lone_wolf-idle_face_still.webp",
+        "type": [
+          "beast"
+          
+        ],
+        "videourl": ""
+    }
+    },
+    "016_wolf_1": {
+      "description": "Wolves are natures way of reminding humans that their superiority extends only as far as their city walls. Those who still venture forth into the frontiers are wise to fear the wolf, the grey-haired and yellow-eyed incarnation of the hunt. Many tribal cultures worship the wolf as totem animals, venerating them as bringers of swift death and cunning hunters, as well as symbols of unity and cohesion.",
+      "name": "Wolf 1",
+      "properties": {
+        "biom": ["Forest","Wilderness","Road","Mountains","Wasteland"],
+        "cr": "0.5",
+        "fightingstyle": ["Melee","Pack","Simple"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 12,
+        "stat_cha": 6,
+        "stat_con": 15,
+        "stat_dex": 14,
+        "stat_hp": 19,
+        "stat_int": 5,
+        "stat_str": 14,
+        "stat_wis": 12,
+        "thumbnail": "016_wolf_1-idle_face_still.webp",
+        "type": [
+          "beast"
+          
+        ],
+        "videourl": ""
+    }
+    },
+    "016_wolfkin": {
+      "description": "Those afflicted by the Curse of the Wulfen slowly lose themselves to the bestial urges festering within their soul. After each hunt it gets harder to take on human form and even the horrid shape of the man-wolf becomes difficult to maintain. Soon the Wolfkin have all but forgotten what it means to be human and fully dedicate themselves to the hunt. Bigger, stronger and blessed with a remaining spark of malicious intellect, Wolfkin soon find themselves in charge of a pack of regular wolves, often answering the call of other hunting Wulfen, eager to redden their maw in the ensuing bloodbath.",
+      "name": "Wolfkin",
+      "properties": {
+        "biom": ["Forest","Wilderness","Road","Mountains","Wasteland"],
+        "cr": "2",
+        "fightingstyle": ["Melee","Pack","Simple"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 5,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 43,
+        "stat_int": 5,
+        "stat_str": 16,
+        "stat_wis": 13,
+        "thumbnail": "016_wolfkin-idle_face_still.webp",
+        "type": [
+          "beast"
+          
+        ],
+        "videourl": ""
+    }
+    },
+    "016_wolf_2": {
+      "description": "Wolves are natures way of reminding humans that their superiority extends only as far as their city walls. Those who still venture forth into the frontiers are wise to fear the wolf, the grey-haired and yellow-eyed incarnation of the hunt. Many tribal cultures worship the wolf as totem animals, venerating them as bringers of swift death and cunning hunters, as well as symbols of unity and cohesion.",
+      "name": "Wolf 2",
+      "properties": {
+        "biom": ["Forest","Wilderness","Road","Mountains","Wasteland"],
+        "cr": "2",
+        "fightingstyle": ["Melee","Pack","Simple"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 6,
+        "stat_con": 15,
+        "stat_dex": 14,
+        "stat_hp": 43,
+        "stat_int": 5,
+        "stat_str": 14,
+        "stat_wis": 12,
+        "thumbnail": "016_wolf_2-idle_face_still.webp",
+        "type": [
+          "beast"
+          
+        ],
+        "videourl": ""
     }
   }
   }
