@@ -14534,7 +14534,7 @@
     },
     "158_infernal_immolator_2": {
       "description": "Within the infernal realms, some factions of devils actively contemplate their roles in the construct of sin, punishment, and atonement. They are dismissed by the more straightforward fiends as esoterics, yet bloody wars have been fought over interpretations of infernal nature. Immolators belong to the more radical factions of these mystic covens, firmly convinced of their role as harbingers of the punishing, all-consuming fire. Surrounded by an ominous calm, they readily join infernal hosts as independent actors, and no sin escapes their sixfold gaze.",
-      "name": "Infernal Immolator 2",
+      "name": "Infernal Immolator",
       "properties": {
         "biom": ["Planar","Infernal","Dungeon"],
         "cr": "9",
@@ -14588,7 +14588,7 @@
     },
     "016_wolf_1": {
       "description": "Wolves are natures way of reminding humans that their superiority extends only as far as their city walls. Those who still venture forth into the frontiers are wise to fear the wolf, the grey-haired and yellow-eyed incarnation of the hunt. Many tribal cultures worship the wolf as totem animals, venerating them as bringers of swift death and cunning hunters, as well as symbols of unity and cohesion.",
-      "name": "Wolf 1",
+      "name": "Wolf",
       "properties": {
         "biom": ["Forest","Wilderness","Road","Mountains","Wasteland"],
         "cr": "0.5",
@@ -14642,7 +14642,7 @@
     },
     "016_wolf_2": {
       "description": "Wolves are natures way of reminding humans that their superiority extends only as far as their city walls. Those who still venture forth into the frontiers are wise to fear the wolf, the grey-haired and yellow-eyed incarnation of the hunt. Many tribal cultures worship the wolf as totem animals, venerating them as bringers of swift death and cunning hunters, as well as symbols of unity and cohesion.",
-      "name": "Wolf 2",
+      "name": "Wolf",
       "properties": {
         "biom": ["Forest","Wilderness","Road","Mountains","Wasteland"],
         "cr": "2",
@@ -14663,6 +14663,87 @@
         "type": [
           "beast"
           
+        ],
+        "videourl": ""
+    }
+    },
+    "159_dwarven_battlebrewer_barrel": {
+      "description": "Brewing is more than just a craft for dwarves; it’s a cultural cornerstone deeply intertwined with the local identity of their decentralized and often isolated societies. Each mountain kingdom or cavernous realm, has their unique brews enriched with customs and culture. Whether it’s hearty whiskey with hints of volcanic smoke, clear schnapps with sparkling mineral particles, or strong beer brewed from underground river water, they all have the power to soothe weary hands and quickly loosen knotted muscles. With their potent brews, Battle-Brewers specialize in maintaining the esprit de corps and, with their down-to-earth and jovial nature, they ease the hardships of military life, all while never hesitating to get their hands dirty themselves.",
+      "name": "Dwarven Battlebrewer Barrel",
+      "properties": {
+        "biom": ["Forest","Wilderness","Road","Mountains","Wasteland"],
+        "cr": "0.25",
+        "fightingstyle": ["Melee","Pack","Simple"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 6,
+        "stat_con": 15,
+        "stat_dex": 14,
+        "stat_hp": 18,
+        "stat_int": 5,
+        "stat_str": 14,
+        "stat_wis": 12,
+        "thumbnail": "159_dwarven_battlebrewer_barrel-idle_face_still.webp",
+        "type": [
+          "beast",
+          
+        ],
+        "videourl": ""
+    }
+    },
+    "159_vampire_chiropterror_1": {
+      "description": "Some Vampires attain the ability to tap deeply into the bestial aspect of their tainted blood, enabling them to assume a monstrous form alongside their humanoid guise. One such manifestation is the Chiropterror, bat-like brutes with innate mastery over sanguine biomancy, capable of enhancing their already considerable strength and speed through blood magic to truly terrifying heights. While some Vampires can transition between their charming, humanoid form and this monstrous one, others succumb to the call of the hunt, causing their outward appearance to truly mirror the beast within.",
+      "name": "Vampire Chiropterror 1",
+      "properties": {
+        "biom": ["Graves","Wilderness","Road","Mountains","Wasteland","Civilized","Dungeon"],
+        "cr": "7",
+        "fightingstyle": ["Melee","Pressure"],
+        "movement": ["Walk"],
+        "purpose": ["Damage"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 13,
+        "stat_con": 16,
+        "stat_dex": 19,
+        "stat_hp": 96,
+        "stat_int": 10,
+        "stat_str": 18,
+        "stat_wis": 13,
+        "thumbnail": "159_vampire_chiropterror_1-idle_face_still.webp",
+        "type": [
+          "undead",
+          "Vampire"
+        ],
+        "videourl": ""
+    }
+    },
+    "159_vampire_chiropterror_2": {
+      "description": "Some Vampires attain the ability to tap deeply into the bestial aspect of their tainted blood, enabling them to assume a monstrous form alongside their humanoid guise. One such manifestation is the Chiropterror, bat-like brutes with innate mastery over sanguine biomancy, capable of enhancing their already considerable strength and speed through blood magic to truly terrifying heights. While some Vampires can transition between their charming, humanoid form and this monstrous one, others succumb to the call of the hunt, causing their outward appearance to truly mirror the beast within.",
+      "name": "Vampire Chiropterror 2",
+      "properties": {
+        "biom": ["Graves","Wilderness","Road","Mountains","Wasteland","Civilized","Dungeon"],
+        "cr": "7",
+        "fightingstyle": ["Melee","Pressure"],
+        "movement": ["Walk"],
+        "purpose": ["Damage"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 13,
+        "stat_con": 16,
+        "stat_dex": 19,
+        "stat_hp": 96,
+        "stat_int": 10,
+        "stat_str": 18,
+        "stat_wis": 13,
+        "thumbnail": "159_vampire_chiropterror_2-idle_face_still.webp",
+        "type": [
+          "undead",
+          "Vampire"
         ],
         "videourl": ""
     }
