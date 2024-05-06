@@ -33435,7 +33435,7 @@
                         "type":"Battlemap",
                         "thumbnail":"78-01_Antlers_Tavern_Normal_1F-4k_bm.webp",
                         "videourl":"WIP"
-                        "download_pack": "DiA 01 A Pair of Two Antlers Tavern",
+                        "download_pack": "DiA - 00 Fall of Elturel - 79",
                         "download_terms": "BM: 1 F",
                         "download_creator": "Beneos Battlemaps"
                         }
@@ -33454,7 +33454,7 @@
                                 "type":"Scenery",
                                 "thumbnail":"78-01_Antlers_Tavern_Normal_1F-4k_scen.webp",
                                 "videourl":"WIP"
-                                "download_pack": "DiA 01 A Pair of Two Antlers Tavern",
+                                "download_pack": "DiA - 00 Fall of Elturel - 79",
                                 "download_terms": "SC: 1 F",
                                 "download_creator": "Beneos Battlemaps"
                                 }
@@ -33473,7 +33473,7 @@
                         "type":"Battlemap",
                         "thumbnail":"78-02_Antlers_Tavern_Normal_2F-4k_bm.webp",
                         "videourl":"WIP"
-                        "download_pack": "DiA 01 A Pair of Two Antlers Tavern",
+                        "download_pack": "DiA - 00 Fall of Elturel - 79",
                         "download_terms": "BM: 2 F",
                         "download_creator": "Beneos Battlemaps"
                         }
@@ -33492,7 +33492,7 @@
                                 "type":"Scenery",
                                 "thumbnail":"78-02_Antlers_Tavern_Normal_2F-4k_scen.webp",
                                 "videourl":"WIP"
-                                "download_pack": "DiA 01 A Pair of Two Antlers Tavern",
+                                "download_pack": "DiA - 00 Fall of Elturel - 79",
                                 "download_terms": "SC: 2 F",
                                 "download_creator": "Beneos Battlemaps"
                                 }
@@ -33511,7 +33511,7 @@
                         "type":"Battlemap",
                         "thumbnail":"78-03_Antlers_Tavern_Normal_Roof-4k_bm.webp",
                         "videourl":"WIP"
-                        "download_pack": "DiA 01 A Pair of Two Antlers Tavern",
+                        "download_pack": "DiA - 00 Fall of Elturel - 79",
                         "download_terms": "BM: Roof",
                         "download_creator": "Beneos Battlemaps"
                         }
@@ -33530,7 +33530,7 @@
                                 "type":"Scenery",
                                 "thumbnail":"78-03_Antlers_Tavern_Normal_Roof-4k_scen.webp",
                                 "videourl":"WIP"
-                                "download_pack": "DiA 01 A Pair of Two Antlers Tavern",
+                                "download_pack": "DiA - 00 Fall of Elturel - 79",
                                 "download_terms": "Overview",
                                 "download_creator": "Beneos Battlemaps"
                                 }
@@ -33549,7 +33549,7 @@
                         "type":"Battlemap",
                         "thumbnail":"78-04_Antlers_Tavern_Hell_1F-4k_bm.webp",
                         "videourl":"WIP"
-                        "download_pack": "DiA 01 A Pair of Two Antlers Tavern",
+                        "download_pack": "DiA - 00 Fall of Elturel - 79",
                         "download_terms": "BM: 1 F",
                         "download_creator": "Beneos Battlemaps"
                         }
@@ -33568,7 +33568,7 @@
                                 "type":"Scenery",
                                 "thumbnail":"78-04_Antlers_Tavern_Hell_1F-4k_scen.webp",
                                 "videourl":"WIP"
-                                "download_pack": "DiA 01 A Pair of Two Antlers Tavern",
+                                "download_pack": "DiA - 00 Fall of Elturel - 79",
                                 "download_terms": "SC: 1 F",
                                 "download_creator": "Beneos Battlemaps"
                                 }
@@ -33587,7 +33587,7 @@
                         "type":"Battlemap",
                         "thumbnail":"78-05_Antlers_Tavern_Hell_2F-4k_bm.webp",
                         "videourl":"WIP"
-                        "download_pack": "DiA 01 A Pair of Two Antlers Tavern",
+                        "download_pack": "DiA - 00 Fall of Elturel - 79",
                         "download_terms": "BM: 2 F",
                         "download_creator": "Beneos Battlemaps"
                         }
@@ -33606,7 +33606,7 @@
                                 "type":"Scenery",
                                 "thumbnail":"78-05_Antlers_Tavern_Hell_2F-4k_scen.webp",
                                 "videourl":"WIP"
-                                "download_pack": "DiA 01 A Pair of Two Antlers Tavern",
+                                "download_pack": "DiA - 00 Fall of Elturel - 79",
                                 "download_terms": "SC: 2 F",
                                 "download_creator": "Beneos Battlemaps"
                                 }
@@ -33625,7 +33625,7 @@
                         "type":"Battlemap",
                         "thumbnail":"78-06_Antlers_Tavern_Hell_Roof-4k_bm.webp",
                         "videourl":"WIP"
-                        "download_pack": "DiA 01 A Pair of Two Antlers Tavern",
+                        "download_pack": "DiA - 00 Fall of Elturel - 79",
                         "download_terms": "BM: Roof",
                         "download_creator": "Beneos Battlemaps"
                         }
@@ -33644,8 +33644,198 @@
                                 "type":"Scenery",
                                 "thumbnail":"78-06_Antlers_Tavern_Hell_Roof-4k_scen.webp",
                                 "videourl":"WIP"
-                                "download_pack": "DiA 01 A Pair of Two Antlers Tavern",
+                                "download_pack": "DiA - 00 Fall of Elturel - 79",
                                 "download_terms": "SC: Roof",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "79-01_Elturel_Wedding-4k_BM":{
+                        "name":"Elturel Wedding",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Exteriour", "Camp"],
+                        "brightness":"Bright",
+                        "grid":"32x18",
+                        "pack":"79_DiA_Fall_of_Elturel",
+                        "releaseurl":"WIP",
+                        "sibling":"79-01_Elturel_Wedding-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"79-01_Elturel_Wedding-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 00 Fall of Elturel - 79",
+                        "download_terms": "BM: 1 Elturel Wedding",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "79-01_Elturel_Wedding-4k_Scen":{
+                                "name":"Elturel Wedding",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Exteriour", "Camp"],
+                                "brightness":"Bright",
+                                "grid":"32x18",
+                                "pack":"79_DiA_Fall_of_Elturel",
+                                "releaseurl":"WIP",
+                                "sibling":"79-01_Elturel_Wedding-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"79-01_Elturel_Wedding-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 00 Fall of Elturel - 79",
+                                "download_terms": "SC: 1 Elturel Wedding",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "79-02_Saving_Grace-4k_BM":{
+                        "name":"Saving Grace",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Grassland","Exteriour", "Road"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"79_DiA_Fall_of_Elturel",
+                        "releaseurl":"WIP",
+                        "sibling":"79-02_Saving_Grace-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"79-02_Saving_Grace-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 00 Fall of Elturel - 79",
+                        "download_terms": "BM: 2 Saving Grave Encounter",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "79-02_Saving_Grace-4k_Scen":{
+                                "name":"Saving Grace",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Grassland","Exteriour", "Road"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"79_DiA_Fall_of_Elturel",
+                                "releaseurl":"WIP",
+                                "sibling":"79-02_Saving_Grace-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"79-02_Saving_Grace-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 00 Fall of Elturel - 79",
+                                "download_terms": "SC: 2 Saving Grave Encounter",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "79-03_Ritual_Site_R1-4k_BM":{
+                        "name":"Ritual Site R1",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Forest","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"25x25",
+                        "pack":"79_DiA_Fall_of_Elturel",
+                        "releaseurl":"WIP",
+                        "sibling":"79-03_Ritual_Site_R1-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"79-03_Ritual_Site_R1-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 00 Fall of Elturel - 79",
+                        "download_terms": "BM: 3 Ritual Site R1-R2",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "79-03_Ritual_Site_R1-4k_Scen":{
+                                "name":"Ritual Site R1",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Forest","Exteriour"],
+                                "brightness":"Medium",
+                                "grid":"25x25",
+                                "pack":"79_DiA_Fall_of_Elturel",
+                                "releaseurl":"WIP",
+                                "sibling":"79-03_Ritual_Site_R1-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"79-03_Ritual_Site_R1-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 00 Fall of Elturel - 79",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "79-04_Ritual_Site_R3-4k_BM":{
+                        "name":"Ritual Site R3",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Forest","Shrine", "Tribal","Ruin","River"],
+                        "brightness":"Medium",
+                        "grid":"25x25",
+                        "pack":"79_DiA_Fall_of_Elturel",
+                        "releaseurl":"WIP",
+                        "sibling":"79-04_Ritual_Site_R3-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"79-04_Ritual_Site_R3-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 00 Fall of Elturel - 79",
+                        "download_terms": "BM: 4 Ritual Site R3",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "79-04_Ritual_Site_R3-4k_Scen":{
+                                "name":"Ritual Site R3",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Forest","Shrine", "Tribal","Ruin","River"],
+                                "brightness":"Medium",
+                                "grid":"25x25",
+                                "pack":"79_DiA_Fall_of_Elturel",
+                                "releaseurl":"WIP",
+                                "sibling":"79-04_Ritual_Site_R3-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"79-04_Ritual_Site_R3-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 00 Fall of Elturel - 79",
+                                "download_terms": "SC: 4 Ritual Site R3",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "79-05_Ritual_Site_R4-4k_BM":{
+                        "name":"Ritual Site R4",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Forest","Shrine", "Tribal","Ruin","River","Lake"],
+                        "brightness":"Medium",
+                        "grid":"32x28",
+                        "pack":"79_DiA_Fall_of_Elturel",
+                        "releaseurl":"WIP",
+                        "sibling":"79-05_Ritual_Site_R4-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"79-05_Ritual_Site_R4-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 00 Fall of Elturel - 79",
+                        "download_terms": "BM: 5 Ritual Site R4",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "79-05_Ritual_Site_R4-4k_Scen":{
+                                "name":"Ritual Site R4",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Forest","Shrine", "Tribal","Ruin","River","Lake"],
+                                "brightness":"Medium",
+                                "grid":"32x28",
+                                "pack":"79_DiA_Fall_of_Elturel",
+                                "releaseurl":"WIP",
+                                "sibling":"79-05_Ritual_Site_R4-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"79-05_Ritual_Site_R4-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 00 Fall of Elturel - 79",
+                                "download_terms": "SC: 5 Ritual Site R4",
                                 "download_creator": "Beneos Battlemaps"
                                 }
                             }
