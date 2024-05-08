@@ -14801,6 +14801,33 @@
         ],
         "videourl": ""
     }
+    },
+    "000_month_14_giant_boar": {
+      "description": "Countless royal hunting expeditions have been thrown into disarray by the ferocity of a single regular boar, leaving a trail of hunters scarred by their encounters - not all living to tell the tale. Giants among their already towering kind, giant boars dwarf their ordinary brethren, doubling in stature and quadrupling in mass. When a rampaging giant boar charges, conventional methods falter, and its onslaught often rivals the devastation normally reserved for natural disasters.",
+      "name": "month 14 Giant Boar",
+      "properties": {
+        "biom": ["Wilderness","Road","Wasteland","Forest","Jungle"],
+        "cr": "5",
+        "fightingstyle": ["Simple", "Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Pressure"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 17,
+        "stat_cha": 8,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 142,
+        "stat_int": 4,
+        "stat_str": 20,
+        "stat_wis": 7,
+        "thumbnail": "000_month_14_giant_boar-idle_face_still.webp",
+        "type": [
+          "beast",
+          
+        ],
+        "videourl": ""
+    }
   }
   }
   }
