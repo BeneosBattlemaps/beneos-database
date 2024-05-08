@@ -14667,36 +14667,9 @@
         "videourl": ""
     }
     },
-    "159_dwarven_battlebrewer_barrel": {
-      "description": "Brewing is more than just a craft for dwarves; it’s a cultural cornerstone deeply intertwined with the local identity of their decentralized and often isolated societies. Each mountain kingdom or cavernous realm, has their unique brews enriched with customs and culture. Whether it’s hearty whiskey with hints of volcanic smoke, clear schnapps with sparkling mineral particles, or strong beer brewed from underground river water, they all have the power to soothe weary hands and quickly loosen knotted muscles. With their potent brews, Battle-Brewers specialize in maintaining the esprit de corps and, with their down-to-earth and jovial nature, they ease the hardships of military life, all while never hesitating to get their hands dirty themselves.",
-      "name": "Dwarven Battlebrewer Barrel",
-      "properties": {
-        "biom": ["Forest","Wilderness","Road","Mountains","Wasteland"],
-        "cr": "0.25",
-        "fightingstyle": ["Melee","Pack","Simple"],
-        "movement": ["Walk"],
-        "purpose": ["Minion"],
-        "releaseurl": "",
-        "size": "Medium",
-        "stat_ac": 15,
-        "stat_cha": 6,
-        "stat_con": 15,
-        "stat_dex": 14,
-        "stat_hp": 18,
-        "stat_int": 5,
-        "stat_str": 14,
-        "stat_wis": 12,
-        "thumbnail": "159_dwarven_battlebrewer_barrel-idle_face_still.webp",
-        "type": [
-          "beast",
-          
-        ],
-        "videourl": ""
-    }
-    },
     "159_vampire_chiropterror_1": {
       "description": "Some Vampires attain the ability to tap deeply into the bestial aspect of their tainted blood, enabling them to assume a monstrous form alongside their humanoid guise. One such manifestation is the Chiropterror, bat-like brutes with innate mastery over sanguine biomancy, capable of enhancing their already considerable strength and speed through blood magic to truly terrifying heights. While some Vampires can transition between their charming, humanoid form and this monstrous one, others succumb to the call of the hunt, causing their outward appearance to truly mirror the beast within.",
-      "name": "Vampire Chiropterror 1",
+      "name": "Vampire Chiropterror",
       "properties": {
         "biom": ["Graves","Wilderness","Road","Mountains","Wasteland","Civilized","Dungeon"],
         "cr": "7",
@@ -14723,7 +14696,7 @@
     },
     "159_vampire_chiropterror_2": {
       "description": "Some Vampires attain the ability to tap deeply into the bestial aspect of their tainted blood, enabling them to assume a monstrous form alongside their humanoid guise. One such manifestation is the Chiropterror, bat-like brutes with innate mastery over sanguine biomancy, capable of enhancing their already considerable strength and speed through blood magic to truly terrifying heights. While some Vampires can transition between their charming, humanoid form and this monstrous one, others succumb to the call of the hunt, causing their outward appearance to truly mirror the beast within.",
-      "name": "Vampire Chiropterror 2",
+      "name": "Vampire Chiropterror",
       "properties": {
         "biom": ["Graves","Wilderness","Road","Mountains","Wasteland","Civilized","Dungeon"],
         "cr": "7",
@@ -14744,6 +14717,87 @@
         "type": [
           "undead",
           "Vampire"
+        ],
+        "videourl": ""
+    }
+    },
+    "000_month_14_dwarven_battlebrewer": {
+      "description": "Brewing is more than just a craft for dwarves; it’s a cultural cornerstone deeply intertwined with the local identity of their decentralized and often isolated societies. Each mountain kingdom or cavernous realm, has their unique brews enriched with customs and culture. Whether it’s hearty whiskey with hints of volcanic smoke, clear schnapps with sparkling mineral particles, or strong beer brewed from underground river water, they all have the power to soothe weary hands and quickly loosen knotted muscles. With their potent brews, Battle-Brewers specialize in maintaining the esprit de corps and, with their down-to-earth and jovial nature, they ease the hardships of military life, all while never hesitating to get their hands dirty themselves.",
+      "name": "month 14 Dwarven Battlebrewer",
+      "properties": {
+        "biom": ["Wilderness","Road","Mountains","Wasteland","Civilized"],
+        "cr": "5",
+        "fightingstyle": ["Interactive"],
+        "movement": ["Walk"],
+        "purpose": ["Ally","Support"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 16,
+        "stat_con": 20,
+        "stat_dex": 8,
+        "stat_hp": 77,
+        "stat_int": 12,
+        "stat_str": 16,
+        "stat_wis": 14,
+        "thumbnail": "000_month_14_dwarven_battlebrewer-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "Dwarf"
+        ],
+        "videourl": ""
+    }
+    },
+    "000_month_14_dwarven_brewers_boarcart": {
+      "description": "Traditionally, the Battle-Brewers carts are pulled by mighty boars, serving both as beasts of burden and defenders of the Brewer’s mobile tavern and improvised brewery. These boars are nurtured from birth and raised on a secret diet, likely involving copious amounts of dwarven spirits, to enhance their already considerable combat prowess.",
+      "name": "month 14 Dwarven Brewers Boarcart",
+      "properties": {
+        "biom": ["Wilderness","Road","Mountains","Wasteland","Civilized"],
+        "cr": "5",
+        "fightingstyle": ["Interactive"],
+        "movement": ["Walk"],
+        "purpose": ["Ally","Support"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 17,
+        "stat_cha": 8,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 142,
+        "stat_int": 4,
+        "stat_str": 20,
+        "stat_wis": 7,
+        "thumbnail": "000_month_14_dwarven_brewers_boarcart-idle_face_still.webp",
+        "type": [
+          "beast",
+          
+        ],
+        "videourl": ""
+    }
+    },
+    "000_month_14_dwarven_brewers_barrel": {
+      "description": "Brewing is more than just a craft for dwarves; it’s a cultural cornerstone deeply intertwined with the local identity of their decentralized and often isolated societies. Each mountain kingdom or cavernous realm, has their unique brews enriched with customs and culture. Whether it’s hearty whiskey with hints of volcanic smoke, clear schnapps with sparkling mineral particles, or strong beer brewed from underground river water, they all have the power to soothe weary hands and quickly loosen knotted muscles. With their potent brews, Battle-Brewers specialize in maintaining the esprit de corps and, with their down-to-earth and jovial nature, they ease the hardships of military life, all while never hesitating to get their hands dirty themselves.",
+      "name": "month 14 Dwarven Brewers Barrel",
+      "properties": {
+        "biom": ["Wilderness","Road","Mountains","Wasteland","Civilized"],
+        "cr": "5",
+        "fightingstyle": ["Interactive"],
+        "movement": ["Walk"],
+        "purpose": ["Ally","Support"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 17,
+        "stat_cha": 8,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 142,
+        "stat_int": 4,
+        "stat_str": 20,
+        "stat_wis": 7,
+        "thumbnail": "000_month_14_dwarven_brewers_barrel-idle_face_still.webp",
+        "type": [
+          "beast",
+          
         ],
         "videourl": ""
     }
