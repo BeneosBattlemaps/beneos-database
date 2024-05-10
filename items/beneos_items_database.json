@@ -677,7 +677,7 @@
         },
         "0051_blessed_bindings": {
             "key": "0051_blessed_bindings",
-            "description": "Wrapped in these bindings, you gain resistance to a damage type of your choise, as well as some light protection against undead or fiends.",
+            "description": "Gain a damage resistance of your choice, as well as some light protection against undead or fiends.",
             "name": "Blessed Bindings",
             "properties": {
             "rarity": "Uncommon",
@@ -705,7 +705,7 @@
         },
         "0052_dark_shepherd_cursed": {
             "key": "0052_dark_shepherd_cursed",
-            "description": "Made to hunt enormous prey, this knife increases the chance to score critical hits and always deals maximal weapon damage against Huge and larger creatures.",
+            "description": "Regular Dark Shepherd but with the curse text added.",
             "name": "Dark Shepherd Cursed",
             "properties": {
             "rarity": "Very Rare",
@@ -719,7 +719,7 @@
         },
         "0052_dark_shepherd": {
             "key": "0052_dark_shepherd",
-            "description": "Made to hunt enormous prey, this knife increases the chance to score critical hits and always deals maximal weapon damage against Huge and larger creatures.",
+            "description": "Buffs your undead minions and grants you necromantic spell slots.",
             "name": "Dark Shepherd",
             "properties": {
             "rarity": "Very Rare",
