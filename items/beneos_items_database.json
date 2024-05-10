@@ -660,6 +660,76 @@
             "price": "3200",
             "icon": "0048_fadesilk_shroud-icon.webp"
             }
+        },
+        "0050_brawlers_eagerness": {
+            "key": "0050_brawlers_eagerness",
+            "description": "Gain a bonus to your initiative roll and possibly to your movement speed and number of attacks.",
+            "name": "Brawlers Eagerness",
+            "properties": {
+            "rarity": "Uncommon",
+            "attunement": true,
+            "origin": "awoken",
+            "item_type": "Trinket",
+            "tier": 1,
+            "price": "700",
+            "icon": "0050_brawlers_eagerness-icon.webp"
+            }
+        },
+        "0051_blessed_bindings": {
+            "key": "0051_blessed_bindings",
+            "description": "Wrapped in these bindings, you gain resistance to a damage type of your choise, as well as some light protection against undead or fiends.",
+            "name": "Blessed Bindings",
+            "properties": {
+            "rarity": "Uncommon",
+            "attunement": true,
+            "origin": "blessed",
+            "item_type": "Clothing",
+            "tier": 1,
+            "price": "350",
+            "icon": "0051_blessed_bindings-icon.webp"
+            }
+        },
+        "0053_robes_of_reflection": {
+            "key": "0053_robes_of_reflection",
+            "description": "A robe best suited for the Monk class, allowing them to regain Ki points by reflecting on their failure.",
+            "name": "Robes Of Reflection",
+            "properties": {
+            "rarity": "Uncommon",
+            "attunement": true,
+            "origin": "relic",
+            "item_type": "Clothing",
+            "tier": 1,
+            "price": "900",
+            "icon": "0053_robes_of_reflection-icon.webp"
+            }
+        },
+        "0052_dark_shepherd_cursed": {
+            "key": "0052_dark_shepherd_cursed",
+            "description": "Made to hunt enormous prey, this knife increases the chance to score critical hits and always deals maximal weapon damage against Huge and larger creatures.",
+            "name": "Dark Shepherd Cursed",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "occult",
+            "item_type": "Trinket",
+            "tier": 2,
+            "price": "4200",
+            "icon": "0052_dark_shepherd_cursed-icon.webp"
+            }
+        },
+        "0052_dark_shepherd": {
+            "key": "0052_dark_shepherd",
+            "description": "Made to hunt enormous prey, this knife increases the chance to score critical hits and always deals maximal weapon damage against Huge and larger creatures.",
+            "name": "Dark Shepherd",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "occult",
+            "item_type": "Trinket",
+            "tier": 2,
+            "price": "4200",
+            "icon": "0052_dark_shepherd-icon.webp"
+            }
          }
        }
      }
