@@ -14909,6 +14909,60 @@
         ],
         "videourl": ""
     }
+    },
+    "160_sodden_cavalier_1": {
+      "description": "Battlefields are dreadful places, not only for the downtrodden foot soldiers, but also the shining mounted elite. Many a glorious cavalry charge ended miserably in knee-deep mud, the final breath of many a proud knight a brackish gurgle, far removed from any notion of honorable warfare or chivalric combat. Such humiliated knights emerge from swamps and marshlands as Sodden Cavaliers, eternally surrounded by cold, relentless rain, seeking the death in battle that was once denied to them.",
+      "name": "Sodden Cavalier 1",
+      "properties": {
+        "biom": ["Road","Wastelands","Forest","Swamp","Graves","Horror"],
+        "cr": "5",
+        "fightingstyle": ["Debuff", "Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Leader"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 17,
+        "stat_cha": 5,
+        "stat_con": 18,
+        "stat_dex": 12,
+        "stat_hp": 127,
+        "stat_int": 7,
+        "stat_str": 16,
+        "stat_wis": 10,
+        "thumbnail": "160_sodden_cavalier_1-idle_face_still.webp",
+        "type": [
+          "undead",
+          
+        ],
+        "videourl": ""
+    }
+    },
+    "160_sodden_cavalier_2": {
+      "description": "Battlefields are dreadful places, not only for the downtrodden foot soldiers, but also the shining mounted elite. Many a glorious cavalry charge ended miserably in knee-deep mud, the final breath of many a proud knight a brackish gurgle, far removed from any notion of honorable warfare or chivalric combat. Such humiliated knights emerge from swamps and marshlands as Sodden Cavaliers, eternally surrounded by cold, relentless rain, seeking the death in battle that was once denied to them.",
+      "name": "Sodden Cavalier 2",
+      "properties": {
+        "biom": ["Road","Wastelands","Forest","Swamp","Graves","Horror"],
+        "cr": "5",
+        "fightingstyle": ["Debuff", "Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Leader"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 17,
+        "stat_cha": 5,
+        "stat_con": 18,
+        "stat_dex": 12,
+        "stat_hp": 127,
+        "stat_int": 7,
+        "stat_str": 16,
+        "stat_wis": 10,
+        "thumbnail": "160_sodden_cavalier_2-idle_face_still.webp",
+        "type": [
+          "undead",
+          
+        ],
+        "videourl": ""
+    }
   }
   }
   }
