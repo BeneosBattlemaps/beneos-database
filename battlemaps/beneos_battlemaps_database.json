@@ -33838,6 +33838,386 @@
                                 "download_terms": "SC: 5 Ritual Site R4",
                                 "download_creator": "Beneos Battlemaps"
                                 }
+                    },
+                    "80-01_Refugee_Caravan_Elturel-4k_BM":{
+                        "name":"Refugee Caravan Elturel",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Exteriour","Camp","Hell"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"80_DiA_Escape_From_Elturgard",
+                        "releaseurl":"WIP",
+                        "sibling":"80-01_Refugee_Caravan_Elturel-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"80-01_Refugee_Caravan_Elturel-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA 00 Escape From Elturgard - 80",
+                        "download_terms": "BM: 1 Refugee Caravan",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "80-01_Refugee_Caravan_Elturel-4k_Scen":{
+                                "name":"Refugee Caravan Elturel",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Exteriour","Camp","Hell"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"80_DiA_Escape_From_Elturgard",
+                                "releaseurl":"WIP",
+                                "sibling":"80-01_Refugee_Caravan_Elturel-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"80-01_Refugee_Caravan_Elturel-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA 00 Escape From Elturgard - 80",
+                                "download_terms": "SC: 1 Refugee Caravan",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "80-02_The Smith-4k_BM":{
+                        "name":"The Smith",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","War","Hell","Street","Burning","Exteriour","City","Fire"],
+                        "brightness":"Medium",
+                        "grid":"37x20",
+                        "pack":"80_DiA_Escape_From_Elturgard",
+                        "releaseurl":"WIP",
+                        "sibling":"80-02_The Smith-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"80-02_The Smith-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA 00 Escape From Elturgard - 80",
+                        "download_terms": "BM: 2 The Smith",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "80-02_The Smith-4k_Scen":{
+                                "name":"The Smith",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","War","Hell","Street","Burning","Exteriour","City","Fire"],
+                                "brightness":"Medium",
+                                "grid":"37x20",
+                                "pack":"80_DiA_Escape_From_Elturgard",
+                                "releaseurl":"WIP",
+                                "sibling":"80-02_The Smith-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"80-02_The Smith-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA 00 Escape From Elturgard - 80",
+                                "download_terms": "SC: 2 The Smith",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "80-03_Old_Temple-4k_BM":{
+                        "name":"Old Temple",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Forest","Exteriour","Temple","Ruin"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"80_DiA_Escape_From_Elturgard",
+                        "releaseurl":"WIP",
+                        "sibling":"80-03_Old_Temple-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"80-03_Old_Temple-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA 00 Escape From Elturgard - 80",
+                        "download_terms": "BM: 3 Old Temple",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "80-03_Old_Temple-4k_Scen":{
+                                "name":"Old Temple",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Forest","Exteriour","Temple","Ruin"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"80_DiA_Escape_From_Elturgard",
+                                "releaseurl":"WIP",
+                                "sibling":"80-03_Old_Temple-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"80-03_Old_Temple-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA 00 Escape From Elturgard - 80",
+                                "download_terms": "SC: 3 Old Temple",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "80-04_Old_Temple_Ritual_Chamber-4k_BM":{
+                        "name":"Old Temple Ritual Chamber",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Dungeon","Shrine","Temple","Interiour","Ritual"],
+                        "brightness":"Dark",
+                        "grid":"32x18",
+                        "pack":"80_DiA_Escape_From_Elturgard",
+                        "releaseurl":"WIP",
+                        "sibling":"80-04_Old_Temple_Ritual_Chamber-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"80-04_Old_Temple_Ritual_Chamber-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA 00 Escape From Elturgard - 80",
+                        "download_terms": "BM: 4 Ritual Chamber",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "80-04_Old_Temple_Ritual_Chamber-4k_Scen":{
+                                "name":"Old Temple Ritual Chamber",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Dungeon","Shrine","Temple","Interiour","Ritual"],
+                                "brightness":"Dark",
+                                "grid":"32x18",
+                                "pack":"80_DiA_Escape_From_Elturgard",
+                                "releaseurl":"WIP",
+                                "sibling":"80-04_Old_Temple_Ritual_Chamber-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"80-04_Old_Temple_Ritual_Chamber-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA 00 Escape From Elturgard - 80",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "80-05_Poets_Home-4k_BM":{
+                        "name":"Poets Home",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","House","Street","City","Hell"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"80_DiA_Escape_From_Elturgard",
+                        "releaseurl":"WIP",
+                        "sibling":"80-05_Poets_Home-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"80-05_Poets_Home-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA 00 Escape From Elturgard - 80",
+                        "download_terms": "BM: 5 Poets Home",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "80-05_Poets_Home-4k_Scen":{
+                                "name":"Poets Home",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","House","Street","City","Hell"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"80_DiA_Escape_From_Elturgard",
+                                "releaseurl":"WIP",
+                                "sibling":"80-05_Poets_Home-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"80-05_Poets_Home-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA 00 Escape From Elturgard - 80",
+                                "download_terms": "SC: 5 Poets Home",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "80-06_River_Island-4k_BM":{
+                        "name":"River Island",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["River","Exteriour","Forest"],
+                        "brightness":"Medium",
+                        "grid":"40x30",
+                        "pack":"80_DiA_Escape_From_Elturgard",
+                        "releaseurl":"WIP",
+                        "sibling":"80-06_River_Island-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"80-06_River_Island-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA 00 Escape From Elturgard - 80",
+                        "download_terms": "BM: 6 River Island",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "80-06_River_Island-4k_Scen":{
+                                "name":"River Island",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["River","Exteriour","Forest"],
+                                "brightness":"Medium",
+                                "grid":"40x30",
+                                "pack":"80_DiA_Escape_From_Elturgard",
+                                "releaseurl":"WIP",
+                                "sibling":"80-06_River_Island-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"80-06_River_Island-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA 00 Escape From Elturgard - 80",
+                                "download_terms": "SC: 6 River Island",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "80-07_Emryns_Grove-4k_BM":{
+                        "name":"Emryns Grove",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Forest","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"37x20",
+                        "pack":"80_DiA_Escape_From_Elturgard",
+                        "releaseurl":"WIP",
+                        "sibling":"80-07_Emryns_Grove-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"80-07_Emryns_Grove-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA 00 Escape From Elturgard - 80",
+                        "download_terms": "BM: 7 Emryns Grove",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "80-07_Emryns_Grove-4k_Scen":{
+                                "name":"Emryns Grove",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Forest","Exteriour"],
+                                "brightness":"Medium",
+                                "grid":"37x20",
+                                "pack":"80_DiA_Escape_From_Elturgard",
+                                "releaseurl":"WIP",
+                                "sibling":"80-07_Emryns_Grove-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"80-07_Emryns_Grove-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA 00 Escape From Elturgard - 80",
+                                "download_terms": "SC: 7 Emryns Grove",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "80-08_The_Fabled_Fawn_Inn_1F-4k_BM":{
+                        "name":"The Fabled Fawn Inn 1F",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Tavern","Civilizied","War","Fire","Interiour"],
+                        "brightness":"Medium",
+                        "grid":"37x20",
+                        "pack":"80_DiA_Escape_From_Elturgard",
+                        "releaseurl":"WIP",
+                        "sibling":"80-08_The_Fabled_Fawn_Inn_1F-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"80-08_The_Fabled_Fawn_Inn_1F-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA 00 Escape From Elturgard - 80",
+                        "download_terms": "BM: 8 Fabled Fawn Inn 1F",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "80-08_The_Fabled_Fawn_Inn_1F-4k_Scen":{
+                                "name":"The Fabled Fawn Inn 1F",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Tavern","Civilizied","War","Fire","Interiour"],
+                                "brightness":"Medium",
+                                "grid":"37x20",
+                                "pack":"80_DiA_Escape_From_Elturgard",
+                                "releaseurl":"WIP",
+                                "sibling":"80-08_The_Fabled_Fawn_Inn_1F-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"80-08_The_Fabled_Fawn_Inn_1F-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA 00 Escape From Elturgard - 80",
+                                "download_terms": "SC: 8 Fabled Fawn Inn 1F",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "80-09_The_Fabled_Fawn_Inn_2F-4k_BM":{
+                        "name":"The Fabled Fawn Inn 2F",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Tavern","Civilizied","War","Fire","Interiour"],
+                        "brightness":"Medium",
+                        "grid":"37x20",
+                        "pack":"80_DiA_Escape_From_Elturgard",
+                        "releaseurl":"WIP",
+                        "sibling":"80-09_The_Fabled_Fawn_Inn_2F-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"80-09_The_Fabled_Fawn_Inn_2F-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA 00 Escape From Elturgard - 80",
+                        "download_terms": "BM: 9 Fabled Fawn Inn 2F",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "80-09_The_Fabled_Fawn_Inn_2F-4k_Scen":{
+                                "name":"The Fabled Fawn Inn 2F",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Tavern","Civilizied","War","Fire","Interiour"],
+                                "brightness":"Medium",
+                                "grid":"37x20",
+                                "pack":"80_DiA_Escape_From_Elturgard",
+                                "releaseurl":"WIP",
+                                "sibling":"80-09_The_Fabled_Fawn_Inn_2F-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"80-09_The_Fabled_Fawn_Inn_2F-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA 00 Escape From Elturgard - 80",
+                                "download_terms": "SC: 9 Fabled Fawn Inn 2F",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "80-10_Refugee_Caravan_Wilderness-4k_BM":{
+                        "name":"Refugee Caravan Wilderness",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Exteriour","Camp","Night"],
+                        "brightness":"Dark",
+                        "grid":"37x30",
+                        "pack":"80_DiA_Escape_From_Elturgard",
+                        "releaseurl":"WIP",
+                        "sibling":"80-10_Refugee_Caravan_Wilderness-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"80-10_Refugee_Caravan_Wilderness-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA 00 Escape From Elturgard - 80",
+                        "download_terms": "BM: 10 Refugee Caravan Night",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "80-10_Refugee_Caravan_Wilderness-4k_Scen":{
+                                "name":"Refugee Caravan Wilderness",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Exteriour","Camp","Night"],
+                                "brightness":"Dark",
+                                "grid":"37x30",
+                                "pack":"80_DiA_Escape_From_Elturgard",
+                                "releaseurl":"WIP",
+                                "sibling":"80-10_Refugee_Caravan_Wilderness-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"80-10_Refugee_Caravan_Wilderness-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA 00 Escape From Elturgard - 80",
+                                "download_terms": "SC: 10 Refugee Caravan Night",
+                                "download_creator": "Beneos Battlemaps"
+                                }
                             }
                         }
                     }
