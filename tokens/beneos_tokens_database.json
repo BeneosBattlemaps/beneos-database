@@ -14534,7 +14534,7 @@
     },
     "158_infernal_immolator_2": {
       "description": "Within the infernal realms, some factions of devils actively contemplate their roles in the construct of sin, punishment, and atonement. They are dismissed by the more straightforward fiends as esoterics, yet bloody wars have been fought over interpretations of infernal nature. Immolators belong to the more radical factions of these mystic covens, firmly convinced of their role as harbingers of the punishing, all-consuming fire. Surrounded by an ominous calm, they readily join infernal hosts as independent actors, and no sin escapes their sixfold gaze.",
-      "name": "Infernal Immolator 2",
+      "name": "Infernal Immolator",
       "properties": {
         "biom": ["Planar","Infernal","Dungeon"],
         "cr": "9",
@@ -14583,12 +14583,12 @@
           "beast"
           
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/r2QZhKXzaT4?feature=shared"
     }
     },
     "016_wolf_1": {
       "description": "Wolves are natures way of reminding humans that their superiority extends only as far as their city walls. Those who still venture forth into the frontiers are wise to fear the wolf, the grey-haired and yellow-eyed incarnation of the hunt. Many tribal cultures worship the wolf as totem animals, venerating them as bringers of swift death and cunning hunters, as well as symbols of unity and cohesion.",
-      "name": "Wolf 1",
+      "name": "Wolf",
       "properties": {
         "biom": ["Forest","Wilderness","Road","Mountains","Wasteland"],
         "cr": "0.5",
@@ -14610,7 +14610,7 @@
           "beast"
           
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/r2QZhKXzaT4?feature=shared"
     }
     },
     "016_wolfkin": {
@@ -14637,12 +14637,12 @@
           "beast"
           
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/r2QZhKXzaT4?feature=shared"
     }
     },
     "016_wolf_2": {
       "description": "Wolves are natures way of reminding humans that their superiority extends only as far as their city walls. Those who still venture forth into the frontiers are wise to fear the wolf, the grey-haired and yellow-eyed incarnation of the hunt. Many tribal cultures worship the wolf as totem animals, venerating them as bringers of swift death and cunning hunters, as well as symbols of unity and cohesion.",
-      "name": "Wolf 2",
+      "name": "Wolf",
       "properties": {
         "biom": ["Forest","Wilderness","Road","Mountains","Wasteland"],
         "cr": "2",
@@ -14662,6 +14662,303 @@
         "thumbnail": "016_wolf_2-idle_face_still.webp",
         "type": [
           "beast"
+          
+        ],
+        "videourl": "https://youtu.be/r2QZhKXzaT4?feature=shared"
+    }
+    },
+    "159_vampire_chiropterror_1": {
+      "description": "Some Vampires attain the ability to tap deeply into the bestial aspect of their tainted blood, enabling them to assume a monstrous form alongside their humanoid guise. One such manifestation is the Chiropterror, bat-like brutes with innate mastery over sanguine biomancy, capable of enhancing their already considerable strength and speed through blood magic to truly terrifying heights. While some Vampires can transition between their charming, humanoid form and this monstrous one, others succumb to the call of the hunt, causing their outward appearance to truly mirror the beast within.",
+      "name": "Vampire Chiropterror",
+      "properties": {
+        "biom": ["Graves","Wilderness","Road","Mountains","Wasteland","Civilized","Dungeon"],
+        "cr": "7",
+        "fightingstyle": ["Melee","Pressure"],
+        "movement": ["Walk"],
+        "purpose": ["Damage"],
+        "releaseurl": "https://www.patreon.com/posts/vampire-103799629",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 13,
+        "stat_con": 16,
+        "stat_dex": 19,
+        "stat_hp": 96,
+        "stat_int": 10,
+        "stat_str": 18,
+        "stat_wis": 13,
+        "thumbnail": "159_vampire_chiropterror_1-idle_face_still.webp",
+        "type": [
+          "undead",
+          "Vampire"
+        ],
+        "videourl": "https://youtu.be/BfY7rvxnMow?feature=shared"
+    }
+    },
+    "159_vampire_chiropterror_2": {
+      "description": "Some Vampires attain the ability to tap deeply into the bestial aspect of their tainted blood, enabling them to assume a monstrous form alongside their humanoid guise. One such manifestation is the Chiropterror, bat-like brutes with innate mastery over sanguine biomancy, capable of enhancing their already considerable strength and speed through blood magic to truly terrifying heights. While some Vampires can transition between their charming, humanoid form and this monstrous one, others succumb to the call of the hunt, causing their outward appearance to truly mirror the beast within.",
+      "name": "Vampire Chiropterror",
+      "properties": {
+        "biom": ["Graves","Wilderness","Road","Mountains","Wasteland","Civilized","Dungeon"],
+        "cr": "7",
+        "fightingstyle": ["Melee","Pressure"],
+        "movement": ["Walk"],
+        "purpose": ["Damage"],
+        "releaseurl": "https://www.patreon.com/posts/vampire-103799629",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 13,
+        "stat_con": 16,
+        "stat_dex": 19,
+        "stat_hp": 96,
+        "stat_int": 10,
+        "stat_str": 18,
+        "stat_wis": 13,
+        "thumbnail": "159_vampire_chiropterror_2-idle_face_still.webp",
+        "type": [
+          "undead",
+          "Vampire"
+        ],
+        "videourl": "https://youtu.be/BfY7rvxnMow?feature=shared"
+    }
+    },
+    "000_month_14_dwarven_battlebrewer": {
+      "description": "Brewing is more than just a craft for dwarves; it’s a cultural cornerstone deeply intertwined with the local identity of their decentralized and often isolated societies. Each mountain kingdom or cavernous realm, has their unique brews enriched with customs and culture. Whether it’s hearty whiskey with hints of volcanic smoke, clear schnapps with sparkling mineral particles, or strong beer brewed from underground river water, they all have the power to soothe weary hands and quickly loosen knotted muscles. With their potent brews, Battle-Brewers specialize in maintaining the esprit de corps and, with their down-to-earth and jovial nature, they ease the hardships of military life, all while never hesitating to get their hands dirty themselves.",
+      "name": "Dwarven Battle-Brewer",
+      "properties": {
+        "biom": ["Wilderness","Road","Mountains","Wasteland","Civilized"],
+        "cr": "5",
+        "fightingstyle": ["Interactive"],
+        "movement": ["Walk"],
+        "purpose": ["Ally","Support"],
+        "releaseurl": "https://beneos-battlemaps.com/de/collections/animated-tokens/products/beneos-tokens-dwarven-battle-brewer",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 16,
+        "stat_con": 20,
+        "stat_dex": 8,
+        "stat_hp": 77,
+        "stat_int": 12,
+        "stat_str": 16,
+        "stat_wis": 14,
+        "thumbnail": "000_month_14_dwarven_battlebrewer-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "Dwarf"
+        ],
+        "videourl": "https://youtu.be/YA7mamRl3mA?feature=shared"
+    }
+    },
+    "000_month_14_dwarven_brewers_boarcart": {
+      "description": "Traditionally, the Battle-Brewers carts are pulled by mighty boars, serving both as beasts of burden and defenders of the Brewer’s mobile tavern and improvised brewery. These boars are nurtured from birth and raised on a secret diet, likely involving copious amounts of dwarven spirits, to enhance their already considerable combat prowess.",
+      "name": "Dwarven Brewer's Boar Cart",
+      "properties": {
+        "biom": ["Wilderness","Road","Mountains","Wasteland","Civilized"],
+        "cr": "5",
+        "fightingstyle": ["Interactive"],
+        "movement": ["Walk"],
+        "purpose": ["Ally","Support"],
+        "releaseurl": "https://beneos-battlemaps.com/de/collections/animated-tokens/products/beneos-tokens-dwarven-battle-brewer",
+        "size": "Huge",
+        "stat_ac": 17,
+        "stat_cha": 8,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 142,
+        "stat_int": 4,
+        "stat_str": 20,
+        "stat_wis": 7,
+        "thumbnail": "000_month_14_dwarven_brewers_boarcart-idle_face_still.webp",
+        "type": [
+          "beast"
+          
+        ],
+        "videourl": "https://youtu.be/YA7mamRl3mA?feature=shared"
+    }
+    },
+    "000_month_14_dwarven_brewers_barrel": {
+      "description": "Brewing is more than just a craft for dwarves; it’s a cultural cornerstone deeply intertwined with the local identity of their decentralized and often isolated societies. Each mountain kingdom or cavernous realm, has their unique brews enriched with customs and culture. Whether it’s hearty whiskey with hints of volcanic smoke, clear schnapps with sparkling mineral particles, or strong beer brewed from underground river water, they all have the power to soothe weary hands and quickly loosen knotted muscles. With their potent brews, Battle-Brewers specialize in maintaining the esprit de corps and, with their down-to-earth and jovial nature, they ease the hardships of military life, all while never hesitating to get their hands dirty themselves.",
+      "name": "Dwarven Brewers Barrel",
+      "properties": {
+        "biom": ["Wilderness","Road","Mountains","Wasteland","Civilized"],
+        "cr": "5",
+        "fightingstyle": ["Interactive"],
+        "movement": ["Walk"],
+        "purpose": ["Ally","Support"],
+        "releaseurl": "https://beneos-battlemaps.com/de/collections/animated-tokens/products/beneos-tokens-dwarven-battle-brewer",
+        "size": "Huge",
+        "stat_ac": 17,
+        "stat_cha": 8,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 142,
+        "stat_int": 4,
+        "stat_str": 20,
+        "stat_wis": 7,
+        "thumbnail": "000_month_14_dwarven_brewers_barrel-idle_face_still.webp",
+        "type": [
+          "beast"
+          
+        ],
+        "videourl": "https://youtu.be/YA7mamRl3mA?feature=shared"
+    }
+    },
+    "000_month_14_giant_boar": {
+      "description": "Countless royal hunting expeditions have been thrown into disarray by the ferocity of a single regular boar, leaving a trail of hunters scarred by their encounters - not all living to tell the tale. Giants among their already towering kind, giant boars dwarf their ordinary brethren, doubling in stature and quadrupling in mass. When a rampaging giant boar charges, conventional methods falter, and its onslaught often rivals the devastation normally reserved for natural disasters.",
+      "name": "Giant Boar",
+      "properties": {
+        "biom": ["Wilderness","Road","Wasteland","Forest","Jungle"],
+        "cr": "5",
+        "fightingstyle": ["Simple", "Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Pressure"],
+        "releaseurl": "https://beneos-battlemaps.com/de/collections/animated-tokens/products/beneos-tokens-dwarven-battle-brewer",
+        "size": "Large",
+        "stat_ac": 17,
+        "stat_cha": 8,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 142,
+        "stat_int": 4,
+        "stat_str": 20,
+        "stat_wis": 7,
+        "thumbnail": "000_month_14_giant_boar-idle_face_still.webp",
+        "type": [
+          "beast"
+          
+        ],
+        "videourl": "https://youtu.be/YA7mamRl3mA?feature=shared"
+    }
+    },
+    "160_skyshark_2": {
+      "description": "One might think that avoiding water would generally keep you safe from shark attacks. One would be wrong. Whether striking from lightning-lit storm clouds, deceptively calm cloud seas, or towering waves, Sky Sharks attack unexpectedly from both air or water, causing such bloodshed in their raids that all involved creatures are frequently overtaken by a primordial blood frenzy, tearing, hacking, and biting at each other in a blood-crazed haze.",
+      "name": "Sky Shark",
+      "properties": {
+        "biom": ["Coastal","Ocean","Planar"],
+        "cr": "5",
+        "fightingstyle": ["Airborne", "Shock"],
+        "movement": ["Fly"],
+        "purpose": ["Damage"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 5,
+        "stat_con": 14,
+        "stat_dex": 16,
+        "stat_hp": 82,
+        "stat_int": 4,
+        "stat_str": 20,
+        "stat_wis": 13,
+        "thumbnail": "160_skyshark_2-idle_face_still.webp",
+        "type": [
+          "elemental",
+          "water"
+        ],
+        "videourl": ""
+    }
+    },
+    "160_skyshark_1": {
+      "description": "One might think that avoiding water would generally keep you safe from shark attacks. One would be wrong. Whether striking from lightning-lit storm clouds, deceptively calm cloud seas, or towering waves, Sky Sharks attack unexpectedly from both air or water, causing such bloodshed in their raids that all involved creatures are frequently overtaken by a primordial blood frenzy, tearing, hacking, and biting at each other in a blood-crazed haze.",
+      "name": "Sky Shark",
+      "properties": {
+        "biom": ["Coastal","Ocean","Planar"],
+        "cr": "5",
+        "fightingstyle": ["Airborne", "Shock"],
+        "movement": ["Fly"],
+        "purpose": ["Damage"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 5,
+        "stat_con": 14,
+        "stat_dex": 16,
+        "stat_hp": 82,
+        "stat_int": 4,
+        "stat_str": 20,
+        "stat_wis": 13,
+        "thumbnail": "160_skyshark_1-idle_face_still.webp",
+        "type": [
+          "elemental",
+          "water"
+        ],
+        "videourl": ""
+    }
+    },
+    "160_skyshark_3": {
+      "description": "One might think that avoiding water would generally keep you safe from shark attacks. One would be wrong. Whether striking from lightning-lit storm clouds, deceptively calm cloud seas, or towering waves, Sky Sharks attack unexpectedly from both air or water, causing such bloodshed in their raids that all involved creatures are frequently overtaken by a primordial blood frenzy, tearing, hacking, and biting at each other in a blood-crazed haze.",
+      "name": "Sky Shark",
+      "properties": {
+        "biom": ["Coastal","Ocean","Planar"],
+        "cr": "5",
+        "fightingstyle": ["Airborne", "Shock"],
+        "movement": ["Fly"],
+        "purpose": ["Damage"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 5,
+        "stat_con": 14,
+        "stat_dex": 16,
+        "stat_hp": 82,
+        "stat_int": 4,
+        "stat_str": 20,
+        "stat_wis": 13,
+        "thumbnail": "160_skyshark_3-idle_face_still.webp",
+        "type": [
+          "elemental",
+          "water"
+        ],
+        "videourl": ""
+    }
+    },
+    "160_sodden_cavalier_1": {
+      "description": "Battlefields are dreadful places, not only for the downtrodden foot soldiers, but also the shining mounted elite. Many a glorious cavalry charge ended miserably in knee-deep mud, the final breath of many a proud knight a brackish gurgle, far removed from any notion of honorable warfare or chivalric combat. Such humiliated knights emerge from swamps and marshlands as Sodden Cavaliers, eternally surrounded by cold, relentless rain, seeking the death in battle that was once denied to them.",
+      "name": "Sodden Cavalier 1",
+      "properties": {
+        "biom": ["Road","Wastelands","Forest","Swamp","Graves","Horror"],
+        "cr": "5",
+        "fightingstyle": ["Debuff", "Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Leader"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 17,
+        "stat_cha": 5,
+        "stat_con": 18,
+        "stat_dex": 12,
+        "stat_hp": 127,
+        "stat_int": 7,
+        "stat_str": 16,
+        "stat_wis": 10,
+        "thumbnail": "160_sodden_cavalier_1-idle_face_still.webp",
+        "type": [
+          "undead",
+          
+        ],
+        "videourl": ""
+    }
+    },
+    "160_sodden_cavalier_2": {
+      "description": "Battlefields are dreadful places, not only for the downtrodden foot soldiers, but also the shining mounted elite. Many a glorious cavalry charge ended miserably in knee-deep mud, the final breath of many a proud knight a brackish gurgle, far removed from any notion of honorable warfare or chivalric combat. Such humiliated knights emerge from swamps and marshlands as Sodden Cavaliers, eternally surrounded by cold, relentless rain, seeking the death in battle that was once denied to them.",
+      "name": "Sodden Cavalier 2",
+      "properties": {
+        "biom": ["Road","Wastelands","Forest","Swamp","Graves","Horror"],
+        "cr": "5",
+        "fightingstyle": ["Debuff", "Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Leader"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 17,
+        "stat_cha": 5,
+        "stat_con": 18,
+        "stat_dex": 12,
+        "stat_hp": 127,
+        "stat_int": 7,
+        "stat_str": 16,
+        "stat_wis": 10,
+        "thumbnail": "160_sodden_cavalier_2-idle_face_still.webp",
+        "type": [
+          "undead",
           
         ],
         "videourl": ""
