@@ -14838,7 +14838,7 @@
         "fightingstyle": ["Airborne", "Shock"],
         "movement": ["Fly"],
         "purpose": ["Damage"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/sky-shark-104280089",
         "size": "Large",
         "stat_ac": 16,
         "stat_cha": 5,
@@ -14853,7 +14853,7 @@
           "elemental",
           "water"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/3QDHJS0yJTE?si=gQKEL253aNmSvXBi"
     }
     },
     "160_skyshark_1": {
@@ -14865,7 +14865,7 @@
         "fightingstyle": ["Airborne", "Shock"],
         "movement": ["Fly"],
         "purpose": ["Damage"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/sky-shark-104280089",
         "size": "Large",
         "stat_ac": 16,
         "stat_cha": 5,
@@ -14880,7 +14880,7 @@
           "elemental",
           "water"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/3QDHJS0yJTE?si=gQKEL253aNmSvXBi"
     }
     },
     "160_skyshark_3": {
@@ -14892,7 +14892,7 @@
         "fightingstyle": ["Airborne", "Shock"],
         "movement": ["Fly"],
         "purpose": ["Damage"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/sky-shark-104280089",
         "size": "Large",
         "stat_ac": 16,
         "stat_cha": 5,
@@ -14907,19 +14907,19 @@
           "elemental",
           "water"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/3QDHJS0yJTE?si=gQKEL253aNmSvXBi"
     }
     },
     "160_sodden_cavalier_1": {
       "description": "Battlefields are dreadful places, not only for the downtrodden foot soldiers, but also the shining mounted elite. Many a glorious cavalry charge ended miserably in knee-deep mud, the final breath of many a proud knight a brackish gurgle, far removed from any notion of honorable warfare or chivalric combat. Such humiliated knights emerge from swamps and marshlands as Sodden Cavaliers, eternally surrounded by cold, relentless rain, seeking the death in battle that was once denied to them.",
-      "name": "Sodden Cavalier 1",
+      "name": "Sodden Cavalier",
       "properties": {
         "biom": ["Road","Wastelands","Forest","Swamp","Graves","Horror"],
         "cr": "5",
         "fightingstyle": ["Debuff", "Melee"],
         "movement": ["Walk"],
         "purpose": ["Leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/104525944",
         "size": "Large",
         "stat_ac": 17,
         "stat_cha": 5,
@@ -14931,22 +14931,21 @@
         "stat_wis": 10,
         "thumbnail": "160_sodden_cavalier_1-idle_face_still.webp",
         "type": [
-          "undead",
-          
+          "undead"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/AtkO2IgFA1k?si=5K978HINUcUs4MPj"
     }
     },
     "160_sodden_cavalier_2": {
       "description": "Battlefields are dreadful places, not only for the downtrodden foot soldiers, but also the shining mounted elite. Many a glorious cavalry charge ended miserably in knee-deep mud, the final breath of many a proud knight a brackish gurgle, far removed from any notion of honorable warfare or chivalric combat. Such humiliated knights emerge from swamps and marshlands as Sodden Cavaliers, eternally surrounded by cold, relentless rain, seeking the death in battle that was once denied to them.",
-      "name": "Sodden Cavalier 2",
+      "name": "Sodden Cavalier",
       "properties": {
         "biom": ["Road","Wastelands","Forest","Swamp","Graves","Horror"],
         "cr": "5",
         "fightingstyle": ["Debuff", "Melee"],
         "movement": ["Walk"],
         "purpose": ["Leader"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/104525944",
         "size": "Large",
         "stat_ac": 17,
         "stat_cha": 5,
@@ -14958,10 +14957,36 @@
         "stat_wis": 10,
         "thumbnail": "160_sodden_cavalier_2-idle_face_still.webp",
         "type": [
-          "undead",
+          "undead"
+        ],
+        "videourl": "https://youtu.be/AtkO2IgFA1k?si=5K978HINUcUs4MPj"
+    }
+    },
+    "160_undead_steed": {
+      "description": "Cursed, or perhaps blessed, with undeath, whether once a noble war steed or a worn-out nag, this mount remains a loyal companion, tirelessly carrying its rider and their burdens despite its festering flesh and sloughing skin, if one can stomach the smell and endure the disgusted looks.",
+      "name": "Undead Steed",
+      "properties": {
+        "biom": ["Road","Wastelands","Forest","Swamp","Graves","Horror"],
+        "cr": "2",
+        "fightingstyle": ["Simple","Charge"],
+        "movement": ["Walk"],
+        "purpose": ["Ally","Mount"],
+        "releaseurl": "https://www.patreon.com/posts/104525944",
+        "size": "Large",
+        "stat_ac": 13,
+        "stat_cha": 3,
+        "stat_con": 16,
+        "stat_dex": 14,
+        "stat_hp": 53,
+        "stat_int": 5,
+        "stat_str": 17,
+        "stat_wis": 12,
+        "thumbnail": "160_undead_steed-idle_face_still.webp",
+        "type": [
+          "undead"
           
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/AtkO2IgFA1k?si=5K978HINUcUs4MPj"
     }
   }
   }
