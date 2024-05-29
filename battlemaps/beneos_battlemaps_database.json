@@ -32446,7 +32446,7 @@
                         "name":"Razorcliff Cove",
                         "description":"",
                         "properties":{
-                        "adventure":["Single Map Release"],
+                        "adventure":["Single Map"],
                         "biom":["Civilized","Interiour", "Dungeon","Harbour","Ocean"],
                         "brightness":"Medium",
                         "grid":"65x35",
@@ -32465,7 +32465,7 @@
                                 "name":"Razorcliff Cove",
                                 "description":"",
                                 "properties":{
-                                "adventure":["Single Map Release"],
+                                "adventure":["Single Map"],
                                 "biom":["Civilized","Interiour", "Dungeon","Harbour","Ocean"],
                                 "brightness":"Medium",
                                 "grid":"65x35",
