@@ -977,6 +977,70 @@
         "classes": ["Druid", "Ranger"],
         "components": ["V S M"],
         "icon": "0048_predatory_focus-icon.webp"
+    }
+    },
+    "0044_retrace": {
+      "key": "0044_retrace",
+      "description": "Perfectly retrace the path a creature took during the last hour.",
+      "name": "Retrace",
+      "properties": {
+        "level": "2",
+        "school": "Divination",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Utility",
+        "classes": ["Warlock Sorcerer Ranger Druid Bard Cleric Wizard"],
+        "components": ["V S M"],
+        "icon": "0044_retrace-icon.webp"
+      }
+    },
+    "0045_stumbleground": {
+      "key": "0045_stumbleground",
+      "description": "Disturb the ground under an approaching creature, possibly knocking it prone and crushing it under its own weight.",
+      "name": "Stumbleground",
+      "properties": {
+        "level": "1",
+        "school": "Transmutation",
+        "casting_time": "Reaction",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Immobilization",
+        "classes": ["Ranger Druid Bard"],
+        "components": ["V S"],
+        "icon": "0045_stumbleground-icon.webp"
+    }
+    },
+    "0046_fist_of_iron": {
+      "key": "0046_fist_of_iron",
+      "description": "Transform your arm into solid steel for a powerful strike and increased defense against the next attack.",
+      "name": "Fist Of Iron",
+      "properties": {
+        "level": "0",
+        "school": "Transmutation",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Melee Damage",
+        "classes": ["Paladin", "Cleric", "Bard", "Sorcerer", "Warlock"],
+        "components": ["V S"],
+        "icon": "0046_fist_of_iron-icon.webp"
+      }
+    },
+    "0047_subtle_lure": {
+      "key": "0047_subtle_lure",
+      "description": "A subtle spell that compels chosen creatures to investigate a captivating stimulus, without raising alarm.",
+      "name": "Subtle Lure",
+      "properties": {
+        "level": "2",
+        "school": "Enchantment",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": true,
+        "spell_type": "Utility",
+        "classes": ["Bard", "Wizard", "Ranger", "Sorcerer", "Warlock"],
+        "components": ["V S M"],
+        "icon": "0047_subtle_lure-icon.webp"
       }
     }
   }
