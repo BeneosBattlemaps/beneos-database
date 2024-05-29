@@ -30822,7 +30822,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Bright",
@@ -30850,7 +30850,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Bright",
@@ -30878,7 +30878,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -30906,7 +30906,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -30934,7 +30934,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -30962,7 +30962,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -30990,7 +30990,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -31018,7 +31018,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -31046,7 +31046,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -31074,7 +31074,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -31102,7 +31102,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -31130,7 +31130,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -31158,7 +31158,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -31186,7 +31186,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -31214,7 +31214,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -31242,7 +31242,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -32447,7 +32447,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["Single Map Release"],
-                        "biom":["Civilizied","Interiour", "Dungeon","Harbour","Ocean"],
+                        "biom":["Civilized","Interiour", "Dungeon","Harbour","Ocean"],
                         "brightness":"Medium",
                         "grid":"65x35",
                         "pack":"16_Razorcliff_Cove",
@@ -32466,7 +32466,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["Single Map Release"],
-                                "biom":["Civilizied","Interiour", "Dungeon","Harbour","Ocean"],
+                                "biom":["Civilized","Interiour", "Dungeon","Harbour","Ocean"],
                                 "brightness":"Medium",
                                 "grid":"65x35",
                                 "pack":"16_Razorcliff_Cove",
@@ -32865,7 +32865,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["None"],
-                        "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
+                        "biom":["Civilized","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
                         "brightness":"Bright",
                         "grid":"33x23",
                         "pack":"77_Smuggler_Boat_Pack",
@@ -32884,7 +32884,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["None"],
-                                "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
+                                "biom":["Civilized","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
                                 "brightness":"Bright",
                                 "grid":"33x23",
                                 "pack":"77_Smuggler_Boat_Pack",
@@ -32903,7 +32903,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["None"],
-                        "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water","Horror"],
+                        "biom":["Civilized","Exteriour", "Ship","Vehicle", "River","Swamp","Water","Horror"],
                         "brightness":"Dark",
                         "grid":"33x23",
                         "pack":"77_Smuggler_Boat_Pack",
@@ -32922,7 +32922,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["None"],
-                                "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water","Horror"],
+                                "biom":["Civilized","Exteriour", "Ship","Vehicle", "River","Swamp","Water","Horror"],
                                 "brightness":"Dark",
                                 "grid":"33x23",
                                 "pack":"77_Smuggler_Boat_Pack",
@@ -32941,7 +32941,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["None"],
-                        "biom":["Civilizied","Exteriour", "Ship","Vehicle", "Camp","Night","Water"],
+                        "biom":["Civilized","Exteriour", "Ship","Vehicle", "Camp","Night","Water"],
                         "brightness":"Dark",
                         "grid":"30x25",
                         "pack":"77_Smuggler_Boat_Pack",
@@ -32960,7 +32960,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["None"],
-                                "biom":["Civilizied","Exteriour", "Ship","Vehicle", "Camp","Night","Water"],
+                                "biom":["Civilized","Exteriour", "Ship","Vehicle", "Camp","Night","Water"],
                                 "brightness":"Dark",
                                 "grid":"30x25",
                                 "pack":"77_Smuggler_Boat_Pack",
@@ -32979,7 +32979,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["None"],
-                        "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
+                        "biom":["Civilized","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
                         "brightness":"Bright",
                         "grid":"32x18",
                         "pack":"77_Smuggler_Boat_Pack",
@@ -32998,7 +32998,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["None"],
-                                "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
+                                "biom":["Civilized","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
                                 "brightness":"Bright",
                                 "grid":"32x18",
                                 "pack":"77_Smuggler_Boat_Pack",
@@ -33017,7 +33017,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["None"],
-                        "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
+                        "biom":["Civilized","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
                         "brightness":"Medium",
                         "grid":"32x18",
                         "pack":"77_Smuggler_Boat_Pack",
@@ -33036,7 +33036,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["None"],
-                                "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
+                                "biom":["Civilized","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
                                 "brightness":"Medium",
                                 "grid":"32x18",
                                 "pack":"77_Smuggler_Boat_Pack",
@@ -33055,7 +33055,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["None"],
-                        "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water","Harbour"],
+                        "biom":["Civilized","Exteriour", "Ship","Vehicle", "River","Swamp","Water","Harbour"],
                         "brightness":"Medium",
                         "grid":"32x18",
                         "pack":"77_Smuggler_Boat_Pack",
@@ -33074,7 +33074,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["None"],
-                                "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water","Harbour"],
+                                "biom":["Civilized","Exteriour", "Ship","Vehicle", "River","Swamp","Water","Harbour"],
                                 "brightness":"Medium",
                                 "grid":"32x18",
                                 "pack":"77_Smuggler_Boat_Pack",
@@ -33093,7 +33093,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["None"],
-                        "biom":["Civilizied","Exteriour", "Ship","Vehicle","Ocean","Water"],
+                        "biom":["Civilized","Exteriour", "Ship","Vehicle","Ocean","Water"],
                         "brightness":"Medium",
                         "grid":"32x18",
                         "pack":"77_Smuggler_Boat_Pack",
@@ -33112,7 +33112,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["None"],
-                                "biom":["Civilizied","Exteriour", "Ship","Vehicle","Ocean","Water"],
+                                "biom":["Civilized","Exteriour", "Ship","Vehicle","Ocean","Water"],
                                 "brightness":"Medium",
                                 "grid":"32x18",
                                 "pack":"77_Smuggler_Boat_Pack",
@@ -33131,7 +33131,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["None"],
-                        "biom":["Civilizied","Exteriour", "Ship","Vehicle","Ocean","Water"],
+                        "biom":["Civilized","Exteriour", "Ship","Vehicle","Ocean","Water"],
                         "brightness":"Medium",
                         "grid":"32x18",
                         "pack":"77_Smuggler_Boat_Pack",
@@ -33150,7 +33150,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["None"],
-                                "biom":["Civilizied","Exteriour", "Ship","Vehicle","Ocean","Water"],
+                                "biom":["Civilized","Exteriour", "Ship","Vehicle","Ocean","Water"],
                                 "brightness":"Medium",
                                 "grid":"32x18",
                                 "pack":"77_Smuggler_Boat_Pack",
@@ -33169,7 +33169,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["None"],
-                        "biom":["Civilizied","Exteriour", "Ship","Vehicle","Ocean","Water","Storm"],
+                        "biom":["Civilized","Exteriour", "Ship","Vehicle","Ocean","Water","Storm"],
                         "brightness":"Dark",
                         "grid":"32x18",
                         "pack":"77_Smuggler_Boat_Pack",
@@ -33188,7 +33188,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["None"],
-                                "biom":["Civilizied","Exteriour", "Ship","Vehicle","Ocean","Water","Storm"],
+                                "biom":["Civilized","Exteriour", "Ship","Vehicle","Ocean","Water","Storm"],
                                 "brightness":"Dark",
                                 "grid":"32x18",
                                 "pack":"77_Smuggler_Boat_Pack",
@@ -33207,7 +33207,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["None"],
-                        "biom":["Civilizied","Exteriour", "Ship","Vehicle","Ocean","Water","Beach","Wreckage"],
+                        "biom":["Civilized","Exteriour", "Ship","Vehicle","Ocean","Water","Beach","Wreckage"],
                         "brightness":"Bright",
                         "grid":"32x18",
                         "pack":"77_Smuggler_Boat_Pack",
@@ -33226,7 +33226,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["None"],
-                                "biom":["Civilizied","Exteriour", "Ship","Vehicle","Ocean","Water","Beach","Wreckage"],
+                                "biom":["Civilized","Exteriour", "Ship","Vehicle","Ocean","Water","Beach","Wreckage"],
                                 "brightness":"Bright",
                                 "grid":"32x18",
                                 "pack":"77_Smuggler_Boat_Pack",
@@ -33244,8 +33244,8 @@
                         "name":"Antlers Tavern Normal 1F",
                         "description":"",
                         "properties":{
-                        "adventure":["Decent into Avernus"],
-                        "biom":["Civilizied","Interiour", "Tavern"],
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilized","Interiour", "Tavern"],
                         "brightness":"Medium",
                         "grid":"34x28",
                         "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
@@ -33263,8 +33263,8 @@
                                 "name":"Antlers Tavern Normal 1F",
                                 "description":"",
                                 "properties":{
-                                "adventure":["Decent into Avernus"],
-                                "biom":["Civilizied","Interiour", "Tavern"],
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilized","Interiour", "Tavern"],
                                 "brightness":"Medium",
                                 "grid":"34x28",
                                 "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
@@ -33282,8 +33282,8 @@
                         "name":"Antlers Tavern Normal 2F",
                         "description":"",
                         "properties":{
-                        "adventure":["Decent into Avernus"],
-                        "biom":["Civilizied","Interiour", "Tavern"],
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilized","Interiour", "Tavern"],
                         "brightness":"Medium",
                         "grid":"34x28",
                         "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
@@ -33301,8 +33301,8 @@
                                 "name":"Antlers Tavern Normal 2F",
                                 "description":"",
                                 "properties":{
-                                "adventure":["Decent into Avernus"],
-                                "biom":["Civilizied","Interiour", "Tavern"],
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilized","Interiour", "Tavern"],
                                 "brightness":"Medium",
                                 "grid":"34x28",
                                 "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
@@ -33320,8 +33320,8 @@
                         "name":"Antlers Tavern Normal Roof",
                         "description":"",
                         "properties":{
-                        "adventure":["Decent into Avernus"],
-                        "biom":["Civilizied","Exteriour","Roof","Tavern","Hell"],
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilized","Exteriour","Roof","Tavern","Hell"],
                         "brightness":"Medium",
                         "grid":"29x25",
                         "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
@@ -33339,8 +33339,8 @@
                                 "name":"Antlers Tavern Normal Roof",
                                 "description":"",
                                 "properties":{
-                                "adventure":["Decent into Avernus"],
-                                "biom":["Civilizied","Exteriour","Roof","Tavern","Hell"],
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilized","Exteriour","Roof","Tavern","Hell"],
                                 "brightness":"Medium",
                                 "grid":"29x25",
                                 "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
@@ -33358,8 +33358,8 @@
                         "name":"Antlers Tavern Hell 1F",
                         "description":"",
                         "properties":{
-                        "adventure":["Decent into Avernus"],
-                        "biom":["Civilizied","Interiour", "Tavern","Hell"],
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilized","Interiour", "Tavern","Hell"],
                         "brightness":"Medium",
                         "grid":"34x28",
                         "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
@@ -33377,8 +33377,8 @@
                                 "name":"Antlers Tavern Hell 1F",
                                 "description":"",
                                 "properties":{
-                                "adventure":["Decent into Avernus"],
-                                "biom":["Civilizied","Interiour", "Tavern","Hell"],
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilized","Interiour", "Tavern","Hell"],
                                 "brightness":"Medium",
                                 "grid":"34x28",
                                 "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
@@ -33396,8 +33396,8 @@
                         "name":"Antlers Tavern Hell 2F",
                         "description":"",
                         "properties":{
-                        "adventure":["Decent into Avernus"],
-                        "biom":["Civilizied","Exteriour","Roof","Tavern","Hell"],
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilized","Exteriour","Roof","Tavern","Hell"],
                         "brightness":"Medium",
                         "grid":"34x28",
                         "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
@@ -33415,8 +33415,8 @@
                                 "name":"Antlers Tavern Hell 2F",
                                 "description":"",
                                 "properties":{
-                                "adventure":["Decent into Avernus"],
-                                "biom":["Civilizied","Exteriour","Roof","Tavern","Hell"],
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilized","Exteriour","Roof","Tavern","Hell"],
                                 "brightness":"Medium",
                                 "grid":"34x28",
                                 "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
@@ -33434,8 +33434,8 @@
                         "name":"Antlers Tavern Hell Roof",
                         "description":"",
                         "properties":{
-                        "adventure":["Decent into Avernus"],
-                        "biom":["Civilizied","Interiour", "Tavern"],
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilized","Interiour", "Tavern"],
                         "brightness":"Dark",
                         "grid":"29x25",
                         "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
@@ -33453,8 +33453,8 @@
                                 "name":"Antlers Tavern Hell Roof",
                                 "description":"",
                                 "properties":{
-                                "adventure":["Decent into Avernus"],
-                                "biom":["Civilizied","Interiour", "Tavern"],
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilized","Interiour", "Tavern"],
                                 "brightness":"Dark",
                                 "grid":"29x25",
                                 "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
@@ -33473,7 +33473,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["Descent into Avernus"],
-                        "biom":["Civilizied","Exteriour", "Camp"],
+                        "biom":["Civilized","Exteriour", "Camp"],
                         "brightness":"Bright",
                         "grid":"32x18",
                         "pack":"79_DiA_Fall_of_Elturel",
@@ -33492,7 +33492,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["Descent into Avernus"],
-                                "biom":["Civilizied","Exteriour", "Camp"],
+                                "biom":["Civilized","Exteriour", "Camp"],
                                 "brightness":"Bright",
                                 "grid":"32x18",
                                 "pack":"79_DiA_Fall_of_Elturel",
@@ -33663,7 +33663,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["Descent into Avernus"],
-                        "biom":["Civilizied","Exteriour","Camp","Hell"],
+                        "biom":["Civilized","Exteriour","Camp","Hell"],
                         "brightness":"Medium",
                         "grid":"32x18",
                         "pack":"80_DiA_Escape_From_Elturgard",
@@ -33682,7 +33682,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["Descent into Avernus"],
-                                "biom":["Civilizied","Exteriour","Camp","Hell"],
+                                "biom":["Civilized","Exteriour","Camp","Hell"],
                                 "brightness":"Medium",
                                 "grid":"32x18",
                                 "pack":"80_DiA_Escape_From_Elturgard",
@@ -33701,7 +33701,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["Descent into Avernus"],
-                        "biom":["Civilizied","War","Hell","Street","Burning","Exteriour","City","Fire"],
+                        "biom":["Civilized","War","Hell","Street","Burning","Exteriour","City","Fire"],
                         "brightness":"Medium",
                         "grid":"37x20",
                         "pack":"80_DiA_Escape_From_Elturgard",
@@ -33720,7 +33720,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["Descent into Avernus"],
-                                "biom":["Civilizied","War","Hell","Street","Burning","Exteriour","City","Fire"],
+                                "biom":["Civilized","War","Hell","Street","Burning","Exteriour","City","Fire"],
                                 "brightness":"Medium",
                                 "grid":"37x20",
                                 "pack":"80_DiA_Escape_From_Elturgard",
@@ -33815,7 +33815,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["Descent into Avernus"],
-                        "biom":["Civilizied","House","Street","City","Hell"],
+                        "biom":["Civilized","House","Street","City","Hell"],
                         "brightness":"Medium",
                         "grid":"32x18",
                         "pack":"80_DiA_Escape_From_Elturgard",
@@ -33834,7 +33834,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["Descent into Avernus"],
-                                "biom":["Civilizied","House","Street","City","Hell"],
+                                "biom":["Civilized","House","Street","City","Hell"],
                                 "brightness":"Medium",
                                 "grid":"32x18",
                                 "pack":"80_DiA_Escape_From_Elturgard",
@@ -33929,7 +33929,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["Descent into Avernus"],
-                        "biom":["Tavern","Civilizied","War","Fire","Interiour"],
+                        "biom":["Tavern","Civilized","War","Fire","Interiour"],
                         "brightness":"Medium",
                         "grid":"37x20",
                         "pack":"80_DiA_Escape_From_Elturgard",
@@ -33948,7 +33948,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["Descent into Avernus"],
-                                "biom":["Tavern","Civilizied","War","Fire","Interiour"],
+                                "biom":["Tavern","Civilized","War","Fire","Interiour"],
                                 "brightness":"Medium",
                                 "grid":"37x20",
                                 "pack":"80_DiA_Escape_From_Elturgard",
@@ -33967,7 +33967,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["Descent into Avernus"],
-                        "biom":["Tavern","Civilizied","War","Fire","Interiour"],
+                        "biom":["Tavern","Civilized","War","Fire","Interiour"],
                         "brightness":"Medium",
                         "grid":"37x20",
                         "pack":"80_DiA_Escape_From_Elturgard",
@@ -33986,7 +33986,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["Descent into Avernus"],
-                                "biom":["Tavern","Civilizied","War","Fire","Interiour"],
+                                "biom":["Tavern","Civilized","War","Fire","Interiour"],
                                 "brightness":"Medium",
                                 "grid":"37x20",
                                 "pack":"80_DiA_Escape_From_Elturgard",
@@ -34005,7 +34005,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["Descent into Avernus"],
-                        "biom":["Civilizied","Exteriour","Camp","Night"],
+                        "biom":["Civilized","Exteriour","Camp","Night"],
                         "brightness":"Dark",
                         "grid":"37x30",
                         "pack":"80_DiA_Escape_From_Elturgard",
@@ -34024,7 +34024,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["Descent into Avernus"],
-                                "biom":["Civilizied","Exteriour","Camp","Night"],
+                                "biom":["Civilized","Exteriour","Camp","Night"],
                                 "brightness":"Dark",
                                 "grid":"37x30",
                                 "pack":"80_DiA_Escape_From_Elturgard",
