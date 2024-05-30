@@ -14988,6 +14988,141 @@
         ],
         "videourl": "https://youtu.be/AtkO2IgFA1k?si=5K978HINUcUs4MPj"
     }
+    },
+    "162_brigand_1": {
+      "description": "Brigands, cast out or withdrawn from society, have forged a new home within the harsh spaces between cities and villages. Gathered into loose bands, they seek refuge in castle ruins or caverns, from which they launch coordinated raids and ambushes. Despite their ragtag weaponry and lack of military experience, these outcasts are not to be trifled with, for the harsh frontiers forge hardened men and women, most of whom know there is no turning back for them.",
+      "name": "Brigand",
+      "properties": {
+        "biom": ["Road","Wastelands","Forest","Swamp","Graves","Civilized","Jungle","Mountains"],
+        "cr": "1",
+        "fightingstyle": ["Ambusher","Predator","Pack"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 10,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 26,
+        "stat_int": 11,
+        "stat_str": 15,
+        "stat_wis": 14,
+        "thumbnail": "162_brigand_1-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "Human"
+        ],
+        "videourl": ""
+    }
+    },
+    "162_brigand_2": {
+      "description": "Brigands, cast out or withdrawn from society, have forged a new home within the harsh spaces between cities and villages. Gathered into loose bands, they seek refuge in castle ruins or caverns, from which they launch coordinated raids and ambushes. Despite their ragtag weaponry and lack of military experience, these outcasts are not to be trifled with, for the harsh frontiers forge hardened men and women, most of whom know there is no turning back for them.",
+      "name": "Brigand",
+      "properties": {
+        "biom": ["Road","Wastelands","Forest","Swamp","Graves","Civilized","Jungle","Mountains"],
+        "cr": "1",
+        "fightingstyle": ["Ambusher","Predator","Pack"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 10,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 26,
+        "stat_int": 11,
+        "stat_str": 15,
+        "stat_wis": 14,
+        "thumbnail": "162_brigand_2-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "Human"
+        ],
+        "videourl": ""
+    }
+    },
+    "162_brigand_4": {
+      "description": "Brigands, cast out or withdrawn from society, have forged a new home within the harsh spaces between cities and villages. Gathered into loose bands, they seek refuge in castle ruins or caverns, from which they launch coordinated raids and ambushes. Despite their ragtag weaponry and lack of military experience, these outcasts are not to be trifled with, for the harsh frontiers forge hardened men and women, most of whom know there is no turning back for them.",
+      "name": "Brigand",
+      "properties": {
+        "biom": ["Road","Wastelands","Forest","Swamp","Graves","Civilized","Jungle","Mountains"],
+        "cr": "1",
+        "fightingstyle": ["Ambusher","Predator","Pack"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 10,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 26,
+        "stat_int": 11,
+        "stat_str": 15,
+        "stat_wis": 14,
+        "thumbnail": "162_brigand_4-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "Human"
+        ],
+        "videourl": ""
+    }
+    },
+    "162_brigand_3": {
+      "description": "Brigands, cast out or withdrawn from society, have forged a new home within the harsh spaces between cities and villages. Gathered into loose bands, they seek refuge in castle ruins or caverns, from which they launch coordinated raids and ambushes. Despite their ragtag weaponry and lack of military experience, these outcasts are not to be trifled with, for the harsh frontiers forge hardened men and women, most of whom know there is no turning back for them.",
+      "name": "Brigand",
+      "properties": {
+        "biom": ["Road","Wastelands","Forest","Swamp","Graves","Civilized","Jungle","Mountains"],
+        "cr": "1",
+        "fightingstyle": ["Ambusher","Predator","Pack"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 10,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 26,
+        "stat_int": 11,
+        "stat_str": 15,
+        "stat_wis": 14,
+        "thumbnail": "162_brigand_3-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "Human"
+        ],
+        "videourl": ""
+    }
+    },
+    "163_infernal_bloodhowler": {
+      "description": "From the ranks of Infernal Infantry some devils stand out through sheer combat ferocity and brutality. These individuals are singled out and forced to engage in a ritualized duel. One combatant emerges as a Bloodhowler, swollen in stature and wielding an infernal axe, flash-forged at the apex of their duel, carrying the raging essence of the vanquished devil. From then on, the Bloodhowler serves as an infernal champion, leading the charge and calling upon the blood rain to sanctify their slaughter.",
+      "name": "Infernal Bloodhowler",
+      "properties": {
+        "biom": ["Planar","Infernal","Lair"],
+        "cr": "7",
+        "fightingstyle": ["Charge","Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Damage","Support"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 16,
+        "stat_con": 16,
+        "stat_dex": 13,
+        "stat_hp": 154,
+        "stat_int": 9,
+        "stat_str": 20,
+        "stat_wis": 12,
+        "thumbnail": "163_infernal_bloodhowler-idle_face_still.webp",
+        "type": [
+          "fiend",
+          "Devil"
+        ],
+        "videourl": ""
+    }
   }
   }
   }
