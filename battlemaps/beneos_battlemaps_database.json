@@ -1070,32 +1070,6 @@
                 "download_creator": "Beneos Battlemaps"
             }
         },
-        "05-01_DeathHouse_1F-4K_Scenery": {
-            "name": "Death House 1F",
-            "description": "",
-            "properties": {
-                "adventure": [
-                    "Curse of Strahd"
-                ],
-                "biom": [
-                    "Civilized",
-                    "House",
-                    "Noble",
-                    "Interiour"
-                ],
-                "brightness": "Medium",
-                "grid": "32x18",
-                "pack": "Fantasy City \u0026 Sewers",
-                "releaseurl": "https://www.patreon.com/posts/pack-05-update-2-55585902",
-                "sibling": "05-01_DeathHouse_1F-4K_Still_Battlemap_GRIDLESS",
-                "type": "Scenery",
-                "thumbnail": "05-01_deathhouse_1f-4k_scenery.webp",
-                "videourl": "https://www.youtube.com/watch?v=Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
-                "download_terms": "Overview Exterior - DH",
-                "download_creator": "Beneos Battlemaps"
-            }
-        },
         "05-01_DeathHouse_1F-4K_Scenery_2": {
             "name": "Death House 1F",
             "description": "",
@@ -1117,7 +1091,7 @@
                 "type": "Scenery",
                 "thumbnail": "05-01_deathhouse_1f-4k_scenery_2.webp",
                 "videourl": "https://www.youtube.com/watch?v=Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
+                "download_pack": "CoS 03 Death House 05",
                 "download_terms": "Overview Exterior - DH",
                 "download_creator": "Beneos Battlemaps"
             }
@@ -1143,33 +1117,7 @@
                 "type": "Battlemap",
                 "thumbnail": "05-01_deathhouse_1f-4k_still_battlemap_gridless.webp",
                 "videourl": "https://www.youtube.com/watch?v=Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
-                "download_terms": "BM: 1F",
-                "download_creator": "Beneos Battlemaps"
-            }
-        },
-        "05-01_Strahd_1_DeathHouse_1F-4K_Still_Battlemap_GRIDLESS": {
-            "name": "Strahd 1 DeathHouse 1F",
-            "description": "",
-            "properties": {
-                "adventure": [
-                    "Curse of Strahd"
-                ],
-                "biom": [
-                    "Civilized",
-                    "House",
-                    "Noble",
-                    "Interiour"
-                ],
-                "brightness": "Medium",
-                "grid": "32x18",
-                "pack": "CoS - The Death House",
-                "releaseurl": "https://www.patreon.com/posts/pack-05-update-2-55585902",
-                "sibling": "",
-                "type": "Battlemap",
-                "thumbnail": "05-01_strahd_1_deathhouse_1f-4k_still_battlemap_gridless.webp",
-                "videourl": "https://youtu.be/Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
+                "download_pack": "CoS 03 Death House 05",
                 "download_terms": "BM: 1F",
                 "download_creator": "Beneos Battlemaps"
             }
@@ -1195,7 +1143,7 @@
                 "type": "Scenery",
                 "thumbnail": "05-02_deathhouse_2f-4k_scenery.webp",
                 "videourl": "https://www.youtube.com/watch?v=Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
+                "download_pack": "CoS 03 Death House 05",
                 "download_terms": "SC: 2F",
                 "download_creator": "Beneos Battlemaps"
             }
@@ -1221,33 +1169,7 @@
                 "type": "Battlemap",
                 "thumbnail": "05-02_deathhouse_2f-4k_still_battlemap_gridless.webp",
                 "videourl": "https://www.youtube.com/watch?v=Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
-                "download_terms": "BM: 2F",
-                "download_creator": "Beneos Battlemaps"
-            }
-        },
-        "05-02_Strahd_1_DeathHouse_2F-4K_Still_Battlemap_GRIDLESS": {
-            "name": "Strahd 1 DeathHouse 2F",
-            "description": "",
-            "properties": {
-                "adventure": [
-                    "Curse of Strahd"
-                ],
-                "biom": [
-                    "Civilized",
-                    "House",
-                    "Noble",
-                    "Interiour"
-                ],
-                "brightness": "Medium",
-                "grid": "32x18",
-                "pack": "CoS - The Death House",
-                "releaseurl": "https://www.patreon.com/posts/pack-05-update-2-55585902",
-                "sibling": "",
-                "type": "Battlemap",
-                "thumbnail": "05-02_strahd_1_deathhouse_2f-4k_still_battlemap_gridless.webp",
-                "videourl": "https://youtu.be/Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
+                "download_pack": "CoS 03 Death House 05",
                 "download_terms": "BM: 2F",
                 "download_creator": "Beneos Battlemaps"
             }
@@ -1273,8 +1195,8 @@
                 "type": "Scenery",
                 "thumbnail": "05-03_deathhouse_3f-4k_scenery.webp",
                 "videourl": "https://www.youtube.com/watch?v=Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
-                "download_terms": "SC: 3F Death House",
+                "download_pack": "CoS 03 Death House 05",
+                "download_terms": "SC: 3F",
                 "download_creator": "Beneos Battlemaps"
             }
         },
@@ -1299,33 +1221,7 @@
                 "type": "Battlemap",
                 "thumbnail": "05-03_deathhouse_3f-4k_still_battlemap_gridless.webp",
                 "videourl": "https://www.youtube.com/watch?v=Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
-                "download_terms": "BM: 3F",
-                "download_creator": "Beneos Battlemaps"
-            }
-        },
-        "05-03_Strahd_1_DeathHouse_3F-4K_Still_Battlemap_GRIDLESS": {
-            "name": "Strahd 1 DeathHouse 3F",
-            "description": "",
-            "properties": {
-                "adventure": [
-                    "Curse of Strahd"
-                ],
-                "biom": [
-                    "Civilized",
-                    "House",
-                    "Noble",
-                    "Interiour"
-                ],
-                "brightness": "Medium",
-                "grid": "32x18",
-                "pack": "CoS - The Death House",
-                "releaseurl": "https://www.patreon.com/posts/pack-05-update-2-55585902",
-                "sibling": "",
-                "type": "Battlemap",
-                "thumbnail": "05-03_strahd_1_deathhouse_3f-4k_still_battlemap_gridless.webp",
-                "videourl": "https://youtu.be/Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
+                "download_pack": "CoS 03 Death House 05",
                 "download_terms": "BM: 3F",
                 "download_creator": "Beneos Battlemaps"
             }
@@ -1351,7 +1247,7 @@
                 "type": "Scenery",
                 "thumbnail": "05-04_deathhouse_4f-4k_scenery.webp",
                 "videourl": "https://www.youtube.com/watch?v=Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
+                "download_pack": "CoS 03 Death House 05",
                 "download_terms": "SC: 4F",
                 "download_creator": "Beneos Battlemaps"
             }
@@ -1377,33 +1273,7 @@
                 "type": "Battlemap",
                 "thumbnail": "05-04_deathhouse_4f-4k_still_battlemap_gridless.webp",
                 "videourl": "https://www.youtube.com/watch?v=Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
-                "download_terms": "BM: 4F",
-                "download_creator": "Beneos Battlemaps"
-            }
-        },
-        "05-04_Strahd_1_DeathHouse_4F-4K_Still_Battlemap_GRIDLESS": {
-            "name": "Strahd 1 DeathHouse 4F",
-            "description": "",
-            "properties": {
-                "adventure": [
-                    "Curse of Strahd"
-                ],
-                "biom": [
-                    "Civilized",
-                    "House",
-                    "Noble",
-                    "Interiour"
-                ],
-                "brightness": "Medium",
-                "grid": "32x18",
-                "pack": "CoS - The Death House",
-                "releaseurl": "https://www.patreon.com/posts/pack-05-update-2-55585902",
-                "sibling": "",
-                "type": "Battlemap",
-                "thumbnail": "05-04_strahd_1_deathhouse_4f-4k_still_battlemap_gridless.webp",
-                "videourl": "https://youtu.be/Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
+                "download_pack": "CoS 03 Death House 05",
                 "download_terms": "BM: 4F",
                 "download_creator": "Beneos Battlemaps"
             }
@@ -1428,7 +1298,7 @@
                 "type": "Scenery",
                 "thumbnail": "05-05_deathhouse_b1-4k_scenery.webp",
                 "videourl": "https://www.youtube.com/watch?v=Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
+                "download_pack": "CoS 03 Death House 05",
                 "download_terms": "SC: B1",
                 "download_creator": "Beneos Battlemaps"
             }
@@ -1453,32 +1323,7 @@
                 "type": "Battlemap",
                 "thumbnail": "05-05_deathhouse_b1-4k_still_battlemap_gridless.webp",
                 "videourl": "https://www.youtube.com/watch?v=Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
-                "download_terms": "BM: B1",
-                "download_creator": "Beneos Battlemaps"
-            }
-        },
-        "05-05_Strahd_1_DeathHouse_B1-4K_Still_Battlemap_GRIDLESS": {
-            "name": "Strahd 1 DeathHouse B1",
-            "description": "",
-            "properties": {
-                "adventure": [
-                    "Curse of Strahd"
-                ],
-                "biom": [
-                    "Interiour",
-                    "Underground",
-                    "Dungeon"
-                ],
-                "brightness": "Medium",
-                "grid": "32x18",
-                "pack": "CoS - The Death House",
-                "releaseurl": "https://www.patreon.com/posts/pack-05-update-2-55585902",
-                "sibling": "",
-                "type": "Battlemap",
-                "thumbnail": "05-05_strahd_1_deathhouse_b1-4k_still_battlemap_gridless.webp",
-                "videourl": "https://youtu.be/Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
+                "download_pack": "CoS 03 Death House 05",
                 "download_terms": "BM: B1",
                 "download_creator": "Beneos Battlemaps"
             }
@@ -1503,7 +1348,7 @@
                 "type": "Scenery",
                 "thumbnail": "05-06_deathhouse_b2-4k_scenery.webp",
                 "videourl": "https://www.youtube.com/watch?v=Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
+                "download_pack": "CoS 03 Death House 05",
                 "download_terms": "SC: B2",
                 "download_creator": "Beneos Battlemaps"
             }
@@ -1528,34 +1373,8 @@
                 "type": "Battlemap",
                 "thumbnail": "05-06_deathhouse_b2-4k_still_battlemap_gridless.webp",
                 "videourl": "https://www.youtube.com/watch?v=Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
+                "download_pack": "CoS 03 Death House 05",
                 "download_terms": "BM: B2",
-                "download_creator": "Beneos Battlemaps"
-            }
-        },
-        "05-06_Strahd_1_Bonus-4K_Still_Battlemap_GRIDLESS": {
-            "name": "Strahd 1 Bonus",
-            "description": "",
-            "properties": {
-                "adventure": [
-                    "Curse of Strahd"
-                ],
-                "biom": [
-                    "Civilized",
-                    "House",
-                    "Noble",
-                    "Interiour"
-                ],
-                "brightness": "Medium",
-                "grid": "32x18",
-                "pack": "CoS - The Death House",
-                "releaseurl": "https://www.patreon.com/posts/pack-05-update-2-55585902",
-                "sibling": "",
-                "type": "Battlemap",
-                "thumbnail": "05-06_strahd_1_bonus-4k_still_battlemap_gridless.webp",
-                "videourl": "https://youtu.be/Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
-                "download_terms": "",
                 "download_creator": "Beneos Battlemaps"
             }
         },
@@ -1581,8 +1400,8 @@
                 "type": "Scenery",
                 "thumbnail": "05-07_deathhouse_1f_evil-4k_scenery.webp",
                 "videourl": "https://www.youtube.com/watch?v=Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
-                "download_terms": "SC: 1F Evi",
+                "download_pack": "CoS 03 Death House 05",
+                "download_terms": "SC: 1F Evil",
                 "download_creator": "Beneos Battlemaps"
             }
         },
@@ -1608,7 +1427,7 @@
                 "type": "Battlemap",
                 "thumbnail": "05-07_deathhouse_1f_evil-4k_still_battlemap_gridless.webp",
                 "videourl": "https://www.youtube.com/watch?v=Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
+                "download_pack": "CoS 03 Death House 05",
                 "download_terms": "BM: 1F Evil",
                 "download_creator": "Beneos Battlemaps"
             }
@@ -1635,7 +1454,7 @@
                 "type": "Scenery",
                 "thumbnail": "05-08_deathhouse_2f_evil-4k_scenery.webp",
                 "videourl": "https://www.youtube.com/watch?v=Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
+                "download_pack": "CoS 03 Death House 05",
                 "download_terms": "SC: 2F Evil",
                 "download_creator": "Beneos Battlemaps"
             }
@@ -1662,7 +1481,7 @@
                 "type": "Battlemap",
                 "thumbnail": "05-08_deathhouse_2f_evil-4k_still_battlemap_gridless.webp",
                 "videourl": "https://www.youtube.com/watch?v=Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
+                "download_pack": "CoS 03 Death House 05",
                 "download_terms": "BM: 2F Evil",
                 "download_creator": "Beneos Battlemaps"
             }
@@ -1689,7 +1508,7 @@
                 "type": "Scenery",
                 "thumbnail": "05-09_deathhouse_3f_evil-4k_scenery.webp",
                 "videourl": "https://www.youtube.com/watch?v=Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
+                "download_pack": "CoS 03 Death House 05",
                 "download_terms": "SC: 3F Evil",
                 "download_creator": "Beneos Battlemaps"
             }
@@ -1716,7 +1535,7 @@
                 "type": "Battlemap",
                 "thumbnail": "05-09_deathhouse_3f_evil-4k_still_battlemap_gridless.webp",
                 "videourl": "https://www.youtube.com/watch?v=Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
+                "download_pack": "CoS 03 Death House 05",
                 "download_terms": "BM: 3F Evil",
                 "download_creator": "Beneos Battlemaps"
             }
@@ -1743,7 +1562,7 @@
                 "type": "Scenery",
                 "thumbnail": "05-10_deathhouse_4f_evil-4k_scenery.webp",
                 "videourl": "https://www.youtube.com/watch?v=Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
+                "download_pack": "CoS 03 Death House 05",
                 "download_terms": "SC: 4F Evil",
                 "download_creator": "Beneos Battlemaps"
             }
@@ -1770,7 +1589,7 @@
                 "type": "Battlemap",
                 "thumbnail": "05-10_deathhouse_4f_evil-4k_still_battlemap_gridless.webp",
                 "videourl": "https://www.youtube.com/watch?v=Ir3sudq83eU",
-                "download_pack": "CoS 03 Death House - 05",
+                "download_pack": "CoS 03 Death House 05",
                 "download_terms": "BM: 4F Evil",
                 "download_creator": "Beneos Battlemaps"
             }
@@ -31003,7 +30822,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Bright",
@@ -31031,7 +30850,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Bright",
@@ -31059,7 +30878,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -31087,7 +30906,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -31115,7 +30934,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -31143,7 +30962,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -31171,7 +30990,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -31199,7 +31018,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -31227,7 +31046,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -31255,7 +31074,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -31283,7 +31102,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -31311,7 +31130,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -31339,7 +31158,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -31367,7 +31186,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -31395,7 +31214,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -31423,7 +31242,7 @@
                     "Civilized",
                     "City",
                     "Fire",
-                    "Uncerground",
+                    "Underground",
                     "Cave"
                 ],
                 "brightness": "Dark",
@@ -32627,8 +32446,8 @@
                         "name":"Razorcliff Cove",
                         "description":"",
                         "properties":{
-                        "adventure":["Single Map Release"],
-                        "biom":["Civilizied","Interiour", "Dungeon","Harbour","Ocean"],
+                        "adventure":["Single Map"],
+                        "biom":["Civilized","Interiour", "Dungeon","Harbour","Ocean"],
                         "brightness":"Medium",
                         "grid":"65x35",
                         "pack":"16_Razorcliff_Cove",
@@ -32646,8 +32465,8 @@
                                 "name":"Razorcliff Cove",
                                 "description":"",
                                 "properties":{
-                                "adventure":["Single Map Release"],
-                                "biom":["Civilizied","Interiour", "Dungeon","Harbour","Ocean"],
+                                "adventure":["Single Map"],
+                                "biom":["Civilized","Interiour", "Dungeon","Harbour","Ocean"],
                                 "brightness":"Medium",
                                 "grid":"65x35",
                                 "pack":"16_Razorcliff_Cove",
@@ -32731,7 +32550,7 @@
                                 "sibling":"76-02_Spider_waiting_on_top-4k_BM",
                                 "type":"Scenery",
                                 "thumbnail":"76-02_Spider_waiting_on_top-4k_scen.webp",
-                                "videourl":"WIP"
+                                "videourl":"WIP",
                                 "download_pack": "Underdark Spider Titan - 76",
                                 "download_terms": "Overview",
                                 "download_creator": "Beneos Battlemaps"
@@ -33046,7 +32865,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["None"],
-                        "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
+                        "biom":["Civilized","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
                         "brightness":"Bright",
                         "grid":"33x23",
                         "pack":"77_Smuggler_Boat_Pack",
@@ -33054,7 +32873,7 @@
                         "sibling":"77-01_Boat_Canal_Daylight-4k_Scen",
                         "type":"Battlemap",
                         "thumbnail":"77-01_Boat_Canal_Daylight-4k_bm.webp",
-                        "videourl":"WIP"
+                        "videourl":"WIP",
                         "download_pack": "Smuggler Boat - 77",
                         "download_terms": "BM: 01 Canal Day",
                         "download_creator": "Beneos Battlemaps"
@@ -33065,7 +32884,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["None"],
-                                "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
+                                "biom":["Civilized","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
                                 "brightness":"Bright",
                                 "grid":"33x23",
                                 "pack":"77_Smuggler_Boat_Pack",
@@ -33073,7 +32892,7 @@
                                 "sibling":"77-01_Boat_Canal_Daylight-4k_BM",
                                 "type":"Scenery",
                                 "thumbnail":"77-01_Boat_Canal_Daylight-4k_scen.webp",
-                                "videourl":"WIP"
+                                "videourl":"WIP",
                                 "download_pack": "Smuggler Boat - 77",
                                 "download_terms": "Overview",
                                 "download_creator": "Beneos Battlemaps"
@@ -33084,7 +32903,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["None"],
-                        "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water","Horror"],
+                        "biom":["Civilized","Exteriour", "Ship","Vehicle", "River","Swamp","Water","Horror"],
                         "brightness":"Dark",
                         "grid":"33x23",
                         "pack":"77_Smuggler_Boat_Pack",
@@ -33092,7 +32911,7 @@
                         "sibling":"77-02_Boat_Canal_Dark-4k_Scen",
                         "type":"Battlemap",
                         "thumbnail":"77-02_Boat_Canal_Dark-4k_bm.webp",
-                        "videourl":"WIP"
+                        "videourl":"WIP",
                         "download_pack": "Smuggler Boat - 77",
                         "download_terms": "BM: 02 Canal Dark",
                         "download_creator": "Beneos Battlemaps"
@@ -33103,7 +32922,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["None"],
-                                "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water","Horror"],
+                                "biom":["Civilized","Exteriour", "Ship","Vehicle", "River","Swamp","Water","Horror"],
                                 "brightness":"Dark",
                                 "grid":"33x23",
                                 "pack":"77_Smuggler_Boat_Pack",
@@ -33111,7 +32930,7 @@
                                 "sibling":"77-02_Boat_Canal_Dark-4k_BM",
                                 "type":"Scenery",
                                 "thumbnail":"77-02_Boat_Canal_Dark-4k_scen.webp",
-                                "videourl":"WIP"
+                                "videourl":"WIP",
                                 "download_pack": "Smuggler Boat - 77",
                                 "download_terms": "SC: 02 Canal Dark",
                                 "download_creator": "Beneos Battlemaps"
@@ -33122,7 +32941,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["None"],
-                        "biom":["Civilizied","Exteriour", "Ship","Vehicle", "Camp","Night","Water"],
+                        "biom":["Civilized","Exteriour", "Ship","Vehicle", "Camp","Night","Water"],
                         "brightness":"Dark",
                         "grid":"30x25",
                         "pack":"77_Smuggler_Boat_Pack",
@@ -33130,7 +32949,7 @@
                         "sibling":"77-03_Boat_Camp-4k_Scen",
                         "type":"Battlemap",
                         "thumbnail":"77-03_Boat_Camp-4k_bm.webp",
-                        "videourl":"WIP"
+                        "videourl":"WIP",
                         "download_pack": "Smuggler Boat - 77",
                         "download_terms": "BM: 03 Camp",
                         "download_creator": "Beneos Battlemaps"
@@ -33141,7 +32960,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["None"],
-                                "biom":["Civilizied","Exteriour", "Ship","Vehicle", "Camp","Night","Water"],
+                                "biom":["Civilized","Exteriour", "Ship","Vehicle", "Camp","Night","Water"],
                                 "brightness":"Dark",
                                 "grid":"30x25",
                                 "pack":"77_Smuggler_Boat_Pack",
@@ -33149,7 +32968,7 @@
                                 "sibling":"77-03_Boat_Camp-4k_BM",
                                 "type":"Scenery",
                                 "thumbnail":"77-03_Boat_Camp-4k_scen.webp",
-                                "videourl":"WIP"
+                                "videourl":"WIP",
                                 "download_pack": "Smuggler Boat - 77",
                                 "download_terms": "SC: 03 Camp",
                                 "download_creator": "Beneos Battlemaps"
@@ -33160,7 +32979,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["None"],
-                        "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
+                        "biom":["Civilized","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
                         "brightness":"Bright",
                         "grid":"32x18",
                         "pack":"77_Smuggler_Boat_Pack",
@@ -33168,7 +32987,7 @@
                         "sibling":"77-04_Boat_Lake_Moving-4k_Scen",
                         "type":"Battlemap",
                         "thumbnail":"77-04_Boat_Lake_Moving-4k_bm.webp",
-                        "videourl":"WIP"
+                        "videourl":"WIP",
                         "download_pack": "Smuggler Boat - 77",
                         "download_terms": "BM: 04 Lake Moving",
                         "download_creator": "Beneos Battlemaps"
@@ -33179,7 +32998,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["None"],
-                                "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
+                                "biom":["Civilized","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
                                 "brightness":"Bright",
                                 "grid":"32x18",
                                 "pack":"77_Smuggler_Boat_Pack",
@@ -33187,7 +33006,7 @@
                                 "sibling":"77-04_Boat_Lake_Moving-4k_BM",
                                 "type":"Scenery",
                                 "thumbnail":"77-04_Boat_Lake_Moving-4k_scen.webp",
-                                "videourl":"WIP"
+                                "videourl":"WIP",
                                 "download_pack": "Smuggler Boat - 77",
                                 "download_terms": "SC: 04 Lake Moving",
                                 "download_creator": "Beneos Battlemaps"
@@ -33198,7 +33017,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["None"],
-                        "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
+                        "biom":["Civilized","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
                         "brightness":"Medium",
                         "grid":"32x18",
                         "pack":"77_Smuggler_Boat_Pack",
@@ -33206,7 +33025,7 @@
                         "sibling":"77-05_Boat_Lake_Still-4k_Scen",
                         "type":"Battlemap",
                         "thumbnail":"77-05_Boat_Lake_Still-4k_bm.webp",
-                        "videourl":"WIP"
+                        "videourl":"WIP",
                         "download_pack": "Smuggler Boat - 77",
                         "download_terms": "BM: 05 Lake Still",
                         "download_creator": "Beneos Battlemaps"
@@ -33217,7 +33036,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["None"],
-                                "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
+                                "biom":["Civilized","Exteriour", "Ship","Vehicle", "River","Swamp","Water"],
                                 "brightness":"Medium",
                                 "grid":"32x18",
                                 "pack":"77_Smuggler_Boat_Pack",
@@ -33225,7 +33044,7 @@
                                 "sibling":"77-05_Boat_Lake_Still-4k_BM",
                                 "type":"Scenery",
                                 "thumbnail":"77-05_Boat_Lake_Still-4k_scen.webp",
-                                "videourl":"WIP"
+                                "videourl":"WIP",
                                 "download_pack": "Smuggler Boat - 77",
                                 "download_terms": "SC: 05 Lake Still",
                                 "download_creator": "Beneos Battlemaps"
@@ -33236,7 +33055,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["None"],
-                        "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water","Harbour"],
+                        "biom":["Civilized","Exteriour", "Ship","Vehicle", "River","Swamp","Water","Harbour"],
                         "brightness":"Medium",
                         "grid":"32x18",
                         "pack":"77_Smuggler_Boat_Pack",
@@ -33244,7 +33063,7 @@
                         "sibling":"77-06_Boat_Dock-4k_Scen",
                         "type":"Battlemap",
                         "thumbnail":"77-06_Boat_Dock-4k_bm.webp",
-                        "videourl":"WIP"
+                        "videourl":"WIP",
                         "download_pack": "Smuggler Boat - 77",
                         "download_terms": "BM: 06 Smuggler Dock",
                         "download_creator": "Beneos Battlemaps"
@@ -33255,7 +33074,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["None"],
-                                "biom":["Civilizied","Exteriour", "Ship","Vehicle", "River","Swamp","Water","Harbour"],
+                                "biom":["Civilized","Exteriour", "Ship","Vehicle", "River","Swamp","Water","Harbour"],
                                 "brightness":"Medium",
                                 "grid":"32x18",
                                 "pack":"77_Smuggler_Boat_Pack",
@@ -33263,7 +33082,7 @@
                                 "sibling":"77-06_Boat_Dock-4k_BM",
                                 "type":"Scenery",
                                 "thumbnail":"77-06_Boat_Dock-4k_scen.webp",
-                                "videourl":"WIP"
+                                "videourl":"WIP",
                                 "download_pack": "Smuggler Boat - 77",
                                 "download_terms": "SC: 06 Smuggler Dock",
                                 "download_creator": "Beneos Battlemaps"
@@ -33274,7 +33093,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["None"],
-                        "biom":["Civilizied","Exteriour", "Ship","Vehicle","Ocean","Water"],
+                        "biom":["Civilized","Exteriour", "Ship","Vehicle","Ocean","Water"],
                         "brightness":"Medium",
                         "grid":"32x18",
                         "pack":"77_Smuggler_Boat_Pack",
@@ -33282,7 +33101,7 @@
                         "sibling":"77-07_Boat_Ocean_Moving-4k_Scen",
                         "type":"Battlemap",
                         "thumbnail":"77-07_Boat_Ocean_Moving-4k_bm.webp",
-                        "videourl":"WIP"
+                        "videourl":"WIP",
                         "download_pack": "Smuggler Boat - 77",
                         "download_terms": "BM: 07 Ocean Day",
                         "download_creator": "Beneos Battlemaps"
@@ -33293,7 +33112,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["None"],
-                                "biom":["Civilizied","Exteriour", "Ship","Vehicle","Ocean","Water"],
+                                "biom":["Civilized","Exteriour", "Ship","Vehicle","Ocean","Water"],
                                 "brightness":"Medium",
                                 "grid":"32x18",
                                 "pack":"77_Smuggler_Boat_Pack",
@@ -33301,7 +33120,7 @@
                                 "sibling":"77-07_Boat_Ocean_Moving-4k_BM",
                                 "type":"Scenery",
                                 "thumbnail":"77-07_Boat_Ocean_Moving-4k_scen.webp",
-                                "videourl":"WIP"
+                                "videourl":"WIP",
                                 "download_pack": "Smuggler Boat - 77",
                                 "download_terms": "SC: 07 Ocean Day",
                                 "download_creator": "Beneos Battlemaps"
@@ -33312,7 +33131,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["None"],
-                        "biom":["Civilizied","Exteriour", "Ship","Vehicle","Ocean","Water"],
+                        "biom":["Civilized","Exteriour", "Ship","Vehicle","Ocean","Water"],
                         "brightness":"Medium",
                         "grid":"32x18",
                         "pack":"77_Smuggler_Boat_Pack",
@@ -33320,7 +33139,7 @@
                         "sibling":"77-08_Boat_Ocean_Still-4k_Scen",
                         "type":"Battlemap",
                         "thumbnail":"77-08_Boat_Ocean_Still-4k_bm.webp",
-                        "videourl":"WIP"
+                        "videourl":"WIP",
                         "download_pack": "Smuggler Boat - 77",
                         "download_terms": "BM: 08 Ocean Still",
                         "download_creator": "Beneos Battlemaps"
@@ -33331,7 +33150,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["None"],
-                                "biom":["Civilizied","Exteriour", "Ship","Vehicle","Ocean","Water"],
+                                "biom":["Civilized","Exteriour", "Ship","Vehicle","Ocean","Water"],
                                 "brightness":"Medium",
                                 "grid":"32x18",
                                 "pack":"77_Smuggler_Boat_Pack",
@@ -33339,7 +33158,7 @@
                                 "sibling":"77-08_Boat_Ocean_Still-4k_BM",
                                 "type":"Scenery",
                                 "thumbnail":"77-08_Boat_Ocean_Still-4k_scen.webp",
-                                "videourl":"WIP"
+                                "videourl":"WIP",
                                 "download_pack": "Smuggler Boat - 77",
                                 "download_terms": "SC: 08 Ocean Still",
                                 "download_creator": "Beneos Battlemaps"
@@ -33350,7 +33169,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["None"],
-                        "biom":["Civilizied","Exteriour", "Ship","Vehicle","Ocean","Water","Storm"],
+                        "biom":["Civilized","Exteriour", "Ship","Vehicle","Ocean","Water","Storm"],
                         "brightness":"Dark",
                         "grid":"32x18",
                         "pack":"77_Smuggler_Boat_Pack",
@@ -33358,7 +33177,7 @@
                         "sibling":"77-09_Boat_Ocean_Storm-4k_Scen",
                         "type":"Battlemap",
                         "thumbnail":"77-09_Boat_Ocean_Storm-4k_bm.webp",
-                        "videourl":"WIP"
+                        "videourl":"WIP",
                         "download_pack": "Smuggler Boat - 77",
                         "download_terms": "BM: 09 Ocean Storm",
                         "download_creator": "Beneos Battlemaps"
@@ -33369,7 +33188,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["None"],
-                                "biom":["Civilizied","Exteriour", "Ship","Vehicle","Ocean","Water","Storm"],
+                                "biom":["Civilized","Exteriour", "Ship","Vehicle","Ocean","Water","Storm"],
                                 "brightness":"Dark",
                                 "grid":"32x18",
                                 "pack":"77_Smuggler_Boat_Pack",
@@ -33377,7 +33196,7 @@
                                 "sibling":"77-09_Boat_Ocean_Storm-4k_BM",
                                 "type":"Scenery",
                                 "thumbnail":"77-09_Boat_Ocean_Storm-4k_scen.webp",
-                                "videourl":"WIP"
+                                "videourl":"WIP",
                                 "download_pack": "Smuggler Boat - 77",
                                 "download_terms": "SC: 09 Ocean Storm",
                                 "download_creator": "Beneos Battlemaps"
@@ -33388,7 +33207,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["None"],
-                        "biom":["Civilizied","Exteriour", "Ship","Vehicle","Ocean","Water","Beach","Wreckage"],
+                        "biom":["Civilized","Exteriour", "Ship","Vehicle","Ocean","Water","Beach","Wreckage"],
                         "brightness":"Bright",
                         "grid":"32x18",
                         "pack":"77_Smuggler_Boat_Pack",
@@ -33396,7 +33215,7 @@
                         "sibling":"77-10_Boat_Wreck-4k_Scen",
                         "type":"Battlemap",
                         "thumbnail":"77-10_Boat_Wreck-4k_bm.webp",
-                        "videourl":"WIP"
+                        "videourl":"WIP",
                         "download_pack": "Smuggler Boat - 77",
                         "download_terms": "BM: 10 Ship Wreck",
                         "download_creator": "Beneos Battlemaps"
@@ -33407,7 +33226,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["None"],
-                                "biom":["Civilizied","Exteriour", "Ship","Vehicle","Ocean","Water","Beach","Wreckage"],
+                                "biom":["Civilized","Exteriour", "Ship","Vehicle","Ocean","Water","Beach","Wreckage"],
                                 "brightness":"Bright",
                                 "grid":"32x18",
                                 "pack":"77_Smuggler_Boat_Pack",
@@ -33415,7 +33234,7 @@
                                 "sibling":"77-10_Boat_Wreck-4k_BM",
                                 "type":"Scenery",
                                 "thumbnail":"77-10_Boat_Wreck-4k_scen.webp",
-                                "videourl":"WIP"
+                                "videourl":"WIP",
                                 "download_pack": "Smuggler Boat - 77",
                                 "download_terms": "SC: 10 Ship Wreck",
                                 "download_creator": "Beneos Battlemaps"
@@ -33425,8 +33244,8 @@
                         "name":"Antlers Tavern Normal 1F",
                         "description":"",
                         "properties":{
-                        "adventure":["Decent into Avernus"],
-                        "biom":["Civilizied","Interiour", "Tavern"],
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilized","Interiour", "Tavern"],
                         "brightness":"Medium",
                         "grid":"34x28",
                         "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
@@ -33434,7 +33253,7 @@
                         "sibling":"78-01_Antlers_Tavern_Normal_1F-4k_Scen",
                         "type":"Battlemap",
                         "thumbnail":"78-01_Antlers_Tavern_Normal_1F-4k_bm.webp",
-                        "videourl":"WIP"
+                        "videourl":"WIP",
                         "download_pack": "DiA - 00 Fall of Elturel - 79",
                         "download_terms": "BM: 1 F",
                         "download_creator": "Beneos Battlemaps"
@@ -33444,8 +33263,8 @@
                                 "name":"Antlers Tavern Normal 1F",
                                 "description":"",
                                 "properties":{
-                                "adventure":["Decent into Avernus"],
-                                "biom":["Civilizied","Interiour", "Tavern"],
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilized","Interiour", "Tavern"],
                                 "brightness":"Medium",
                                 "grid":"34x28",
                                 "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
@@ -33453,7 +33272,7 @@
                                 "sibling":"78-01_Antlers_Tavern_Normal_1F-4k_BM",
                                 "type":"Scenery",
                                 "thumbnail":"78-01_Antlers_Tavern_Normal_1F-4k_scen.webp",
-                                "videourl":"WIP"
+                                "videourl":"WIP",
                                 "download_pack": "DiA - 00 Fall of Elturel - 79",
                                 "download_terms": "SC: 1 F",
                                 "download_creator": "Beneos Battlemaps"
@@ -33463,8 +33282,8 @@
                         "name":"Antlers Tavern Normal 2F",
                         "description":"",
                         "properties":{
-                        "adventure":["Decent into Avernus"],
-                        "biom":["Civilizied","Interiour", "Tavern"],
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilized","Interiour", "Tavern"],
                         "brightness":"Medium",
                         "grid":"34x28",
                         "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
@@ -33472,7 +33291,7 @@
                         "sibling":"78-02_Antlers_Tavern_Normal_2F-4k_Scen",
                         "type":"Battlemap",
                         "thumbnail":"78-02_Antlers_Tavern_Normal_2F-4k_bm.webp",
-                        "videourl":"WIP"
+                        "videourl":"WIP",
                         "download_pack": "DiA - 00 Fall of Elturel - 79",
                         "download_terms": "BM: 2 F",
                         "download_creator": "Beneos Battlemaps"
@@ -33482,8 +33301,8 @@
                                 "name":"Antlers Tavern Normal 2F",
                                 "description":"",
                                 "properties":{
-                                "adventure":["Decent into Avernus"],
-                                "biom":["Civilizied","Interiour", "Tavern"],
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilized","Interiour", "Tavern"],
                                 "brightness":"Medium",
                                 "grid":"34x28",
                                 "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
@@ -33491,7 +33310,7 @@
                                 "sibling":"78-02_Antlers_Tavern_Normal_2F-4k_BM",
                                 "type":"Scenery",
                                 "thumbnail":"78-02_Antlers_Tavern_Normal_2F-4k_scen.webp",
-                                "videourl":"WIP"
+                                "videourl":"WIP",
                                 "download_pack": "DiA - 00 Fall of Elturel - 79",
                                 "download_terms": "SC: 2 F",
                                 "download_creator": "Beneos Battlemaps"
@@ -33501,8 +33320,8 @@
                         "name":"Antlers Tavern Normal Roof",
                         "description":"",
                         "properties":{
-                        "adventure":["Decent into Avernus"],
-                        "biom":["Civilizied","Exteriour","Roof","Tavern","Hell"],
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilized","Exteriour","Roof","Tavern","Hell"],
                         "brightness":"Medium",
                         "grid":"29x25",
                         "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
@@ -33510,7 +33329,7 @@
                         "sibling":"78-03_Antlers_Tavern_Normal_Roof-4k_Scen",
                         "type":"Battlemap",
                         "thumbnail":"78-03_Antlers_Tavern_Normal_Roof-4k_bm.webp",
-                        "videourl":"WIP"
+                        "videourl":"WIP",
                         "download_pack": "DiA - 00 Fall of Elturel - 79",
                         "download_terms": "BM: Roof",
                         "download_creator": "Beneos Battlemaps"
@@ -33520,8 +33339,8 @@
                                 "name":"Antlers Tavern Normal Roof",
                                 "description":"",
                                 "properties":{
-                                "adventure":["Decent into Avernus"],
-                                "biom":["Civilizied","Exteriour","Roof","Tavern","Hell"],
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilized","Exteriour","Roof","Tavern","Hell"],
                                 "brightness":"Medium",
                                 "grid":"29x25",
                                 "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
@@ -33529,7 +33348,7 @@
                                 "sibling":"78-03_Antlers_Tavern_Normal_Roof-4k_BM",
                                 "type":"Scenery",
                                 "thumbnail":"78-03_Antlers_Tavern_Normal_Roof-4k_scen.webp",
-                                "videourl":"WIP"
+                                "videourl":"WIP",
                                 "download_pack": "DiA - 00 Fall of Elturel - 79",
                                 "download_terms": "Overview",
                                 "download_creator": "Beneos Battlemaps"
@@ -33539,8 +33358,8 @@
                         "name":"Antlers Tavern Hell 1F",
                         "description":"",
                         "properties":{
-                        "adventure":["Decent into Avernus"],
-                        "biom":["Civilizied","Interiour", "Tavern","Hell"],
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilized","Interiour", "Tavern","Hell"],
                         "brightness":"Medium",
                         "grid":"34x28",
                         "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
@@ -33548,7 +33367,7 @@
                         "sibling":"78-04_Antlers_Tavern_Hell_1F-4k_Scen",
                         "type":"Battlemap",
                         "thumbnail":"78-04_Antlers_Tavern_Hell_1F-4k_bm.webp",
-                        "videourl":"WIP"
+                        "videourl":"WIP",
                         "download_pack": "DiA - 00 Fall of Elturel - 79",
                         "download_terms": "BM: 1 F",
                         "download_creator": "Beneos Battlemaps"
@@ -33558,8 +33377,8 @@
                                 "name":"Antlers Tavern Hell 1F",
                                 "description":"",
                                 "properties":{
-                                "adventure":["Decent into Avernus"],
-                                "biom":["Civilizied","Interiour", "Tavern","Hell"],
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilized","Interiour", "Tavern","Hell"],
                                 "brightness":"Medium",
                                 "grid":"34x28",
                                 "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
@@ -33567,7 +33386,7 @@
                                 "sibling":"78-04_Antlers_Tavern_Hell_1F-4k_BM",
                                 "type":"Scenery",
                                 "thumbnail":"78-04_Antlers_Tavern_Hell_1F-4k_scen.webp",
-                                "videourl":"WIP"
+                                "videourl":"WIP",
                                 "download_pack": "DiA - 00 Fall of Elturel - 79",
                                 "download_terms": "SC: 1 F",
                                 "download_creator": "Beneos Battlemaps"
@@ -33577,8 +33396,8 @@
                         "name":"Antlers Tavern Hell 2F",
                         "description":"",
                         "properties":{
-                        "adventure":["Decent into Avernus"],
-                        "biom":["Civilizied","Exteriour","Roof","Tavern","Hell"],
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilized","Exteriour","Roof","Tavern","Hell"],
                         "brightness":"Medium",
                         "grid":"34x28",
                         "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
@@ -33586,7 +33405,7 @@
                         "sibling":"78-05_Antlers_Tavern_Hell_2F-4k_Scen",
                         "type":"Battlemap",
                         "thumbnail":"78-05_Antlers_Tavern_Hell_2F-4k_bm.webp",
-                        "videourl":"WIP"
+                        "videourl":"WIP",
                         "download_pack": "DiA - 00 Fall of Elturel - 79",
                         "download_terms": "BM: 2 F",
                         "download_creator": "Beneos Battlemaps"
@@ -33596,8 +33415,8 @@
                                 "name":"Antlers Tavern Hell 2F",
                                 "description":"",
                                 "properties":{
-                                "adventure":["Decent into Avernus"],
-                                "biom":["Civilizied","Exteriour","Roof","Tavern","Hell"],
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilized","Exteriour","Roof","Tavern","Hell"],
                                 "brightness":"Medium",
                                 "grid":"34x28",
                                 "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
@@ -33605,7 +33424,7 @@
                                 "sibling":"78-05_Antlers_Tavern_Hell_2F-4k_BM",
                                 "type":"Scenery",
                                 "thumbnail":"78-05_Antlers_Tavern_Hell_2F-4k_scen.webp",
-                                "videourl":"WIP"
+                                "videourl":"WIP",
                                 "download_pack": "DiA - 00 Fall of Elturel - 79",
                                 "download_terms": "SC: 2 F",
                                 "download_creator": "Beneos Battlemaps"
@@ -33615,8 +33434,8 @@
                         "name":"Antlers Tavern Hell Roof",
                         "description":"",
                         "properties":{
-                        "adventure":["Decent into Avernus"],
-                        "biom":["Civilizied","Interiour", "Tavern"],
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilized","Interiour", "Tavern"],
                         "brightness":"Dark",
                         "grid":"29x25",
                         "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
@@ -33624,7 +33443,7 @@
                         "sibling":"78-06_Antlers_Tavern_Hell_Roof-4k_Scen",
                         "type":"Battlemap",
                         "thumbnail":"78-06_Antlers_Tavern_Hell_Roof-4k_bm.webp",
-                        "videourl":"WIP"
+                        "videourl":"WIP",
                         "download_pack": "DiA - 00 Fall of Elturel - 79",
                         "download_terms": "BM: Roof",
                         "download_creator": "Beneos Battlemaps"
@@ -33634,8 +33453,8 @@
                                 "name":"Antlers Tavern Hell Roof",
                                 "description":"",
                                 "properties":{
-                                "adventure":["Decent into Avernus"],
-                                "biom":["Civilizied","Interiour", "Tavern"],
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilized","Interiour", "Tavern"],
                                 "brightness":"Dark",
                                 "grid":"29x25",
                                 "pack":"78_DiA_A_Pair_Of_Two_Antlers_Tavern",
@@ -33643,7 +33462,7 @@
                                 "sibling":"78-06_Antlers_Tavern_Hell_Roof-4k_BM",
                                 "type":"Scenery",
                                 "thumbnail":"78-06_Antlers_Tavern_Hell_Roof-4k_scen.webp",
-                                "videourl":"WIP"
+                                "videourl":"WIP",
                                 "download_pack": "DiA - 00 Fall of Elturel - 79",
                                 "download_terms": "SC: Roof",
                                 "download_creator": "Beneos Battlemaps"
@@ -33654,7 +33473,7 @@
                         "description":"",
                         "properties":{
                         "adventure":["Descent into Avernus"],
-                        "biom":["Civilizied","Exteriour", "Camp"],
+                        "biom":["Civilized","Exteriour", "Camp"],
                         "brightness":"Bright",
                         "grid":"32x18",
                         "pack":"79_DiA_Fall_of_Elturel",
@@ -33662,7 +33481,7 @@
                         "sibling":"79-01_Elturel_Wedding-4k_Scen",
                         "type":"Battlemap",
                         "thumbnail":"79-01_Elturel_Wedding-4k_bm.webp",
-                        "videourl":"WIP"
+                        "videourl":"WIP",
                         "download_pack": "DiA - 00 Fall of Elturel - 79",
                         "download_terms": "BM: 1 Elturel Wedding",
                         "download_creator": "Beneos Battlemaps"
@@ -33673,7 +33492,7 @@
                                 "description":"",
                                 "properties":{
                                 "adventure":["Descent into Avernus"],
-                                "biom":["Civilizied","Exteriour", "Camp"],
+                                "biom":["Civilized","Exteriour", "Camp"],
                                 "brightness":"Bright",
                                 "grid":"32x18",
                                 "pack":"79_DiA_Fall_of_Elturel",
@@ -33681,7 +33500,7 @@
                                 "sibling":"79-01_Elturel_Wedding-4k_BM",
                                 "type":"Scenery",
                                 "thumbnail":"79-01_Elturel_Wedding-4k_scen.webp",
-                                "videourl":"WIP"
+                                "videourl":"WIP",
                                 "download_pack": "DiA - 00 Fall of Elturel - 79",
                                 "download_terms": "SC: 1 Elturel Wedding",
                                 "download_creator": "Beneos Battlemaps"
@@ -33700,7 +33519,7 @@
                         "sibling":"79-02_Saving_Grace-4k_Scen",
                         "type":"Battlemap",
                         "thumbnail":"79-02_Saving_Grace-4k_bm.webp",
-                        "videourl":"WIP"
+                        "videourl":"WIP",
                         "download_pack": "DiA - 00 Fall of Elturel - 79",
                         "download_terms": "BM: 2 Saving Grave Encounter",
                         "download_creator": "Beneos Battlemaps"
@@ -33719,7 +33538,7 @@
                                 "sibling":"79-02_Saving_Grace-4k_BM",
                                 "type":"Scenery",
                                 "thumbnail":"79-02_Saving_Grace-4k_scen.webp",
-                                "videourl":"WIP"
+                                "videourl":"WIP",
                                 "download_pack": "DiA - 00 Fall of Elturel - 79",
                                 "download_terms": "SC: 2 Saving Grave Encounter",
                                 "download_creator": "Beneos Battlemaps"
@@ -33738,7 +33557,7 @@
                         "sibling":"79-03_Ritual_Site_R1-4k_Scen",
                         "type":"Battlemap",
                         "thumbnail":"79-03_Ritual_Site_R1-4k_bm.webp",
-                        "videourl":"WIP"
+                        "videourl":"WIP",
                         "download_pack": "DiA - 00 Fall of Elturel - 79",
                         "download_terms": "BM: 3 Ritual Site R1-R2",
                         "download_creator": "Beneos Battlemaps"
@@ -33757,7 +33576,7 @@
                                 "sibling":"79-03_Ritual_Site_R1-4k_BM",
                                 "type":"Scenery",
                                 "thumbnail":"79-03_Ritual_Site_R1-4k_scen.webp",
-                                "videourl":"WIP"
+                                "videourl":"WIP",
                                 "download_pack": "DiA - 00 Fall of Elturel - 79",
                                 "download_terms": "Overview",
                                 "download_creator": "Beneos Battlemaps"
@@ -33776,7 +33595,7 @@
                         "sibling":"79-04_Ritual_Site_R3-4k_Scen",
                         "type":"Battlemap",
                         "thumbnail":"79-04_Ritual_Site_R3-4k_bm.webp",
-                        "videourl":"WIP"
+                        "videourl":"WIP",
                         "download_pack": "DiA - 00 Fall of Elturel - 79",
                         "download_terms": "BM: 4 Ritual Site R3",
                         "download_creator": "Beneos Battlemaps"
@@ -33795,7 +33614,7 @@
                                 "sibling":"79-04_Ritual_Site_R3-4k_BM",
                                 "type":"Scenery",
                                 "thumbnail":"79-04_Ritual_Site_R3-4k_scen.webp",
-                                "videourl":"WIP"
+                                "videourl":"WIP",
                                 "download_pack": "DiA - 00 Fall of Elturel - 79",
                                 "download_terms": "SC: 4 Ritual Site R3",
                                 "download_creator": "Beneos Battlemaps"
@@ -33814,7 +33633,7 @@
                         "sibling":"79-05_Ritual_Site_R4-4k_Scen",
                         "type":"Battlemap",
                         "thumbnail":"79-05_Ritual_Site_R4-4k_bm.webp",
-                        "videourl":"WIP"
+                        "videourl":"WIP",
                         "download_pack": "DiA - 00 Fall of Elturel - 79",
                         "download_terms": "BM: 5 Ritual Site R4",
                         "download_creator": "Beneos Battlemaps"
@@ -33833,9 +33652,389 @@
                                 "sibling":"79-05_Ritual_Site_R4-4k_BM",
                                 "type":"Scenery",
                                 "thumbnail":"79-05_Ritual_Site_R4-4k_scen.webp",
-                                "videourl":"WIP"
+                                "videourl":"WIP",
                                 "download_pack": "DiA - 00 Fall of Elturel - 79",
                                 "download_terms": "SC: 5 Ritual Site R4",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "80-01_Refugee_Caravan_Elturel-4k_BM":{
+                        "name":"Refugee Caravan Elturel",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilized","Exteriour","Camp","Hell"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"80_DiA_Escape_From_Elturgard",
+                        "releaseurl":"WIP",
+                        "sibling":"80-01_Refugee_Caravan_Elturel-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"80-01_Refugee_Caravan_Elturel-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA 00 Escape From Elturgard - 80",
+                        "download_terms": "BM: 1 Refugee Caravan",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "80-01_Refugee_Caravan_Elturel-4k_Scen":{
+                                "name":"Refugee Caravan Elturel",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilized","Exteriour","Camp","Hell"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"80_DiA_Escape_From_Elturgard",
+                                "releaseurl":"WIP",
+                                "sibling":"80-01_Refugee_Caravan_Elturel-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"80-01_Refugee_Caravan_Elturel-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA 00 Escape From Elturgard - 80",
+                                "download_terms": "SC: 1 Refugee Caravan",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "80-02_The Smith-4k_BM":{
+                        "name":"The Smith",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilized","War","Hell","Street","Burning","Exteriour","City","Fire"],
+                        "brightness":"Medium",
+                        "grid":"37x20",
+                        "pack":"80_DiA_Escape_From_Elturgard",
+                        "releaseurl":"WIP",
+                        "sibling":"80-02_The Smith-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"80-02_The Smith-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA 00 Escape From Elturgard - 80",
+                        "download_terms": "BM: 2 The Smith",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "80-02_The Smith-4k_Scen":{
+                                "name":"The Smith",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilized","War","Hell","Street","Burning","Exteriour","City","Fire"],
+                                "brightness":"Medium",
+                                "grid":"37x20",
+                                "pack":"80_DiA_Escape_From_Elturgard",
+                                "releaseurl":"WIP",
+                                "sibling":"80-02_The Smith-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"80-02_The Smith-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA 00 Escape From Elturgard - 80",
+                                "download_terms": "SC: 2 The Smith",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "80-03_Old_Temple-4k_BM":{
+                        "name":"Old Temple",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Forest","Exteriour","Temple","Ruin"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"80_DiA_Escape_From_Elturgard",
+                        "releaseurl":"WIP",
+                        "sibling":"80-03_Old_Temple-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"80-03_Old_Temple-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA 00 Escape From Elturgard - 80",
+                        "download_terms": "BM: 3 Old Temple",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "80-03_Old_Temple-4k_Scen":{
+                                "name":"Old Temple",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Forest","Exteriour","Temple","Ruin"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"80_DiA_Escape_From_Elturgard",
+                                "releaseurl":"WIP",
+                                "sibling":"80-03_Old_Temple-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"80-03_Old_Temple-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA 00 Escape From Elturgard - 80",
+                                "download_terms": "SC: 3 Old Temple",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "80-04_Old_Temple_Ritual_Chamber-4k_BM":{
+                        "name":"Old Temple Ritual Chamber",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Dungeon","Shrine","Temple","Interiour","Ritual"],
+                        "brightness":"Dark",
+                        "grid":"32x18",
+                        "pack":"80_DiA_Escape_From_Elturgard",
+                        "releaseurl":"WIP",
+                        "sibling":"80-04_Old_Temple_Ritual_Chamber-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"80-04_Old_Temple_Ritual_Chamber-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA 00 Escape From Elturgard - 80",
+                        "download_terms": "BM: 4 Ritual Chamber",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "80-04_Old_Temple_Ritual_Chamber-4k_Scen":{
+                                "name":"Old Temple Ritual Chamber",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Dungeon","Shrine","Temple","Interiour","Ritual"],
+                                "brightness":"Dark",
+                                "grid":"32x18",
+                                "pack":"80_DiA_Escape_From_Elturgard",
+                                "releaseurl":"WIP",
+                                "sibling":"80-04_Old_Temple_Ritual_Chamber-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"80-04_Old_Temple_Ritual_Chamber-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA 00 Escape From Elturgard - 80",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "80-05_Poets_Home-4k_BM":{
+                        "name":"Poets Home",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilized","House","Street","City","Hell"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"80_DiA_Escape_From_Elturgard",
+                        "releaseurl":"WIP",
+                        "sibling":"80-05_Poets_Home-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"80-05_Poets_Home-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA 00 Escape From Elturgard - 80",
+                        "download_terms": "BM: 5 Poets Home",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "80-05_Poets_Home-4k_Scen":{
+                                "name":"Poets Home",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilized","House","Street","City","Hell"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"80_DiA_Escape_From_Elturgard",
+                                "releaseurl":"WIP",
+                                "sibling":"80-05_Poets_Home-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"80-05_Poets_Home-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA 00 Escape From Elturgard - 80",
+                                "download_terms": "SC: 5 Poets Home",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "80-06_River_Island-4k_BM":{
+                        "name":"River Island",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["River","Exteriour","Forest"],
+                        "brightness":"Medium",
+                        "grid":"40x30",
+                        "pack":"80_DiA_Escape_From_Elturgard",
+                        "releaseurl":"WIP",
+                        "sibling":"80-06_River_Island-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"80-06_River_Island-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA 00 Escape From Elturgard - 80",
+                        "download_terms": "BM: 6 River Island",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "80-06_River_Island-4k_Scen":{
+                                "name":"River Island",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["River","Exteriour","Forest"],
+                                "brightness":"Medium",
+                                "grid":"40x30",
+                                "pack":"80_DiA_Escape_From_Elturgard",
+                                "releaseurl":"WIP",
+                                "sibling":"80-06_River_Island-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"80-06_River_Island-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA 00 Escape From Elturgard - 80",
+                                "download_terms": "SC: 6 River Island",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "80-07_Emryns_Grove-4k_BM":{
+                        "name":"Emryns Grove",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Forest","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"37x20",
+                        "pack":"80_DiA_Escape_From_Elturgard",
+                        "releaseurl":"WIP",
+                        "sibling":"80-07_Emryns_Grove-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"80-07_Emryns_Grove-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA 00 Escape From Elturgard - 80",
+                        "download_terms": "BM: 7 Emryns Grove",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "80-07_Emryns_Grove-4k_Scen":{
+                                "name":"Emryns Grove",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Forest","Exteriour"],
+                                "brightness":"Medium",
+                                "grid":"37x20",
+                                "pack":"80_DiA_Escape_From_Elturgard",
+                                "releaseurl":"WIP",
+                                "sibling":"80-07_Emryns_Grove-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"80-07_Emryns_Grove-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA 00 Escape From Elturgard - 80",
+                                "download_terms": "SC: 7 Emryns Grove",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "80-08_The_Fabled_Fawn_Inn_1F-4k_BM":{
+                        "name":"The Fabled Fawn Inn 1F",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Tavern","Civilized","War","Fire","Interiour"],
+                        "brightness":"Medium",
+                        "grid":"37x20",
+                        "pack":"80_DiA_Escape_From_Elturgard",
+                        "releaseurl":"WIP",
+                        "sibling":"80-08_The_Fabled_Fawn_Inn_1F-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"80-08_The_Fabled_Fawn_Inn_1F-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA 00 Escape From Elturgard - 80",
+                        "download_terms": "BM: 8 Fabled Fawn Inn 1F",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "80-08_The_Fabled_Fawn_Inn_1F-4k_Scen":{
+                                "name":"The Fabled Fawn Inn 1F",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Tavern","Civilized","War","Fire","Interiour"],
+                                "brightness":"Medium",
+                                "grid":"37x20",
+                                "pack":"80_DiA_Escape_From_Elturgard",
+                                "releaseurl":"WIP",
+                                "sibling":"80-08_The_Fabled_Fawn_Inn_1F-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"80-08_The_Fabled_Fawn_Inn_1F-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA 00 Escape From Elturgard - 80",
+                                "download_terms": "SC: 8 Fabled Fawn Inn 1F",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "80-09_The_Fabled_Fawn_Inn_2F-4k_BM":{
+                        "name":"The Fabled Fawn Inn 2F",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Tavern","Civilized","War","Fire","Interiour"],
+                        "brightness":"Medium",
+                        "grid":"37x20",
+                        "pack":"80_DiA_Escape_From_Elturgard",
+                        "releaseurl":"WIP",
+                        "sibling":"80-09_The_Fabled_Fawn_Inn_2F-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"80-09_The_Fabled_Fawn_Inn_2F-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA 00 Escape From Elturgard - 80",
+                        "download_terms": "BM: 9 Fabled Fawn Inn 2F",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "80-09_The_Fabled_Fawn_Inn_2F-4k_Scen":{
+                                "name":"The Fabled Fawn Inn 2F",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Tavern","Civilized","War","Fire","Interiour"],
+                                "brightness":"Medium",
+                                "grid":"37x20",
+                                "pack":"80_DiA_Escape_From_Elturgard",
+                                "releaseurl":"WIP",
+                                "sibling":"80-09_The_Fabled_Fawn_Inn_2F-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"80-09_The_Fabled_Fawn_Inn_2F-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA 00 Escape From Elturgard - 80",
+                                "download_terms": "SC: 9 Fabled Fawn Inn 2F",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "80-10_Refugee_Caravan_Wilderness-4k_BM":{
+                        "name":"Refugee Caravan Wilderness",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilized","Exteriour","Camp","Night"],
+                        "brightness":"Dark",
+                        "grid":"37x30",
+                        "pack":"80_DiA_Escape_From_Elturgard",
+                        "releaseurl":"WIP",
+                        "sibling":"80-10_Refugee_Caravan_Wilderness-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"80-10_Refugee_Caravan_Wilderness-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA 00 Escape From Elturgard - 80",
+                        "download_terms": "BM: 10 Refugee Caravan Night",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "80-10_Refugee_Caravan_Wilderness-4k_Scen":{
+                                "name":"Refugee Caravan Wilderness",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilized","Exteriour","Camp","Night"],
+                                "brightness":"Dark",
+                                "grid":"37x30",
+                                "pack":"80_DiA_Escape_From_Elturgard",
+                                "releaseurl":"WIP",
+                                "sibling":"80-10_Refugee_Caravan_Wilderness-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"80-10_Refugee_Caravan_Wilderness-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA 00 Escape From Elturgard - 80",
+                                "download_terms": "SC: 10 Refugee Caravan Night",
                                 "download_creator": "Beneos Battlemaps"
                                 }
                             }
