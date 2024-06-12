@@ -14998,7 +14998,7 @@
         "fightingstyle": ["Ambusher","Predator","Pack"],
         "movement": ["Walk"],
         "purpose": ["Minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/brigands-104963999",
         "size": "Medium",
         "stat_ac": 15,
         "stat_cha": 10,
@@ -15013,7 +15013,7 @@
           "humanoid",
           "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/QJ4vvUwJK98?si=fYanuggbZSn8sb3g"
     }
     },
     "162_brigand_2": {
@@ -15025,7 +15025,7 @@
         "fightingstyle": ["Ambusher","Predator","Pack"],
         "movement": ["Walk"],
         "purpose": ["Minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/brigands-104963999",
         "size": "Medium",
         "stat_ac": 15,
         "stat_cha": 10,
@@ -15040,7 +15040,7 @@
           "humanoid",
           "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/QJ4vvUwJK98?si=fYanuggbZSn8sb3g"
     }
     },
     "162_brigand_4": {
@@ -15052,7 +15052,7 @@
         "fightingstyle": ["Ambusher","Predator","Pack"],
         "movement": ["Walk"],
         "purpose": ["Minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/brigands-104963999",
         "size": "Medium",
         "stat_ac": 15,
         "stat_cha": 10,
@@ -15067,7 +15067,7 @@
           "humanoid",
           "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/QJ4vvUwJK98?si=fYanuggbZSn8sb3g"
     }
     },
     "162_brigand_3": {
@@ -15079,7 +15079,7 @@
         "fightingstyle": ["Ambusher","Predator","Pack"],
         "movement": ["Walk"],
         "purpose": ["Minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/brigands-104963999",
         "size": "Medium",
         "stat_ac": 15,
         "stat_cha": 10,
@@ -15094,7 +15094,7 @@
           "humanoid",
           "Human"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/QJ4vvUwJK98?si=fYanuggbZSn8sb3g"
     }
     },
     "163_infernal_bloodhowler": {
@@ -15106,7 +15106,7 @@
         "fightingstyle": ["Charge","Melee"],
         "movement": ["Walk"],
         "purpose": ["Damage","Support"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/infernal-105221268",
         "size": "Large",
         "stat_ac": 16,
         "stat_cha": 16,
@@ -15121,7 +15121,7 @@
           "fiend",
           "Devil"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/COTI8mCMCEk?si=P0mev5udsJlc2vvs"
     }
   }
   }
