@@ -34037,6 +34037,158 @@
                                 "download_terms": "SC: 10 Refugee Caravan Night",
                                 "download_creator": "Beneos Battlemaps"
                                 }
+                    },
+                    "81-01_Bathhouse_Day-4k_BM":{
+                        "name":"Bathhouse Day",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Exteriour","City","Street"],
+                        "brightness":"Medium",
+                        "grid":"27x24",
+                        "pack":"81_DiA_Dungeon_Of_The_Dead_Three",
+                        "releaseurl":"WIP",
+                        "sibling":"81-01_Bathhouse_Day-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"81-01_Bathhouse_Day-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA 01 Dungeon of the Dead Three - 81",
+                        "download_terms": "BM: 1 Bathhouse Day",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "81-01_Bathhouse_Day-4k_Scen":{
+                                "name":"Bathhouse Day",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Exteriour","City","Street"],
+                                "brightness":"Medium",
+                                "grid":"27x24",
+                                "pack":"81_DiA_Dungeon_Of_The_Dead_Three",
+                                "releaseurl":"WIP",
+                                "sibling":"81-01_Bathhouse_Day-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"81-01_Bathhouse_Day-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA 01 Dungeon of the Dead Three - 81",
+                                "download_terms": "SC: 1 Bathhouse Day",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "81-02_Bathhouse_Night-4k_BM":{
+                        "name":"Bathhouse Night",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Exteriour","City","Street"],
+                        "brightness":"Dark",
+                        "grid":"27x24",
+                        "pack":"81_DiA_Dungeon_Of_The_Dead_Three",
+                        "releaseurl":"WIP",
+                        "sibling":"81-02_Bathhouse_Night-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"81-02_Bathhouse_Night-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA 01 Dungeon of the Dead Three - 81",
+                        "download_terms": "BM: 2 Bathhouse Night",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "81-02_Bathhouse_Night-4k_Scen":{
+                                "name":"Bathhouse Night",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Exteriour","City","Street"],
+                                "brightness":"Dark",
+                                "grid":"27x24",
+                                "pack":"81_DiA_Dungeon_Of_The_Dead_Three",
+                                "releaseurl":"WIP",
+                                "sibling":"81-02_Bathhouse_Night-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"81-02_Bathhouse_Night-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA 01 Dungeon of the Dead Three - 81",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "81-03_Dungeon_West-4k_BM":{
+                        "name":"Dungeon West",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Dungeon","Underground","Interiour","Temple","Water"],
+                        "brightness":"Dark",
+                        "grid":"41x29",
+                        "pack":"81_DiA_Dungeon_Of_The_Dead_Three",
+                        "releaseurl":"WIP",
+                        "sibling":"81-03_Dungeon_West-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"81-03_Dungeon_West-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA 01 Dungeon of the Dead Three - 81",
+                        "download_terms": "BM: 3 Dungeon West",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "81-03_Dungeon_West-4k_Scen":{
+                                "name":"Dungeon West",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Dungeon","Underground","Interiour","Temple","Water"],
+                                "brightness":"Dark",
+                                "grid":"41x29",
+                                "pack":"81_DiA_Dungeon_Of_The_Dead_Three",
+                                "releaseurl":"WIP",
+                                "sibling":"81-03_Dungeon_West-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"81-03_Dungeon_West-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA 01 Dungeon of the Dead Three - 81",
+                                "download_terms": "SC: 3 Dungeon West",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "81-04_Dungeon_East-4k_BM":{
+                        "name":"Dungeon East",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Dungeon","Underground","Interiour","Temple","Water"],
+                        "brightness":"Dark",
+                        "grid":"31x34",
+                        "pack":"81_DiA_Dungeon_Of_The_Dead_Three",
+                        "releaseurl":"WIP",
+                        "sibling":"81-04_Dungeon_East-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"81-04_Dungeon_East-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA 01 Dungeon of the Dead Three - 81",
+                        "download_terms": "BM: 4 Dungeon East",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "81-04_Dungeon_East-4k_Scen":{
+                                "name":"Dungeon East",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Dungeon","Underground","Interiour","Temple","Water"],
+                                "brightness":"Dark",
+                                "grid":"31x34",
+                                "pack":"81_DiA_Dungeon_Of_The_Dead_Three",
+                                "releaseurl":"WIP",
+                                "sibling":"81-04_Dungeon_East-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"81-04_Dungeon_East-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA 01 Dungeon of the Dead Three - 81",
+                                "download_terms": "SC: 4 Dungeon East",
+                                "download_creator": "Beneos Battlemaps"
+                                }
                             }
                         }
                     }
