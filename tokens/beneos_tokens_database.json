@@ -7766,8 +7766,7 @@
           "walk"
         ],
         "purpose": [
-          "damage",
-          "minion"
+          "damage"
         ],
         "releaseurl": "https://www.patreon.com/posts/berserker-76114406",
         "size": "medium",
@@ -7781,8 +7780,8 @@
         "stat_wis": 12,
         "thumbnail": "089_berserker-idle_face_still.webp",
         "type": [
-          "elemental",
-          "fire"
+          "humanoid",
+          "demi-human"
         ],
         "videourl": "https://youtu.be/Z7oA1YPXsVY"
       }
@@ -7806,7 +7805,7 @@
         ],
         "cr": "9",
         "fightingstyle": [
-          "anti x",
+          "anti caster",
           "gimmick"
         ],
         "movement": [
@@ -15122,6 +15121,165 @@
           "Devil"
         ],
         "videourl": "https://youtu.be/COTI8mCMCEk?si=P0mev5udsJlc2vvs"
+    }
+    },
+    "164_rustblight_skeleton_1": {
+      "description": "Rustblights rise from the ancient sites of long-forgotten battles. Clad in the remnants of corroded armor and wielding rust-eaten weapons, they are embodiments of ruin and decay. Born of rust and rot, they stalk places marked by death and decline, ruthlessly attacking all that lives, as flesh, wood, and steel alike crumble under their unfeeling assault.",
+      "name": "Rustblight Skeleton",
+      "properties": {
+        "biom": ["Graves","Horror","Catacombs","Dungeon","Road","Wasteland","Castle"],
+        "cr": "1",
+        "fightingstyle": ["Simple","Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Debuff","Pressure"],
+        "releaseurl": "https://www.patreon.com/posts/rustblight-106129026",
+        "size": "Medium",
+        "stat_ac": 16,
+        "stat_cha": 1,
+        "stat_con": 16,
+        "stat_dex": 8,
+        "stat_hp": 30,
+        "stat_int": 3,
+        "stat_str": 15,
+        "stat_wis": 10,
+        "thumbnail": "164_rustblight_skeleton_1-idle_face_still.webp",
+        "type": [
+          "undead"
+        ],
+        "videourl": "https://youtu.be/n6hLF30zNtA?si=_TLuDmnT8IzKmj6I"
+    }
+    },
+    "164_rustblight_skeleton_2": {
+      "description": "Rustblights rise from the ancient sites of long-forgotten battles. Clad in the remnants of corroded armor and wielding rust-eaten weapons, they are embodiments of ruin and decay. Born of rust and rot, they stalk places marked by death and decline, ruthlessly attacking all that lives, as flesh, wood, and steel alike crumble under their unfeeling assault.",
+      "name": "Rustblight Skeleton",
+      "properties": {
+        "biom": ["Graves","Horror","Catacombs","Dungeon","Road","Wasteland","Castle"],
+        "cr": "1",
+        "fightingstyle": ["Simple","Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Debuff","Pressure"],
+        "releaseurl": "https://www.patreon.com/posts/rustblight-106129026",
+        "size": "Medium",
+        "stat_ac": 16,
+        "stat_cha": 1,
+        "stat_con": 16,
+        "stat_dex": 8,
+        "stat_hp": 30,
+        "stat_int": 3,
+        "stat_str": 15,
+        "stat_wis": 10,
+        "thumbnail": "164_rustblight_skeleton_2-idle_face_still.webp",
+        "type": [
+          "undead"
+        ],
+        "videourl": "https://youtu.be/n6hLF30zNtA?si=_TLuDmnT8IzKmj6I"
+    }
+    },
+    "164_rustblight_skeleton_3": {
+      "description": "Rustblights rise from the ancient sites of long-forgotten battles. Clad in the remnants of corroded armor and wielding rust-eaten weapons, they are embodiments of ruin and decay. Born of rust and rot, they stalk places marked by death and decline, ruthlessly attacking all that lives, as flesh, wood, and steel alike crumble under their unfeeling assault.",
+      "name": "Rustblight Skeleton",
+      "properties": {
+        "biom": ["Graves","Horror","Catacombs","Dungeon","Road","Wasteland","Castle"],
+        "cr": "1",
+        "fightingstyle": ["Simple","Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Debuff","Pressure"],
+        "releaseurl": "https://www.patreon.com/posts/rustblight-106129026",
+        "size": "Medium",
+        "stat_ac": 16,
+        "stat_cha": 1,
+        "stat_con": 16,
+        "stat_dex": 8,
+        "stat_hp": 30,
+        "stat_int": 3,
+        "stat_str": 15,
+        "stat_wis": 10,
+        "thumbnail": "164_rustblight_skeleton_3-idle_face_still.webp",
+        "type": [
+          "undead"
+        ],
+        "videourl": "https://youtu.be/n6hLF30zNtA?si=_TLuDmnT8IzKmj6I"
+    }
+    },
+    "000_month_15_shaman": {
+      "description": "From shaman-kings who rule tribal societies by a mandate granted by the ancestral spirits, reclusive hermits safeguarding the balance and harmony of nature, to storm-callers and earth-shakers whose words unleash the full fury of elemental wrath—shamans are pivotal figures in societies that, through a deep connection to nature and ancestral worship, have not lost their link to the past and the surrounding natural world.",
+      "name": "Shaman",
+      "properties": {
+        "biom": ["Wilderness","Forest","Arctic","Dungeon","Road","Wasteland","Mountain","Coast","Desert","Jungle","Swamp"],
+        "cr": "11",
+        "fightingstyle": ["Demanding","Area of Effect"],
+        "movement": ["Walk"],
+        "purpose": ["Support","Leader"],
+        "releaseurl": "",
+        "size": "Medium",
+        "stat_ac": 16,
+        "stat_cha": 16,
+        "stat_con": 18,
+        "stat_dex": 15,
+        "stat_hp": 168,
+        "stat_int": 12,
+        "stat_str": 14,
+        "stat_wis": 20,
+        "thumbnail": "000_month_15_shaman-idle_face_still.webp",
+        "type": [
+          "humanoid"
+          
+        ],
+        "videourl": ""
+    }
+    },
+    "000_month_15_crocodile": {
+      "description": "Crocodiles appear to sport a self-satisfied grin, almost as if they’re aware they’re a pinnacle of evolutionary success. While others had to develop fins or feet to find their niche, those very appendages often ended up on the menu of lurking crocodiles. The stars of their own evolutionary success story ensure that life near water remains thrilling.",
+      "name": "Crocodile",
+      "properties": {
+        "biom": ["Wilderness","Forest","Dungeon","Road","River", "Wasteland","Coast","Desert","Jungle","Swamp"],
+        "cr": "0.5",
+        "fightingstyle": ["Ambush","Shock"],
+        "movement": ["Swim"],
+        "purpose": ["Minion"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 14,
+        "stat_cha": 5,
+        "stat_con": 13,
+        "stat_dex": 11,
+        "stat_hp": 19,
+        "stat_int": 2,
+        "stat_str": 15,
+        "stat_wis": 10,
+        "thumbnail": "000_month_15_crocodile-idle_face_still.webp",
+        "type": [
+          "beast"
+          
+        ],
+        "videourl": ""
+    }
+    },
+    "000_month_15_bear": {
+      "description": "When one encounters a full-grown bear in the wild, it becomes clear why people started building walls. Bulky slabs of muscle shifting under an armor of dense fur and tough skin that can resist even blades, powerful jaws and giant, mighty paws - Bears are faster, stronger, and more mobile than most humanoid beings, and their legendary resilience has inspired many tribal societies to revere the bear totem as a symbol of primal fortitude.",
+      "name": "Bear",
+      "properties": {
+        "biom": ["Wilderness","Forest","Dungeon","Road","River", "Wasteland","Coast","Desert","Jungle","Swamp","Arctic","Mountains","Cave"],
+        "cr": "1",
+        "fightingstyle": ["Simple"],
+        "movement": ["Walk"],
+        "purpose": ["Tank","Minion"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 14,
+        "stat_cha": 5,
+        "stat_con": 16,
+        "stat_dex": 12,
+        "stat_hp": 43,
+        "stat_int": 5,
+        "stat_str": 18,
+        "stat_wis": 14,
+        "thumbnail": "000_month_15_bear-idle_face_still.webp",
+        "type": [
+          "beast"
+          
+        ],
+        "videourl": ""
     }
   }
   }

@@ -1078,7 +1078,7 @@
     "0051_predatory_adaption": {
       "key": "0051_predatory_adaption",
       "description": "You forcefully use a nearby creature's statistics to make a saving throw.",
-      "name": "Predatory Adaption",
+      "name": "Predatory Adaptation",
       "properties": {
         "level": "1",
         "school": "Transmutation",

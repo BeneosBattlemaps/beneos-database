@@ -730,6 +730,62 @@
             "price": "4200",
             "icon": "0052_dark_shepherd-icon.webp"
             }
+        },
+        "0054_slumbering_huskblade": {
+            "key": "0054_slumbering_huskblade",
+            "description": "A crude lump of metal transforming into a blade upon killing a creature with it.",
+            "name": "Huskblade (Slumbering)",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "beastforged",
+            "item_type": "Melee Weapon",
+            "tier": 2,
+            "price": "3600",
+            "icon": "0054_slumbering_huskblade-icon.webp"
+            }
+        },
+        "0055_awoken_huskblade": {
+            "key": "0055_awoken_huskblade",
+            "description": "The stronger the creature slain with the Slumbering Husk Blade, the mightier its awoken form.",
+            "name": "Huskblade (Awoken)",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "beastforged",
+            "item_type": "Melee Weapon",
+            "tier": 2,
+            "price": "5800",
+            "icon": "0055_awoken_huskblade-icon.webp"
+            }
+        },
+        "0056_hiveheart": {
+            "key": "0056_hiveheart",
+            "description": "In turn for infesting your body, the skittering swarm helps out where it can.",
+            "name": "Hiveheart",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "mutation",
+            "item_type": "Trinket",
+            "tier": 2,
+            "price": "5000",
+            "icon": "0056_hiveheart-icon.webp"
+            }
+        },
+        "0057_sullen_knights_helmet": {
+            "key": "0057_sullen_knights_helmet",
+            "description": "A slightly cursed helmet, whose benefits might outweigh the drawbacks.",
+            "name": "Sullen Knight's Helmet",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": true,
+            "origin": "awoken",
+            "item_type": "Clothing",
+            "tier": 1,
+            "price": "2700",
+            "icon": "0057_sullen_knights_helmet-icon.webp"
+            }
          }
        }
      }
