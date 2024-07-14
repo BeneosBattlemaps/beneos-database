@@ -34189,6 +34189,576 @@
                                 "download_terms": "SC: 4 Dungeon East",
                                 "download_creator": "Beneos Battlemaps"
                                 }
+                    },
+                    "82-01_BG_City_Map-4k_BM":{
+                        "name":"BG City Map",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Exteriour","City","Day","Harbour"],
+                        "brightness":"Bright",
+                        "grid":"35x30",
+                        "pack":"82_DiA_Baldurs_Gate",
+                        "releaseurl":"WIP",
+                        "sibling":"82-01_BG_City_Map-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"82-01_BG_City_Map-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Baldurs Gate - 82",
+                        "download_terms": "BM: 1 Baldurs Gate Overview",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "82-01_BG_City_Map-4k_Scen":{
+                                "name":"BG City Map",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Exteriour","City","Day","Harbour"],
+                                "brightness":"Bright",
+                                "grid":"35x30",
+                                "pack":"82_DiA_Baldurs_Gate",
+                                "releaseurl":"WIP",
+                                "sibling":"82-01_BG_City_Map-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"82-01_BG_City_Map-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Baldurs Gate - 82",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "82-02_BG_Basilisk_Gate-4k_BM":{
+                        "name":"BG Basilisk Gate",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Exteriour","City","Wall","Gate","Day"],
+                        "brightness":"Bright",
+                        "grid":"35x30",
+                        "pack":"82_DiA_Baldurs_Gate",
+                        "releaseurl":"WIP",
+                        "sibling":"82-02_BG_Basilisk_Gate-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"82-02_BG_Basilisk_Gate-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Baldurs Gate - 82",
+                        "download_terms": "BM: 2 Basilisk Gate",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "82-02_BG_Basilisk_Gate-4k_Scen":{
+                                "name":"BG Basilisk Gate",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Exteriour","City","Wall","Gate","Day"],
+                                "brightness":"Bright",
+                                "grid":"35x30",
+                                "pack":"82_DiA_Baldurs_Gate",
+                                "releaseurl":"WIP",
+                                "sibling":"82-02_BG_Basilisk_Gate-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"82-02_BG_Basilisk_Gate-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Baldurs Gate - 82",
+                                "download_terms": "SC: 2 Basilisk Gate",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "82-03_BG_Streets_1-4k_BM":{
+                        "name":"BG Streets 1",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Exteriour","City","Wall","Street","Day"],
+                        "brightness":"Bright",
+                        "grid":"35x30",
+                        "pack":"82_DiA_Baldurs_Gate",
+                        "releaseurl":"WIP",
+                        "sibling":"82-03_BG_Streets_1-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"82-03_BG_Streets_1-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Baldurs Gate - 82",
+                        "download_terms": "BM: 3 Street 1",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "82-03_BG_Streets_1-4k_Scen":{
+                                "name":"BG Streets 1",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Exteriour","City","Wall","Street","Day"],
+                                "brightness":"Bright",
+                                "grid":"35x30",
+                                "pack":"82_DiA_Baldurs_Gate",
+                                "releaseurl":"WIP",
+                                "sibling":"82-03_BG_Streets_1-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"82-03_BG_Streets_1-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Baldurs Gate - 82",
+                                "download_terms": "SC: 3 Street 1",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "82-04_BG_Streets_2-4k_BM":{
+                        "name":"BG Streets 2",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Exteriour","City","Street","Day"],
+                        "brightness":"Bright",
+                        "grid":"35x30",
+                        "pack":"82_DiA_Baldurs_Gate",
+                        "releaseurl":"WIP",
+                        "sibling":"82-04_BG_Streets_2-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"82-04_BG_Streets_2-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Baldurs Gate - 82",
+                        "download_terms": "BM: 4 Street 2",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "82-04_BG_Streets_2-4k_Scen":{
+                                "name":"BG Streets 2",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Exteriour","City","Street","Day"],
+                                "brightness":"Bright",
+                                "grid":"35x30",
+                                "pack":"82_DiA_Baldurs_Gate",
+                                "releaseurl":"WIP",
+                                "sibling":"82-04_BG_Streets_2-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"82-04_BG_Streets_2-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Baldurs Gate - 82",
+                                "download_terms": "SC: 4 Street 2",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "82-05_BG_Docks_1-4k_BM":{
+                        "name":"BG Docks 1",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Exteriour","City","Harbour","Day","Ocean"],
+                        "brightness":"Bright",
+                        "grid":"35x30",
+                        "pack":"82_DiA_Baldurs_Gate",
+                        "releaseurl":"WIP",
+                        "sibling":"82-05_BG_Docks_1-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"82-05_BG_Docks_1-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Baldurs Gate - 82",
+                        "download_terms": "BM: 5 Docks",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "82-05_BG_Docks_1-4k_Scen":{
+                                "name":"BG Docks 1",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Exteriour","City","Harbour","Day","Ocean"],
+                                "brightness":"Bright",
+                                "grid":"35x30",
+                                "pack":"82_DiA_Baldurs_Gate",
+                                "releaseurl":"WIP",
+                                "sibling":"82-05_BG_Docks_1-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"82-05_BG_Docks_1-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Baldurs Gate - 82",
+                                "download_terms": "SC: 5 Docks",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "82-06_BG_Basilisk_Gate_Night-4k_BM":{
+                        "name":"BG Basilisk Gate Night",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Exteriour","City","Wall","Gate","Night"],
+                        "brightness":"Dark",
+                        "grid":"35x30",
+                        "pack":"82_DiA_Baldurs_Gate",
+                        "releaseurl":"WIP",
+                        "sibling":"82-06_BG_Basilisk_Gate_Night-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"82-06_BG_Basilisk_Gate_Night-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Baldurs Gate - 82",
+                        "download_terms": "BM: 6 Basilisk Gate Night",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "82-06_BG_Basilisk_Gate_Night-4k_Scen":{
+                                "name":"BG Basilisk Gate Night",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Exteriour","City","Wall","Gate","Night"],
+                                "brightness":"Dark",
+                                "grid":"35x30",
+                                "pack":"82_DiA_Baldurs_Gate",
+                                "releaseurl":"WIP",
+                                "sibling":"82-06_BG_Basilisk_Gate_Night-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"82-06_BG_Basilisk_Gate_Night-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Baldurs Gate - 82",
+                                "download_terms": "SC: 6 Basilisk Gate Night",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "82-07_BG_Streets_1_Night-4k_BM":{
+                        "name":"BG Streets 1 Night",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Exteriour","City","Wall","Street","Night"],
+                        "brightness":"Dark",
+                        "grid":"35x30",
+                        "pack":"82_DiA_Baldurs_Gate",
+                        "releaseurl":"WIP",
+                        "sibling":"82-07_BG_Streets_1_Night-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"82-07_BG_Streets_1_Night-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Baldurs Gate - 82",
+                        "download_terms": "BM: 7 Street 1 Night",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "82-07_BG_Streets_1_Night-4k_Scen":{
+                                "name":"BG Streets 1 Night",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Exteriour","City","Wall","Street","Night"],
+                                "brightness":"Dark",
+                                "grid":"35x30",
+                                "pack":"82_DiA_Baldurs_Gate",
+                                "releaseurl":"WIP",
+                                "sibling":"82-07_BG_Streets_1_Night-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"82-07_BG_Streets_1_Night-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Baldurs Gate - 82",
+                                "download_terms": "SC: 7 Street 1 Night",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "82-08_BG_Streets_2_Night-4k_BM":{
+                        "name":"BG Streets 2 Night",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Exteriour","City","Wall","Street","Night"],
+                        "brightness":"Dark",
+                        "grid":"35x30",
+                        "pack":"82_DiA_Baldurs_Gate",
+                        "releaseurl":"WIP",
+                        "sibling":"82-08_BG_Streets_2_Night-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"82-08_BG_Streets_2_Night-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Baldurs Gate - 82",
+                        "download_terms": "BM: 8 Street 2 Night",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "82-08_BG_Streets_2_Night-4k_Scen":{
+                                "name":"BG Streets 2 Night",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Exteriour","City","Wall","Street","Night"],
+                                "brightness":"Dark",
+                                "grid":"35x30",
+                                "pack":"82_DiA_Baldurs_Gate",
+                                "releaseurl":"WIP",
+                                "sibling":"82-08_BG_Streets_2_Night-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"82-08_BG_Streets_2_Night-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Baldurs Gate - 82",
+                                "download_terms": "SC: 8 Street 2 Night",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "82-09_BG_Docks_1_Night-4k_BM":{
+                        "name":"BG Docks 1 Night",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Exteriour","City","Harbour","Night","Ocean"],
+                        "brightness":"Dark",
+                        "grid":"35x30",
+                        "pack":"82_DiA_Baldurs_Gate",
+                        "releaseurl":"WIP",
+                        "sibling":"82-09_BG_Docks_1_Night-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"82-09_BG_Docks_1_Night-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Baldurs Gate - 82",
+                        "download_terms": "BM: 9 Docks Night",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "82-09_BG_Docks_1_Night-4k_Scen":{
+                                "name":"BG Docks 1 Night",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Exteriour","City","Harbour","Night","Ocean"],
+                                "brightness":"Dark",
+                                "grid":"35x30",
+                                "pack":"82_DiA_Baldurs_Gate",
+                                "releaseurl":"WIP",
+                                "sibling":"82-09_BG_Docks_1_Night-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"82-09_BG_Docks_1_Night-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Baldurs Gate - 82",
+                                "download_terms": "SC: 9 Docks Night",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "83-01_Elfsong_Tavern_1F_Day-4k_BM":{
+                        "name":"Elfsong Tavern 1F Day",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Interiour","Tavern","City"],
+                        "brightness":"Medium",
+                        "grid":"32x21",
+                        "pack":"83_DiA_Elfsong_Tavern",
+                        "releaseurl":"WIP",
+                        "sibling":"83-01_Elfsong_Tavern_1F_Day-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"83-01_Elfsong_Tavern_1F_Day-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Elfsong Tavern - 83",
+                        "download_terms": "BM: Day 1F",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "83-01_Elfsong_Tavern_1F_Day-4k_Scen":{
+                                "name":"Elfsong Tavern 1F Day",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Interiour","Tavern","City"],
+                                "brightness":"Medium",
+                                "grid":"32x21",
+                                "pack":"83_DiA_Elfsong_Tavern",
+                                "releaseurl":"WIP",
+                                "sibling":"83-01_Elfsong_Tavern_1F_Day-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"83-01_Elfsong_Tavern_1F_Day-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Elfsong Tavern - 83",
+                                "download_terms": "SC: Day 1F",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "83-02_Elfsong_Tavern_2F_Day-4k_BM":{
+                        "name":"Elfsong Tavern 2F Day",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Interiour","Tavern","City"],
+                        "brightness":"Medium",
+                        "grid":"27x18",
+                        "pack":"83_DiA_Elfsong_Tavern",
+                        "releaseurl":"WIP",
+                        "sibling":"83-02_Elfsong_Tavern_2F_Day-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"83-02_Elfsong_Tavern_2F_Day-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Elfsong Tavern - 83",
+                        "download_terms": "BM: Day 2F",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "83-02_Elfsong_Tavern_2F_Day-4k_Scen":{
+                                "name":"Elfsong Tavern 2F Day",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Interiour","Tavern","City"],
+                                "brightness":"Medium",
+                                "grid":"27x18",
+                                "pack":"83_DiA_Elfsong_Tavern",
+                                "releaseurl":"WIP",
+                                "sibling":"83-02_Elfsong_Tavern_2F_Day-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"83-02_Elfsong_Tavern_2F_Day-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Elfsong Tavern - 83",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "83-03_Elfsong_Tavern_Roof_Day-4k_BM":{
+                        "name":"Elfsong Tavern Roof Day",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Interiour","Tavern","City","Roof"],
+                        "brightness":"Medium",
+                        "grid":"27x18",
+                        "pack":"83_DiA_Elfsong_Tavern",
+                        "releaseurl":"WIP",
+                        "sibling":"83-03_Elfsong_Tavern_Roof_Day-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"83-03_Elfsong_Tavern_Roof_Day-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Elfsong Tavern - 83",
+                        "download_terms": "BM: Day Roof",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "83-03_Elfsong_Tavern_Roof_Day-4k_Scen":{
+                                "name":"Elfsong Tavern Roof Day",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Interiour","Tavern","City","Roof"],
+                                "brightness":"Medium",
+                                "grid":"27x18",
+                                "pack":"83_DiA_Elfsong_Tavern",
+                                "releaseurl":"WIP",
+                                "sibling":"83-03_Elfsong_Tavern_Roof_Day-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"83-03_Elfsong_Tavern_Roof_Day-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Elfsong Tavern - 83",
+                                "download_terms": "SC: Day Roof",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "83-04_Elfsong_Tavern_1F_Night-4k_BM":{
+                        "name":"Elfsong Tavern 1F Night",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Interiour","Tavern","City","Night"],
+                        "brightness":"Dark",
+                        "grid":"32x21",
+                        "pack":"83_DiA_Elfsong_Tavern",
+                        "releaseurl":"WIP",
+                        "sibling":"83-04_Elfsong_Tavern_1F_Night-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"83-04_Elfsong_Tavern_1F_Night-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Elfsong Tavern - 83",
+                        "download_terms": "BM: Night 1F",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "83-04_Elfsong_Tavern_1F_Night-4k_Scen":{
+                                "name":"Elfsong Tavern 1F Night",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Interiour","Tavern","City","Night"],
+                                "brightness":"Dark",
+                                "grid":"32x21",
+                                "pack":"83_DiA_Elfsong_Tavern",
+                                "releaseurl":"WIP",
+                                "sibling":"83-04_Elfsong_Tavern_1F_Night-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"83-04_Elfsong_Tavern_1F_Night-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Elfsong Tavern - 83",
+                                "download_terms": "SC: Night 1F",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "83-05_Elfsong_Tavern_2F_Night-4k_BM":{
+                        "name":"Elfsong Tavern 2F Night",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Interiour","Tavern","City","Night"],
+                        "brightness":"Dark",
+                        "grid":"27x18",
+                        "pack":"83_DiA_Elfsong_Tavern",
+                        "releaseurl":"WIP",
+                        "sibling":"83-05_Elfsong_Tavern_2F_Night-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"83-05_Elfsong_Tavern_2F_Night-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Elfsong Tavern - 83",
+                        "download_terms": "BM: Night 2F",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "83-05_Elfsong_Tavern_2F_Night-4k_Scen":{
+                                "name":"Elfsong Tavern 2F Night",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Interiour","Tavern","City","Night"],
+                                "brightness":"Dark",
+                                "grid":"27x18",
+                                "pack":"83_DiA_Elfsong_Tavern",
+                                "releaseurl":"WIP",
+                                "sibling":"83-05_Elfsong_Tavern_2F_Night-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"83-05_Elfsong_Tavern_2F_Night-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Elfsong Tavern - 83",
+                                "download_terms": "SC: Night 2F",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "83-06_Elfsong_Tavern_Roof_Night-4k_BM":{
+                        "name":"Elfsong Tavern Roof Night",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Interiour","Tavern","City","Night","Roof"],
+                        "brightness":"Dark",
+                        "grid":"27x18",
+                        "pack":"83_DiA_Elfsong_Tavern",
+                        "releaseurl":"WIP",
+                        "sibling":"83-06_Elfsong_Tavern_Roof_Night-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"83-06_Elfsong_Tavern_Roof_Night-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Elfsong Tavern - 83",
+                        "download_terms": "BM: Night Roof",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "83-06_Elfsong_Tavern_Roof_Night-4k_Scen":{
+                                "name":"Elfsong Tavern Roof Night",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Interiour","Tavern","City","Night","Roof"],
+                                "brightness":"Dark",
+                                "grid":"27x18",
+                                "pack":"83_DiA_Elfsong_Tavern",
+                                "releaseurl":"WIP",
+                                "sibling":"83-06_Elfsong_Tavern_Roof_Night-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"83-06_Elfsong_Tavern_Roof_Night-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Elfsong Tavern - 83",
+                                "download_terms": "SC: Night Roof",
+                                "download_creator": "Beneos Battlemaps"
+                                }
                             }
                         }
                     }
