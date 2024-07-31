@@ -786,6 +786,62 @@
             "price": "2700",
             "icon": "0057_sullen_knights_helmet-icon.webp"
             }
+        },
+        "0058_bascinet_of_ancient_tactica": {
+            "key": "0058_bascinet_of_ancient_tactica",
+            "description": "At the start of each combat, you learn two maneuvers and the have option to adapt your fighting style.",
+            "name": "Bascinet Of Ancient Tactica",
+            "properties": {
+            "rarity": "Legendary",
+            "attunement": true,
+            "origin": "awoken",
+            "item_type": "Clothing",
+            "tier": 2,
+            "price": "12500",
+            "icon": "0058_bascinet_of_ancient_tactica-icon.webp"
+            }
+        },
+        "0059_bottlesnatcher_imp": {
+            "key": "0059_bottlesnatcher_imp",
+            "description": "A drunk Imp residing in a bottle, able to procure other bottles in the vicinity.",
+            "name": "Bottlesnatcher Imp",
+            "properties": {
+            "rarity": "Uncommon",
+            "attunement": false,
+            "origin": "infernal",
+            "item_type": "Trinket",
+            "tier": 1,
+            "price": "2600",
+            "icon": "0059_bottlesnatcher_imp-icon.webp"
+            }
+        },
+        "0060_heart_of_iron": {
+            "key": "0060_heart_of_iron",
+            "description": "A mechanical heart that lets you awaken a suit of heavy armor, turning it into a mighty servant.",
+            "name": "Heart Of Iron",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": false,
+            "origin": "technoarcane",
+            "item_type": "Trinket",
+            "tier": 2,
+            "price": "13600",
+            "icon": "0060_heart_of_iron-icon.webp"
+            }
+        },
+        "0061_spelldrinker_scroll": {
+            "key": "0061_spelldrinker_scroll",
+            "description": "A scroll used to trap a spell within upon it being cast, storing it for later use.",
+            "name": "Spelldrinker Scroll",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": false,
+            "origin": "arcane",
+            "item_type": "Consumable",
+            "tier": 2,
+            "price": "3900",
+            "icon": "0061_spelldrinker_scroll-icon.webp"
+            }
          }
        }
      }

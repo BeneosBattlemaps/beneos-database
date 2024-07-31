@@ -15210,7 +15210,7 @@
         "fightingstyle": ["Demanding","Area of Effect"],
         "movement": ["Walk"],
         "purpose": ["Support","Leader"],
-        "releaseurl": "",
+        "releaseurl": "https://beneos-battlemaps.com/collections/animated-tokens/products/beneos-tokens-shaman-assorted-beasts",
         "size": "Medium",
         "stat_ac": 16,
         "stat_cha": 16,
@@ -15225,7 +15225,7 @@
           "humanoid"
           
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/dC3m2uK0HXo?si=lyu8-cn0IkhqRRkM"
     }
     },
     "000_month_15_crocodile": {
@@ -15237,7 +15237,7 @@
         "fightingstyle": ["Ambush","Shock"],
         "movement": ["Swim"],
         "purpose": ["Minion"],
-        "releaseurl": "",
+        "releaseurl": "https://beneos-battlemaps.com/collections/animated-tokens/products/beneos-tokens-shaman-assorted-beasts",
         "size": "Large",
         "stat_ac": 14,
         "stat_cha": 5,
@@ -15252,7 +15252,7 @@
           "beast"
           
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/dC3m2uK0HXo?si=lyu8-cn0IkhqRRkM"
     }
     },
     "000_month_15_bear": {
@@ -15264,7 +15264,7 @@
         "fightingstyle": ["Simple"],
         "movement": ["Walk"],
         "purpose": ["Tank","Minion"],
-        "releaseurl": "",
+        "releaseurl": "https://beneos-battlemaps.com/collections/animated-tokens/products/beneos-tokens-shaman-assorted-beasts",
         "size": "Large",
         "stat_ac": 14,
         "stat_cha": 5,
@@ -15279,10 +15279,575 @@
           "beast"
           
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/dC3m2uK0HXo?si=lyu8-cn0IkhqRRkM"
     }
+    },
+    "165_cow_1": {
+      "description": "With their characteristic placid demeanor, cows embody the idyll of agricultural life, a stark contrast to the struggles and terrors of the hunt. Domesticated over millennia, these bovine creatures are essential to the growth and prosperity of civilizations worldwide, providing milk, meat, and labor across cultures. Naturally docile and curious, they perfectly exemplify the peaceful pastoral landscapes they call home.",
+      "name": "Cow",
+      "properties": {
+        "biom": ["Road","Civilized"],
+        "cr": "0.25",
+        "fightingstyle": ["Simple"],
+        "movement": ["Walk"],
+        "purpose": ["Ally","Minion"],
+        "releaseurl": "https://www.patreon.com/posts/farm-animals-106778329",
+        "size": "Large",
+        "stat_ac": 10,
+        "stat_cha": 10,
+        "stat_con": 13,
+        "stat_dex": 10,
+        "stat_hp": 13,
+        "stat_int": 5,
+        "stat_str": 15,
+        "stat_wis": 13,
+        "thumbnail": "165_cow_1-idle_face_still.webp",
+        "type": [
+          "beast"
+          
+        ],
+        "videourl": "https://youtu.be/uraYtbfZlSM?si=waXCDLHT9DLSiS2i"
+    }
+    },
+    "165_cow_2": {
+      "description": "With their characteristic placid demeanor, cows embody the idyll of agricultural life, a stark contrast to the struggles and terrors of the hunt. Domesticated over millennia, these bovine creatures are essential to the growth and prosperity of civilizations worldwide, providing milk, meat, and labor across cultures. Naturally docile and curious, they perfectly exemplify the peaceful pastoral landscapes they call home.",
+      "name": "Cow",
+      "properties": {
+        "biom": ["Road","Civilized"],
+        "cr": "0.25",
+        "fightingstyle": ["Simple"],
+        "movement": ["Walk"],
+        "purpose": ["Ally","Minion"],
+        "releaseurl": "https://www.patreon.com/posts/farm-animals-106778329",
+        "size": "Large",
+        "stat_ac": 10,
+        "stat_cha": 10,
+        "stat_con": 13,
+        "stat_dex": 10,
+        "stat_hp": 13,
+        "stat_int": 5,
+        "stat_str": 15,
+        "stat_wis": 13,
+        "thumbnail": "165_cow_2-idle_face_still.webp",
+        "type": [
+          "beast"
+          
+        ],
+        "videourl": "https://youtu.be/uraYtbfZlSM?si=waXCDLHT9DLSiS2i"
+    }
+    },
+    "165_cow_3": {
+      "description": "With their characteristic placid demeanor, cows embody the idyll of agricultural life, a stark contrast to the struggles and terrors of the hunt. Domesticated over millennia, these bovine creatures are essential to the growth and prosperity of civilizations worldwide, providing milk, meat, and labor across cultures. Naturally docile and curious, they perfectly exemplify the peaceful pastoral landscapes they call home.",
+      "name": "Cow",
+      "properties": {
+        "biom": ["Road","Civilized"],
+        "cr": "0.25",
+        "fightingstyle": ["Simple"],
+        "movement": ["Walk"],
+        "purpose": ["Ally","Minion"],
+        "releaseurl": "https://www.patreon.com/posts/farm-animals-106778329",
+        "size": "Large",
+        "stat_ac": 10,
+        "stat_cha": 10,
+        "stat_con": 13,
+        "stat_dex": 10,
+        "stat_hp": 13,
+        "stat_int": 5,
+        "stat_str": 15,
+        "stat_wis": 13,
+        "thumbnail": "165_cow_3-idle_face_still.webp",
+        "type": [
+          "beast"
+          
+        ],
+        "videourl": "https://youtu.be/uraYtbfZlSM?si=waXCDLHT9DLSiS2i"
+    }
+    },
+    "165_chicken_1": {
+      "description": "Chickens are versatile and widely domesticated birds, essential to agricultural practices around the world. Known for their prolific egg-laying abilities and providing a reliable source of meat, they are a staple in many diets. Chickens are social creatures with distinct pecking orders, exhibiting interesting behaviors such as dust bathing and foraging.",
+      "name": "Chicken",
+      "properties": {
+        "biom": ["Road","Civilized"],
+        "cr": "0.25",
+        "fightingstyle": ["Simple"],
+        "movement": ["Walk"],
+        "purpose": ["Ally","Minion"],
+        "releaseurl": "https://www.patreon.com/posts/farm-animals-106778329",
+        "size": "Small",
+        "stat_ac": 10,
+        "stat_cha": 10,
+        "stat_con": 13,
+        "stat_dex": 10,
+        "stat_hp": 13,
+        "stat_int": 5,
+        "stat_str": 15,
+        "stat_wis": 13,
+        "thumbnail": "165_chicken_1-idle_face_still.webp",
+        "type": [
+          "beast"
+          
+        ],
+        "videourl": "https://youtu.be/uraYtbfZlSM?si=waXCDLHT9DLSiS2i"
+    }
+    },
+    "165_chicken_2": {
+      "description": "Chickens are versatile and widely domesticated birds, essential to agricultural practices around the world. Known for their prolific egg-laying abilities and providing a reliable source of meat, they are a staple in many diets. Chickens are social creatures with distinct pecking orders, exhibiting interesting behaviors such as dust bathing and foraging.",
+      "name": "Chicken",
+      "properties": {
+        "biom": ["Road","Civilized"],
+        "cr": "0.25",
+        "fightingstyle": ["Simple"],
+        "movement": ["Walk"],
+        "purpose": ["Ally","Minion"],
+        "releaseurl": "https://www.patreon.com/posts/farm-animals-106778329",
+        "size": "Small",
+        "stat_ac": 10,
+        "stat_cha": 10,
+        "stat_con": 13,
+        "stat_dex": 10,
+        "stat_hp": 13,
+        "stat_int": 5,
+        "stat_str": 15,
+        "stat_wis": 13,
+        "thumbnail": "165_chicken_2-idle_face_still.webp",
+        "type": [
+          "beast"
+          
+        ],
+        "videourl": "https://youtu.be/uraYtbfZlSM?si=waXCDLHT9DLSiS2i"
+    }
+    },
+    "165_chicken_3": {
+      "description": "Chickens are versatile and widely domesticated birds, essential to agricultural practices around the world. Known for their prolific egg-laying abilities and providing a reliable source of meat, they are a staple in many diets. Chickens are social creatures with distinct pecking orders, exhibiting interesting behaviors such as dust bathing and foraging.",
+      "name": "Chicken",
+      "properties": {
+        "biom": ["Road","Civilized"],
+        "cr": "0.25",
+        "fightingstyle": ["Simple"],
+        "movement": ["Walk"],
+        "purpose": ["Ally","Minion"],
+        "releaseurl": "https://www.patreon.com/posts/farm-animals-106778329",
+        "size": "Small",
+        "stat_ac": 10,
+        "stat_cha": 10,
+        "stat_con": 13,
+        "stat_dex": 10,
+        "stat_hp": 13,
+        "stat_int": 5,
+        "stat_str": 15,
+        "stat_wis": 13,
+        "thumbnail": "165_chicken_3-idle_face_still.webp",
+        "type": [
+          "beast"
+          
+        ],
+        "videourl": "https://youtu.be/uraYtbfZlSM?si=waXCDLHT9DLSiS2i"
+    }
+    },
+    "165_pig_1": {
+      "description": "Pigs are intelligent and adaptable animals, known for their social behavior and keen sense of smell. Pigs are omnivores and have a remarkable ability to forage, and possess a level of intelligence such that there is likely a significant intellectual overlap between the smartest pigs and the dumbest humans.",
+      "name": "Pig",
+      "properties": {
+        "biom": ["Road","Civilized"],
+        "cr": "0.25",
+        "fightingstyle": ["Simple"],
+        "movement": ["Walk"],
+        "purpose": ["Ally","Minion"],
+        "releaseurl": "https://www.patreon.com/posts/farm-animals-106778329",
+        "size": "Medium",
+        "stat_ac": 10,
+        "stat_cha": 5,
+        "stat_con": 14,
+        "stat_dex": 11,
+        "stat_hp": 13,
+        "stat_int": 6,
+        "stat_str": 13,
+        "stat_wis": 12,
+        "thumbnail": "165_pig_1-idle_face_still.webp",
+        "type": [
+          "beast"
+          
+        ],
+        "videourl": "https://youtu.be/uraYtbfZlSM?si=waXCDLHT9DLSiS2i"
+    }
+    },
+    "165_pig_2": {
+      "description": "Pigs are intelligent and adaptable animals, known for their social behavior and keen sense of smell. Pigs are omnivores and have a remarkable ability to forage, and possess a level of intelligence such that there is likely a significant intellectual overlap between the smartest pigs and the dumbest humans.",
+      "name": "Pig",
+      "properties": {
+        "biom": ["Road","Civilized"],
+        "cr": "0.25",
+        "fightingstyle": ["Simple"],
+        "movement": ["Walk"],
+        "purpose": ["Ally","Minion"],
+        "releaseurl": "https://www.patreon.com/posts/farm-animals-106778329",
+        "size": "Medium",
+        "stat_ac": 10,
+        "stat_cha": 5,
+        "stat_con": 14,
+        "stat_dex": 11,
+        "stat_hp": 13,
+        "stat_int": 6,
+        "stat_str": 13,
+        "stat_wis": 12,
+        "thumbnail": "165_pig_2-idle_face_still.webp",
+        "type": [
+          "beast"
+          
+        ],
+        "videourl": "https://youtu.be/uraYtbfZlSM?si=waXCDLHT9DLSiS2i"
+    }
+    },
+    "165_goat": {
+      "description": "Goats are curious and resilient, embodying adaptability in diverse environments. Domesticated for thousands of years, these versatile creatures are valued for their milk, meat, and wool, making them essential to agriculture and livelihoods around the world. Known for their agility and ability to thrive in rugged terrain, goats symbolize independence and resourcefulness, playing a vital role in traditional farming practices.",
+      "name": "Goat",
+      "properties": {
+        "biom": ["Road","Civilized","Mountain","Wilderness"],
+        "cr": "0.25",
+        "fightingstyle": ["Simple"],
+        "movement": ["Walk"],
+        "purpose": ["Ally","Minion"],
+        "releaseurl": "https://www.patreon.com/posts/farm-animals-106778329",
+        "size": "Medium",
+        "stat_ac": 10,
+        "stat_cha": 5,
+        "stat_con": 12,
+        "stat_dex": 13,
+        "stat_hp": 6,
+        "stat_int": 3,
+        "stat_str": 8,
+        "stat_wis": 9,
+        "thumbnail": "165_goat-idle_face_still.webp",
+        "type": [
+          "beast"
+          
+        ],
+        "videourl": "https://youtu.be/uraYtbfZlSM?si=waXCDLHT9DLSiS2i"
+    }
+    },
+    "166_jabberwook": {
+      "description": "All creatures inhabiting the Feywild are alien by default, born from the chaotic energies that shape this unfathomable plane or manifested on a whim by an Archfey or comparable entity. Few of these creations are as dangerously bizarre or uncomfortably alluring as the mighty Jabberwook, birthed from a collective surrealist nightmare shared by the deliriously drunk guests of a lavish banquet held by the Prince of the Morrowgleam Court.",
+      "name": "Jabberwook",
+      "properties": {
+        "biom": ["Planar","Forest","Jungle","Wilderness"],
+        "cr": "8",
+        "fightingstyle": ["Airborne","Demanding"],
+        "movement": ["Fly"],
+        "purpose": ["Gimmick"],
+        "releaseurl": "https://www.patreon.com/posts/jabberwook-107117884",
+        "size": "Huge",
+        "stat_ac": 17,
+        "stat_cha": 15,
+        "stat_con": 15,
+        "stat_dex": 16,
+        "stat_hp": 134,
+        "stat_int": 6,
+        "stat_str": 20,
+        "stat_wis": 12,
+        "thumbnail": "166_jabberwook-idle_face_still.webp",
+        "type": [
+          "fey"
+          
+        ],
+        "videourl": "https://youtu.be/1Igye5-pcKU?si=ZSgIXEc2_0HOyZtw"
+	  }
+    },
+    "167_acolyte_of_murder": {
+      "description": "Those devoted to cults of murder, bloodshed, and other unsavory aspects of violence are prevalent in many settings. Acolytes of Murder represent a variant of these cultists, either already acting as the executive organs of their dark patrons or still in the process of proselytizing by joining armies, bandit gangs, or other seedy professions where they put their penchant for brutality and bloodshed to good use. Over time, they undergo subtle transformations, gaining inhuman traits like overgrown fangs, bloodshot, bestial eyes, or snarling snouts. They then seek out or return to the cult and act in unison with their kind, shedding blood and carrying out their patrons’ bidding.",
+      "name": "Acolyte Of Murder",
+      "properties": {
+        "biom": ["City","Civilized","Dungeon","Horror","Tavern","Road","Wilderness"],
+        "cr": "1",
+        "fightingstyle": ["Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Damage","Minion"],
+        "releaseurl": "https://www.patreon.com/posts/acolyte-of-107677070",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 14,
+        "stat_con": 12,
+        "stat_dex": 13,
+        "stat_hp": 22,
+        "stat_int": 10,
+        "stat_str": 15,
+        "stat_wis": 11,
+        "thumbnail": "167_acolyte_of_murder-idle_face_still.webp",
+        "type": [  
+		  "humanoid"
+		  
+		       ],
+        "videourl": "https://youtu.be/YLw599Sr3y4?si=TiqHLSTFqn1-bGj0"
+    }
+    },
+    "000_month_16_cathedral_knight": {
+      "description": "Cathedral Knights are towering undead tasked with guarding the great Cathedral of Silence, the spiritual center of the Deathrite Cult. Drawn from the Unspeaking, the undead martial elite of the Cult, they bask in the soundless tolling of the great cathedral's leaden bells, causing them to grow to towering size over time. Cathedral Knights are deployed to crush particularly obstinate enemies of the Cult and are always accompanied by Bell Ringers, empowering the Cathedral Knights with deathrite rituals and maintaining the shroud of blessed silence.",
+      "name": "Cathedral Knight",
+      "properties": {
+        "biom": ["Planar","Graves","Dungeon","Horror","Holy"],
+        "cr": "15",
+        "fightingstyle": ["Demanding","Interactive"],
+        "movement": ["Walk"],
+        "purpose": ["Boss","Pressure","Leader"],
+        "releaseurl": "https://beneos-battlemaps.com/de/collections/animated-tokens-de/products/beneos-tokens-cathedral-knight-and-deathrite-bellringers",
+        "size": "Huge",
+        "stat_ac": 20,
+        "stat_cha": 5,
+        "stat_con": 18,
+        "stat_dex": 7,
+        "stat_hp": 232,
+        "stat_int": 6,
+        "stat_str": 22,
+        "stat_wis": 12,
+        "thumbnail": "000_month_16_cathedral_knight-idle_face_still.webp",
+        "type": [
+          "undead"
+          
+        ],
+        "videourl": "https://youtu.be/wGmowMXTTps?si=QTCpDMKPZzgL9-tc"
+    }
+    },
+    "000_month_16_deathrite_bellringer_1": {
+      "description": "Cathedral Knights are towering undead tasked with guarding the great Cathedral of Silence, the spiritual center of the Deathrite Cult. Drawn from the Unspeaking, the undead martial elite of the Cult, they bask in the soundless tolling of the great cathedral's leaden bells, causing them to grow to towering size over time. Cathedral Knights are deployed to crush particularly obstinate enemies of the Cult and are always accompanied by Bell Ringers, empowering the Cathedral Knights with deathrite rituals and maintaining the shroud of blessed silence.",
+      "name": "Deathrite Bellringer",
+      "properties": {
+        "biom": ["Planar","Graves","Dungeon","Horror","Holy"],
+        "cr": "2",
+        "fightingstyle": ["Tactical"],
+        "movement": ["Walk"],
+        "purpose": ["Support","Debuff"],
+        "releaseurl": "https://beneos-battlemaps.com/de/collections/animated-tokens-de/products/beneos-tokens-cathedral-knight-and-deathrite-bellringers",
+        "size": "Medium",
+        "stat_ac": 14,
+        "stat_cha": 16,
+        "stat_con": 16,
+        "stat_dex": 7,
+        "stat_hp": 47,
+        "stat_int": 10,
+        "stat_str": 8,
+        "stat_wis": 12,
+        "thumbnail": "000_month_16_deathrite_bellringer_1-idle_face_still.webp",
+        "type": [
+          "undead"
+          
+        ],
+        "videourl": "https://youtu.be/wGmowMXTTps?si=QTCpDMKPZzgL9-tc"
+    }
+    },
+    "000_month_16_deathrite_bellringer_2": {
+      "description": "Cathedral Knights are towering undead tasked with guarding the great Cathedral of Silence, the spiritual center of the Deathrite Cult. Drawn from the Unspeaking, the undead martial elite of the Cult, they bask in the soundless tolling of the great cathedral's leaden bells, causing them to grow to towering size over time. Cathedral Knights are deployed to crush particularly obstinate enemies of the Cult and are always accompanied by Bell Ringers, empowering the Cathedral Knights with deathrite rituals and maintaining the shroud of blessed silence.",
+      "name": "Deathrite Bellringer",
+      "properties": {
+        "biom": ["Planar","Graves","Dungeon","Horror","Holy"],
+        "cr": "2",
+        "fightingstyle": ["Tactical"],
+        "movement": ["Walk"],
+        "purpose": ["Support","Debuff"],
+        "releaseurl": "https://beneos-battlemaps.com/de/collections/animated-tokens-de/products/beneos-tokens-cathedral-knight-and-deathrite-bellringers",
+        "size": "Medium",
+        "stat_ac": 14,
+        "stat_cha": 16,
+        "stat_con": 16,
+        "stat_dex": 7,
+        "stat_hp": 47,
+        "stat_int": 10,
+        "stat_str": 8,
+        "stat_wis": 12,
+        "thumbnail": "000_month_16_deathrite_bellringer_2-idle_face_still.webp",
+       "type": [
+          "undead"
+          
+        ],
+        "videourl": "https://youtu.be/wGmowMXTTps?si=QTCpDMKPZzgL9-tc"
+    }
+    },
+    "168_city_guard_runner": {
+      "description": "City guards are as integral to the image of a fantasy city as thieves’ guilds, pushy merchants, and arrogant aristocrats. They patrol the streets and are always ready to thwart the players’ antics, as a party traditionally finds themselves on the wrong side of the law from time to time. While a single guardsman poses little challenge to a group of adventurers, it is their numbers and discipline that make the city watch a force to be reckoned with, especially when the lightly armed, mobile guards call in reinforcements in the form of their heavily armed special forces",
+      "name": "City Guard Runner",
+      "properties": {
+        "biom": ["City","Civilized","Castle","Tavern","Road"],
+        "cr": "0.5",
+        "fightingstyle": ["Pack","Shock","Mobile"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "https://www.patreon.com/posts/city-guard-108154063",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 11,
+        "stat_con": 12,
+        "stat_dex": 15,
+        "stat_hp": 22,
+        "stat_int": 10,
+        "stat_str": 14,
+        "stat_wis": 11,
+        "thumbnail": "168_city_guard_runner-idle_face_still.webp",
+        "type": [
+          "Humanoid"
+          
+        ],
+        "videourl": "https://youtu.be/AGKLrLF6l3M?si=j-nVLIRf_4JmABzo"
+    }
+    },
+    "168_city_guard_runner_2": {
+      "description": "City guards are as integral to the image of a fantasy city as thieves’ guilds, pushy merchants, and arrogant aristocrats. They patrol the streets and are always ready to thwart the players’ antics, as a party traditionally finds themselves on the wrong side of the law from time to time. While a single guardsman poses little challenge to a group of adventurers, it is their numbers and discipline that make the city watch a force to be reckoned with, especially when the lightly armed, mobile guards call in reinforcements in the form of their heavily armed special forces",
+      "name": "City Guard Runner",
+      "properties": {
+        "biom": ["City","Civilized","Castle","Tavern","Road"],
+        "cr": "0.5",
+        "fightingstyle": ["Pack","Shock","Mobile"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "https://www.patreon.com/posts/city-guard-108154063",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 11,
+        "stat_con": 12,
+        "stat_dex": 15,
+        "stat_hp": 22,
+        "stat_int": 10,
+        "stat_str": 14,
+        "stat_wis": 11,
+        "thumbnail": "168_city_guard_runner_2-idle_face_still.webp",
+        "type": [
+          "Humanoid"
+          
+        ],
+        "videourl": "https://youtu.be/AGKLrLF6l3M?si=j-nVLIRf_4JmABzo"
+    }
+    },
+    "168_city_guard_runner_3": {
+      "description": "City guards are as integral to the image of a fantasy city as thieves’ guilds, pushy merchants, and arrogant aristocrats. They patrol the streets and are always ready to thwart the players’ antics, as a party traditionally finds themselves on the wrong side of the law from time to time. While a single guardsman poses little challenge to a group of adventurers, it is their numbers and discipline that make the city watch a force to be reckoned with, especially when the lightly armed, mobile guards call in reinforcements in the form of their heavily armed special forces",
+      "name": "City Guard Runner",
+      "properties": {
+        "biom": ["City","Civilized","Castle","Tavern","Road"],
+        "cr": "0.5",
+        "fightingstyle": ["Pack","Shock","Mobile"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "https://www.patreon.com/posts/city-guard-108154063",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 11,
+        "stat_con": 12,
+        "stat_dex": 15,
+        "stat_hp": 22,
+        "stat_int": 10,
+        "stat_str": 14,
+        "stat_wis": 11,
+        "thumbnail": "168_city_guard_runner_3-idle_face_still.webp",
+        "type": [
+          "Humanoid"
+          
+        ],
+        "videourl": "https://youtu.be/AGKLrLF6l3M?si=j-nVLIRf_4JmABzo"
+    }
+    },
+    "168_city_guard_runner_4": {
+      "description": "City guards are as integral to the image of a fantasy city as thieves’ guilds, pushy merchants, and arrogant aristocrats. They patrol the streets and are always ready to thwart the players’ antics, as a party traditionally finds themselves on the wrong side of the law from time to time. While a single guardsman poses little challenge to a group of adventurers, it is their numbers and discipline that make the city watch a force to be reckoned with, especially when the lightly armed, mobile guards call in reinforcements in the form of their heavily armed special forces",
+      "name": "City Guard Runner",
+      "properties": {
+        "biom": ["City","Civilized","Castle","Tavern","Road"],
+        "cr": "0.5",
+        "fightingstyle": ["Pack","Shock","Mobile"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "https://www.patreon.com/posts/city-guard-108154063",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 11,
+        "stat_con": 12,
+        "stat_dex": 15,
+        "stat_hp": 22,
+        "stat_int": 10,
+        "stat_str": 14,
+        "stat_wis": 11,
+        "thumbnail": "168_city_guard_runner_4-idle_face_still.webp",
+        "type": [
+          "Humanoid"
+          
+        ],
+        "videourl": "https://youtu.be/AGKLrLF6l3M?si=j-nVLIRf_4JmABzo"
+    }
+    },
+    "169_mummy_tomb_vizier": {
+      "description": "Tomb-Viziers are lower overseers within the strict hierarchy of undead tomb structures. In life, they were officials who, due to their mundane blood, could neither hold governmental nor sacral offices, but still showed a talent for bureaucracy and organization. In death, they were rewarded with a position as Vizier. They hold command over low-ranking Tomb-Thralls or other minor undead and are tasked with keeping intrepid dungeon-delvers and grave robbers at bay to prevent the premature awakening of higher ranked undead.",
+      "name": "Mummy Tomb-Vizier",
+      "properties": {
+        "biom": ["Graves","Dungeon","Desert","Wasteland","Horror"],
+        "cr": "5",
+        "fightingstyle": ["Tactical"],
+        "movement": ["Walk"],
+        "purpose": ["Leader","Support"],
+        "releaseurl": "https://www.patreon.com/posts/mummy-tomb-108587932",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 16,
+        "stat_con": 16,
+        "stat_dex": 7,
+        "stat_hp": 90,
+        "stat_int": 14,
+        "stat_str": 8,
+        "stat_wis": 11,
+        "thumbnail": "169_mummy_tomb_vizier-idle_face_still.webp",
+        "type": [
+          "Undead"
+          
+        ],
+        "videourl": "https://youtu.be/mKE3llLvfI4?si=oABK7A2IQJfjtVwh"
+    }
+    },
+    "170_cult_oracle": {
+      "description": "Not every cult devoted to a greater, ominous power is in direct contact with the subject or object of their worship - on the contrary. Sometimes the dark power is not yet strong enough to communicate, and often the cult is still too insignificant to attract the dreaded attention of a presence worthy of a cult. A cult leader may claim to know the way for a while, but not every acolyte will remain satisfied with that indefinitely. Cult Oracles receive opaque, veiled messages, impressions, and impulses from their dark patron and try to interpret them in the interests of the cult. They represent a connection between the worldly-organizational level of a cult and the metaphysical power in the background, serving as messengers and spiritual leaders to their cult.",
+      "name": "Cult Oracle",
+      "properties": {
+        "biom": ["Graves","Dungeon","Road","Horror", "Sacral","Civilized"],
+        "cr": "0.5",
+        "fightingstyle": ["Pack"],
+        "movement": ["Walk"],
+        "purpose": ["Support","Debuff"],
+        "releaseurl": "https://www.patreon.com/posts/108865345",
+        "size": "Medium",
+        "stat_ac": 14,
+        "stat_cha": 16,
+        "stat_con": 12,
+        "stat_dex": 12,
+        "stat_hp": 33,
+        "stat_int": 12,
+        "stat_str": 15,
+        "stat_wis": 14,
+        "thumbnail": "170_cult_oracle-idle_face_still.webp",
+        "type": [
+          "Humanoid"
+          
+        ],
+        "videourl": "https://youtu.be/r6AQ5zva7hc?si=AuQprLDL1vp6VC-i"
   }
-  }
-  }
+  },
+      "171_blazing_skull": {
+      "description": "Engulfed in flames and fueled by rites of destruction, Blazing Skulls are undead creatures summoned to make use of their immense lust and widely recognized aptitude for fire-based devastation. Whether driven by a desire for vengeance against a world that wronged them or by a fundamental appetite for pyromania, unleashing one or more Blazing Skulls places the fate of the entire surrounding area on a knife’s edge, as everything that can burn probably will.",
+      "name": "Blazing Skull",
+      "properties": {
+        "biom": ["Graves","Dungeon","Road","Horror", "Cave","Wilderness","Civilized","Lair","Planar"],
+        "cr": "4",
+        "fightingstyle": ["Demanding"],
+        "movement": ["Fly"],
+        "purpose": ["Damage"],
+        "releaseurl": "https://www.patreon.com/posts/109186274",
+        "size": "Tiny",
+        "stat_ac": 13,
+        "stat_cha": 11,
+        "stat_con": 14,
+        "stat_dex": 17,
+        "stat_hp": 40,
+        "stat_int": 16,
+        "stat_str": 1,
+        "stat_wis": 11,
+        "thumbnail": "171_blazing_skull-idle_face_still.webp",
+        "type": [
+          "undead"
+          
+        ],
+        "videourl": "https://youtu.be/ld4lUvbwgpk?si=Bs9s_qI8zdCtVZnR"
+  
   
 
+}}}}

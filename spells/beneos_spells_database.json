@@ -55,31 +55,6 @@
         "icon": "0002_black_hand-icon.webp"
       }
     },
-    "0003_spiteful_harpoon": {
-      "key": "0003_spiteful_harpoon",
-      "description": "You summon a rusted harpoon with a barbed tip, the immaterial echo of a relic long lost to the waves.",
-      "name": "Spiteful Harpoon",
-      "properties": {
-        "level": "1",
-        "school": "Evocation",
-        "casting_time": "Action",
-        "concentration": false,
-        "ritual": false,
-        "spell_type": "Ranged Damage",
-        "classes": [
-          "Sorcerer",
-          "Warlock",
-          "Ranger",
-          "Bard"
-        ],
-        "components": [
-          "V",
-          "S",
-          "M"
-        ],
-        "icon": "0003_spiteful_harpoon-icon.webp"
-      }
-    },
     "0005_red_mist_frenzy": {
       "key": "0005_red_mist_frenzy",
       "description": "Like sharks reacting to blood in the water, creatures affected by the red mist become frenzied beasts.",
@@ -910,7 +885,7 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "Utility",
-        "classes": ["Sorcerer", "Warlock", "Wizard"],
+        "classes": ["Warlock"],
         "components": ["V S M"],
         "icon": "0040_ripple-icon.webp"
       }
@@ -1297,6 +1272,182 @@
         "classes": ["Cleric", "Paladin"],
         "components": ["V S M"],
         "icon": "0000_paladin_pack_1_desperate_plea-icon.webp"
+      }
+    },
+    "0053_curse_of_corrosion": {
+      "key": "0053_curse_of_corrosion",
+      "description": "You a creature's very essence, dealing acid damage and possibly reducing its AC.",
+      "name": "Curse Of Corrosion",
+      "properties": {
+        "level": "1",
+        "school": "Enchantment",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Debuff",
+        "classes": ["Bard", "Warlock", "Sorcerer", "Wizard"],
+        "components": ["V S M"],
+        "icon": "0053_curse_of_corrosion-icon.webp"
+      }
+    },
+    "0054_spoils_of_the_hunt": {
+      "key": "0054_spoils_of_the_hunt",
+      "description": "You are imbued with the strength of a slain creature, gaining, among other things, additional hit points, damage resistances or immunities.",
+      "name": "Spoils of the Hunt",
+      "properties": {
+        "level": "5",
+        "school": "Transmutation",
+        "casting_time": "10 Minutes",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Buff",
+        "classes": ["Ranger"],
+        "components": ["V S M"],
+        "icon": "0054_spoils_of_the_hunt-icon.webp"
+      }
+    },
+    "0056_out_of_place": {
+      "key": "0056_out_of_place",
+      "description": "You attune to the essence of the target area, gaining insights into its general aura, anomalies, and recent contrasting presences.",
+      "name": "Out Of Place",
+      "properties": {
+        "level": "2",
+        "school": "Divination",
+        "casting_time": "10 Minutes",
+        "concentration": false,
+        "ritual": true,
+        "spell_type": "Utility",
+        "classes": ["Bard", "Cleric", "Druid", "Warlock", "Sorcerer", "Wizard"],
+        "components": ["V S M"],
+        "icon": "0056_out_of_place-icon.webp"
+      }
+    },
+    "0055_morrowgleam_crown": {
+      "key": "0055_morrowgleam_crown",
+      "description": "A crown of radiant light that grants damage resistances, blinds attackers and banishes darkness.",
+      "name": "Morrowgleam Crown",
+      "properties": {
+        "level": "7",
+        "school": "Evocation",
+        "casting_time": "10 Minutes",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Buff",
+        "classes": ["Bard", "Cleric", "Sorcerer"],
+        "components": ["V S"],
+        "icon": "0055_morrowgleam_crown-icon.webp"
+      }
+    },
+    "0003_spiteful_harpoon": {
+      "key": "0003_spiteful_harpoon",
+      "description": "You summon a rusted harpoon with a barbed tip, dealing more damage the bigger the target is.",
+      "name": "Spiteful Harpoon",
+      "properties": {
+        "level": "1",
+        "school": "Conjuration",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Ranged Damage",
+        "classes": ["Sorcerer", "Warlock", "Ranger", "Bard"],
+        "components": ["V S"],
+        "icon": "0003_spiteful_harpoon-icon.webp"
+      }
+    },
+    "0003_spiteful_harpoon": {
+      "key": "0003_spiteful_harpoon",
+      "description": "You summon a rusted harpoon with a barbed tip, dealing more damage the bigger the target is.",
+      "name": "spiteful harpoon",
+      "properties": {
+        "level": "1",
+        "school": "Conjuration",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "false",
+        "classes": ["Sorcerer Warlock Ranger Bard"],
+        "components": ["V S"],
+        "icon": "0003_spiteful_harpoon-icon.webp"
+      }
+    },
+    "0055_morrowgleam_crown": {
+      "key": "0055_morrowgleam_crown",
+      "description": "A crown of radiant light that grants damage resistances, blinds attackers and banishes darkness.",
+      "name": "Morrowgleam Crown",
+      "properties": {
+        "level": "7",
+        "school": "Evocation",
+        "casting_time": "10 Minutes",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "false",
+        "classes": ["Bard Cleric Sorcerer"],
+        "components": ["V S"],
+        "icon": "0055_morrowgleam_crown-icon.webp"
+      }
+    },
+    "0022_shadow_symphony": {
+      "key": "0022_shadow_symphony",
+      "description": "You weave an auditory illusion allowing allies to hide in plain sight.",
+      "name": "Shadow Symphony",
+      "properties": {
+        "level": "3",
+        "school": "Illusion",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": true,
+        "spell_type": "false",
+        "classes": ["Bard"],
+        "components": ["S"],
+        "icon": "0022_shadow_symphony-icon.webp"
+      }
+    },
+    "0057_crystal_carapace": {
+      "key": "0057_crystal_carapace",
+      "description": "You grow crystal scales that protect you from damage and might hurt attackers.",
+      "name": "Crystal Carapace",
+      "properties": {
+        "level": "1",
+        "school": "Transmutation",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "false",
+        "classes": ["Bard Druid Cleric Warlock Sorcerer Wizard"],
+        "components": ["V S M"],
+        "icon": "0057_crystal_carapace-icon.webp"
+      }
+    },
+    "0058_steal_heat": {
+      "key": "0058_steal_heat",
+      "description": "Absorb a creature's heat and unleash it against your foes.",
+      "name": "Steal Heat",
+      "properties": {
+        "level": "0",
+        "school": "Evocation",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "false",
+        "classes": ["Warlock Sorcerer Wizard Druid Ranger"],
+        "components": ["V S M"],
+        "icon": "0058_steal_heat-icon.webp"
+      }
+    },
+    "0059_festering_truth": {
+      "key": "0059_festering_truth",
+      "description": "You predict a creature's immediate future, weakening it if your prediciton comes to pass.",
+      "name": "Festering Truth",
+      "properties": {
+        "level": "0",
+        "school": "Divination",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "false",
+        "classes": ["Warlock Sorcerer Wizard Cleric"],
+        "components": ["V"],
+        "icon": "0059_festering_truth-icon.webp"
       }
     }
   }
