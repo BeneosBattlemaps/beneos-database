@@ -34759,6 +34759,234 @@
                                 "download_terms": "SC: Night Roof",
                                 "download_creator": "Beneos Battlemaps"
                                 }
+                    },
+                    "84-01_Low_Lantern_Top_Side-4k_BM":{
+                        "name":"Low Lantern Top Side",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Harbour","Ship","Tavern","Exteriour"],
+                        "brightness":"Bright",
+                        "grid":"31x16",
+                        "pack":"84_DiA_Low_Lantern_Tavern",
+                        "releaseurl":"WIP",
+                        "sibling":"84-01_Low_Lantern_Top_Side-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"84-01_Low_Lantern_Top_Side-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Low Lantern Tavern - 84",
+                        "download_terms": "BM: 1 Top Side",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "84-01_Low_Lantern_Top_Side-4k_Scen":{
+                                "name":"Low Lantern Top Side",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Harbour","Ship","Tavern","Exteriour"],
+                                "brightness":"Bright",
+                                "grid":"31x16",
+                                "pack":"84_DiA_Low_Lantern_Tavern",
+                                "releaseurl":"WIP",
+                                "sibling":"84-01_Low_Lantern_Top_Side-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"84-01_Low_Lantern_Top_Side-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Low Lantern Tavern - 84",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "84-02_Low_Lantern_Tavern-4k_BM":{
+                        "name":"Low Lantern Tavern",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Harbour","Ship","Tavern","Interiour"],
+                        "brightness":"Medium",
+                        "grid":"26x13",
+                        "pack":"84_DiA_Low_Lantern_Tavern",
+                        "releaseurl":"WIP",
+                        "sibling":"84-02_Low_Lantern_Tavern-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"84-02_Low_Lantern_Tavern-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Low Lantern Tavern - 84",
+                        "download_terms": "BM: 2 Tavern Deck",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "84-02_Low_Lantern_Tavern-4k_Scen":{
+                                "name":"Low Lantern Tavern",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Harbour","Ship","Tavern","Interiour"],
+                                "brightness":"Medium",
+                                "grid":"26x13",
+                                "pack":"84_DiA_Low_Lantern_Tavern",
+                                "releaseurl":"WIP",
+                                "sibling":"84-02_Low_Lantern_Tavern-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"84-02_Low_Lantern_Tavern-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Low Lantern Tavern - 84",
+                                "download_terms": "SC: 2 Tavern Deck",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "84-03_Low_Lantern_Lounge-4k_BM":{
+                        "name":"Low Lantern Lounge",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Harbour","Ship","Tavern","Interiour"],
+                        "brightness":"Medium",
+                        "grid":"26x13",
+                        "pack":"84_DiA_Low_Lantern_Tavern",
+                        "releaseurl":"WIP",
+                        "sibling":"84-03_Low_Lantern_Lounge-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"84-03_Low_Lantern_Lounge-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Low Lantern Tavern - 84",
+                        "download_terms": "BM: 3 Lounge Deck",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "84-03_Low_Lantern_Lounge-4k_Scen":{
+                                "name":"Low Lantern Lounge",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Harbour","Ship","Tavern","Interiour"],
+                                "brightness":"Medium",
+                                "grid":"26x13",
+                                "pack":"84_DiA_Low_Lantern_Tavern",
+                                "releaseurl":"WIP",
+                                "sibling":"84-03_Low_Lantern_Lounge-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"84-03_Low_Lantern_Lounge-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Low Lantern Tavern - 84",
+                                "download_terms": "SC: 3 Lounge Deck",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "84-04_Low_Lantern_Quarters-4k_BM":{
+                        "name":"Low Lantern Quarters",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Harbour","Ship","Tavern","Interiour"],
+                        "brightness":"Dark",
+                        "grid":"26x13",
+                        "pack":"84_DiA_Low_Lantern_Tavern",
+                        "releaseurl":"WIP",
+                        "sibling":"84-04_Low_Lantern_Quarters-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"84-04_Low_Lantern_Quarters-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Low Lantern Tavern - 84",
+                        "download_terms": "BM: 4 Guest Quarters",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "84-04_Low_Lantern_Quarters-4k_Scen":{
+                                "name":"Low Lantern Quarters",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Harbour","Ship","Tavern","Interiour"],
+                                "brightness":"Dark",
+                                "grid":"26x13",
+                                "pack":"84_DiA_Low_Lantern_Tavern",
+                                "releaseurl":"WIP",
+                                "sibling":"84-04_Low_Lantern_Quarters-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"84-04_Low_Lantern_Quarters-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Low Lantern Tavern - 84",
+                                "download_terms": "SC: 4 Guest Quarters",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "84-05_Low_Lantern_Top_Side_Night-4k_BM":{
+                        "name":"Low Lantern Top Side Night",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","House","Street","City","Hell"],
+                        "brightness":"Medium",
+                        "grid":"31x16",
+                        "pack":"84_DiA_Low_Lantern_Tavern",
+                        "releaseurl":"WIP",
+                        "sibling":"84-05_Low_Lantern_Top_Side_Night-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"84-05_Low_Lantern_Top_Side_Night-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Low Lantern Tavern - 84",
+                        "download_terms": "BM: 5 Top Side Night",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "84-05_Low_Lantern_Top_Side_Night-4k_Scen":{
+                                "name":"Low Lantern Top Side Night",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","House","Street","City","Hell"],
+                                "brightness":"Medium",
+                                "grid":"31x16",
+                                "pack":"84_DiA_Low_Lantern_Tavern",
+                                "releaseurl":"WIP",
+                                "sibling":"84-05_Low_Lantern_Top_Side_Night-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"84-05_Low_Lantern_Top_Side_Night-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Low Lantern Tavern - 84",
+                                "download_terms": "SC: 5 Top Side Night",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "84-06_Low_Lantern_Tavern_Night-4k_BM":{
+                        "name":"Low Lantern Tavern Night",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Civilizied","Harbour","Ship","Tavern","Interiour","Night"],
+                        "brightness":"Dark",
+                        "grid":"26x13",
+                        "pack":"84_DiA_Low_Lantern_Tavern",
+                        "releaseurl":"WIP",
+                        "sibling":"84-06_Low_Lantern_Tavern_Night-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"84-06_Low_Lantern_Tavern_Night-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Low Lantern Tavern - 84",
+                        "download_terms": "BM: 6 Tavern Deck Night",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "84-06_Low_Lantern_Tavern_Night-4k_Scen":{
+                                "name":"Low Lantern Tavern Night",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Civilizied","Harbour","Ship","Tavern","Interiour","Night"],
+                                "brightness":"Dark",
+                                "grid":"26x13",
+                                "pack":"84_DiA_Low_Lantern_Tavern",
+                                "releaseurl":"WIP",
+                                "sibling":"84-06_Low_Lantern_Tavern_Night-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"84-06_Low_Lantern_Tavern_Night-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Low Lantern Tavern - 84",
+                                "download_terms": "SC: 6 Tavern Deck Night",
+                                "download_creator": "Beneos Battlemaps"
+                                }
                             }
                         }
                     }
