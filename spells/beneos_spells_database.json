@@ -1413,8 +1413,8 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "false",
-        "classes": ["Bard Druid Cleric Warlock Sorcerer Wizard"],
-        "components": ["V S M"],
+        "classes": ["Bard", "Druid", "Cleric", "Warlock", "Sorcerer", "Wizard"],
+        "components": ["V", "S", "M"],
         "icon": "0057_crystal_carapace-icon.webp"
       }
     },
@@ -1429,14 +1429,14 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "false",
-        "classes": ["Warlock Sorcerer Wizard Druid Ranger"],
-        "components": ["V S M"],
+        "classes": ["Warlock", "Sorcerer", "Wizard", "Druid", "Ranger"],
+        "components": ["V", "S"],
         "icon": "0058_steal_heat-icon.webp"
       }
     },
     "0059_festering_truth": {
       "key": "0059_festering_truth",
-      "description": "You predict a creature's immediate future, weakening it if your prediciton comes to pass.",
+      "description": "You predict a creature's immediate future, weakening it if your prediction comes to pass.",
       "name": "Festering Truth",
       "properties": {
         "level": "0",
@@ -1445,7 +1445,7 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "false",
-        "classes": ["Warlock Sorcerer Wizard Cleric"],
+        "classes": ["Warlock", "Bard", "Sorcerer", "Wizard", "Cleric"],
         "components": ["V"],
         "icon": "0059_festering_truth-icon.webp"
       }

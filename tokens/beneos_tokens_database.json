@@ -15828,7 +15828,7 @@
       "properties": {
         "biom": ["Graves","Dungeon","Road","Horror", "Cave","Wilderness","Civilized","Lair","Planar"],
         "cr": "4",
-        "fightingstyle": ["Demanding"],
+        "fightingstyle": ["AoE","Demanding"],
         "movement": ["Fly"],
         "purpose": ["Damage"],
         "releaseurl": "https://www.patreon.com/posts/109186274",
@@ -15847,7 +15847,58 @@
           
         ],
         "videourl": "https://youtu.be/ld4lUvbwgpk?si=Bs9s_qI8zdCtVZnR"
-  
-  
-
+    }
+    },
+    "172_zealot_firebrand_1": {
+      "description": "Faith and devotion take many forms. The interaction of a truly devout person with the world can range from total reclusion and an ascetic lifestyle to the communicative itinerant preacher and the earnest missionary. Those who do not shy away from setting themselves on fire for greater visibility and driving the words of their holy book directly into someone’s head are known as zealots. They are single-mindedly focused on living out their faith and will stop at nothing, least of all potential death, to stand up for what they perceive as divine truth.",
+      "name": "Zealot Firebrand",
+      "properties": {
+        "biom": ["City","Dungeon","Road","Sacral", "Tavern","Wilderness","Civilized"],
+        "cr": "3",
+        "fightingstyle": ["Simple","Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Damage","Minion"],
+        "releaseurl": "https://www.patreon.com/posts/109773456",
+        "size": "Medium",
+        "stat_ac": 14,
+        "stat_cha": 18,
+        "stat_con": 14,
+        "stat_dex": 13,
+        "stat_hp": 47,
+        "stat_int": 8,
+        "stat_str": 15,
+        "stat_wis": 6,
+        "thumbnail": "172_zealot_firebrand_1-idle_face_still.webp",
+        "type": [
+          "humanoid"
+          
+        ],
+        "videourl": "https://youtu.be/pYj0xSplDFk?si=xZ8dBWASjKNjou9x"
+    }
+    },
+    "172_zealot_firebrand_2": {
+      "description": "Faith and devotion take many forms. The interaction of a truly devout person with the world can range from total reclusion and an ascetic lifestyle to the communicative itinerant preacher and the earnest missionary. Those who do not shy away from setting themselves on fire for greater visibility and driving the words of their holy book directly into someone’s head are known as zealots. They are single-mindedly focused on living out their faith and will stop at nothing, least of all potential death, to stand up for what they perceive as divine truth.",
+      "name": "Zealot Firebrand",
+      "properties": {
+        "biom": ["City","Dungeon","Road","Sacral", "Tavern","Wilderness","Civilized"],
+        "cr": "3",
+        "fightingstyle": ["Melee","Simple"],
+        "movement": ["Walk"],
+        "purpose": ["Damage","Minion"],
+        "releaseurl": "https://www.patreon.com/posts/109773456",
+        "size": "Medium",
+        "stat_ac": 14,
+        "stat_cha": 18,
+        "stat_con": 14,
+        "stat_dex": 13,
+        "stat_hp": 47,
+        "stat_int": 8,
+        "stat_str": 15,
+        "stat_wis": 6,
+        "thumbnail": "172_zealot_firebrand_2-idle_face_still.webp",
+        "type": [
+          "humanoid"
+          
+        ],
+        "videourl": "https://youtu.be/pYj0xSplDFk?si=xZ8dBWASjKNjou9x"
 }}}}
