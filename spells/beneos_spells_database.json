@@ -1354,38 +1354,6 @@
         "icon": "0003_spiteful_harpoon-icon.webp"
       }
     },
-    "0003_spiteful_harpoon": {
-      "key": "0003_spiteful_harpoon",
-      "description": "You summon a rusted harpoon with a barbed tip, dealing more damage the bigger the target is.",
-      "name": "spiteful harpoon",
-      "properties": {
-        "level": "1",
-        "school": "Conjuration",
-        "casting_time": "Action",
-        "concentration": false,
-        "ritual": false,
-        "spell_type": "false",
-        "classes": ["Sorcerer Warlock Ranger Bard"],
-        "components": ["V S"],
-        "icon": "0003_spiteful_harpoon-icon.webp"
-      }
-    },
-    "0055_morrowgleam_crown": {
-      "key": "0055_morrowgleam_crown",
-      "description": "A crown of radiant light that grants damage resistances, blinds attackers and banishes darkness.",
-      "name": "Morrowgleam Crown",
-      "properties": {
-        "level": "7",
-        "school": "Evocation",
-        "casting_time": "10 Minutes",
-        "concentration": false,
-        "ritual": false,
-        "spell_type": "false",
-        "classes": ["Bard Cleric Sorcerer"],
-        "components": ["V S"],
-        "icon": "0055_morrowgleam_crown-icon.webp"
-      }
-    },
     "0022_shadow_symphony": {
       "key": "0022_shadow_symphony",
       "description": "You weave an auditory illusion allowing allies to hide in plain sight.",
@@ -1396,7 +1364,7 @@
         "casting_time": "Action",
         "concentration": true,
         "ritual": true,
-        "spell_type": "false",
+        "spell_type": "Utility",
         "classes": ["Bard"],
         "components": ["S"],
         "icon": "0022_shadow_symphony-icon.webp"
@@ -1412,7 +1380,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "false",
+        "spell_type": "Protection",
         "classes": ["Bard", "Druid", "Cleric", "Warlock", "Sorcerer", "Wizard"],
         "components": ["V", "S", "M"],
         "icon": "0057_crystal_carapace-icon.webp"
@@ -1428,7 +1396,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "false",
+        "spell_type": "Melee Damage",
         "classes": ["Warlock", "Sorcerer", "Wizard", "Druid", "Ranger"],
         "components": ["V", "S"],
         "icon": "0058_steal_heat-icon.webp"
@@ -1444,10 +1412,74 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "false",
+        "spell_type": "Ranged Damage",
         "classes": ["Warlock", "Bard", "Sorcerer", "Wizard", "Cleric"],
         "components": ["V"],
         "icon": "0059_festering_truth-icon.webp"
+      }
+    },
+    "0060_illusionary_labyrinth": {
+      "key": "0060_illusionary_labyrinth",
+      "description": "You create a phantasmal maze of shifting, illusory walls that traps and disorients creatures, causing them to move in random directions and take psychic damage.",
+      "name": "Illusionary Labyrinth",
+      "properties": {
+        "level": "5",
+        "school": "Illusion",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": true,
+        "spell_type": "Immobilization",
+        "classes": ["Warlock", "Sorcerer", "Wizard"],
+        "components": ["V","S"],
+        "icon": "0060_illusionary_labyrinth-icon.webp"
+      }
+    },
+    "0061_flame_dance": {
+      "key": "0061_flame_dance",
+      "description": "This spell doubles your jump distance and deals fire damage to nearby creatures when you land.",
+      "name": "Flame Dance",
+      "properties": {
+        "level": "1",
+        "school": "Evocation",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": true,
+        "spell_type": "Mobility",
+        "classes": ["Druid", "Ranger", "Warlock", "Sorcerer", "Wizard"],
+        "components": ["V", "S"],
+        "icon": "0061_flame_dance-icon.webp"
+      }
+    },
+    "0062_flashfreeze": {
+      "key": "0062_flashfreeze",
+      "description": "This spell blasts an area with freezing cold, damaging creatures and either reducing their movement speed to 0 or at least by half.",
+      "name": "Flashfreeze",
+      "properties": {
+        "level": "3",
+        "school": "Evocation",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Immobilization",
+        "classes": ["Warlock", "Sorcerer", "Wizard"],
+        "components": ["V", "S"],
+        "icon": "0062_flashfreeze-icon.webp"
+      }
+    },
+    "0063_burning_zeal": {
+      "key": "0063_burning_zeal",
+      "description": "This spell manifests your beliefs, magnifying your force of personality to boost social skills and buff your saving throws.",
+      "name": "Burning Zeal",
+      "properties": {
+        "level": "2",
+        "school": "Evocation",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Utility",
+        "classes": ["Cleric"],
+        "components": ["V", "S"],
+        "icon": "0063_burning_zeal-icon.webp"
       }
     }
   }

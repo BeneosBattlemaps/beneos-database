@@ -842,6 +842,118 @@
             "price": "3900",
             "icon": "0061_spelldrinker_scroll-icon.webp"
             }
+        },
+        "0062_three_feather_tricorne": {
+            "key": "0062_three_feather_tricorne",
+            "description": "A hat that lets you fly, calm everyone down or summon a drunk parrot.",
+            "name": "Three-Feathered Tricorne",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": true,
+            "origin": "blessed",
+            "item_type": "Clothing",
+            "tier": 2,
+            "price": "1600",
+            "icon": "0062_three_feather_tricorne-icon.webp"
+            }
+        },
+        "0063_nightbloom_chalice": {
+            "key": "0063_nightbloom_chalice",
+            "description": "A chalic offering a healing nectar every night, can also be used to befriend local wildlife.",
+            "name": "Nightbloom Chalice",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": false,
+            "origin": "druidic",
+            "item_type": "Trinket",
+            "tier": 1,
+            "price": "2900",
+            "icon": "0063_nightbloom_chalice-icon.webp"
+            }
+        },
+        "0064_boreal_bulwark": {
+            "key": "0064_boreal_bulwark",
+            "description": "A shield allowing you to channel your willpower to negate damage. It also inflicts harm upon fey creatures.",
+            "name": "Boreal Bulwark",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "giantforged",
+            "item_type": "Shield",
+            "tier": 2,
+            "price": "5200",
+            "icon": "0064_boreal_bulwark-icon.webp"
+            }
+        },
+        "0065_druskdreamers_diadem": {
+            "key": "0065_druskdreamers_diadem",
+            "description": "An etheral diadem allowing you to regain a spell slot at dusk and enabling you to magically put a creature to sleep, healing or harming it.",
+            "name": "Druskdreamer's Diadem",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": true,
+            "origin": "feywoven",
+            "item_type": "Trinket",
+            "tier": 2,
+            "price": "3200",
+            "icon": "0065_druskdreamers_diadem-icon.webp"
+            }
+        },
+        "0066_death_ink": {
+            "key": "0066_death_ink",
+            "description": "Mark a creature of your choice as the target of your hunt and gain powerful boni that assist you in this pursuit.",
+            "name": "Death Ink",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": false,
+            "origin": "sanctified",
+            "item_type": "Consumable",
+            "tier": 3,
+            "price": "18000",
+            "icon": "0066_death_ink-icon.webp"
+            }
+        },
+        "0067_whispermaw_strain": {
+            "key": "0067_whispermaw_strain",
+            "description": "Parasitic organism whose whispers can regenerate spell slots and charm enemies.",
+            "name": "Whispermaw Strain",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": false,
+            "origin": "mutation",
+            "item_type": "Consumable",
+            "tier": 3,
+            "price": "14200",
+            "icon": "0067_whispermaw_strain-icon.webp"
+            }
+        },
+        "0068_magmatic_molasses": {
+            "key": "0068_magmatic_molasses",
+            "description": "Creates a protective layer of cooled lava that hinders mobility but significantly increases defense.",
+            "name": "Magmatic Molasses",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": false,
+            "origin": "elemental",
+            "item_type": "Consumable",
+            "tier": 2,
+            "price": "2800",
+            "icon": "0068_magmatic_molasses-icon.webp"
+            }
+        },
+        "0069_drought_draught": {
+            "key": "0069_drought_draught",
+            "description": "Creates an area of magical dryness that evaporates water and harms liquid or elemental creatures.",
+            "name": "Drought Draught",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": false,
+            "origin": "elemental",
+            "item_type": "Consumable",
+            "tier": 2,
+            "price": "6000",
+            "icon": "0069_drought_draught-icon.webp"
+            }
          }
        }
      }

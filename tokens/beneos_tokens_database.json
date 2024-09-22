@@ -15897,8 +15897,387 @@
         "stat_wis": 6,
         "thumbnail": "172_zealot_firebrand_2-idle_face_still.webp",
         "type": [
+		 "humanoid"
+        ],
+        "videourl": "https://youtu.be/pYj0xSplDFk?si=xZ8dBWASjKNjou9x"
+    }
+    },
+    "000_month_17_cursed_cannon": {
+      "description": "The 12th of 13 comically oversized ship cannons commissioned by a pirate queen, now purged from history, to arm the flagship of her ill-fated fleet. The entire fleet vanished under mysterious circumstances without firing a single shot while traversing the waters near the Bleak Reef. Now, deprived of her baptism of fire and somehow salvaged from her watery grave, this mass of barnacles and iron is suffused with the vengeful thoughts of the ship, captain, and crew. It thirsts for the scent of gunpowder and the shattering of planks, with vengeful energies coalescing within this magnificent weapon, ready to unleash hell even as its wood remains in a continuous state of rot and its once polished metal is thick with rust. A magnificent heavyweight of an enemy for any hard-hitting maritime encounter!",
+      "name": "Drusilla the Drowned",
+      "properties": {
+        "biom": ["Ocean","Dungeon","Ship","Underwater","Wilderness","Civilized","Island"],
+        "cr": "10",
+        "fightingstyle": ["Ranged","Demanding"],
+        "movement": ["Walk"],
+        "purpose": ["Damage","Pressure","AoE"],
+        "releaseurl": "https://beneos-battlemaps.com/collections/animated-tokens/products/beneos-tokens-cursed-cannon-crew",
+        "size": "Huge",
+        "stat_ac": 17,
+        "stat_cha": 17,
+        "stat_con": 20,
+        "stat_dex": 3,
+        "stat_hp": 225,
+        "stat_int": 5,
+        "stat_str": 22,
+        "stat_wis": 16,
+        "thumbnail": "000_month_17_cursed_cannon-idle_face_still.webp",
+        "type": [
+          "undead"
+        ],
+        "videourl": "https://youtu.be/8z3DVKxVi3w?si=0Yt1MFmD_pYXAGU4"
+    }
+    },
+    "173_infernal_invocator_1": {
+      "description": "Throughout the infernal hierarchies of the Hells, numerous castes, cults, and covens of varying influence can be found. For instance, infernal immolators often belong to the mystics of the Burning Wheel, obsessed with atonement and hellfire. There are also those who delve deeply into the occult aspects of sacrifice, sin, and punishment. These experts in infernal occultism are known as Invocators, often traveling the planes in search of new insights and eagerly sharing their cruel knowledge. Within the infernal legions, they act as skilled spellcasters and summoners, always keen to apply their research and test their abilities against enemy spellcasters - of course after ensuring that the game is rigged in their favour.",
+      "name": "Infernal Invocator",
+      "properties": {
+        "biom": ["Infernal","Dungeon","Planar"],
+        "cr": "8",
+        "fightingstyle": ["Ranged","Spellcaster"],
+        "movement": ["Walk"],
+        "purpose": ["Gimmick","Pressure"],
+        "releaseurl": "https://www.patreon.com/posts/infernal-110330846",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 18,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 147,
+        "stat_int": 20,
+        "stat_str": 13,
+        "stat_wis": 14,
+        "thumbnail": "173_infernal_invocator_1-idle_face_still.webp",
+        "type": [
+          "fiend",
+          "devil"
+        ],
+        "videourl": "https://youtu.be/Cq6PJIysG8o?si=a0ZHaHZZ6JRe-r3s"
+    }
+    },
+    "173_infernal_invocator_2": {
+      "description": "Throughout the infernal hierarchies of the Hells, numerous castes, cults, and covens of varying influence can be found. For instance, infernal immolators often belong to the mystics of the Burning Wheel, obsessed with atonement and hellfire. There are also those who delve deeply into the occult aspects of sacrifice, sin, and punishment. These experts in infernal occultism are known as Invocators, often traveling the planes in search of new insights and eagerly sharing their cruel knowledge. Within the infernal legions, they act as skilled spellcasters and summoners, always keen to apply their research and test their abilities against enemy spellcasters - of course after ensuring that the game is rigged in their favour.",
+      "name": "Infernal Invocator",
+      "properties": {
+        "biom": ["Infernal","Dungeon","Planar"],
+        "cr": "8",
+        "fightingstyle": ["Ranged","Spellcaster"],
+        "movement": ["Walk"],
+        "purpose": ["Gimmick","Pressure"],
+        "releaseurl": "https://www.patreon.com/posts/infernal-110330846",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 18,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 147,
+        "stat_int": 20,
+        "stat_str": 13,
+        "stat_wis": 14,
+        "thumbnail": "173_infernal_invocator_2-idle_face_still.webp",
+        "type": [
+          "fiend",
+          "devil"
+        ],
+        "videourl": "https://youtu.be/Cq6PJIysG8o?si=a0ZHaHZZ6JRe-r3s"
+    }
+    },
+    "173_infernal_invocator_3": {
+      "description": "Throughout the infernal hierarchies of the Hells, numerous castes, cults, and covens of varying influence can be found. For instance, infernal immolators often belong to the mystics of the Burning Wheel, obsessed with atonement and hellfire. There are also those who delve deeply into the occult aspects of sacrifice, sin, and punishment. These experts in infernal occultism are known as Invocators, often traveling the planes in search of new insights and eagerly sharing their cruel knowledge. Within the infernal legions, they act as skilled spellcasters and summoners, always keen to apply their research and test their abilities against enemy spellcasters - of course after ensuring that the game is rigged in their favour.",
+      "name": "Infernal Invocator",
+      "properties": {
+        "biom": ["Infernal","Dungeon","Planar"],
+        "cr": "8",
+        "fightingstyle": ["Ranged","Spellcaster"],
+        "movement": ["Walk"],
+        "purpose": ["Gimmick","Pressure"],
+        "releaseurl": "https://www.patreon.com/posts/infernal-110330846",
+        "size": "Large",
+        "stat_ac": 16,
+        "stat_cha": 18,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 147,
+        "stat_int": 20,
+        "stat_str": 13,
+        "stat_wis": 14,
+        "thumbnail": "173_infernal_invocator_3-idle_face_still.webp",
+        "type": [
+          "fiend",
+          "devil"
+        ],
+        "videourl": "https://youtu.be/Cq6PJIysG8o?si=a0ZHaHZZ6JRe-r3s"
+    }
+    },
+    "174_city_guard_halberdier_1": {
+      "description": "Halberdiers are part of the heavy assault troops of a well-equipped city guard, armored and relentless in both advancing and defensive combat. Halberdiers often serve as the stalwart core of a watch cadre, called upon in ongoing situations to effectively seal off locations or to confront particularly large or mounted opponents. Even large groups of rebellious agitators can be quickly brought to heel by a steadfast squad of Halberdiers.",
+      "name": "City Guard Halberdier",
+      "properties": {
+        "biom": ["City","Dungeon","Civilized","Castle","Road"],
+        "cr": "2",
+        "fightingstyle": ["Melee","Pressure"],
+        "movement": ["Walk"],
+        "purpose": ["Shock"],
+        "releaseurl": "https://www.patreon.com/posts/city-guard-110442793",
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 11,
+        "stat_con": 16,
+        "stat_dex": 13,
+        "stat_hp": 37,
+        "stat_int": 8,
+        "stat_str": 16,
+        "stat_wis": 11,
+        "thumbnail": "174_city_guard_halberdier_1-idle_face_still.webp",
+        "type": [
           "humanoid"
           
         ],
-        "videourl": "https://youtu.be/pYj0xSplDFk?si=xZ8dBWASjKNjou9x"
-}}}}
+        "videourl": "https://youtu.be/H37vgZ45Rwg?si=NWolQ3G9piMj1afa"
+    }
+    },
+    "174_city_guard_halberdier_2": {
+      "description": "Halberdiers are part of the heavy assault troops of a well-equipped city guard, armored and relentless in both advancing and defensive combat. Halberdiers often serve as the stalwart core of a watch cadre, called upon in ongoing situations to effectively seal off locations or to confront particularly large or mounted opponents. Even large groups of rebellious agitators can be quickly brought to heel by a steadfast squad of Halberdiers.",
+      "name": "City Guard Halberdier",
+      "properties": {
+        "biom": ["City","Dungeon","Civilized","Castle","Road"],
+        "cr": "2",
+        "fightingstyle": ["Melee","Pressure"],
+        "movement": ["Walk"],
+        "purpose": ["Shock"],
+        "releaseurl": "https://www.patreon.com/posts/city-guard-110442793",
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 11,
+        "stat_con": 16,
+        "stat_dex": 13,
+        "stat_hp": 37,
+        "stat_int": 8,
+        "stat_str": 16,
+        "stat_wis": 11,
+        "thumbnail": "174_city_guard_halberdier_2-idle_face_still.webp",
+        "type": [
+          "humanoid"
+          
+        ],
+        "videourl": "https://youtu.be/H37vgZ45Rwg?si=NWolQ3G9piMj1afa"
+    }
+    },
+    "175_bounty_hunter_stalker": {
+      "description": "Bounty Hunters of the Stalker archetype spend days or weeks trailing their targets, preparing for the perfectly orchestrated strike. They rely on stealth and subterfuge to get as close as possible to their target before using intricate knifework and vicious poison to make their point. If the initial assault proves ineffective, the Stalker is not above abandoning their posse to further wear down the target and retreat into the shadows, finding a new angle and setting up the next attack.",
+      "name": "Bounty Hunter Stalker",
+      "properties": {
+        "biom": ["City","Dungeon","Civilized","Castle","Road","Wilderness"],
+        "cr": "5",
+        "fightingstyle": ["Melee","Ambush","Predator"],
+        "movement": ["Walk"],
+        "purpose": ["Hunter"],
+        "releaseurl": "https://www.patreon.com/posts/111775594",
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 10,
+        "stat_con": 14,
+        "stat_dex": 20,
+        "stat_hp": 89,
+        "stat_int": 16,
+        "stat_str": 13,
+        "stat_wis": 13,
+        "thumbnail": "175_bounty_hunter_stalker-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "Orc"
+        ],
+        "videourl": "https://youtu.be/2sE3CStft4g?si=eEj93hurBJSLaGLG"
+    }
+    },
+    "175_bounty_hunter_breaker": {
+      "description": "Breakers are towering mountains of muscle, who often batter their targets to the brink of unconsciousness, if not beyond, before delivering them in a pitiful state. This bounty hunter archetype either operates with excessive aggression from the outset or exudes an unsettling calm, where the threat of sudden, escalating violence lurks behind every carefully chosen word.",
+      "name": "Bounty Hunter Breaker",
+      "properties": {
+        "biom": ["City","Dungeon","Civilized","Castle","Road","Wilderness"],
+        "cr": "5",
+        "fightingstyle": ["Melee","Demanding"],
+        "movement": ["Walk"],
+        "purpose": ["Debuff","Tank"],
+        "releaseurl": "https://www.patreon.com/posts/111775594",
+        "size": "Medium",
+        "stat_ac": 16,
+        "stat_cha": 7,
+        "stat_con": 16,
+        "stat_dex": 12,
+        "stat_hp": 127,
+        "stat_int": 8,
+        "stat_str": 20,
+        "stat_wis": 12,
+        "thumbnail": "175_bounty_hunter_breaker-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "Human"
+        ],
+        "videourl": "https://youtu.be/2sE3CStft4g?si=eEj93hurBJSLaGLG"
+    }
+    },
+    "175_bounty_hunter_impaler": {
+      "description": "Impaler possesses the mentality of a hunter, but not one who sees the hunt as an honorable duel between hunter and prey. Instead, he is like a smug noble, who particularly relishes delivering the final blow to a harrowed, breathless and defenseless creature. Relentlessly, the spears and harpoons of the Impaler embed themselves in the flesh of his victims, and only when the fight has faded from the creature’s eyes does this bounty hunter dare to close the distance, finishing off what’s left to make the kill ready for delivery.",
+      "name": "Bounty Hunter Impaler",
+      "properties": {
+        "biom": ["City","Dungeon","Civilized","Castle","Road","Wilderness"],
+        "cr": "5",
+        "fightingstyle": ["Ranged"],
+        "movement": ["Walk"],
+        "purpose": ["Debuff","Hunter"],
+        "releaseurl": "https://www.patreon.com/posts/111775594",
+        "size": "Medium",
+        "stat_ac": 16,
+        "stat_cha": 10,
+        "stat_con": 15,
+        "stat_dex": 18,
+        "stat_hp": 89,
+        "stat_int": 10,
+        "stat_str": 12,
+        "stat_wis": 16,
+        "thumbnail": "175_bounty_hunter_impaler-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "Orc"
+        ],
+        "videourl": "https://youtu.be/2sE3CStft4g?si=eEj93hurBJSLaGLG"
+    }
+    },
+    "175_bounty_hunter_trapper": {
+      "description": "Trappers excel at turning the entire area where their target is located into a massive environmental weapon. Every movement could trigger firebombs, shrapnel grenades, or pit traps. A skilled Trapper can instill such overwhelming paranoia in a creature that the burden of constantly endangering innocent lives becomes unbearable. This can lead the hunted person to surrender without a fight, no longer willing to be the subject of the trapper’s sadistic ingenuity.",
+      "name": "Bounty Hunter Trapper",
+      "properties": {
+        "biom": ["City","Dungeon","Civilized","Castle","Road","Wilderness"],
+        "cr": "5",
+        "fightingstyle": ["Ranged","AoE"],
+        "movement": ["Walk"],
+        "purpose": ["Gimmick","Damage"],
+        "releaseurl": "https://www.patreon.com/posts/111775594",
+        "size": "Medium",
+        "stat_ac": 14,
+        "stat_cha": 10,
+        "stat_con": 16,
+        "stat_dex": 16,
+        "stat_hp": 89,
+        "stat_int": 16,
+        "stat_str": 13,
+        "stat_wis": 5,
+        "thumbnail": "175_bounty_hunter_trapper-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "Human"
+        ],
+        "videourl": "https://youtu.be/2sE3CStft4g?si=eEj93hurBJSLaGLG"
+    }
+    },
+    "176_moray_drake_1": {
+      "description": "Moray Drakes combine the most unpleasant aspects of two supremely dangerous creatures, both of which should be avoided for different reasons. These lesser dragons nest in coral reefs, coastal coves, and lush riverbanks, their territory easily recognizable due to accumulations of brightly coloured mucus and oozing globules, floating in the surrounding waters like bloated jellyfish. The gluttonous Drakes feed on anything that fits between their pharyngeal jaws, from fish and small marine mammals to humanoids unfortunate or foolish enough to venture into this creature’s hunting grounds.",
+      "name": "Moray Drake",
+      "properties": {
+        "biom": ["Swamp","Coast","Coastal","Ocean","Underwater","Lair","River"],
+        "cr": "5",
+        "fightingstyle": ["Mobile","Pressure"],
+        "movement": ["Swim"],
+        "purpose": ["Debuff","Damage"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 14,
+        "stat_cha": 6,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 157,
+        "stat_int": 5,
+        "stat_str": 18,
+        "stat_wis": 12,
+        "thumbnail": "176_moray_drake_1-idle_face_still.webp",
+        "type": [
+          "dragon"
+        ],
+        "videourl": ""
+    }
+    },
+    "176_moray_drake_2": {
+      "description": "Moray Drakes combine the most unpleasant aspects of two supremely dangerous creatures, both of which should be avoided for different reasons. These lesser dragons nest in coral reefs, coastal coves, and lush riverbanks, their territory easily recognizable due to accumulations of brightly coloured mucus and oozing globules, floating in the surrounding waters like bloated jellyfish. The gluttonous Drakes feed on anything that fits between their pharyngeal jaws, from fish and small marine mammals to humanoids unfortunate or foolish enough to venture into this creature’s hunting grounds.",
+      "name": "Moray Drake",
+      "properties": {
+        "biom": ["Swamp","Coast","Coastal","Ocean","Underwater","Lair","River"],
+        "cr": "5",
+        "fightingstyle": ["Mobile","Pressure"],
+        "movement": ["Swim"],
+        "purpose": ["Debuff","Damage"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 14,
+        "stat_cha": 6,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 157,
+        "stat_int": 5,
+        "stat_str": 18,
+        "stat_wis": 12,
+        "thumbnail": "176_moray_drake_2-idle_face_still.webp",
+        "type": [
+          "dragon"
+        ],
+        "videourl": ""
+    }
+    },
+    "176_moray_drake_3": {
+      "description": "Moray Drakes combine the most unpleasant aspects of two supremely dangerous creatures, both of which should be avoided for different reasons. These lesser dragons nest in coral reefs, coastal coves, and lush riverbanks, their territory easily recognizable due to accumulations of brightly coloured mucus and oozing globules, floating in the surrounding waters like bloated jellyfish. The gluttonous Drakes feed on anything that fits between their pharyngeal jaws, from fish and small marine mammals to humanoids unfortunate or foolish enough to venture into this creature’s hunting grounds.",
+      "name": "Moray Drake",
+      "properties": {
+        "biom": ["Swamp","Coast","Coastal","Ocean","Underwater","Lair","River"],
+        "cr": "5",
+        "fightingstyle": ["Mobile","Pressure"],
+        "movement": ["Swim"],
+        "purpose": ["Debuff","Damage"],
+        "releaseurl": "",
+        "size": "Large",
+        "stat_ac": 14,
+        "stat_cha": 6,
+        "stat_con": 14,
+        "stat_dex": 14,
+        "stat_hp": 157,
+        "stat_int": 5,
+        "stat_str": 18,
+        "stat_wis": 12,
+        "thumbnail": "176_moray_drake_3-idle_face_still.webp",
+        "type": [
+          "dragon"
+  
+        ],
+        "videourl": ""
+    }
+    },
+    "000_month_18_duskshroud_wyvern": {
+      "description": "The transition between day and night marks a special time, a liminal space at the border between light and darkness. Two domains, eternally intertwined in primordial duality, merge for a brief moment, creating a fleeting moment of balance. This space is the hunting ground of Duskshroud Wyverns, light-born and night-clad minor dragons who use the dim twilight hours to lurk at the edge of night, moving in eerie silence and killing with cold delight.",
+      "name": "Duskshroud Wyvern",
+      "properties": {
+        "biom": ["Planar","Lair","Forest","Feywild","Mountain","Ruins","Dungeon"],
+        "cr": "9",
+        "fightingstyle": ["Mobile","Pressure"],
+        "movement": ["Fly"],
+        "purpose": ["Boss","Debuff"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 17,
+        "stat_cha": 14,
+        "stat_con": 16,
+        "stat_dex": 18,
+        "stat_hp": 178,
+        "stat_int": 7,
+        "stat_str": 20,
+        "stat_wis": 13,
+        "thumbnail": "000_month_18_duskshroud_wyvern-idle_face_still.webp",
+        "type": [
+          "dragon",
+          "Wyvern"
+        ],
+        "videourl": ""
+    }
+  }
+  }
+  }
+  
+
