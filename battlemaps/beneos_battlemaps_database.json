@@ -34987,6 +34987,272 @@
                                 "download_terms": "SC: 6 Tavern Deck Night",
                                 "download_creator": "Beneos Battlemaps"
                                 }
+                    },
+                    "85-01_Shipwreck_Approach-4k_BM":{
+                        "name":"Shipwreck Approach",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Underwater","Ship","Ruin","Wreckage"],
+                        "brightness":"Medium",
+                        "grid":"40x20",
+                        "pack":"85_Underwater_Shipwreck",
+                        "releaseurl":"WIP",
+                        "sibling":"85-01_Shipwreck_Approach-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"85-01_Shipwreck_Approach-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Underwater Shipwreck - 85",
+                        "download_terms": "BM: 1 Approach",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "85-01_Shipwreck_Approach-4k_Scen":{
+                                "name":"Shipwreck Approach",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Underwater","Ship","Ruin","Wreckage"],
+                                "brightness":"Medium",
+                                "grid":"40x20",
+                                "pack":"85_Underwater_Shipwreck",
+                                "releaseurl":"WIP",
+                                "sibling":"85-01_Shipwreck_Approach-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"85-01_Shipwreck_Approach-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Underwater Shipwreck - 85",
+                                "download_terms": "SC: 1 Approach",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "85-02_Shipwreck_Crows_Nest-4k_BM":{
+                        "name":"Shipwreck Crows Nest",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Underwater","Ship","Ruin","Wreckage"],
+                        "brightness":"Medium",
+                        "grid":"40x20",
+                        "pack":"85_Underwater_Shipwreck",
+                        "releaseurl":"WIP",
+                        "sibling":"85-02_Shipwreck_Crows_Nest-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"85-02_Shipwreck_Crows_Nest-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Underwater Shipwreck - 85",
+                        "download_terms": "BM: 2 Crows Nests",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "85-02_Shipwreck_Crows_Nest-4k_Scen":{
+                                "name":"Shipwreck Crows Nest",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Underwater","Ship","Ruin","Wreckage"],
+                                "brightness":"Medium",
+                                "grid":"40x20",
+                                "pack":"85_Underwater_Shipwreck",
+                                "releaseurl":"WIP",
+                                "sibling":"85-02_Shipwreck_Crows_Nest-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"85-02_Shipwreck_Crows_Nest-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Underwater Shipwreck - 85",
+                                "download_terms": "SC: 2 Crows Nests",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "85-03_Shipwreck_Top_Deck-4k_BM":{
+                        "name":"Shipwreck Top Deck",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Underwater","Ship","Ruin","Wreckage"],
+                        "brightness":"Medium",
+                        "grid":"40x20",
+                        "pack":"85_Underwater_Shipwreck",
+                        "releaseurl":"WIP",
+                        "sibling":"85-03_Shipwreck_Top_Deck-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"85-03_Shipwreck_Top_Deck-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Underwater Shipwreck - 85",
+                        "download_terms": "BM: 3 Top Deck",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "85-03_Shipwreck_Top_Deck-4k_Scen":{
+                                "name":"Shipwreck Top Deck",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Underwater","Ship","Ruin","Wreckage"],
+                                "brightness":"Medium",
+                                "grid":"40x20",
+                                "pack":"85_Underwater_Shipwreck",
+                                "releaseurl":"WIP",
+                                "sibling":"85-03_Shipwreck_Top_Deck-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"85-03_Shipwreck_Top_Deck-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Underwater Shipwreck - 85",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "85-04_Shipwreck_Cabins-4k_BM":{
+                        "name":"Shipwreck Cabins",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Underwater","Ship","Ruin","Wreckage"],
+                        "brightness":"Medium",
+                        "grid":"33x12",
+                        "pack":"85_Underwater_Shipwreck",
+                        "releaseurl":"WIP",
+                        "sibling":"85-04_Shipwreck_Cabins-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"85-04_Shipwreck_Cabins-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Underwater Shipwreck - 85",
+                        "download_terms": "BM: 4 Storage",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "85-04_Shipwreck_Cabins-4k_Scen":{
+                                "name":"Shipwreck Cabins",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Underwater","Ship","Ruin","Wreckage"],
+                                "brightness":"Medium",
+                                "grid":"33x12",
+                                "pack":"85_Underwater_Shipwreck",
+                                "releaseurl":"WIP",
+                                "sibling":"85-04_Shipwreck_Cabins-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"85-04_Shipwreck_Cabins-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Underwater Shipwreck - 85",
+                                "download_terms": "SC: 4 Storage",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "85-05_Shipwreck_Quarters-4k_BM":{
+                        "name":"Shipwreck Quarters",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Underwater","Ship","Ruin","Wreckage"],
+                        "brightness":"Medium",
+                        "grid":"33x12",
+                        "pack":"85_Underwater_Shipwreck",
+                        "releaseurl":"WIP",
+                        "sibling":"85-05_Shipwreck_Quarters-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"85-05_Shipwreck_Quarters-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Underwater Shipwreck - 85",
+                        "download_terms": "BM: 5 Quarters",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "85-05_Shipwreck_Quarters-4k_Scen":{
+                                "name":"Shipwreck Quarters",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Underwater","Ship","Ruin","Wreckage"],
+                                "brightness":"Medium",
+                                "grid":"33x12",
+                                "pack":"85_Underwater_Shipwreck",
+                                "releaseurl":"WIP",
+                                "sibling":"85-05_Shipwreck_Quarters-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"85-05_Shipwreck_Quarters-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Underwater Shipwreck - 85",
+                                "download_terms": "SC: 5 Quarters",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "85-06_Shipwreck_Lowest_Deck-4k_BM":{
+                        "name":"Shipwreck Lowest Deck",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Underwater","Ship","Ruin","Wreckage"],
+                        "brightness":"Medium",
+                        "grid":"33x12",
+                        "pack":"85_Underwater_Shipwreck",
+                        "releaseurl":"WIP",
+                        "sibling":"85-06_Shipwreck_Lowest_Deck-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"85-06_Shipwreck_Lowest_Deck-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Underwater Shipwreck - 85",
+                        "download_terms": "BM: 6 Lowest Deck",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "85-06_Shipwreck_Lowest_Deck-4k_Scen":{
+                                "name":"Shipwreck Lowest Deck",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Underwater","Ship","Ruin","Wreckage"],
+                                "brightness":"Medium",
+                                "grid":"33x12",
+                                "pack":"85_Underwater_Shipwreck",
+                                "releaseurl":"WIP",
+                                "sibling":"85-06_Shipwreck_Lowest_Deck-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"85-06_Shipwreck_Lowest_Deck-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Underwater Shipwreck - 85",
+                                "download_terms": "SC: 6 Lowest Deck",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "85-07_Shipwreck_Seabed-4k_BM":{
+                        "name":"Shipwreck Seabed",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Underwater","Ship","Ruin","Wreckage"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"85_Underwater_Shipwreck",
+                        "releaseurl":"WIP",
+                        "sibling":"85-07_Shipwreck_Seabed-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"85-07_Shipwreck_Seabed-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Underwater Shipwreck - 85",
+                        "download_terms": "BM: 7 Seabed",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "85-07_Shipwreck_Seabed-4k_Scen":{
+                                "name":"Shipwreck Seabed",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Underwater","Ship","Ruin","Wreckage"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"85_Underwater_Shipwreck",
+                                "releaseurl":"WIP",
+                                "sibling":"85-07_Shipwreck_Seabed-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"85-07_Shipwreck_Seabed-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Underwater Shipwreck - 85",
+                                "download_terms": "SC: 7 Seabed",
+                                "download_creator": "Beneos Battlemaps"
+                                }
                             }
                         }
                     }
