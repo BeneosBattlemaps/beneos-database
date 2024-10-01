@@ -35253,6 +35253,234 @@
                                 "download_terms": "SC: 7 Seabed",
                                 "download_creator": "Beneos Battlemaps"
                                 }
+                    },
+                    "86-01_Vanthampur_Villa_1F-4k_BM":{
+                        "name":"Vanthampur Villa 1F",
+                        "description":"",
+                        "properties":{
+                        "adventure":["DiA"],
+                        "biom":["Civilized","Noble","House","Mansion","City"],
+                        "brightness":"Medium",
+                        "grid":"32x28",
+                        "pack":"86_DiA_Vanthampur_Villa",
+                        "releaseurl":"WIP",
+                        "sibling":"86-01_Vanthampur_Villa_1F-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"86-01_Vanthampur_Villa_1F-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Vanthampur Villa - 86",
+                        "download_terms": "BM: 1 1F",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "86-01_Vanthampur_Villa_1F-4k_Scen":{
+                                "name":"Vanthampur Villa 1F",
+                                "description":"",
+                                "properties":{
+                                "adventure":["DiA"],
+                                "biom":["Civilized","Noble","House","Mansion","City"],
+                                "brightness":"Medium",
+                                "grid":"32x28",
+                                "pack":"86_DiA_Vanthampur_Villa",
+                                "releaseurl":"WIP",
+                                "sibling":"86-01_Vanthampur_Villa_1F-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"86-01_Vanthampur_Villa_1F-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Vanthampur Villa - 86",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "86-02_Vanthampur_Villa_2F-4k_BM":{
+                        "name":"Vanthampur Villa 2F",
+                        "description":"",
+                        "properties":{
+                        "adventure":["DiA"],
+                        "biom":["Civilized","Noble","House","Mansion","City"],
+                        "brightness":"Medium",
+                        "grid":"22x16",
+                        "pack":"86_DiA_Vanthampur_Villa",
+                        "releaseurl":"WIP",
+                        "sibling":"86-02_Vanthampur_Villa_2F-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"86-02_Vanthampur_Villa_2F-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Vanthampur Villa - 86",
+                        "download_terms": "BM: 2 2F",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "86-02_Vanthampur_Villa_2F-4k_Scen":{
+                                "name":"Vanthampur Villa 2F",
+                                "description":"",
+                                "properties":{
+                                "adventure":["DiA"],
+                                "biom":["Civilized","Noble","House","Mansion","City"],
+                                "brightness":"Medium",
+                                "grid":"22x16",
+                                "pack":"86_DiA_Vanthampur_Villa",
+                                "releaseurl":"WIP",
+                                "sibling":"86-02_Vanthampur_Villa_2F-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"86-02_Vanthampur_Villa_2F-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Vanthampur Villa - 86",
+                                "download_terms": "SC: 2 2F",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "86-03_Vanthampur_Villa_3F-4k_BM":{
+                        "name":"Vanthampur Villa 3F",
+                        "description":"",
+                        "properties":{
+                        "adventure":["DiA"],
+                        "biom":["Civilized","Noble","House","Mansion","City"],
+                        "brightness":"Medium",
+                        "grid":"22x16",
+                        "pack":"86_DiA_Vanthampur_Villa",
+                        "releaseurl":"WIP",
+                        "sibling":"86-03_Vanthampur_Villa_3F-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"86-03_Vanthampur_Villa_3F-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Vanthampur Villa - 86",
+                        "download_terms": "BM: 3 3F",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "86-03_Vanthampur_Villa_3F-4k_Scen":{
+                                "name":"Vanthampur Villa 3F",
+                                "description":"",
+                                "properties":{
+                                "adventure":["DiA"],
+                                "biom":["Civilized","Noble","House","Mansion","City"],
+                                "brightness":"Medium",
+                                "grid":"22x16",
+                                "pack":"86_DiA_Vanthampur_Villa",
+                                "releaseurl":"WIP",
+                                "sibling":"86-03_Vanthampur_Villa_3F-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"86-03_Vanthampur_Villa_3F-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Vanthampur Villa - 86",
+                                "download_terms": "SC: 3 3F",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "86-04_Vanthampur_Villa_1F_Night-4k_BM":{
+                        "name":"Vanthampur Villa 1F Night",
+                        "description":"",
+                        "properties":{
+                        "adventure":["DiA"],
+                        "biom":["Civilized","Noble","House","Mansion","City","Night"],
+                        "brightness":"Dark",
+                        "grid":"32x28",
+                        "pack":"86_DiA_Vanthampur_Villa",
+                        "releaseurl":"WIP",
+                        "sibling":"86-04_Vanthampur_Villa_1F_Night-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"86-04_Vanthampur_Villa_1F_Night-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Vanthampur Villa - 86",
+                        "download_terms": "BM: 4 1F Night",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "86-04_Vanthampur_Villa_1F_Night-4k_Scen":{
+                                "name":"Vanthampur Villa 1F Night",
+                                "description":"",
+                                "properties":{
+                                "adventure":["DiA"],
+                                "biom":["Civilized","Noble","House","Mansion","City","Night"],
+                                "brightness":"Dark",
+                                "grid":"32x28",
+                                "pack":"86_DiA_Vanthampur_Villa",
+                                "releaseurl":"WIP",
+                                "sibling":"86-04_Vanthampur_Villa_1F_Night-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"86-04_Vanthampur_Villa_1F_Night-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Vanthampur Villa - 86",
+                                "download_terms": "SC: 4 1F Night",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "86-05_Vanthampur_Villa_2F_Night-4k_BM":{
+                        "name":"Vanthampur Villa 2F Night",
+                        "description":"",
+                        "properties":{
+                        "adventure":["DiA"],
+                        "biom":["Civilized","Noble","House","Mansion","City","Night"],
+                        "brightness":"Dark",
+                        "grid":"22x16",
+                        "pack":"86_DiA_Vanthampur_Villa",
+                        "releaseurl":"WIP",
+                        "sibling":"86-05_Vanthampur_Villa_2F_Night-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"86-05_Vanthampur_Villa_2F_Night-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Vanthampur Villa - 86",
+                        "download_terms": "BM: 5 2F Night",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "86-05_Vanthampur_Villa_2F_Night-4k_Scen":{
+                                "name":"Vanthampur Villa 2F Night",
+                                "description":"",
+                                "properties":{
+                                "adventure":["DiA"],
+                                "biom":["Civilized","Noble","House","Mansion","City","Night"],
+                                "brightness":"Dark",
+                                "grid":"22x16",
+                                "pack":"86_DiA_Vanthampur_Villa",
+                                "releaseurl":"WIP",
+                                "sibling":"86-05_Vanthampur_Villa_2F_Night-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"86-05_Vanthampur_Villa_2F_Night-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Vanthampur Villa - 86",
+                                "download_terms": "SC: 5 2F Night",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "86-06_Vanthampur_Villa_3F_Night-4k_BM":{
+                        "name":"Vanthampur Villa 3F Night",
+                        "description":"",
+                        "properties":{
+                        "adventure":["DiA"],
+                        "biom":["Civilized","Noble","House","Mansion","City","Night"],
+                        "brightness":"Dark",
+                        "grid":"22x16",
+                        "pack":"86_DiA_Vanthampur_Villa",
+                        "releaseurl":"WIP",
+                        "sibling":"86-06_Vanthampur_Villa_3F_Night-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"86-06_Vanthampur_Villa_3F_Night-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 01 Vanthampur Villa - 86",
+                        "download_terms": "BM: 6 3F Night",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "86-06_Vanthampur_Villa_3F_Night-4k_Scen":{
+                                "name":"Vanthampur Villa 3F Night",
+                                "description":"",
+                                "properties":{
+                                "adventure":["DiA"],
+                                "biom":["Civilized","Noble","House","Mansion","City","Night"],
+                                "brightness":"Dark",
+                                "grid":"22x16",
+                                "pack":"86_DiA_Vanthampur_Villa",
+                                "releaseurl":"WIP",
+                                "sibling":"86-06_Vanthampur_Villa_3F_Night-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"86-06_Vanthampur_Villa_3F_Night-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 01 Vanthampur Villa - 86",
+                                "download_terms": "SC: 6 3F Night",
+                                "download_creator": "Beneos Battlemaps"
+                                }
                             }
                         }
                     }
