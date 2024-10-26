@@ -35867,6 +35867,44 @@
                                 "download_terms": "SC: Graveyard",
                                 "download_creator": "Beneos Battlemaps"
                                 }
-						}
-					}
-				}
+                    },
+                    "88-01_Vanthampur_Dungeon-4k_BM":{
+                        "name":"Vanthampur Dungeon",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Sewer","Dungeon","Interiour","Temple","Civilized"],
+                        "brightness":"Medium",
+                        "grid":"68x42",
+                        "pack":"88_Vanthampur_Dungeon",
+                        "releaseurl":"https://www.patreon.com/posts/baldurs-gate-114765496",
+                        "sibling":"88-01_Vanthampur_Dungeon-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"88-01_Vanthampur_Dungeon-4k_bm.webp",
+                        "videourl":"https://www.youtube.com/watch?v=sKbt7xYGmgQ"
+                        "download_pack": "DiA - 01 Vanthampur Dungeon - 88",
+                        "download_terms": "BM: Vanthampur Dungeon",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "88-01_Vanthampur_Dungeon-4k_Scen":{
+                                "name":"Vanthampur Dungeon",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Sewer","Dungeon","Interiour","Temple","Civilized"],
+                                "brightness":"Medium",
+                                "grid":"68x42",
+                                "pack":"88_Vanthampur_Dungeon",
+                                "releaseurl":"https://www.patreon.com/posts/baldurs-gate-114765496",
+                                "sibling":"88-01_Vanthampur_Dungeon-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"88-01_Vanthampur_Dungeon-4k_scen.webp",
+                                "videourl":"https://www.youtube.com/watch?v=sKbt7xYGmgQ"
+                                "download_pack": "DiA - 01 Vanthampur Dungeon - 88",
+                                "download_terms": "SC: Vanthampur Dungeon",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                            }
+                        }
+                    }
