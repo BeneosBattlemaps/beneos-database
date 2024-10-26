@@ -1481,6 +1481,70 @@
         "components": ["V", "S"],
         "icon": "0063_burning_zeal-icon.webp"
       }
+    },
+    "0064_hope_devourer": {
+      "key": "0064_hope_devourer",
+      "description": "A spell that curses a creature, hindering and weakening it, while healing the caster each time their target fails a roll.",
+      "name": "Hope Devourer",
+      "properties": {
+        "level": "2",
+        "school": "Necromancy",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": true,
+        "spell_type": "Debuff",
+        "classes": ["Warlock", "Wizard", "Sorcerer"],
+        "components": ["V", "S"],
+        "icon": "0064_hope_devourer-icon.webp"
+      }
+    },
+    "0065_lifeleech_protocol": {
+      "key": "0065_lifeleech_protocol",
+      "description": "A devious protective spell that drains nearby creatures' life force to heal the caster when they fall.",
+      "name": "Lifeleech Protocol",
+      "properties": {
+        "level": "4",
+        "school": "Necromancy",
+        "casting_time": "10 Minutes",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Restoration",
+        "classes": ["Bard","Warlock", "Sorcerer", "Wizard"],
+        "components": ["V", "S"],
+        "icon": "0065_lifeleech_protocol-icon.webp"
+      }
+    },
+    "0066_mutual_suffering": {
+      "key": "0066_mutual_suffering",
+      "description": "A spell that mirrors damage or afflictions suffered by an ally within another nearby target.",
+      "name": "Mutual Suffering",
+      "properties": {
+        "level": "3",
+        "school": "Necromancy",
+        "casting_time": "Reaction",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Debuff",
+        "classes": ["Paladin", "Warlock"],
+        "components": ["V", "S"],
+        "icon": "0066_mutual_suffering-icon.webp"
+      }
+    },
+    "0067_twilight_pathways": {
+      "key": "0067_twilight_pathways",
+      "description": "A spell travel that allows for a fast, albeit risky journey through a shade world to a known landmark.",
+      "name": "Twilight Pathways",
+      "properties": {
+        "level": "5",
+        "school": "Conjuration",
+        "casting_time": "10 Minutes",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Mobility",
+        "classes": ["Druid","Ranger","Warlock"],
+        "components": ["V", "S"],
+        "icon": "0067_twilight_pathways-icon.webp"
+      }
     }
   }
 }
