@@ -1545,6 +1545,22 @@
         "components": ["V", "S"],
         "icon": "0067_twilight_pathways-icon.webp"
       }
+    },
+    "0067_twilight_pathways": {
+      "key": "0067_twilight_pathways",
+      "description": "A spell travel that allows for a fast, albeit risky journey through a shade world to a known landmark.",
+      "name": "Twilight Pathways",
+      "properties": {
+        "level": "5",
+        "school": "Conjuration",
+        "casting_time": "10 Minutes",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "false",
+        "classes": ["Ranger Cleric Warlock Sorcerer Wizard"],
+        "components": ["V S"],
+        "icon": "0067_twilight_pathways-icon.webp"
+      }
     }
   }
 }

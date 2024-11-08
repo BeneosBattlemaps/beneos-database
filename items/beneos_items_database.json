@@ -954,6 +954,62 @@
             "price": "6000",
             "icon": "0069_drought_draught-icon.webp"
             }
+        },
+        "0070_crown_of_defiance": {
+            "key": "0070_crown_of_defiance",
+            "description": "lets you ignore the result of an attack against you, a failed save or falling to 0 hit points once per day.",
+            "name": "Crown Of Defiance",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "relic",
+            "item_type": "Clothing",
+            "tier": 3,
+            "price": "1000000",
+            "icon": "0070_crown_of_defiance-icon.webp"
+            }
+        },
+        "0071_hags_due": {
+            "key": "0071_hags_due",
+            "description": "Lets you cast detect thoughts on an unconscious creature, as well as gain one of its proficiencies.",
+            "name": "Hag's Due",
+            "properties": {
+            "rarity": "Uncommon",
+            "attunement": true,
+            "origin": "feywoven",
+            "item_type": "Melee Weapon",
+            "tier": 1,
+            "price": "1900",
+            "icon": "0071_hags_due-icon.webp"
+            }
+        },
+        "0072_slimesword": {
+            "key": "0072_slimesword",
+            "description": "An oozy sword that deals extra acid damage and can grapple enemies to dissolve them.",
+            "name": "Slimesword",
+            "properties": {
+            "rarity": "Uncommon",
+            "attunement": true,
+            "origin": "arcane",
+            "item_type": "Melee Weapon",
+            "tier": 1,
+            "price": "2100",
+            "icon": "0072_slimesword-icon.webp"
+            }
+        },
+        "0073_visage_of_dismay": {
+            "key": "0073_visage_of_dismay",
+            "description": "Draw strength from your allies' failures or chastise them to do better.",
+            "name": "Visage Of Dismay",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": true,
+            "origin": "ancient",
+            "item_type": "Medium Armor",
+            "tier": 2,
+            "price": "5700",
+            "icon": "0073_visage_of_dismay-icon.webp"
+            }
          }
        }
      }

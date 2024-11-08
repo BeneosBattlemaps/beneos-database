@@ -16180,7 +16180,7 @@
         "fightingstyle": ["Mobile","Pressure"],
         "movement": ["Swim"],
         "purpose": ["Debuff","Damage"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/moray-drake-112253982",
         "size": "Large",
         "stat_ac": 14,
         "stat_cha": 6,
@@ -16194,7 +16194,7 @@
         "type": [
           "dragon"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/KRX5wPd61VU?si=-JecSPAsKU59e3hv"
     }
     },
     "176_moray_drake_2": {
@@ -16206,7 +16206,7 @@
         "fightingstyle": ["Mobile","Pressure"],
         "movement": ["Swim"],
         "purpose": ["Debuff","Damage"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/moray-drake-112253982",
         "size": "Large",
         "stat_ac": 14,
         "stat_cha": 6,
@@ -16220,7 +16220,7 @@
         "type": [
           "dragon"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/KRX5wPd61VU?si=-JecSPAsKU59e3hv"
     }
     },
     "176_moray_drake_3": {
@@ -16232,7 +16232,7 @@
         "fightingstyle": ["Mobile","Pressure"],
         "movement": ["Swim"],
         "purpose": ["Debuff","Damage"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/moray-drake-112253982",
         "size": "Large",
         "stat_ac": 14,
         "stat_cha": 6,
@@ -16247,7 +16247,7 @@
           "dragon"
   
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/KRX5wPd61VU?si=-JecSPAsKU59e3hv"
     }
     },
     "000_month_18_duskshroud_wyvern": {
@@ -16274,7 +16274,7 @@
           "dragon",
           "Wyvern"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/CJGewLi-_c8?si=LVV_zDaIUnmlTyfJ"
     }
     },
     "0177_cult_possessed": {
@@ -16286,7 +16286,7 @@
         "fightingstyle": ["Melee","Pack"],
         "movement": ["Walk"],
         "purpose": ["Minion","Damage"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/cult-possessed-112613481",
         "size": "Medium",
         "stat_ac": 12,
         "stat_cha": 3,
@@ -16301,19 +16301,19 @@
           "humanoid",
           "Cultist"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/QFNMMbf3sjo?si=D4Oxdb9f48AQX4N3"
     }
     },
     "0178_ogre_batter_brute": {
       "description": "Clad in reinforced armor adorned with rough spikes, these ogres use their massive stature to hold their ground against larger foes or, as is often preferred by the individual ogres, to relentlessly bully weaker enemies. They wield their brutal shield for both offensive and defensive purposes, gleefully battering aside anything that dares to cross their path.",
-      "name": " Ogre Batter Brute",
+      "name": " Ogre Batter-Brute",
       "properties": {
         "biom": ["Wilderness","Lair","Forest","Road","Civilization","City","Cave","Ruins","Dungeon"],
         "cr": "5",
         "fightingstyle": ["Melee","Charge"],
         "movement": ["Walk"],
         "purpose": ["Tank","Damage"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/ogre-batter-113161557",
         "size": "Medium",
         "stat_ac": 19,
         "stat_cha": 7,
@@ -16328,7 +16328,7 @@
           "humanoid",
           "Ogre"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/pRft3KcQqqs?si=y5N3x3CWgtEykxtM"
     }
     },
     "0179_rime_wyvern": {
@@ -16340,7 +16340,7 @@
         "fightingstyle": ["Airborne","Demanding"],
         "movement": ["Fly"],
         "purpose": ["Leader","Debuff"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/rime-wyvern-113557948",
         "size": "Huge",
         "stat_ac": 16,
         "stat_cha": 13,
@@ -16355,7 +16355,7 @@
           "dragon",
           "Wyvern"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/TGkyAQMov3Y?si=U1Rd-caAKMLyKeko"
     }
     },
     "0180_giant_luremaw": {
@@ -16367,7 +16367,7 @@
         "fightingstyle": ["Ambush","Swallow"],
         "movement": ["Swim"],
         "purpose": ["Shock"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/giant-luremaw-114033722",
         "size": "Huge",
         "stat_ac": 14,
         "stat_cha": 1,
@@ -16379,10 +16379,10 @@
         "stat_wis": 14,
         "thumbnail": "0180_giant_luremaw-idle_face_still.webp",
         "type": [
-          "monstrosity",
+          "monstrosity"
           
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/Tkg4-x-qAuw?si=mWhjC6BF0-GS8me-"
     }
     },
     "0180_desert_luremaw": {
@@ -16394,7 +16394,7 @@
         "fightingstyle": ["Ambush","Swallow"],
         "movement": ["Burrow"],
         "purpose": ["Shock"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/giant-luremaw-114033722",
         "size": "Huge",
         "stat_ac": 14,
         "stat_cha": 1,
@@ -16405,6 +16405,168 @@
         "stat_str": 22,
         "stat_wis": 14,
         "thumbnail": "0180_desert_luremaw-idle_face_still.webp",
+        "type": [
+          "monstrosity"
+          
+        ],
+        "videourl": "https://youtu.be/Tkg4-x-qAuw?si=mWhjC6BF0-GS8me-"
+    }
+    },
+    "0181_frost_wretch": {
+      "description": "Frost Wretches are the mortal remnants of unfortunate souls who met their end through harrowing cold—those who perished buried beneath snow or crushed by an avalanche. As the memories of warmth were slowly purged from their bodies and minds by the overwhelming frost, even death could not still their yearning. So powerful is their craving for the faintest touch of life-giving heat that their lifeless bodies rise again, driven by an unfulfilled desire for what was ultimately denied to them. These wretched wanderers now stalk the living, drawn to the warmth they can never reclaim, making them a peril to any who still carry the flame of life.",
+      "name": " Frost Wretch",
+      "properties": {
+        "biom": ["Arctic","Wilderness","Wasteland","Snow","Graves","Dungeon"],
+        "cr": "0.5",
+        "fightingstyle": ["Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Minion","Gimmick"],
+        "releaseurl": "https://www.patreon.com/posts/181-frost-wretch-114480900",
+        "size": "Medium",
+        "stat_ac": 13,
+        "stat_cha": 3,
+        "stat_con": 17,
+        "stat_dex": 8,
+        "stat_hp": 21,
+        "stat_int": 3,
+        "stat_str": 13,
+        "stat_wis": 6,
+        "thumbnail": "0181_frost_wretch-idle_face_still.webp",
+        "type": [
+          "undead"
+          
+        ],
+        "videourl": "https://youtu.be/QIUKrX_aR5Q?si=cZjQ1H1KU40h_Y2L"
+    }
+    },
+    "000_month_19_shamblevault_casket_bearer": {
+      "description": "The Shamblevaults are hidden oubliette-structures where hordes of undead creatures are imprisoned, awaiting the call of their master to be summoned when needed. Through massive blackwood caskets, ambitious necromancers can draw forth undead abominations directly from the nightmarish depths of these vaults. The towering Casket Bearers, hulking figures bound to their masters’ will, provide the perfect solution to the logistical challenge of hauling around a colossal, chain-wrapped sarcophagus.",
+      "name": "Shamblevault Casket Bearer",
+      "properties": {
+        "biom": ["Graves","Dungeon","Horror","Road"],
+        "cr": "11",
+        "fightingstyle": ["Melee"],
+        "movement": ["Walk"],
+        "purpose": ["Minion","Gimmick"],
+        "releaseurl": "https://beneos-battlemaps.com/collections/animated-tokens/products/beneos-tokens-forge-devil-kopie",
+        "size": "Huge",
+        "stat_ac": 17,
+        "stat_cha": 5,
+        "stat_con": 18,
+        "stat_dex": 7,
+        "stat_hp": 187,
+        "stat_int": 6,
+        "stat_str": 22,
+        "stat_wis": 8,
+        "thumbnail": "000_month_19_shamblevault_casket_bearer-idle_face_still.webp",
+        "type": [
+          "undead"
+          
+        ],
+        "videourl": "https://youtu.be/i8qcyIPLWE8?si=ydfLn735U6IH2CIb"
+    }
+    },
+    "182_barmaid": {
+      "description": "Equipped with a unique blend of joviality and crabbyness, a Barmaid can be either the worst nightmare or the most valuable ally to any adventurer, be it fresh-faced or battle-hardened. She rules the tavern with an iron fist, and it pays to respect the local rules and customs. First and foremost, because one should never cross someone with unfettered access to their food, the key to any room and a selection of thoroughly confirmable alibi. Likewise, most hospitality workers are just waiting for the chance to truly let off some steam and you should make sure not to be on the receiving end. However, the Barmaid knows the fate she has chosen, and if she truly despised the hustle and bustle, she’d probably find a different job, for example Warlord or Grand Inquisitor.",
+      "name": "Barmaid",
+      "properties": {
+        "biom": ["Tavern","City","Civilized","Road"],
+        "cr": "2",
+        "fightingstyle": ["Tactical"],
+        "movement": ["Walk"],
+        "purpose": ["Leader","Gimmick"],
+        "releaseurl": "https://www.patreon.com/posts/182-barmaid-114632657",
+        "size": "Medium",
+        "stat_ac": 13,
+        "stat_cha": 17,
+        "stat_con": 16,
+        "stat_dex": 12,
+        "stat_hp": 45,
+        "stat_int": 13,
+        "stat_str": 17,
+        "stat_wis": 14,
+        "thumbnail": "182_barmaid-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "Human"
+        ],
+        "videourl": "https://youtu.be/OyVgdN77Qxc?si=arauriS4jC4iti-3"
+    }
+    },
+    "183_goblin_pinecone_bomber": {
+      "description": "Goblins are nothing if not adaptable and creative in using the resources available to them to offset the advantages their enemies are blessed with. At the same time, a certain sadism cannot be denied. Pinecone Bombers remarkably sound like a myth, until the caravan passes through coniferous woodlands and the last thing the escort sees is a grinning goblin with impressive leg muscles, clinging to a tree trunk six meters up, fiddling with a pinecone, before the explosions knock them off their horse and everything goes black.",
+      "name": "Goblin Pinecone Bomber",
+      "properties": {
+        "biom": ["Forest","Road","Wilderness","Wastelands","Dungeon"],
+        "cr": "2",
+        "fightingstyle": ["Ambush","Pack","Ranged"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "",
+        "size": "Small",
+        "stat_ac": 13,
+        "stat_cha": 17,
+        "stat_con": 16,
+        "stat_dex": 12,
+        "stat_hp": 45,
+        "stat_int": 13,
+        "stat_str": 17,
+        "stat_wis": 14,
+        "thumbnail": "183_goblin_pinecone_bomber-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "Goblin"
+        ],
+        "videourl": ""
+    }
+    },
+    "184_rot_cerf_1": {
+      "description": "Rot Cerfs are ghastly to behold—towering, monstrous stag-beings with half-decayed visages, heralded by the cracking of aged leaves and a pungent scent of damp moss mingled with the sweet stench of rot. Yet these creatures are not of undead nature; they embody the eternal cycle of death, decay, and rebirth—the hulking creature being both rot-bringer and life-birther. It is said that a single touch of its gnarled claws can infest a creature with unyielding decay, yet it is also supposed to possess healing powers of mythical proportions, capable of bringing a soul back from beyond the realm of death.",
+      "name": "Rot Cerf 1",
+      "properties": {
+        "biom": ["Forest","Road","Wilderness","Wastelands","Dungeon","Swamp","Jungle","Horror"],
+        "cr": "2",
+        "fightingstyle": ["Ambush","Pack","Ranged"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 13,
+        "stat_cha": 17,
+        "stat_con": 16,
+        "stat_dex": 12,
+        "stat_hp": 45,
+        "stat_int": 13,
+        "stat_str": 17,
+        "stat_wis": 14,
+        "thumbnail": "184_rot_cerf_1-idle_face_still.webp",
+        "type": [
+          "monstrosity",
+          
+        ],
+        "videourl": ""
+    }
+    },
+    "184_rot_cerf_2": {
+      "description": "Rot Cerfs are ghastly to behold—towering, monstrous stag-beings with half-decayed visages, heralded by the cracking of aged leaves and a pungent scent of damp moss mingled with the sweet stench of rot. Yet these creatures are not of undead nature; they embody the eternal cycle of death, decay, and rebirth—the hulking creature being both rot-bringer and life-birther. It is said that a single touch of its gnarled claws can infest a creature with unyielding decay, yet it is also supposed to possess healing powers of mythical proportions, capable of bringing a soul back from beyond the realm of death.",
+      "name": "Rot Cerf 2",
+      "properties": {
+        "biom": ["Forest","Road","Wilderness","Wastelands","Dungeon","Swamp","Jungle","Horror"],
+        "cr": "2",
+        "fightingstyle": ["Ambush","Pack","Ranged"],
+        "movement": ["Walk"],
+        "purpose": ["Minion"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 13,
+        "stat_cha": 17,
+        "stat_con": 16,
+        "stat_dex": 12,
+        "stat_hp": 45,
+        "stat_int": 13,
+        "stat_str": 17,
+        "stat_wis": 14,
+        "thumbnail": "184_rot_cerf_2-idle_face_still.webp",
         "type": [
           "monstrosity",
           
