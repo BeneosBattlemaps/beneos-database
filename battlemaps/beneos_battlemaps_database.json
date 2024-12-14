@@ -35905,6 +35905,576 @@
                                 "download_terms": "SC: Vanthampur Dungeon",
                                 "download_creator": "Beneos Battlemaps"
                                 }
+                    },
+                    "89-01_Hellturel_City_Map-4k_BM":{
+                        "name":"Hellturel City Map",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Civilized","City","Battle", "Planar", "Otherworldly"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"89_Hellturel",
+                        "releaseurl":"WIP",
+                        "sibling":"89-01_Hellturel_City_Map-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"89-01_Hellturel_City_Map-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 02 Hellturel - 89",
+                        "download_terms": "BM: 1 Hellturel City Map",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "89-01_Hellturel_City_Map-4k_Scen":{
+                                "name":"Hellturel City Map",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Civilized","City","Battle", "Planar", "Otherworldly"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"89_Hellturel",
+                                "releaseurl":"WIP",
+                                "sibling":"89-01_Hellturel_City_Map-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"89-01_Hellturel_City_Map-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 02 Hellturel - 89",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "89-02_Encounter_Unwelcome_Party-4k_BM":{
+                        "name":"Encounter Unwelcome Party",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Civilized","City","Battle", "Burning","Gore"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"89_Hellturel",
+                        "releaseurl":"WIP",
+                        "sibling":"89-02_Encounter_Unwelcome_Party-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"89-02_Encounter_Unwelcome_Party-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 02 Hellturel - 89",
+                        "download_terms": "BM: 2 Unwelcome Party",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "89-02_Encounter_Unwelcome_Party-4k_Scen":{
+                                "name":"Encounter Unwelcome Party",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Civilized","City","Battle", "Burning","Gore"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"89_Hellturel",
+                                "releaseurl":"WIP",
+                                "sibling":"89-02_Encounter_Unwelcome_Party-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"89-02_Encounter_Unwelcome_Party-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 02 Hellturel - 89",
+                                "download_terms": "SC: 2 Unwelcome Party",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "89-03_Encounter_Collapsed_Building-4k_BM":{
+                        "name":"Encounter Collapsed Building",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Civilized","City","Battle", "Burning","Gore"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"89_Hellturel",
+                        "releaseurl":"WIP",
+                        "sibling":"89-03_Encounter_Collapsed_Building-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"89-03_Encounter_Collapsed_Building-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 02 Hellturel - 89",
+                        "download_terms": "BM: 3 Collapsed Building",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "89-03_Encounter_Collapsed_Building-4k_Scen":{
+                                "name":"Encounter Collapsed Building",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Civilized","City","Battle", "Burning","Gore"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"89_Hellturel",
+                                "releaseurl":"WIP",
+                                "sibling":"89-03_Encounter_Collapsed_Building-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"89-03_Encounter_Collapsed_Building-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 02 Hellturel - 89",
+                                "download_terms": "SC: 3 Collapsed Building",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "89-04_Encounter_Cry_For_Help-4k_BM":{
+                        "name":"Encounter Cry For Help",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Ruin","City","Battle", "Planar","Otherworldly"],
+                        "brightness":"Medium",
+                        "grid":"36x20",
+                        "pack":"89_Hellturel",
+                        "releaseurl":"WIP",
+                        "sibling":"89-04_Encounter_Cry_For_Help-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"89-04_Encounter_Cry_For_Help-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 02 Hellturel - 89",
+                        "download_terms": "BM: 4 Cry For Help",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "89-04_Encounter_Cry_For_Help-4k_Scen":{
+                                "name":"Encounter Cry For Help",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Ruin","City","Battle", "Planar","Otherworldly"],
+                                "brightness":"Medium",
+                                "grid":"36x20",
+                                "pack":"89_Hellturel",
+                                "releaseurl":"WIP",
+                                "sibling":"89-04_Encounter_Cry_For_Help-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"89-04_Encounter_Cry_For_Help-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 02 Hellturel - 89",
+                                "download_terms": "SC: 4 Cry For Help",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "89-05_Encounter_Ghastly_Meal-4k_BM":{
+                        "name":"Encounter Ghastly Meal",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Civilized","City","Battle", "Gore"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"89_Hellturel",
+                        "releaseurl":"WIP",
+                        "sibling":"89-05_Encounter_Ghastly_Meal-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"89-05_Encounter_Ghastly_Meal-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 02 Hellturel - 89",
+                        "download_terms": "BM: 5 Ghastly Meal",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "89-05_Encounter_Ghastly_Meal-4k_Scen":{
+                                "name":"Encounter Ghastly Meal",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Civilized","City","Battle", "Gore"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"89_Hellturel",
+                                "releaseurl":"WIP",
+                                "sibling":"89-05_Encounter_Ghastly_Meal-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"89-05_Encounter_Ghastly_Meal-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 02 Hellturel - 89",
+                                "download_terms": "SC: 5 Ghastly Meal",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "89-06_Encounter_Ghoul_Pack-4k_BM":{
+                        "name":"Encounter Ghoul Pack",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Civilized","City","Battle", "Gore"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"89_Hellturel",
+                        "releaseurl":"WIP",
+                        "sibling":"89-06_Encounter_Ghoul_Pack-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"89-06_Encounter_Ghoul_Pack-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 02 Hellturel - 89",
+                        "download_terms": "BM: 6 Ghoul Pack",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "89-06_Encounter_Ghoul_Pack-4k_Scen":{
+                                "name":"Encounter Ghoul Pack",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Civilized","City","Battle", "Gore"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"89_Hellturel",
+                                "releaseurl":"WIP",
+                                "sibling":"89-06_Encounter_Ghoul_Pack-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"89-06_Encounter_Ghoul_Pack-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 02 Hellturel - 89",
+                                "download_terms": "SC: 6 Ghoul Pack",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "89-07_Encounter_Hateful_Patrol-4k_BM":{
+                        "name":"Encounter Hateful Patrol",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Civilized","City","Ruin"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"89_Hellturel",
+                        "releaseurl":"WIP",
+                        "sibling":"89-07_Encounter_Hateful_Patrol-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"89-07_Encounter_Hateful_Patrol-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 02 Hellturel - 89",
+                        "download_terms": "BM: 7 Heateful Patrol",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "89-07_Encounter_Hateful_Patrol-4k_Scen":{
+                                "name":"Encounter Hateful Patrol",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Civilized","City","Ruin"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"89_Hellturel",
+                                "releaseurl":"WIP",
+                                "sibling":"89-07_Encounter_Hateful_Patrol-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"89-07_Encounter_Hateful_Patrol-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 02 Hellturel - 89",
+                                "download_terms": "SC: 7 Heateful Patrol",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "89-08_Encounter_Imp_Sales_Pitch-4k_BM":{
+                        "name":"Encounter Imp Sales Pitch",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Civilized","City","Battle", "Gore","Ruin"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"89_Hellturel",
+                        "releaseurl":"WIP",
+                        "sibling":"89-08_Encounter_Imp_Sales_Pitch-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"89-08_Encounter_Imp_Sales_Pitch-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 02 Hellturel - 89",
+                        "download_terms": "BM: 8 Imp Sales Pitch",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "89-08_Encounter_Imp_Sales_Pitch-4k_Scen":{
+                                "name":"Encounter Imp Sales Pitch",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Civilized","City","Battle", "Gore","Ruin"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"89_Hellturel",
+                                "releaseurl":"WIP",
+                                "sibling":"89-08_Encounter_Imp_Sales_Pitch-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"89-08_Encounter_Imp_Sales_Pitch-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 02 Hellturel - 89",
+                                "download_terms": "SC: 8 Imp Sales Pitch",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "89-09_Encounter_Narzugon_Cavalier-4k_BM":{
+                        "name":"Encounter Narzugon Cavalier",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Civilized","City","Battle", "Gore"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"89_Hellturel",
+                        "releaseurl":"WIP",
+                        "sibling":"89-09_Encounter_Narzugon_Cavalier-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"89-09_Encounter_Narzugon_Cavalier-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 02 Hellturel - 89",
+                        "download_terms": "BM: 9 Narzugon Cavalier",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "89-09_Encounter_Narzugon_Cavalier-4k_Scen":{
+                                "name":"Encounter Narzugon Cavalier",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Civilized","City","Battle", "Gore"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"89_Hellturel",
+                                "releaseurl":"WIP",
+                                "sibling":"89-09_Encounter_Narzugon_Cavalier-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"89-09_Encounter_Narzugon_Cavalier-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 02 Hellturel - 89",
+                                "download_terms": "SC: 9 Narzugon Cavalier",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "89-10_Encounter_Spouts_Of_Hellfire-4k_BM":{
+                        "name":"Encounter Spouts Of Hellfire",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Civilized","City","Battle", "Gore"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"89_Hellturel",
+                        "releaseurl":"WIP",
+                        "sibling":"89-10_Encounter_Spouts_Of_Hellfire-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"89-10_Encounter_Spouts_Of_Hellfire-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 02 Hellturel - 89",
+                        "download_terms": "BM: 10 Spouts of Fire",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "89-10_Encounter_Spouts_Of_Hellfire-4k_Scen":{
+                                "name":"Encounter Spouts Of Hellfire",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Civilized","City","Battle", "Gore"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"89_Hellturel",
+                                "releaseurl":"WIP",
+                                "sibling":"89-10_Encounter_Spouts_Of_Hellfire-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"89-10_Encounter_Spouts_Of_Hellfire-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 02 Hellturel - 89",
+                                "download_terms": "SC: 10 Spouts of Fire",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "89-11_Encounter_Vrock_Philosophy-4k_BM":{
+                        "name":"Encounter Vrock Philosophy",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Civilized","City","Battle", "Gore"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"89_Hellturel",
+                        "releaseurl":"WIP",
+                        "sibling":"89-11_Encounter_Vrock_Philosophy-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"89-11_Encounter_Vrock_Philosophy-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 02 Hellturel - 89",
+                        "download_terms": "BM: 11 Vrock Philosophy",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "89-11_Encounter_Vrock_Philosophy-4k_Scen":{
+                                "name":"Encounter Vrock Philosophy",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Civilized","City","Battle", "Gore"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"89_Hellturel",
+                                "releaseurl":"WIP",
+                                "sibling":"89-11_Encounter_Vrock_Philosophy-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"89-11_Encounter_Vrock_Philosophy-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 02 Hellturel - 89",
+                                "download_terms": "SC: 11 Vrock Philosophy",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "89-12_Encounter_Zombie_Horde-4k_BM":{
+                        "name":"Encounter Zombie Horde",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Civilized","City","Battle", "Gore"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"89_Hellturel",
+                        "releaseurl":"WIP",
+                        "sibling":"89-12_Encounter_Zombie_Horde-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"89-12_Encounter_Zombie_Horde-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 02 Hellturel - 89",
+                        "download_terms": "BM: 12 Zombie Horde",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "89-12_Encounter_Zombie_Horde-4k_Scen":{
+                                "name":"Encounter Zombie Horde",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Civilized","City","Battle", "Gore"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"89_Hellturel",
+                                "releaseurl":"WIP",
+                                "sibling":"89-12_Encounter_Zombie_Horde-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"89-12_Encounter_Zombie_Horde-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 02 Hellturel - 89",
+                                "download_terms": "SC: 12 Zombie Horde",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "89-13_Torms_Bridge_1-4k_BM":{
+                        "name":"Torms Bridge 1",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Burning","Civilized","City","Battle", "Gore","Bridge","Otherworldly","Planar"],
+                        "brightness":"Medium",
+                        "grid":"36x20",
+                        "pack":"89_Hellturel",
+                        "releaseurl":"WIP",
+                        "sibling":"89-13_Torms_Bridge_1-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"89-13_Torms_Bridge_1-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 02 Hellturel - 89",
+                        "download_terms": "BM: 13 Torms Bridge 1",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "89-13_Torms_Bridge_1-4k_Scen":{
+                                "name":"Torms Bridge 1",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Burning","Civilized","City","Battle", "Gore","Bridge","Otherworldly","Planar"],
+                                "brightness":"Medium",
+                                "grid":"36x20",
+                                "pack":"89_Hellturel",
+                                "releaseurl":"WIP",
+                                "sibling":"89-13_Torms_Bridge_1-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"89-13_Torms_Bridge_1-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 02 Hellturel - 89",
+                                "download_terms": "SC: 13 Torms Bridge 1",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "89-14_Torms_Bridge_2-4k_BM":{
+                        "name":"Torms Bridge 2",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Civilized","City","Battle", "Gore","Bridge","Otherworldly","Planar"],
+                        "brightness":"Medium",
+                        "grid":"54x20",
+                        "pack":"89_Hellturel",
+                        "releaseurl":"WIP",
+                        "sibling":"89-14_Torms_Bridge_2-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"89-14_Torms_Bridge_2-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 02 Hellturel - 89",
+                        "download_terms": "BM: 14 Torms Bridge 2",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "89-14_Torms_Bridge_2-4k_Scen":{
+                                "name":"Torms Bridge 2",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Civilized","City","Battle", "Gore","Bridge","Otherworldly","Planar"],
+                                "brightness":"Medium",
+                                "grid":"54x20",
+                                "pack":"89_Hellturel",
+                                "releaseurl":"WIP",
+                                "sibling":"89-14_Torms_Bridge_2-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"89-14_Torms_Bridge_2-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 02 Hellturel - 89",
+                                "download_terms": "SC: 14 Torms Bridge 2",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "89-15_The_Chain-4k_BM":{
+                        "name":"The Chain",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Planar","Otherworldly"],
+                        "brightness":"Medium",
+                        "grid":"20x36",
+                        "pack":"89_Hellturel",
+                        "releaseurl":"WIP",
+                        "sibling":"89-15_The_Chain-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"89-15_The_Chain-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA - 02 Hellturel - 89",
+                        "download_terms": "BM: 15 The Chain",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "89-15_The_Chain-4k_Scen":{
+                                "name":"The Chain",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Planar","Otherworldly"],
+                                "brightness":"Medium",
+                                "grid":"20x36",
+                                "pack":"89_Hellturel",
+                                "releaseurl":"WIP",
+                                "sibling":"89-15_The_Chain-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"89-15_The_Chain-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA - 02 Hellturel - 89",
+                                "download_terms": "SC: 15 The Chain",
+                                "download_creator": "Beneos Battlemaps"
+                                }
                             }
                         }
                     }
