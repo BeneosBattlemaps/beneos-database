@@ -1010,6 +1010,62 @@
             "price": "5700",
             "icon": "0073_visage_of_dismay-icon.webp"
             }
+        },
+        "0074_dawnmartyr_pelerine": {
+            "key": "0074_dawnmartyr_pelerine",
+            "description": "When an ally is hurt, you can take part of the damage, starting to burn to buff allies and damage enemies.",
+            "name": "Dawnmartyr Pelerine",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "blessed",
+            "item_type": "Clothing",
+            "tier": 3,
+            "price": "25700",
+            "icon": "0074_dawnmartyr_pelerine-icon.webp"
+            }
+        },
+        "0075_grace_of_the_shade_court": {
+            "key": "0075_grace_of_the_shade_court",
+            "description": "Wearing the cowl enhances your charisma and allows you to diminish harm or fortify your resolve with regal grace.",
+            "name": "Grace Of The Shade Court",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "feywoven",
+            "item_type": "Clothing",
+            "tier": 3,
+            "price": "44800",
+            "icon": "0075_grace_of_the_shade_court-icon.webp"
+            }
+        },
+        "0076_mask_of_the_third_eye": {
+            "key": "0076_mask_of_the_third_eye",
+            "description": "As you gain Insight, this mask enhances your perception and intellect while granting powerful divinatory and defensive abilities.",
+            "name": "Mask Of The Third Eye",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "arcane",
+            "item_type": "Clothing",
+            "tier": 2,
+            "price": "189000",
+            "icon": "0076_mask_of_the_third_eye-icon.webp"
+            }
+        },
+        "0077_windup_key": {
+            "key": "0077_windup_key",
+            "description": "Use the Windup-Key to animate an object, with the option to either hasten it or blowing it up.",
+            "name": "Windup Key",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "technoarcane",
+            "item_type": "Consumable",
+            "tier": 2,
+            "price": "5200",
+            "icon": "0077_windup_key-icon.webp"
+            }
          }
        }
      }

@@ -4221,7 +4221,8 @@
           "forest",
           "Wilderness",
           "planar",
-          "Mountain"
+          "Mountain",
+		  "jungle"
         ],
         "cr": "7",
         "fightingstyle": [
@@ -4233,8 +4234,7 @@
         ],
         "purpose": [
           "damage",
-          "gimmick",
-          "leader"
+          "debuff"  
         ],
         "releaseurl": "https://www.patreon.com/posts/elder-curseroot-60897390",
         "size": "huge",
@@ -14239,7 +14239,7 @@
     },
     "154_awakened_armor": {
       "description": "In a world teeming with dragons, magic, or extraplanar incursions, some hardened adventurers lose respect for the simple dangers of the adventurer’s life. An awakened armor stands as a towering suit of plate mail, devoid of the any weaknesses imposed by organic parts. It feels no pain and knows no mercy; the armor is a tool of overwhelming violence, advancing unstoppably through arrow volleys, hostile terrain or arcane fire.",
-      "name": "AWakened Armor",
+      "name": "Awakened Armor",
       "properties": {
         "biom": ["Dungeon","Graves","Civilized"],
         "cr": "4",
@@ -16502,7 +16502,7 @@
         "fightingstyle": ["Ambush","Pack","Ranged"],
         "movement": ["Walk"],
         "purpose": ["Minion"],
-        "releaseurl": "",
+        "releaseurl": "https://www.patreon.com/posts/183-goblin-115641112",
         "size": "Small",
         "stat_ac": 13,
         "stat_cha": 17,
@@ -16517,19 +16517,19 @@
           "humanoid",
           "Goblin"
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/1eKKV2sxuVI?si=O9r_XE63EsLwxVvs"
     }
     },
     "184_rot_cerf_1": {
       "description": "Rot Cerfs are ghastly to behold—towering, monstrous stag-beings with half-decayed visages, heralded by the cracking of aged leaves and a pungent scent of damp moss mingled with the sweet stench of rot. Yet these creatures are not of undead nature; they embody the eternal cycle of death, decay, and rebirth—the hulking creature being both rot-bringer and life-birther. It is said that a single touch of its gnarled claws can infest a creature with unyielding decay, yet it is also supposed to possess healing powers of mythical proportions, capable of bringing a soul back from beyond the realm of death.",
-      "name": "Rot Cerf 1",
+      "name": "Rot Cerf",
       "properties": {
         "biom": ["Forest","Road","Wilderness","Wastelands","Dungeon","Swamp","Jungle","Horror"],
-        "cr": "2",
-        "fightingstyle": ["Ambush","Pack","Ranged"],
+        "cr": "11",
+        "fightingstyle": ["Lethal","Demanding"],
         "movement": ["Walk"],
-        "purpose": ["Minion"],
-        "releaseurl": "",
+        "purpose": ["Debuff","Gimmick"],
+        "releaseurl": "https://www.patreon.com/posts/184-rot-cerf-115641431",
         "size": "Huge",
         "stat_ac": 13,
         "stat_cha": 17,
@@ -16541,22 +16541,22 @@
         "stat_wis": 14,
         "thumbnail": "184_rot_cerf_1-idle_face_still.webp",
         "type": [
-          "monstrosity",
+          "monstrosity"
           
         ],
-        "videourl": ""
+        "videourl": "https://youtu.be/GcVzlsF31cw?si=FDAEq2X_uUydTiK0"
     }
     },
     "184_rot_cerf_2": {
       "description": "Rot Cerfs are ghastly to behold—towering, monstrous stag-beings with half-decayed visages, heralded by the cracking of aged leaves and a pungent scent of damp moss mingled with the sweet stench of rot. Yet these creatures are not of undead nature; they embody the eternal cycle of death, decay, and rebirth—the hulking creature being both rot-bringer and life-birther. It is said that a single touch of its gnarled claws can infest a creature with unyielding decay, yet it is also supposed to possess healing powers of mythical proportions, capable of bringing a soul back from beyond the realm of death.",
-      "name": "Rot Cerf 2",
+      "name": "Rot Cerf",
       "properties": {
         "biom": ["Forest","Road","Wilderness","Wastelands","Dungeon","Swamp","Jungle","Horror"],
-        "cr": "2",
-        "fightingstyle": ["Ambush","Pack","Ranged"],
+        "cr": "11",
+        "fightingstyle": ["Lethal","Demanding"],
         "movement": ["Walk"],
-        "purpose": ["Minion"],
-        "releaseurl": "",
+        "purpose": ["Debuff","Gimmick"],
+        "releaseurl": "https://www.patreon.com/posts/184-rot-cerf-115641431",
         "size": "Huge",
         "stat_ac": 13,
         "stat_cha": 17,
@@ -16568,8 +16568,144 @@
         "stat_wis": 14,
         "thumbnail": "184_rot_cerf_2-idle_face_still.webp",
         "type": [
-          "monstrosity",
+          "monstrosity"
           
+        ],
+        "videourl": "https://youtu.be/GcVzlsF31cw?si=FDAEq2X_uUydTiK0"
+    }
+    },
+    "185_hunting_wyvern_2": {
+      "description": "Born from humanity’s curious impulse to subjugate every fanged and clawed horror that makes the mistake of gazing from the forest’s edge into campfire-lit clearings, Hunting Wyverns are the result of breeding what once were draconic behemoths into something resembling a even more psychotic bird. Through millennia of costly and loss-ridden endeavors, wealthy nobles can now field Hunting Wyverns—surprisingly intelligent and lightning-fast upgrades over traditional falcons, surpassing them both in ability and prestige.",
+      "name": "Hunting Wyvern",
+      "properties": {
+        "biom": ["Forest","Road","Wilderness","Wastelands","Dungeon","Swamp","Jungle","City","Civilized"],
+        "cr": "1",
+        "fightingstyle": ["Hunter","Mobile"],
+        "movement": ["Fly"],
+        "purpose": ["Minion","Ally"],
+        "releaseurl": "https://www.patreon.com/posts/185-hunting-116243060",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 12,
+        "stat_con": 13,
+        "stat_dex": 16,
+        "stat_hp": 27,
+        "stat_int": 5,
+        "stat_str": 14,
+        "stat_wis": 14,
+        "thumbnail": "185_hunting_wyvern_2-idle_face_still.webp",
+        "type": [
+          "dragon",
+          "Wyvern"
+        ],
+        "videourl": "https://youtu.be/hAvadbSNgC0?si=GEaEiSrFbEieFqw3"
+    }
+    },
+    "185_hunting_wyvern_1": {
+      "description": "Born from humanity’s curious impulse to subjugate every fanged and clawed horror that makes the mistake of gazing from the forest’s edge into campfire-lit clearings, Hunting Wyverns are the result of breeding what once were draconic behemoths into something resembling a even more psychotic bird. Through millennia of costly and loss-ridden endeavors, wealthy nobles can now field Hunting Wyverns—surprisingly intelligent and lightning-fast upgrades over traditional falcons, surpassing them both in ability and prestige.",
+      "name": "Hunting Wyvern",
+      "properties": {
+        "biom": ["Forest","Road","Wilderness","Wastelands","Dungeon","Swamp","Jungle","City","Civilized"],
+        "cr": "1",
+        "fightingstyle": ["Hunter","Mobile"],
+        "movement": ["Fly"],
+        "purpose": ["Minion","Ally"],
+        "releaseurl": "https://www.patreon.com/posts/185-hunting-116243060",
+        "size": "Medium",
+        "stat_ac": 15,
+        "stat_cha": 12,
+        "stat_con": 13,
+        "stat_dex": 16,
+        "stat_hp": 27,
+        "stat_int": 5,
+        "stat_str": 14,
+        "stat_wis": 14,
+        "thumbnail": "185_hunting_wyvern_1-idle_face_still.webp",
+        "type": [
+          "dragon",
+          "Wyvern"
+        ],
+        "videourl": "https://youtu.be/hAvadbSNgC0?si=GEaEiSrFbEieFqw3"
+    }
+    },
+    "186_vampire_huntress": {
+      "description": "While the thin-blooded, more beastly vampires display no particular preference regarding the source of their well-known primary sustenance, among the more civilized and haughty specimens, one observes a regrettable and troublesome inclination towards the fairer sex. It is scarcely surprising, therefore, that this provokes a reaction, prompting some young ladies to proactively preempt potential transgressions by embarking upon a career as vampire huntresses—often with great success.",
+      "name": "Vampire Huntress",
+      "properties": {
+        "biom": ["Forest","Road","Wilderness","Wastelands","Dungeon","Swamp","Jungle","City","Civilized","Graves","Sacral","Horror"],
+        "cr": "6",
+        "fightingstyle": ["Hunter","Ranged"],
+        "movement": ["Walk"],
+        "purpose": ["Ally"],
+        "releaseurl": "https://www.patreon.com/posts/186-vampire-116686758",
+        "size": "Medium",
+        "stat_ac": 17,
+        "stat_cha": 18,
+        "stat_con": 14,
+        "stat_dex": 18,
+        "stat_hp": 127,
+        "stat_int": 17,
+        "stat_str": 14,
+        "stat_wis": 14,
+        "thumbnail": "186_vampire_huntress-idle_face_still.webp",
+        "type": [
+          "humanoid",
+          "Human"
+        ],
+        "videourl": "https://youtu.be/WZd5yQsRX5M?si=TUppetZgKLxEmwz3"
+
+    }
+    },
+    "187_skeletal_dune_raider": {
+      "description": "Only to the untrained eye does the desert appear lifeless—that much is known. Yet, alongside the life that blossoms in the sands, un-life flourishes as well. Numerous undead creatures haunt the dunes, wadis, and oases of many an arid wasteland. Among them are the Skeletal Dune Raiders—the skeletal remnants of ill-fated desert marauders and caravan ambushers, infused with the arid essences of their grave sites and unwilling to return beneath the sands alone.",
+      "name": "Skeletal Dune Raider",
+      "properties": {
+        "biom": ["Desert","Graves","Dungeon","Wastelands","Coast"],
+        "cr": "9",
+        "fightingstyle": ["Melee","Simple"],
+        "movement": ["Walk"],
+        "purpose": ["Minion","Pack"],
+        "releaseurl": "https://www.patreon.com/posts/117234057",
+        "size": "Medium",
+        "stat_ac": 14,
+        "stat_cha": 16,
+        "stat_con": 16,
+        "stat_dex": 7,
+        "stat_hp": 47,
+        "stat_int": 10,
+        "stat_str": 8,
+        "stat_wis": 12,
+        "thumbnail": "187_skeletal_dune_raider-idle_face_still.webp",
+        "type": [
+          "Undead"
+          
+        ],
+        "videourl": "https://youtu.be/wGJw0fkdAvo?si=TUQt3b4UhB9nupZG"
+    }
+    },
+    "188_conflagrator_effigy": {
+      "description": "Also known as an Idol of Immolation, a Conflagrator Effigy is a semi-sentient war machine wrought in the forge-fires of the lower hells. Its chitinous form bristles with jagged edges and unholy runes, a diabolical testament to the craft of the infernal engineers. Within its monstrous frame blazes unquenchable hellfire, fed by the anguish and ever-burning bodies of the damned. As the creature unleashes torrents of searing flame that purify with sin-cleansing fury, it often is surrounded by fervent acolytes of the sixth circles’ Immolator Cults.",
+      "name": "Conflagrator Effigy",
+      "properties": {
+        "biom": ["Infernal","Planar"],
+        "cr": "9",
+        "fightingstyle": ["Demanding","AoE"],
+        "movement": ["Fly"],
+        "purpose": ["Damage"],
+        "releaseurl": "",
+        "size": "Huge",
+        "stat_ac": 14,
+        "stat_cha": 16,
+        "stat_con": 16,
+        "stat_dex": 7,
+        "stat_hp": 47,
+        "stat_int": 10,
+        "stat_str": 8,
+        "stat_wis": 12,
+        "thumbnail": "188_conflagrator_effigy-idle_face_still.webp",
+        "type": [
+          "Fiend",
+          "Devil"
         ],
         "videourl": ""
     }

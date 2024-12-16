@@ -1546,20 +1546,68 @@
         "icon": "0067_twilight_pathways-icon.webp"
       }
     },
-    "0067_twilight_pathways": {
-      "key": "0067_twilight_pathways",
-      "description": "A spell travel that allows for a fast, albeit risky journey through a shade world to a known landmark.",
-      "name": "Twilight Pathways",
+    "0068_from_dust": {
+      "key": "0068_from_dust",
+      "description": "Removing your heart for safekeeping, you gain a new body upon death for your soul to inhabit, reviving you.",
+      "name": "From Dust",
       "properties": {
-        "level": "5",
-        "school": "Conjuration",
-        "casting_time": "10 Minutes",
+        "level": "7",
+        "school": "Necromancy",
+        "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "false",
-        "classes": ["Ranger Cleric Warlock Sorcerer Wizard"],
-        "components": ["V S"],
-        "icon": "0067_twilight_pathways-icon.webp"
+        "spell_type": "Restoration",
+        "classes": ["Bard", "Sorcerer", "Wizard"],
+        "components": ["V S M"],
+        "icon": "0068_from_dust-icon.webp"
+      }
+    },
+    "0069_duty_calls": {
+      "key": "0069_duty_calls",
+      "description": "You puppeteer a dead or unconscious creature, forcing it to make a single attack against a target of your choice.",
+      "name": "Duty Calls",
+      "properties": {
+        "level": "2",
+        "school": "Necromancy",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Curse",
+        "classes": ["Paladin", "Warlock", "Sorcerer", "Wizard"],
+        "components": ["V", "S", "M"],
+        "icon": "0069_duty_calls-icon.webp"
+      }
+    },
+    "0070_rekindle": {
+      "key": "0070_rekindle",
+      "description": "You imbue a creature with life-giving flame, causing it to return to life after being killed.",
+      "name": "Rekindle",
+      "properties": {
+        "level": "6",
+        "school": "Abjuration",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Restoration",
+        "classes": ["Druid", "Cleric", "Sorcerer"],
+        "components": ["V", "S", "M"],
+        "icon": "0070_rekindle-icon.webp"
+      }
+    },
+    "0071_broadside_from_beyond": {
+      "key": "0071_broadside_from_beyond",
+      "description": "A spectral warship at full sail appears on the horizon and unleashes a barrage upon the battlefield.",
+      "name": "Broadside from Beyond",
+      "properties": {
+        "level": "6",
+        "school": "Conjuration",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Area Damage",
+        "classes": ["Bard", "Sorcerer", "Wizard"],
+        "components": ["V", "S"],
+        "icon": "0071_broadside_from_beyond-icon.webp"
       }
     }
   }
