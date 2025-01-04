@@ -20,7 +20,6 @@
           "Wizard",
           "Bard",
           "Warlock",
-          "Paladin",
           "Ranger"
         ],
         "components": [
@@ -68,7 +67,8 @@
         "spell_type": "Curse",
         "classes": [
           "Sorcerer",
-          "Warlock",
+          "Bard",
+		  "Warlock",
           "Druid",
           "Ranger"
         ],
@@ -120,7 +120,7 @@
           "Wizard",
           "Sorcerer",
           "Bard",
-          "Warlock"
+		  "Druid"
         ],
         "components": [
           "V",
@@ -418,9 +418,10 @@
         "spell_type": "Mobility",
         "classes": [
           "Druid",
-          "Sorcerer",
+          "Ranger",
           "Cleric",
-          "Paladin"
+          "Paladin", 
+		  "Sorcerer"
         ],
         "components": [
           "V",
@@ -456,7 +457,7 @@
     "0004_anchor_of_tragedy": {
       "key": "0004_anchor_of_tragedy",
       "description": "A distant ship’s bell sounds, ethereal chains rattle and a black iron anchor appears to drag its target to the depths of the sea.",
-      "name": "Anchor Of Tragedy",
+      "name": "Anchor of Tragedy",
       "properties": {
         "level": "2",
         "school": "Conjuration",
@@ -559,8 +560,11 @@
         "ritual": false,
         "spell_type": "Debuff",
         "classes": [
-          "Warlock",
-          "Sorcerer"
+          "Bard",
+		  "Druid",
+		  "Sorcerer",
+		  "Warlock"
+    
         ],
         "components": [
           "V",
@@ -645,7 +649,7 @@
         "ritual": false,
         "spell_type": "Immobilization",
         "classes": ["Druid", "Sorcer", "Warlock", "Wizard"],
-        "components": ["V S M"],
+        "components": ["V", "S", "M"],
         "icon": "0025_magma_prison-icon.webp"
       }
     },
@@ -660,7 +664,7 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "Utility",
-        "classes": ["Bard", "Cleric", "Druid", "Sorcerer", "Warlock", "Wizard"],
+        "classes": ["Bard", "Sorcerer", "Warlock", "Wizard"],
         "components": ["V S"],
         "icon": "0026_detonate-icon.webp"
       }
@@ -709,7 +713,7 @@
         "ritual": false,
         "spell_type": "Protection",
         "classes": ["Ranger", "Druid"],
-        "components": ["V S M"],
+        "components": ["V", "S", "M"],
         "icon": "0029_inner_heat-icon.webp"
 		  }
     },
@@ -757,7 +761,7 @@
         "ritual": false,
         "spell_type": "Summon",
         "classes": ["Bard","Druid","Ranger","Sorcerer","Warlock","Wizard"],
-        "components": ["V S M"],
+        "components": ["V", "S", "M"],
         "icon": "0032_profane_parrot-icon.webp"
 		  }
     },
@@ -789,7 +793,7 @@
         "ritual": false,
         "spell_type": "Area Effect",
         "classes": ["Bard","Ranger","Warlock", "Wizard"],
-        "components": ["V S M"],
+        "components": ["V", "S", "M"],
         "icon": "0034_slashers_shroud-icon.webp"
 		  }
     },
@@ -804,8 +808,8 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "Utility",
-        "classes": ["Bard","Cleric","Sorcerer","Warlock","Wizard","Ranger", "Druid"],
-        "components": ["V S M"],
+        "classes": ["Bard","Cleric","Warlock","Ranger","Druid"],
+        "components": ["V", "S", "M"],
         "icon": "0035_relive-icon.webp"
     
     }
@@ -819,10 +823,10 @@
         "school": "Divination",
         "casting_time": "Action",
         "concentration": false,
-        "ritual": false,
+        "ritual": true,
         "spell_type": "Utility",
-        "classes": ["Cleric", "Warlock", "Sorcerer", "Wizard"],
-        "components": ["V S M"],
+        "classes": ["Bard", "Cleric", "Warlock", "Sorcerer", "Wizard"],
+        "components": ["V", "S", "M"],
         "icon": "0036_numerology-icon.webp"
       }
     },
@@ -870,7 +874,7 @@
         "ritual": true,
         "spell_type": "Mobility",
         "classes": ["Bard", "Cleric", "Druid", "Ranger"],
-        "components": ["V S M"],
+        "components": ["V", "S", "M"],
         "icon": "0039_stormsong-icon.webp"
 		      }
     },
@@ -902,7 +906,7 @@
         "ritual": false,
         "spell_type": "Ranged Damage",
         "classes": ["Warlock", "Sorcerer", "Bard", "Wizard"],
-        "components": ["V S M"],
+        "components": ["V", "S", "M"],
         "icon": "0041_terrorbolt-icon.webp"
       }
     },
@@ -918,7 +922,7 @@
         "ritual": false,
         "spell_type": "Debuff",
         "classes": ["Warlock", "Sorcerer", "Bard", "Wizard"],
-        "components": ["V S M"],
+        "components": ["V", "S", "M"],
         "icon": "0042_thought_rot-icon.webp"
       }
     },
@@ -934,7 +938,7 @@
         "ritual": false,
         "spell_type": "Ranged Damage",
         "classes": ["Warlock", "Sorcerer", "Bard", "Cleric", "Wizard"],
-        "components": ["V S"],
+        "components": ["V", "S"],
         "icon": "0043_black_tears-icon.webp"
       }
     },
@@ -950,7 +954,7 @@
         "ritual": false,
         "spell_type": "Buff",
         "classes": ["Druid", "Ranger"],
-        "components": ["V S M"],
+        "components": ["V", "S", "M"],
         "icon": "0048_predatory_focus-icon.webp"
     }
     },
@@ -965,8 +969,8 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "Utility",
-        "classes": ["Warlock", "Sorcerer", "Ranger", "Druid", "Bard", "Cleric", "Wizard"],
-        "components": ["V S M"],
+        "classes": ["Warlock", "Sorcerer", "Ranger", "Druid", "Bard", "Cleric","Wizard"],
+        "components": ["V", "S", "M"],
         "icon": "0044_retrace-icon.webp"
       }
     },
@@ -982,7 +986,7 @@
         "ritual": false,
         "spell_type": "Immobilization",
         "classes": ["Ranger", "Druid", "Bard"],
-        "components": ["V S"],
+        "components": ["V", "S"],
         "icon": "0045_stumbleground-icon.webp"
     }
     },
@@ -998,7 +1002,7 @@
         "ritual": false,
         "spell_type": "Melee Damage",
         "classes": ["Paladin", "Cleric", "Bard", "Sorcerer", "Warlock"],
-        "components": ["V S"],
+        "components": ["V", "S"],
         "icon": "0046_fist_of_iron-icon.webp"
       }
     },
@@ -1014,7 +1018,7 @@
         "ritual": true,
         "spell_type": "Utility",
         "classes": ["Bard", "Wizard", "Ranger", "Sorcerer", "Warlock"],
-        "components": ["V S M"],
+        "components": ["V", "S", "M"],
         "icon": "0047_subtle_lure-icon.webp"
       }
     },
@@ -1062,7 +1066,7 @@
         "ritual": false,
         "spell_type": "Protection",
         "classes": ["Druid", "Ranger", "Sorcerer"],
-        "components": ["V S"],
+        "components": ["V", "S", "M"],
         "icon": "0051_predatory_adaption-icon.webp"
       }
     },
@@ -1077,7 +1081,7 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "Utility",
-        "classes": ["Bard", "Cleric", "Druid","Ranger", "Sorcerer", "Warlock", "Wizard"],
+        "classes": ["Bard", "Cleric", "Druid","Ranger", "Sorcerer", "Wizard"],
         "components": ["V S M"],
         "icon": "0052_sense_mood-icon.webp"
 	  }
@@ -1206,7 +1210,7 @@
         "ritual": false,
         "spell_type": "Mobility",
         "classes": ["Paladin"],
-        "components": ["V S M"],
+        "components": ["V", "S", "M"],
         "icon": "0000_paladin_pack_1_onwards-icon.webp"
       }
     },
@@ -1222,7 +1226,7 @@
         "ritual": true,
         "spell_type": "Protection",
         "classes": ["Paladin"],
-        "components": ["V S"],
+        "components": ["V", "S"],
         "icon": "0000_paladin_pack_1_raise_banner-icon.webp"
       }
     },
@@ -1238,7 +1242,7 @@
         "ritual": true,
         "spell_type": "Area Effect",
         "classes": ["Paladin"],
-        "components": ["V S M"],
+        "components": ["V", "S", "M"],
         "icon": "0000_paladin_pack_1_shieldwall-icon.webp"
       }
     },
@@ -1254,7 +1258,7 @@
         "ritual": false,
         "spell_type": "Protection",
         "classes": ["Paladin"],
-        "components": ["V S"],
+        "components": ["V", "S"],
         "icon": "0000_paladin_pack_1_shoulder_the_burden-icon.webp"
       }
     },
@@ -1318,7 +1322,7 @@
         "ritual": true,
         "spell_type": "Utility",
         "classes": ["Bard", "Cleric", "Druid", "Warlock", "Sorcerer", "Wizard"],
-        "components": ["V S M"],
+        "components": ["V", "S", "M"],
         "icon": "0056_out_of_place-icon.webp"
       }
     },
@@ -1350,7 +1354,7 @@
         "ritual": false,
         "spell_type": "Ranged Damage",
         "classes": ["Sorcerer", "Warlock", "Ranger", "Bard"],
-        "components": ["V S"],
+        "components": ["V", "S"],
         "icon": "0003_spiteful_harpoon-icon.webp"
       }
     },
@@ -1381,7 +1385,7 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "Protection",
-        "classes": ["Bard", "Druid", "Cleric", "Warlock", "Sorcerer", "Wizard"],
+        "classes": ["Bard", "Druid", "Warlock"],
         "components": ["V", "S", "M"],
         "icon": "0057_crystal_carapace-icon.webp"
       }
