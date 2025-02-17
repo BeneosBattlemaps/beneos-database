@@ -9956,6 +9956,45 @@
                                                             "nb_variants":  1
                                                         }
                                      },
+                    "192-alchemist":  {
+                                          "description":  " the alchemist showcases what\u0027s possible when you get creative with magic, a great centerpiece for a story revolving around the dangers of unchecked arcana.",
+                                          "name":  "Alchemist",
+                                          "properties":  {
+                                                             "biom":  [
+                                                                          "civilized",
+                                                                          "city",
+                                                                          "tavern",
+                                                                          "dungeon"
+                                                                      ],
+                                                             "cr":  "5",
+                                                             "fightingstyle":  [
+                                                                                   "tactical",
+                                                                                   "spellcasting"
+                                                                               ],
+                                                             "movement":  "walk",
+                                                             "purpose":  [
+                                                                             "ally",
+                                                                             "support"
+                                                                         ],
+                                                             "releaseurl":  "https://www.patreon.com/posts/122479668",
+                                                             "size":  "medium",
+                                                             "stat_ac":  13,
+                                                             "stat_cha":  11,
+                                                             "stat_con":  15,
+                                                             "stat_dex":  13,
+                                                             "stat_hp":  72,
+                                                             "stat_int":  18,
+                                                             "stat_str":  11,
+                                                             "stat_wis":  12,
+                                                             "thumbnail":  "192-alchemist-1-db.webp",
+                                                             "type":  [
+                                                                          "humanoid",
+                                                                          "human"
+                                                                      ],
+                                                             "videourl":  "https://youtu.be/sjkmyow0uzi",
+                                                             "nb_variants":  1
+                                                         }
+                                      },
                     "176-moray_drake":  {
                                             "description":  "Moray Drakes combine the most unpleasant aspects of two supremely dangerous creatures, both of which should be avoided for different reasons. These lesser dragons nest in coral reefs, coastal coves, and lush riverbanks, their territory easily recognizable due to accumulations of brightly coloured mucus and oozing globules, floating in the surrounding waters like bloated jellyfish. The gluttonous Drakes feed on anything that fits between their pharyngeal jaws, from fish and small marine mammals to humanoids unfortunate or foolish enough to venture into this creature\u0027s hunting grounds.",
                                             "name":  "Moray Drake",
