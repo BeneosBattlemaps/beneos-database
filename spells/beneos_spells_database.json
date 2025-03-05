@@ -1613,6 +1613,135 @@
         "components": ["V", "S"],
         "icon": "0071_broadside_from_beyond-icon.webp"
       }
+    },
+    "0072_campfire_tales": {
+      "key": "0072_campfire_tales",
+      "description": "Enchant a campfire to visualise the stories told around.",
+      "name": "Campfire Tales",
+      "properties": {
+        "level": "1",
+        "school": "Enchantment",
+        "casting_time": "Minute",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Utility",
+        "classes": ["Sorcerer", "Wizard"],
+        "components": ["V", "S","M"],
+        "icon": "0072_campfire_tales-icon.webp"
+      }
+    },
+    "0073_constructed_consciousness": {
+      "key": "0073_constructed_consciousness",
+      "description": "Simulate a creature’s personality to practice interrogations, explore memories, plan strategies, or seek emotional insight, making it useful for roleplay, storytelling, or personal reflection..",
+      "name": "Constructed Consciousness",
+      "properties": {
+        "level": "3",
+        "school": "Illusion",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Utility",
+        "classes": ["Sorcerer", "Wizard"],
+        "components": ["V", "S", "M"],
+        "icon": "0073_constructed_consciousness-icon.webp"
+      }
+    },
+    "0074_nightly_vigil": {
+      "key": "0074_nightly_vigil",
+      "description": "Summon a vigilant spectre, alerting you to enemies and giving you an edge in case of a nightly ambush.",
+      "name": "Nightly Vigil",
+      "properties": {
+        "level": "2",
+        "school": "Conjuration",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Protection",
+        "classes": ["Bard", "Cleric", "Sorcerer", "Wizard"],
+        "components": ["V", "S", "M"],
+        "icon": "0074_nightly_vigil-icon.webp"
+      }
+    },
+    "0075_dying_breath": {
+      "key": "0075_dying_breath",
+      "description": "Suffocate a creature while regaining life yourself.",
+      "name": "Dying Breath",
+      "properties": {
+        "level": "4",
+        "school": "Necromancy",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Immobilization",
+        "classes": ["Warlock", "Sorcerer", "Wizard"],
+        "components": ["V", "S", "M"],
+        "icon": "0075_dying_breath-icon.webp"
+       }
+    },
+    "0076_voice_voiceless": {
+      "key": "0075_voice_voiceless",
+      "description": "Commune with non-humanoids.",
+      "name": "Voice of the Voiceless",
+      "properties": {
+        "level": "3",
+        "school": "Divination",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Utility",
+        "classes": ["Bard", "Cleric", "Druid","Paladin","Ranger","Warlock"],
+        "components": ["V", "S"],
+        "icon": "0076_voice_voiceless-icon.webp"     
+		}
+    },
+    "0077_phantom_passenger": {
+      "key": "0076_phantom_passenger",
+      "description": "Possess a creature to have it unknowingly carry you with it.",
+      "name": "Phantom Passenger",
+      "properties": {
+        "level": "6",
+        "school": "Enchantment",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Utility",
+        "classes": ["Bard","Warlock", "Sorcerer", "Wizard"],
+        "components": ["V", "S"],
+        "icon": "0077_phantom_passenger-icon.webp"
+      }
+    },
+    "0078_oathbound_charge": {
+      "key": "0078_oathbound_charge",
+      "description": "Summon a ghostly knight to charge head-on into your enemies.",
+      "name": "Oathbound Charge",
+      "properties": {
+        "level": "3",
+        "school": "Conjuration",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Area Damage",
+        "classes": ["Paladin", "Cleric"],
+        "components": ["V", "S"],
+        "icon": "0078_oathbound_charge-icon.webp"
+		      }
+    },
+    "0079_raise_wall": {
+      "key": "0079_raise_wall",
+      "description": "Raise a single wall panel to block off parts of the battlefield or crush your enemies with it.",
+      "name": "Raise Wall",
+      "properties": {
+        "level": "3",
+        "school": "Transmutation",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Summon",
+        "classes": ["Bard", "Druid","Sorcerer", "Wizard"],
+        "components": ["V", "S", "M"],
+        "icon": "0079_raise_wall-icon.webp"
+      }
+      }
     }
   }
-}
+

@@ -885,10 +885,10 @@
             "icon": "0064_boreal_bulwark-icon.webp"
             }
         },
-        "0065_druskdreamers_diadem": {
-            "key": "0065_druskdreamers_diadem",
+        "0065_duskdreamers_diadem": {
+            "key": "0065_duskdreamers_diadem",
             "description": "An etheral diadem allowing you to regain a spell slot at dusk and enabling you to magically put a creature to sleep, healing or harming it.",
-            "name": "Druskdreamer's Diadem",
+            "name": "Duskdreamer's Diadem",
             "properties": {
             "rarity": "Rare",
             "attunement": true,
@@ -896,7 +896,7 @@
             "item_type": "Trinket",
             "tier": 2,
             "price": "3200",
-            "icon": "0065_druskdreamers_diadem-icon.webp"
+            "icon": "0065_duskdreamers_diadem-icon.webp"
             }
         },
         "0066_death_ink": {
@@ -1066,6 +1066,49 @@
             "price": "5200",
             "icon": "0077_windup_key-icon.webp"
             }
+        },
+        "0078_enslaver_stake": {
+            "key": "0078_enslaver_stake",
+            "description": "An unholy stake, used to temporarily animate a dead humanoid or beast under the user's control.",
+            "name": "Enslaver Stake",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": false,
+            "origin": "occult",
+            "item_type": "Consumable",
+            "tier": 1,
+            "price": "2600",
+            "icon": "0078_enslaver_stake-icon.webp"
+            }
+        },
+        "0079_martyrs_ash": {
+            "key": "0079_martyrs_ash",
+            "description": "Apply to your skin to gain various resistances and the ability to sacrifice your hit points to prevent failed death saves.",
+            "name": "Martyr's Ash",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": false,
+            "origin": "blessed",
+            "item_type": "Consumable",
+            "tier": 1,
+            "price": "2600",
+            "icon": "0079_martyrs_ash-icon.webp"
+            }
+        },
+        "0080_mind_tyrant": {
+            "key": "0080_mind_tyrant",
+            "description": "Buffs your spellcasting and enables you to psychically flay your enemies, causing them to suffer increased damage.",
+            "name": "Mind Tyrant",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "occult",
+            "item_type": "Spellfocus",
+            "tier": 2,
+            "price": "13700",
+            "icon": "0080_mind_tyrant-icon.webp"
+            }
+        }
+        
          }
        }
-     }
