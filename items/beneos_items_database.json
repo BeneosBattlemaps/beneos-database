@@ -1108,7 +1108,62 @@
             "price": "13700",
             "icon": "0080_mind_tyrant-icon.webp"
             }
-        }
-        
+        },
+        "0082_convergence_crest": {
+            "key": "0082_convergence_crest",
+            "description": "Cast spells of the same school in a specific sequence to achieve a powerful convergence",
+            "name": "Convergence Crest",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "arcane",
+            "item_type": "Melee Weapon",
+            "tier": 3,
+            "price": "37200",
+            "icon": "0082_convergence_crest-icon.webp"
+            }
+        },
+        "0083_ghostflicker_habit": {
+            "key": "0083_ghostflicker_habit",
+            "description": "Light Ghostflicker Candles to view the unseen and boost your spell save DC.",
+            "name": "Ghostflicker Habit",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": true,
+            "origin": "arcane",
+            "item_type": "Clothing",
+            "tier": 2,
+            "price": "5200",
+            "icon": "0083_ghostflicker_habit-icon.webp"
+            }
+        },
+        "0084_reefs_splendour": {
+            "key": "0084_reefs_splendour",
+            "description": "Grow ephemereal corals to increase your AC, grant temporary hit points and resistance to cold damage.",
+            "name": "Reef's Splendour",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": true,
+            "origin": "elemental",
+            "item_type": "Melee Weapon",
+            "tier": 2,
+            "price": "4750",
+            "icon": "0084_reefs_splendour-icon.webp"
+            }
+        },
+        "0085_shield_of_the_sepulchral_saint": {
+            "key": "0085_shield_of_the_sepulchral_saint",
+            "description": "Summon and elevate an undead creature to act as your lieutnant.",
+            "name": "Shield of the Sepulchral Saint",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": true,
+            "origin": "blessed",
+            "item_type": "Shield",
+            "tier": 2,
+            "price": "8200",
+            "icon": "0085_shield_of_the_sepulchral_saint-icon.webp"
+            }
          }
        }
+}

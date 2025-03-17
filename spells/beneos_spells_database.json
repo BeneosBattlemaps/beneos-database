@@ -1741,6 +1741,70 @@
         "components": ["V", "S", "M"],
         "icon": "0079_raise_wall-icon.webp"
       }
+	},
+	  "0080_nightfall": {
+      "key": "0080_nightfall",
+      "description": "Blot out the sun to strengthen creatures of the dark and weaken the light.",
+      "name": "Nightfall",
+      "properties": {
+        "level": "6",
+        "school": "Evocation",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Summon",
+        "classes": ["Cleric","Druid","Sorcerer","Wizard"],
+        "components": ["V", "S"],
+        "icon": "0080_nightfall-icon.webp"
+		     }
+	},
+	  "0081_haunt": {
+      "key": "0081_haunt",
+      "description": "Become a ghostly apparition to travel through walls, hide your presence and frighten enemies.",
+      "name": "Haunt",
+      "properties": {
+        "level": "5",
+        "school": "Necromancy",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Utility",
+        "classes": ["Warlock","Sorcerer", "Wizard"],
+        "components": ["V", "S"],
+        "icon": "0081_haunt-icon.webp"
+		     }
+	},
+	  "0082_oathbound_rout": {
+      "key": "0082_oathbound_rout",
+      "description": "Conjure a spectral knight, chasing down your enemies and smiting them with increasingly powerful attacks.",
+      "name": "Oathbound Rout",
+      "properties": {
+        "level": "5",
+        "school": "Conjuration",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Area Damage",
+        "classes": ["Paladin"],
+        "components": ["V", "S", "M"],
+        "icon": "0082_oathbound_rout-icon.webp"
+		     }
+	},
+	  "0083_elemental_echo": {
+      "key": "0083_elemental_echo",
+      "description": "Evoke elemental energy to damage a creature, shrouding your weapon into an elemental echo to deal more damage on its next hit.",
+      "name": "Elemental Echo",
+      "properties": {
+        "level": "0",
+        "school": "Evocation",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Melee Damage",
+        "classes": ["Warlock", "Druid","Sorcerer", "Wizard"],
+        "components": ["V", "S"],
+        "icon": "0083_elemental_echo-icon.webp"
+      }
       }
     }
   }
