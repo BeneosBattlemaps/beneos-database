@@ -1164,6 +1164,118 @@
             "price": "8200",
             "icon": "0085_shield_of_the_sepulchral_saint-icon.webp"
             }
+        },
+        "0086_gravelord_scepter": {
+            "key": "0086_gravelord_scepter",
+            "description": "Spellfocus boosting your necromancy spells, as well as buffing undead creatures under your control",
+            "name": "gravelord scepter",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "occult",
+            "item_type": "Equipment",
+            "tier": 3,
+            "price": "17500",
+            "icon": "0086_gravelord_scepter-icon.webp"
+            }
+        },
+        "0087_irontide_raidmask_1": {
+            "key": "0087_irontide_raidmask_1",
+            "description": "War-Masks granting you immunity to fear, however eventually forcing you to confront that fear.",
+            "name": "irontide raidmask 1",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": true,
+            "origin": "sanctified",
+            "item_type": "Medium Armor",
+            "tier": 2,
+            "price": "4600",
+            "icon": "0087_irontide_raidmask_1-icon.webp"
+            }
+        },
+        "0087_irontide_raidmask_2": {
+            "key": "0087_irontide_raidmask_2",
+            "description": "War-Masks granting you immunity to fear, however eventually forcing you to confront that fear.",
+            "name": "irontide raidmask 2",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": true,
+            "origin": "sanctified",
+            "item_type": "Medium Armor",
+            "tier": 2,
+            "price": "4600",
+            "icon": "0087_irontide_raidmask_2-icon.webp"
+            }
+        },
+        "0087_irontide_raidmask_3": {
+            "key": "0087_irontide_raidmask_3",
+            "description": "War-Masks granting you immunity to fear, however eventually forcing you to confront that fear.",
+            "name": "irontide raidmask 3",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": true,
+            "origin": "sanctified",
+            "item_type": "Medium Armor",
+            "tier": 2,
+            "price": "4600",
+            "icon": "0087_irontide_raidmask_3-icon.webp"
+            }
+        },
+        "0088_fluttershade_habit": {
+            "key": "0088_fluttershade_habit",
+            "description": "A comfortable hat, attracting moths and butterflies. Their whispers grant you access to more spells and can sooth your allies during a short rest.",
+            "name": "fluttershade habit",
+            "properties": {
+            "rarity": "Uncommon",
+            "attunement": true,
+            "origin": "feywoven",
+            "item_type": "Clothing",
+            "tier": 1,
+            "price": "1750",
+            "icon": "0088_fluttershade_habit-icon.webp"
+            }
+        },
+        "0089_staff_of_multiple_minds": {
+            "key": "0089_staff_of_multiple_minds",
+            "description": "Made to hunt enormous prey, this knife increases the chance to score critical hits and always deals maximal weapon damage against Huge and larger creatures.",
+            "name": "staff of multiple minds",
+            "properties": {
+            "rarity": "Uncommon",
+            "attunement": true,
+            "origin": "beastforged",
+            "item_type": "Melee Weapon",
+            "tier": 2,
+            "price": "3600",
+            "icon": "0089_staff_of_multiple_minds-icon.webp"
+            }
+        },
+        "0086_gravelord_scepter": {
+            "key": "0086_gravelord_scepter",
+            "description": "Spellfocus boosting your necromancy spells, as well as buffing undead creatures under your control",
+            "name": "gravelord scepter",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "occult",
+            "item_type": "Melee Weapon",
+            "tier": 3,
+            "price": "17500",
+            "icon": "0086_gravelord_scepter-icon.webp"
+            }
+        },
+        "0089_staff_of_multiple_minds": {
+            "key": "0089_staff_of_multiple_minds",
+            "description": "Made to hunt enormous prey, this knife increases the chance to score critical hits and always deals maximal weapon damage against Huge and larger creatures.",
+            "name": "staff of multiple minds",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "arcane",
+            "item_type": "Melee Weapon",
+            "tier": 3,
+            "price": "24700",
+            "icon": "0089_staff_of_multiple_minds-icon.webp"
+            }
          }
        }
-}
+     }
