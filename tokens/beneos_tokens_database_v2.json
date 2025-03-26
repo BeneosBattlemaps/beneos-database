@@ -4511,6 +4511,51 @@
                                                                "nb_variants":  1
                                                            }
                                         },
+                    "196-Orc_Chieftain":  {
+                                              "description":  "Chieftains seek out strong opponents to rip holes into the enemy formations by disposing of their leaders",
+                                              "name":  "Orc Chieftain",
+                                              "properties":  {
+                                                                 "biom":  [
+                                                                              "wilderness",
+                                                                              "dungeon",
+                                                                              "road",
+                                                                              "civilized",
+                                                                              "mountain",
+                                                                              "forest",
+                                                                              "castle",
+                                                                              "wasteland",
+                                                                              "city"
+                                                                          ],
+                                                                 "cr":  "7",
+                                                                 "fightingstyle":  [
+                                                                                       "melee",
+                                                                                       "pack"
+                                                                                   ],
+                                                                 "movement":  "walk",
+                                                                 "purpose":  [
+                                                                                 "duelist",
+                                                                                 "support",
+                                                                                 "leader"
+                                                                             ],
+                                                                 "releaseurl":  "https://www.patreon.com/c/beneostokens",
+                                                                 "size":  "medium",
+                                                                 "stat_ac":  18,
+                                                                 "stat_cha":  16,
+                                                                 "stat_con":  18,
+                                                                 "stat_dex":  12,
+                                                                 "stat_hp":  120,
+                                                                 "stat_int":  12,
+                                                                 "stat_str":  19,
+                                                                 "stat_wis":  14,
+                                                                 "thumbnail":  "196-orc_chieftain-1-db.webp",
+                                                                 "type":  [
+                                                                              "humanoid",
+                                                                              "orc"
+                                                                          ],
+                                                                 "videourl":  "https://youtu.be/ivlza_oof7a",
+                                                                 "nb_variants":  1
+                                                             }
+                                          },
                     "049-poisonfang":  {
                                            "description":  "Poison Fangs are the elite assassins of the various serpent cults infesting overgrown temple cities or infiltrating colonial societies. Promising candidates are singled out from their brood mates early on, undergoing harrowing psycho-indoctrination to increase their resistances to various poisons and toxins, hone their inherent hypnotic abilities and trigger the transformation into a even more snake-like being. Due to their unique talents they become excellent operatives, making Poison Fangs ideal tools for political assassinations, terror campaigns or insidious purges within the own ranks.",
                                            "name":  "Poisonfang",
