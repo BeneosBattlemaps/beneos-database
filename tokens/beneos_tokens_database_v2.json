@@ -544,7 +544,8 @@
             "name": "M.O.T.H.E.R. Base",
             "properties": {
                 "biom": [
-                    "road",
+          
+					"road",
                     "civilized",
                     "city",
                     "dungeon",
@@ -554,8 +555,8 @@
                     "forest",
                     "ocean",
                     "coast",
-                    "planar",
-                    "coastal"
+                    "planar"
+                   
                 ],
                 "cr": "20",
                 "fightingstyle": [
@@ -1099,6 +1100,7 @@
             "name": "Drusilla the Drowned",
             "properties": {
                 "biom": [
+				"aquatic",
                     "Ocean",
                     "Dungeon",
                     "Ship",
@@ -2431,6 +2433,7 @@
             "name": "Reef Keeper",
             "properties": {
                 "biom": [
+				"aquatic",
                     "ocean",
                     "Coast"
                 ],
@@ -3980,7 +3983,7 @@
                     "dungeon",
                     "planar",
                     "desert",
-                    "ocean"
+                    "underwater"
                 ],
                 "cr": "12",
                 "fightingstyle": [
@@ -4063,7 +4066,9 @@
                     "ocean",
                     "Coast",
                     "tropical",
-                    "tavern"
+                    "tavern",
+					"aquatic",
+					"underwater"
                 ],
                 "cr": "7",
                 "fightingstyle": [
@@ -5893,7 +5898,9 @@
                     "Coast",
                     "ocean",
                     "tropical",
-                    "jungle"
+                    "jungle",
+					"aquatic",
+					"underwater"
                 ],
                 "cr": "1",
                 "fightingstyle": [
@@ -6230,7 +6237,9 @@
                 "biom": [
                     "ocean",
                     "lair",
-                    "Coast"
+                    "Coast",
+					"aquatic",
+					"underwater"
                 ],
                 "cr": "14",
                 "fightingstyle": [
@@ -7998,7 +8007,9 @@
                     "Coastal",
                     "Ocean",
                     "Tavern",
-                    "Tropical"
+                    "Tropical",
+					"aquatic",
+					"underwater"
                 ],
                 "cr": "3",
                 "fightingstyle": [
@@ -8008,7 +8019,7 @@
                     "Walk"
                 ],
                 "purpose": [
-                    "Duellist",
+                    "Duelist",
                     "Minion"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/skeletal-93202698",
@@ -10888,7 +10899,7 @@
                     "melee"
                 ],
                 "movement": "walk",
-                "purpose": "duellist",
+                "purpose": "duelist",
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "largee",
                 "stat_ac": 20,
@@ -10906,7 +10917,7 @@
             }
         },
         "194-Knight_Unmounted": {
-            "description": "even removed from his steed, a knight boasts nearly unparalleled martial might, utilizing their heavy plate as an extension of their body, rather than a hindrance.",
+            "description": "Even removed from his steed, a knight boasts nearly unparalleled martial might, utilizing their heavy plate as an extension of their body, rather than a hindrance.",
             "name": "Knight Unmounted",
             "properties": {
                 "biom": [
@@ -10920,7 +10931,7 @@
                 "fightingstyle": "melee",
                 "movement": "walk",
                 "purpose": [
-                    "duellist",
+                    "duelist",
                     "tank"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
