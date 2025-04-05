@@ -544,8 +544,7 @@
             "name": "M.O.T.H.E.R. Base",
             "properties": {
                 "biom": [
-          
-					"road",
+                    "road",
                     "civilized",
                     "city",
                     "dungeon",
@@ -556,7 +555,6 @@
                     "ocean",
                     "coast",
                     "planar"
-                   
                 ],
                 "cr": "20",
                 "fightingstyle": [
@@ -1100,7 +1098,7 @@
             "name": "Drusilla the Drowned",
             "properties": {
                 "biom": [
-				"aquatic",
+                    "aquatic",
                     "Ocean",
                     "Dungeon",
                     "Ship",
@@ -2433,7 +2431,7 @@
             "name": "Reef Keeper",
             "properties": {
                 "biom": [
-				"aquatic",
+                    "aquatic",
                     "ocean",
                     "Coast"
                 ],
@@ -4067,8 +4065,8 @@
                     "Coast",
                     "tropical",
                     "tavern",
-					"aquatic",
-					"underwater"
+                    "aquatic",
+                    "underwater"
                 ],
                 "cr": "7",
                 "fightingstyle": [
@@ -5899,8 +5897,8 @@
                     "ocean",
                     "tropical",
                     "jungle",
-					"aquatic",
-					"underwater"
+                    "aquatic",
+                    "underwater"
                 ],
                 "cr": "1",
                 "fightingstyle": [
@@ -6238,8 +6236,8 @@
                     "ocean",
                     "lair",
                     "Coast",
-					"aquatic",
-					"underwater"
+                    "aquatic",
+                    "underwater"
                 ],
                 "cr": "14",
                 "fightingstyle": [
@@ -8008,8 +8006,8 @@
                     "Ocean",
                     "Tavern",
                     "Tropical",
-					"aquatic",
-					"underwater"
+                    "aquatic",
+                    "underwater"
                 ],
                 "cr": "3",
                 "fightingstyle": [
@@ -11034,6 +11032,84 @@
                 ],
                 "videourl": "https://youtu.be/ivlza_oof7a",
                 "nb_variants": 1
+            }
+        },
+        "197-soulgrasp_mirror": {
+            "description": "The Soulgrasp Mirror is a possessed construct capable trapping and imprisoning creatures.",
+            "name": "Soulgrasp Mirror",
+            "properties": {
+                "biom": [
+                    "civilized",
+                    "dungeon",
+                    "ruins",
+                    "graves",
+                    "castle",
+                    "lair",
+                    "horror"
+                ],
+                "cr": "3",
+                "fightingstyle": [
+                    "ambush",
+                    "swallow"
+                ],
+                "movement": "fly",
+                "purpose": "gimmick",
+                "releaseurl": "https://www.patreon.com/posts/197-soulgrasp-125973747",
+                "size": "medium",
+                "stat_ac": 16,
+                "stat_cha": 18,
+                "stat_con": 13,
+                "stat_dex": 14,
+                "stat_hp": 55,
+                "stat_int": 1,
+                "stat_str": 6,
+                "stat_wis": 3,
+                "thumbnail": "197-soulgrasp_mirror-1-db.webp",
+                "type": "construct",
+                "videourl": "https://youtu.be/90df8ngyn0s",
+                "nb_variants": 1
+            }
+        },
+        "198-Gnoll_Fleshtaker": {
+            "description": "Flesh-Takers ensure that every battle yields morsels of meat, which they collect and distribute strategically to maintain the horde's momentum.",
+            "name": "Gnoll Fleshtaker",
+            "properties": {
+                "biom": [
+                    "wilderness",
+                    "wastelands",
+                    "desert",
+                    "dungeon",
+                    "horror",
+                    "mountains",
+                    "caves",
+                    "ruins",
+                    "jungle",
+                    "forest"
+                ],
+                "cr": "2",
+                "fightingstyle": [
+                    "pack",
+                    "charge"
+                ],
+                "movement": "walk",
+                "purpose": "support",
+                "releaseurl": "https://www.patreon.com/c/beneostokens",
+                "size": "medium",
+                "stat_ac": 15,
+                "stat_cha": 7,
+                "stat_con": 14,
+                "stat_dex": 14,
+                "stat_hp": 44,
+                "stat_int": 7,
+                "stat_str": 15,
+                "stat_wis": 8,
+                "thumbnail": "198-gnoll_fleshtaker-1-db.webp",
+                "type": [
+                    "humanoid",
+                    "gnoll"
+                ],
+                "videourl": "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
+                "nb_variants": 2
             }
         }
     }
