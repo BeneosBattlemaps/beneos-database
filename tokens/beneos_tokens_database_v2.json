@@ -11072,7 +11072,7 @@
         },
         "198-Gnoll_Fleshtaker": {
             "description": "Flesh-Takers ensure that every battle yields morsels of meat, which they collect and distribute strategically to maintain the horde's momentum.",
-            "name": "Gnoll Fleshtaker",
+            "name": "Gnoll Flesh-Taker",
             "properties": {
                 "biom": [
                     "wilderness",
@@ -11092,7 +11092,7 @@
                     "charge"
                 ],
                 "movement": "walk",
-                "purpose": "support",
+                "purpose": "Support",
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "medium",
                 "stat_ac": 15,
