@@ -1248,6 +1248,62 @@
             "price": "24700",
             "icon": "0089_staff_of_multiple_minds-icon.webp"
             }
+        },
+        "0090_lightning_shrike": {
+            "key": "0090_lightning_shrike",
+            "description": "Move and strike like lightning.",
+            "name": "Lightning Shrike",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "elemental",
+            "item_type": "Melee Weapon",
+            "tier": 2,
+            "price": "3600",
+            "icon": "0090_lightning_shrike-icon.webp"
+            }
+        },
+        "0091_dark_promise": {
+            "key": "0091_dark_promise",
+            "description": "Should a creature triumph over you, rise again to haunt it.",
+            "name": "Dark Promise",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "occult",
+            "item_type": "Melee Weapon",
+            "tier": 3,
+            "price": "44800",
+            "icon": "0091_dark_promise-icon.webp"
+            }
+        },
+        "0092_rod_of_the_silent_saint": {
+            "key": "0092_rod_of_the_silent_saint",
+            "description": "Silently cast your spells and silence your enemies to prohibit them from using their voice or spells.",
+            "name": "Rod of the Silent Saint",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "blessed",
+            "item_type": "Trinket",
+            "tier": 3,
+            "price": "32000",
+            "icon": "0092_rod_of_the_silent_saint-icon.webp"
+            }
+        },
+        "0093_sunscorched_shield": {
+            "key": "0093_sunscorched_shield",
+            "description": "Grants resistance to fire damage, can be used to shield allies from fiery harm and to substitute a campfire.",
+            "name": "Sun-Scorched Shield",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": true,
+            "origin": "elemental",
+            "item_type": "Shield",
+            "tier": 2,
+            "price": "3800",
+            "icon": "0093_sunscorched_shield-icon.webp"
+            }
          }
        }
      }

@@ -1805,7 +1805,71 @@
         "components": ["V", "S"],
         "icon": "0083_elemental_echo-icon.webp"
       }
+    },
+    "0085_chosen_thrall": {
+      "key": "0085_chosen_thrall",
+      "description": "You elevate an undead you control to act as your lieutenant.",
+      "name": "Chosen Thrall",
+      "properties": {
+        "level": "3",
+        "school": "Necromancy",
+        "casting_time": "10 Minutes",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Buff",
+        "classes": ["Bard", "Cleric", "Druid", "Warlock", "Sorcerer", "Wizard"],
+        "components": ["V", "S"],
+        "icon": "0085_chosen_thrall-icon.webp"
+      }
+    },
+    "0086_pestilence": {
+      "key": "0086_pestilence",
+      "description": "Infect a creature with a disease that can spread to other creatures, damaging them over time.",
+      "name": "Pestilence",
+      "properties": {
+        "level": "2",
+        "school": "Necromancy",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Debuff",
+        "classes": ["Bard", "Cleric", "Druid", "Warlock", "Sorcerer", "Wizard"],
+        "components": ["V", "S"],
+        "icon": "0086_pestilence-icon.webp"
+      }
+    },
+    "0087_cloudwalk": {
+      "key": "0087_cloudwalk",
+      "description": "Conjure hovering, traversable clouds that vanish after stepping on them.",
+      "name": "Cloudwalk",
+      "properties": {
+        "level": "2",
+        "school": "Conjuration",
+        "casting_time": "Bonus Action",
+        "concentration": true,
+        "ritual": true,
+        "spell_type": "Mobility",
+        "classes": ["Druid", "Ranger"],
+        "components": ["V", "S", "M"],
+        "icon": "0087_cloudwalk-icon.webp"
+		      }
+    },
+    "0084_hold_heretic": {
+      "key": "0084_hold_heretic",
+      "description": "Bind a creature in red-hot chains, restraining it and dealing continuous fire damage.",
+      "name": "Hold Heretic",
+      "properties": {
+        "level": "4",
+        "school": "Conjuration",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": true,
+        "spell_type": "Immobilization",
+        "classes": ["Cleric", "Paladin"],
+        "components": ["V", "S", "M"],
+        "icon": "0084_hold_heretic-icon.webp"
+      }
       }
     }
-  }
-
+ 
+}

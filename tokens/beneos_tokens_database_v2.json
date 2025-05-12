@@ -11111,6 +11111,125 @@
                 "videourl": "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
                 "nb_variants": 2
             }
+        },
+        "199-ghostflicker_candelabra": {
+            "description": "The ghostflicker candelabra is a majestic animated chandelier dousing unsuspecting creatures with ethereal fire.",
+            "name": "Ghostflicker Candelabra",
+            "properties": {
+                "biom": [
+                    "civilized",
+                    "castle",
+                    "city",
+                    "dungeon",
+                    "sacral"
+                ],
+                "cr": "3",
+                "fightingstyle": "ambush",
+                "movement": "fly",
+                "purpose": "damage",
+                "releaseurl": "https://www.patreon.com/posts/126770917",
+                "size": "huge",
+                "stat_ac": 15,
+                "stat_cha": 16,
+                "stat_con": 13,
+                "stat_dex": 14,
+                "stat_hp": 57,
+                "stat_int": 1,
+                "stat_str": 13,
+                "stat_wis": 3,
+                "thumbnail": "199-ghostflicker_candelabra-1-db.webp",
+                "type": "construct",
+                "videourl": "https://youtu.be/lsk4_0desgs",
+                "nb_variants": 2
+            }
+        },
+        "200-City_Guard_Interrogator": {
+            "description": "The interrogators are a specialized unit within the city guard, tasked with hunting down and neutralizing rogue magic users.",
+            "name": "City Guard Interrogator",
+            "properties": {
+                "biom": [
+                    "civilized",
+                    "city",
+                    "road",
+                    "castle",
+                    "village",
+                    "tavern",
+                    "wilderness",
+                    "sacral",
+                    "dungeon"
+                ],
+                "cr": "5",
+                "fightingstyle": [
+                    "tactical",
+                    "pack"
+                ],
+                "movement": "walk",
+                "purpose": [
+                    "anti caster",
+                    "debuff",
+                    "hunter"
+                ],
+                "releaseurl": "https://www.patreon.com/posts/126957654",
+                "size": "medium",
+                "stat_ac": 17,
+                "stat_cha": 18,
+                "stat_con": 16,
+                "stat_dex": 14,
+                "stat_hp": 62,
+                "stat_int": 15,
+                "stat_str": 17,
+                "stat_wis": 16,
+                "thumbnail": "200-city_guard_interrogator-1-db.webp",
+                "type": [
+                    "humanoid",
+                    "human"
+                ],
+                "videourl": "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
+                "nb_variants": 2
+            }
+        },
+        "201-siege_troll": {
+            "description": "Siege trolls are bred to charge, breach and hold fast, able to defend a beachhead against overwhelming odds.",
+            "name": "Siege Troll",
+            "properties": {
+                "biom": [
+                    "castle",
+                    "wilderness",
+                    "dungeon",
+                    "road",
+                    "cave",
+                    "mountains",
+                    "wastelands"
+                ],
+                "cr": "9",
+                "fightingstyle": [
+                    "charge",
+                    "regeneration",
+                    "shock"
+                ],
+                "movement": "walk",
+                "purpose": [
+                    "tank",
+                    "damage"
+                ],
+                "releaseurl": "https://www.patreon.com/c/beneostokens",
+                "size": "huge",
+                "stat_ac": 17,
+                "stat_cha": 5,
+                "stat_con": 20,
+                "stat_dex": 10,
+                "stat_hp": 123,
+                "stat_int": 7,
+                "stat_str": 22,
+                "stat_wis": 6,
+                "thumbnail": "201-siege_troll-1-db.webp",
+                "type": [
+                    "giant",
+                    "troll"
+                ],
+                "videourl": "https://youtu.be/8tum_qhvhlw?si=txkrlyejr8zcpv5i",
+                "nb_variants": 4
+            }
         }
     }
 }
