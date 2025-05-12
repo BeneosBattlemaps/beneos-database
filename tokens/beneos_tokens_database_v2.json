@@ -11230,6 +11230,41 @@
                 "videourl": "https://youtu.be/8tum_qhvhlw?si=txkrlyejr8zcpv5i",
                 "nb_variants": 4
             }
+        },
+        "203-Yeti_Frostfiend": {
+            "description": "Frostfiends attack suddenly from the cover of storm-battered snow squalls, capable of tearing a seasoned adventurer limb from limb in a matter of seconds",
+            "name": "Yeti Frostfiend",
+            "properties": {
+                "biom": [
+                    "arctic",
+                    "mountain",
+                    "wilderness"
+                ],
+                "cr": "11",
+                "fightingstyle": [
+                    "demanding",
+                    "pressure"
+                ],
+                "movement": "walk",
+                "purpose": [
+                    "damage",
+                    "debuff"
+                ],
+                "releaseurl": "https://www.patreon.com/posts/128770222",
+                "size": "huge",
+                "stat_ac": 17,
+                "stat_cha": 6,
+                "stat_con": 24,
+                "stat_dex": 12,
+                "stat_hp": 167,
+                "stat_int": 6,
+                "stat_str": 22,
+                "stat_wis": 14,
+                "thumbnail": "203-yeti_frostfiend-1-db.webp",
+                "type": "monstrosity",
+                "videourl": "https://youtu.be/gsgklnrikzc",
+                "nb_variants": 1
+            }
         }
     }
 }
