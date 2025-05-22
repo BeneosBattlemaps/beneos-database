@@ -1305,7 +1305,7 @@
         },
         "000-month_20_slaveshade": {
             "description": "slaveshades serve shade tyrants, created by their dark masters from stolen shadows.",
-            "name": "Month 20 Slaveshade",
+            "name": "Slaveshade",
             "properties": {
                 "biom": [
                     "planar",
