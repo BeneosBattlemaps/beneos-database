@@ -1869,69 +1869,68 @@
         "components": ["V", "S", "M"],
         "icon": "0084_hold_heretic-icon.webp"
       }
-      }
     },
     "0088_glimpse": {
       "key": "0088_glimpse",
       "description": "You glimpse possible outcomes, allowing to take two reactions during the next round, including one that grants you advantage on a saving throw.",
-      "name": "glimpse",
+      "name": "Glimpse",
       "properties": {
         "level": "1",
         "school": "Divination",
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "false",
-        "classes": ["Paladin Cleric Druid Sorcerer Warlock Wizard"],
-        "components": ["V S"],
+        "spell_type": "Buff",
+        "classes": ["Paladin", "Cleric", "Druid", "Sorcerer", "Warlock", "Wizard"],
+        "components": ["V", "S"],
         "icon": "0088_glimpse-icon.webp"
       }
     },
     "0089_nebula_gate": {
       "key": "0089_nebula_gate",
       "description": "You conjure two swirling nebula portals that let you and your allies allies slip instantly from one to the other.",
-      "name": "nebula gate",
+      "name": "Nebula Gate",
       "properties": {
         "level": "3",
         "school": "Conjuration",
         "casting_time": "Action",
         "concentration": true,
-        "ritual": true,
-        "spell_type": "false",
-        "classes": ["Warlock Sorcerer Wizard"],
-        "components": ["V S"],
+        "ritual": false,
+        "spell_type": "Mobility",
+        "classes": ["Warlock", "Sorcerer", "Wizard"],
+        "components": ["V", "S"],
         "icon": "0089_nebula_gate-icon.webp"
       }
     },
     "0090_timestamp": {
       "key": "0090_timestamp",
       "description": "You tether yourself to a moment in time, ready to snap back to that precise point.",
-      "name": "timestamp",
+      "name": "Timestamp",
       "properties": {
         "level": "2",
         "school": "Abjuration",
         "casting_time": "Action",
         "concentration": true,
-        "ritual": true,
-        "spell_type": "false",
-        "classes": ["Bard Warlock Sorcerer Wizard"],
-        "components": ["V S"],
+        "ritual": false,
+        "spell_type": "Protection",
+        "classes": ["Bard", "Warlock", "Sorcerer", "Wizard"],
+        "components": ["V", "S"],
         "icon": "0090_timestamp-icon.webp"
       }
     },
     "0091_vanish": {
       "key": "0091_vanish",
       "description": "React to the outbreak of combat by turning invisible and possibly moving out of harms way.",
-      "name": "vanish",
+      "name": "Vanish",
       "properties": {
         "level": "2",
         "school": "Illusion",
         "casting_time": "Reaction",
         "concentration": true,
-        "ritual": true,
-        "spell_type": "false",
-        "classes": ["Bard Ranger Warlock Wizard Sorcerer"],
-        "components": ["V S"],
+        "ritual": false,
+        "spell_type": "Protection",
+        "classes": ["Bard", "Ranger", "Warlock", "Wizard", "Sorcerer"],
+        "components": ["V", "S"],
         "icon": "0091_vanish-icon.webp"
       }
     }
