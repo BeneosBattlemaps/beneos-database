@@ -12237,7 +12237,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "dragon"
+                    "dragon",
+                    "Metallic"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-SRD_Ancient_Gold_Dragon-1-db.webp"
@@ -12375,7 +12376,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "dragon"
+                    "dragon",
+                    "Metallic"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-SRD_Ancient_Silver_Dragon-1-db.webp"
@@ -13986,7 +13988,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "dragon"
+                    "dragon",
+                    "Metallic"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-SRD_Brass_Dragon_Wyrmling-1-db.webp"
@@ -14029,7 +14032,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "dragon"
+                    "dragon",
+                    "Metallic"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-SRD_Bronze_Dragon_Wyrmling-1-db.webp"
@@ -15312,7 +15316,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "dragon"
+                    "dragon",
+                    "Metallic"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-SRD_Copper_Dragon_Wyrmling-1-db.webp"
@@ -19065,7 +19070,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "dragon"
+                    "dragon",
+                    "Metallic"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-SRD_Gold_Dragon_Wyrmling-1-db.webp"
@@ -23140,11 +23146,11 @@
                     "urban"
                 ],
                 "fightingstyle": [
-                    "Melee"
+                    "mount",
+                    "simple"
                 ],
                 "purpose": [
-                    "Mount",
-					"simple"
+                    "Mount"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -23177,7 +23183,8 @@
                     "any"
                 ],
                 "fightingstyle": [
-                    "spellcasting"
+                    "spellcasting",
+                    "support"
                 ],
                 "purpose": [
                     "Support",
@@ -23222,7 +23229,9 @@
                 ],
                 "fightingstyle": [
                     "airborne",
-                    "melee"
+                    "ambush",
+                    "predator",
+                    "ally"
                 ],
                 "purpose": [
                     "Ally",
@@ -23262,9 +23271,10 @@
                 ],
                 "fightingstyle": [
                     "airborne",
-                    "melee"
+                    "predator"
                 ],
                 "purpose": [
+                    "Hunter",
                     "Simple"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -23301,11 +23311,12 @@
                 ],
                 "fightingstyle": [
                     "melee",
-                    "swallow"
+                    "gimmick",
+                    "tactical"
                 ],
                 "purpose": [
                     "Damage",
-					"lethal"
+                    "Gimmick"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -23340,7 +23351,7 @@
                 "fightingstyle": [
                     "ambush",
                     "spellcasting",
-                    "melee"
+                    "gimmick"
                 ],
                 "purpose": [
                     "Debuff",
@@ -23350,8 +23361,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fiend",
-                    "Demon",
-					"shapechanger"
+                    "Demon"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-SRD_Quasit-1-db.webp"
@@ -23379,11 +23389,11 @@
                     "Underwater"
                 ],
                 "fightingstyle": [
-                    "melee"
+                    "predator",
+                    "simple"
                 ],
                 "purpose": [
                     "Simple",
-					"Critter",
                     "Minion"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -23420,19 +23430,18 @@
                 "fightingstyle": [
                     "spellcasting",
                     "ambush",
-					"Tank"
+                    "gimmick",
+                    "lethal"
                 ],
                 "purpose": [
                     "Debuff",
-					"damage",
-                    "Anti Caster"
+                    "Hunter",
+                    "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "fiend",
-					"shapechanger"
-					
+                    "fiend"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-SRD_Rakshasa-1-db.webp"
@@ -23463,11 +23472,11 @@
                     "urban"
                 ],
                 "fightingstyle": [
-                    "simple"
+                    "simple",
+                    "pack"
                 ],
                 "purpose": [
-                    "Minion",
-					"critter"
+                    "Minion"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -23503,12 +23512,12 @@
                     "urban"
                 ],
                 "fightingstyle": [
-                    "Melee"
+                    "simple",
+                    "mobile"
                 ],
                 "purpose": [
-                    "Simple",
-					"minion",
-					"critter"
+                    "Support",
+                    "Simple"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -23547,10 +23556,12 @@
                 ],
                 "fightingstyle": [
                     "airborne",
-                    "melee"
+                    "predator",
+                    "lethal"
                 ],
                 "purpose": [
-                    "minion"
+                    "Hunter",
+                    "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -23584,10 +23595,12 @@
                     "underwater"
                 ],
                 "fightingstyle": [
-                    "Melee"
+                    "ambush",
+                    "predator"
                 ],
                 "purpose": [
-                    "simple"
+                    "Hunter",
+                    "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -23622,9 +23635,11 @@
                 ],
                 "fightingstyle": [
                     "melee",
+                    "charge",
                     "Area of Effect"
                 ],
                 "purpose": [
+                    "Hunter",
                     "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -23659,10 +23674,12 @@
                 ],
                 "fightingstyle": [
                     "charge",
-                    "melee"
+                    "melee",
+                    "predator"
                 ],
                 "purpose": [
-                    "simple"
+                    "Hunter",
+                    "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -23739,9 +23756,11 @@
                 ],
                 "fightingstyle": [
                     "airborne",
-                    "Melee"
+                    "charge",
+                    "predator"
                 ],
                 "purpose": [
+                    "Hunter",
                     "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -23776,7 +23795,10 @@
                     "underdark"
                 ],
                 "fightingstyle": [
-                    "ambush"
+                    "ambush",
+                    "predator",
+                    "tactical",
+                    "gimmick"
                 ],
                 "purpose": [
                     "Gimmick",
@@ -23848,6 +23870,8 @@
                     "underdark"
                 ],
                 "fightingstyle": [
+                    "ambush",
+                    "gimmick",
                     "melee"
                 ],
                 "purpose": [
@@ -23885,11 +23909,13 @@
                     "Mountain"
                 ],
                 "fightingstyle": [
+                    "charge",
+                    "predator",
                     "melee"
                 ],
                 "purpose": [
-                    "minion",
-					"simple"
+                    "Hunter",
+                    "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -23924,12 +23950,14 @@
                     "underwater"
                 ],
                 "fightingstyle": [
-                    "melee"
+                    "melee",
+                    "pack",
+                    "ambush"
                 ],
                 "purpose": [
+                    "Pressure",
                     "Minion",
-					"simple"
-
+                    "Hunter"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -23963,7 +23991,8 @@
                 ],
                 "fightingstyle": [
                     "mobile",
-                    "range"
+                    "range",
+                    "support"
                 ],
                 "purpose": [
                     "Vehicle"
@@ -24000,9 +24029,11 @@
                 ],
                 "fightingstyle": [
                     "melee",
-                    "Area of Effect"
+                    "Area of Effect",
+                    "predator"
                 ],
                 "purpose": [
+                    "Hunter",
                     "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -24037,7 +24068,9 @@
                     "planar"
                 ],
                 "fightingstyle": [
-                    "spellcasting"
+                    "spellcasting",
+                    "ambush",
+                    "mobile"
                 ],
                 "purpose": [
                     "Gimmick",
@@ -24074,11 +24107,13 @@
                     "desert"
                 ],
                 "fightingstyle": [
+                    "ambush",
+                    "predator",
                     "melee"
                 ],
                 "purpose": [
-                    "critter",
-					"simple"
+                    "Hunter",
+                    "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -24111,13 +24146,13 @@
                     "any"
                 ],
                 "fightingstyle": [
+                    "ambush",
                     "range",
-                    "mobile",
-					"melee"
+                    "mobile"
                 ],
                 "purpose": [
-                    "simple",
-					"minion"
+                    "Pressure",
+                    "Support"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -24152,8 +24187,10 @@
                     "underwater"
                 ],
                 "fightingstyle": [
-                    "spellcasting",
-                    "range"
+                    "ambush",
+                    "debuff",
+                    "lethal",
+                    "gimmick"
                 ],
                 "purpose": [
                     "Debuff",
@@ -24227,15 +24264,17 @@
                     "any"
                 ],
                 "fightingstyle": [
-                    "None"
+                    "ambush",
+                    "gimmick"
                 ],
                 "purpose": [
-                    "Item"
+                    "Gimmick",
+                    "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "Object"
+                    "custom"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-SRD_Secret_Chest-1-db.webp"
@@ -24265,11 +24304,14 @@
                     "urban"
                 ],
                 "fightingstyle": [
-                    "ambush"
+                    "ambush",
+                    "predator",
+                    "regeneration"
                 ],
                 "purpose": [
+                    "Shock",
                     "Debuff",
-					"simple"
+                    "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -24304,7 +24346,8 @@
                     "swamp"
                 ],
                 "fightingstyle": [
-                    "swallow",
+                    "gimmick",
+                    "regeneration",
                     "melee"
                 ],
                 "purpose": [
@@ -24342,7 +24385,8 @@
                     "urban"
                 ],
                 "fightingstyle": [
-                    "tank"
+                    "tank",
+                    "bodyguard"
                 ],
                 "purpose": [
                     "Bodyguard",
@@ -24379,11 +24423,11 @@
                     "underdark"
                 ],
                 "fightingstyle": [
-                    "gimmick"
+                    "gimmick",
+                    "simple"
                 ],
                 "purpose": [
-                    "minion",
-					"simple"
+                    "Gimmick"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -24421,16 +24465,19 @@
                 ],
                 "fightingstyle": [
                     "airborne",
-                    "Melee",
-                    "Area of Effect"
+                    "predator",
+                    "Area of Effect",
+                    "lethal"
                 ],
                 "purpose": [
-                    "minion"
+                    "Hunter",
+                    "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "dragon"
+                    "dragon",
+                    "Metallic"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-SRD_Silver_Dragon_Wyrmling-1-db.webp"
@@ -24464,8 +24511,7 @@
                     "melee"
                 ],
                 "purpose": [
-                    "Minion",
-					"simple"
+                    "Minion"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -24504,6 +24550,7 @@
                     "gimmick"
                 ],
                 "purpose": [
+                    "Gimmick",
                     "Minion"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -24541,8 +24588,7 @@
                     "simple"
                 ],
                 "purpose": [
-                    "Minion",
-					"spell effect"
+                    "Minion"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -24619,12 +24665,13 @@
                     "urban"
                 ],
                 "fightingstyle": [
-                    "melee"
+                    "ambush",
+                    "gimmick",
+                    "lethal"
                 ],
                 "purpose": [
                     "Debuff",
-                    "Damage",
-					"simple"
+                    "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -24660,14 +24707,14 @@
                 ],
                 "fightingstyle": [
                     "spellcasting",
-                    "mobile",
+                    "tactical",
                     "melee",
                     "legendary"
                 ],
                 "purpose": [
                     "Boss",
                     "Debuff",
-					"damage"
+                    "Support"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -24705,12 +24752,11 @@
                     "melee",
                     "spellcasting",
                     "legendary",
-                    "demanding"
+                    "tactical"
                 ],
                 "purpose": [
                     "Boss",
-					"damage",
-					"debuff"
+                    "Leader"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -24745,10 +24791,15 @@
                     "planar"
                 ],
                 "fightingstyle": [
-                    "Melee"
+                    "spellcasting",
+                    "ambush",
+                    "legendary",
+                    "tactical"
                 ],
                 "purpose": [
-                    "Ally",
+                    "Boss",
+                    "Legendary",
+                    "Debuff",
                     "Support"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -24787,7 +24838,8 @@
                     "urban"
                 ],
                 "fightingstyle": [
-                    "melee"
+                    "ambush",
+                    "simple"
                 ],
                 "purpose": [
                     "Simple"
@@ -24824,11 +24876,12 @@
                 ],
                 "fightingstyle": [
                     "spellcasting",
-                    "melee",
-                    "range"
+                    "ambush",
+                    "tactical"
                 ],
                 "purpose": [
                     "Boss",
+                    "Debuff",
                     "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -24862,11 +24915,13 @@
                     "any"
                 ],
                 "fightingstyle": [
-                    "melee"
+                    "spellcasting",
+                    "range",
+                    "interactive"
                 ],
                 "purpose": [
                     "Support",
-					"spell effect"
+                    "Anti Caster"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -24902,11 +24957,13 @@
                 ],
                 "fightingstyle": [
                     "range",
-                    "ambush"
+                    "spellcasting",
+                    "ambush",
+                    "mobile"
                 ],
                 "purpose": [
-                    "simple",
-					"minion"
+                    "Debuff",
+                    "Support"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -24940,10 +24997,12 @@
                     "any"
                 ],
                 "fightingstyle": [
-                    "Melee"
+                    "ambush",
+                    "tactical"
                 ],
                 "purpose": [
-                    "simple"
+                    "Gimmick",
+                    "Pressure"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -24978,11 +25037,12 @@
                 ],
                 "fightingstyle": [
                     "range",
+                    "ambush",
                     "Area of Effect"
                 ],
                 "purpose": [
-                    "Damage",
-					"minion"
+                    "Gimmick",
+                    "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -25023,10 +25083,13 @@
                     "urban"
                 ],
                 "fightingstyle": [
-                    "simple"
+                    "simple",
+                    "pack",
+                    "predator"
                 ],
                 "purpose": [
-                    "Minion"
+                    "Minion",
+                    "Pressure"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -25137,7 +25200,7 @@
                 "biom": [
                     "SRD",
                     "coast",
-                    "mountain"
+                    "underwater"
                 ],
                 "fightingstyle": [
                     "range",
@@ -25182,10 +25245,12 @@
                 ],
                 "fightingstyle": [
                     "spellcasting",
-                    "ambush"
+                    "ambush",
+                    "gimmick"
                 ],
                 "purpose": [
-                    "Debuff"
+                    "Debuff",
+                    "Hunter"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -25222,11 +25287,12 @@
                     "urban"
                 ],
                 "fightingstyle": [
-                    "Melee"
+                    "pack",
+                    "simple"
                 ],
                 "purpose": [
-                    "simple",
-                    "Minion"
+                    "Minion",
+                    "Pressure"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -25261,11 +25327,12 @@
                     "Underdark"
                 ],
                 "fightingstyle": [
-                    "Melee"
+                    "pack",
+                    "simple"
                 ],
                 "purpose": [
-                    "simple",
-                    "Minion"
+                    "Minion",
+                    "Pressure"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -25299,11 +25366,12 @@
                     "Underdark"
                 ],
                 "fightingstyle": [
-                    "Melee"
+                    "pack",
+                    "predator"
                 ],
                 "purpose": [
-                    "simple",
-                    "Minion"
+                    "Minion",
+                    "Pressure"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -25337,11 +25405,13 @@
                     "any"
                 ],
                 "fightingstyle": [
-                    "Melee"
+                    "pack",
+                    "gimmick",
+                    "melee"
                 ],
                 "purpose": [
-                    "simple",
-                    "Minion"
+                    "Minion",
+                    "Pressure"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -25380,11 +25450,12 @@
                     "underwater"
                 ],
                 "fightingstyle": [
-                    "Melee"
+                    "pack",
+                    "simple"
                 ],
                 "purpose": [
-                    "simple",
-                    "Minion"
+                    "Minion",
+                    "Pressure"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -25418,11 +25489,12 @@
                     "underwater"
                 ],
                 "fightingstyle": [
-                    "Melee"
+                    "pack",
+                    "predator"
                 ],
                 "purpose": [
-                    "simple",
-                    "Minion"
+                    "Minion",
+                    "Pressure"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -25455,11 +25527,12 @@
                     "Underwater"
                 ],
                 "fightingstyle": [
-                    "Melee"
+                    "pack",
+                    "predator"
                 ],
                 "purpose": [
-                    "simple",
-                    "Minion"
+                    "Minion",
+                    "Pressure"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -25495,11 +25568,12 @@
                     "urban"
                 ],
                 "fightingstyle": [
-                    "Melee"
+                    "pack",
+                    "simple"
                 ],
                 "purpose": [
-                    "simple",
-                    "Minion"
+                    "Minion",
+                    "Pressure"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -25534,11 +25608,13 @@
                     "swamp"
                 ],
                 "fightingstyle": [
-                    "Melee"
+                    "pack",
+                    "predator",
+                    "mobile"
                 ],
                 "purpose": [
-                    "simple",
-                    "Minion"
+                    "Minion",
+                    "Pressure"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -25572,11 +25648,12 @@
                     "Underdark"
                 ],
                 "fightingstyle": [
-                    "Melee"
+                    "pack",
+                    "damage"
                 ],
                 "purpose": [
-                    "simple",
-                    "Minion"
+                    "Minion",
+                    "Pressure"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -25615,11 +25692,12 @@
                     "swamp"
                 ],
                 "fightingstyle": [
-                    "Melee"
+                    "pack",
+                    "predator"
                 ],
                 "purpose": [
-                    "simple",
-                    "Minion"
+                    "Minion",
+                    "Pressure"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -25653,10 +25731,12 @@
                     "Underdark"
                 ],
                 "fightingstyle": [
-                    "Melee"
+                    "pack",
+                    "predator",
+                    "mobile"
                 ],
                 "purpose": [
-                    "simple",
+                    "Pressure",
                     "Minion"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -25694,7 +25774,6 @@
                 "fightingstyle": [
                     "tank",
                     "melee",
-					"swallow",
                     "legendary"
                 ],
                 "purpose": [
@@ -25734,11 +25813,12 @@
                     "any"
                 ],
                 "fightingstyle": [
-                    "melee"
+                    "melee",
+                    "predator"
                 ],
                 "purpose": [
-                    "simple",
-					"minion"
+                    "Pressure",
+                    "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -25772,10 +25852,13 @@
                     "grassland"
                 ],
                 "fightingstyle": [
-                    "Melee"
+                    "ambush",
+                    "predator",
+                    "lethal"
                 ],
                 "purpose": [
-                    "simple"
+                    "Hunter",
+                    "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -25813,7 +25896,7 @@
                 ],
                 "purpose": [
                     "Minion",
-                    "simple"
+                    "Pressure"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -25846,11 +25929,12 @@
                     "any"
                 ],
                 "fightingstyle": [
-                    "melee",
-					"pack"
+                    "tank",
+                    "melee"
                 ],
                 "purpose": [
-                    "simple"
+                    "Pressure",
+                    "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -25883,13 +25967,13 @@
                     "any"
                 ],
                 "fightingstyle": [
-					"pack",
-					"melee",
-					"range",
+                    "boss",
+                    "tank",
                     "damage"
                 ],
                 "purpose": [
-                    "simple"
+                    "Boss",
+                    "Tank"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -25923,12 +26007,12 @@
                 ],
                 "fightingstyle": [
                     "melee",
-                    "range"
+                    "support",
+                    "tactical"
                 ],
                 "purpose": [
                     "Support",
-                    "Tank",
-					"siege"
+                    "Tank"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -25962,10 +26046,13 @@
                 ],
                 "fightingstyle": [
                     "pack",
-                    "melee"
+                    "melee",
+                    "predator",
+                    "tactical"
                 ],
                 "purpose": [
-                    "simple"
+                    "Pressure",
+                    "Hunter"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -26003,6 +26090,7 @@
                     "tank"
                 ],
                 "purpose": [
+                    "Hunter",
                     "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -26045,6 +26133,7 @@
                     "regeneration"
                 ],
                 "purpose": [
+                    "Hunter",
                     "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -26089,7 +26178,6 @@
                 ],
                 "purpose": [
                     "Gimmick",
-					"simple",
                     "Minion"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -26128,6 +26216,7 @@
                     "predator"
                 ],
                 "purpose": [
+                    "Hunter",
                     "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -26200,10 +26289,11 @@
                     "any"
                 ],
                 "fightingstyle": [
+                    "simple",
                     "support"
                 ],
                 "purpose": [
-                    "minion"
+                    "Support"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -26235,22 +26325,22 @@
                 ],
                 "biom": [
                     "SRD",
+                    "underdark",
                     "urban"
                 ],
                 "fightingstyle": [
-                    "melee",
-					"gimmick",
-                    "regeneration"
+                    "ambush",
+                    "regeneration",
+                    "predator"
                 ],
                 "purpose": [
-                    "debuff",
+                    "Hunter",
                     "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "undead",
-					"shapechanger"
+                    "undead"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-SRD_Vampire-1-db.webp"
@@ -26276,14 +26366,16 @@
                 ],
                 "biom": [
                     "SRD",
+                    "underdark",
                     "urban"
                 ],
                 "fightingstyle": [
+                    "ambush",
                     "gimmick"
                 ],
                 "purpose": [
                     "Minion",
-                    "debuff"
+                    "Pressure"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -26313,10 +26405,12 @@
                 ],
                 "biom": [
                     "SRD",
+                    "underdark",
                     "urban"
                 ],
                 "fightingstyle": [
-                    "ambush"
+                    "ambush",
+                    "predator"
                 ],
                 "purpose": [
                     "Hunter",
@@ -26359,10 +26453,12 @@
                     "swamp"
                 ],
                 "fightingstyle": [
-                    "Melee"
+                    "ambush",
+                    "predator"
                 ],
                 "purpose": [
-					"simple"
+                    "Hunter",
+                    "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -26395,10 +26491,12 @@
                     "underdark"
                 ],
                 "fightingstyle": [
-                    "melee"
+                    "gimmick",
+                    "debuff"
                 ],
                 "purpose": [
-                    "simple"
+                    "Debuff",
+                    "Pressure"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -26433,7 +26531,8 @@
                 ],
                 "fightingstyle": [
                     "airborne",
-                    "Area of Effect"
+                    "Area of Effect",
+                    "predator"
                 ],
                 "purpose": [
                     "Debuff",
@@ -26473,9 +26572,11 @@
                     "hill"
                 ],
                 "fightingstyle": [
-                    "airborne"
+                    "airborne",
+                    "predator"
                 ],
                 "purpose": [
+                    "Hunter",
                     "Simple"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -26514,8 +26615,7 @@
                     "charge"
                 ],
                 "purpose": [
-                    "Mount",
-					"simple"
+                    "Mount"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -26553,8 +26653,7 @@
                     "mount"
                 ],
                 "purpose": [
-                    "Mount",
-					"simple"
+                    "Mount"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -26587,11 +26686,13 @@
                     "any"
                 ],
                 "fightingstyle": [
-                    "melee"
+                    "melee",
+                    "tactical",
+                    "support"
                 ],
                 "purpose": [
-                    "minion",
-					"simple"
+                    "Pressure",
+                    "Support"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -26625,11 +26726,12 @@
                 ],
                 "fightingstyle": [
                     "melee",
-					"range"
+                    "leader",
+                    "tactical"
                 ],
                 "purpose": [
-                    "damage",
-					"simple"
+                    "Leader",
+                    "Support"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -26701,10 +26803,13 @@
                     "underwater"
                 ],
                 "fightingstyle": [
-                    "Area of Effect"
+                    "Area of Effect",
+                    "tank",
+                    "mobile"
                 ],
                 "purpose": [
-                    "damage"
+                    "Tank",
+                    "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -26740,11 +26845,12 @@
                     "hill"
                 ],
                 "fightingstyle": [
+                    "ambush",
+                    "predator",
                     "simple"
                 ],
                 "purpose": [
-                    "critter",
-					"simple"
+                    "Hunter"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -26779,9 +26885,11 @@
                     "hill"
                 ],
                 "fightingstyle": [
-                    "melee"
+                    "melee",
+                    "predator"
                 ],
                 "purpose": [
+                    "Hunter",
                     "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -26819,9 +26927,11 @@
                 ],
                 "fightingstyle": [
                     "melee",
+                    "regeneration",
                     "charge"
                 ],
                 "purpose": [
+                    "Hunter",
                     "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -26858,9 +26968,12 @@
                     "urban"
                 ],
                 "fightingstyle": [
-                    "melee"
+                    "ambush",
+                    "melee",
+                    "predator"
                 ],
                 "purpose": [
+                    "Hunter",
                     "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -26897,9 +27010,11 @@
                     "grassland"
                 ],
                 "fightingstyle": [
-                    "melee"
+                    "melee",
+                    "predator"
                 ],
                 "purpose": [
+                    "Hunter",
                     "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -26935,14 +27050,18 @@
                     "hill"
                 ],
                 "fightingstyle": [
-                    "melee"
+                    "melee",
+                    "predator",
+                    "ambush"
                 ],
                 "purpose": [
+                    "Hunter",
                     "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
+                    "(lycanthrope)",
                     "Lycanthrope"
                 ],
                 "nb_variants": 1,
@@ -27018,9 +27137,11 @@
                     "urban"
                 ],
                 "fightingstyle": [
-                    "melee"
+                    "melee",
+                    "ambush"
                 ],
                 "purpose": [
+                    "Minion",
                     "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -27057,6 +27178,7 @@
                     "urban"
                 ],
                 "fightingstyle": [
+                    "ambush",
                     "gimmick",
                     "range"
                 ],
@@ -27096,9 +27218,11 @@
                 ],
                 "fightingstyle": [
                     "pack",
-                    "predator"
+                    "predator",
+                    "ambush"
                 ],
                 "purpose": [
+                    "Hunter",
                     "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -27134,10 +27258,12 @@
                 ],
                 "fightingstyle": [
                     "pack",
+                    "predator",
                     "melee"
                 ],
                 "purpose": [
-                    "simple"
+                    "Pressure",
+                    "Hunter"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -27174,7 +27300,8 @@
                 ],
                 "fightingstyle": [
                     "melee",
-                    "pack"
+                    "pack",
+                    "predator"
                 ],
                 "purpose": [
                     "Hunter",
@@ -27214,7 +27341,8 @@
                 ],
                 "fightingstyle": [
                     "ambush",
-                    "gimmick"
+                    "gimmick",
+                    "lethal"
                 ],
                 "purpose": [
                     "Debuff",
@@ -27254,7 +27382,8 @@
                 ],
                 "fightingstyle": [
                     "airborne",
-                    "predator"
+                    "predator",
+                    "charge"
                 ],
                 "purpose": [
                     "Hunter",
@@ -27431,7 +27560,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "dragon"
+                    "dragon",
+                    "Metallic"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-SRD_Young_Brass_Dragon-1-db.webp"
@@ -27465,6 +27595,7 @@
                 "fightingstyle": [
                     "airborne",
                     "predator",
+                    "charge",
                     "spellcasting"
                 ],
                 "purpose": [
@@ -27474,7 +27605,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "dragon"
+                    "dragon",
+                    "Metallic"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-SRD_Young_Bronze_Dragon-1-db.webp"
@@ -27507,7 +27639,8 @@
                 ],
                 "fightingstyle": [
                     "airborne",
-                    "spellcasting"
+                    "spellcasting",
+                    "duelist"
                 ],
                 "purpose": [
                     "Hunter",
@@ -27516,7 +27649,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "dragon"
+                    "dragon",
+                    "Metallic"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-SRD_Young_Copper_Dragon-1-db.webp"
@@ -27564,7 +27698,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "dragon"
+                    "dragon",
+                    "Metallic"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-SRD_Young_Gold_Dragon-1-db.webp"
@@ -27640,6 +27775,7 @@
                 ],
                 "fightingstyle": [
                     "airborne",
+                    "charge",
                     "predator",
                     "lethal"
                 ],
@@ -27696,7 +27832,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "dragon"
+                    "dragon",
+                    "Metallic"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-SRD_Young_Silver_Dragon-1-db.webp"
@@ -27769,11 +27906,12 @@
                     "urban"
                 ],
                 "fightingstyle": [
-                    "melee"
+                    "melee",
+                    "tank"
                 ],
                 "purpose": [
                     "Minion",
-					"simple"
+                    "Pressure"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
