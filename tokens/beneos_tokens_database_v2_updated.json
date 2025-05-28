@@ -4,8 +4,8 @@
             "name": "Melee",
             "description": "This creature excels at close combat and has limited or no ranged combat capabilities."
         },
-        "range": {
-            "name": "range",
+        "ranged": {
+            "name": "Ranged",
             "description": "This creature attacks from afar and has limited or no Melee combat capabilities."
         },
         "ambush": {
@@ -60,8 +60,8 @@
             "name": "Lethal",
             "description": "This creature is more than capable of actually killing a player character."
         },
-        "Area of Effect": {
-            "name": "Area of Effect",
+        "aoe": {
+            "name": "AoE",
             "description": "This creature heavily utilizes >Area Of Effect< damage. "
         },
         "interactive": {
@@ -189,7 +189,7 @@
                     "dungeon",
                     "lair",
                     "grave",
-                    "ruins",
+                    "ruin",
                     "horror",
                     "Wilderness",
                     "forest",
@@ -238,13 +238,13 @@
                 "biom": [
                     "Dungeon",
                     "City",
-                    "ruins",
-                    "Civilization"
+                    "Ruins",
+                    "Civilized"
                 ],
                 "cr": "0.5",
                 "fightingstyle": [
                     "Pack",
-                    "ambush"
+                    "Ambusher"
                 ],
                 "movement": [
                     "Walk"
@@ -282,7 +282,7 @@
                     "wasteland",
                     "desert",
                     "Mountain",
-                    "Civilization",
+                    "Civilized",
                     "City"
                 ],
                 "cr": "3",
@@ -327,7 +327,7 @@
                     "Road",
                     "Forest",
                     "Desert",
-                    "wasteland",
+                    "Wasteland",
                     "Swamp"
                 ],
                 "cr": "7",
@@ -370,7 +370,7 @@
                     "grave",
                     "horror",
                     "forest",
-                    "Civilization",
+                    "Civilized",
                     "infernal",
                     "road",
                     "Wilderness"
@@ -416,12 +416,12 @@
                     "dungeon",
                     "infernal",
                     "City",
-                    "Civilization",
+                    "Civilized",
                     "lair",
                     "planar",
                     "underground",
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "horror"
                 ],
                 "cr": "9",
@@ -505,9 +505,9 @@
                 "biom": [
                     "Wilderness",
                     "Road",
-                    "mountain",
-                    "wasteland",
-                    "Civilization"
+                    "Mountains",
+                    "Wasteland",
+                    "Civilized"
                 ],
                 "cr": "5",
                 "fightingstyle": [
@@ -578,7 +578,7 @@
             "name": "Faceless",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "ruin",
                     "dungeon",
                     "planar",
                     "horror",
@@ -620,7 +620,7 @@
             "name": "Wintergrim",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "ruin",
                     "dungeon",
                     "planar",
                     "Wilderness",
@@ -669,7 +669,7 @@
                     "dungeon",
                     "wilderness",
                     "city",
-                    "Civilization",
+                    "civilization",
                     "road",
                     "swamp",
                     "grave",
@@ -712,7 +712,7 @@
             "name": "Sharakhul",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "ruin",
                     "dungeon",
                     "lair",
                     "horror",
@@ -757,9 +757,9 @@
             "name": "Goblin Rabble Rouser",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "ruin",
                     "dungeon",
-                    "Civilization",
+                    "Civilized",
                     "City",
                     "lair",
                     "Wilderness",
@@ -810,7 +810,7 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "Wilderness",
                     "desert",
                     "Mountain",
@@ -896,7 +896,7 @@
             "name": "Sky Shark",
             "properties": {
                 "biom": [
-                    "coast",
+                    "Coastal",
                     "Ocean",
                     "Planar"
                 ],
@@ -979,7 +979,7 @@
             "properties": {
                 "biom": [
                     "City",
-                    "Civilization",
+                    "Civilized",
                     "tavern",
                     "road"
                 ],
@@ -1021,7 +1021,7 @@
                 "biom": [
                     "road",
                     "city",
-                    "Civilization",
+                    "civilization",
                     "tavern"
                 ],
                 "cr": "5",
@@ -1060,13 +1060,13 @@
             "properties": {
                 "biom": [
                     "road",
-                    "Civilization",
+                    "civilization",
                     "city",
                     "dungeon",
                     "grave",
                     "wilderness",
                     "horror",
-                    "ruins",
+                    "ruin",
                     "forest"
                 ],
                 "cr": "2",
@@ -1110,13 +1110,13 @@
                     "Dungeon",
                     "Road",
                     "River",
-                    "wasteland",
+                    "Wasteland",
                     "Coast",
                     "Desert",
                     "Jungle",
                     "Swamp",
                     "Arctic",
-                    "mountain",
+                    "Mountains",
                     "Cave"
                 ],
                 "cr": "1",
@@ -1154,10 +1154,10 @@
             "properties": {
                 "biom": [
                     "Road",
-                    "wasteland",
+                    "Wastelands",
                     "Forest",
                     "Swamp",
-                    "grave",
+                    "Graves",
                     "Horror"
                 ],
                 "cr": "5",
@@ -1200,7 +1200,7 @@
                     "Sacral",
                     "Tavern",
                     "Wilderness",
-                    "Civilization"
+                    "Civilized"
                 ],
                 "cr": "3",
                 "fightingstyle": [
@@ -1239,15 +1239,15 @@
                 "biom": [
                     "City",
                     "Dungeon",
-                    "Civilization",
+                    "Civilized",
                     "Castle",
                     "Road",
                     "Wilderness"
                 ],
                 "cr": "5",
                 "fightingstyle": [
-                    "range",
-                    "Area of Effect"
+                    "Ranged",
+                    "AoE"
                 ],
                 "movement": [
                     "Walk"
@@ -1282,7 +1282,7 @@
                 "biom": [
                     "Sacral",
                     "City",
-                    "Civilization"
+                    "Civilized"
                 ],
                 "cr": "5",
                 "fightingstyle": [
@@ -1294,7 +1294,7 @@
                     "walk"
                 ],
                 "purpose": [
-                    "Anti Caster",
+                    "anti caster",
                     "hunter"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/special-creature-51753582",
@@ -1322,7 +1322,7 @@
             "properties": {
                 "biom": [
                     "City",
-                    "Civilization",
+                    "Civilized",
                     "Dungeon",
                     "Horror",
                     "Tavern",
@@ -1364,7 +1364,7 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "grave",
                     "horror",
                     "underground"
@@ -1448,7 +1448,7 @@
                 "biom": [
                     "planar",
                     "road",
-                    "Civilization",
+                    "civilization",
                     "castle",
                     "horror"
                 ],
@@ -1477,8 +1477,8 @@
             "name": "Emissary Of Annihilation",
             "properties": {
                 "biom": [
-                    "ruins",
-                    "Civilization",
+                    "Ruins",
+                    "Civilized",
                     "Planar",
                     "Lair",
                     "dungeon"
@@ -1564,13 +1564,13 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "grave",
                     "horror",
                     "road",
                     "Wilderness",
                     "lair",
-                    "Civilization",
+                    "Civilized",
                     "wasteland",
                     "underground"
                 ],
@@ -1610,13 +1610,13 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "Wilderness",
                     "desert",
                     "Mountain",
                     "wasteland",
                     "road",
-                    "Civilization",
+                    "Civilized",
                     "planar",
                     "ocean",
                     "horror",
@@ -1660,12 +1660,12 @@
                     "road",
                     "dungeon",
                     "wasteland",
-                    "Civilization",
+                    "Civilized",
                     "City"
                 ],
                 "cr": "19",
                 "fightingstyle": [
-                    "Area of Effect",
+                    "area of effect",
                     "Melee",
                     "lethal"
                 ],
@@ -1700,16 +1700,16 @@
             "properties": {
                 "biom": [
                     "road",
-                    "Civilization",
+                    "civilization",
                     "city",
                     "dungeon",
                     "tavern",
                     "wilderness",
-                    "ruins",
+                    "ruin",
                     "forest",
                     "ocean",
                     "coast",
-                    "sacral",
+                    "holy",
                     "coast"
                 ],
                 "cr": "5",
@@ -1748,7 +1748,7 @@
             "name": "Mind Golem",
             "properties": {
                 "biom": [
-                    "Civilization",
+                    "Civilized",
                     "City",
                     "dungeon",
                     "horror",
@@ -1830,7 +1830,7 @@
                 "biom": [
                     "Wilderness",
                     "Road",
-                    "wasteland",
+                    "Wasteland",
                     "Forest",
                     "Jungle"
                 ],
@@ -1869,22 +1869,22 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "Wilderness",
                     "planar",
-                    "sacral",
+                    "holy",
                     "desert",
                     "Mountain",
                     "forest",
                     "wasteland",
-                    "Civilization",
+                    "Civilized",
                     "jungle",
                     "tropical"
                 ],
                 "cr": "10",
                 "fightingstyle": [
                     "Simple",
-                    "Area of Effect"
+                    "AoE"
                 ],
                 "movement": [
                     "Walk"
@@ -1920,10 +1920,10 @@
                     "Wilderness",
                     "Dungeon",
                     "City",
-                    "ruins",
-                    "Civilization",
-                    "mountain",
-                    "wasteland",
+                    "Ruins",
+                    "Civilized",
+                    "Mountains",
+                    "Wastelands",
                     "Underground",
                     "swamp",
                     "jungle"
@@ -2012,7 +2012,7 @@
                 "cr": "12",
                 "fightingstyle": [
                     "charge",
-                    "Area of Effect"
+                    "area of effect"
                 ],
                 "movement": [
                     "walk",
@@ -2045,10 +2045,10 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "City",
                     "Wilderness",
-                    "Civilization",
+                    "Civilized",
                     "tavern",
                     "road"
                 ],
@@ -2089,7 +2089,7 @@
                     "road",
                     "dungeon",
                     "wasteland",
-                    "Civilization",
+                    "Civilized",
                     "City"
                 ],
                 "cr": "2",
@@ -2127,9 +2127,9 @@
             "name": "Goblin Hog Rider",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "ruin",
                     "dungeon",
-                    "Civilization",
+                    "Civilized",
                     "City",
                     "lair",
                     "Wilderness",
@@ -2178,7 +2178,7 @@
             "name": "Swarm of Vampire Bats",
             "properties": {
                 "biom": [
-                    "Civilization",
+                    "Civilized",
                     "forest",
                     "road",
                     "desert",
@@ -2186,7 +2186,7 @@
                     "Coast",
                     "tavern",
                     "City",
-                    "ruins",
+                    "ruin",
                     "grave",
                     "dungeon",
                     "horror",
@@ -2233,7 +2233,7 @@
             "properties": {
                 "biom": [
                     "City",
-                    "Civilization",
+                    "Civilized",
                     "tavern",
                     "road"
                 ],
@@ -2354,9 +2354,9 @@
             "name": "Goblin Soulshaper Shaman",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "ruin",
                     "dungeon",
-                    "Civilization",
+                    "Civilized",
                     "City",
                     "lair",
                     "Wilderness",
@@ -2407,7 +2407,7 @@
                 "biom": [
                     "forest",
                     "underground",
-                    "ruins",
+                    "ruin",
                     "Wilderness",
                     "road",
                     "Mountain",
@@ -2451,7 +2451,7 @@
             "name": "Knight Mounted",
             "properties": {
                 "biom": [
-                    "Civilization",
+                    "civilization",
                     "city",
                     "wilderness",
                     "road",
@@ -2486,18 +2486,18 @@
             "name": "Necrovolt Reanimator",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "ruin",
                     "dungeon",
                     "lair",
                     "City",
-                    "Civilization",
+                    "Civilized",
                     "horror",
                     "grave"
                 ],
                 "cr": "9",
                 "fightingstyle": [
                     "demanding",
-                    "Area of Effect"
+                    "area of effect"
                 ],
                 "movement": [
                     "walk"
@@ -2530,10 +2530,10 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "grave",
                     "Sacral",
-                    "Civilization",
+                    "Civilized",
                     "underground"
                 ],
                 "cr": "10",
@@ -2572,10 +2572,10 @@
             "name": "Mummy Tomb-Vizier",
             "properties": {
                 "biom": [
-                    "grave",
+                    "Graves",
                     "Dungeon",
                     "Desert",
-                    "wasteland",
+                    "Wasteland",
                     "Horror"
                 ],
                 "cr": "5",
@@ -2624,7 +2624,7 @@
                 ],
                 "cr": "12",
                 "fightingstyle": [
-                    "Area of Effect",
+                    "area of effect",
                     "demanding"
                 ],
                 "movement": [
@@ -2743,9 +2743,9 @@
             "name": "Soulgrasp Mirror",
             "properties": {
                 "biom": [
-                    "Civilization",
+                    "civilization",
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "grave",
                     "castle",
                     "lair",
@@ -2865,7 +2865,7 @@
                 "biom": [
                     "City",
                     "Dungeon",
-                    "Civilization",
+                    "Civilized",
                     "Castle",
                     "Road",
                     "Wilderness"
@@ -2907,10 +2907,10 @@
             "properties": {
                 "biom": [
                     "Horror",
-                    "grave",
+                    "Graves",
                     "Wilderness",
-                    "ruins",
-                    "wasteland",
+                    "Ruins",
+                    "Wasteland",
                     "swamp"
                 ],
                 "cr": "8",
@@ -2951,12 +2951,12 @@
                 "biom": [
                     "dungeon",
                     "underground",
-                    "ruins",
+                    "ruin",
                     "Wilderness",
-                    "road",
+                    "raod",
                     "Mountain",
                     "desert",
-                    "Civilization",
+                    "Civilized",
                     "Coast",
                     "tavern",
                     "wasteland",
@@ -3002,7 +3002,7 @@
             "name": "City Guard Nightlight",
             "properties": {
                 "biom": [
-                    "Civilization",
+                    "civilization",
                     "city",
                     "road",
                     "tavern"
@@ -3036,13 +3036,13 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "grave",
                     "horror",
                     "road",
                     "Wilderness",
                     "lair",
-                    "Civilization",
+                    "Civilized",
                     "wasteland",
                     "underground",
                     "desert"
@@ -3161,21 +3161,21 @@
             "name": "Swordbearer Reliquary",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "ruin",
                     "dungeon",
                     "road",
                     "Wilderness",
                     "forest",
                     "Mountain",
                     "Coast",
-                    "sacral",
+                    "holy",
                     "swamp",
                     "tropical",
                     "jungle"
                 ],
                 "cr": "9",
                 "fightingstyle": [
-                    "Anti Caster",
+                    "anti caster",
                     "gimmick"
                 ],
                 "movement": [
@@ -3210,9 +3210,9 @@
                 "biom": [
                     "Wilderness",
                     "Road",
-                    "mountain",
-                    "wasteland",
-                    "Civilization"
+                    "Mountains",
+                    "Wasteland",
+                    "Civilized"
                 ],
                 "cr": "5",
                 "fightingstyle": [
@@ -3249,12 +3249,12 @@
             "name": "Rustblight Skeleton",
             "properties": {
                 "biom": [
-                    "grave",
+                    "Graves",
                     "Horror",
                     "Catacombs",
                     "Dungeon",
                     "Road",
-                    "wasteland",
+                    "Wasteland",
                     "Castle"
                 ],
                 "cr": "1",
@@ -3337,12 +3337,12 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "City",
                     "horror",
                     "planar",
                     "abyssal",
-                    "Civilization"
+                    "Civilized"
                 ],
                 "cr": "5",
                 "fightingstyle": [
@@ -3354,7 +3354,7 @@
                     "climb"
                 ],
                 "purpose": [
-                    "Anti Caster",
+                    "anti caster",
                     "hunter"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/arcane-incursor-60722159",
@@ -3380,7 +3380,7 @@
             "name": "Hydra",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "ruin",
                     "dungeon",
                     "lair",
                     "Wilderness",
@@ -3432,12 +3432,12 @@
             "properties": {
                 "biom": [
                     "road",
-                    "Civilization",
+                    "civilization",
                     "city",
                     "dungeon",
                     "tavern",
                     "wilderness",
-                    "ruins",
+                    "ruin",
                     "forest",
                     "ocean",
                     "coast"
@@ -3481,20 +3481,20 @@
                     "Forest",
                     "Road",
                     "Wilderness",
-                    "wasteland",
+                    "Wastelands",
                     "Dungeon",
                     "Swamp",
                     "Jungle",
                     "City",
-                    "Civilization",
-                    "grave",
+                    "Civilized",
+                    "Graves",
                     "Sacral",
                     "Horror"
                 ],
                 "cr": "6",
                 "fightingstyle": [
                     "Hunter",
-                    "range"
+                    "Ranged"
                 ],
                 "movement": [
                     "Walk"
@@ -3612,7 +3612,7 @@
                 "biom": [
                     "planar",
                     "lair",
-                    "Civilization",
+                    "Civilized",
                     "Mountain"
                 ],
                 "cr": "16",
@@ -3652,12 +3652,12 @@
             "name": "Mummy",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "ruin",
                     "dungeon",
                     "lair",
                     "grave",
                     "horror",
-                    "sacral",
+                    "holy",
                     "wasteland",
                     "desert"
                 ],
@@ -3698,7 +3698,7 @@
                 "biom": [
                     "Grave",
                     "Horror",
-                    "wasteland",
+                    "Wasteland",
                     "Forest",
                     "Wilderness",
                     "Road",
@@ -3748,7 +3748,7 @@
                     "Wilderness",
                     "road",
                     "forest",
-                    "Civilization",
+                    "Civilized",
                     "City",
                     "underground",
                     "wasteland"
@@ -3793,10 +3793,10 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "lair",
                     "Mountain",
-                    "Civilization",
+                    "Civilized",
                     "City",
                     "planar",
                     "Wilderness",
@@ -3837,7 +3837,7 @@
                 "biom": [
                     "Futuristic",
                     "City",
-                    "Civilization",
+                    "Civilized",
                     "road",
                     "lair",
                     "planar"
@@ -3878,7 +3878,7 @@
             "properties": {
                 "biom": [
                     "Dungeon",
-                    "wasteland",
+                    "Wasteland",
                     "Mountain",
                     "Underground",
                     "Desert"
@@ -3918,12 +3918,12 @@
             "properties": {
                 "biom": [
                     "road",
-                    "Civilization",
+                    "civilization",
                     "city",
                     "dungeon",
                     "tavern",
                     "wilderness",
-                    "ruins",
+                    "ruin",
                     "forest",
                     "ocean",
                     "coast",
@@ -3970,7 +3970,7 @@
                     "forest",
                     "road",
                     "grave",
-                    "ruins",
+                    "ruin",
                     "dungeon",
                     "lair",
                     "jungle"
@@ -4063,7 +4063,7 @@
                     "dungeon",
                     "wilderness",
                     "city",
-                    "Civilization",
+                    "civilization",
                     "road",
                     "swamp",
                     "tavern"
@@ -4107,7 +4107,7 @@
                     "Dungeon",
                     "Road",
                     "River",
-                    "wasteland",
+                    "Wasteland",
                     "Coast",
                     "Desert",
                     "Jungle",
@@ -4148,7 +4148,7 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "Wilderness",
                     "forest",
                     "wasteland",
@@ -4192,7 +4192,7 @@
             "name": "Necromancer",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "ruin",
                     "underground",
                     "dungeon",
                     "lair",
@@ -4278,7 +4278,7 @@
             "properties": {
                 "biom": [
                     "Dungeon",
-                    "grave",
+                    "Graves",
                     "Horror",
                     "Wilderness",
                     "Road"
@@ -4319,8 +4319,8 @@
             "properties": {
                 "biom": [
                     "Dungeon",
-                    "grave",
-                    "Civilization"
+                    "Graves",
+                    "Civilized"
                 ],
                 "cr": "4",
                 "fightingstyle": [
@@ -4358,10 +4358,10 @@
             "properties": {
                 "biom": [
                     "Road",
-                    "wasteland",
+                    "Wastelands",
                     "Forest",
                     "Swamp",
-                    "grave",
+                    "Graves",
                     "Horror"
                 ],
                 "cr": "2",
@@ -4399,13 +4399,13 @@
             "name": "Deathsworn",
             "properties": {
                 "biom": [
-                    "Civilization",
+                    "Civilized",
                     "City",
                     "Wilderness",
                     "road",
                     "Mountain",
                     "desert",
-                    "ruins"
+                    "ruin"
                 ],
                 "cr": "5",
                 "fightingstyle": [
@@ -4486,7 +4486,7 @@
                     "dungeon",
                     "lair",
                     "Coast",
-                    "ruins",
+                    "ruin",
                     "grave",
                     "wasteland",
                     "forest",
@@ -4537,7 +4537,7 @@
                     "forest",
                     "swamp",
                     "grave",
-                    "ruins",
+                    "ruin",
                     "horror",
                     "dungeon",
                     "road",
@@ -4579,14 +4579,14 @@
             "properties": {
                 "biom": [
                     "Dungeon",
-                    "wasteland",
+                    "Wasteland",
                     "Mountain",
                     "Underground",
                     "Desert"
                 ],
                 "cr": "9",
                 "fightingstyle": [
-                    "ambush",
+                    "Ambusher",
                     "Swallow"
                 ],
                 "movement": [
@@ -4620,10 +4620,10 @@
             "properties": {
                 "biom": [
                     "City",
-                    "Civilization",
+                    "Civilized",
                     "road",
                     "dungeon",
-                    "sacral"
+                    "holy"
                 ],
                 "cr": "2",
                 "fightingstyle": [
@@ -4663,7 +4663,7 @@
                     "wilderness",
                     "dungeon",
                     "road",
-                    "Civilization",
+                    "civilization",
                     "mountain",
                     "forest",
                     "castle",
@@ -4706,10 +4706,10 @@
             "properties": {
                 "biom": [
                     "forest",
-                    "Civilization",
+                    "Civilized",
                     "City",
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "Sacral",
                     "Wilderness",
                     "road"
@@ -4793,7 +4793,7 @@
             "name": "Ravager",
             "properties": {
                 "biom": [
-                    "Civilization",
+                    "Civilized",
                     "City",
                     "Dungeon",
                     "Tavern",
@@ -4839,7 +4839,7 @@
                     "dungeon",
                     "horror",
                     "grave",
-                    "ruins"
+                    "ruin"
                 ],
                 "cr": "2",
                 "fightingstyle": [
@@ -4882,7 +4882,7 @@
                     "road",
                     "wasteland",
                     "city",
-                    "Civilization",
+                    "civilization",
                     "coast",
                     "mountain"
                 ],
@@ -4922,11 +4922,11 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "Wilderness",
                     "wasteland",
                     "road",
-                    "Civilization",
+                    "Civilized",
                     "road",
                     "forest",
                     "desert",
@@ -4968,12 +4968,12 @@
             "name": "Cult Oracle",
             "properties": {
                 "biom": [
-                    "grave",
+                    "Graves",
                     "Dungeon",
                     "Road",
                     "Horror",
                     "Sacral",
-                    "Civilization"
+                    "Civilized"
                 ],
                 "cr": "0.5",
                 "fightingstyle": [
@@ -5010,11 +5010,11 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "grave",
                     "horror",
                     "lair",
-                    "Civilization",
+                    "Civilized",
                     "underground"
                 ],
                 "cr": "7",
@@ -5052,7 +5052,7 @@
             "name": "Gargling Headtaker",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "ruin",
                     "dungeon",
                     "Coast",
                     "ocean",
@@ -5100,7 +5100,7 @@
                     "Arctic",
                     "Dungeon",
                     "Road",
-                    "wasteland",
+                    "Wasteland",
                     "Mountain",
                     "Coast",
                     "Desert",
@@ -5142,12 +5142,12 @@
             "name": "Vampire Chiropterror",
             "properties": {
                 "biom": [
-                    "grave",
+                    "Graves",
                     "Wilderness",
                     "Road",
-                    "mountain",
-                    "wasteland",
-                    "Civilization",
+                    "Mountains",
+                    "Wasteland",
+                    "Civilized",
                     "Dungeon"
                 ],
                 "cr": "7",
@@ -5191,7 +5191,7 @@
                     "dungeon",
                     "Wilderness",
                     "grave",
-                    "ruins",
+                    "ruin",
                     "road",
                     "horror"
                 ],
@@ -5234,7 +5234,7 @@
                 "biom": [
                     "Desert",
                     "Wilderness",
-                    "wasteland",
+                    "Wasteland",
                     "Planar",
                     "Underground",
                     "Dungeon"
@@ -5318,9 +5318,9 @@
             "name": "Goblin Soulstarved Abomination",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "ruin",
                     "dungeon",
-                    "Civilization",
+                    "Civilized",
                     "City",
                     "lair",
                     "Wilderness",
@@ -5420,9 +5420,9 @@
                     "Civilization",
                     "City",
                     "Horror",
-                    "ruins",
+                    "Ruins",
                     "Dungeon",
-                    "grave"
+                    "Graves"
                 ],
                 "cr": "1",
                 "fightingstyle": [
@@ -5463,7 +5463,7 @@
                     "Forest",
                     "Road",
                     "Wilderness",
-                    "wasteland",
+                    "Wastelands",
                     "Dungeon",
                     "Swamp",
                     "Jungle",
@@ -5505,14 +5505,14 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "Wilderness",
                     "Mountain",
                     "wasteland",
                     "road",
-                    "Civilization",
+                    "Civilized",
                     "planar",
-                    "sacral"
+                    "holy"
                 ],
                 "cr": "20",
                 "fightingstyle": [
@@ -5552,12 +5552,12 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "grave",
-                    "sacral",
+                    "holy",
                     "lair",
                     "Mountain",
-                    "Civilization",
+                    "Civilized",
                     "City"
                 ],
                 "cr": "11",
@@ -5597,7 +5597,7 @@
                 "biom": [
                     "City",
                     "Dungeon",
-                    "Civilization",
+                    "Civilized",
                     "Castle",
                     "Road",
                     "Wilderness"
@@ -5678,14 +5678,14 @@
             "name": "City Guard Interrogator",
             "properties": {
                 "biom": [
-                    "Civilization",
+                    "civilization",
                     "city",
                     "road",
                     "castle",
                     "urban",
                     "tavern",
                     "wilderness",
-                    "sacral",
+                    "holy",
                     "dungeon"
                 ],
                 "cr": "5",
@@ -5695,7 +5695,7 @@
                 ],
                 "movement": "walk",
                 "purpose": [
-                    "Anti Caster",
+                    "anti caster",
                     "debuff",
                     "hunter"
                 ],
@@ -5727,7 +5727,7 @@
                     "planar",
                     "dungeon",
                     "dungeon",
-                    "Civilization",
+                    "Civilized",
                     "City",
                     "lair"
                 ],
@@ -5773,7 +5773,7 @@
                     "Ocean",
                     "Mountain",
                     "Desert",
-                    "wasteland",
+                    "Wasteland",
                     "Wilderness",
                     "Road",
                     "Dungeon",
@@ -5820,7 +5820,7 @@
             "properties": {
                 "biom": [
                     "Road",
-                    "Civilization",
+                    "Civilized",
                     "Mountain",
                     "Wilderness"
                 ],
@@ -5910,7 +5910,7 @@
                 ],
                 "purpose": [
                     "hunter",
-                    "Anti Caster"
+                    "anti caster"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/ossian-debt-61274297",
                 "size": "medium",
@@ -5935,10 +5935,10 @@
             "name": "Crusader",
             "properties": {
                 "biom": [
-                    "ruins",
-                    "sacral",
+                    "ruin",
+                    "holy",
                     "City",
-                    "Civilization",
+                    "Civilized",
                     "road",
                     "tavern"
                 ],
@@ -5978,7 +5978,7 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "Wilderness",
                     "wasteland",
                     "road",
@@ -5990,7 +5990,7 @@
                 "cr": "8",
                 "fightingstyle": [
                     "Swallow",
-                    "Area of Effect"
+                    "AoE"
                 ],
                 "movement": [
                     "Fly"
@@ -6035,7 +6035,7 @@
                 "cr": "6",
                 "fightingstyle": [
                     "Pack",
-                    "ambush"
+                    "Ambusher"
                 ],
                 "movement": [
                     "Walk"
@@ -6109,7 +6109,7 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "infernal",
                     "desert",
                     "planar",
@@ -6151,14 +6151,14 @@
             "name": "Commoner Male Worker",
             "properties": {
                 "biom": [
-                    "Civilization",
+                    "Civilized",
                     "forest",
                     "road",
                     "desert",
                     "Mountain",
                     "Coast",
                     "tavern",
-                    "sacral",
+                    "holy",
                     "City"
                 ],
                 "cr": "0.25",
@@ -6199,7 +6199,7 @@
                     "grave",
                     "dungeon",
                     "lair",
-                    "ruins",
+                    "ruin",
                     "road",
                     "wasteland",
                     "horror"
@@ -6363,7 +6363,7 @@
                     "Civilization",
                     "City",
                     "Cave",
-                    "ruins",
+                    "Ruins",
                     "Dungeon"
                 ],
                 "cr": "5",
@@ -6402,11 +6402,11 @@
             "name": "Constrictor Drake",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "Ruins",
                     "Forest",
                     "Desert",
                     "Wilderness",
-                    "wasteland",
+                    "Wasteland",
                     "Road",
                     "Mountain",
                     "Coast",
@@ -6451,7 +6451,7 @@
             "name": "Sword Guardian",
             "properties": {
                 "biom": [
-                    "Civilization",
+                    "Civilized",
                     "City",
                     "dungeon",
                     "road"
@@ -6493,7 +6493,7 @@
                 "biom": [
                     "road",
                     "city",
-                    "Civilization",
+                    "civilization",
                     "forest",
                     "dungeon",
                     "wilderness",
@@ -6537,7 +6537,7 @@
             "properties": {
                 "biom": [
                     "Road",
-                    "Civilization"
+                    "Civilized"
                 ],
                 "cr": "0.25",
                 "fightingstyle": [
@@ -6576,9 +6576,9 @@
                     "Wilderness",
                     "Forest",
                     "Road",
-                    "wasteland",
+                    "Wasteland",
                     "Desert",
-                    "ruins",
+                    "Ruins",
                     "Lair",
                     "Mountain",
                     "jungle",
@@ -6620,7 +6620,7 @@
             "name": "Gutterfist",
             "properties": {
                 "biom": [
-                    "Civilization",
+                    "Civilized",
                     "City",
                     "Tavern",
                     "road"
@@ -6701,9 +6701,9 @@
                 "biom": [
                     "Wilderness",
                     "Road",
-                    "mountain",
-                    "wasteland",
-                    "Civilization"
+                    "Mountains",
+                    "Wasteland",
+                    "Civilized"
                 ],
                 "cr": "5",
                 "fightingstyle": [
@@ -6740,7 +6740,7 @@
             "properties": {
                 "biom": [
                     "City",
-                    "Civilization",
+                    "Civilized",
                     "Futuristic"
                 ],
                 "cr": "7",
@@ -6780,7 +6780,7 @@
             "properties": {
                 "biom": [
                     "planar",
-                    "Civilization",
+                    "civilization",
                     "horror",
                     "wilderness",
                     "castle"
@@ -6818,7 +6818,7 @@
                 "biom": [
                     "Desert",
                     "Dungeon",
-                    "grave",
+                    "Graves",
                     "Horror",
                     "Mountain",
                     "Jungle"
@@ -6904,7 +6904,7 @@
                 "fightingstyle": [
                     "Airborne",
                     "pack",
-                    "Area of Effect"
+                    "area of effect"
                 ],
                 "movement": [
                     "walk",
@@ -6975,7 +6975,7 @@
             "name": "Primal Vampire Spawn",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "ruin",
                     "grave",
                     "horror"
                 ],
@@ -7016,7 +7016,7 @@
             "name": "Guild Artillerist",
             "properties": {
                 "biom": [
-                    "Civilization",
+                    "Civilized",
                     "City",
                     "Wilderness",
                     "Coast",
@@ -7059,11 +7059,11 @@
             "name": "Ghostflicker Candelabra",
             "properties": {
                 "biom": [
-                    "Civilization",
+                    "civilization",
                     "castle",
                     "city",
                     "dungeon",
-                    "sacral"
+                    "holy"
                 ],
                 "cr": "3",
                 "fightingstyle": "ambush",
@@ -7092,7 +7092,7 @@
                 "biom": [
                     "City",
                     "Dungeon",
-                    "Civilization",
+                    "Civilized",
                     "Castle",
                     "Road"
                 ],
@@ -7130,19 +7130,19 @@
             "name": "Blazing Skull",
             "properties": {
                 "biom": [
-                    "grave",
+                    "Graves",
                     "Dungeon",
                     "Road",
                     "Horror",
                     "Cave",
                     "Wilderness",
-                    "Civilization",
+                    "Civilized",
                     "Lair",
                     "Planar"
                 ],
                 "cr": "4",
                 "fightingstyle": [
-                    "Area of Effect",
+                    "AoE",
                     "Demanding"
                 ],
                 "movement": [
@@ -7217,7 +7217,7 @@
             "properties": {
                 "biom": [
                     "City",
-                    "Civilization",
+                    "Civilized",
                     "tavern",
                     "road"
                 ],
@@ -7261,12 +7261,12 @@
                     "road",
                     "dungeon",
                     "City",
-                    "Civilization",
+                    "Civilized",
                     "planar",
                     "underground",
                     "dungeon",
-                    "ruins",
-                    "sacral",
+                    "ruin",
+                    "holy",
                     "Mountain",
                     "jungle",
                     "tropical"
@@ -7347,7 +7347,7 @@
                 "biom": [
                     "dungeon",
                     "lair",
-                    "ruins",
+                    "ruin",
                     "road",
                     "wasteland",
                     "desert",
@@ -7396,12 +7396,12 @@
                     "road",
                     "planar",
                     "infernal",
-                    "ruins",
+                    "ruin",
                     "abyssal",
                     "City",
                     "lair",
                     "horror",
-                    "Civilization"
+                    "Civilized"
                 ],
                 "cr": "7",
                 "fightingstyle": [
@@ -7440,10 +7440,10 @@
             "properties": {
                 "biom": [
                     "Planar",
-                    "grave",
+                    "Graves",
                     "Dungeon",
                     "Horror",
-                    "sacral"
+                    "Holy"
                 ],
                 "cr": "2",
                 "fightingstyle": [
@@ -7480,7 +7480,7 @@
             "properties": {
                 "biom": [
                     "Road",
-                    "Civilization"
+                    "Civilized"
                 ],
                 "cr": "0.25",
                 "fightingstyle": [
@@ -7517,7 +7517,7 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "Wilderness",
                     "wasteland",
                     "road",
@@ -7562,7 +7562,7 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "Wilderness",
                     "forest",
                     "wasteland",
@@ -7606,7 +7606,7 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "Wilderness",
                     "wasteland",
                     "road",
@@ -7648,20 +7648,20 @@
             "name": "Guild Heretic",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "ruin",
                     "dungeon",
                     "road",
                     "Mountain",
                     "Coast",
                     "tavern",
-                    "Civilization",
+                    "Civilized",
                     "city",
                     "tavern"
                 ],
                 "cr": "5",
                 "fightingstyle": [
                     "range",
-                    "Area of Effect",
+                    "area of effect",
                     "Interactive"
                 ],
                 "movement": [
@@ -7695,7 +7695,7 @@
             "properties": {
                 "biom": [
                     "City",
-                    "Civilization",
+                    "Civilized",
                     "Futuristic"
                 ],
                 "cr": "1",
@@ -7736,14 +7736,14 @@
                     "Wilderness",
                     "Forest",
                     "Road",
-                    "ruins",
+                    "Ruins",
                     "Mountain",
                     "Planar",
                     "jungle"
                 ],
                 "cr": "0.5",
                 "fightingstyle": [
-                    "range",
+                    "Ranged",
                     "Pack"
                 ],
                 "movement": [
@@ -7779,11 +7779,11 @@
                 "biom": [
                     "Grave",
                     "Horror",
-                    "wasteland",
+                    "Wasteland",
                     "Forest",
                     "Wilderness",
                     "Road",
-                    "Civilization",
+                    "Civilized",
                     "Dungeon",
                     "Swamp"
                 ],
@@ -7861,7 +7861,7 @@
             "properties": {
                 "biom": [
                     "City",
-                    "Civilization",
+                    "Civilized",
                     "Castle",
                     "Tavern",
                     "Road"
@@ -7907,12 +7907,12 @@
                     "Ship",
                     "Underwater",
                     "Wilderness",
-                    "Civilization",
+                    "Civilized",
                     "Island"
                 ],
                 "cr": "10",
                 "fightingstyle": [
-                    "range",
+                    "Ranged",
                     "Demanding"
                 ],
                 "movement": [
@@ -7921,7 +7921,7 @@
                 "purpose": [
                     "Damage",
                     "Pressure",
-                    "Area of Effect"
+                    "AoE"
                 ],
                 "releaseurl": "https://beneos-battlemaps.com/collections/animated-tokens/products/beneos-tokens-cursed-cannon-crew",
                 "size": "Huge",
@@ -7949,8 +7949,8 @@
                     "Forest",
                     "Wilderness",
                     "Road",
-                    "mountain",
-                    "wasteland"
+                    "Mountains",
+                    "Wasteland"
                 ],
                 "cr": "0.5",
                 "fightingstyle": [
@@ -8022,9 +8022,9 @@
                 "biom": [
                     "Arctic",
                     "Wilderness",
-                    "wasteland",
+                    "Wasteland",
                     "Snow",
-                    "grave",
+                    "Graves",
                     "Dungeon"
                 ],
                 "cr": "0.5",
@@ -8061,7 +8061,7 @@
             "name": "Skeletal Sapper",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "ruin",
                     "dungeon",
                     "road",
                     "horror",
@@ -8108,13 +8108,13 @@
                 "biom": [
                     "Desert",
                     "Planar",
-                    "wasteland",
+                    "Wasteland",
                     "Coast",
                     "tropical"
                 ],
                 "cr": "8",
                 "fightingstyle": [
-                    "Area of Effect",
+                    "Aoe",
                     "Swallow",
                     "Demanding"
                 ],
@@ -8147,7 +8147,7 @@
             "name": "Gatekeeper",
             "properties": {
                 "biom": [
-                    "Civilization",
+                    "Civilized",
                     "City",
                     "Dungeon",
                     "Tavern",
@@ -8190,8 +8190,8 @@
             "properties": {
                 "biom": [
                     "horror",
-                    "Civilization",
-                    "ruins",
+                    "Civilized",
+                    "ruin",
                     "dungeon",
                     "City",
                     "grave"
@@ -8233,16 +8233,16 @@
             "properties": {
                 "biom": [
                     "Lair",
-                    "grave",
+                    "Graves",
                     "City",
-                    "ruins",
-                    "Civilization",
+                    "Ruins",
+                    "Civilized",
                     "Tavern"
                 ],
                 "cr": "0.5",
                 "fightingstyle": [
                     "Melee",
-                    "ambush",
+                    "Ambusher",
                     "Mobile"
                 ],
                 "movement": [
@@ -8283,7 +8283,7 @@
                     "Mountain",
                     "Arctic",
                     "Cave",
-                    "ruins",
+                    "Ruins",
                     "Dungeon"
                 ],
                 "cr": "7",
@@ -8361,9 +8361,9 @@
             "name": "Undead Archer",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "Ruins",
                     "Swamp",
-                    "grave",
+                    "Graves",
                     "Dungeon",
                     "Horror",
                     "Wilderness",
@@ -8373,7 +8373,7 @@
                 "fightingstyle": [
                     "Simple",
                     "Pack",
-                    "range"
+                    "Ranged"
                 ],
                 "movement": [
                     "Walk"
@@ -8482,9 +8482,9 @@
                 "biom": [
                     "Planar",
                     "Lair",
-                    "mountain",
+                    "Mountains",
                     "Mountain",
-                    "ruins",
+                    "Ruins",
                     "Underground",
                     "infernal"
                 ],
@@ -8524,11 +8524,11 @@
             "name": "Azure Dragon Sage",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "Ruins",
                     "Sacral",
                     "Planar",
                     "Mountain",
-                    "Civilization",
+                    "Civilized",
                     "Wilderness"
                 ],
                 "cr": "15",
@@ -8569,11 +8569,11 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "Wilderness",
                     "wasteland",
                     "forest",
-                    "Civilization",
+                    "Civilized",
                     "road",
                     "Mountain",
                     "desert",
@@ -8615,7 +8615,7 @@
             "name": "Fire Manifestation",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "ruin",
                     "dungeon",
                     "planar",
                     "Wilderness",
@@ -8658,17 +8658,17 @@
             "properties": {
                 "biom": [
                     "Road",
-                    "wasteland",
+                    "Wastelands",
                     "Forest",
                     "Swamp",
-                    "grave",
-                    "Civilization",
+                    "Graves",
+                    "Civilized",
                     "Jungle",
-                    "mountain"
+                    "Mountains"
                 ],
                 "cr": "1",
                 "fightingstyle": [
-                    "ambush",
+                    "Ambusher",
                     "Predator",
                     "Pack"
                 ],
@@ -8739,9 +8739,9 @@
             "name": "Mimic",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "ruin",
                     "dungeon",
-                    "Civilization",
+                    "Civilized",
                     "City",
                     "lair"
                 ],
@@ -8781,13 +8781,13 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "Wilderness",
                     "desert",
                     "Mountain",
                     "wasteland",
                     "road",
-                    "Civilization",
+                    "Civilized",
                     "planar",
                     "ocean",
                     "horror",
@@ -8827,7 +8827,7 @@
             "name": "Knight Unmounted",
             "properties": {
                 "biom": [
-                    "Civilization",
+                    "civilization",
                     "city",
                     "castle",
                     "wilderness",
@@ -8863,7 +8863,7 @@
                 "biom": [
                     "underground",
                     "City",
-                    "Civilization"
+                    "Civilized"
                 ],
                 "cr": "5",
                 "fightingstyle": [
@@ -8902,7 +8902,7 @@
             "name": "Polarized Shield Guardian",
             "properties": {
                 "biom": [
-                    "Civilization",
+                    "Civilized",
                     "Futuristic"
                 ],
                 "cr": "8",
@@ -8943,12 +8943,12 @@
                     "Forest",
                     "Road",
                     "Wilderness",
-                    "wasteland",
+                    "Wastelands",
                     "Dungeon",
                     "Swamp",
                     "Jungle",
                     "City",
-                    "Civilization"
+                    "Civilized"
                 ],
                 "cr": "1",
                 "fightingstyle": [
@@ -8986,7 +8986,7 @@
             "name": "Auxiliary Automaton",
             "properties": {
                 "biom": [
-                    "Civilization",
+                    "Civilized",
                     "City",
                     "dungeon",
                     "Futuristic",
@@ -9116,12 +9116,12 @@
             "name": "Opulence Devil",
             "properties": {
                 "biom": [
-                    "ruins",
-                    "Civilization",
+                    "Ruins",
+                    "Civilized",
                     "Planar",
                     "Lair",
                     "Infernal",
-                    "Civilization"
+                    "Civilized"
                 ],
                 "cr": "9",
                 "fightingstyle": [
@@ -9162,7 +9162,7 @@
                 "biom": [
                     "Tavern",
                     "City",
-                    "Civilization",
+                    "Civilized",
                     "Road"
                 ],
                 "cr": "2",
@@ -9207,7 +9207,7 @@
                 "cr": "9",
                 "fightingstyle": [
                     "Lethal",
-                    "Area of Effect"
+                    "AoE"
                 ],
                 "movement": [
                     "Walk"
@@ -9239,14 +9239,14 @@
             "name": "Magarach Sentinel",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "ruin",
                     "dungeon",
                     "planar",
                     "Wilderness",
                     "forest",
                     "Mountain",
                     "Coast",
-                    "sacral",
+                    "holy",
                     "jungle",
                     "tropical"
                 ],
@@ -9288,14 +9288,14 @@
                     "Forest",
                     "Road",
                     "Wilderness",
-                    "wasteland",
+                    "Wastelands",
                     "Dungeon"
                 ],
                 "cr": "2",
                 "fightingstyle": [
                     "Ambush",
                     "Pack",
-                    "range"
+                    "Ranged"
                 ],
                 "movement": [
                     "Walk"
@@ -9333,8 +9333,8 @@
                 ],
                 "cr": "8",
                 "fightingstyle": [
-                    "range",
-                    "spellcasting"
+                    "Ranged",
+                    "Spellcaster"
                 ],
                 "movement": [
                     "Walk"
@@ -9374,7 +9374,7 @@
                     "Road",
                     "Forest",
                     "Desert",
-                    "wasteland"
+                    "Wasteland"
                 ],
                 "cr": "12",
                 "fightingstyle": [
@@ -9412,10 +9412,10 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "lair",
                     "Mountain",
-                    "Civilization",
+                    "Civilized",
                     "City",
                     "planar",
                     "Wilderness",
@@ -9464,7 +9464,7 @@
                     "Forest",
                     "Feywild",
                     "Mountain",
-                    "ruins",
+                    "Ruins",
                     "Dungeon"
                 ],
                 "cr": "9",
@@ -9504,13 +9504,13 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "Wilderness",
                     "desert",
                     "Mountain",
                     "wasteland",
                     "road",
-                    "Civilization",
+                    "Civilized",
                     "planar",
                     "ocean",
                     "horror",
@@ -9591,16 +9591,16 @@
             "name": "Blackfeather Huntress",
             "properties": {
                 "biom": [
-                    "Civilization",
+                    "Civilized",
                     "City",
                     "Road",
                     "Sacral",
                     "Wilderness",
-                    "ruins"
+                    "Ruins"
                 ],
                 "cr": "5",
                 "fightingstyle": [
-                    "range",
+                    "Ranged",
                     "Mobile"
                 ],
                 "movement": [
@@ -9635,10 +9635,10 @@
             "properties": {
                 "biom": [
                     "Planar",
-                    "grave",
+                    "Graves",
                     "Dungeon",
                     "Horror",
-                    "sacral"
+                    "Holy"
                 ],
                 "cr": "15",
                 "fightingstyle": [
@@ -9676,7 +9676,7 @@
             "name": "Shamblevault Casket Bearer",
             "properties": {
                 "biom": [
-                    "grave",
+                    "Graves",
                     "Dungeon",
                     "Horror",
                     "Road"
@@ -9715,9 +9715,9 @@
             "name": "Goblin Crookshank",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "ruin",
                     "dungeon",
-                    "Civilization",
+                    "Civilized",
                     "City",
                     "lair",
                     "Wilderness",
@@ -9808,7 +9808,7 @@
             "properties": {
                 "biom": [
                     "Dungeon",
-                    "wasteland",
+                    "Wasteland",
                     "Mountain",
                     "Underground",
                     "Desert"
@@ -9860,7 +9860,7 @@
                 "cr": "7",
                 "fightingstyle": [
                     "Airborne",
-                    "Area of Effect",
+                    "area of effect",
                     "Melee"
                 ],
                 "movement": [
@@ -9896,7 +9896,7 @@
             "properties": {
                 "biom": [
                     "Dungeon",
-                    "grave",
+                    "Graves",
                     "Horror",
                     "Wilderness",
                     "Road"
@@ -9984,7 +9984,7 @@
                 "cr": "20",
                 "fightingstyle": [
                     "lethal",
-                    "Area of Effect",
+                    "area of effect",
                     "tactical"
                 ],
                 "movement": [
@@ -10020,11 +10020,11 @@
             "name": "Voidmare Wailer",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "Ruins",
                     "Grave",
                     "Planar",
                     "Horror",
-                    "Civilization"
+                    "Civilized"
                 ],
                 "cr": "7",
                 "fightingstyle": [
@@ -10066,7 +10066,7 @@
                     "City",
                     "Mountain",
                     "Underground",
-                    "Civilization"
+                    "Civilized"
                 ],
                 "cr": "6",
                 "fightingstyle": [
@@ -10104,9 +10104,9 @@
             "properties": {
                 "biom": [
                     "Desert",
-                    "grave",
+                    "Graves",
                     "Dungeon",
-                    "wasteland",
+                    "Wastelands",
                     "Coast"
                 ],
                 "cr": "9",
@@ -10153,7 +10153,7 @@
                 "cr": "7",
                 "fightingstyle": [
                     "Regeneration",
-                    "Area of Effect",
+                    "AoE",
                     "Demanding"
                 ],
                 "movement": [
@@ -10189,14 +10189,14 @@
                 "biom": [
                     "City",
                     "Dungeon",
-                    "Civilization",
+                    "Civilized",
                     "Castle",
                     "Road",
                     "Wilderness"
                 ],
                 "cr": "5",
                 "fightingstyle": [
-                    "range"
+                    "Ranged"
                 ],
                 "movement": [
                     "Walk"
@@ -10229,9 +10229,9 @@
             "name": "Goblin Shrublurker",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "ruin",
                     "dungeon",
-                    "Civilization",
+                    "Civilized",
                     "City",
                     "lair",
                     "Wilderness",
@@ -10283,8 +10283,8 @@
                     "Forest",
                     "Wilderness",
                     "Road",
-                    "mountain",
-                    "wasteland"
+                    "Mountains",
+                    "Wasteland"
                 ],
                 "cr": "2",
                 "fightingstyle": [
@@ -10322,7 +10322,7 @@
             "properties": {
                 "biom": [
                     "Road",
-                    "Civilization"
+                    "Civilized"
                 ],
                 "cr": "0.25",
                 "fightingstyle": [
@@ -10359,10 +10359,10 @@
             "properties": {
                 "biom": [
                     "dungeon",
-                    "ruins",
+                    "ruin",
                     "City",
                     "Wilderness",
-                    "Civilization",
+                    "Civilized",
                     "horror",
                     "grave"
                 ],
@@ -10406,7 +10406,7 @@
                     "desert",
                     "Coast",
                     "desert",
-                    "Civilization"
+                    "Civilized"
                 ],
                 "cr": "5",
                 "fightingstyle": [
@@ -10444,7 +10444,7 @@
             "name": "Alchemist",
             "properties": {
                 "biom": [
-                    "Civilization",
+                    "civilization",
                     "city",
                     "tavern",
                     "dungeon"
@@ -10485,7 +10485,7 @@
                 "biom": [
                     "Swamp",
                     "Coast",
-                    "coast",
+                    "Coastal",
                     "Ocean",
                     "Underwater",
                     "Lair",
@@ -10526,14 +10526,14 @@
             "name": "Commoner Female Priest",
             "properties": {
                 "biom": [
-                    "Civilization",
+                    "Civilized",
                     "forest",
                     "road",
                     "desert",
                     "Mountain",
                     "Coast",
                     "tavern",
-                    "sacral",
+                    "holy",
                     "City"
                 ],
                 "cr": "0.25",
@@ -10610,7 +10610,7 @@
             "properties": {
                 "biom": [
                     "City",
-                    "Civilization"
+                    "Civilized"
                 ],
                 "cr": "5",
                 "fightingstyle": [
@@ -10621,7 +10621,7 @@
                     "walk"
                 ],
                 "purpose": [
-                    "Anti Caster",
+                    "anti caster",
                     "spellcasting"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/boss-creature-51753670",
@@ -10690,7 +10690,7 @@
             "properties": {
                 "biom": [
                     "City",
-                    "Civilization",
+                    "Civilized",
                     "Road",
                     "Wilderness"
                 ],
@@ -10730,11 +10730,11 @@
             "name": "Necrovolt Circuitslave",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "ruin",
                     "dungeon",
                     "lair",
                     "City",
-                    "Civilization",
+                    "Civilized",
                     "horror",
                     "grave"
                 ],
@@ -10773,7 +10773,7 @@
             "name": "Skeletal Swashbuckler",
             "properties": {
                 "biom": [
-                    "coast",
+                    "Coastal",
                     "Ocean",
                     "Tavern",
                     "Tropical",
@@ -10850,9 +10850,9 @@
             "name": "Aberrant Tyrant",
             "properties": {
                 "biom": [
-                    "ruins",
+                    "ruin",
                     "dungeon",
-                    "Civilization",
+                    "Civilized",
                     "City",
                     "lair",
                     "Wilderness",
@@ -10939,8 +10939,8 @@
                 "biom": [
                     "road",
                     "City",
-                    "Civilization",
-                    "sacral"
+                    "Civilized",
+                    "holy"
                 ],
                 "cr": "5",
                 "fightingstyle": [
@@ -10992,7 +10992,7 @@
                 "cr": "3",
                 "fightingstyle": [
                     "Pack",
-                    "range"
+                    "Ranged"
                 ],
                 "movement": [
                     "Walk"
@@ -11025,7 +11025,7 @@
             "properties": {
                 "biom": [
                     "Wilderness",
-                    "Civilization",
+                    "Civilized",
                     "forest",
                     "wasteland",
                     "road",
@@ -11070,7 +11070,7 @@
             "properties": {
                 "biom": [
                     "road",
-                    "Civilization",
+                    "civilization",
                     "city",
                     "dungeon",
                     "tavern"
@@ -11113,7 +11113,7 @@
                     "road",
                     "Wilderness",
                     "Mountain",
-                    "Civilization",
+                    "Civilized",
                     "Coast",
                     "forest",
                     "ocean",
@@ -11204,8 +11204,8 @@
             "properties": {
                 "biom": [
                     "Desert",
-                    "grave",
-                    "ruins",
+                    "Graves",
+                    "Ruins",
                     "Dungeon",
                     "Lair",
                     "Horror",
@@ -11215,7 +11215,7 @@
                 "fightingstyle": [
                     "Lethal",
                     "Demanding",
-                    "Area of Effect"
+                    "AoE"
                 ],
                 "movement": [
                     "Walk"
@@ -11255,7 +11255,7 @@
                     "horror",
                     "mountain",
                     "cave",
-                    "ruins",
+                    "ruin",
                     "jungle",
                     "forest"
                 ],
@@ -11356,7 +11356,7 @@
                 ],
                 "purpose": [
                     "Debuff",
-                    "Anti Caster",
+                    "Anti caster",
                     "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -11429,12 +11429,12 @@
                 "biom": [
                     "SRD",
                     "swamp",
-                    "ruins",
+                    "ruin",
                     "Underground"
                 ],
                 "fightingstyle": [
                     "ambush",
-                    "Area of Effect",
+                    "area of effect",
                     "predator",
                     "lethal"
                 ],
@@ -11707,7 +11707,7 @@
                 ],
                 "fightingstyle": [
                     "airborne",
-                    "Area of Effect",
+                    "area of effect",
                     "predator",
                     "legendary"
                 ],
@@ -11750,7 +11750,7 @@
                     "hill",
                     "mountain",
                     "vulcano",
-                    "ruins"
+                    "ruin"
                 ],
                 "fightingstyle": [
                     "airborne",
@@ -11796,7 +11796,7 @@
                     "mountain",
                     "urban",
                     "arctic",
-                    "ruins"
+                    "ruin"
                 ],
                 "fightingstyle": [
                     "airborne",
@@ -11890,7 +11890,7 @@
                 ],
                 "fightingstyle": [
                     "airborne",
-                    "Area of Effect",
+                    "area of effect",
                     "mobile"
                 ],
                 "purpose": [
@@ -12004,7 +12004,7 @@
                 "biom": [
                     "SRD",
                     "swamp",
-                    "ruins",
+                    "ruin",
                     "Underground"
                 ],
                 "fightingstyle": [
@@ -12325,7 +12325,7 @@
                     "hill",
                     "mountain",
                     "vulcano",
-                    "ruins"
+                    "ruin"
                 ],
                 "fightingstyle": [
                     "airborne",
@@ -12371,7 +12371,7 @@
                     "mountain",
                     "urban",
                     "arctic",
-                    "ruins"
+                    "ruin"
                 ],
                 "fightingstyle": [
                     "airborne",
@@ -12933,7 +12933,7 @@
                 ],
                 "fightingstyle": [
                     "spellcasting",
-                    "Area of Effect",
+                    "area of effect",
                     "tactical"
                 ],
                 "purpose": [
@@ -13575,7 +13575,7 @@
                 ],
                 "fightingstyle": [
                     "melee",
-                    "Area of Effect",
+                    "area of effect",
                     "predator",
                     "charge"
                 ],
@@ -13692,7 +13692,7 @@
                 "biom": [
                     "SRD",
                     "swamp",
-                    "ruins",
+                    "ruin",
                     "underground"
                 ],
                 "fightingstyle": [
@@ -15032,7 +15032,7 @@
                 "fightingstyle": [
                     "airborne",
                     "spellcasting",
-                    "Area of Effect",
+                    "area of effect",
                     "mobile"
                 ],
                 "purpose": [
@@ -15191,7 +15191,7 @@
                 ],
                 "fightingstyle": [
                     "spellcasting",
-                    "Area of Effect",
+                    "area of effect",
                     "mobile"
                 ],
                 "purpose": [
@@ -15231,7 +15231,7 @@
                 ],
                 "fightingstyle": [
                     "spellcasting",
-                    "Area of Effect",
+                    "area of effect",
                     "mobile"
                 ],
                 "purpose": [
@@ -15369,7 +15369,7 @@
                 "purpose": [
                     "Support",
                     "Hunter",
-                    "Anti Caster"
+                    "Anti caster"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -16073,7 +16073,7 @@
                 "fightingstyle": [
                     "tank",
                     "melee",
-                    "Area of Effect",
+                    "area of effect",
                     "charge"
                 ],
                 "purpose": [
@@ -16479,13 +16479,13 @@
                 "fightingstyle": [
                     "spellcasting",
                     "melee",
-                    "Area of Effect",
+                    "area of effect",
                     "lethal"
                 ],
                 "purpose": [
                     "Boss",
                     "Damage",
-                    "Area of Effect"
+                    "AoE"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -16835,12 +16835,12 @@
                 ],
                 "fightingstyle": [
                     "melee",
-                    "Area of Effect",
+                    "area of effect",
                     "predator"
                 ],
                 "purpose": [
                     "Damage",
-                    "Area of Effect"
+                    "AoE"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -16914,7 +16914,7 @@
                 ],
                 "fightingstyle": [
                     "spellcasting",
-                    "Area of Effect",
+                    "area of effect",
                     "tactical"
                 ],
                 "purpose": [
@@ -19071,12 +19071,12 @@
                     "grassland",
                     "castle",
                     "mountain",
-                    "ruins"
+                    "ruin"
                 ],
                 "fightingstyle": [
                     "airborne",
                     "spellcasting",
-                    "Area of Effect"
+                    "area of effect"
                 ],
                 "purpose": [
                     "Ally",
@@ -19237,7 +19237,7 @@
                 "fightingstyle": [
                     "ambush",
                     "predator",
-                    "Area of Effect",
+                    "area of effect",
                     "airborne"
                 ],
                 "purpose": [
@@ -20948,7 +20948,7 @@
                 "fightingstyle": [
                     "boss",
                     "legendary",
-                    "Area of Effect",
+                    "area of effect",
                     "charge"
                 ],
                 "purpose": [
@@ -21112,7 +21112,7 @@
                 "purpose": [
                     "Boss",
                     "Legendary",
-                    "Anti Caster",
+                    "Anti caster",
                     "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -21353,7 +21353,7 @@
                 ],
                 "purpose": [
                     "Damage",
-                    "Anti Caster"
+                    "Anti caster"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -21428,7 +21428,7 @@
                 ],
                 "fightingstyle": [
                     "ambush",
-                    "Area of Effect",
+                    "area of effect",
                     "gimmick"
                 ],
                 "purpose": [
@@ -21467,7 +21467,7 @@
                 ],
                 "fightingstyle": [
                     "ambush",
-                    "Area of Effect",
+                    "area of effect",
                     "gimmick"
                 ],
                 "purpose": [
@@ -23567,7 +23567,7 @@
                     "hill",
                     "mountain",
                     "vulcano",
-                    "ruins"
+                    "ruin"
                 ],
                 "fightingstyle": [
                     "airborne",
@@ -23651,7 +23651,7 @@
                 "fightingstyle": [
                     "melee",
                     "charge",
-                    "Area of Effect"
+                    "area of effect"
                 ],
                 "purpose": [
                     "Hunter",
@@ -24044,7 +24044,7 @@
                 ],
                 "fightingstyle": [
                     "melee",
-                    "Area of Effect",
+                    "area of effect",
                     "predator"
                 ],
                 "purpose": [
@@ -24476,12 +24476,12 @@
                     "mountain",
                     "urban",
                     "arctic",
-                    "ruins"
+                    "ruin"
                 ],
                 "fightingstyle": [
                     "airborne",
                     "predator",
-                    "Area of Effect",
+                    "area of effect",
                     "lethal"
                 ],
                 "purpose": [
@@ -24936,7 +24936,7 @@
                 ],
                 "purpose": [
                     "Support",
-                    "Anti Caster"
+                    "Anti caster"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -25053,7 +25053,7 @@
                 "fightingstyle": [
                     "range",
                     "ambush",
-                    "Area of Effect"
+                    "area of effect"
                 ],
                 "purpose": [
                     "Gimmick",
@@ -26546,7 +26546,7 @@
                 ],
                 "fightingstyle": [
                     "airborne",
-                    "Area of Effect",
+                    "area of effect",
                     "predator"
                 ],
                 "purpose": [
@@ -26818,7 +26818,7 @@
                     "underwater"
                 ],
                 "fightingstyle": [
-                    "Area of Effect",
+                    "area of effect",
                     "tank",
                     "mobile"
                 ],
@@ -27076,7 +27076,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "lycanthrope",
+                    "(lycanthrope)",
                     "Lycanthrope"
                 ],
                 "nb_variants": 1,
@@ -27476,7 +27476,7 @@
                 "biom": [
                     "SRD",
                     "swamp",
-                    "ruins",
+                    "ruin",
                     "Underground"
                 ],
                 "fightingstyle": [
@@ -27746,7 +27746,7 @@
                 ],
                 "fightingstyle": [
                     "airborne",
-                    "Area of Effect",
+                    "area of effect",
                     "predator"
                 ],
                 "purpose": [
@@ -27786,7 +27786,7 @@
                     "hill",
                     "mountain",
                     "vulcano",
-                    "ruins"
+                    "ruin"
                 ],
                 "fightingstyle": [
                     "airborne",
@@ -27832,12 +27832,12 @@
                     "mountain",
                     "urban",
                     "arctic",
-                    "ruins"
+                    "ruin"
                 ],
                 "fightingstyle": [
                     "airborne",
                     "predator",
-                    "Area of Effect",
+                    "area of effect",
                     "lethal"
                 ],
                 "purpose": [
