@@ -37463,6 +37463,120 @@
                                 "download_terms": "SC: 12 Catacombs",
                                 "download_creator": "Beneos Battlemaps"
                                 }
-                            }
+                    },
+                    "94-01_infernal_hell_machine_driving-4k_BM":{
+                        "name":"infernal hell machine driving",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Vehicle","Fast Moving","Special","Otherworldly"],
+                        "brightness":"Medium",
+                        "grid":"40x30",
+                        "pack":"94_DiA_03_Infernal_Hell_Machines",
+                        "releaseurl":"https://www.patreon.com/posts/infernal-war-130020481",
+                        "sibling":"94-01_infernal_hell_machine_driving-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"94-01_infernal_hell_machine_driving-4k_bm.webp",
+                        "videourl":"https://www.youtube.com/watch?v=R9gFH-XfyFE",
+                        "download_pack": "DiA - 03 Infernal Hell Machines - 94",
+                        "download_terms": "BM: Infernal Hell Machine Driving",
+                        "download_creator": "Beneos Battlemaps"
                         }
+                            },
+                            "94-01_infernal_hell_machine_driving-4k_Scen":{
+                                "name":"infernal hell machine driving",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Vehicle","Fast Moving","Special","Otherworldly"],
+                                "brightness":"Medium",
+                                "grid":"40x30",
+                                "pack":"94_DiA_03_Infernal_Hell_Machines",
+                                "releaseurl":"https://www.patreon.com/posts/infernal-war-130020481",
+                                "sibling":"94-01_infernal_hell_machine_driving-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"94-01_infernal_hell_machine_driving-4k_scen.webp",
+                                "videourl":"https://www.youtube.com/watch?v=R9gFH-XfyFE",
+                                "download_pack": "DiA - 03 Infernal Hell Machines - 94",
+                                "download_terms": "SC: Infernal Hell Machine Driving",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "94-02_infernal_hell_machine_camp-4k_BM":{
+                        "name":"infernal hell machine camp",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Camp","Otherworldly"],
+                        "brightness":"Medium",
+                        "grid":"40x40",
+                        "pack":"94_DiA_03_Infernal_Hell_Machines",
+                        "releaseurl":"https://www.patreon.com/posts/infernal-war-130020481",
+                        "sibling":"94-02_infernal_hell_machine_camp-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"94-02_infernal_hell_machine_camp-4k_bm.webp",
+                        "videourl":"https://www.youtube.com/watch?v=R9gFH-XfyFE",
+                        "download_pack": "DiA - 03 Infernal Hell Machines - 94",
+                        "download_terms": "BM: Infernal Hell Machine Camp",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "94-02_infernal_hell_machine_camp-4k_Scen":{
+                                "name":"infernal hell machine camp",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Camp","Otherworldly"],
+                                "brightness":"Medium",
+                                "grid":"40x40",
+                                "pack":"94_DiA_03_Infernal_Hell_Machines",
+                                "releaseurl":"https://www.patreon.com/posts/infernal-war-130020481",
+                                "sibling":"94-02_infernal_hell_machine_camp-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"94-02_infernal_hell_machine_camp-4k_scen.webp",
+                                "videourl":"https://www.youtube.com/watch?v=R9gFH-XfyFE",
+                                "download_pack": "DiA - 03 Infernal Hell Machines - 94",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "94-03_moving_landscape-4k_BM":{
+                        "name":"moving landscape",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Fast Moving","Special","Otherworldly"],
+                        "brightness":"Medium",
+                        "grid":"40x30",
+                        "pack":"94_DiA_03_Infernal_Hell_Machines",
+                        "releaseurl":"https://www.patreon.com/posts/infernal-war-130020481",
+                        "sibling":"94-03_moving_landscape-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"94-03_moving_landscape-4k_bm.webp",
+                        "videourl":"https://www.youtube.com/watch?v=R9gFH-XfyFE",
+                        "download_pack": "DiA - 03 Infernal Hell Machines - 94",
+                        "download_terms": "BM: Driving - Landscape",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "94-03_moving_landscape-4k_Scen":{
+                                "name":"moving landscape",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Fast Moving","Special","Otherworldly"],
+                                "brightness":"Medium",
+                                "grid":"40x30",
+                                "pack":"94_DiA_03_Infernal_Hell_Machines",
+                                "releaseurl":"https://www.patreon.com/posts/infernal-war-130020481",
+                                "sibling":"94-03_moving_landscape-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"94-03_moving_landscape-4k_scen.webp",
+                                "videourl":"https://www.youtube.com/watch?v=R9gFH-XfyFE",
+                                "download_pack": "DiA - 03 Infernal Hell Machines - 94",
+                                "download_terms": "SC: Driving - Landscape",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                            }
                     }
+}
