@@ -1940,8 +1940,8 @@
       "name": "Enkindle",
       "properties": {
         "level": "1",
-        "school": "evocation",
-        "casting_time": "action",
+        "school": "Evocation",
+        "casting_time": "Action",
         "concentration": false,
         "ritual": false,
         "spell_type": "Ranged Damage",
@@ -1956,8 +1956,8 @@
       "name": "Moth Wings",
       "properties": {
         "level": "2",
-        "school": "transmutation",
-        "casting_time": "action",
+        "school": "Transmutation",
+        "casting_time": "Action",
         "concentration": false,
         "ritual": false,
         "spell_type": "Mobility",
@@ -1972,8 +1972,8 @@
       "name": "Curse Mark",
       "properties": {
         "level": "1",
-        "school": "enchantment",
-        "casting_time": "bonus action",
+        "school": "Enchantment",
+        "casting_time": "Bonus Action",
         "concentration": false,
         "ritual": false,
         "spell_type": "Curse",
@@ -1988,8 +1988,8 @@
       "name": "Sinister Seedling",
       "properties": {
         "level": "2",
-        "school": "necromancy",
-        "casting_time": "action",
+        "school": "Necromancy",
+        "casting_time": "Action",
         "concentration": true,
         "ritual": false,
         "spell_type": "Restoration",
