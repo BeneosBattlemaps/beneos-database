@@ -1933,6 +1933,70 @@
         "components": ["V", "S"],
         "icon": "0091_vanish-icon.webp"
       }
+    },
+    "0092_enkindle": {
+      "key": "0092_enkindle",
+      "description": "Set a creature on fire.",
+      "name": "Enkindle",
+      "properties": {
+        "level": "1",
+        "school": "evocation",
+        "casting_time": "action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Ranged Damage",
+        "classes": ["bard,druid,ranger,sorcerer,warlock,wizard"],
+        "components": ["v,s,m"],
+        "icon": "0092_enkindle-icon.webp"
+      }
+    },
+    "0093_moth_wings": {
+      "key": "0093_moth_wings",
+      "description": "Fly a medium distance and possibly put a nearby creature to sleep.",
+      "name": "Moth Wings",
+      "properties": {
+        "level": "2",
+        "school": "transmutation",
+        "casting_time": "action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Mobility",
+        "classes": ["bard,druid,ranger,sorcerer,warlock,wizard"],
+        "components": ["v,s"],
+        "icon": "0093_moth_wings-icon.webp"
+      }
+    },
+    "0094_curse_mark": {
+      "key": "0094_curse_mark",
+      "description": "Mark a target with a sigil that can be targeted seperately and deals additional damage when hit.",
+      "name": "Curse Mark",
+      "properties": {
+        "level": "1",
+        "school": "enchantment",
+        "casting_time": "bonus action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Curse",
+        "classes": ["bard,cleric,druid,paladin,ranger,sorcerer,warlock"],
+        "components": ["v,s"],
+        "icon": "0094_curse_mark-icon.webp"
+      }
+    },
+    "0094_sinister_seedling": {
+      "key": "0094_sinister_seedling",
+      "description": "Infest a creature with a magical seed to drain its health over time.",
+      "name": "Sinister Seedling",
+      "properties": {
+        "level": "2",
+        "school": "necromancy",
+        "casting_time": "action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Restoration",
+        "classes": ["bard,druid,ranger,sorcerer,warlock,wizard"],
+        "components": ["v,s,m"],
+        "icon": "0094_sinister_seedling-icon.webp"
+      }
     }
   }
 }
