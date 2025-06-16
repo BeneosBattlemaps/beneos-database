@@ -2599,7 +2599,7 @@
                 "stat_wis": 11,
                 "thumbnail": "169-mummy_tomb_vizier-1-db.webp",
                 "type": [
-                    "Undead"
+                    "Undead","mummy"
                 ],
                 "videourl": "https://youtu.be/mKE3llLvfI4?si=oABK7A2IQJfjtVwh",
                 "nb_variants": 1
@@ -6840,7 +6840,7 @@
                 "stat_wis": 12,
                 "thumbnail": "153-mummy_tomb_thrall-1-db.webp",
                 "type": [
-                    "undead"
+                    "undead","mummy"
                 ],
                 "videourl": "https://youtu.be/OrHkY6pOYUk?si=dAowNc0C8PGU1KxU",
                 "nb_variants": 2
@@ -18280,43 +18280,6 @@
                 "thumbnail": "000-srd_giant_sea_horse-1-db.webp"
             }
         },
-        "000-srd_giant_seahorse": {
-            "name": "Giant Seahorse",
-            "description": "Glides through ocean currents.",
-            "properties": {
-                "size": "Large",
-                "stat_ac": 12,
-                "stat_cha": 5,
-                "stat_con": 11,
-                "stat_dex": 12,
-                "stat_hp": 16,
-                "stat_int": 2,
-                "stat_str": 15,
-                "stat_wis": 12,
-                "cr": 0.5,
-                "movement": [
-                    "Swim",
-                    "Walk"
-                ],
-                "biom": [
-                    "SRD",
-                    "Underwater"
-                ],
-                "fightingstyle": [
-                    "Mount"
-                ],
-                "purpose": [
-                    "Mount"
-                ],
-                "releaseurl": "https://www.patreon.com/c/BeneosTokens",
-                "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
-                "type": [
-                    "beast"
-                ],
-                "nb_variants": 1,
-                "thumbnail": "000-srd_giant_seahorse-1-db.webp"
-            }
-        },
         "000-srd_giant_shark": {
             "name": "Giant Shark",
             "description": "Its powerful tail driving it into prey with bone-crushing jaws.",
@@ -19268,7 +19231,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "fey"
+                    "fey","hag"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_green_hag-1-db.webp"
@@ -22018,7 +21981,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "undead"
+                    "undead","mummy"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_mummy-1-db.webp"
@@ -22048,21 +22011,17 @@
                 ],
                 "fightingstyle": [
                     "Spellcasting",
-                    "Regeneration",
-                    "Legendary",
-                    "Tank"
+                    "Legendary"
                 ],
                 "purpose": [
                     "Boss",
                     "Legendary",
-                    "Debuff",
-                    "Damage"
+                    "Debuff"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "undead",
-                    "Cleric"
+                    "undead","mummy"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_mummy_lord-1-db.webp"
@@ -22145,7 +22104,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "fiend"
+                    "fiend","hag"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_night_hag-1-db.webp"
@@ -24160,7 +24119,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "fey"
+                    "fey","hag"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_sea_hag-1-db.webp"
