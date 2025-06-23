@@ -27781,14 +27781,15 @@
             }
         },
         "205-torn_titan": {
-            "description": "the torn titan is a bisected, undead giant flailing with its titanic sword.",
+            "description": "The Torn Titan is a bisected, undead giant flailing with its titanic sword.",
             "name": "Torn Titan",
             "properties": {
                 "biom": [
                     "wastelands",
                     "graves",
                     "horror",
-                    "dungeon"
+                    "dungeon",
+					"catacombs"
                 ],
                 "cr": "11",
                 "fightingstyle": "simple",
@@ -27817,7 +27818,7 @@
             }
         },
         "206-unhinged_mimic": {
-            "description": "the unhinged mimic is a mimic teeming with parasites that can animate objects and control players.",
+            "description": "The Unhinged Mimic is a mimic teeming with parasites that can animate objects and control players.",
             "name": "Unhinged Mimic",
             "properties": {
                 "biom": [
