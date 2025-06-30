@@ -37577,6 +37577,690 @@
                                 "download_terms": "SC: Driving - Landscape",
                                 "download_creator": "Beneos Battlemaps"
                                 }
+                    },
+                    "95-01_Goblin_Cave_Well-4k_BM":{
+                        "name":"Goblin Cave Well",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Lair","Mine","City"],
+                        "brightness":"Medium",
+                        "grid":"30x30",
+                        "pack":"95_Goblin_Cave_City",
+                        "releaseurl":"WIP",
+                        "sibling":"95-01_Goblin_Cave_Well-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"95-01_Goblin_Cave_Well-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Goblin Cave City - 95",
+                        "download_terms": "BM: 01 Well",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "95-01_Goblin_Cave_Well-4k_Scen":{
+                                "name":"Goblin Cave Well",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Lair","Mine","City"],
+                                "brightness":"Medium",
+                                "grid":"30x30",
+                                "pack":"95_Goblin_Cave_City",
+                                "releaseurl":"WIP",
+                                "sibling":"95-01_Goblin_Cave_Well-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"95-01_Goblin_Cave_Well-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Goblin Cave City - 95",
+                                "download_terms": "SC: 01 Well",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "95-02_Goblin_Cave_South_Bridge-4k_BM":{
+                        "name":"Goblin Cave South Bridge",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Lair","Mine","City","Bridge"],
+                        "brightness":"Medium",
+                        "grid":"30x30",
+                        "pack":"95_Goblin_Cave_City",
+                        "releaseurl":"WIP",
+                        "sibling":"95-02_Goblin_Cave_South_Bridge-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"95-02_Goblin_Cave_South_Bridge-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Goblin Cave City - 95",
+                        "download_terms": "BM: 02 South Bridge",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "95-02_Goblin_Cave_South_Bridge-4k_Scen":{
+                                "name":"Goblin Cave South Bridge",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Lair","Mine","City","Bridge"],
+                                "brightness":"Medium",
+                                "grid":"30x30",
+                                "pack":"95_Goblin_Cave_City",
+                                "releaseurl":"WIP",
+                                "sibling":"95-02_Goblin_Cave_South_Bridge-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"95-02_Goblin_Cave_South_Bridge-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Goblin Cave City - 95",
+                                "download_terms": "SC: 02 South Bridge",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "95-03_Goblin_Cave_South_Wall-4k_BM":{
+                        "name":"Goblin Cave South Wall",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Lair","Mine","City"],
+                        "brightness":"Medium",
+                        "grid":"30x25",
+                        "pack":"95_Goblin_Cave_City",
+                        "releaseurl":"WIP",
+                        "sibling":"95-03_Goblin_Cave_South_Wall-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"95-03_Goblin_Cave_South_Wall-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Goblin Cave City - 95",
+                        "download_terms": "BM: 03 South Wall",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "95-03_Goblin_Cave_South_Wall-4k_Scen":{
+                                "name":"Goblin Cave South Wall",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Lair","Mine","City"],
+                                "brightness":"Medium",
+                                "grid":"30x25",
+                                "pack":"95_Goblin_Cave_City",
+                                "releaseurl":"WIP",
+                                "sibling":"95-03_Goblin_Cave_South_Wall-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"95-03_Goblin_Cave_South_Wall-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Goblin Cave City - 95",
+                                "download_terms": "SC: 03 South Wall",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "95-04_Goblin_Cave_Main_Bridge-4k_BM":{
+                        "name":"Goblin Cave Main Bridge",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Lair","Mine","Bridge"],
+                        "brightness":"Medium",
+                        "grid":"30x22",
+                        "pack":"95_Goblin_Cave_City",
+                        "releaseurl":"WIP",
+                        "sibling":"95-04_Goblin_Cave_Main_Bridge-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"95-04_Goblin_Cave_Main_Bridge-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Goblin Cave City - 95",
+                        "download_terms": "BM: 04 Main Bridge",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "95-04_Goblin_Cave_Main_Bridge-4k_Scen":{
+                                "name":"Goblin Cave Main Bridge",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Lair","Mine","Bridge"],
+                                "brightness":"Medium",
+                                "grid":"30x22",
+                                "pack":"95_Goblin_Cave_City",
+                                "releaseurl":"WIP",
+                                "sibling":"95-04_Goblin_Cave_Main_Bridge-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"95-04_Goblin_Cave_Main_Bridge-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Goblin Cave City - 95",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "95-05_Goblin_Cave_Center_Wall-4k_BM":{
+                        "name":"Goblin Cave Center Wall",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Lair","Mine","City"],
+                        "brightness":"Medium",
+                        "grid":"25x25",
+                        "pack":"95_Goblin_Cave_City",
+                        "releaseurl":"WIP",
+                        "sibling":"95-05_Goblin_Cave_Center_Wall-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"95-05_Goblin_Cave_Center_Wall-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Goblin Cave City - 95",
+                        "download_terms": "BM: 05 Center Wall",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "95-05_Goblin_Cave_Center_Wall-4k_Scen":{
+                                "name":"Goblin Cave Center Wall",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Lair","Mine","City"],
+                                "brightness":"Medium",
+                                "grid":"25x25",
+                                "pack":"95_Goblin_Cave_City",
+                                "releaseurl":"WIP",
+                                "sibling":"95-05_Goblin_Cave_Center_Wall-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"95-05_Goblin_Cave_Center_Wall-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Goblin Cave City - 95",
+                                "download_terms": "SC: 05 Center Wall",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "95-06_Goblin_Cave_West_Platform-4k_BM":{
+                        "name":"Goblin Cave West Platform",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Lair","Mine","City"],
+                        "brightness":"Medium",
+                        "grid":"40x32",
+                        "pack":"95_Goblin_Cave_City",
+                        "releaseurl":"WIP",
+                        "sibling":"95-06_Goblin_Cave_West_Platform-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"95-06_Goblin_Cave_West_Platform-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Goblin Cave City - 95",
+                        "download_terms": "BM: 06 West Platform",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "95-06_Goblin_Cave_West_Platform-4k_Scen":{
+                                "name":"Goblin Cave West Platform",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Lair","Mine","City"],
+                                "brightness":"Medium",
+                                "grid":"40x32",
+                                "pack":"95_Goblin_Cave_City",
+                                "releaseurl":"WIP",
+                                "sibling":"95-06_Goblin_Cave_West_Platform-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"95-06_Goblin_Cave_West_Platform-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Goblin Cave City - 95",
+                                "download_terms": "SC: 06 West Platform",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "95-07_Goblin_Cave_Elevator-4k_BM":{
+                        "name":"Goblin Cave Elevator",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Lair","Mine","City"],
+                        "brightness":"Medium",
+                        "grid":"40x32",
+                        "pack":"95_Goblin_Cave_City",
+                        "releaseurl":"WIP",
+                        "sibling":"95-07_Goblin_Cave_Elevator-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"95-07_Goblin_Cave_Elevator-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Goblin Cave City - 95",
+                        "download_terms": "BM: 07 Elevator",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "95-07_Goblin_Cave_Elevator-4k_Scen":{
+                                "name":"Goblin Cave Elevator",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Lair","Mine","City"],
+                                "brightness":"Medium",
+                                "grid":"40x32",
+                                "pack":"95_Goblin_Cave_City",
+                                "releaseurl":"WIP",
+                                "sibling":"95-07_Goblin_Cave_Elevator-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"95-07_Goblin_Cave_Elevator-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Goblin Cave City - 95",
+                                "download_terms": "SC: 07 Elevator",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "95-08_Goblin_Cave_West_Bridge-4k_BM":{
+                        "name":"Goblin Cave West Bridge",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Lair","Mine","City"],
+                        "brightness":"Medium",
+                        "grid":"40x25",
+                        "pack":"95_Goblin_Cave_City",
+                        "releaseurl":"WIP",
+                        "sibling":"95-08_Goblin_Cave_West_Bridge-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"95-08_Goblin_Cave_West_Bridge-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Goblin Cave City - 95",
+                        "download_terms": "BM: 08 West Bridge",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "95-08_Goblin_Cave_West_Bridge-4k_Scen":{
+                                "name":"Goblin Cave West Bridge",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Lair","Mine","City"],
+                                "brightness":"Medium",
+                                "grid":"40x25",
+                                "pack":"95_Goblin_Cave_City",
+                                "releaseurl":"WIP",
+                                "sibling":"95-08_Goblin_Cave_West_Bridge-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"95-08_Goblin_Cave_West_Bridge-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Goblin Cave City - 95",
+                                "download_terms": "SC: 08 West Bridge",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "95-09_Goblin_Cave_Throne_Room-4k_BM":{
+                        "name":"Goblin Cave Throne Room",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Lair","Mine","City"],
+                        "brightness":"Medium",
+                        "grid":"40x27",
+                        "pack":"95_Goblin_Cave_City",
+                        "releaseurl":"WIP",
+                        "sibling":"95-09_Goblin_Cave_Throne_Room-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"95-09_Goblin_Cave_Throne_Room-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Goblin Cave City - 95",
+                        "download_terms": "BM: 09 Throne Room",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "95-09_Goblin_Cave_Throne_Room-4k_Scen":{
+                                "name":"Goblin Cave Throne Room",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Lair","Mine","City"],
+                                "brightness":"Medium",
+                                "grid":"40x27",
+                                "pack":"95_Goblin_Cave_City",
+                                "releaseurl":"WIP",
+                                "sibling":"95-09_Goblin_Cave_Throne_Room-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"95-09_Goblin_Cave_Throne_Room-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Goblin Cave City - 95",
+                                "download_terms": "SC: 09 Throne Room",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "95-10_Goblin_Cave_North_Wall-4k_BM":{
+                        "name":"Goblin Cave North Wall",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Lair","Mine","City"],
+                        "brightness":"Medium",
+                        "grid":"40x20",
+                        "pack":"95_Goblin_Cave_City",
+                        "releaseurl":"WIP",
+                        "sibling":"95-10_Goblin_Cave_North_Wall-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"95-10_Goblin_Cave_North_Wall-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Goblin Cave City - 95",
+                        "download_terms": "BM: 10 North Wall",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "95-10_Goblin_Cave_North_Wall-4k_Scen":{
+                                "name":"Goblin Cave North Wall",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Lair","Mine","City"],
+                                "brightness":"Medium",
+                                "grid":"40x20",
+                                "pack":"95_Goblin_Cave_City",
+                                "releaseurl":"WIP",
+                                "sibling":"95-10_Goblin_Cave_North_Wall-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"95-10_Goblin_Cave_North_Wall-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Goblin Cave City - 95",
+                                "download_terms": "SC: 10 North Wall",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "95-11_Goblin_Cave_East_Houses-4k_BM":{
+                        "name":"Goblin Cave East Houses",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Lair","Mine","City"],
+                        "brightness":"Medium",
+                        "grid":"35x25",
+                        "pack":"95_Goblin_Cave_City",
+                        "releaseurl":"WIP",
+                        "sibling":"95-11_Goblin_Cave_East_Houses-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"95-11_Goblin_Cave_East_Houses-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Goblin Cave City - 95",
+                        "download_terms": "BM: 11 East Houses",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "95-11_Goblin_Cave_East_Houses-4k_Scen":{
+                                "name":"Goblin Cave East Houses",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Lair","Mine","City"],
+                                "brightness":"Medium",
+                                "grid":"35x25",
+                                "pack":"95_Goblin_Cave_City",
+                                "releaseurl":"WIP",
+                                "sibling":"95-11_Goblin_Cave_East_Houses-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"95-11_Goblin_Cave_East_Houses-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Goblin Cave City - 95",
+                                "download_terms": "SC: 11 East Houses",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "95-12_Goblin_Cave_Monolith_2F-4k_BM":{
+                        "name":"Goblin Cave Monolith 2F",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Lair","Mine","City"],
+                        "brightness":"Medium",
+                        "grid":"35x30",
+                        "pack":"95_Goblin_Cave_City",
+                        "releaseurl":"WIP",
+                        "sibling":"95-12_Goblin_Cave_Monolith_2F-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"95-12_Goblin_Cave_Monolith_2F-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Goblin Cave City - 95",
+                        "download_terms": "BM: 12 Monolith 2F",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "95-12_Goblin_Cave_Monolith_2F-4k_Scen":{
+                                "name":"Goblin Cave Monolith 2F",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Lair","Mine","City"],
+                                "brightness":"Medium",
+                                "grid":"35x30",
+                                "pack":"95_Goblin_Cave_City",
+                                "releaseurl":"WIP",
+                                "sibling":"95-12_Goblin_Cave_Monolith_2F-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"95-12_Goblin_Cave_Monolith_2F-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Goblin Cave City - 95",
+                                "download_terms": "SC: 12 Monolith 2F",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "95-13_Goblin_Cave_Monolith_1F-4k_BM":{
+                        "name":"Goblin Cave Monolith 1F",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Lair","Mine","City"],
+                        "brightness":"Medium",
+                        "grid":"25x18",
+                        "pack":"95_Goblin_Cave_City",
+                        "releaseurl":"WIP",
+                        "sibling":"95-13_Goblin_Cave_Monolith_1F-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"95-13_Goblin_Cave_Monolith_1F-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Goblin Cave City - 95",
+                        "download_terms": "BM: 13 Monolith 1F",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "95-13_Goblin_Cave_Monolith_1F-4k_Scen":{
+                                "name":"Goblin Cave Monolith 1F",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Lair","Mine","City"],
+                                "brightness":"Medium",
+                                "grid":"25x18",
+                                "pack":"95_Goblin_Cave_City",
+                                "releaseurl":"WIP",
+                                "sibling":"95-13_Goblin_Cave_Monolith_1F-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"95-13_Goblin_Cave_Monolith_1F-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Goblin Cave City - 95",
+                                "download_terms": "SC: 13 Monolith 1F",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "95-14_Goblin_Cave_East_Bridge-4k_BM":{
+                        "name":"Goblin Cave East Bridge",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Lair","Mine","Bridge"],
+                        "brightness":"Medium",
+                        "grid":"43x25",
+                        "pack":"95_Goblin_Cave_City",
+                        "releaseurl":"WIP",
+                        "sibling":"95-14_Goblin_Cave_East_Bridge-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"95-14_Goblin_Cave_East_Bridge-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Goblin Cave City - 95",
+                        "download_terms": "BM: 14 East Bridge",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "95-14_Goblin_Cave_East_Bridge-4k_Scen":{
+                                "name":"Goblin Cave East Bridge",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Lair","Mine","Bridge"],
+                                "brightness":"Medium",
+                                "grid":"43x25",
+                                "pack":"95_Goblin_Cave_City",
+                                "releaseurl":"WIP",
+                                "sibling":"95-14_Goblin_Cave_East_Bridge-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"95-14_Goblin_Cave_East_Bridge-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Goblin Cave City - 95",
+                                "download_terms": "SC: 14 East Bridge",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "95-15_Goblin_Cave_Monolith_3F-4k_BM":{
+                        "name":"Goblin Cave Monolith 3F",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Lair","Mine","City"],
+                        "brightness":"Medium",
+                        "grid":"35x35",
+                        "pack":"95_Goblin_Cave_City",
+                        "releaseurl":"WIP",
+                        "sibling":"95-15_Goblin_Cave_Monolith_3F-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"95-15_Goblin_Cave_Monolith_3F-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Goblin Cave City - 95",
+                        "download_terms": "BM: 15 Monolith 3F",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "95-15_Goblin_Cave_Monolith_3F-4k_Scen":{
+                                "name":"Goblin Cave Monolith 3F",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Lair","Mine","City"],
+                                "brightness":"Medium",
+                                "grid":"35x35",
+                                "pack":"95_Goblin_Cave_City",
+                                "releaseurl":"WIP",
+                                "sibling":"95-15_Goblin_Cave_Monolith_3F-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"95-15_Goblin_Cave_Monolith_3F-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Goblin Cave City - 95",
+                                "download_terms": "SC: 15 Monolith 3F",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "95-16_Goblin_Cave_Mine-4k_BM":{
+                        "name":"Goblin Cave Mine",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Lair","Mine","Bridge"],
+                        "brightness":"Medium",
+                        "grid":"40x25",
+                        "pack":"95_Goblin_Cave_City",
+                        "releaseurl":"WIP",
+                        "sibling":"95-16_Goblin_Cave_Mine-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"95-16_Goblin_Cave_Mine-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Goblin Cave City - 95",
+                        "download_terms": "BM: 16 Mine",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "95-16_Goblin_Cave_Mine-4k_Scen":{
+                                "name":"Goblin Cave Mine",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Lair","Mine","Bridge"],
+                                "brightness":"Medium",
+                                "grid":"40x25",
+                                "pack":"95_Goblin_Cave_City",
+                                "releaseurl":"WIP",
+                                "sibling":"95-16_Goblin_Cave_Mine-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"95-16_Goblin_Cave_Mine-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Goblin Cave City - 95",
+                                "download_terms": "SC: 16 Mine",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "95-17_Goblin_Cave_Monolith_4F-4k_BM":{
+                        "name":"Goblin Cave Monolith 4F",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Lair","Mine","City"],
+                        "brightness":"Medium",
+                        "grid":"40x25",
+                        "pack":"95_Goblin_Cave_City",
+                        "releaseurl":"WIP",
+                        "sibling":"95-17_Goblin_Cave_Monolith_4F-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"95-17_Goblin_Cave_Monolith_4F-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Goblin Cave City - 95",
+                        "download_terms": "BM: 17 Monolith 4F",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "95-17_Goblin_Cave_Monolith_4F-4k_Scen":{
+                                "name":"Goblin Cave Monolith 4F",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Lair","Mine","City"],
+                                "brightness":"Medium",
+                                "grid":"40x25",
+                                "pack":"95_Goblin_Cave_City",
+                                "releaseurl":"WIP",
+                                "sibling":"95-17_Goblin_Cave_Monolith_4F-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"95-17_Goblin_Cave_Monolith_4F-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Goblin Cave City - 95",
+                                "download_terms": "SC: 17 Monolith 4F",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "95-18_Goblin_Cave_Monolith_4F_Ladder-4k_BM":{
+                        "name":"Goblin Cave Monolith 4F Ladder",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Lair","Mine","City"],
+                        "brightness":"Medium",
+                        "grid":"25x20",
+                        "pack":"95_Goblin_Cave_City",
+                        "releaseurl":"WIP",
+                        "sibling":"95-18_Goblin_Cave_Monolith_4F_Ladder-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"95-18_Goblin_Cave_Monolith_4F_Ladder-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Goblin Cave City - 95",
+                        "download_terms": "BM: 18 Monolith 4F Ladder",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "95-18_Goblin_Cave_Monolith_4F_Ladder-4k_Scen":{
+                                "name":"Goblin Cave Monolith 4F Ladder",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Lair","Mine","City"],
+                                "brightness":"Medium",
+                                "grid":"25x20",
+                                "pack":"95_Goblin_Cave_City",
+                                "releaseurl":"WIP",
+                                "sibling":"95-18_Goblin_Cave_Monolith_4F_Ladder-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"95-18_Goblin_Cave_Monolith_4F_Ladder-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Goblin Cave City - 95",
+                                "download_terms": "SC: 18 Monolith 4F Ladder",
+                                "download_creator": "Beneos Battlemaps"
+                                }
                             }
+                        }
                     }
-}
