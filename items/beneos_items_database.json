@@ -1304,6 +1304,62 @@
             "price": "3800",
             "icon": "0093_sunscorched_shield-icon.webp"
             }
+        },
+        "0098_sphinx_key": {
+            "key": "0098_sphinx_key",
+            "description": "Magical key that opens nonmagical locks if you can solve a riddle.",
+            "name": "Sphinx Key",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": false,
+            "origin": "relic",
+            "item_type": "Trinket",
+            "tier": 1,
+            "price": "2850",
+            "icon": "0098_sphinx_key-icon.webp"
+            }
+        },
+        "0099_killing_thought": {
+            "key": "0099_killing_thought",
+            "description": "Crystal blade that you can control with your mind.",
+            "name": "Killing Thought",
+            "properties": {
+            "rarity": "Rare",
+            "attunement": true,
+            "origin": "crystalline",
+            "item_type": "Melee Weapon",
+            "tier": 2,
+            "price": "1250",
+            "icon": "0099_killing_thought-icon.webp"
+            }
+        },
+        "0100_latchling_vial": {
+            "key": "0100_latchling_vial",
+            "description": "Vial containing a parasite capable of creating an allied Animated Object.",
+            "name": "Latchling Vial",
+            "properties": {
+            "rarity": "Uncommon",
+            "attunement": false,
+            "origin": "mutation",
+            "item_type": "Consumable",
+            "tier": 1,
+            "price": "480",
+            "icon": "0100_latchling_vial-icon.webp"
+            }
+        },
+        "0101_spookshroud": {
+            "key": "0101_spookshroud",
+            "description": "Spooky veil that lets you turn into a ghost.",
+            "name": "Spookshroud",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "beastforged",
+            "item_type": "Cloak",
+            "tier": 2,
+            "price": "13001",
+            "icon": "0101_spookshroud-icon.webp"
+            }
          }
        }
      }
