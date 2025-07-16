@@ -38261,6 +38261,310 @@
                                 "download_terms": "SC: 18 Monolith 4F Ladder",
                                 "download_creator": "Beneos Battlemaps"
                                 }
+                    },
+                    "96-01_Regional_Map_OG-4k_BM":{
+                        "name":"Regional Map OG",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Map"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"96_DiA_ch_00_Hellish_Landing_Page",
+                        "releaseurl":"WIP",
+                        "sibling":"96-01_Regional_Map_OG-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"96-01_Regional_Map_OG-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA 00 Hellish Landing Page - 96",
+                        "download_terms": "BM: 01 Landing Page",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "96-01_Regional_Map_OG-4k_Scen":{
+                                "name":"Regional Map OG",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Map"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"96_DiA_ch_00_Hellish_Landing_Page",
+                                "releaseurl":"WIP",
+                                "sibling":"96-01_Regional_Map_OG-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"96-01_Regional_Map_OG-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA 00 Hellish Landing Page - 96",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "96-02_Regional_Map_Extended-4k_BM":{
+                        "name":"Regional Map Extended",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Map"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"96_DiA_ch_00_Hellish_Landing_Page",
+                        "releaseurl":"WIP",
+                        "sibling":"96-02_Regional_Map_Extended-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"96-02_Regional_Map_Extended-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA 00 Hellish Landing Page - 96",
+                        "download_terms": "BM: 02 NPCs",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "96-02_Regional_Map_Extended-4k_Scen":{
+                                "name":"Regional Map Extended",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Map"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"96_DiA_ch_00_Hellish_Landing_Page",
+                                "releaseurl":"WIP",
+                                "sibling":"96-02_Regional_Map_Extended-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"96-02_Regional_Map_Extended-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA 00 Hellish Landing Page - 96",
+                                "download_terms": "SC: 02 NPCs",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "96-03_Regional_Map_Area_A-4k_BM":{
+                        "name":"Regional Map Area A",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Map"],
+                        "brightness":"Medium",
+                        "grid":"42x36",
+                        "pack":"96_DiA_ch_00_Hellish_Landing_Page",
+                        "releaseurl":"WIP",
+                        "sibling":"96-03_Regional_Map_Area_A-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"96-03_Regional_Map_Area_A-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA 00 Hellish Landing Page - 96",
+                        "download_terms": "BM: 03 Table",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "96-03_Regional_Map_Area_A-4k_Scen":{
+                                "name":"Regional Map Area A",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Map"],
+                                "brightness":"Medium",
+                                "grid":"42x36",
+                                "pack":"96_DiA_ch_00_Hellish_Landing_Page",
+                                "releaseurl":"WIP",
+                                "sibling":"96-03_Regional_Map_Area_A-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"96-03_Regional_Map_Area_A-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA 00 Hellish Landing Page - 96",
+                                "download_terms": "SC: 03 Table",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "96-04_Regional_Map_Area_B-4k_BM":{
+                        "name":"Regional Map Area B",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Map"],
+                        "brightness":"Medium",
+                        "grid":"42x36",
+                        "pack":"96_DiA_ch_00_Hellish_Landing_Page",
+                        "releaseurl":"WIP",
+                        "sibling":"96-04_Regional_Map_Area_B-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"96-04_Regional_Map_Area_B-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA 00 Hellish Landing Page - 96",
+                        "download_terms": "BM: 04 Garage",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "96-04_Regional_Map_Area_B-4k_Scen":{
+                                "name":"Regional Map Area B",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Map"],
+                                "brightness":"Medium",
+                                "grid":"42x36",
+                                "pack":"96_DiA_ch_00_Hellish_Landing_Page",
+                                "releaseurl":"WIP",
+                                "sibling":"96-04_Regional_Map_Area_B-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"96-04_Regional_Map_Area_B-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA 00 Hellish Landing Page - 96",
+                                "download_terms": "SC: 04 Garage",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "96-05_Regional_Map_Area_C-4k_BM":{
+                        "name":"Regional Map Area C",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Map"],
+                        "brightness":"Medium",
+                        "grid":"45x30",
+                        "pack":"96_DiA_ch_00_Hellish_Landing_Page",
+                        "releaseurl":"WIP",
+                        "sibling":"96-05_Regional_Map_Area_C-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"96-05_Regional_Map_Area_C-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA 00 Hellish Landing Page - 96",
+                        "download_terms": "BM: 05 Map Original",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "96-05_Regional_Map_Area_C-4k_Scen":{
+                                "name":"Regional Map Area C",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Map"],
+                                "brightness":"Medium",
+                                "grid":"45x30",
+                                "pack":"96_DiA_ch_00_Hellish_Landing_Page",
+                                "releaseurl":"WIP",
+                                "sibling":"96-05_Regional_Map_Area_C-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"96-05_Regional_Map_Area_C-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA 00 Hellish Landing Page - 96",
+                                "download_terms": "SC: 05 Map Original",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "96-06_Regional_Map_Area_D-4k_BM":{
+                        "name":"Regional Map Area D",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Map"],
+                        "brightness":"Medium",
+                        "grid":"36x30",
+                        "pack":"96_DiA_ch_00_Hellish_Landing_Page",
+                        "releaseurl":"WIP",
+                        "sibling":"96-06_Regional_Map_Area_D-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"96-06_Regional_Map_Area_D-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA 00 Hellish Landing Page - 96",
+                        "download_terms": "BM: 06 Map Extended",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "96-06_Regional_Map_Area_D-4k_Scen":{
+                                "name":"Regional Map Area D",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Map"],
+                                "brightness":"Medium",
+                                "grid":"36x30",
+                                "pack":"96_DiA_ch_00_Hellish_Landing_Page",
+                                "releaseurl":"WIP",
+                                "sibling":"96-06_Regional_Map_Area_D-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"96-06_Regional_Map_Area_D-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA 00 Hellish Landing Page - 96",
+                                "download_terms": "SC: 06 Map Extended",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "96-07_Regional_Map_Area_E-4k_BM":{
+                        "name":"Regional Map Area E",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Map"],
+                        "brightness":"Medium",
+                        "grid":"36x30",
+                        "pack":"96_DiA_ch_00_Hellish_Landing_Page",
+                        "releaseurl":"WIP",
+                        "sibling":"96-07_Regional_Map_Area_E-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"96-07_Regional_Map_Area_E-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA 00 Hellish Landing Page - 96",
+                        "download_terms": "BM: 07 Area A",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "96-07_Regional_Map_Area_E-4k_Scen":{
+                                "name":"Regional Map Area E",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Map"],
+                                "brightness":"Medium",
+                                "grid":"36x30",
+                                "pack":"96_DiA_ch_00_Hellish_Landing_Page",
+                                "releaseurl":"WIP",
+                                "sibling":"96-07_Regional_Map_Area_E-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"96-07_Regional_Map_Area_E-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA 00 Hellish Landing Page - 96",
+                                "download_terms": "SC: 07 Area A",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "96-08_Regional_Map_Area_F-4k_BM":{
+                        "name":"Regional Map Area F",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Map"],
+                        "brightness":"Medium",
+                        "grid":"45x30",
+                        "pack":"96_DiA_ch_00_Hellish_Landing_Page",
+                        "releaseurl":"WIP",
+                        "sibling":"96-08_Regional_Map_Area_F-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"96-08_Regional_Map_Area_F-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "DiA 00 Hellish Landing Page - 96",
+                        "download_terms": "BM: 08 Area B",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "96-08_Regional_Map_Area_F-4k_Scen":{
+                                "name":"Regional Map Area F",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Map"],
+                                "brightness":"Medium",
+                                "grid":"45x30",
+                                "pack":"96_DiA_ch_00_Hellish_Landing_Page",
+                                "releaseurl":"WIP",
+                                "sibling":"96-08_Regional_Map_Area_F-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"96-08_Regional_Map_Area_F-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "DiA 00 Hellish Landing Page - 96",
+                                "download_terms": "SC: 08 Area B",
+                                "download_creator": "Beneos Battlemaps"
+                                }
                             }
                         }
                     }
