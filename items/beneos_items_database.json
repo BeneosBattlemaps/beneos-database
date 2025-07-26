@@ -1360,6 +1360,20 @@
             "price": "13001",
             "icon": "0101_spookshroud-icon.webp"
             }
+        },
+        "0101_spookshroud": {
+            "key": "0101_spookshroud",
+            "description": "Spooky veil that lets you turn into a ghost.",
+            "name": "spookshroud",
+            "properties": {
+            "rarity": "Very Rare",
+            "attunement": true,
+            "origin": "beastforged",
+            "item_type": "Clothing",
+            "tier": 2,
+            "price": "13001",
+            "icon": "0101_spookshroud-icon.webp"
+            }
          }
        }
      }
