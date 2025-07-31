@@ -1465,7 +1465,7 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "Immobilization",
-        "classes": ["Warlock", "Sorcerer", "Wizard"],
+        "classes": ["Druid", "Warlock", "Sorcerer", "Wizard"],
         "components": ["V", "S"],
         "icon": "0062_flashfreeze-icon.webp"
       }
@@ -1625,7 +1625,7 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "Utility",
-        "classes": ["Sorcerer", "Wizard"],
+        "classes": ["Bard", "Cleric", "Druid", "Sorcerer", "Wizard"],
         "components": ["V", "S","M"],
         "icon": "0072_campfire_tales-icon.webp"
       }
