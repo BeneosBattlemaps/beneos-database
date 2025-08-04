@@ -3432,7 +3432,7 @@
         },
         "000-srd_awakened_shrub": {
             "name": "Awakened Shrub",
-            "description": "A humble shrub brought to life by druidic magic, it entangles foes with sinewy branches and sudden bursts of motion. Though slow, its ambushes catch intruders off guard.",
+            "description": "A humble shrub brought to life. Though feeble, it might intruders off guard.",
             "properties": {
                 "size": "Small",
                 "stat_ac": 12,
@@ -3469,7 +3469,7 @@
         },
         "000-srd_awakened_tree": {
             "name": "Awakened Tree",
-            "description": "Brought to life by ancient magic, its limbs creaking as they reach out to ensnare intruders.",
+            "description": "A lumbering tree brought to life, often used as a guardian by nature-adjacent magic users.",
             "properties": {
                 "size": "Huge",
                 "stat_ac": 13,
@@ -3505,7 +3505,7 @@
         },
         "000-srd_axe_beak": {
             "name": "Axe Beak",
-            "description": "Charges across plains, its bony crest smashing foes with brutal force.",
+            "description": "A large, flightless bird with an axe-shaped beak.",
             "properties": {
                 "size": "Large",
                 "stat_ac": 12,
@@ -3580,7 +3580,7 @@
         },
         "000-srd_baboon": {
             "name": "Baboon",
-            "description": "Leaps through branches with wild screeches.",
+            "description": "Aggressive in groups but individually weak. More than capable of throwing careless adventurers off a tree, though.",
             "properties": {
                 "size": "Small",
                 "stat_ac": 12,
@@ -3604,7 +3604,7 @@
                     "Simple", "Pack"
                 ],
                 "purpose": [
-                    "Classic"
+                    "Critter"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -3642,7 +3642,7 @@
                     "Simple"
                 ],
                 "purpose": [
-                    "Classic"
+                    "Critter"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -3766,7 +3766,7 @@
         },
         "000-srd_barbed_devil": {
             "name": "Barbed Devil",
-            "description": "Spined flesh impales any who strike it.",
+            "description": "A lesser devil covered in barbs. A serviceable combatant, although easily overshadowed by more interesting devils, of which there are many.",
             "properties": {
                 "size": "Medium",
                 "stat_ac": 15,
@@ -3804,7 +3804,7 @@
         },
         "000-srd_basilisk": {
             "name": "Basilisk",
-            "description": "A petrifying reptile whose gaze turns flesh to stone.",
+            "description": "A six-legged reptile whose gaze turns flesh to stone. Ironically, its blood can be used to revert the petrificiation.",
             "properties": {
                 "size": "Medium",
                 "stat_ac": 15,
@@ -3843,7 +3843,7 @@
         },
         "000-srd_bat": {
             "name": "Bat",
-            "description": "Flits silently in dark caverns, guided by keen echolocation.",
+            "description": "A tiny critter used for scouting or ambiance.",
             "properties": {
                 "size": "Tiny",
                 "stat_ac": 12,
@@ -3883,7 +3883,7 @@
         },
         "000-srd_bearded_devil": {
             "name": "Bearded Devil",
-            "description": "A disciplined infernal warrior whose venomous beard and cursed glaive bleed enemies over time.",
+            "description": "A low-tier infernal warrior with a venomous beard and a cursed glaive.",
             "properties": {
                 "size": "Medium",
                 "stat_ac": 13,
@@ -3921,7 +3921,7 @@
         },
         "000-srd_behir": {
             "name": "Behir",
-            "description": "A massive, serpentine predator with armored hide and lightning breath.",
+            "description": "Deceptively challenging serpentine monstrosity with a debilitating constrict ability and a powerful lightning breath.",
             "properties": {
                 "size": "Huge",
                 "stat_ac": 17,
@@ -3997,7 +3997,7 @@
         },
         "000-srd_black_bear": {
             "name": "Black Bear",
-            "description": "Swiping with sharp claws and roaring to intimidate foes.",
+            "description": "Less threatening than a Grizzly or Polar Bear, more dangerous than a Koala.",
             "properties": {
                 "size": "Medium",
                 "stat_ac": 12,
@@ -4035,7 +4035,7 @@
         },
         "000-srd_black_dragon_wyrmling": {
             "name": "Black Dragon Wyrmling",
-            "description": "A cunning swamp predator that melts foes with acidic breath.",
+            "description": "A juvenile Black Dragon.",
             "properties": {
                 "size": "Medium",
                 "stat_ac": 17,
@@ -4062,7 +4062,7 @@
                     "Simple"
                 ],
                 "purpose": [
-                    "Critter", "Classic"
+                    "Critter"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -4112,7 +4112,7 @@
         },
         "000-srd_blink_dog": {
             "name": "Blink Dog",
-            "description": "Teleports in flashes of blue light.",
+            "description": "A dog that can teleport, rendering leashes obsolete.",
             "properties": {
                 "size": "Medium",
                 "stat_ac": 12,
