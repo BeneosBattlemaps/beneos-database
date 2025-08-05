@@ -26669,8 +26669,8 @@
             }
         },
         "194-knight_mounted": {
-            "description": " the mounted knight is the ultimate symbiosis of man and beast, clad in heavy iron and propelled forth by half a ton of pure muscle tricked into charging towards danger.",
-            "name": "Knight Mounted",
+            "description": " The mounted knight is the ultimate symbiosis of man and beast, clad in heavy iron and propelled forth by half a ton of pure muscle tricked into charging towards danger.",
+            "name": "Knight (Mounted)",
             "properties": {
                 "biom": [
                     "Civilized",
@@ -26705,7 +26705,7 @@
         },
         "194-knight_unmounted": {
             "description": "Even removed from his steed, a knight boasts nearly unparalleled martial might, utilizing their heavy plate as an extension of their body, rather than a hindrance.",
-            "name": "Knight Unmounted",
+            "name": "Knight (Unmounted)",
             "properties": {
                 "biom": [
                     "Civilized",
