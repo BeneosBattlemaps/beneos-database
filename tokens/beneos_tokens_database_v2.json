@@ -1479,7 +1479,7 @@
                 "stat_wis": 13,
                 "thumbnail": "000-month_23_living_fossil_smilodon-1-db.webp",
                 "type": [
-                    "elemental, earth"
+                    "elemental", "earth"
                 ],
                 "videourl": "https://youtu.be/nbzaqxwyvei",
                 "nb_variants": 1
@@ -1518,7 +1518,7 @@
                 "stat_wis": 12,
                 "thumbnail": "000-month_23_living_fossil_tyrannosaurus-1-db.webp",
                 "type": [
-                    "elemental, earth"
+                    "elemental", "earth"
                 ],
                 "videourl": "https://youtu.be/nbzaqxwyvei",
                 "nb_variants": 1
@@ -1568,8 +1568,7 @@
                 "stat_wis": 16,
                 "thumbnail": "000-month_3_draconic_elite-1-db.webp",
                 "type": [
-                    "dragon",
-                    "Beneos Loyalty Token"
+                    "dragon"
                 ],
                 "videourl": "https://youtu.be/tnOtP7tXB7M",
                 "nb_variants": 6
@@ -1615,8 +1614,7 @@
                 "stat_wis": 22,
                 "thumbnail": "000-month_4_valkyrie-1-db.webp",
                 "type": [
-                    "celestial",
-                    "Beneos Loyalty Token"
+                    "celestial"
                 ],
                 "videourl": "https://youtu.be/CoFpWUb5aWg",
                 "nb_variants": 1
@@ -1667,8 +1665,7 @@
                 "thumbnail": "000-month_5_crownbreaker_archwyvern-1-db.webp",
                 "type": [
                     "Dragon",
-                    "Wyvern",
-                    "Beneos Loyalty Token"
+                    "Wyvern"
                 ],
                 "videourl": "https://youtu.be/cTnFnZ1YzcA",
                 "nb_variants": 1
@@ -1709,8 +1706,7 @@
                 "stat_wis": 16,
                 "thumbnail": "000-month_6_emissary_of_annihilation-1-db.webp",
                 "type": [
-                    "Construct",
-                    "Beneos Loyalty Token"
+                    "Construct"
                 ],
                 "videourl": "https://youtu.be/Yx8049uGtVg?si=PE5vpeCGflnO79-T",
                 "nb_variants": 1
@@ -1753,8 +1749,7 @@
                 "stat_wis": 22,
                 "thumbnail": "000-month_7_azure_dragon_sage-1-db.webp",
                 "type": [
-                    "dragon",
-                    "Beneos Loyalty Token"
+                    "dragon"
                 ],
                 "videourl": "https://youtu.be/wbLSRUy-QTY?si=VeM6-ug_ybSX21tr",
                 "nb_variants": 1
@@ -26605,7 +26600,7 @@
             }
         },
         "193-Graves_golem": {
-            "description": "A shambling colossus of burial earth, its flesh a patchwork of Gravesstones, wilted remains, and shifting, restless dead.",
+            "description": "A shambling colossus of burial earth, its flesh a patchwork of Gravestones, wilted remains, and shifting, restless dead.",
             "name": "Grave Golem",
             "properties": {
                 "biom": [
@@ -26634,15 +26629,15 @@
                 "stat_int": 3,
                 "stat_str": 22,
                 "stat_wis": 12,
-                "thumbnail": "193-Graves_golem-1-db.webp",
+                "thumbnail": "193-grave_golem-1-db.webp",
                 "type": "construct",
                 "videourl": "https://youtu.be/eqnntpndsju",
                 "nb_variants": 1
             }
         },
-        "193-Gravesstones": {
-            "description": "Gravesstones only serve as markers for the Graves Golem.",
-            "name": "Gravesstones",
+        "193-Gravestones": {
+            "description": "Gravestones only serve as markers for the Graves Golem.",
+            "name": "Gravestones",
             "properties": {
                 "biom": [
                     "Wilderness",
@@ -26667,7 +26662,7 @@
                 "stat_int": 1,
                 "stat_str": 1,
                 "stat_wis": 1,
-                "thumbnail": "193-Gravesstones-1-db.webp",
+                "thumbnail": "193-gravestones-1-db.webp",
                 "type": "construct",
                 "videourl": "https://youtu.be/eqnntpndsju",
                 "nb_variants": 7
@@ -26693,7 +26688,7 @@
                 "movement": "walk",
                 "purpose": "duelist",
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
-                "size": "largee",
+                "size": "large",
                 "stat_ac": 20,
                 "stat_cha": 14,
                 "stat_con": 15,
@@ -26727,7 +26722,7 @@
                     "Tank", "Classic"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
-                "size": "huge",
+                "size": "medium",
                 "stat_ac": 20,
                 "stat_cha": 14,
                 "stat_con": 15,
@@ -27127,7 +27122,7 @@
                 "stat_str": 13,
                 "stat_wis": 11,
                 "thumbnail": "204-nightmaiden-1-db.webp",
-                "type": "fey, hag",
+                "type": ["fey","hag"]
                 "videourl": "https://youtu.be/mb_g5ctswqk",
                 "nb_variants": 3
             }
