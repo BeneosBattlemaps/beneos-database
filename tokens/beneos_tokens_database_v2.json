@@ -21985,7 +21985,7 @@
         },
         "098-knight_of_tragedy": {
             "description": "Collapsed under the weight of their oaths, these fallen Knights are bound to ruined castles or abandoned chapels. Some sold their souls to protect their brethren, transgressed against their patron saint or broke their oath so severly that it resulted in the total corruption of their being. Whatever the reason for their downfall, these erstwhile epitomes of piety and righteousness have become dark mirrors of their past, now doomed to cause the same pain and suffering they were once sworn to fight. Steeped in tragedy, these Knights are solemn creatures, most harboring the secret desire to die in combat, being finally brought to justice by a righteous blade.",
-            "name": "Knight Of Tragedy",
+            "name": "Knight of Tragedy",
             "properties": {
                 "biom": [
                     "Dungeon",
@@ -26522,7 +26522,7 @@
                 "stat_str": 14,
                 "stat_wis": 6,
                 "thumbnail": "190-casket_crawler-1-db.webp",
-                "type": "undead",
+                "type": ["undead"],
                 "videourl": "https://youtu.be/zjrj0u5u1oe",
                 "nb_variants": 2
             }
@@ -26630,7 +26630,7 @@
                 "stat_str": 22,
                 "stat_wis": 12,
                 "thumbnail": "193-grave_golem-1-db.webp",
-                "type": "construct",
+                "type": ["construct", "golem"],
                 "videourl": "https://youtu.be/eqnntpndsju",
                 "nb_variants": 1
             }
@@ -26663,7 +26663,7 @@
                 "stat_str": 1,
                 "stat_wis": 1,
                 "thumbnail": "193-gravestones-1-db.webp",
-                "type": "construct",
+                "type": ["object"],
                 "videourl": "https://youtu.be/eqnntpndsju",
                 "nb_variants": 7
             }
@@ -26698,7 +26698,7 @@
                 "stat_str": 16,
                 "stat_wis": 10,
                 "thumbnail": "194-knight_mounted-1-db.webp",
-                "type": "humanoid",
+                "type": ["humanoid"],
                 "videourl": "https://youtu.be/f1yr_zgj9b4",
                 "nb_variants": 1
             }
@@ -26732,7 +26732,7 @@
                 "stat_str": 16,
                 "stat_wis": 10,
                 "thumbnail": "194-knight_unmounted-1-db.webp",
-                "type": "humanoid",
+                "type": ["humanoid"],
                 "videourl": "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
                 "nb_variants": 1
             }
@@ -26854,7 +26854,7 @@
                 "stat_str": 6,
                 "stat_wis": 3,
                 "thumbnail": "197-soulgrasp_mirror-1-db.webp",
-                "type": "construct",
+                "type": ["construct"],
                 "videourl": "https://youtu.be/90df8ngyn0s",
                 "nb_variants": 1
             }
@@ -26927,7 +26927,9 @@
                 "stat_str": 13,
                 "stat_wis": 3,
                 "thumbnail": "199-ghostflicker_candelabra-1-db.webp",
-                "type": "construct",
+                "type": [
+                    "construct"
+                ],
                 "videourl": "https://youtu.be/lsk4_0desgs",
                 "nb_variants": 2
             }
@@ -27050,7 +27052,7 @@
                 "stat_str": 22,
                 "stat_wis": 12,
                 "thumbnail": "202-curseroot_bloomblight-1-db.webp",
-                "type": "plant",
+                "type": ["plant"],
                 "videourl": "https://youtu.be/ydy0odh7pus",
                 "nb_variants": 1
             }
@@ -27085,7 +27087,7 @@
                 "stat_str": 22,
                 "stat_wis": 14,
                 "thumbnail": "203-yeti_frostfiend-1-db.webp",
-                "type": "monstrosity",
+                "type": ["monstrosity"],
                 "videourl": "https://youtu.be/gsgklnrikzc",
                 "nb_variants": 1
             }
@@ -27122,7 +27124,7 @@
                 "stat_str": 13,
                 "stat_wis": 11,
                 "thumbnail": "204-nightmaiden-1-db.webp",
-                "type": ["fey","hag"]
+                "type": ["fey","hag"],
                 "videourl": "https://youtu.be/mb_g5ctswqk",
                 "nb_variants": 3
             }
@@ -27196,7 +27198,9 @@
                 "stat_str": 18,
                 "stat_wis": 13,
                 "thumbnail": "206-unhinged_mimic-1-db.webp",
-                "type": "monstrosity",
+                "type": [
+                    "monstrosity"
+                ],
                 "videourl": "https://youtu.be/utbkoe8btsm",
                 "nb_variants": 1
             }
@@ -27234,7 +27238,9 @@
                 "stat_str": 13,
                 "stat_wis": 17,
                 "thumbnail": "207-mind_tyrant_vivisector-1-db.webp",
-                "type": "aberration",
+                "type": [
+                    "aberration"
+                ],
                 "videourl": "https://youtu.be/utbkoe8btsm",
                 "nb_variants": 2
             }
@@ -27347,7 +27353,9 @@
                 "stat_str": 10,
                 "stat_wis": 10,
                 "thumbnail": "210-awakened_instruments-1-db.webp",
-                "type": "construct",
+                "type": [
+                    "construct"
+                ],
                 "videourl": "https://youtu.be/38vwtlph9no",
                 "nb_variants": 4
             }
@@ -27387,7 +27395,7 @@
                 "stat_str": 22,
                 "stat_wis": 12,
                 "thumbnail": "212-uvargandr-1-db.webp",
-                "type": "dragon",
+                "type": ["dragon"],
                 "videourl": "https://youtu.be/s5ijsc8uexs",
                 "nb_variants": 1
             }
