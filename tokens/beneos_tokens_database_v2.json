@@ -27311,7 +27311,9 @@
                 "stat_str": 9,
                 "stat_wis": 18,
                 "thumbnail": "209-great_thinker-1-db.webp",
-                "type": "aberration",
+                "type": [
+                    "aberration"
+                ],
                 "videourl": "https://youtu.be/utbkoe8btsm",
                 "nb_variants": 1
             }
