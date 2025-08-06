@@ -38565,6 +38565,158 @@
                                 "download_terms": "SC: 08 Area B",
                                 "download_creator": "Beneos Battlemaps"
                                 }
+                    },
+                    "97-01_modular_sewer_1-4k_BM":{
+                        "name":"modular sewer 1",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Sewer","Civilization","Dungeon","Undergound","Cave"],
+                        "brightness":"Medium",
+                        "grid":"48x32",
+                        "pack":"97_Modular_Sewer",
+                        "releaseurl":"WIP",
+                        "sibling":"97-01_modular_sewer_1-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"97-01_modular_sewer_1-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Modular Sewer - 97",
+                        "download_terms": "BM: 01 South-East",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "97-01_modular_sewer_1-4k_Scen":{
+                                "name":"modular sewer 1",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Sewer","Civilization","Dungeon","Undergound","Cave"],
+                                "brightness":"Medium",
+                                "grid":"48x32",
+                                "pack":"97_Modular_Sewer",
+                                "releaseurl":"WIP",
+                                "sibling":"97-01_modular_sewer_1-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"97-01_modular_sewer_1-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Modular Sewer - 97",
+                                "download_terms": "SC: 01 South-East",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "97-02_modular_sewer_2-4k_BM":{
+                        "name":"modular sewer 2",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Sewer","Civilization","Dungeon","Undergound"],
+                        "brightness":"Medium",
+                        "grid":"30x23",
+                        "pack":"97_Modular_Sewer",
+                        "releaseurl":"WIP",
+                        "sibling":"97-02_modular_sewer_2-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"97-02_modular_sewer_2-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Modular Sewer - 97",
+                        "download_terms": "BM: 02 South-West",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "97-02_modular_sewer_2-4k_Scen":{
+                                "name":"modular sewer 2",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Sewer","Civilization","Dungeon","Undergound"],
+                                "brightness":"Medium",
+                                "grid":"30x23",
+                                "pack":"97_Modular_Sewer",
+                                "releaseurl":"WIP",
+                                "sibling":"97-02_modular_sewer_2-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"97-02_modular_sewer_2-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Modular Sewer - 97",
+                                "download_terms": "SC: 02 South-West",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "97-03_modular_sewer_3-4k_BM":{
+                        "name":"modular sewer 3",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Sewer","Civilization","Dungeon","Undergound","Cave"],
+                        "brightness":"Medium",
+                        "grid":"45x45",
+                        "pack":"97_Modular_Sewer",
+                        "releaseurl":"WIP",
+                        "sibling":"97-03_modular_sewer_3-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"97-03_modular_sewer_3-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Modular Sewer - 97",
+                        "download_terms": "BM: 03 North-West",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "97-03_modular_sewer_3-4k_Scen":{
+                                "name":"modular sewer 3",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Sewer","Civilization","Dungeon","Undergound","Cave"],
+                                "brightness":"Medium",
+                                "grid":"45x45",
+                                "pack":"97_Modular_Sewer",
+                                "releaseurl":"WIP",
+                                "sibling":"97-03_modular_sewer_3-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"97-03_modular_sewer_3-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Modular Sewer - 97",
+                                "download_terms": "SC: 03 North-West",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "97-04_modular_sewer_4-4k_BM":{
+                        "name":"modular sewer 4",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Sewer","Civilization","Dungeon","Undergound","Cave"],
+                        "brightness":"Medium",
+                        "grid":"45x30",
+                        "pack":"97_Modular_Sewer",
+                        "releaseurl":"WIP",
+                        "sibling":"97-04_modular_sewer_4-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"97-04_modular_sewer_4-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Modular Sewer - 97",
+                        "download_terms": "BM: 04 North-East",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "97-04_modular_sewer_4-4k_Scen":{
+                                "name":"modular sewer 4",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Sewer","Civilization","Dungeon","Undergound","Cave"],
+                                "brightness":"Medium",
+                                "grid":"45x30",
+                                "pack":"97_Modular_Sewer",
+                                "releaseurl":"WIP",
+                                "sibling":"97-04_modular_sewer_4-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"97-04_modular_sewer_4-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Modular Sewer - 97",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps"
+                                }
                             }
                         }
                     }
