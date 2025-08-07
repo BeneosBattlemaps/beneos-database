@@ -26561,7 +26561,7 @@
             }
         },
         "192-alchemist": {
-            "description": " the alchemist showcases what's possible when you get creative with magic, a great centerpiece for a story revolving around the dangers of unchecked arcana.",
+            "description": "The alchemist showcases what's possible when you get creative with magic, a great centerpiece for a story revolving around the dangers of unchecked arcana.",
             "name": "Alchemist",
             "properties": {
                 "biom": [
@@ -26902,7 +26902,7 @@
             }
         },
         "199-ghostflicker_candelabra": {
-            "description": "The ghostflicker candelabra is a majestic animated chandelier dousing unsuspecting creatures with ethereal fire.",
+            "description": "The Ghostflicker candelabra is a majestic animated chandelier dousing unsuspecting creatures with ethereal fire.",
             "name": "Ghostflicker Candelabra",
             "properties": {
                 "biom": [
@@ -26935,7 +26935,7 @@
             }
         },
         "200-city_guard_interrogator": {
-            "description": "The interrogators are a specialized unit within the city guard, tasked with hunting down and neutralizing rogue magic users.",
+            "description": "The Interrogators are a specialized unit within the city guard, tasked with hunting down and neutralizing rogue magic users.",
             "name": "City Guard Interrogator",
             "properties": {
                 "biom": [
@@ -27058,7 +27058,7 @@
             }
         },
         "203-yeti_frostfiend": {
-            "description": "Frostfiends attack suddenly from the cover of storm-battered snow squalls, capable of tearing a seasoned adventurer limb from limb in a matter of seconds",
+            "description": "Frostfiends attack suddenly from the cover of storm-battered snow squalls, capable of tearing a seasoned adventurer limb from limb in a matter of seconds.",
             "name": "Yeti Frostfiend",
             "properties": {
                 "biom": [
@@ -27286,7 +27286,7 @@
             }
         },
         "209-great_thinker": {
-            "description": "The Great Thinker is the extracted brain of a powerful Mind T instrumentalized as a psionic nexus.",
+            "description": "The Great Thinker is the extracted brain of a powerful Mind Tyrant instrumentalized as a psionic nexus.",
             "name": "Mind Tyrant Great Thinker",
             "properties": {
                 "biom": [
