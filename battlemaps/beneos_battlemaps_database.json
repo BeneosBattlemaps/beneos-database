@@ -38717,6 +38717,310 @@
                                 "download_terms": "Overview",
                                 "download_creator": "Beneos Battlemaps"
                                 }
+                    },
+                    "98-01_Demon_Grinder_Driving-4k_BM":{
+                        "name":"Demon Grinder Driving",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Vehicle","Special","Fast Movement","Hell"],
+                        "brightness":"Medium",
+                        "grid":"40x24",
+                        "pack":"98_DiA_Infernal_War_Machines",
+                        "releaseurl":"WIP",
+                        "sibling":"98-01_Demon_Grinder_Driving-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"98-01_Demon_Grinder_Driving-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Infernal War Machines - 98",
+                        "download_terms": "BM: Demon Grinder Driving",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "98-01_Demon_Grinder_Driving-4k_Scen":{
+                                "name":"Demon Grinder Driving",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Vehicle","Special","Fast Movement","Hell"],
+                                "brightness":"Medium",
+                                "grid":"40x24",
+                                "pack":"98_DiA_Infernal_War_Machines",
+                                "releaseurl":"WIP",
+                                "sibling":"98-01_Demon_Grinder_Driving-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"98-01_Demon_Grinder_Driving-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Infernal War Machines - 98",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "98-02_Demon_Grinder_Camp-4k_BM":{
+                        "name":"Demon Grinder Camp",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Vehicle","Special","Camp","Hell"],
+                        "brightness":"Medium",
+                        "grid":"35x23",
+                        "pack":"98_DiA_Infernal_War_Machines",
+                        "releaseurl":"WIP",
+                        "sibling":"98-02_Demon_Grinder_Camp-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"98-02_Demon_Grinder_Camp-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Infernal War Machines - 98",
+                        "download_terms": "BM: Demon Grinder Camp",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "98-02_Demon_Grinder_Camp-4k_Scen":{
+                                "name":"Demon Grinder Camp",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Vehicle","Special","Camp","Hell"],
+                                "brightness":"Medium",
+                                "grid":"35x23",
+                                "pack":"98_DiA_Infernal_War_Machines",
+                                "releaseurl":"WIP",
+                                "sibling":"98-02_Demon_Grinder_Camp-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"98-02_Demon_Grinder_Camp-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Infernal War Machines - 98",
+                                "download_terms": "SC: Demon Grinder Camp",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "98-03_Devils_Ride_Driving-4k_BM":{
+                        "name":"Devils Ride Driving",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Vehicle","Special","Fast Movement","Hell"],
+                        "brightness":"Medium",
+                        "grid":"40x24",
+                        "pack":"98_DiA_Infernal_War_Machines",
+                        "releaseurl":"WIP",
+                        "sibling":"98-03_Devils_Ride_Driving-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"98-03_Devils_Ride_Driving-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Infernal War Machines - 98",
+                        "download_terms": "BM: Devils Ride Driving",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "98-03_Devils_Ride_Driving-4k_Scen":{
+                                "name":"Devils Ride Driving",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Vehicle","Special","Fast Movement","Hell"],
+                                "brightness":"Medium",
+                                "grid":"40x24",
+                                "pack":"98_DiA_Infernal_War_Machines",
+                                "releaseurl":"WIP",
+                                "sibling":"98-03_Devils_Ride_Driving-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"98-03_Devils_Ride_Driving-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Infernal War Machines - 98",
+                                "download_terms": "SC: Devils Ride Driving",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "98-04_Devils_Ride_Camp-4k_BM":{
+                        "name":"Devils Ride Camp",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Vehicle","Special","Camp","Hell"],
+                        "brightness":"Medium",
+                        "grid":"35x23",
+                        "pack":"98_DiA_Infernal_War_Machines",
+                        "releaseurl":"WIP",
+                        "sibling":"98-04_Devils_Ride_Camp-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"98-04_Devils_Ride_Camp-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Infernal War Machines - 98",
+                        "download_terms": "BM: Devils Ride Camp",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "98-04_Devils_Ride_Camp-4k_Scen":{
+                                "name":"Devils Ride Camp",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Vehicle","Special","Camp","Hell"],
+                                "brightness":"Medium",
+                                "grid":"35x23",
+                                "pack":"98_DiA_Infernal_War_Machines",
+                                "releaseurl":"WIP",
+                                "sibling":"98-04_Devils_Ride_Camp-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"98-04_Devils_Ride_Camp-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Infernal War Machines - 98",
+                                "download_terms": "SC: Devils Ride Camp",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "98-05_Scavenger_Driving-4k_BM":{
+                        "name":"Scavenger Driving",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Vehicle","Special","Fast Movement","Hell"],
+                        "brightness":"Medium",
+                        "grid":"40x24",
+                        "pack":"98_DiA_Infernal_War_Machines",
+                        "releaseurl":"WIP",
+                        "sibling":"98-05_Scavenger_Driving-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"98-05_Scavenger_Driving-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Infernal War Machines - 98",
+                        "download_terms": "BM: Scavenger Driving",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "98-05_Scavenger_Driving-4k_Scen":{
+                                "name":"Scavenger Driving",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Vehicle","Special","Fast Movement","Hell"],
+                                "brightness":"Medium",
+                                "grid":"40x24",
+                                "pack":"98_DiA_Infernal_War_Machines",
+                                "releaseurl":"WIP",
+                                "sibling":"98-05_Scavenger_Driving-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"98-05_Scavenger_Driving-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Infernal War Machines - 98",
+                                "download_terms": "SC: Scavenger Driving",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "98-06_Scavenger_Camp-4k_BM":{
+                        "name":"Scavenger Camp",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Vehicle","Special","Camp","Hell"],
+                        "brightness":"Medium",
+                        "grid":"35x23",
+                        "pack":"98_DiA_Infernal_War_Machines",
+                        "releaseurl":"WIP",
+                        "sibling":"98-06_Scavenger_Camp-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"98-06_Scavenger_Camp-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Infernal War Machines - 98",
+                        "download_terms": "BM: Scavenger Camp",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "98-06_Scavenger_Camp-4k_Scen":{
+                                "name":"Scavenger Camp",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Vehicle","Special","Camp","Hell"],
+                                "brightness":"Medium",
+                                "grid":"35x23",
+                                "pack":"98_DiA_Infernal_War_Machines",
+                                "releaseurl":"WIP",
+                                "sibling":"98-06_Scavenger_Camp-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"98-06_Scavenger_Camp-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Infernal War Machines - 98",
+                                "download_terms": "SC: Scavenger Camp",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "98-07_Tormentor_Driving-4k_BM":{
+                        "name":"Tormentor Driving",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Vehicle","Special","Fast Movement","Hell"],
+                        "brightness":"Medium",
+                        "grid":"40x24",
+                        "pack":"98_DiA_Infernal_War_Machines",
+                        "releaseurl":"WIP",
+                        "sibling":"98-07_Tormentor_Driving-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"98-07_Tormentor_Driving-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Infernal War Machines - 98",
+                        "download_terms": "BM: Tormentor Driving",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "98-07_Tormentor_Driving-4k_Scen":{
+                                "name":"Tormentor Driving",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Vehicle","Special","Fast Movement","Hell"],
+                                "brightness":"Medium",
+                                "grid":"40x24",
+                                "pack":"98_DiA_Infernal_War_Machines",
+                                "releaseurl":"WIP",
+                                "sibling":"98-07_Tormentor_Driving-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"98-07_Tormentor_Driving-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Infernal War Machines - 98",
+                                "download_terms": "SC: Tormentor Driving",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "98-08_Tormentor_Camp-4k_BM":{
+                        "name":"Tormentor Camp",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Vehicle","Special","Camp","Hell"],
+                        "brightness":"Medium",
+                        "grid":"35x23",
+                        "pack":"98_DiA_Infernal_War_Machines",
+                        "releaseurl":"WIP",
+                        "sibling":"98-08_Tormentor_Camp-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"98-08_Tormentor_Camp-4k_bm.webp",
+                        "videourl":"WIP"
+                        "download_pack": "Infernal War Machines - 98",
+                        "download_terms": "BM: Tormentor Camp",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "98-08_Tormentor_Camp-4k_Scen":{
+                                "name":"Tormentor Camp",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Vehicle","Special","Camp","Hell"],
+                                "brightness":"Medium",
+                                "grid":"35x23",
+                                "pack":"98_DiA_Infernal_War_Machines",
+                                "releaseurl":"WIP",
+                                "sibling":"98-08_Tormentor_Camp-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"98-08_Tormentor_Camp-4k_scen.webp",
+                                "videourl":"WIP"
+                                "download_pack": "Infernal War Machines - 98",
+                                "download_terms": "SC: Tormentor Camp",
+                                "download_creator": "Beneos Battlemaps"
+                                }
                             }
                         }
                     }
