@@ -26828,7 +26828,7 @@
                 "nb_variants": 1
             }
         },
-        "189-Hellspawned_Homunculus": {
+        "189-hellspawned_homunculus": {
             "description": "Hellspawn from cursed pits: warped, blade-limbed, warded horrors, immune to fear, reason, and most magic.",
             "name": "Hellspawned Homunculus",
             "properties": {
@@ -26979,7 +26979,7 @@
                 "nb_variants": 1
             }
         },
-        "193-Graves_golem": {
+        "193-grave_golem": {
             "description": "A shambling colossus of burial earth, its flesh a patchwork of Gravestones, wilted remains, and shifting, restless dead.",
             "name": "Grave Golem",
             "properties": {
@@ -27019,7 +27019,7 @@
                 "nb_variants": 1
             }
         },
-        "193-Gravestones": {
+        "193-gravestones": {
             "description": "Gravestones only serve as markers for the Graves Golem.",
             "name": "Gravestones",
             "properties": {
@@ -27734,7 +27734,7 @@
                 "nb_variants": 1
             }
         },
-        "210-Awakened_Instruments": {
+        "210-awakened_instruments": {
             "description": "Awakened musical instruments wield magical songs, often yearning for their own artistic freedom.",
             "name": "Awakened Instruments",
             "properties": {
@@ -27850,7 +27850,7 @@
                 "nb_variants": 2
             }
         },
-        "212-Uvargandr": {
+        "212-uvargandr": {
             "description": "A flightless dragon with massive jaws, lightning attacks and a temper.",
             "name": "Uvargandr",
             "properties": {
