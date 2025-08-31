@@ -19797,7 +19797,7 @@
             }
         },
         "047-swifttalon_raptor": {
-            "description": "Lightning fast, agile and deadly - Swifttalon Raptors showcase peak evolutionary efficiency. They hunt in small packs, stalking and outmaneuvering prey much larger than themselves. When the Raptors have their prey encircled, they first attack in waves, probing their quarry's defenses and opening up gashing wounds with their crooked talons. Lastly they overwhelm with numbers, bearing down on their exhausted prey in a flood of scales, teeth and claws.",
+            "description": "Lithe pack hunters often found in the wake of larger predators to get a few bites in themselves.",
             "name": "Swifttalon Raptor",
             "properties": {
                 "biom": [
@@ -19887,7 +19887,7 @@
             }
         },
         "049-poisonfang": {
-            "description": "Poisonfangs are the elite assassins of the various serpent cults infesting overgrown temple cities or infiltrating colonial societies. Promising candidates are singled out from their brood mates early on, undergoing harrowing psycho-indoctrination to increase their resistances to various poisons and toxins, hone their inherent hypnotic abilities and trigger the transformation into a even more snake-like being. Due to their unique talents they become excellent operatives, making Poison Fangs ideal tools for political assassinations, terror campaigns or insidious purges within the own ranks.",
+            "description": "Versatile snake-themed assassins utilizing venomous blades, noxious gas, shapeshifting and hypnosis.",
             "name": "Poisonfang Assassin",
             "properties": {
                 "biom": [
@@ -19933,7 +19933,7 @@
             }
         },
         "050-amber_idol": {
-            "description": "Amber Idols are constructs crafted from anointed amber, fossilized resin obtained from sacred trees. While humanoid in stature and gait, their heads resemble bestial guardian spirits of old. Amber Idols are tasked with guarding hidden temples and lost sites that harbour great evil, tirelessly patrolling ancient gaols to ensure the continued confinement of the horrors sealed within.",
+            "description": "Lumbering colossus capable of absorbing and releasing spells.",
             "name": "Amber Idol",
             "properties": {
                 "biom": [
@@ -19976,7 +19976,7 @@
             }
         },
         "051-toxic_gobbler": {
-            "description": "Toxic as a Gobbler is a common idiom and yet it understates the danger posed by a Gobbler. Their garishly coloured, lumpy and spongy skin hides toxin glands which release a quickly evaporating colour- and odorless toxin that, upon skin contact or inhalation, leads to harrowing pain, long lasting paralysis and even death. Due to this feature, Gobblers have almost no natural predators, causing them to generally act carefree, curious and playful. This  makes them even more dangerous, as Gobblers fearlessly seek out the company of other beings to play with them - oftentimes accidently killing them in the process.  Some assume the toxiCity to be a result of the Gobbler's diet, raising the question on what on earth Gobblers are eating.",
+            "description": "A very playful and curious critter, yet extremey poisonous. Interactions often result in unintended fatalities.",
             "name": "Toxic Gobbler",
             "properties": {
                 "biom": [
@@ -20017,7 +20017,7 @@
             }
         },
         "052-wendigo": {
-            "description": "Wendigos plague humanoid Civilized since the dawn of time. Nothing embodies the cruelty and danger of untamed Wilderness as well as the Wendigo. They are the terror of the Wilderness incarnate, primal fear given a gangly shape and raking claws. Their true origin remains unknown, but some cultures perceive them to be spirits of hunger and greed, possessing avaricious individuals and turning them into the ferocious predators that stalk dark woods and bleak frontiers, hunting and devouring their former kin. Wendigos are swift and silent hunters, terrifying stalkers and savage butchers, capable of outmaneuvering and outsmarting even well-armed and steadfast groups of adventurers before unleashing upon them a terrifying display of primal carnage, leaving red snow in their wake, as they adorn their hunting grounds with grisly trophies.",
+            "description": "Highly mobile and extremely dangerous, focuses single targets to kill, feast, retreat and repeat.",
             "name": "Wendigo",
             "properties": {
                 "biom": [
@@ -20066,7 +20066,7 @@
             }
         },
         "053-magmatic_coreborn": {
-            "description": "Coreborn rise from fissures or smoldering calderas as a result of increased volcanic activity. Combining aspects of both fire and earth elementals, they differ from their kin due to their amiable disposition towards humanoids. A Magmatic Coreborn may choose to protect a village built on the slope of a volcano or at the heart of a high island, using its dominance over earth and fire to ward off both natural and unnatural disaster from their chosen people. Many Coreborn are worshipped as minor deities by their tribes, growing in power through veneration.",
+            "description": "Damaging the rocky hide exposes the superheated core, causing the creature to become more dangerous over time.",
             "name": "Magmatic Coreborn",
             "properties": {
                 "biom": [
@@ -20108,7 +20108,7 @@
             }
         },
         "054-bog_strider": {
-            "description": "Bog Striders are large predatory insects towering on spindly legs, commonly found in swamps, marshes or the eponymous bogs. Bog Striders are attracted to their prey by ripples in the murky water, using their front legs as sensors for the vibrations. The Bog Strider aims to puncture its prey's body with its proboscis and injects acidic saliva that liquifies the innards, sucking out the resulting fluid. Due to their low intelligence and high dependency on pheromonal markings, they can be controlled with special pheromonal cocktails, making them ideal mounts for traversing wetlands.",
+            "description": "Popular mount. Dsorients with a bioluminescent burst, kills by injecting acid and slurping up the liquified remains.",
             "name": "Bog Strider",
             "properties": {
                 "biom": [
@@ -20151,7 +20151,7 @@
             }
         },
         "055-klabautermann": {
-            "description": "Klabautermänner are manifestations of a ships spirit, a result of a deep bond between a storied vessel and its crew. Mostly acting as an unseen force of good, when taking physical Klabautermänner love to manifest as a skeletal mariner, guiding their threatened vessel through a storm, repelling a boarding party or assisting in navigating treacherous waters. As a crew's bond and reputation grows, so does the Klabautermann's power - the mightiest of them being able to assert their control over weather and sea to prevent imminent disaster.",
+            "description": "Serves as a ship's guardian, capable of repelling attackers and bolstering defenders, weaponizes the ship itself.",
             "name": "Klabautermann",
             "properties": {
                 "biom": [
@@ -20196,7 +20196,7 @@
             }
         },
         "056-sword_guardian": {
-            "description": "Not long after the invention of the trusty Shield Guardian demand  for a more attack-oriented counterpart spiked. This lead to the development of the Sword Guardian, a more nimble, albeit less hardy construct that excels at close quarter combat. Their combat tactics can be switched at a moment's notice, making them both capable bodyguards and assertive enforcers. While their stiff movements appear predictable, incautious opponents often find themselves blocked in by an unending barrage of precise Greatsword blows. Like their defensive brother-constructs, they are valuable assets for wizards in need of some artifical muscle or wealthy merchants looking for an effective deterrent.",
+            "description": "Bodyguard-automaton, receives orders via command rod, adapts to scenarious by switching combat stances.",
             "name": "Sword Guardian",
             "properties": {
                 "biom": [
@@ -20236,7 +20236,7 @@
             }
         },
         "057-ridgeback_dunecrawler": {
-            "description": "Due to the spinal ougrowths on their upper shell, Ridgebacks can easily be mistaken for a cragged rock formation, especially when partially buried beneath the arid soil of their preferred habitat. They continually filter swathes of sand through gill-like structures, indiscriminately feeding on organic and non-organic matter, be it mineral deposits, plants, living creatures or dried out carcasses. A wandering or resting Ridgeback does not pose any particular danger, nomadic tribes are known to hitch a ride on a Dunecrawler's back to traverse the desert without the great beast paying them any mind. But their temper matches their size, and an angered Ridgeback resembles a force of nature, a walking mountain with titanic strength, shrouded in an ever-swirling tempest of sand.",
+            "description": "Titanic crustacean constantly emitting powerful sandstorms, relentlessly pummels opponents using its enormous claws.",
             "name": "Ridgeback Dunecrawler",
             "properties": {
                 "biom": [
@@ -20275,7 +20275,7 @@
             }
         },
         "058-vrubel": {
-            "description": "Braying flocks of Vrubel cloud the multicoloured skies of the Abyss, their harrowing shrieks unnaturally reveberating through the twisted landscapes of madness. A gathering of Vrubel forms a choir, each of their voices intertwining into the abyssal dirge, a maddening song capable of twisting and breaking the minds of even the most stalwart individuals. The abyssal choirs act as demonic envoys, transmitting messages for higher demons to other planes of existence, carrying with them the innate chaos of the Abyss.",
+            "description": "Form abyssal choirs to amplify their harrowing songs, their incessant shrieking capable of driving any soul mad.",
             "name": "Vrubel",
             "properties": {
                 "biom": [
@@ -20316,7 +20316,7 @@
             }
         },
         "059-gladiator_dimachaerus": {
-            "description": "The Dimachaerus is the diva of the arena, a master duelist who captivates the audience with artistic bladework and dizzying acrobatics. Fluidly switching between offensive and defensive fighting styles, the Dimachaerus prides themself on their ability to face any opponent, capable of outmaneuvering both the nimble Retiarius and outfighting the towering Murmillo. But a Dimachaerus balances on a knife's edge, any misstep in their complex choreography will be punished by their opponents - and the fickle audience, its favour as easily withdrawn as it is granted.",
+            "description": "Elegant duellist wielding two blades, excels in single combat against martial opponents.",
             "name": "Gladiator Dimachaerus",
             "properties": {
                 "biom": [
@@ -20357,7 +20357,7 @@
             }
         },
         "059-gladiator_murmillo": {
-            "description": "The brutish Murmillo however is recruited from the ranks of the most steadfast fighters, almost impossible to topple and capable of withstanding tremendous punishment. Both are evenly matched and capable of holding the audience's attention with their taunts and flourishes, their signature maneuvers and lethal finishers.",
+            "description": "Brutish duellist able to handle multiple opponents at once.",
             "name": "Gladiator Murmillo",
             "properties": {
                 "biom": [
@@ -20398,7 +20398,7 @@
             }
         },
         "059-gladiator_retiarius": {
-            "description": "Gladiators are grouped into different types, varying heavily in both fighting style and equipment. Certain types of Gladiator exclusively fight their respective counterpart, each fight resembling a deadly choreography studied to perfection. Retiarius and Murmillo exclusively duel each other, both of their skills honed to overcome the other. The Retiarius is a flink-footed and more lightly armoured fighter who nimbly evades their more heavily armoured opponent, only to artfully entangle them with their net and set up the perfect thrust from their trident.",
+            "description": "Swift and possibly lethal duellist aiming to topple and immobilize their opponent to deliver critical strikes.",
             "name": "Gladiator Retiarius",
             "properties": {
                 "biom": [
@@ -20439,7 +20439,7 @@
             }
         },
         "060-crazed_reaper": {
-            "description": "Incessant screaming heralds the approach of the Crazed Reaper, a towering monstrosity filled with apoplectic madness and massive scythes for hands. It is to be assumed that these creatures did not came to be in a way even remotely considered natural and any means of reproduction short of mitosis by sheer force of anger seems unlikely. But until the source of their all-consuming madness is discovered, solitary Reapers will roam the lands, driven to murder anything that stands in their path, leaving a trail of severed limbs and burst ear drums in their wake, as well as more questions that could possibly be answered.",
+            "description": "Screams incessantly, attacks tirelessly with scythed limbs, otherworldy anger keeps it fighting even in death.",
             "name": "Crazed Reaper",
             "properties": {
                 "biom": [
@@ -20480,7 +20480,7 @@
             }
         },
         "061-clangorsaurus": {
-            "description": "Clangosaurs roam lost and forgotten parts of the world where unique circumstances allow for flora and fauna from primeval times to endure. Both male and female members of the species engange in territorial disputes by smashing their bone-plated heads against each other, a ritual that produces a sound that can be heard for miles. Clangorsaurs are highly aggressive, actively seeking confrontation with anything treading on their stomping grounds, crashing into their targets without any shreds of self preservation.",
+            "description": "Batters opponents using its sturdy head and spiked tail club, unleashes frenzied assault upon death.",
             "name": "Clangorsaurus",
             "properties": {
                 "biom": [
@@ -20522,7 +20522,7 @@
             }
         },
         "062-pit_abomination": {
-            "description": "Abominations are born from accursed breeding pits using forbidden biomancy, heretical alchemical formulae and mutagens harvested from countless monstrosities. Each Abomination comes out differently, as the primordial soup filling the pits is ever shifting in its makeup and consistency, but they all have an inherited hate for this cruel world that birthed them. Impervious to pain and unable to form complex thoughts, it is a living weapon capable of unfathomable destruction. A weapon wielded by Pit Broodmasters, a caste dedicated to training and bonding with the towering abominations, feeding their hate and driving them into combat, annihilating everything in their path.",
+            "description": "Unstable living weapon, barely controlled by its Broodmaster. Unleashes lethal bursts of radiation and electricity.",
             "name": "Pit Abomination",
             "properties": {
                 "biom": [
@@ -20565,7 +20565,7 @@
             }
         },
         "062-pit_broodmaster": {
-            "description": "They themselves tainted by the vile alchemy and mutagens of the Breeding Pits, Broodmasters tear the pit spawn from their birthing sacs and beat their will into the mewling creature. What follows is an inhuman regiment of subjugation and conditioning, to form the pit spawn into an unfeeling instrument of war. The most vile creature birthed from the pits is the Abomination, a chimeric monstrosity combining traits from countless creatures into a looming behemoth capable of unfathomable destruction. These war-beasts are herded into slaughter by the Broodmasters, controlled by secret drugs and techniques only known to initiatives to their corrupted caste.",
+            "description": "Tends to the Pit Abomination to keep its unstable mutations and deteriorating mind in check.",
             "name": "Pit Broodmaster",
             "properties": {
                 "biom": [
@@ -20607,7 +20607,7 @@
             }
         },
         "063-beckoning_devil": {
-            "description": "Beckoning Devil's are favoured courtiers of the Father of Lies, one of the ruling Devils of the Nine Hells. With their seductive and corrupting powers, they seek to gain control over groups of powerful individuals to drive them into ruin, only to finally offer them salvation in their Lord's service. They possess a malign intelligence and relish their dark purpose, drawing great pleasure from the hunt. Once fixated on future servants worthy of their Lord, Beckoning Devils are relentless stalkers, quickly forcing their prey to question their sanity, as their paranoia swells and memories become unreliable. Those dominated by the Devil they are finally forced to commit harrowing atrocities, until they are left with no choice but to bow their knee to the dark patron of Lies. ",
+            "description": "Insidious manipulator, embraces creatures to bring under his thrall, capable of erasing any trace of its existence.",
             "name": "Beckoning Devil",
             "properties": {
                 "biom": [
@@ -20657,7 +20657,7 @@
             }
         },
         "064-grey_pilgrim": {
-            "description": "The unusual beings dubbed Grey Pilgrims wander the realms in search for enlightenment, be it in solitude, be it accompanied by disciples or mentors of their own choosing. Each of them has been given form by divine hands, created to study as much as to teach. They continuously reflect on the principles of divinity, the cosmos and the nature of mortality, each Pilgrim eventually reaching their own conclusion, before imparting their knowledge unto worthy souls and returning to the side of their creator. While on their journey, they go out of their way to inspire the ambition and resolve of those burdened by strife and suffering..",
+            "description": "Otherwordly presence manifested as a humanoid pachyderm, acts as a spiritual guide to those who lost their path.",
             "name": "Grey Pilgrim",
             "properties": {
                 "biom": [
@@ -20706,7 +20706,7 @@
             }
         },
         "065-sovereigns_guard": {
-            "description": "Kings and Queens, Hierophants and Arch-Bishops, Emperors and Empresses - these sovereigns dare not resting their wellbeing on the meek shoulders of regular guards or hired mercenaries. A true sovereign requires an elite guard, drilled fighters of supreme ability and mental strength, eager to continously prove their worth and unwavering loyalty. The Sovereign's Guard represent an elite cadre of bodyguards and combat specialists, well versed in both protecting their liege or carrying out special tasks all over the realm.",
+            "description": "Guards high value personell, expert duellist and capable of overcoming grievous injury through sheer devotion.",
             "name": "Sovereign's Guard",
             "properties": {
                 "biom": [
@@ -20746,7 +20746,7 @@
             }
         },
         "066-scorched_legionary": {
-            "description": "The Scorched Legion's origins lie within the ash-choked plains of the Realm of Fire. The lords of the realm are in constant warfare, their mortal troops long expended. Unyielding, relentless soldiers were formed from volcanic rock and embers of the Primordial Flame. Soon the Scorched Legionaries waged eternal war on their masters behalf, their conflicts soon encroaching onto the mortal realms. They are devastating heavy infantry, blindly following their master's commands, untiring and without mercy. Many a desperate sovereign turns to the lords of the Fire Realm as a means to aquire the might of the Legion for their own purpose, not knowing, that by doing so they may doom the very realm they try to protect or conquer.",
+            "description": "Relentlessly advances through billowing ash and ember-smoke, wreathed in primordial fire.",
             "name": "Scorched Legionary",
             "properties": {
                 "biom": [
@@ -20787,7 +20787,7 @@
             }
         },
         "067-rustmire_gadfly": {
-            "description": "Rustmire Gadflies infest the auburn marshlands of the Rustmire, their incessant droning turning this already wicked place into even more of a hostile hellscape. By the dozens a swarm of Gadflies descents on a suitable victim - be it man or beast - and feed on them, leaving it bite-marked but alive, as they do not kill their victims (intentionally, at least), but prefer to feed on it over the span of days or weeks instead. They are, however, carriers of the unsavoury and often lethal Bloodscorch plague and can often be found feeding on the pustulent remains of their infected victim.",
+            "description": "Excels at being annoying; hard to hit and hinders spellcasting due to its constant droning buzz sounds.",
             "name": "Rustmire Gadfly",
             "properties": {
                 "biom": [
@@ -20834,7 +20834,7 @@
             }
         },
         "068-wereboar": {
-            "description": "Skinchangers come in any shape or size and even the cause of their transformation differs - be it affliction of body or mind, a curse, possession or even a blessing. The transformation into a Wereboar, however, seldom is anything but a curse, one reserved mostly for gluttonous and vulgar individuals, whose porcine characteristics where apparent even before their body took a shape their mind had already taken. Wereboars are boorish and brutish, bulky and barrelchested slabs of pure muscle, held together by a thick hide. But their cunning is not to be unterestimated and many would-be slayers fell to the goring tusks of a Wereboar after failing to discern the sparks of malign intellect within their deep-set eyes.",
+            "description": "Towering half-boar, usually combining the worst traits of man and swine.",
             "name": "Wereboar",
             "properties": {
                 "biom": [
@@ -20878,7 +20878,7 @@
             }
         },
         "068-wereboar_2": {
-            "description": "Skinchangers come in any shape or size and even the cause of their transformation differs - be it affliction of body or mind, a curse, possession or even a blessing. The transformation into a Wereboar, however, seldom is anything but a curse, one reserved mostly for gluttonous and vulgar individuals, whose porcine characteristics where apparent even before their body took a shape their mind had already taken. Wereboars are boorish and brutish, bulky and barrelchested slabs of pure muscle, held together by a thick hide. But their cunning is not to be unterestimated and many would-be slayers fell to the goring tusks of a Wereboar after failing to discern the sparks of malign intellect within their deep-set eyes.",
+            "description": "Towering half-boar, usually combining the worst traits of man and swine.",
             "name": "Wereboar",
             "properties": {
                 "biom": [
@@ -20922,7 +20922,7 @@
             }
         },
         "069-dollmaker_devil": {
-            "description": "Like all of their infernal kindred, Dollmaker Devils relish in the seduction and eventual corruption of mortal souls. They take s rather direct approach, using their cursed touch to turn their victims into paralyzed dolls and binding them via infernal threads, entangling a creature's very soul. This allows the Devil to take on the role of a perverse puppeteer, controlling a creatures immediate actions by tugging the right strings or even ending their life with a swift severing of the threads. Dollmakers are craven creatures, relying on networks of worshippers or debtors to protect it, while it stalks nightly streets for fresh dolls.",
+            "description": "Nightmarish puppeteer, fights by turning creatures into paralyzed puppets, cutting their strings on a whim.",
             "name": "Dollmaker Devil",
             "properties": {
                 "biom": [
@@ -20970,7 +20970,7 @@
             }
         },
         "070-airship_sentry_automaton": {
-            "description": "Automated sentries were first utilized during a great exhibition showcasing different proofs of concept concerning the development of techno-arcane automata. These prototypes were expanded upon by military scientists and now serve as sentries and boarding repellents on various airships throughout the realms. Their armaments consist of heavy boarding axes, short-ranged ocular beams and advanced kinetic shielding, all powered by a miniature techno-arcane reactor. These sentries are able to activate a magnetic field, allowing them to safely battle any threats while being mag-locked to an airship's metal hull. Gunner variants are also known to operate the heavy Thunderstrike Pattern Airship Cannons utilized by great military airships, such as the Dawn Emperor and Storm Herald class.",
+            "description": "Simple combat automaton equipped with a sophisticated occular beam and a reliable heavy boarding axe.",
             "name": "Airship Sentry Automaton",
             "properties": {
                 "biom": [
@@ -21009,7 +21009,7 @@
             }
         },
         "071-blade_slave": {
-            "description": "Blade Slaves are living weapons created by the dozens and hundreds, prisoners, heretics and other undesirables with their body and mind broken by confinement and torture. They now only crave the kiss of the blade, living vicariously through both the pain they suffer and the pain they inflict upon others. They are utilized by Ecclesiarchs and Inquisitors, driven before them as a showing of ruthlessness and intimidaton or unleashed from their Mobile confines as shock troops, overwhelming their master's enemies as a cackling and foaming wave of bodies and blades.",
+            "description": "Humanoid husk torturted into madness, empowered by taking slashing damage while erratically swinging a greatword.",
             "name": "Blade Slave",
             "properties": {
                 "biom": [
@@ -21050,7 +21050,7 @@
             }
         },
         "072-slipstream_phaseknife": {
-            "description": "Equipped with experimental techno-arcane Slipstream Generators, Phaseknives are an elite cadre of operatives specialised in high-risk assassinations that require pinpoint accuracy and leave no room for errors. Seamlessly phasing in and out of a subspace corridor dubbed the Slipstream, they effortlessly outmaneuver and overwhelm conventional defenses and deliver a perfect killing strike. Traditionally, Phaseknives work in pairs to ensure the mission's success, coordinating their unpredictable attacks at a breackneck pace, relying on speed and accuracy honed to perfection to carry out their missions.",
+            "description": "Unstoppable assassin phasing in and out of existence using a complicated slipstream generator.",
             "name": "Slipstream Phaseknife",
             "properties": {
                 "biom": [
@@ -21092,7 +21092,7 @@
             }
         },
         "073-gorgeleaper": {
-            "description": "Gorgeleapers are arboreal hunters, leaping through mazelike treetops of the sky-scraping southern rainforests. They are expert climbers and navigate the treacherous terrain of their homes with terrifying ease, effortlessly stalking their prey before ambushing it. Gorgeleapers do not kill their prey immediately but swallow it instead, carrying the creature in their gullet to hidden birthing pools in the rainfilled calyxes of the aptly named Nursery Chalice, a carnivorous pitcher plant existing in symbiosis with the Gorgeleapers.",
+            "description": "Treetop predator swallowing its prey whole to disgorge it into spawn pools teeming with its flesh-eating tadpoles.",
             "name": "Gorgeleaper",
             "properties": {
                 "biom": [
@@ -21132,7 +21132,7 @@
             }
         },
         "074-undead_pikeman": {
-            "description": "Hushed voices tell of the Burial Host, an endless column of shambling undead pressed into service by a council of necromancers, fleshgrafters and carnal artisans. Heralded by the buzzing of bloated flies, the Burial Host descends upon cities or countryside alike, overwhelming even the sturdiest defenses in an unending onslaught of rotten flesh and rusted blades. Gaps within the ranks of the host are quickly filled, as the war machinery grinds forward, a self-serving and self-sustaining perpetuum Mobile of death and rebirth. Undead Pikemen form the front rows of the Host, forcing their enemies into exasperating wars of attrition",
+            "description": "A shambling undead bearing simple arms, capable of withstanding surprising amounts of damage without complaining.",
             "name": "Undead Pikeman",
             "properties": {
                 "biom": [
@@ -21178,7 +21178,7 @@
             }
         },
         "075-guild_artillerist": {
-            "description": "Due to government contracts, the (traditionally dwarven) members of the great Powder Guilds, those organisations authorized to research and develop mechanical firearms, are also utilized as a well-trained militia, often requiring mandatory service escorting the great Trade Fleets trawling the great Archipelago. This leaves many guild members with first-hand combat experience and some will stay within the military branch of the guilds, choosing the life of an Artillerist over that of an Artisan. They serve with a deep understanding of their craft, burning to further hone their skills as combat engineers, artillery and demolition specialists or expert marksmen. ",
+            "description": "Expert marksman and demolitionist excelling both as part of a firing line or lone operator. Suffers from serious hearing damage.",
             "name": "Guild Artillerist",
             "properties": {
                 "biom": [
@@ -21221,7 +21221,7 @@
             }
         },
         "076-deathsworn": {
-            "description": "Seeing a Deathsworn fight is witnessing a ceremonial choreography, as they seamlessly weave their opponents into an intimate dance of death. Deathsworn exhibit great respect towards their enemies, going so far as to carry the ritually cleaned and hallowed skulls of particularly worthy opponents alongside of those of their closest kin - signifying their bond forged in battle, either on equal or opposing sides. The certainty of their own death is meaningless to a Deathsworn, as they resign to it each time they take up their spear and shroud their face with the Sho'ufa, expressing their resolve to kill and die honorably in the eyes of their ancestors.",
+            "description": "Orc warrior seeking death in honourable combat. Their solemn, yet energetic fighting style resembles a lethal dance.",
             "name": "Deathsworn",
             "properties": {
                 "biom": [
@@ -24195,7 +24195,7 @@
             }
         },
         "137-cannonade_crawler": {
-            "description": "The Cannonade Crawlers, colossal mega-arthopods renowned for their potent acid bombardments, possess a unique physiology fueled by arcane influences and distinctive biochemical compounds from their diet. They live a symbiotic lifestyle, residing in clusters called regiments, and often engage in battles for other creatures in exchange for sustenance. This mutual relationship has raised questions about a possible feralization from a previously domesticated state. Typically, these agreements involve the Crawlers defending hives, dens, or even villages in exchange for food resources from their employers. This strategic approach secures their survival while allowing them to utilize their specialized defense mechanisms as living artillery.",
+            "description": "Living ordnance capable of covering a wide area in heavy artillery bombardments.",
             "name": "Cannonade Crawler",
             "properties": {
                 "biom": [
@@ -24241,7 +24241,7 @@
             }
         },
         "138-back_alley_slasher": {
-            "description": "Back Alley Slashers are masters of the cobble-plastered underbelly's unique brand of fighting - swift, dirty bladework. They are quick to anger, seasoned, and ruthless, ever ready to exploit the crooked lanes and nestled alleys of their home city to their advantage. Those who don't meet their end in their initial conflicts often find their names whispered throughout the gutters, their police records filled with autopsy reports.",
+            "description": "Masters of swift and dirty bladework designed for hectic struggles in cramped alleyways.",
             "name": "Back Alley Slasher",
             "properties": {
                 "biom": [
@@ -24283,7 +24283,7 @@
             }
         },
         "139-witherflesh_ripper": {
-            "description": "At the feet of towering Witherflesh Colossi, swarms of Witherflesh Rippers gather ravenous undead controllable only through indirect manipulation of their collective swarm-like consciousness. Exposure to large groups of Rippers can transform ordinary undead into Rippers, their physiology swiftly adapting to satisfy the need for tearing and feeding. In regions already wrestling with the presence of undead, these circumstances can lead to additional Ripper epidemics.",
+            "description": "Rippers surge in frenzied waves; for every two that fall, one rises, reformed from their flesh.",
             "name": "Witherflesh Ripper",
             "properties": {
                 "biom": [
@@ -24329,7 +24329,7 @@
             }
         },
         "140-samurai": {
-            "description": "The Samurai, as a pop cultural icon, embodies honor, discipline, and swordsmanship in the collective imagination. Their significance resonates deeply in various forms of media, painting a picture of skilled warriors, bound by a martial code and pursuing an ideal of unwavering loyalty. The samurai's lore offers a wealth of themes: loyalty to a lord, a sense of duty, and the pursuit of personal honor. They bring an air of martial prowess and elegance,enhancing the thematic depth of a campaign. The duality of their stoic discipline and the emotional intensity beneath the surface makes them compelling adversaries. Their historical relevance and pop cultural impact make them an excellent choice for challenging and evocative encounters.",
+            "description": "Features a versatile, trope-savvy moveset designed for entertaining duels, including a cinematic finishing move.",
             "name": "Samurai",
             "properties": {
                 "biom": [
@@ -24368,7 +24368,7 @@
             }
         },
         "141-troll_ironhead": {
-            "description": "Trolls have become increasingly prevalent within gangs, bands, or paramilitary organizations. Those distinguished by exceptional brutality and a spark of intelligence are clad in heavy plate armor and made to believe that nothing can overcome the combination of their thick skulls, natural regeneration, and full plate armor. Their belief in invulnerability renders them dangerously fearless, eagerly throwing themselves into the fray in pursuit of glory and plunder, facing the greatest dangers as waves of enemies crash upon them. However, should their defense be breached, doubts sprout within the troll's mind, either fermenting into paralyzing fear or boiling over into boundless rage.",
+            "description": "Heavily armored elite with its mood shifts radically altering an encounter's dynamic.",
             "name": "Troll Ironhead",
             "properties": {
                 "biom": [
@@ -24413,7 +24413,7 @@
             }
         },
         "142-pyreling": {
-            "description": "Folklore describes Pyrelings as humans who succumbed to volcanic heat or ash smoke, their skeletons enriched with igneous rock and their souls burning with anger caused by their untimely demise. In actuality, Pyrelings are lesser elementals, fire-fickle beings manifesting in places of intense volcanic activity, either to a minor planar convergence or on the behest of greater elemental beings. Pyreling familiars are conceivably very popular among Pyromancers, as they are amicable, if hot-headed and vivacious, undemanding and worthwhile objects of study for those seeking insight into the very nature of fire itself.",
+            "description": "Popular summons or familiars, able to steal heat from living creatures to stoke its own flames.",
             "name": "Pyreling",
             "properties": {
                 "biom": [
@@ -24457,7 +24457,7 @@
             }
         },
         "143-gnoll_trophy_hunter": {
-            "description": "Gnoll Trophy Hunters start off as typical gnolls, if one could consider a demon-born anthropomorphic hyena to be in any way normal. Some Gnolls display a targeted savagery that surpasses mere hunger; and, under the watchful gaze of their demonic progenitor, they are driven to hunt for increasingly grand prey. Every battle becomes a personal pursuit for trophies, and soon, only the flesh of elite warriors or pack alphas can momentarily sate their all-consuming hunger.",
+            "description": "Versatile elite, holds his own in melee combat with heavy hitters while buffing other Gnolls.",
             "name": "Gnoll Trophy Hunter",
             "properties": {
                 "biom": [
@@ -24502,7 +24502,7 @@
             }
         },
         "144-tactician": {
-            "description": "No strategy survives first enemy contact, a statement that is tried and tested. Those taking to the field themselves to make sure that a mind equal to those devising strategy will see it adapted to the flow of the encounter are strategists no longer, but Tacticians. Tutored in all manners of practical warfare by military academies or veterans, these Tacticians are effective force multipliers on the battlefield, assessing threats, relaying immediate orders and acting as the tactical lynchpin for small to medium-scale fighting forces.",
+            "description": "Strong base template for any tactically versed NPC, has diverse set of support abilities to influence an encounter.",
             "name": "Tactician",
             "properties": {
                 "biom": [
@@ -24543,7 +24543,7 @@
             }
         },
         "145-ghoul_bonegnawer": {
-            "description": "Bone Gnawers are more aggressive and feral than ordinary ghouls. Defying the image of lurking, gaunt and emaciated creatures, they are infused with unnatural strength, pouncing on their victims with unnatural bulk, unsettling body movements, and flesh-hungry savagery. Their Graves-cold hands choking the life from their victims, they often start feeding before the last breath is drawn.",
+            "description": "Stronger than the average ghoul, grapples and incapacitates enemies to feast on their bone marrow.",
             "name": "Ghoul Bone Gnawer",
             "properties": {
                 "biom": [
@@ -24590,7 +24590,7 @@
             }
         },
         "146-bard": {
-            "description": "Few things are as impactful as music, mere sound touching creatures' souls, inspiring them, soothing or even frightening them. Within music itself resides an inherent power that can act as a catalyst, unleashing both subtle glamours or earth shattering spells. Not everyone can actively harness this special magic, but those who can, be it through the power of their genius, a grand personality or a deep understanding of the intricacies of the acoustic arcana, possess great power, whether in social situations or on the battlefield.",
+            "description": "Great template for Bard NPC, has creative set of abilities to perfectly embody the archetype.",
             "name": "Bard",
             "properties": {
                 "biom": [
@@ -24637,7 +24637,7 @@
             }
         },
         "147-witch_hunter": {
-            "description": "Witch Hunters coordinate the pursuit of magic users who fall outside the accepted framework of arcane arts. This may be related to religious structures, general prejudices, or well-founded fears regarding those who wield such incomprehensible power for many. Witch Hunters must possess strong wills and pursue their mission with nigh-fanatical devotion, otherwise, they can hardly hope to counteract the manifold magical powers with mundane means, be they subtle or obvious. Their work often drives them to the edge of morality and sometimes beyond, and many break under the responsibility that rests on their shoulders - making them particularly dangerous for those who seek to harm no one with their craft but still find themselves in the hunter's sights.",
+            "description": "Specialises in hunting and fighting spellcasters, possesses various means to absorb, dispel or supress magic.",
             "name": "Witch Hunter",
             "properties": {
                 "biom": [
@@ -24686,7 +24686,7 @@
             }
         },
         "148-spore_shepherd": {
-            "description": "Spore Shepherds are of tranquil demeanor, tending to the diverse mushroom colonies thriving in their territories, be it long-stalked or wide-capped varieties with wide, delicate fungi or blobs of slime mold. They make no distinction whether their wards are animate, sentient fungi or mundane mushrooms, although outsiders may hardly grasp the intricate mycotic processes and the assessment of fungal sentience. The Shepherds are fiercely protective of their flock and possess extensive mycotic networks, constantly providing them with information about their environment.",
+            "description": "Creates a mycelium nexus to buff other fungoid friends and raises Sporeshamblers.",
             "name": "Spore Shepherd",
             "properties": {
                 "biom": [
@@ -24729,7 +24729,7 @@
             }
         },
         "149-gatekeeper": {
-            "description": "The role of Gatekeepers is to grant entry and, if necessary, prevent intrusion.  They do this with stoic elegance and an inherent sense of the theatrical demands and expectations of their role. Gatekeepers are the ultimate aesthetic embellishment to any throne room or fortress walkway, poised and ready to cross halberds and stop newcomers dead in their tracks, if only for a thrilling moment of suspense before stepping aside. Gatekeepers are renowned for their patience, their calm demeanor, unwavering loyalty, a flair for the dramatic and of course the combat skills to enforce the implied threat of their presence.",
+            "description": "Especially effective in pairs of two, fights by drawing a line and refusing to let anyone pass.",
             "name": "Gatekeeper",
             "properties": {
                 "biom": [
@@ -24772,7 +24772,7 @@
             }
         },
         "150-ravager": {
-            "description": "Ravagers are nigh-legendary warriors whose physical abilities surpass human limits, reaching mythical proportions. Whether living in solitude or leading like minded individuals, their lives are defined by combat, whether born of the harsh circumstances of their origin or by choice. These indomitable warriors have been shaped by years or decades of struggle for survival, their bodies and minds hardened to resist forces that would break lesser beings.",
+            "description": "Powerful interpretation of the Berserker-archetype, useful base template for NPC or dynamic enemy for thematic encounters.",
             "name": "Ravager",
             "properties": {
                 "biom": [
@@ -24816,7 +24816,7 @@
             }
         },
         "151-dwarven_battlemason": {
-            "description": "Battle-Masons epitomize the convergence of artisanal skill and martial expertise, exemplifying dwarven virtues. Hardened veterans and master craftsmen, they operate and fight in the most adverse conditions, often deployed during sieges or subterranean conflicts. Battle-Masons do not settle for just clearing a tunnel or capturing an enemy position. Materials are reinforced, equipment is set up instantly, and a position is only vacated when it is in better condition than when it was captured. Stern and steadfast, they are the reliable force to turn to in times of crisis, offering expertise in high-pressure environments.",
+            "description": "Heavily armed veteran well-versed in siegecraft and close combat, pesters allies with unwanted advice.",
             "name": "Dwarven Battlemason",
             "properties": {
                 "biom": [
@@ -24857,7 +24857,7 @@
             }
         },
         "152-tunnelterror_gorgeworm": {
-            "description": "When a Gorgewormling detects a rich food source or manages to attach unnoticed as a parasite to larger beings, it rapidly grows to immense size. The fully grown Gorgeworm, driven mad by hunger, then burrows through the earth, devouring everything that falls within the reach of its scythe-like mandibles. Though tenacious prey may escape from the worm's gullet, they are often left with a Broodspawn attached, an undulating egg sac from which the asexually produced offspring of the worm hatch.",
+            "description": "Enormous worm procreating by swallowing creatures and infesting them with Broodspawns.",
             "name": "Tunnelterror Gorgeworm",
             "properties": {
                 "biom": [
@@ -24898,7 +24898,7 @@
             }
         },
         "152-tunnelterror_gorgeworm_broodspawn": {
-            "description": "When a Gorgewormling detects a rich food source or manages to attach unnoticed as a parasite to larger beings, it rapidly grows to immense size. The fully grown Gorgeworm, driven mad by hunger, then burrows through the earth, devouring everything that falls within the reach of its scythe-like mandibles. Though tenacious prey may escape from the worm's gullet, they are often left with a Broodspawn attached, an undulating egg sac from which the asexually produced offspring of the worm hatch.",
+            "description": "Attaches to creatures swallowed by Gorgeworm, spawns Gorgewormlings when regurgitated.",
             "name": "Tunnelterror Gorgeworm Broodspawn",
             "properties": {
                 "biom": [
@@ -24938,7 +24938,7 @@
             }
         },
         "152-tunnelterror_gorgewormling": {
-            "description": "When a Gorgewormling detects a rich food source or manages to attach unnoticed as a parasite to larger beings, it rapidly grows to immense size. The fully grown Gorgeworm, driven mad by hunger, then burrows through the earth, devouring everything that falls within the reach of its scythe-like mandibles. Though tenacious prey may escape from the worm's gullet, they are often left with a Broodspawn attached, an undulating egg sac from which the asexually produced offspring of the worm hatch.",
+            "description": "Birthed by broodspawn, despicable critter.",
             "name": "Tunnelterror Gorgewormling",
             "properties": {
                 "biom": [
@@ -24979,7 +24979,7 @@
             }
         },
         "153-mummy_tomb_thrall": {
-            "description": "Tomb Thralls were low-ranking devotees who did not necessarily follow their sovereign into death and embalmment willingly. In their current unliving state, their position remains unchanged, rendering them the lowest in hierarchy yet the numerically strongest force, reanimated by the transcendent power of their sovereign, blurring the boundaries between life and death. They serve either to protect their master's tomb, prepare for his return, or, if he has already risen, to march at the forefront against the living.",
+            "description": "Mummified wretch armed with a sword and magic-repellent shield, capable of unleashing series of attacks.",
             "name": "Mummy Tomb-Thrall",
             "properties": {
                 "biom": [
@@ -25022,7 +25022,7 @@
             }
         },
         "154-awakened_armor": {
-            "description": "In a world teeming with dragons, magic, or extraplanar incursions, some hardened adventurers lose respect for the simple dangers of the adventurer's life. An awakened armor stands as a towering suit of plate mail, devoid of the any weaknesses imposed by organic parts. It feels no pain and knows no mercy; the armor is a tool of overwhelming violence, advancing unstoppably through arrow volleys, hostile terrain or arcane fire.",
+            "description": "More interactive than the SRD version, revolves around grappling, crushing and imprisoning creatures.",
             "name": "Awakened Armor",
             "properties": {
                 "biom": [
@@ -25062,7 +25062,7 @@
             }
         },
         "155-undead_deplorable": {
-            "description": "Deplorables is a catch-all term for undead creatures barely held together by waning dregs of necromantic energies coursing through their clotted veins. Reduced to decaying husks by ages of service, starvation or especially hostile working conditions, Deplorables make for the bottom tier of undead operatives. But as long as their bones haven't been ground to dust and their flesh hasn't fully withered, they keep on, shambling, crawling and creeping forwards at the behest of their dark masters, compensating their lack of redeeming qualities with sheer numbers and their indisputable tenacity. Often, these deplorables band together into hordes, descending upon living beings like waves of withered flesh and missing limbs.",
+            "description": "Bottom tier undead, aims to grasp and gnaw, can band together to form Horde.",
             "name": "Undead Deplorable",
             "properties": {
                 "biom": [
@@ -25103,7 +25103,7 @@
             }
         },
         "155-undead_deplorable_horde": {
-            "description": "Deplorables is a catch-all term for undead creatures barely held together by waning dregs of necromantic energies coursing through their clotted veins. Reduced to decaying husks by ages of service, starvation or especially hostile working conditions, Deplorables make for the bottom tier of undead operatives. But as long as their bones haven't been ground to dust and their flesh hasn't fully withered, they keep on, shambling, crawling and creeping forwards at the behest of their dark masters, compensating their lack of redeeming qualities with sheer numbers and their indisputable tenacity. Often, these deplorables band together into hordes, descending upon living beings like waves of withered flesh and missing limbs.",
+            "description": "Meek and wretched undead clumped together, surging towards opponents like a tide of rotting flesh.",
             "name": "Undead Deplorable Horde",
             "properties": {
                 "biom": [
@@ -25144,7 +25144,7 @@
             }
         },
         "156-carnax_hatchet_hulk": {
-            "description": "Carnax Hatchet-Hulks are formidable creatures, scaled behemoths resembling a green-scaled and axe-faced lump of stacked muscle mass moving with harrowing speed and bone-crushing momentum. Despite their ferocity, they are more complex than their bestial appearance and a cursory assessment of their behaviour lets on. It is common for a mature Carnax to seek an equal opponent in battle and, should they prove worthy, submit to them, forming a martial bond in and out of combat, mutually learning from one another as battle brothers, mutuals and mounts. Warriors able to forge such a bond with a Carnax often attain legendary renown, and the power of such a mighty ally often allows them to naturally or violently rise to the top of their respective hierarchical structures.",
+            "description": "Rampaging beast with a unique mechanic to tame it mid-combat.",
             "name": "Carnax Hatchet-Hulk",
             "properties": {
                 "biom": [
@@ -25190,7 +25190,7 @@
             }
         },
         "157-infernal_infanterist": {
-            "description": "Untold legions of lesser devils form the bulk of the infernal armies, born from soot, sulfur, and sin. Automatically under the command of the ruler whose domain they manifest in, they themselves have only minimal agendas, their emotional spectrum reduced to those traits necessary to wage war at their leader's behest. Yet, over the course of their service, they may gain power and consciousness, perhaps even managing to distinguish themselves among their peers and begin their ascent through the ranks of the hellish legions.",
+            "description": "Customizable infernal trooper, corrupts the ground and can conjure reinforcements mid-combat using blood rituals.",
             "name": "Infernal Infanterist",
             "properties": {
                 "biom": [
@@ -25229,7 +25229,7 @@
             }
         },
         "158-infernal_immolator": {
-            "description": "Within the infernal realms, some factions of devils actively contemplate their roles in the construct of sin, punishment, and atonement. They are dismissed by the more straightforward fiends as esoterics, yet bloody wars have been fought over interpretations of infernal nature. Immolators belong to the more radical factions of these mystic covens, firmly convinced of their role as harbingers of the punishing, all-consuming fire. Surrounded by an ominous calm, they readily join infernal hosts as independent actors, and no sin escapes their sixfold gaze.",
+            "description": "Allocates Immolation Marks for continuous fire damage and increasingly powerful effects.",
             "name": "Infernal Immolator",
             "properties": {
                 "biom": [
@@ -25268,7 +25268,7 @@
             }
         },
         "159-vampire_chiropterror": {
-            "description": "Some Vampires attain the ability to tap deeply into the bestial aspect of their tainted blood, enabling them to assume a monstrous form alongside their humanoid guise. One such manifestation is the Chiropterror, bat-like brutes with innate mastery over sanguine biomancy, capable of enhancing their already considerable strength and speed through blood magic to truly terrifying heights. While some Vampires can transition between their charming, humanoid form and this monstrous one, others succumb to the call of the hunt, causing their outward appearance to truly mirror the beast within.",
+            "description": "Uses harvested blood to further increase its considerable strength and speed.",
             "name": "Vampire Chiropterror",
             "properties": {
                 "biom": [
@@ -25311,7 +25311,7 @@
             }
         },
         "160-skyshark": {
-            "description": "One might think that avoiding water would generally keep you safe from shark attacks. One would be wrong. Whether striking from lightning-lit storm clouds, deceptively calm cloud seas, or towering waves, Sky Sharks attack unexpectedly from both air or water, causing such bloodshed in their raids that all involved creatures are frequently overtaken by a primordial blood frenzy, tearing, hacking, and biting at each other in a blood-crazed haze.",
+            "description": "Attacks with such ferocity that any combatant may fly into a blood-thirsty rage.",
             "name": "Sky Shark",
             "properties": {
                 "biom": [
@@ -25350,7 +25350,7 @@
             }
         },
         "161-sodden_cavalier": {
-            "description": "Battlefields are dreadful places, not only for the downtrodden foot soldiers, but also the shining mounted elite. Many a glorious cavalry charge ended miserably in knee-deep mud, the final breath of many a proud knight a brackish gurgle, far removed from any notion of honorable warfare or chivalric combat. Such humiliated knights emerge from swamps and marshlands as Sodden Cavaliers, eternally surrounded by cold, relentless rain, seeking the death in battle that was once denied to them.",
+            "description": "Undead knight drenched by supernatural rain that saps the hope of any who dare to approach.",
             "name": "Sodden Cavalier",
             "properties": {
                 "biom": [
@@ -25391,7 +25391,7 @@
             }
         },
         "161-undead_steed": {
-            "description": "Cursed, or perhaps blessed, with undeath, whether once a noble war steed or a worn-out nag, this mount remains a loyal companion, tirelessly carrying its rider and their burdens despite its festering flesh and sloughing skin, if one can stomach the smell and endure the disgusted looks.",
+            "description": "Rotting horse infested with vermin, unfazed by the most hostile terrrain on account of being dead.",
             "name": "Undead Steed",
             "properties": {
                 "biom": [
@@ -25433,7 +25433,7 @@
             }
         },
         "162-brigand": {
-            "description": "Brigands, cast out or withdrawn from society, have forged a new home within the harsh spaces between cities and villages. Gathered into loose bands, they seek refuge in castle ruins or caverns, from which they launch coordinated raids and ambushes. Despite their ragtag weaponry and lack of military experience, these outcasts are not to be trifled with, for the harsh frontiers forge hardened men and women, most of whom know there is no turning back for them.",
+            "description": "Rugged armed peasants relying on creative ambush tactics to even the odds.",
             "name": "Brigand",
             "properties": {
                 "biom": [
@@ -25479,7 +25479,7 @@
             }
         },
         "163-infernal_bloodhowler": {
-            "description": "From the ranks of Infernal Infantry some devils stand out through sheer combat ferocity and brutality. These individuals are singled out and forced to engage in a ritualized duel. One combatant emerges as a Bloodhowler, swollen in stature and wielding an infernal axe, flash-forged at the apex of their duel, carrying the raging essence of the vanquished devil. From then on, the Bloodhowler serves as an infernal champion, leading the charge and calling upon the blood rain to sanctify their slaughter.",
+            "description": "Infernal champion wielding a possessed axe, summons blood rain to to whip the whole battlefield into frenzy.",
             "name": "Infernal Bloodhowler",
             "properties": {
                 "biom": [
@@ -25519,7 +25519,7 @@
             }
         },
         "164-rustblight_skeleton": {
-            "description": "Rustblights rise from the ancient sites of long-forgotten battles. Clad in the remnants of corroded armor and wielding rust-eaten weapons, they are embodiments of ruin and decay. Born of rust and rot, they stalk places marked by death and decline, ruthlessly attacking all that lives, as flesh, wood, and steel alike crumble under their unfeeling assault.",
+            "description": "Ravaged by ruinous energies, capable of destroying players' equipment.",
             "name": "Rustblight Skeleton",
             "properties": {
                 "biom": [
@@ -25563,7 +25563,7 @@
             }
         },
         "165-chicken": {
-            "description": "Chickens are versatile and widely domesticated birds, essential to agricultural practices around the world. Known for their prolific egg-laying abilities and providing a reliable source of meat, they are a staple in many diets. Chickens are social creatures with distinct pecking orders, exhibiting interesting behaviors such as dust bathing and foraging.",
+            "description": "Laying eggs and providing a reliable source of meat, they are a staple in many diets.",
             "name": "Chicken",
             "properties": {
                 "biom": [
@@ -25599,7 +25599,7 @@
             }
         },
         "165-cow": {
-            "description": "With their characteristic placid demeanor, cows embody the idyll of agricultural life, a stark contrast to the struggles and terrors of the hunt. Domesticated over millennia, these bovine creatures are essential to the growth and prosperity of Civilizeds worldwide, providing milk, meat, and labor across cultures. Naturally docile and curious, they perfectly exemplify the peaceful pastoral landscapes they call home.",
+            "description": "With their characteristic calm demeanor, cows embody the idyll of rural life.",
             "name": "Cow",
             "properties": {
                 "biom": [
@@ -25635,7 +25635,7 @@
             }
         },
         "165-goat": {
-            "description": "Goats are curious and resilient, embodying adaptability in diverse environments. Domesticated for thousands of years, these versatile creatures are valued for their milk, meat, and wool, making them essential to agriculture and livelihoods around the world. Known for their agility and ability to thrive in rugged terrain, goats symbolize independence and resourcefulness, playing a vital role in traditional farming practices.",
+            "description": "Navigates rocky slopes with ease. Screams, faints and smells weird.",
             "name": "Goat",
             "properties": {
                 "biom": [
@@ -25673,7 +25673,7 @@
             }
         },
         "165-pig": {
-            "description": "Pigs are intelligent and adaptable animals, known for their social behavior and keen sense of smell. Pigs are omnivores and have a remarkable ability to forage, and possess a level of intelligence such that there is likely a significant intellectual overlap between the smartest pigs and the dumbest humans.",
+            "description": "There is likely a significant intellectual overlap between the smartest pigs and the dumbest humans.",
             "name": "Pig",
             "properties": {
                 "biom": [
@@ -25709,7 +25709,7 @@
             }
         },
         "166-jabberwook": {
-            "description": "All creatures inhabiting the Feywild are alien by default, born from the chaotic energies that shape this unfathomable plane or manifested on a whim by an Archfey or comparable entity. Few of these creations are as dangerously bizarre or uncomfortably alluring as the mighty Jabberwook, birthed from a collective surrealist nightmare shared by the deliriously drunk guests of a lavish banquet held by the Prince of the Morrowgleam Court.",
+            "description": "Unleashes chaotic reality shifts crazier than any wild magic surge.",
             "name": "Jabberwook",
             "properties": {
                 "biom": [
@@ -25748,7 +25748,7 @@
             }
         },
         "167-acolyte_of_murder": {
-            "description": "Those devoted to cults of murder, bloodshed, and other unsavory aspects of violence are prevalent in many settings. Acolytes of Murder represent a variant of these cultists, either already acting as the executive organs of their dark patrons or still in the process of proselytizing by joining armies, bandit gangs, or other seedy professions where they put their penchant for brutality and bloodshed to good use. Over time, they undergo subtle transformations, gaining inhuman traits like overgrown fangs, bloodshot, bestial eyes, or snarling snouts. They then seek out or return to the cult and act in unison with their kind, shedding blood and carrying out their patrons' bidding.",
+            "description": "Devoted to cults of murder and bloodshed, able to hide their true nature until they strike.",
             "name": "Acolyte Of Murder",
             "properties": {
                 "biom": [
@@ -25790,7 +25790,7 @@
             }
         },
         "168-city_guard_runner": {
-            "description": "City guards are as integral to the image of a fantasy city as thieves' guilds, pushy merchants, and arrogant aristocrats. They patrol the streets and are always ready to thwart the players' antics, as a party traditionally finds themselves on the wrong side of the law from time to time. While a single guardsman poses little challenge to a group of adventurers, it is their numbers and discipline that make the city watch a force to be reckoned with, especially when the lightly armed, mobile guards call in reinforcements in the form of their heavily armed special forces",
+            "description": "First responders to every crime scene before booking it to call in reinforcements.",
             "name": "City Guard Runner",
             "properties": {
                 "biom": [
@@ -25832,7 +25832,7 @@
             }
         },
         "169-mummy_tomb_vizier": {
-            "description": "Tomb-Viziers are lower overseers within the strict hierarchy of undead tomb structures. In life, they were officials who, due to their mundane blood, could neither hold governmental nor sacral offices, but still showed a talent for bureaucracy and organization. In death, they were rewarded with a position as Vizier. They hold command over low-ranking Tomb-Thralls or other minor undead and are tasked with keeping intrepid dungeon-delvers and Graves robbers at bay to prevent the premature awakening of higher ranked undead.",
+            "description": "Mummified minister managing minor mummies, wields a fraction of their sovereign's power.",
             "name": "Mummy Tomb-Vizier",
             "properties": {
                 "biom": [
@@ -25874,7 +25874,7 @@
             }
         },
         "170-cult_oracle": {
-            "description": "Not every cult devoted to a greater, ominous power is in direct contact with the subject or object of their worship - on the contrary. Sometimes the dark power is not yet strong enough to communicate, and often the cult is still too insignificant to attract the dreaded attention of a presence worthy of a cult. A cult leader may claim to know the way for a while, but not every acolyte will remain satisfied with that indefinitely. Cult Oracles receive opaque, veiled messages, impressions, and impulses from their dark patron and try to interpret them in the interests of the cult. They represent a connection between the worldly-organizational level of a cult and the metaphysical power in the background, serving as messengers and spiritual leaders to their cult.",
+            "description": "Calls upon their Patron to receive dark blessings and buff their allies.",
             "name": "Cult Oracle",
             "properties": {
                 "biom": [
@@ -25916,7 +25916,7 @@
             }
         },
         "171-blazing_skull": {
-            "description": "Engulfed in flames and fueled by rites of destruction, Blazing Skulls are undead creatures summoned to make use of their immense lust and widely recognized aptitude for fire-based devastation. Whether driven by a desire for vengeance against a world that wronged them or by a fundamental appetite for pyromania, unleashing one or more Blazing Skulls places the fate of the entire surrounding area on a knife's edge, as everything that can burn probably will.",
+            "description": "Summoned to make use of their immense lust and widely recognized aptitude for fire-based devastation.",
             "name": "Blazing Skull",
             "properties": {
                 "biom": [
@@ -25961,7 +25961,7 @@
             }
         },
         "172-zealot_firebrand": {
-            "description": "Faith and devotion take many forms. The interaction of a truly devout person with the world can range from total reclusion and an ascetic lifestyle to the communicative itinerant preacher and the earnest missionary. Those who do not shy away from setting themselves on fire for greater visibility and driving the words of their holy book directly into someone's head are known as zealots. They are single-mindedly focused on living out their faith and will stop at nothing, least of all potential death, to stand up for what they perceive as divine truth.",
+            "description": "Zealous preachers and firebrand fanatics, eager to set themselves and their surroundings ablaze.",
             "name": "Zealot Firebrand",
             "properties": {
                 "biom": [
@@ -26004,7 +26004,7 @@
             }
         },
         "173-infernal_invocator": {
-            "description": "Throughout the infernal hierarchies of the Hells, numerous castes, cults, and covens of varying influence can be found. For instance, infernal immolators often belong to the mystics of the Burning Wheel, obsessed with atonement and hellfire. There are also those who delve deeply into the occult aspects of sacrifice, sin, and punishment. These experts in infernal occultism are known as Invocators, often traveling the planes in search of new insights and eagerly sharing their cruel knowledge. Within the infernal legions, they act as skilled spellcasters and summoners, always keen to apply their research and test their abilities against enemy spellcasters - of course after ensuring that the game is rigged in their favour.",
+            "description": "Serve the Infernal Legions as spellcasters and summoners, take great pleasure in dueling with enemy magic users.",
             "name": "Infernal Invocator",
             "properties": {
                 "biom": [
@@ -26044,7 +26044,7 @@
             }
         },
         "174-city_guard_halberdier": {
-            "description": "Halberdiers are part of the heavy assault troops of a well-equipped city guard, armored and relentless in both advancing and defensive combat. Halberdiers often serve as the stalwart core of a watch cadre, called upon in ongoing situations to effectively seal off locations or to confront particularly large or mounted opponents. Even large groups of rebellious agitators can be quickly brought to heel by a steadfast squad of Halberdiers.",
+            "description": "Heavy assault troops of a well-equipped city guard. Seals off locations or confront  large or mounted opponents.",
             "name": "City Guard Halberdier",
             "properties": {
                 "biom": [
@@ -26085,7 +26085,7 @@
             }
         },
         "175-bounty_hunter_breaker": {
-            "description": "Breakers are towering mountains of muscle, who often batter their targets to the brink of unconsciousness, if not beyond, before delivering them in a pitiful state. This bounty hunter archetype either operates with excessive aggression from the outset or exudes an unsettling calm, where the threat of sudden, escalating violence lurks behind every carefully chosen word.",
+            "description": "Musclebound and stoic, batters their targets to the brink of death before delivering them in a pitiful state.",
             "name": "Bounty Hunter Breaker",
             "properties": {
                 "biom": [
@@ -26128,7 +26128,7 @@
             }
         },
         "175-bounty_hunter_impaler": {
-            "description": "Impaler possesses the mentality of a hunter, but not one who sees the hunt as an honorable duel between hunter and prey. Instead, he is like a smug noble, who particularly relishes delivering the final blow to a harrowed, breathless and defenseless creature. Relentlessly, the spears and harpoons of the Impaler embed themselves in the flesh of his victims, and only when the fight has faded from the creature's eyes does this bounty hunter dare to close the distance, finishing off what's left to make the kill ready for delivery.",
+            "description": "Uses spears and harpoons to immobilize its target, master of ranged combat.",
             "name": "Bounty Hunter Impaler",
             "properties": {
                 "biom": [
@@ -26170,7 +26170,7 @@
             }
         },
         "175-bounty_hunter_stalker": {
-            "description": "Bounty Hunters of the Stalker archetype spend days or weeks trailing their targets, preparing for the perfectly orchestrated strike. They rely on stealth and subterfuge to get as close as possible to their target before using intricate knifework and vicious poison to make their point. If the initial assault proves ineffective, the Stalker is not above abandoning their posse to further wear down the target and retreat into the shadows, finding a new angle and setting up the next attack.",
+            "description": "Stalks targets to orchestrate the perfect strike, sacrificies pawns to avoid death.",
             "name": "Bounty Hunter Stalker",
             "properties": {
                 "biom": [
@@ -26213,7 +26213,7 @@
             }
         },
         "175-bounty_hunter_trapper": {
-            "description": "Trappers excel at turning the entire area where their target is located into a massive environmental weapon. Every movement could trigger firebombs, shrapnel grenades, or pit traps. A skilled Trapper can instill such overwhelming paranoia in a creature that the burden of constantly endangering innocent lives becomes unbearable. This can lead the hunted person to surrender without a fight, no longer willing to be the subject of the trapper's sadistic ingenuity.",
+            "description": "A sadistic saboteur, ensures that every move could trigger firebombs, shrapnel grenades, or pit traps. ",
             "name": "Bounty Hunter Trapper",
             "properties": {
                 "biom": [
@@ -26256,7 +26256,7 @@
             }
         },
         "176-moray_drake": {
-            "description": "Moray Drakes combine the most unpleasant aspects of two supremely dangerous creatures, both of which should be avoided for different reasons. These lesser dragons nest in coral reefs, coastal coves, and lush riverbanks, their territory easily recognizable due to accumulations of brightly coloured mucus and oozing globules, floating in the surrounding waters like bloated jellyfish. The gluttonous Drakes feed on anything that fits between their pharyngeal jaws, from fish and small marine mammals to humanoids unfortunate or foolish enough to venture into this creature's hunting grounds.",
+            "description": "Highly poisonous aquatic drakes combining the worst traits of two supremely dangerous creatures.",
             "name": "Moray Drake",
             "properties": {
                 "biom": [
@@ -26299,7 +26299,7 @@
             }
         },
         "177-cult_possessed": {
-            "description": "Not every cult is heard, and not every cultist is rewarded. Yet the gifts of the powers that reign over domains beyond mortal comprehension are rarely subtle, and they wreak havoc upon the human form. Seldom are those thus gifted still able to act with coherent thought, and more often than not, they are used by the spiritual leaders of the cult as vessels for communion or shepherded into battle, where the horrors of their inhuman forms are unleashed without hesitation.",
+            "description": "A cult member warped by the powers of its patron, receiving various boons over the course of combat.",
             "name": " Cult Possessed",
             "properties": {
                 "biom": [
@@ -26347,7 +26347,7 @@
             }
         },
         "178-ogre_batter_brute": {
-            "description": "Clad in reinforced armor adorned with rough spikes, these ogres use their massive stature to hold their ground against larger foes or, as is often preferred by the individual ogres, to relentlessly bully weaker enemies. They wield their brutal shield for both offensive and defensive purposes, gleefully battering aside anything that dares to cross their path.",
+            "description": "A hulking ogre clad in spiked plate, battering aside opponents with its heavy shield.",
             "name": " Ogre Batter-Brute",
             "properties": {
                 "biom": [
@@ -26393,7 +26393,7 @@
             }
         },
         "179-rime_wyvern": {
-            "description": "White Dragons adore the hunt, pursuing feral delight in seeking out and overpowering greater and greater prey. Powerful White Dragons are able to infuse Wyverns with a portion of their essence, bestowing a semblance of their master's elemental affinity and draconic might upon them. These Rime Wyverns serve as heralds and hounds, often initiating a hunt and harrowing the target relentlessly, before their master appears and delivers the finishing blow. If the dragon has devotees or subordinates, a Rime Wyvern might lead a portion of these forces into battle or serve as the great dragon's emissary, speaking on their behalf.",
+            "description": "Powerful wyverns imbued with magical frost, harrowing snow storms following in their wake.",
             "name": " Rime Wyvern",
             "properties": {
                 "biom": [
@@ -26440,7 +26440,7 @@
             }
         },
         "180-desert_luremaw": {
-            "description": "By cruel coincidence or cosmic sadism, Luremaws are not confined to the depths of the ocean. There is a subspecies that lies buried in the scorching desert sands, waiting to ambush prey on land. Less mobile than their aquatic kin, but just as devious and perhaps even more dangerous due to easier access to prey by lurking along caravan routes or near oases these Desert Luremaws are yet another reason to exercise caution while adventuring within the desert.",
+            "description": "Giant anglerfish able to traverse sand as if it were water, preying on adventurers using devious treasure-lures.",
             "name": " Desert Luremaw",
             "properties": {
                 "biom": [
@@ -26481,7 +26481,7 @@
             }
         },
         "180-giant_luremaw": {
-            "description": "Normal-sized luremaws may not win any beauty contests, but due to their small size, they pose little danger to the average adventurer. However, encounters with one of the rare specimens that have grown to gigantic size are not only unpleasant but deadly. Anyone who thinks they can avoid these toothy ambush predators by dismissing their glowing lure as unappealing should be warned that those large, man-eating specimens have grown so big precisely because they know exactly how to lure those who venture into such inhospitable depths with the promise of rich rewards. And thus, many an experienced luremaw no longer dangles a typical glowing lure, but rather a bulging treasure chest or similarly enticing artifacts, while its massive body remains hidden in darkness or buried in the seabed.",
+            "description": "Giant anglerfish preying on adventurers using devious treasure-lures.",
             "name": " Giant Luremaw",
             "properties": {
                 "biom": [
@@ -26523,7 +26523,7 @@
             }
         },
         "181-frost_wretch": {
-            "description": "Frost Wretches are the mortal remnants of unfortunate souls who met their end through harrowing cold, those who perished buried beneath snow or crushed by an avalanche. As the memories of warmth were slowly purged from their bodies and minds by the overwhelming frost, even death could not still their yearning. So powerful is their craving for the faintest touch of life-giving heat that their lifeless bodies rise again, driven by an unfulfilled desire for what was ultimately denied to them. These wretched wanderers now stalk the living, drawn to the warmth they can never reclaim, making them a peril to any who still carry the flame of life.",
+            "description": "Froze to death and is drawn to sources of heat, begs for death by fire and becomes aggressive when denied.",
             "name": " Frost Wretch",
             "properties": {
                 "biom": [
@@ -26564,7 +26564,7 @@
             }
         },
         "182-barmaid": {
-            "description": "Equipped with a unique blend of joviality and crabbyness, a Barmaid can be either the worst nightmare or the most valuable ally to any adventurer, be it fresh-faced or battle-hardened. She rules the tavern with an iron fist, and it pays to respect the local rules and customs. First and foremost, because one should never cross someone with unfettered access to their food, the key to any room and a selection of thoroughly confirmable alibi. Likewise, most hospitality workers are just waiting for the chance to truly let off some steam and you should make sure not to be on the receiving end. However, the Barmaid knows the fate she has chosen, and if she truly despised the hustle and bustle, she'd probably find a different job, for example Warlord or Grand Inquisitor.",
+            "description": "The worst nightmare or most valuable ally to any adventurer, rules her tavern with an iron fist.",
             "name": "Barmaid",
             "properties": {
                 "biom": [
@@ -26605,7 +26605,7 @@
             }
         },
         "183-goblin_pinecone_bomber": {
-            "description": "Goblins are nothing if not adaptable and creative in using the resources available to them to offset the advantages their enemies are blessed with. At the same time, a certain sadism cannot be denied. Pinecone Bombers remarkably sound like a myth, until the caravan passes through coniferous woodlands and the last thing the escort sees is a grinning goblin with impressive leg muscles, clinging to a tree trunk six meters up, fiddling with a pinecone, before the explosions knock them off their horse and everything goes black.",
+            "description": "Specialized on ambushing passing creatures from above with exploding pinecones.",
             "name": "Goblin Pinecone Bomber",
             "properties": {
                 "biom": [
@@ -26649,7 +26649,7 @@
             }
         },
         "184-rot_cerf": {
-            "description": "Rot Cerfs are ghastly to behold, towering, monstrous stag-beings with half-decayed visages, heralded by the cracking of aged leaves and a pungent scent of damp moss mingled with the sweet stench of rot. Yet these creatures are not of undead nature; they embody the eternal cycle of death, decay, and rebirth, the hulking creature being both rot-bringer and life-birther. It is said that a single touch of its gnarled claws can infest a creature with unyielding decay, yet it is also supposed to possess healing powers of mythical proportions, capable of bringing a soul back from beyond the realm of death.",
+            "description": "Avatars of the eternal cycle of death, decay, and rebirth, can kill and revive characters to teach them a lesson.",
             "name": "Rot Cerf",
             "properties": {
                 "biom": [
@@ -26693,7 +26693,7 @@
             }
         },
         "185-hunting_wyvern": {
-            "description": "Born from humanity's curious impulse to subjugate every fanged and clawed horror that makes the mistake of gazing from the forest's edge into campfire-lit clearings, Hunting Wyverns are the result of breeding what once were draconic behemoths into something resembling a even more psychotic bird. Through millennia of costly and loss-ridden endeavors, wealthy nobles can now field Hunting Wyverns, surprisingly intelligent and lightning-fast upgrades over traditional falcons, surpassing them both in ability and prestige.",
+            "description": "A small and swift wyvern bred and trained to heed commands and harry prey.",
             "name": "Hunting Wyvern",
             "properties": {
                 "biom": [
@@ -26739,7 +26739,7 @@
             }
         },
         "186-vampire_huntress": {
-            "description": "While the thin-blooded, more beastly vampires display no particular preference regarding the source of their well-known primary sustenance, among the more civilized and haughty specimens, one observes a regrettable and troublesome inclination towards the fairer sex. It is scarcely surprising, therefore, that this provokes a reaction, prompting some young ladies to proactively preempt potential transgressions by embarking upon a career as vampire huntresses, often with great success.",
+            "description": "An experienced huntress boasting a variety of anti-undead equipment.",
             "name": "Vampire Huntress",
             "properties": {
                 "biom": [
@@ -26787,7 +26787,7 @@
             }
         },
         "187-skeletal_dune_raider": {
-            "description": "Only to the untrained eye does the desert appear lifeless, that much is known. Yet, alongside the life that blossoms in the sands, un-life flourishes as well. Numerous undead creatures haunt the dunes, wadis, and oases of many an arid Wastelands. Among them are the Skeletal Dune Raiders, the skeletal remnants of ill-fated desert marauders and caravan ambushers, infused with the arid essences of their Graves sites and unwilling to return beneath the sands alone.",
+            "description": "Parched skeletons emerging from the dunes with sword and drought as their weapons of choice.",
             "name": "Skeletal Dune Raider",
             "properties": {
                 "biom": [
@@ -26829,7 +26829,7 @@
             }
         },
         "189-hellspawned_homunculus": {
-            "description": "Hellspawn from cursed pits: warped, blade-limbed, warded horrors, immune to fear, reason, and most magic.",
+            "description": "Born from cursed pits: warped, blade-limbed, warded horrors, immune to fear, reason, and most magic.",
             "name": "Hellspawned Homunculus",
             "properties": {
                 "biom": [
@@ -26866,7 +26866,7 @@
             }
         },
         "190-casket_crawler": {
-            "description": "Casket Crawlers are undead forms shackled to a coffin by method of nail and stake, serving necromancers and fleshcrafters as mobile storage and subject of abuse.",
+            "description": "Serves as mobile storage for body parts and subject of abuse, aims to trap opponents within its casket.",
             "name": "Casket Crawler",
             "properties": {
                 "biom": [
@@ -26904,7 +26904,7 @@
             }
         },
         "191-city_guard_nightlight": {
-            "description": "The city guard nightlight is a flavourful addition to any city watch, patrolling the nightly streets with its trusty lantern.",
+            "description": "Flavourful addition to any city watch, patrolling the nightly streets with its trusty lantern.",
             "name": "City Guard Nightlight",
             "properties": {
                 "biom": [
@@ -26940,7 +26940,7 @@
             }
         },
         "192-alchemist": {
-            "description": "The alchemist showcases what's possible when you get creative with magic, a great centerpiece for a story revolving around the dangers of unchecked arcana.",
+            "description": "A master of Transmutation magic, able and willing to transform terrain, creatures and objects.",
             "name": "Alchemist",
             "properties": {
                 "biom": [
@@ -26980,7 +26980,7 @@
             }
         },
         "193-grave_golem": {
-            "description": "A shambling colossus of burial earth, its flesh a patchwork of Gravestones, wilted remains, and shifting, restless dead.",
+            "description": "A walking crypt, continuously spawning undead and placing Gravestones to buff them.",
             "name": "Grave Golem",
             "properties": {
                 "biom": [
@@ -27020,7 +27020,7 @@
             }
         },
         "193-gravestones": {
-            "description": "Gravestones only serve as markers for the Graves Golem.",
+            "description": "Serves as a marker for the Graves Golem, buffing nearby undead.",
             "name": "Gravestones",
             "properties": {
                 "biom": [
@@ -27055,7 +27055,7 @@
             }
         },
         "194-knight_mounted": {
-            "description": " The mounted knight is the ultimate symbiosis of man and beast, clad in heavy iron and propelled forth by half a ton of pure muscle tricked into charging towards danger.",
+            "description": "Clad in heavy iron and propelled forth by half a ton of pure muscle.",
             "name": "Knight (Mounted)",
             "properties": {
                 "biom": [
@@ -27093,7 +27093,7 @@
             }
         },
         "194-knight_unmounted": {
-            "description": "Even removed from his steed, a knight boasts nearly unparalleled martial might, utilizing their heavy plate as an extension of their body, rather than a hindrance.",
+            "description": "A superior duellist, utilizing their heavy plate as an extension of their body.",
             "name": "Knight (Unmounted)",
             "properties": {
                 "biom": [
@@ -27130,7 +27130,7 @@
             }
         },
         "195-orc_iron_bulwark": {
-            "description": " Clad in the thickest plate and wielding spiked slab shields, iron bulwarks serve as the anchor points of the heavily armored iron fist formations.",
+            "description": "Forms phalanx formations capable of withstanding all but the fiercest assaults.",
             "name": "Orc Iron Bulwark",
             "properties": {
                 "biom": [
@@ -27172,7 +27172,7 @@
             }
         },
         "196-orc_chieftain": {
-            "description": "Chieftains seek out strong opponents to rip holes into the enemy formations by disposing of their leaders",
+            "description": "Actively seeks out strong opponents and becomes more powerful by defeating them in challenges.",
             "name": "Orc Chieftain",
             "properties": {
                 "biom": [
@@ -27218,7 +27218,7 @@
             }
         },
         "197-soulgrasp_mirror": {
-            "description": "The Soulgrasp Mirror is a possessed construct capable trapping and imprisoning creatures.",
+            "description": "A magical mirror capable imprisoning creatures, freezing them in a fractal dimension within.",
             "name": "Soulgrasp Mirror",
             "properties": {
                 "biom": [
@@ -27256,7 +27256,7 @@
             }
         },
         "198-gnoll_fleshtaker": {
-            "description": "Flesh-Takers ensure that every battle yields morsels of meat, which they collect and distribute strategically to maintain the horde's momentum.",
+            "description": "Collects and distributes meat strategically to maintain the gnoll horde's momentum.",
             "name": "Gnoll Flesh-Taker",
             "properties": {
                 "biom": [
@@ -27298,7 +27298,7 @@
             }
         },
         "199-ghostflicker_candelabra": {
-            "description": "The Ghostflicker candelabra is a majestic animated chandelier dousing unsuspecting creatures with ethereal fire.",
+            "description": "Enchanted chandelier that douses dazzled creatures with ethereal fire.",
             "name": "Ghostflicker Candelabra",
             "properties": {
                 "biom": [
@@ -27334,7 +27334,7 @@
             }
         },
         "200-city_guard_interrogator": {
-            "description": "The Interrogators are a specialized unit within the city guard, tasked with hunting down and neutralizing rogue magic users.",
+            "description": "Special forces hunting rogue magic users and other arcane threats.",
             "name": "City Guard Interrogator",
             "properties": {
                 "biom": [
@@ -27380,7 +27380,7 @@
             }
         },
         "201-siege_troll": {
-            "description": "Siege trolls are bred to charge, breach and hold fast, able to defend a beachhead against overwhelming odds.",
+            "description": "Tasked to charge, breach and defend a beachhead against overwhelming odds.",
             "name": "Siege Troll",
             "properties": {
                 "biom": [
@@ -27423,7 +27423,7 @@
             }
         },
         "202-curseroot_bloomblight": {
-            "description": "The bloomblight infects creatures with cursed seeds that bloom violently under its radiant gaze.",
+            "description": "Infests creatures with debilitating seeds that bloom violently when targeted with its radiant gaze.",
             "name": "Curseroot Bloomblight",
             "properties": {
                 "biom": [
@@ -27460,7 +27460,7 @@
             }
         },
         "203-yeti_frostfiend": {
-            "description": "Frostfiends attack suddenly from the cover of storm-battered snow squalls, capable of tearing a seasoned adventurer limb from limb in a matter of seconds.",
+            "description": "Attacks suddenly from the cover of heavy snowstorms, freezes opponents and tears them apart.",
             "name": "Yeti Frostfiend",
             "properties": {
                 "biom": [
@@ -27497,7 +27497,7 @@
             }
         },
         "204-nightmaiden": {
-            "description": "Nightmaidens serve senior night hags in hopes of ascending into the coven, whether through merit or sororicide.",
+            "description": "Cruel duelists that roam the darkest corners of the realm, torturing their opponents with baneful blades.",
             "name": "Nightmaiden",
             "properties": {
                 "biom": [
@@ -27537,7 +27537,7 @@
             }
         },
         "205-torn_titan": {
-            "description": "The Torn Titan is a bisected, undead giant flailing with its titanic sword.",
+            "description": "A bisected, undead giant flailing with its titanic sword.",
             "name": "Torn Titan",
             "properties": {
                 "biom": [
@@ -27574,7 +27574,7 @@
             }
         },
         "206-unhinged_mimic": {
-            "description": "The Unhinged Mimic is a mimic teeming with parasites that can animate objects and control players.",
+            "description": "Teems with parasites that can animate objects and puppeteer players.",
             "name": "Unhinged Mimic",
             "properties": {
                 "biom": [
@@ -27614,7 +27614,7 @@
             }
         },
         "207-mind_tyrant_vivisector": {
-            "description": "The Vivisector seeks understanding by means of psychological and psionic torture.",
+            "description": "Performs cruel psionic experiments over the course of an encounter, discards playthings after use.",
             "name": "Mind Tyrant Vivisector",
             "properties": {
                 "biom": [
@@ -27655,7 +27655,7 @@
             }
         },
         "208-living_fossil_mammoth": {
-            "description": "Ancient fossils infused with primordial magic awaken, combining primal might and elemental power.",
+            "description": "Able to terraform the battlefield using primordial magic.",
             "name": "Living Fossil Mammoth",
             "properties": {
                 "biom": [
@@ -27695,7 +27695,7 @@
             }
         },
         "209-great_thinker": {
-            "description": "The Great Thinker is the extracted brain of a powerful Mind Tyrant instrumentalized as a psionic nexus.",
+            "description": "Draws strength from nearby Mind Tyrants and projects powerful psychic effects around it.",
             "name": "Mind Tyrant Great Thinker",
             "properties": {
                 "biom": [
@@ -27772,7 +27772,7 @@
             }
         },
         "212-ratfolk_ratknight": {
-            "description": "a scrap-armored ratfolk riding a giant rat trying to be a knight, succeeding mostly in spreading diseases.",
+            "description": "A scrap-armored ratfolk riding a giant rat trying to be a knight, succeeding mostly in spreading diseases.",
             "name": "Ratfolk Ratknight",
             "properties": {
                 "biom": [
@@ -27810,7 +27810,7 @@
             }
         },
         "212-ratfolk_sewersniper": {
-            "description": "a skittering sharpshooter firing infectious munition; not above playing dead to escape.",
+            "description": "A skittering sharpshooter firing infectious munition; not above playing dead to escape.",
             "name": "Ratfolk Sewersniper",
             "properties": {
                 "biom": [
@@ -27893,7 +27893,7 @@
             }
         },
         "213-hellracer_boarding_imp": {
-            "description": "specialize in high-speed boarding maneuvers, uncaring of the very likely possibility of grievous bodily harm.",
+            "description": "Specialize in high-speed boarding maneuvers, uncaring of the very likely possibility of grievous bodily harm.",
             "name": "Hellracer Boarding Imp",
             "properties": {
                 "biom": [
