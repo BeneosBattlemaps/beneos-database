@@ -1360,6 +1360,173 @@
                 "nb_variants": 1
             }
         },
+        "000-month_21_orc_war_tyrant": {
+            "description": "The Warchief is the single greatest authority within the ranks of a war host - an inspiring, or at least intimidating, leader, a successful commander and a powerful warrior. If they set foot onto a battlefield, their troops throw themselves every more recklessly at the enemy ranks, seeking the approval of their sovereign. Every trace of weakness must purged and every defeat could spell doom for an aspiring conqueror. This realisation often leaves War Chiefs paranoid and choleric, while their constant need to prove their might and tactical acumen drives them to ever greater bloodshed and destruction.",
+            "name": "Orc War Tyrant",
+            "properties": {
+                "biom": [
+                    "Dungeon",
+                    "Ruins",
+                    "Wilderness",
+                    "Forest",
+                    "Wastelands",
+                    "Road"
+                ],
+                "cr": "10",
+                "fightingstyle": [
+                    "Tactical",
+                    "Pressure"
+                ],
+                "movement": [
+                    "Walk"
+                ],
+                "purpose": [
+                    "Leader",
+                    "Support",
+                    "Boss"
+                ],
+                "releaseurl": "https://www.patreon.com/c/beneostokens",
+                "size": "large",
+                "stat_ac": 20,
+                "stat_cha": 20,
+                "stat_con": 18,
+                "stat_dex": 8,
+                "stat_hp": 189,
+                "stat_int": 14,
+                "stat_str": 20,
+                "stat_wis": 16,
+                "thumbnail": "000-month_21_orc_war_tyrant-1-db.webp",
+                "type": [
+                    "humanoid",
+                    "orc"
+                ],
+                "videourl": "https://youtu.be/aYlTyFGO5Qk?si=IPXeZbs9jacmdNcr",
+                "nb_variants": 1
+            }
+        },
+        "000-month_22_executioner_knight_cadre": {
+            "description": "The breaker of bodies and the breaker of minds acting in tandem.",
+            "name": "Executioner Knight Cadre",
+            "properties": {
+                "biom": [
+                    "civilized",
+                    "city",
+                    "road",
+                    "castle",
+                    "dungeon"
+                ],
+                "cr": "9",
+                "fightingstyle": [
+                    "tactical",
+                    "pressure",
+                    "melee"
+                ],
+                "movement": "walk",
+                "purpose": [
+                    "boss",
+                    "duellist"
+                ],
+                "releaseurl": "https://www.patreon.com/c/beneostokens",
+                "size": "medium",
+                "stat_ac": 18,
+                "stat_cha": 14,
+                "stat_con": 15,
+                "stat_dex": 10,
+                "stat_hp": 180,
+                "stat_int": 11,
+                "stat_str": 18,
+                "stat_wis": 10,
+                "thumbnail": "000-month_22_executioner_knight_cadre-1-db.webp",
+                "type": [
+                    "humanoid",
+                    "human"
+                ],
+                "videourl": "https://youtu.be/szevqepsrzo?si=ps88qomhrxytn4qf",
+                "nb_variants": 1
+            }
+        },
+        "000-month_22-executioner_knight_balthusar": {
+            "description": "A steel-clad killing machine dominating in close combat.",
+            "name": "Executioner Knight Balthusar",
+            "properties": {
+                "biom": [
+                    "civilized",
+                    "city",
+                    "road",
+                    "castle",
+                    "dungeon"
+                ],
+                "cr": "7",
+                "fightingstyle": [
+                    "tactical",
+                    "pressure",
+                    "melee"
+                ],
+                "movement": "walk",
+                "purpose": [
+                    "boss",
+                    "duellist"
+                ],
+                "releaseurl": "https://www.patreon.com/c/beneostokens",
+                "size": "medium",
+                "stat_ac": 18,
+                "stat_cha": 14,
+                "stat_con": 16,
+                "stat_dex": 13,
+                "stat_hp": 102,
+                "stat_int": 11,
+                "stat_str": 18,
+                "stat_wis": 10,
+                "thumbnail": "000-month_22-executioner_knight_balthusar-1-db.webp",
+                "type": [
+                    "humanoid",
+                    "human"
+                ],
+                "videourl": "https://youtu.be/szevqepsrzo?si=ps88qomhrxytn4qf",
+                "nb_variants": 2
+            }
+        },
+        "000-month_22-executioner_knight_vorrst": {
+            "description": "A steel-clad killing machine dominating in close combat.",
+            "name": "Executioner Knight Vorrst",
+            "properties": {
+                "biom": [
+                    "civilized",
+                    "city",
+                    "road",
+                    "castle",
+                    "dungeon"
+                ],
+                "cr": "7",
+                "fightingstyle": [
+                    "tactical",
+                    "pressure",
+                    "melee"
+                ],
+                "movement": "walk",
+                "purpose": [
+                    "boss",
+                    "duellist"
+                ],
+                "releaseurl": "https://www.patreon.com/c/beneostokens",
+                "size": "medium",
+                "stat_ac": 18,
+                "stat_cha": 14,
+                "stat_con": 15,
+                "stat_dex": 10,
+                "stat_hp": 102,
+                "stat_int": 11,
+                "stat_str": 18,
+                "stat_wis": 10,
+                "thumbnail": "000-month_22-executioner_knight_vorrst-1-db.webp",
+                "type": [
+                    "humanoid",
+                    "human"
+                ],
+                "videourl": "https://youtu.be/szevqepsrzo?si=ps88qomhrxytn4qf",
+                "nb_variants": 2
+            }
+        },
         "000-month_23_living_fossil_ankylosaurus": {
             "description": "Ancient fossils infused with primordial magic awaken, combining primal might and elemental power.",
             "name": "Living Fossil Ankylosaurus",
@@ -8676,12 +8843,9 @@
                     "Swamp"
                 ],
                 "fightingstyle": [
-                    "Ambush",
-                    "Melee"
+                    "Ambush"
                 ],
                 "purpose": [
-                    "Hunter",
-                    "Damage",
                     "Critter"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -8718,12 +8882,9 @@
                     "Hill"
                 ],
                 "fightingstyle": [
-                    "Airborne",
-                    "Predator"
+                    "Airborne"
                 ],
                 "purpose": [
-                    "Hunter",
-                    "Simple",
                     "Critter"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -8760,13 +8921,9 @@
                     "Urban"
                 ],
                 "fightingstyle": [
-                    "Ambush",
-                    "Predator",
-                    "Mobile"
+                    "Simple"
                 ],
                 "purpose": [
-                    "Hunter",
-                    "Damage",
                     "Critter"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -8848,8 +9005,6 @@
                     "Ambush"
                 ],
                 "purpose": [
-                    "Hunter",
-                    "Damage",
                     "Critter"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -9005,8 +9160,7 @@
                     "Pack"
                 ],
                 "purpose": [
-                    "Minion",
-                    "Damage"
+                    "Minion"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -9832,8 +9986,7 @@
                     "Melee"
                 ],
                 "purpose": [
-                    "Minion",
-                    "Damage"
+                    "Minion"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -10073,7 +10226,6 @@
                 ],
                 "purpose": [
                     "Mount",
-                    "Hunter",
                     "Critter"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -10113,7 +10265,8 @@
                     "Simple"
                 ],
                 "purpose": [
-                    "Damage"
+                    "Damage",
+                    "Critter"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -10349,12 +10502,10 @@
                     "Underwater"
                 ],
                 "fightingstyle": [
-                    "Predator",
-                    "Charge"
+                    "Simple"
                 ],
                 "purpose": [
                     "Hunter",
-                    "Damage",
                     "Critter"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
@@ -10510,7 +10661,8 @@
                 ],
                 "purpose": [
                     "Debuff",
-                    "Minion"
+                    "Minion",
+                    "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -23318,7 +23470,7 @@
                 "nb_variants": 2
             }
         },
-        "117-skeletal_Gravesblade": {
+        "117-skeletal_graveblade": {
             "description": "Graveblades were capable warriors, their body and soul now enthralled by necromancy powerful enough to restore their martial abilities and fighting spirit. Not to be confused with the mindless shambling hordes of lesser undead they often command, they are creative in the way of using their undead form to their advantage, amplifying their martial strength with the possibilities opened up by an undying body. Their fiery passion and warrior's honour, however, transformed into the cruel coldness of the unliving, turning the Gravesblades into relentless executors of calculated and methodical slaughter.",
             "name": "Skeletal Graveblade",
             "properties": {
@@ -23354,7 +23506,7 @@
                 "stat_int": 13,
                 "stat_str": 18,
                 "stat_wis": 13,
-                "thumbnail": "117-skeletal_Gravesblade-1-db.webp",
+                "thumbnail": "117-skeletal_graveblade-1-db.webp",
                 "type": [
                     "undead"
                 ],
@@ -26828,6 +26980,43 @@
                 "nb_variants": 1
             }
         },
+        "188-conflagrator_effigy": {
+            "description": "The Conflagrator Effigy, an infernal war machine, immolates enemies with searing hellfire.",
+            "name": "Conflagrator Effigy",
+            "properties": {
+                "biom": [
+                    "planar",
+                    "infernal"
+                ],
+                "cr": "8",
+                "fightingstyle": [
+                    "demanding",
+                    "aoe"
+                ],
+                "movement": "fly",
+                "purpose": [
+                    "damage",
+                    "debuff"
+                ],
+                "releaseurl": "https://www.patreon.com/posts/188-conflagrator-120868369",
+                "size": "huge",
+                "stat_ac": 17,
+                "stat_cha": 16,
+                "stat_con": 16,
+                "stat_dex": 8,
+                "stat_hp": 133,
+                "stat_int": 4,
+                "stat_str": 16,
+                "stat_wis": 6,
+                "thumbnail": "188-conflagrator_effigy-1-db.webp",
+                "type": [
+                    "fiend",
+                    "devil"
+                ],
+                "videourl": "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
+                "nb_variants": 1
+            }
+        },
         "189-hellspawned_homunculus": {
             "description": "Born from cursed pits: warped, blade-limbed, warded horrors, immune to fear, reason, and most magic.",
             "name": "Hellspawned Homunculus",
@@ -27769,6 +27958,41 @@
                 ],
                 "videourl": "https://youtu.be/38vwtlph9no",
                 "nb_variants": 4
+            }
+        },
+        "211-uvargandr_stormscalecluster": {
+            "description": "A marker token for the Uvargandr's storm scales.",
+            "name": "Uvargandr Storm Scale Cluster",
+            "properties": {
+                "biom": [
+                    "planar",
+                    "mountains",
+                    "wastelands",
+                    "arctic",
+                    "lair",
+                    "wilderness",
+                    "coast"
+                ],
+                "cr": "0.25",
+                "fightingstyle": "simple",
+                "movement": "walk",
+                "purpose": "minion",
+                "releaseurl": "https://www.patreon.com/c/beneostokens",
+                "size": "medium",
+                "stat_ac": 15,
+                "stat_cha": 0,
+                "stat_con": 0,
+                "stat_dex": 0,
+                "stat_hp": 15,
+                "stat_int": 0,
+                "stat_str": 0,
+                "stat_wis": 0,
+                "thumbnail": "211-uvargandr_stormscalecluster-1-db.webp",
+                "type": [
+                    "dragon"
+                ],
+                "videourl": "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
+                "nb_variants": 1
             }
         },
         "212-ratfolk_ratknight": {
