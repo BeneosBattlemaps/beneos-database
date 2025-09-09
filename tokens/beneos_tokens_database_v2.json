@@ -1404,47 +1404,6 @@
                 "nb_variants": 1
             }
         },
-        "000-month_22_executioner_knight_cadre": {
-            "description": "The breaker of bodies and the breaker of minds acting in tandem.",
-            "name": "Executioner Knight Cadre",
-            "properties": {
-                "biom": [
-                    "civilized",
-                    "city",
-                    "road",
-                    "castle",
-                    "dungeon"
-                ],
-                "cr": "9",
-                "fightingstyle": [
-                    "tactical",
-                    "pressure",
-                    "melee"
-                ],
-                "movement": "walk",
-                "purpose": [
-                    "boss",
-                    "duellist"
-                ],
-                "releaseurl": "https://www.patreon.com/c/beneostokens",
-                "size": "medium",
-                "stat_ac": 18,
-                "stat_cha": 14,
-                "stat_con": 15,
-                "stat_dex": 10,
-                "stat_hp": 180,
-                "stat_int": 11,
-                "stat_str": 18,
-                "stat_wis": 10,
-                "thumbnail": "000-month_22_executioner_knight_cadre-1-db.webp",
-                "type": [
-                    "humanoid",
-                    "human"
-                ],
-                "videourl": "https://youtu.be/szevqepsrzo?si=ps88qomhrxytn4qf",
-                "nb_variants": 1
-            }
-        },
         "000-month_22_executioner_knight_balthusar": {
             "description": "A steel-clad killing machine dominating in close combat.",
             "name": "Executioner Knight Balthusar",
@@ -1484,6 +1443,47 @@
                 ],
                 "videourl": "https://youtu.be/szevqepsrzo?si=ps88qomhrxytn4qf",
                 "nb_variants": 2
+            }
+        },
+        "000-month_22_executioner_knight_cadre": {
+            "description": "The breaker of bodies and the breaker of minds acting in tandem.",
+            "name": "Executioner Knight Cadre",
+            "properties": {
+                "biom": [
+                    "civilized",
+                    "city",
+                    "road",
+                    "castle",
+                    "dungeon"
+                ],
+                "cr": "9",
+                "fightingstyle": [
+                    "tactical",
+                    "pressure",
+                    "melee"
+                ],
+                "movement": "walk",
+                "purpose": [
+                    "boss",
+                    "duellist"
+                ],
+                "releaseurl": "https://www.patreon.com/c/beneostokens",
+                "size": "medium",
+                "stat_ac": 18,
+                "stat_cha": 14,
+                "stat_con": 15,
+                "stat_dex": 10,
+                "stat_hp": 180,
+                "stat_int": 11,
+                "stat_str": 18,
+                "stat_wis": 10,
+                "thumbnail": "000-month_22_executioner_knight_cadre-1-db.webp",
+                "type": [
+                    "humanoid",
+                    "human"
+                ],
+                "videourl": "https://youtu.be/szevqepsrzo?si=ps88qomhrxytn4qf",
+                "nb_variants": 1
             }
         },
         "000-month_22_executioner_knight_vorrst": {
@@ -28153,6 +28153,46 @@
                 ],
                 "videourl": "https://youtu.be/4QxvH5-5bMo?si=emHz9kHso30ac1dY",
                 "nb_variants": 2
+            }
+        },
+        "214-draconic_devotee": {
+            "description": "Fanatical cultists able defy death and empower their patron through acts of faith.",
+            "name": "Draconic Devotee",
+            "properties": {
+                "biom": [
+                    "lair",
+                    "civilized",
+                    "city",
+                    "road"
+                ],
+                "cr": "1",
+                "fightingstyle": "pack",
+                "movement": "walk",
+                "purpose": [
+                    "support",
+                    "minion"
+                ],
+                "releaseurl": "https://www.patreon.com/posts/new-cultist-138520141",
+                "size": "medium",
+                "stat_ac": 14,
+                "stat_cha": 14,
+                "stat_con": 12,
+                "stat_dex": 13,
+                "stat_hp": 22,
+                "stat_int": 9,
+                "stat_str": 14,
+                "stat_wis": 10,
+                "thumbnail": "214-draconic_devotee-1-db.webp",
+                "type": [
+                    "humanoid",
+                    "cultist"
+                ],
+                "videourl": "https://youtu.be/V42zCUhRN5o",
+                "nb_variants": 2,
+                "shortdesc": "",
+                "faction": "",
+                "source": "Patreon",
+                "campaign": ""
             }
         }
     }
