@@ -358,7 +358,7 @@
     "0011_grim_harvest": {
       "key": "0011_grim_harvest",
       "description": "Reap nearby creatures' life force and claim it as your own.",
-      "name": "Grim Harvest",
+      "name": "Reaper's Share",
       "properties": {
         "level": "2",
         "school": "Necromancy",
@@ -688,10 +688,10 @@
 	 "0028_arcane_bombardment": {
       "key": "0028_arcane_bombardment",
       "description": "You call in an arcane bombardment, causing area damage over a randomized number of turns.",
-      "name": "Arcane Bombardment",
+      "name": "Prescient Bombardment",
       "properties": {
         "level": "2",
-        "school": "Evocation",
+        "school": "Divination",
         "casting_time": "Action",
         "concentration": true,
         "ritual": false,
@@ -2048,7 +2048,7 @@
 	},
 	    "0098_blade_of_burning_blood": {
       "key": "0098_blade_of_burning_blood",
-      "description": "When an ally performs a heroic act, you reward it with the ability to perform a Great Deed.",
+      "description": "Ignite the blood coating your blade to deal additional fire damage on your next attack.",
       "name": "Blade of Burning Blood",
       "properties": {
         "level": "0",
