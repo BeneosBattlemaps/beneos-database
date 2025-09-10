@@ -365,7 +365,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "Area Effect",
+        "spell_type": "Restoration",
         "classes": [
           "Wizard",
           "Sorcerer",
@@ -1997,6 +1997,69 @@
         "components": ["v,s,m"],
         "icon": "0094_sinister_seedling-icon.webp"
       }
+	    },
+    "0095_skitterspotters": {
+      "key": "0095_skitterspotters",
+      "description": "Summon a swarm of rats that marks a creature for a deadly shot.",
+      "name": "Skitter-Spotters",
+      "properties": {
+        "level": "0",
+        "school": "Conjuration",
+        "casting_time": "Bonus Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Buff",
+        "classes": ["bard,druid,ranger,sorcerer,warlock,wizard"],
+        "components": ["s"],
+        "icon": "0095_skitterspotters-icon.webp"
+      }
+      },
+    "0096_atrament": {
+      "key": "0096_atrament",
+      "description": "Once per creature, deal damage and absorb its lifeforce.",
+      "name": "Atrament",
+      "properties": {
+        "level": "0",
+        "school": "Necromancy",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Regeneration",
+        "classes": ["bard,cleric,druid,paladin,sorcerer,warlock,wizard"],
+        "components": ["v,s,m"],
+        "icon": "0096_atrament-icon.webp"
+      }
+      },
+    "0097_honour_the_deed": {
+      "key": "0097_honour_the_deed",
+      "description": "When an ally performs a heroic act, you reward it with the ability to perform a Great Deed.",
+      "name": "Honour the Deed",
+      "properties": {
+        "level": "2",
+        "school": "Evocation",
+        "casting_time": "Bonus Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Buff",
+        "classes": ["bard,cleric,paladin"],
+        "components": ["v,s"],
+        "icon": "0097_honour_the_deed-icon.webp"
+      }
+	},
+	    "0098_blade_of_burning_blood": {
+      "key": "0098_blade_of_burning_blood",
+      "description": "When an ally performs a heroic act, you reward it with the ability to perform a Great Deed.",
+      "name": "Blade of Burning Blood",
+      "properties": {
+        "level": "0",
+        "school": "Evocation",
+        "casting_time": "Bonus Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Buff",
+        "classes": ["bard,cleric,druid,paladin,ranger,sorcerer,warlock,wizard"],
+        "components": ["v,s"],
+        "icon": "0098_blade_of_burning_blood-icon.webp"
     }
   }
-}
+}}
