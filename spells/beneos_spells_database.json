@@ -2009,7 +2009,7 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "Buff",
-        "classes": ["bard,druid,ranger,sorcerer,warlock,wizard"],
+        "classes": ["bard, druid, ranger, sorcerer, warlock, wizard"],
         "components": ["s"],
         "icon": "0095_skitterspotters-icon.webp"
       }
@@ -2025,7 +2025,7 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "Regeneration",
-        "classes": ["bard,cleric,druid,paladin,sorcerer,warlock,wizard"],
+        "classes": ["bard, cleric, druid, paladin, sorcerer, warlock, wizard"],
         "components": ["v,s,m"],
         "icon": "0096_atrament-icon.webp"
       }
@@ -2041,7 +2041,7 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "Buff",
-        "classes": ["bard,cleric,paladin"],
+        "classes": ["bard, cleric, paladin"],
         "components": ["v,s"],
         "icon": "0097_honour_the_deed-icon.webp"
       }
@@ -2057,7 +2057,7 @@
         "concentration": false,
         "ritual": false,
         "spell_type": "Buff",
-        "classes": ["bard,cleric,druid,paladin,ranger,sorcerer,warlock,wizard"],
+        "classes": ["bard, cleric, druid, paladin, ranger, sorcerer, warlock, wizard"],
         "components": ["v,s"],
         "icon": "0098_blade_of_burning_blood-icon.webp"
     }
