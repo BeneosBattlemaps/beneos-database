@@ -1,1491 +1,1505 @@
 {
-    "id": "beneos_items_database",
-    "type": "item",
-    "version": "1.0.0",
-    "content": {
-        "0001_nightfall": {
-            "key": "0001_nightfall",
-            "description": "A dreadful blade that extinguishes all light and wreathes its wielder in darkness.",
-            "name": "Nightfall",
-            "properties": {
-                "rarity": "Legendary",
-                "attunement": true,
-                "origin": "vampiric",
-                "item_type": "Melee Weapon",
-                "tier": 3,
-                "price": "52800",
-                "icon": "0001_nightfall-icon.webp"
-            }
-        },
-        "0003_shamblevault_coffin": {
-            "key": "0003_shamblevault_coffin",
-            "description": "A coffin used to summon undead creatures and press them into service.",
-            "name": "Shamblevault Coffin",
-            "properties": {
-                "rarity": "Rare",
-                "attunement": true,
-                "origin": "occult",
-                "item_type": "Trinket",
-                "tier": 2,
-                "price": "3400",
-                "icon": "0003_shamblevault_coffin-icon.webp"
-            }
-        },
-        "0004_harrowshrike_deathmask": {
-            "key": "0004_harrowshrike_deathmask",
-            "description": "A vampiric mask that strikes fear into the heart of your enemies.",
-            "name": "Harrowshrike Deathmask",
-            "properties": {
-                "rarity": "Very Rare",
-                "attunement": true,
-                "origin": "vampiric",
-                "item_type": "Clothing",
-                "tier": 2,
-                "price": "4300",
-                "icon": "0004_harrowshrike_deathmask-icon.webp"
-            }
-        },
-        "0005_stormbreaker": {
-            "key": "0005_stormbreaker",
-            "description": "An indomitable tower shield imbued with tempest's fury",
-            "name": "Stormbreaker",
-            "properties": {
-                "rarity": "Legendary",
-                "attunement": true,
-                "origin": "giantforged",
-                "item_type": "Shield",
-                "tier": 3,
-                "price": "49600",
-                "icon": "0005_stormbreaker-icon.webp"
-            }
-        },
-        "0006_sea_tyrants_scales": {
-            "key": "0006_sea_tyrants_scales",
-            "description": "Scale armor, reducing damage taken and imbuing you with the hybris of a Leviathan.",
-            "name": "Sea Tyrants Scales",
-            "properties": {
-                "rarity": "Very Rare",
-                "attunement": true,
-                "origin": "dwarvenforged",
-                "item_type": "Medium Armor",
-                "tier": 2,
-                "price": "5800",
-                "icon": "0006_sea_tyrants_scales-icon.webp"
-            }
-        },
-        "0007_cloak_of_photosynthesis": {
-            "key": "0007_cloak_of_photosynthesis",
-            "description": "A cloak that slowly heals you when in direct sunlight",
-            "name": "Cloak Of Photosynthesis",
-            "properties": {
-                "rarity": "Uncommon",
-                "attunement": true,
-                "origin": "druidic",
-                "item_type": "Clothing",
-                "tier": 1,
-                "price": "800",
-                "icon": "0007_cloak_of_photosynthesis-icon.webp"
-            }
-        },
-        "0008_scythe_of_the_long_march": {
-            "key": "0008_scythe_of_the_long_march",
-            "description": "A grisly weapon allowing you to endure grave wounds and march on seemingly forever.",
-            "name": "Scythe Of The Long March",
-            "properties": {
-                "rarity": "Rare",
-                "attunement": true,
-                "origin": "occult",
-                "item_type": "Melee Weapon",
-                "tier": 1,
-                "price": "2900",
-                "icon": "0008_scythe_of_the_long_march-icon.webp"
-            }
-        },
-        "0009_blood_toll_bracers": {
-            "key": "0009_blood_toll_bracers",
-            "description": "Blood-stained relics that enable you to retaliate when getting hit.",
-            "name": "Blood Toll Bracers",
-            "properties": {
-                "rarity": "Uncommon",
-                "attunement": true,
-                "origin": "ancient",
-                "item_type": "Clothing",
-                "tier": 1,
-                "price": "900",
-                "icon": "0009_blood_toll_bracers-icon.webp"
-            }
-        },
-        "0010_eye_of_obliteration": {
-            "key": "0010_eye_of_obliteration",
-            "description": "An eye replacement enabling you to turn enemies into dust by looking at them.",
-            "name": "Eye Of Obliteration",
-            "properties": {
-                "rarity": "Very Rare",
-                "attunement": true,
-                "origin": "arcane",
-                "item_type": "Trinket",
-                "tier": 4,
-                "price": "108000",
-                "icon": "0010_eye_of_obliteration-icon.webp"
-            }
-        },
-        "0011_graveblade1": {
-            "key": "0011_graveblade1",
-            "description": "A sword dealing more damage to already wounded creatures.",
-            "name": "Graveblade +1",
-            "properties": {
-                "rarity": "Rare",
-                "attunement": true,
-                "origin": "occult",
-                "item_type": "Melee Weapon",
-                "tier": 1,
-                "price": "1700",
-                "icon": "0011_graveblade1-icon.webp"
-            }
-        },
-        "0011_graveblade2": {
-            "key": "0011_graveblade2",
-            "description": "A sword dealing more damage to already wounded creatures.",
-            "name": "Graveblade +2",
-            "properties": {
-                "rarity": "Rare",
-                "attunement": true,
-                "origin": "occult",
-                "item_type": "Melee Weapon",
-                "tier": 2,
-                "price": "2900",
-                "icon": "0011_graveblade2-icon.webp"
-            }
-        },
-        "0011_graveblade3": {
-            "key": "0011_graveblade3",
-            "description": "A sword dealing more damage to already wounded creatures.",
-            "name": "Graveblade +3",
-            "properties": {
-                "rarity": "Rare",
-                "attunement": true,
-                "origin": "occult",
-                "item_type": "Melee Weapon",
-                "tier": 3,
-                "price": "4400",
-                "icon": "0011_graveblade3-icon.webp"
-            }
-        },
-        "0012_defuser_harness": {
-            "key": "0012_defuser_harness",
-            "description": "Paddened and enchanted armor offering protection from explosions.",
-            "name": "Defuser Harness",
-            "properties": {
-                "rarity": "Rare",
-                "attunement": true,
-                "origin": "arcane",
-                "item_type": "Medium Armor",
-                "tier": 2,
-                "price": "5400",
-                "icon": "0012_defuser_harness-icon.webp"
-            }
-        },
-        "0013_shoreclaimer": {
-            "key": "0013_shoreclaimer",
-            "description": "A battleaxe empowering you during the first round of combat.",
-            "name": "Shoreclaimer",
-            "properties": {
-                "rarity": "Uncommon",
-                "attunement": true,
-                "origin": "awoken",
-                "item_type": "Melee Weapon",
-                "tier": 1,
-                "price": "1800",
-                "icon": "0013_shoreclaimer-icon.webp"
-            }
-        },
-        "0014_dreamers_prison": {
-            "key": "0014_dreamers_prison",
-            "description": "A morbid artifact allowing you to imprison a creature within the head's dream.",
-            "name": "Dreamers Prison",
-            "properties": {
-                "rarity": "Uncommon",
-                "attunement": true,
-                "origin": "occult",
-                "item_type": "Trinket",
-                "tier": 2,
-                "price": "2600",
-                "icon": "0014_dreamers_prison-icon.webp"
-            }
-        },
-        "0015_sunflower_scepter": {
-            "key": "0015_sunflower_scepter",
-            "description": "A spell focus strengthening radiant damage and granting two powerful solar spells.",
-            "name": "Sunflower Scepter",
-            "properties": {
-                "rarity": "Very Rare",
-                "attunement": true,
-                "origin": "druidic",
-                "item_type": "Natural",
-                "tier": 2,
-                "price": "4400",
-                "icon": "0015_sunflower_scepter-icon.webp"
-            }
-        },
-        "0016_harrowshrike_harness": {
-            "key": "0016_harrowshrike_harness",
-            "description": "Winged armor that allows you to silently glide through the air.",
-            "name": "Harrowshrike Harness",
-            "properties": {
-                "rarity": "Rare",
-                "attunement": false,
-                "origin": "vampiric",
-                "item_type": "Medium Armor",
-                "tier": 1,
-                "price": "1600",
-                "icon": "0016_harrowshrike_harness-icon.webp"
-            }
-        },
-        "0017_griefplate": {
-            "key": "0017_griefplate",
-            "description": "A haunted plate armor enshrouded by wailing ghosts, damaging all living creatures around you.",
-            "name": "Griefplate",
-            "properties": {
-                "rarity": "Very Rare",
-                "attunement": true,
-                "origin": "vampiric",
-                "item_type": "Heavy Armor",
-                "tier": 2,
-                "price": "6200",
-                "icon": "0017_griefplate-icon.webp"
-            }
-        },
-        "0018_gatebreaker_gauntlets": {
-            "key": "0018_gatebreaker_gauntlets",
-            "description": "Heavy gauntlets allowing you to crush foes with your fists and break through doors, walls and castle gates.",
-            "name": "Gatebreaker Gauntlets",
-            "properties": {
-                "rarity": "Legendary",
-                "attunement": true,
-                "origin": "blessed",
-                "item_type": "Heavy Armor",
-                "tier": 3,
-                "price": "28800",
-                "icon": "0018_gatebreaker_gauntlets-icon.webp"
-            }
-        },
-        "0019_osseous_mask": {
-            "key": "0019_osseous_mask",
-            "description": "A bone mask, granting you telepathy and the ability to target two allies with a single spell.",
-            "name": "Osseous Mask",
-            "properties": {
-                "rarity": "Rare",
-                "attunement": true,
-                "origin": "arcane",
-                "item_type": "Clothing",
-                "tier": 1,
-                "price": "2500",
-                "icon": "0019_osseous_mask-icon.webp"
-            }
-        },
-        "0020_stormstrider_boots": {
-            "key": "0020_stormstrider_boots",
-            "description": "Boots allowing you to stride through air and granting resistance to lightning damage.",
-            "name": "Stormstrider Boots",
-            "properties": {
-                "rarity": "Very Rare",
-                "attunement": true,
-                "origin": "giantforged",
-                "item_type": "Clothing",
-                "tier": 2,
-                "price": "6600",
-                "icon": "0020_stormstrider_boots-icon.webp"
-            }
-        },
-        "0022_ossian_crown": {
-            "key": "0022_ossian_crown",
-            "description": "A crown granting the ability to cast animate dead on a beast.",
-            "name": "Ossian Crown",
-            "properties": {
-                "rarity": "Very Rare",
-                "attunement": true,
-                "origin": "relic",
-                "item_type": "Clothing",
-                "tier": 1,
-                "price": "2700",
-                "icon": "0022_ossian_crown-icon.webp"
-            }
-        },
-        "0024_ancestral_fragment": {
-            "key": "0024_ancestral_fragment",
-            "description": "A piece of magical rock that lets you commune with your ancestors.",
-            "name": "Ancestral Fragment",
-            "properties": {
-                "rarity": "Rare",
-                "attunement": true,
-                "origin": "primordial",
-                "item_type": "Trinket",
-                "tier": 2,
-                "price": "2100",
-                "icon": "0024_ancestral_fragment-icon.webp"
-            }
-        },
-        "0025_lightbringer_torch": {
-            "key": "0025_lightbringer_torch",
-            "description": "A magical torch that emits magical sunlight, banishes darkness and heals allies.",
-            "name": "Lightbringer Torch",
-            "properties": {
-                "rarity": "Rare",
-                "attunement": true,
-                "origin": "relic",
-                "item_type": "Trinket",
-                "tier": 2,
-                "price": "4600",
-                "icon": "0025_lightbringer_torch-icon.webp"
-            }
-        },
-        "0026_molten_core": {
-            "key": "0026_molten_core",
-            "description": "A Magma Dragon's heart, utilized to invoke different fiery boons.",
-            "name": "Molten Core",
-            "properties": {
-                "rarity": "Very Rare",
-                "attunement": true,
-                "origin": "primordial",
-                "item_type": "Trinket",
-                "tier": 2,
-                "price": "4800",
-                "icon": "0026_molten_core-icon.webp"
-            }
-        },
-        "0028_fleshgrafter_workgloves": {
-            "key": "0028_fleshgrafter_workgloves",
-            "description": "Summon a giant mummified arm and crush your foes with it.",
-            "name": "Fleshgrafter Workgloves",
-            "properties": {
-                "rarity": "Rare",
-                "attunement": true,
-                "origin": "occult",
-                "item_type": "Trinket",
-                "tier": 2,
-                "price": "2600",
-                "icon": "0028_fleshgrafter_workgloves-icon.webp"
-            }
-        },
-        "0002_devils_decksweeper": {
-            "key": "0002_devils_decksweeper",
-            "description": "An overgrown pistol cursed by a devil of the sea",
-            "name": "Devils Decksweeper",
-            "properties": {
-                "rarity": "Rare",
-                "attunement": true,
-                "origin": "occult",
-                "item_type": "Range Weapon",
-                "tier": 2,
-                "price": "2400",
-                "icon": "0002_devils_decksweeper-icon.webp"
-            }
-        },
-        "0031_gravewardens_bell": {
-            "key": "0031_gravewardens_bell",
-            "description": "This bell grants communion with the Deathshroud, allowing you to partake in its holy silence and grant its burial shroud.",
-            "name": "Gravewardens Bell",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "occult",
-            "item_type": "Trinket",
-            "tier": 1,
-            "price": "750",
-            "icon": "0031_gravewardens_bell-icon.webp"
-            }
-        },
-        "0032_crescent_moon": {
-            "key": "0032_crescent_moon",
-            "description": "Upon falling unconscious, the sword's ghost possesses you, fighting on your behalf.",
-            "name": "Crescent Moon",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "awoken",
-            "item_type": "Melee Weapon",
-            "tier": 2,
-            "price": "4400",
-            "icon": "0032_crescent_moon-icon.webp"
-            }
-        },
-        "0034_cloak_of_billowing_ash": {
-            "key": "0034_cloak_of_billowing_ash",
-            "description": "Swiftly move as a coiling cloud of ash-smoke, wind-fast and untouchable.",
-            "name": "Cloak Of Billowing Ash",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "elemental",
-            "item_type": "Clothing",
-            "tier": 3,
-            "price": "48000",
-            "icon": "0034_cloak_of_billowing_ash-icon.webp"
-            }
-        },
-        "0033_wiredevil": {
-            "key": "0033_wiredevil",
-            "description": "A wind-up grenade unleashing a torrent of razor-wire when activated.",
-            "name": "Wiredevil",
-            "properties": {
-            "rarity": "rare",
-            "attunement": true,
-            "origin": "technoarcane",
-            "item_type": "consumable",
-            "tier": 1,
-            "price": "800",
-            "icon": "0033_wiredevil-icon.webp"
-            }
-        },
-        "0035_dreamraker": {
-            "key": "0035_dreamraker",
-            "description": "Allows you to haunt sleeping creatures, damaging them but not rousing them from their slumber.",
-            "name": "Dreamraker",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "occult",
-            "item_type": "Melee Weapon",
-            "tier": 2,
-            "price": "6600",
-            "icon": "0035_dreamraker-icon.webp"
-            }
-        },
-        "0036_vermin_crown": {
-            "key": "0036_vermin_crown",
-            "description": "Allows you to summon swarms of vermin, heeding your every command.",
-            "name": "Vermin Crown",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "relic",
-            "item_type": "Trinket",
-            "tier": 1,
-            "price": "2200",
-            "icon": "0036_vermin_crown-icon.webp"
-            }
-        },
-        "0037_grovekeepers_promise": {
-            "key": "0037_grovekeepers_promise",
-            "description": "Activating this magical shield, you become rooted to the earth, nigh impossible to shift, as thorny vines lash at your enemies.",
-            "name": "Grovekeepers Promise",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "druidic",
-            "item_type": "Shield",
-            "tier": 2,
-            "price": "5600",
-            "icon": "0037_grovekeepers_promise-icon.webp"
-            }
-        },
-        "0038_seed_of_renewal": {
-            "key": "0038_seed_of_renewal",
-            "description": "The seedling of a magical tree that grows healing fruit and blesses those that sleep near it.",
-            "name": "Seed Of Renewal",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "druidic",
-            "item_type": "Consumable",
-            "tier": 1,
-            "price": "3200",
-            "icon": "0038_seed_of_renewal-icon.webp"
-            }
-        },
-        "0039_blade_sage_scroll": {
-            "key": "0039_blade_sage_scroll",
-            "description": "Allows you to store and retrieve weapons within, as well as permantently strengthens your bladework upon careful study.",
-            "name": "Blade Sage Scroll",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": false,
-            "origin": "sanctified",
-            "item_type": "Trinket",
-            "tier": 1,
-            "price": "3800",
-            "icon": "0039_blade_sage_scroll-icon.webp"
-            }
-        },
-        "0040_jungle_monarch": {
-            "key": "0040_jungle_monarch",
-            "description": "Increases the chance to score critical hits and always deals maximal weapon damage against Huge and larger creatures.",
-            "name": "Jungle Monarch",
-            "properties": {
-            "rarity": "Uncommon",
-            "attunement": true,
-            "origin": "beastforged",
-            "item_type": "Melee Weapon",
-            "tier": 2,
-            "price": "3600",
-            "icon": "0040_jungle_monarch-icon.webp"
-            }
-        },
-        "0041_lantern_of_waning_hope": {
-            "key": "0041_lantern_of_waning_hope",
-            "description": "A flickering lantern providing aid when you are at death's door.",
-            "name": "Lantern Of Waning Hope",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "blessed",
-            "item_type": "Trinket",
-            "tier": 1,
-            "price": "2700",
-            "icon": "0041_lantern_of_waning_hope-icon.webp"
-            }
-        },
-        "0042_rothail_shortbow": {
-            "key": "0042_rothail_shortbow",
-            "description": "Mud-dripping short bow infecting targets with Bog Rot, dealing necrotic damage over time.",
-            "name": "Rothail Shortbow",
-            "properties": {
-            "rarity": "Uncommon",
-            "attunement": true,
-            "origin": "awoken",
-            "item_type": "Range Weapon",
-            "tier": 1,
-            "price": "1400",
-            "icon": "0042_rothail_shortbow-icon.webp"
-            }
-        },
-        "0043_conquerors_chalice": {
-            "key": "0043_conquerors_chalice",
-            "description": "Imbibe a worty enemy's life blood to increase your maximum hit points and terrorize its kindred.",
-            "name": "Conquerors Chalice",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "relic",
-            "item_type": "Trinket",
-            "tier": 1,
-            "price": "2100",
-            "icon": "0043_conquerors_chalice-icon.webp"
-            }
-        },
-        "0044_ghoulskin_gloves": {
-            "key": "0044_ghoulskin_gloves",
-            "description": "Made to hunt enormous prey, this knife increases the chance to score critical hits and always deals maximal weapon damage against Huge and larger creatures.",
-            "name": "Ghoulskin Gloves",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "occult",
-            "item_type": "Clothing",
-            "tier": 1,
-            "price": "1700",
-            "icon": "0044_ghoulskin_gloves-icon.webp"
-            }
-        },
-        "0045_bridgehead": {
-            "key": "0045_bridgehead",
-            "description": "This armor lets you either withstand a single instance of tremendous damage or pay a blood toll and pay it back.",
-            "name": "Bridgehead",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "blessed",
-            "item_type": "Heavy Armor",
-            "tier": 2,
-            "price": "5200",
-            "icon": "0045_bridgehead-icon.webp"
-            }
-        },
-        "0046_mourners_frock": {
-            "key": "0046_mourners_frock",
-            "description": "You gain access to two of the Mourner's signature spells, allowing you to stalk the mists in style.",
-            "name": "Mourners Frock",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "awoken",
-            "item_type": "Light Armor",
-            "tier": 2,
-            "price": "4700",
-            "icon": "0046_mourners_frock-icon.webp"
-            }
-        },
-        "0049_foremans_flask": {
-            "key": "0049_foremans_flask",
-            "description": "Drink from the flask to benefit from a short rest. Do so secretly to also gain 2d10 temporary hit points.",
-            "name": "Foremans Flask",
-            "properties": {
-            "rarity": "Uncommon",
-            "attunement": true,
-            "origin": "dwarvenforged",
-            "item_type": "Trinket",
-            "tier": 1,
-            "price": "1700",
-            "icon": "0049_foremans_flask-icon.webp"
-            }
-        },
-        "0049_wrathfire_talisman": {
-            "key": "0049_wrathfire_talisman",
-            "description": "Wreath yourself in scorching Wrathfire, granting you increased damage and resistance at the low cost of turning into a blood-crazed maniac.",
-            "name": "Wrathfire Talisman",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "infernal",
-            "item_type": "Trinket",
-            "tier": 2,
-            "price": "3800",
-            "icon": "0049_wrathfire_talisman-icon.webp"
-            }
-        },
-        "0047_beast_hunters_cowl": {
-            "key": "0047_beast_hunters_cowl",
-            "description": "Allows you to cast a spell that highlights vulnerable prey and increases your chance of a critical hit against it.",
-            "name": "Beast-Hunter's Cowl",
-            "properties": {
-            "rarity": "Uncommon",
-            "attunement": true,
-            "origin": "beastforged",
-            "item_type": "Clothing",
-            "tier": 2,
-            "price": "2200",
-            "icon": "0047_beast_hunters_cowl-icon.webp"
-            }
-        },
-        "0048_fadesilk_shroud": {
-            "key": "0048_fadesilk_shroud",
-            "description": "Upon being discovered by a creature, possibly erase yourself from a creature's perception and memory.",
-            "name": "Fadesilk Shroud",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "arcane",
-            "item_type": "Clothing",
-            "tier": 2,
-            "price": "3200",
-            "icon": "0048_fadesilk_shroud-icon.webp"
-            }
-        },
-        "0050_brawlers_eagerness": {
-            "key": "0050_brawlers_eagerness",
-            "description": "Gain a bonus to your initiative roll and possibly to your movement speed and number of attacks.",
-            "name": "Brawlers Eagerness",
-            "properties": {
-            "rarity": "Uncommon",
-            "attunement": true,
-            "origin": "awoken",
-            "item_type": "Trinket",
-            "tier": 1,
-            "price": "700",
-            "icon": "0050_brawlers_eagerness-icon.webp"
-            }
-        },
-        "0051_blessed_bindings": {
-            "key": "0051_blessed_bindings",
-            "description": "Gain a damage resistance of your choice, as well as some light protection against undead or fiends.",
-            "name": "Blessed Bindings",
-            "properties": {
-            "rarity": "Uncommon",
-            "attunement": true,
-            "origin": "blessed",
-            "item_type": "Clothing",
-            "tier": 1,
-            "price": "350",
-            "icon": "0051_blessed_bindings-icon.webp"
-            }
-        },
-        "0053_robes_of_reflection": {
-            "key": "0053_robes_of_reflection",
-            "description": "A robe best suited for the Monk class, allowing them to regain Ki points by reflecting on their failure.",
-            "name": "Robes Of Reflection",
-            "properties": {
-            "rarity": "Uncommon",
-            "attunement": true,
-            "origin": "relic",
-            "item_type": "Clothing",
-            "tier": 1,
-            "price": "900",
-            "icon": "0053_robes_of_reflection-icon.webp"
-            }
-        },
-        "0052_dark_shepherd_cursed": {
-            "key": "0052_dark_shepherd_cursed",
-            "description": "Regular Dark Shepherd but with the curse text added.",
-            "name": "Dark Shepherd Cursed",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "occult",
-            "item_type": "Trinket",
-            "tier": 2,
-            "price": "4200",
-            "icon": "0052_dark_shepherd_cursed-icon.webp"
-            }
-        },
-        "0052_dark_shepherd": {
-            "key": "0052_dark_shepherd",
-            "description": "Buffs your undead minions and grants you necromantic spell slots.",
-            "name": "Dark Shepherd",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "occult",
-            "item_type": "Trinket",
-            "tier": 2,
-            "price": "4200",
-            "icon": "0052_dark_shepherd-icon.webp"
-            }
-        },
-        "0054_slumbering_huskblade": {
-            "key": "0054_slumbering_huskblade",
-            "description": "A crude lump of metal transforming into a blade upon killing a creature with it.",
-            "name": "Huskblade (Slumbering)",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "beastforged",
-            "item_type": "Melee Weapon",
-            "tier": 2,
-            "price": "3600",
-            "icon": "0054_slumbering_huskblade-icon.webp"
-            }
-        },
-        "0055_awoken_huskblade": {
-            "key": "0055_awoken_huskblade",
-            "description": "The stronger the creature slain with the Slumbering Husk Blade, the mightier its awoken form.",
-            "name": "Huskblade (Awoken)",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "beastforged",
-            "item_type": "Melee Weapon",
-            "tier": 2,
-            "price": "5800",
-            "icon": "0055_awoken_huskblade-icon.webp"
-            }
-        },
-        "0056_hiveheart": {
-            "key": "0056_hiveheart",
-            "description": "In turn for infesting your body, the skittering swarm helps out where it can.",
-            "name": "Hiveheart",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "mutation",
-            "item_type": "Trinket",
-            "tier": 2,
-            "price": "5000",
-            "icon": "0056_hiveheart-icon.webp"
-            }
-        },
-        "0057_sullen_knights_helmet": {
-            "key": "0057_sullen_knights_helmet",
-            "description": "A slightly cursed helmet, whose benefits might outweigh the drawbacks.",
-            "name": "Sullen Knight's Helmet",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "awoken",
-            "item_type": "Clothing",
-            "tier": 1,
-            "price": "2700",
-            "icon": "0057_sullen_knights_helmet-icon.webp"
-            }
-        },
-        "0058_bascinet_of_ancient_tactica": {
-            "key": "0058_bascinet_of_ancient_tactica",
-            "description": "At the start of each combat, you learn two maneuvers and the have option to adapt your fighting style.",
-            "name": "Bascinet Of Ancient Tactica",
-            "properties": {
-            "rarity": "Legendary",
-            "attunement": true,
-            "origin": "awoken",
-            "item_type": "Clothing",
-            "tier": 2,
-            "price": "12500",
-            "icon": "0058_bascinet_of_ancient_tactica-icon.webp"
-            }
-        },
-        "0059_bottlesnatcher_imp": {
-            "key": "0059_bottlesnatcher_imp",
-            "description": "A drunk Imp residing in a bottle, able to procure other bottles in the vicinity.",
-            "name": "Bottlesnatcher Imp",
-            "properties": {
-            "rarity": "Uncommon",
-            "attunement": false,
-            "origin": "infernal",
-            "item_type": "Trinket",
-            "tier": 1,
-            "price": "2600",
-            "icon": "0059_bottlesnatcher_imp-icon.webp"
-            }
-        },
-        "0060_heart_of_iron": {
-            "key": "0060_heart_of_iron",
-            "description": "A mechanical heart that lets you awaken a suit of heavy armor, turning it into a mighty servant.",
-            "name": "Heart Of Iron",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": false,
-            "origin": "technoarcane",
-            "item_type": "Trinket",
-            "tier": 2,
-            "price": "13600",
-            "icon": "0060_heart_of_iron-icon.webp"
-            }
-        },
-        "0061_spelldrinker_scroll": {
-            "key": "0061_spelldrinker_scroll",
-            "description": "A scroll used to trap a spell within upon it being cast, storing it for later use.",
-            "name": "Spelldrinker Scroll",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": false,
-            "origin": "arcane",
-            "item_type": "Consumable",
-            "tier": 2,
-            "price": "3900",
-            "icon": "0061_spelldrinker_scroll-icon.webp"
-            }
-        },
-        "0062_three_feather_tricorne": {
-            "key": "0062_three_feather_tricorne",
-            "description": "A hat that lets you fly, calm everyone down or summon a drunk parrot.",
-            "name": "Three-Feathered Tricorne",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "blessed",
-            "item_type": "Clothing",
-            "tier": 2,
-            "price": "1600",
-            "icon": "0062_three_feather_tricorne-icon.webp"
-            }
-        },
-        "0063_nightbloom_chalice": {
-            "key": "0063_nightbloom_chalice",
-            "description": "A chalic offering a healing nectar every night, can also be used to befriend local wildlife.",
-            "name": "Nightbloom Chalice",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": false,
-            "origin": "druidic",
-            "item_type": "Trinket",
-            "tier": 1,
-            "price": "2900",
-            "icon": "0063_nightbloom_chalice-icon.webp"
-            }
-        },
-        "0064_boreal_bulwark": {
-            "key": "0064_boreal_bulwark",
-            "description": "A shield allowing you to channel your willpower to negate damage. It also inflicts harm upon fey creatures.",
-            "name": "Boreal Bulwark",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "giantforged",
-            "item_type": "Shield",
-            "tier": 2,
-            "price": "5200",
-            "icon": "0064_boreal_bulwark-icon.webp"
-            }
-        },
-        "0065_duskdreamers_diadem": {
-            "key": "0065_duskdreamers_diadem",
-            "description": "An etheral diadem allowing you to regain a spell slot at dusk and enabling you to magically put a creature to sleep, healing or harming it.",
-            "name": "Duskdreamer's Diadem",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "feywoven",
-            "item_type": "Trinket",
-            "tier": 2,
-            "price": "3200",
-            "icon": "0065_duskdreamers_diadem-icon.webp"
-            }
-        },
-        "0066_death_ink": {
-            "key": "0066_death_ink",
-            "description": "Mark a creature of your choice as the target of your hunt and gain powerful boni that assist you in this pursuit.",
-            "name": "Death Ink",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": false,
-            "origin": "sanctified",
-            "item_type": "Consumable",
-            "tier": 3,
-            "price": "18000",
-            "icon": "0066_death_ink-icon.webp"
-            }
-        },
-        "0067_whispermaw_strain": {
-            "key": "0067_whispermaw_strain",
-            "description": "Parasitic organism whose whispers can regenerate spell slots and charm enemies.",
-            "name": "Whispermaw Strain",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": false,
-            "origin": "mutation",
-            "item_type": "Consumable",
-            "tier": 3,
-            "price": "14200",
-            "icon": "0067_whispermaw_strain-icon.webp"
-            }
-        },
-        "0068_magmatic_molasses": {
-            "key": "0068_magmatic_molasses",
-            "description": "Creates a protective layer of cooled lava that hinders mobility but significantly increases defense.",
-            "name": "Magmatic Molasses",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": false,
-            "origin": "elemental",
-            "item_type": "Consumable",
-            "tier": 2,
-            "price": "2800",
-            "icon": "0068_magmatic_molasses-icon.webp"
-            }
-        },
-        "0069_drought_draught": {
-            "key": "0069_drought_draught",
-            "description": "Creates an area of magical dryness that evaporates water and harms liquid or elemental creatures.",
-            "name": "Drought Draught",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": false,
-            "origin": "elemental",
-            "item_type": "Consumable",
-            "tier": 2,
-            "price": "6000",
-            "icon": "0069_drought_draught-icon.webp"
-            }
-        },
-        "0070_crown_of_defiance": {
-            "key": "0070_crown_of_defiance",
-            "description": "lets you ignore the result of an attack against you, a failed save or falling to 0 hit points once per day.",
-            "name": "Crown Of Defiance",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "relic",
-            "item_type": "Clothing",
-            "tier": 3,
-            "price": "1000000",
-            "icon": "0070_crown_of_defiance-icon.webp"
-            }
-        },
-        "0071_hags_due": {
-            "key": "0071_hags_due",
-            "description": "Lets you cast detect thoughts on an unconscious creature, as well as gain one of its proficiencies.",
-            "name": "Hag's Due",
-            "properties": {
-            "rarity": "Uncommon",
-            "attunement": true,
-            "origin": "feywoven",
-            "item_type": "Melee Weapon",
-            "tier": 1,
-            "price": "1900",
-            "icon": "0071_hags_due-icon.webp"
-            }
-        },
-        "0072_slimesword": {
-            "key": "0072_slimesword",
-            "description": "An oozy sword that deals extra acid damage and can grapple enemies to dissolve them.",
-            "name": "Slimesword",
-            "properties": {
-            "rarity": "Uncommon",
-            "attunement": true,
-            "origin": "arcane",
-            "item_type": "Melee Weapon",
-            "tier": 1,
-            "price": "2100",
-            "icon": "0072_slimesword-icon.webp"
-            }
-        },
-        "0073_visage_of_dismay": {
-            "key": "0073_visage_of_dismay",
-            "description": "Draw strength from your allies' failures or chastise them to do better.",
-            "name": "Visage Of Dismay",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "ancient",
-            "item_type": "Medium Armor",
-            "tier": 2,
-            "price": "5700",
-            "icon": "0073_visage_of_dismay-icon.webp"
-            }
-        },
-        "0074_dawnmartyr_pelerine": {
-            "key": "0074_dawnmartyr_pelerine",
-            "description": "When an ally is hurt, you can take part of the damage, starting to burn to buff allies and damage enemies.",
-            "name": "Dawnmartyr Pelerine",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "blessed",
-            "item_type": "Clothing",
-            "tier": 3,
-            "price": "25700",
-            "icon": "0074_dawnmartyr_pelerine-icon.webp"
-            }
-        },
-        "0075_grace_of_the_shade_court": {
-            "key": "0075_grace_of_the_shade_court",
-            "description": "Wearing the cowl enhances your charisma and allows you to diminish harm or fortify your resolve with regal grace.",
-            "name": "Grace Of The Shade Court",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "feywoven",
-            "item_type": "Clothing",
-            "tier": 3,
-            "price": "44800",
-            "icon": "0075_grace_of_the_shade_court-icon.webp"
-            }
-        },
-        "0076_mask_of_the_third_eye": {
-            "key": "0076_mask_of_the_third_eye",
-            "description": "As you gain Insight, this mask enhances your perception and intellect while granting powerful divinatory and defensive abilities.",
-            "name": "Mask Of The Third Eye",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "arcane",
-            "item_type": "Clothing",
-            "tier": 2,
-            "price": "189000",
-            "icon": "0076_mask_of_the_third_eye-icon.webp"
-            }
-        },
-        "0077_windup_key": {
-            "key": "0077_windup_key",
-            "description": "Use the Windup-Key to animate an object, with the option to either hasten it or blowing it up.",
-            "name": "Windup Key",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "technoarcane",
-            "item_type": "Consumable",
-            "tier": 2,
-            "price": "5200",
-            "icon": "0077_windup_key-icon.webp"
-            }
-        },
-        "0078_enslaver_stake": {
-            "key": "0078_enslaver_stake",
-            "description": "An unholy stake, used to temporarily animate a dead humanoid or beast under the user's control.",
-            "name": "Enslaver Stake",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": false,
-            "origin": "occult",
-            "item_type": "Consumable",
-            "tier": 1,
-            "price": "2600",
-            "icon": "0078_enslaver_stake-icon.webp"
-            }
-        },
-        "0079_martyrs_ash": {
-            "key": "0079_martyrs_ash",
-            "description": "Apply to your skin to gain various resistances and the ability to sacrifice your hit points to prevent failed death saves.",
-            "name": "Martyr's Ash",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": false,
-            "origin": "blessed",
-            "item_type": "Consumable",
-            "tier": 1,
-            "price": "2600",
-            "icon": "0079_martyrs_ash-icon.webp"
-            }
-        },
-        "0080_mind_tyrant": {
-            "key": "0080_mind_tyrant",
-            "description": "Buffs your spellcasting and enables you to psychically flay your enemies, causing them to suffer increased damage.",
-            "name": "Mind Tyrant",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "occult",
-            "item_type": "Spellfocus",
-            "tier": 2,
-            "price": "13700",
-            "icon": "0080_mind_tyrant-icon.webp"
-            }
-        },
-        "0082_convergence_crest": {
-            "key": "0082_convergence_crest",
-            "description": "Cast spells of the same school in a specific sequence to achieve a powerful convergence",
-            "name": "Convergence Crest",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "arcane",
-            "item_type": "Melee Weapon",
-            "tier": 3,
-            "price": "37200",
-            "icon": "0082_convergence_crest-icon.webp"
-            }
-        },
-        "0083_ghostflicker_habit": {
-            "key": "0083_ghostflicker_habit",
-            "description": "Light Ghostflicker Candles to view the unseen and boost your spell save DC.",
-            "name": "Ghostflicker Habit",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "arcane",
-            "item_type": "Clothing",
-            "tier": 2,
-            "price": "5200",
-            "icon": "0083_ghostflicker_habit-icon.webp"
-            }
-        },
-        "0084_reefs_splendour": {
-            "key": "0084_reefs_splendour",
-            "description": "Grow ephemereal corals to increase your AC, grant temporary hit points and resistance to cold damage.",
-            "name": "Reef's Splendour",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "elemental",
-            "item_type": "Melee Weapon",
-            "tier": 2,
-            "price": "4750",
-            "icon": "0084_reefs_splendour-icon.webp"
-            }
-        },
-        "0085_shield_of_the_sepulchral_saint": {
-            "key": "0085_shield_of_the_sepulchral_saint",
-            "description": "Summon and elevate an undead creature to act as your lieutnant.",
-            "name": "Shield of the Sepulchral Saint",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "blessed",
-            "item_type": "Shield",
-            "tier": 2,
-            "price": "8200",
-            "icon": "0085_shield_of_the_sepulchral_saint-icon.webp"
-            }
-        },
-        "0087_irontide_raidmask_1": {
-            "key": "0087_irontide_raidmask_1",
-            "description": "War-Masks granting you immunity to fear, however eventually forcing you to confront that fear.",
-            "name": "Irontide Raid-Mask",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "sanctified",
-            "item_type": "Medium Armor",
-            "tier": 2,
-            "price": "4600",
-            "icon": "0087_irontide_raidmask_1-icon.webp"
-            }
-        },
-        "0087_irontide_raidmask_2": {
-            "key": "0087_irontide_raidmask_2",
-            "description": "War-Masks granting you immunity to fear, however eventually forcing you to confront that fear.",
-            "name": "Irontide Raid-Mask",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "sanctified",
-            "item_type": "Medium Armor",
-            "tier": 2,
-            "price": "4600",
-            "icon": "0087_irontide_raidmask_2-icon.webp"
-            }
-        },
-        "0087_irontide_raidmask_3": {
-            "key": "0087_irontide_raidmask_3",
-            "description": "War-Mask granting you immunity to fear, however eventually forcing you to confront that fear.",
-            "name": "Irontide Raid-Mask",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "sanctified",
-            "item_type": "Medium Armor",
-            "tier": 2,
-            "price": "4600",
-            "icon": "0087_irontide_raidmask_3-icon.webp"
-            }
-        },
-        "0088_fluttershade_habit": {
-            "key": "0088_fluttershade_habit",
-            "description": "A comfortable hat, attracting moths and butterflies. Their whispers grant you access to more spells and can sooth your allies during a short rest.",
-            "name": "Fluttershade Habit",
-            "properties": {
-            "rarity": "Uncommon",
-            "attunement": true,
-            "origin": "feywoven",
-            "item_type": "Clothing",
-            "tier": 1,
-            "price": "1750",
-            "icon": "0088_fluttershade_habit-icon.webp"
-            }
-        },
-        "0086_gravelord_scepter": {
-            "key": "0086_gravelord_scepter",
-            "description": "Spellfocus boosting your necromancy spells, as well as buffing undead creatures under your control",
-            "name": "Gravelord Scepter",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "occult",
-            "item_type": "Melee Weapon",
-            "tier": 3,
-            "price": "17500",
-            "icon": "0086_gravelord_scepter-icon.webp"
-            }
-        },
-        "0089_staff_of_multiple_minds": {
-            "key": "0089_staff_of_multiple_minds",
-            "description": "Allows you to prepare and cast an additional spell from the wizard spell list and possibly concentrate on two spells.",
-            "name": "Staff of Multiple Minds",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "arcane",
-            "item_type": "Melee Weapon",
-            "tier": 3,
-            "price": "24700",
-            "icon": "0089_staff_of_multiple_minds-icon.webp"
-            }
-        },
-        "0090_lightning_shrike": {
-            "key": "0090_lightning_shrike",
-            "description": "Move and strike like lightning.",
-            "name": "Lightning Shrike",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "elemental",
-            "item_type": "Melee Weapon",
-            "tier": 2,
-            "price": "3600",
-            "icon": "0090_lightning_shrike-icon.webp"
-            }
-        },
-        "0091_dark_promise": {
-            "key": "0091_dark_promise",
-            "description": "Should a creature triumph over you, rise again to haunt it.",
-            "name": "Dark Promise",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "occult",
-            "item_type": "Melee Weapon",
-            "tier": 3,
-            "price": "44800",
-            "icon": "0091_dark_promise-icon.webp"
-            }
-        },
-        "0092_rod_of_the_silent_saint": {
-            "key": "0092_rod_of_the_silent_saint",
-            "description": "Silently cast your spells and silence your enemies to prohibit them from using their voice or spells.",
-            "name": "Rod of the Silent Saint",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "blessed",
-            "item_type": "Trinket",
-            "tier": 3,
-            "price": "32000",
-            "icon": "0092_rod_of_the_silent_saint-icon.webp"
-            }
-        },
-        "0093_sunscorched_shield": {
-            "key": "0093_sunscorched_shield",
-            "description": "Grants resistance to fire damage, can be used to shield allies from fiery harm and to substitute a campfire.",
-            "name": "Sun-Scorched Shield",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "elemental",
-            "item_type": "Shield",
-            "tier": 2,
-            "price": "3800",
-            "icon": "0093_sunscorched_shield-icon.webp"
-            }
-        },
-        "0098_sphinx_key": {
-            "key": "0098_sphinx_key",
-            "description": "Magical key that opens nonmagical locks if you can solve a riddle.",
-            "name": "Sphinx Key",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": false,
-            "origin": "relic",
-            "item_type": "Trinket",
-            "tier": 1,
-            "price": "2850",
-            "icon": "0098_sphinx_key-icon.webp"
-            }
-        },
-        "0099_killing_thought": {
-            "key": "0099_killing_thought",
-            "description": "Crystal blade that you can control with your mind.",
-            "name": "Killing Thought",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "crystalline",
-            "item_type": "Melee Weapon",
-            "tier": 2,
-            "price": "1250",
-            "icon": "0099_killing_thought-icon.webp"
-            }
-        },
-        "0100_latchling_vial": {
-            "key": "0100_latchling_vial",
-            "description": "Vial containing a parasite capable of creating an allied Animated Object.",
-            "name": "Latchling Vial",
-            "properties": {
-            "rarity": "Uncommon",
-            "attunement": false,
-            "origin": "mutation",
-            "item_type": "Consumable",
-            "tier": 1,
-            "price": "480",
-            "icon": "0100_latchling_vial-icon.webp"
-            }
-        },
-        "0101_spookshroud": {
-            "key": "0101_spookshroud",
-            "description": "Spooky veil that lets you turn into a ghost.",
-            "name": "Spookshroud",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": true,
-            "origin": "beastforged",
-            "item_type": "Cloak",
-            "tier": 2,
-            "price": "13001",
-            "icon": "0101_spookshroud-icon.webp"
-            }
-        },
-        "0081_truthtaker": {
-            "key": "0081_truthtaker",
-            "description": "Behead a creature, carry its head around, talk to it.",
-            "name": "Truthtaker",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "awoken",
-            "item_type": "Melee Weapon",
-            "tier": 1,
-            "price": "1800",
-            "icon": "0081_truthtaker-icon.webp"
-            }
-         },
-		       "0095_muspelhammer": {
-            "key": "0095_muspelhammer",
-            "description": "Imprint a fiery rune unto a weapon or suit of armor, granting extra damage or fire resistance.",
-            "name": "Muspelhammer",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "giantforged",
-            "item_type": "Melee Weapon",
-            "tier": 1,
-            "price": "1800",
-            "icon": "0095_muspelhammer-icon.webp"
-       }
-     }, 
-	 		       "0094_trench_digger": {
-            "key": "0094_trench_digger",
-            "description": "Create fortified positions gain defensive boni while holding them.",
-            "name": "Trench Digger",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "dwarvenforged",
-            "item_type": "Melee Weapon",
-            "tier": 2,
-            "price": "3100",
-            "icon": "0094_trench_digger-icon.webp"
-       }
-	      }, 
-	 		       "0096_overseers_hardhat": {
-            "key": "0096_overseers_hardhat",
-            "description": "Protects your noggin from non-magical projectiles other occupational hazards.",
-            "name": "Overseers Hardhat",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "dwarvenforged",
-            "item_type": "Clothing",
-            "tier": 2,
-            "price": "2200",
-            "icon": "0096_overseers_hardhat-icon.webp"
-			}
-				   },
-	        "0097_potion_of_healing": {
-            "key": "0097_potion_of_healing",
-            "description": "Drink to regain an almost negligible amount of hit points.",
-            "name": "Potion of Healing",
-            "properties": {
-            "rarity": "Common",
-            "attunement": false,
-            "origin": "arcane",
-            "item_type": "Consumable",
-            "tier": 1,
-            "price": "50",
-            "icon": "0097_potion_of_healing-icon.webp"
-			}
-				   },
-	        "0097_potion_of_greater_healing": {
-            "key": "0097_potion_of_greater_healing",
-            "description": "Drink to regain a minor amount of hit points.",
-            "name": "Potion of Greater Healing",
-            "properties": {
-            "rarity": "Uncommon",
-            "attunement": false,
-            "origin": "arcane",
-            "item_type": "Consumable",
-            "tier": 1,
-            "price": "100",
-            "icon": "0097_potion_of_greater_healing-icon.webp"
-				}
-				   },
-	        "0097_potion_of_superior_healing": {
-            "key": "0097_potion_of_superior_healing",
-            "description": "Drink to regain a respectable amount of hit points.",
-            "name": "Potion of Superior Healing",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": false,
-            "origin": "arcane",
-            "item_type": "Consumable",
-            "tier": 1,
-            "price": "250",
-            "icon": "0097_potion_of_superior_healing-icon.webp"
-				}
-				   },
-	        "0097_potion_of_supreme_healing": {
-            "key": "0097_potion_of_supreme_healing",
-            "description": "Drink to regain a large amount of hit points.",
-            "name": "Potion of Supreme Healing",
-            "properties": {
-            "rarity": "Very Rare",
-            "attunement": false,
-            "origin": "arcane",
-            "item_type": "Consumable",
-            "tier": 2,
-            "price": "3500",
-            "icon": "0097_potion_of_greater_healing-icon.webp"
-				}
-				   },
-	        "0029_the_pilgrims_plate": {
-            "key": "0029_the_pilgrims_plate",
-            "description": "Gain charges as you suffer damage, expend charges to gain damage resistances.",
-            "name": "Pilgrim's Plate",
-            "properties": {
-            "rarity": "Rare",
-            "attunement": true,
-            "origin": "ancient",
-            "item_type": "Heavy Armor",
-            "tier": 2,
-            "price": "1800",
-            "icon": "0029_the_pilgrims_plate-icon.webp"
-	}
-	}
-	}
+  "id": "beneos_items_database",
+  "type": "item",
+  "version": "1.0.0",
+  "content": {
+    "0001_nightfall": {
+      "key": "0001_nightfall",
+      "description": "A dreadful blade that extinguishes all light and wreathes its wielder in darkness.",
+      "name": "Nightfall",
+      "properties": {
+        "rarity": "Legendary",
+        "attunement": true,
+        "origin": "vampiric",
+        "item_type": "Melee Weapon",
+        "tier": 3,
+        "price": "52800",
+        "icon": "0001_nightfall-icon.webp"
+      }
+    },
+    "0003_shamblevault_coffin": {
+      "key": "0003_shamblevault_coffin",
+      "description": "A coffin used to summon undead creatures and press them into service.",
+      "name": "Shamblevault Coffin",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "occult",
+        "item_type": "Trinket",
+        "tier": 2,
+        "price": "3400",
+        "icon": "0003_shamblevault_coffin-icon.webp"
+      }
+    },
+    "0004_harrowshrike_deathmask": {
+      "key": "0004_harrowshrike_deathmask",
+      "description": "A vampiric mask that strikes fear into the heart of your enemies.",
+      "name": "Harrowshrike Deathmask",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "vampiric",
+        "item_type": "Clothing",
+        "tier": 2,
+        "price": "4300",
+        "icon": "0004_harrowshrike_deathmask-icon.webp"
+      }
+    },
+    "0005_stormbreaker": {
+      "key": "0005_stormbreaker",
+      "description": "An indomitable tower shield imbued with tempest's fury",
+      "name": "Stormbreaker",
+      "properties": {
+        "rarity": "Legendary",
+        "attunement": true,
+        "origin": "giantforged",
+        "item_type": "Shield",
+        "tier": 3,
+        "price": "49600",
+        "icon": "0005_stormbreaker-icon.webp"
+      }
+    },
+    "0006_sea_tyrants_scales": {
+      "key": "0006_sea_tyrants_scales",
+      "description": "Scale armor, reducing damage taken and imbuing you with the hybris of a Leviathan.",
+      "name": "Sea Tyrants Scales",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "dwarvenforged",
+        "item_type": "Medium Armor",
+        "tier": 2,
+        "price": "5800",
+        "icon": "0006_sea_tyrants_scales-icon.webp"
+      }
+    },
+    "0007_cloak_of_photosynthesis": {
+      "key": "0007_cloak_of_photosynthesis",
+      "description": "A cloak that slowly heals you when in direct sunlight",
+      "name": "Cloak Of Photosynthesis",
+      "properties": {
+        "rarity": "Uncommon",
+        "attunement": true,
+        "origin": "druidic",
+        "item_type": "Clothing",
+        "tier": 1,
+        "price": "800",
+        "icon": "0007_cloak_of_photosynthesis-icon.webp"
+      }
+    },
+    "0008_scythe_of_the_long_march": {
+      "key": "0008_scythe_of_the_long_march",
+      "description": "A grisly weapon allowing you to endure grave wounds and march on seemingly forever.",
+      "name": "Scythe Of The Long March",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "occult",
+        "item_type": "Melee Weapon",
+        "tier": 1,
+        "price": "2900",
+        "icon": "0008_scythe_of_the_long_march-icon.webp"
+      }
+    },
+    "0009_blood_toll_bracers": {
+      "key": "0009_blood_toll_bracers",
+      "description": "Blood-stained relics that enable you to retaliate when getting hit.",
+      "name": "Blood Toll Bracers",
+      "properties": {
+        "rarity": "Uncommon",
+        "attunement": true,
+        "origin": "ancient",
+        "item_type": "Clothing",
+        "tier": 1,
+        "price": "900",
+        "icon": "0009_blood_toll_bracers-icon.webp"
+      }
+    },
+    "0010_eye_of_obliteration": {
+      "key": "0010_eye_of_obliteration",
+      "description": "An eye replacement enabling you to turn enemies into dust by looking at them.",
+      "name": "Eye Of Obliteration",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "arcane",
+        "item_type": "Trinket",
+        "tier": 4,
+        "price": "108000",
+        "icon": "0010_eye_of_obliteration-icon.webp"
+      }
+    },
+    "0011_graveblade1": {
+      "key": "0011_graveblade1",
+      "description": "A sword dealing more damage to already wounded creatures.",
+      "name": "Graveblade +1",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "occult",
+        "item_type": "Melee Weapon",
+        "tier": 1,
+        "price": "1700",
+        "icon": "0011_graveblade1-icon.webp"
+      }
+    },
+    "0011_graveblade2": {
+      "key": "0011_graveblade2",
+      "description": "A sword dealing more damage to already wounded creatures.",
+      "name": "Graveblade +2",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "occult",
+        "item_type": "Melee Weapon",
+        "tier": 2,
+        "price": "2900",
+        "icon": "0011_graveblade2-icon.webp"
+      }
+    },
+    "0011_graveblade3": {
+      "key": "0011_graveblade3",
+      "description": "A sword dealing more damage to already wounded creatures.",
+      "name": "Graveblade +3",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "occult",
+        "item_type": "Melee Weapon",
+        "tier": 3,
+        "price": "4400",
+        "icon": "0011_graveblade3-icon.webp"
+      }
+    },
+    "0012_defuser_harness": {
+      "key": "0012_defuser_harness",
+      "description": "Paddened and enchanted armor offering protection from explosions.",
+      "name": "Defuser Harness",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "arcane",
+        "item_type": "Medium Armor",
+        "tier": 2,
+        "price": "5400",
+        "icon": "0012_defuser_harness-icon.webp"
+      }
+    },
+    "0013_shoreclaimer": {
+      "key": "0013_shoreclaimer",
+      "description": "A battleaxe empowering you during the first round of combat.",
+      "name": "Shoreclaimer",
+      "properties": {
+        "rarity": "Uncommon",
+        "attunement": true,
+        "origin": "awoken",
+        "item_type": "Melee Weapon",
+        "tier": 1,
+        "price": "1800",
+        "icon": "0013_shoreclaimer-icon.webp"
+      }
+    },
+    "0014_dreamers_prison": {
+      "key": "0014_dreamers_prison",
+      "description": "A morbid artifact allowing you to imprison a creature within the head's dream.",
+      "name": "Dreamers Prison",
+      "properties": {
+        "rarity": "Uncommon",
+        "attunement": true,
+        "origin": "occult",
+        "item_type": "Trinket",
+        "tier": 2,
+        "price": "2600",
+        "icon": "0014_dreamers_prison-icon.webp"
+      }
+    },
+    "0015_sunflower_scepter": {
+      "key": "0015_sunflower_scepter",
+      "description": "A spell focus strengthening radiant damage and granting two powerful solar spells.",
+      "name": "Sunflower Scepter",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "druidic",
+        "item_type": "Natural",
+        "tier": 2,
+        "price": "4400",
+        "icon": "0015_sunflower_scepter-icon.webp"
+      }
+    },
+    "0016_harrowshrike_harness": {
+      "key": "0016_harrowshrike_harness",
+      "description": "Winged armor that allows you to silently glide through the air.",
+      "name": "Harrowshrike Harness",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": false,
+        "origin": "vampiric",
+        "item_type": "Medium Armor",
+        "tier": 1,
+        "price": "1600",
+        "icon": "0016_harrowshrike_harness-icon.webp"
+      }
+    },
+    "0017_griefplate": {
+      "key": "0017_griefplate",
+      "description": "A haunted plate armor enshrouded by wailing ghosts, damaging all living creatures around you.",
+      "name": "Griefplate",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "vampiric",
+        "item_type": "Heavy Armor",
+        "tier": 2,
+        "price": "6200",
+        "icon": "0017_griefplate-icon.webp"
+      }
+    },
+    "0018_gatebreaker_gauntlets": {
+      "key": "0018_gatebreaker_gauntlets",
+      "description": "Heavy gauntlets allowing you to crush foes with your fists and break through doors, walls and castle gates.",
+      "name": "Gatebreaker Gauntlets",
+      "properties": {
+        "rarity": "Legendary",
+        "attunement": true,
+        "origin": "blessed",
+        "item_type": "Heavy Armor",
+        "tier": 3,
+        "price": "28800",
+        "icon": "0018_gatebreaker_gauntlets-icon.webp"
+      }
+    },
+    "0019_osseous_mask": {
+      "key": "0019_osseous_mask",
+      "description": "A bone mask, granting you telepathy and the ability to target two allies with a single spell.",
+      "name": "Osseous Mask",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "arcane",
+        "item_type": "Clothing",
+        "tier": 1,
+        "price": "2500",
+        "icon": "0019_osseous_mask-icon.webp"
+      }
+    },
+    "0020_stormstrider_boots": {
+      "key": "0020_stormstrider_boots",
+      "description": "Boots allowing you to stride through air and granting resistance to lightning damage.",
+      "name": "Stormstrider Boots",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "giantforged",
+        "item_type": "Clothing",
+        "tier": 2,
+        "price": "6600",
+        "icon": "0020_stormstrider_boots-icon.webp"
+      }
+    },
+    "0022_ossian_crown": {
+      "key": "0022_ossian_crown",
+      "description": "A crown granting the ability to cast animate dead on a beast.",
+      "name": "Ossian Crown",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "relic",
+        "item_type": "Clothing",
+        "tier": 1,
+        "price": "2700",
+        "icon": "0022_ossian_crown-icon.webp"
+      }
+    },
+    "0024_ancestral_fragment": {
+      "key": "0024_ancestral_fragment",
+      "description": "A piece of magical rock that lets you commune with your ancestors.",
+      "name": "Ancestral Fragment",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "primordial",
+        "item_type": "Trinket",
+        "tier": 2,
+        "price": "2100",
+        "icon": "0024_ancestral_fragment-icon.webp"
+      }
+    },
+    "0025_lightbringer_torch": {
+      "key": "0025_lightbringer_torch",
+      "description": "A magical torch that emits magical sunlight, banishes darkness and heals allies.",
+      "name": "Lightbringer Torch",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "relic",
+        "item_type": "Trinket",
+        "tier": 2,
+        "price": "4600",
+        "icon": "0025_lightbringer_torch-icon.webp"
+      }
+    },
+    "0026_molten_core": {
+      "key": "0026_molten_core",
+      "description": "A Magma Dragon's heart, utilized to invoke different fiery boons.",
+      "name": "Molten Core",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "primordial",
+        "item_type": "Trinket",
+        "tier": 2,
+        "price": "4800",
+        "icon": "0026_molten_core-icon.webp"
+      }
+    },
+    "0028_fleshgrafter_workgloves": {
+      "key": "0028_fleshgrafter_workgloves",
+      "description": "Summon a giant mummified arm and crush your foes with it.",
+      "name": "Fleshgrafter Workgloves",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "occult",
+        "item_type": "Trinket",
+        "tier": 2,
+        "price": "2600",
+        "icon": "0028_fleshgrafter_workgloves-icon.webp"
+      }
+    },
+    "0002_devils_decksweeper": {
+      "key": "0002_devils_decksweeper",
+      "description": "An overgrown pistol cursed by a devil of the sea",
+      "name": "Devils Decksweeper",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "occult",
+        "item_type": "Range Weapon",
+        "tier": 2,
+        "price": "2400",
+        "icon": "0002_devils_decksweeper-icon.webp"
+      }
+    },
+    "0031_gravewardens_bell": {
+      "key": "0031_gravewardens_bell",
+      "description": "This bell grants communion with the Deathshroud, allowing you to partake in its holy silence and grant its burial shroud.",
+      "name": "Gravewardens Bell",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "occult",
+        "item_type": "Trinket",
+        "tier": 1,
+        "price": "750",
+        "icon": "0031_gravewardens_bell-icon.webp"
+      }
+    },
+    "0032_crescent_moon": {
+      "key": "0032_crescent_moon",
+      "description": "Upon falling unconscious, the sword's ghost possesses you, fighting on your behalf.",
+      "name": "Crescent Moon",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "awoken",
+        "item_type": "Melee Weapon",
+        "tier": 2,
+        "price": "4400",
+        "icon": "0032_crescent_moon-icon.webp"
+      }
+    },
+    "0034_cloak_of_billowing_ash": {
+      "key": "0034_cloak_of_billowing_ash",
+      "description": "Swiftly move as a coiling cloud of ash-smoke, wind-fast and untouchable.",
+      "name": "Cloak Of Billowing Ash",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "elemental",
+        "item_type": "Clothing",
+        "tier": 3,
+        "price": "48000",
+        "icon": "0034_cloak_of_billowing_ash-icon.webp"
+      }
+    },
+    "0033_wiredevil": {
+      "key": "0033_wiredevil",
+      "description": "A wind-up grenade unleashing a torrent of razor-wire when activated.",
+      "name": "Wiredevil",
+      "properties": {
+        "rarity": "rare",
+        "attunement": true,
+        "origin": "technoarcane",
+        "item_type": "consumable",
+        "tier": 1,
+        "price": "800",
+        "icon": "0033_wiredevil-icon.webp"
+      }
+    },
+    "0035_dreamraker": {
+      "key": "0035_dreamraker",
+      "description": "Allows you to haunt sleeping creatures, damaging them but not rousing them from their slumber.",
+      "name": "Dreamraker",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "occult",
+        "item_type": "Melee Weapon",
+        "tier": 2,
+        "price": "6600",
+        "icon": "0035_dreamraker-icon.webp"
+      }
+    },
+    "0036_vermin_crown": {
+      "key": "0036_vermin_crown",
+      "description": "Allows you to summon swarms of vermin, heeding your every command.",
+      "name": "Vermin Crown",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "relic",
+        "item_type": "Trinket",
+        "tier": 1,
+        "price": "2200",
+        "icon": "0036_vermin_crown-icon.webp"
+      }
+    },
+    "0037_grovekeepers_promise": {
+      "key": "0037_grovekeepers_promise",
+      "description": "Activating this magical shield, you become rooted to the earth, nigh impossible to shift, as thorny vines lash at your enemies.",
+      "name": "Grovekeepers Promise",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "druidic",
+        "item_type": "Shield",
+        "tier": 2,
+        "price": "5600",
+        "icon": "0037_grovekeepers_promise-icon.webp"
+      }
+    },
+    "0038_seed_of_renewal": {
+      "key": "0038_seed_of_renewal",
+      "description": "The seedling of a magical tree that grows healing fruit and blesses those that sleep near it.",
+      "name": "Seed Of Renewal",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "druidic",
+        "item_type": "Consumable",
+        "tier": 1,
+        "price": "3200",
+        "icon": "0038_seed_of_renewal-icon.webp"
+      }
+    },
+    "0039_blade_sage_scroll": {
+      "key": "0039_blade_sage_scroll",
+      "description": "Allows you to store and retrieve weapons within, as well as permantently strengthens your bladework upon careful study.",
+      "name": "Blade Sage Scroll",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": false,
+        "origin": "sanctified",
+        "item_type": "Trinket",
+        "tier": 1,
+        "price": "3800",
+        "icon": "0039_blade_sage_scroll-icon.webp"
+      }
+    },
+    "0040_jungle_monarch": {
+      "key": "0040_jungle_monarch",
+      "description": "Increases the chance to score critical hits and always deals maximal weapon damage against Huge and larger creatures.",
+      "name": "Jungle Monarch",
+      "properties": {
+        "rarity": "Uncommon",
+        "attunement": true,
+        "origin": "beastforged",
+        "item_type": "Melee Weapon",
+        "tier": 2,
+        "price": "3600",
+        "icon": "0040_jungle_monarch-icon.webp"
+      }
+    },
+    "0041_lantern_of_waning_hope": {
+      "key": "0041_lantern_of_waning_hope",
+      "description": "A flickering lantern providing aid when you are at death's door.",
+      "name": "Lantern Of Waning Hope",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "blessed",
+        "item_type": "Trinket",
+        "tier": 1,
+        "price": "2700",
+        "icon": "0041_lantern_of_waning_hope-icon.webp"
+      }
+    },
+    "0042_rothail_shortbow": {
+      "key": "0042_rothail_shortbow",
+      "description": "Mud-dripping short bow infecting targets with Bog Rot, dealing necrotic damage over time.",
+      "name": "Rothail Shortbow",
+      "properties": {
+        "rarity": "Uncommon",
+        "attunement": true,
+        "origin": "awoken",
+        "item_type": "Range Weapon",
+        "tier": 1,
+        "price": "1400",
+        "icon": "0042_rothail_shortbow-icon.webp"
+      }
+    },
+    "0043_conquerors_chalice": {
+      "key": "0043_conquerors_chalice",
+      "description": "Imbibe a worty enemy's life blood to increase your maximum hit points and terrorize its kindred.",
+      "name": "Conquerors Chalice",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "relic",
+        "item_type": "Trinket",
+        "tier": 1,
+        "price": "2100",
+        "icon": "0043_conquerors_chalice-icon.webp"
+      }
+    },
+    "0044_ghoulskin_gloves": {
+      "key": "0044_ghoulskin_gloves",
+      "description": "Made to hunt enormous prey, this knife increases the chance to score critical hits and always deals maximal weapon damage against Huge and larger creatures.",
+      "name": "Ghoulskin Gloves",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "occult",
+        "item_type": "Clothing",
+        "tier": 1,
+        "price": "1700",
+        "icon": "0044_ghoulskin_gloves-icon.webp"
+      }
+    },
+    "0045_bridgehead": {
+      "key": "0045_bridgehead",
+      "description": "This armor lets you either withstand a single instance of tremendous damage or pay a blood toll and pay it back.",
+      "name": "Bridgehead",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "blessed",
+        "item_type": "Heavy Armor",
+        "tier": 2,
+        "price": "5200",
+        "icon": "0045_bridgehead-icon.webp"
+      }
+    },
+    "0046_mourners_frock": {
+      "key": "0046_mourners_frock",
+      "description": "You gain access to two of the Mourner's signature spells, allowing you to stalk the mists in style.",
+      "name": "Mourners Frock",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "awoken",
+        "item_type": "Light Armor",
+        "tier": 2,
+        "price": "4700",
+        "icon": "0046_mourners_frock-icon.webp"
+      }
+    },
+    "0049_foremans_flask": {
+      "key": "0049_foremans_flask",
+      "description": "Drink from the flask to benefit from a short rest. Do so secretly to also gain 2d10 temporary hit points.",
+      "name": "Foremans Flask",
+      "properties": {
+        "rarity": "Uncommon",
+        "attunement": true,
+        "origin": "dwarvenforged",
+        "item_type": "Trinket",
+        "tier": 1,
+        "price": "1700",
+        "icon": "0049_foremans_flask-icon.webp"
+      }
+    },
+    "0049_wrathfire_talisman": {
+      "key": "0049_wrathfire_talisman",
+      "description": "Wreath yourself in scorching Wrathfire, granting you increased damage and resistance at the low cost of turning into a blood-crazed maniac.",
+      "name": "Wrathfire Talisman",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "infernal",
+        "item_type": "Trinket",
+        "tier": 2,
+        "price": "3800",
+        "icon": "0049_wrathfire_talisman-icon.webp"
+      }
+    },
+    "0047_beast_hunters_cowl": {
+      "key": "0047_beast_hunters_cowl",
+      "description": "Allows you to cast a spell that highlights vulnerable prey and increases your chance of a critical hit against it.",
+      "name": "Beast-Hunter's Cowl",
+      "properties": {
+        "rarity": "Uncommon",
+        "attunement": true,
+        "origin": "beastforged",
+        "item_type": "Clothing",
+        "tier": 2,
+        "price": "2200",
+        "icon": "0047_beast_hunters_cowl-icon.webp"
+      }
+    },
+    "0048_fadesilk_shroud": {
+      "key": "0048_fadesilk_shroud",
+      "description": "Upon being discovered by a creature, possibly erase yourself from a creature's perception and memory.",
+      "name": "Fadesilk Shroud",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "arcane",
+        "item_type": "Clothing",
+        "tier": 2,
+        "price": "3200",
+        "icon": "0048_fadesilk_shroud-icon.webp"
+      }
+    },
+    "0050_brawlers_eagerness": {
+      "key": "0050_brawlers_eagerness",
+      "description": "Gain a bonus to your initiative roll and possibly to your movement speed and number of attacks.",
+      "name": "Brawlers Eagerness",
+      "properties": {
+        "rarity": "Uncommon",
+        "attunement": true,
+        "origin": "awoken",
+        "item_type": "Trinket",
+        "tier": 1,
+        "price": "700",
+        "icon": "0050_brawlers_eagerness-icon.webp"
+      }
+    },
+    "0051_blessed_bindings": {
+      "key": "0051_blessed_bindings",
+      "description": "Gain a damage resistance of your choice, as well as some light protection against undead or fiends.",
+      "name": "Blessed Bindings",
+      "properties": {
+        "rarity": "Uncommon",
+        "attunement": true,
+        "origin": "blessed",
+        "item_type": "Clothing",
+        "tier": 1,
+        "price": "350",
+        "icon": "0051_blessed_bindings-icon.webp"
+      }
+    },
+    "0053_robes_of_reflection": {
+      "key": "0053_robes_of_reflection",
+      "description": "A robe best suited for the Monk class, allowing them to regain Ki points by reflecting on their failure.",
+      "name": "Robes Of Reflection",
+      "properties": {
+        "rarity": "Uncommon",
+        "attunement": true,
+        "origin": "relic",
+        "item_type": "Clothing",
+        "tier": 1,
+        "price": "900",
+        "icon": "0053_robes_of_reflection-icon.webp"
+      }
+    },
+    "0052_dark_shepherd_cursed": {
+      "key": "0052_dark_shepherd_cursed",
+      "description": "Regular Dark Shepherd but with the curse text added.",
+      "name": "Dark Shepherd Cursed",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "occult",
+        "item_type": "Trinket",
+        "tier": 2,
+        "price": "4200",
+        "icon": "0052_dark_shepherd_cursed-icon.webp"
+      }
+    },
+    "0052_dark_shepherd": {
+      "key": "0052_dark_shepherd",
+      "description": "Buffs your undead minions and grants you necromantic spell slots.",
+      "name": "Dark Shepherd",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "occult",
+        "item_type": "Trinket",
+        "tier": 2,
+        "price": "4200",
+        "icon": "0052_dark_shepherd-icon.webp"
+      }
+    },
+    "0054_slumbering_huskblade": {
+      "key": "0054_slumbering_huskblade",
+      "description": "A crude lump of metal transforming into a blade upon killing a creature with it.",
+      "name": "Huskblade (Slumbering)",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "beastforged",
+        "item_type": "Melee Weapon",
+        "tier": 2,
+        "price": "3600",
+        "icon": "0054_slumbering_huskblade-icon.webp"
+      }
+    },
+    "0055_awoken_huskblade": {
+      "key": "0055_awoken_huskblade",
+      "description": "The stronger the creature slain with the Slumbering Husk Blade, the mightier its awoken form.",
+      "name": "Huskblade (Awoken)",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "beastforged",
+        "item_type": "Melee Weapon",
+        "tier": 2,
+        "price": "5800",
+        "icon": "0055_awoken_huskblade-icon.webp"
+      }
+    },
+    "0056_hiveheart": {
+      "key": "0056_hiveheart",
+      "description": "In turn for infesting your body, the skittering swarm helps out where it can.",
+      "name": "Hiveheart",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "mutation",
+        "item_type": "Trinket",
+        "tier": 2,
+        "price": "5000",
+        "icon": "0056_hiveheart-icon.webp"
+      }
+    },
+    "0057_sullen_knights_helmet": {
+      "key": "0057_sullen_knights_helmet",
+      "description": "A slightly cursed helmet, whose benefits might outweigh the drawbacks.",
+      "name": "Sullen Knight's Helmet",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "awoken",
+        "item_type": "Clothing",
+        "tier": 1,
+        "price": "2700",
+        "icon": "0057_sullen_knights_helmet-icon.webp"
+      }
+    },
+    "0058_bascinet_of_ancient_tactica": {
+      "key": "0058_bascinet_of_ancient_tactica",
+      "description": "At the start of each combat, you learn two maneuvers and the have option to adapt your fighting style.",
+      "name": "Bascinet Of Ancient Tactica",
+      "properties": {
+        "rarity": "Legendary",
+        "attunement": true,
+        "origin": "awoken",
+        "item_type": "Clothing",
+        "tier": 2,
+        "price": "12500",
+        "icon": "0058_bascinet_of_ancient_tactica-icon.webp"
+      }
+    },
+    "0059_bottlesnatcher_imp": {
+      "key": "0059_bottlesnatcher_imp",
+      "description": "A drunk Imp residing in a bottle, able to procure other bottles in the vicinity.",
+      "name": "Bottlesnatcher Imp",
+      "properties": {
+        "rarity": "Uncommon",
+        "attunement": false,
+        "origin": "infernal",
+        "item_type": "Trinket",
+        "tier": 1,
+        "price": "2600",
+        "icon": "0059_bottlesnatcher_imp-icon.webp"
+      }
+    },
+    "0060_heart_of_iron": {
+      "key": "0060_heart_of_iron",
+      "description": "A mechanical heart that lets you awaken a suit of heavy armor, turning it into a mighty servant.",
+      "name": "Heart Of Iron",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": false,
+        "origin": "technoarcane",
+        "item_type": "Trinket",
+        "tier": 2,
+        "price": "13600",
+        "icon": "0060_heart_of_iron-icon.webp"
+      }
+    },
+    "0061_spelldrinker_scroll": {
+      "key": "0061_spelldrinker_scroll",
+      "description": "A scroll used to trap a spell within upon it being cast, storing it for later use.",
+      "name": "Spelldrinker Scroll",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": false,
+        "origin": "arcane",
+        "item_type": "Consumable",
+        "tier": 2,
+        "price": "3900",
+        "icon": "0061_spelldrinker_scroll-icon.webp"
+      }
+    },
+    "0062_three_feather_tricorne": {
+      "key": "0062_three_feather_tricorne",
+      "description": "A hat that lets you fly, calm everyone down or summon a drunk parrot.",
+      "name": "Three-Feathered Tricorne",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "blessed",
+        "item_type": "Clothing",
+        "tier": 2,
+        "price": "1600",
+        "icon": "0062_three_feather_tricorne-icon.webp"
+      }
+    },
+    "0063_nightbloom_chalice": {
+      "key": "0063_nightbloom_chalice",
+      "description": "A chalic offering a healing nectar every night, can also be used to befriend local wildlife.",
+      "name": "Nightbloom Chalice",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": false,
+        "origin": "druidic",
+        "item_type": "Trinket",
+        "tier": 1,
+        "price": "2900",
+        "icon": "0063_nightbloom_chalice-icon.webp"
+      }
+    },
+    "0064_boreal_bulwark": {
+      "key": "0064_boreal_bulwark",
+      "description": "A shield allowing you to channel your willpower to negate damage. It also inflicts harm upon fey creatures.",
+      "name": "Boreal Bulwark",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "giantforged",
+        "item_type": "Shield",
+        "tier": 2,
+        "price": "5200",
+        "icon": "0064_boreal_bulwark-icon.webp"
+      }
+    },
+    "0065_duskdreamers_diadem": {
+      "key": "0065_duskdreamers_diadem",
+      "description": "An etheral diadem allowing you to regain a spell slot at dusk and enabling you to magically put a creature to sleep, healing or harming it.",
+      "name": "Duskdreamer's Diadem",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "feywoven",
+        "item_type": "Trinket",
+        "tier": 2,
+        "price": "3200",
+        "icon": "0065_duskdreamers_diadem-icon.webp"
+      }
+    },
+    "0066_death_ink": {
+      "key": "0066_death_ink",
+      "description": "Mark a creature of your choice as the target of your hunt and gain powerful boni that assist you in this pursuit.",
+      "name": "Death Ink",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": false,
+        "origin": "sanctified",
+        "item_type": "Consumable",
+        "tier": 3,
+        "price": "18000",
+        "icon": "0066_death_ink-icon.webp"
+      }
+    },
+    "0067_whispermaw_strain": {
+      "key": "0067_whispermaw_strain",
+      "description": "Parasitic organism whose whispers can regenerate spell slots and charm enemies.",
+      "name": "Whispermaw Strain",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": false,
+        "origin": "mutation",
+        "item_type": "Consumable",
+        "tier": 3,
+        "price": "14200",
+        "icon": "0067_whispermaw_strain-icon.webp"
+      }
+    },
+    "0068_magmatic_molasses": {
+      "key": "0068_magmatic_molasses",
+      "description": "Creates a protective layer of cooled lava that hinders mobility but significantly increases defense.",
+      "name": "Magmatic Molasses",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": false,
+        "origin": "elemental",
+        "item_type": "Consumable",
+        "tier": 2,
+        "price": "2800",
+        "icon": "0068_magmatic_molasses-icon.webp"
+      }
+    },
+    "0069_drought_draught": {
+      "key": "0069_drought_draught",
+      "description": "Creates an area of magical dryness that evaporates water and harms liquid or elemental creatures.",
+      "name": "Drought Draught",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": false,
+        "origin": "elemental",
+        "item_type": "Consumable",
+        "tier": 2,
+        "price": "6000",
+        "icon": "0069_drought_draught-icon.webp"
+      }
+    },
+    "0070_crown_of_defiance": {
+      "key": "0070_crown_of_defiance",
+      "description": "lets you ignore the result of an attack against you, a failed save or falling to 0 hit points once per day.",
+      "name": "Crown Of Defiance",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "relic",
+        "item_type": "Clothing",
+        "tier": 3,
+        "price": "1000000",
+        "icon": "0070_crown_of_defiance-icon.webp"
+      }
+    },
+    "0071_hags_due": {
+      "key": "0071_hags_due",
+      "description": "Lets you cast detect thoughts on an unconscious creature, as well as gain one of its proficiencies.",
+      "name": "Hag's Due",
+      "properties": {
+        "rarity": "Uncommon",
+        "attunement": true,
+        "origin": "feywoven",
+        "item_type": "Melee Weapon",
+        "tier": 1,
+        "price": "1900",
+        "icon": "0071_hags_due-icon.webp"
+      }
+    },
+    "0072_slimesword": {
+      "key": "0072_slimesword",
+      "description": "An oozy sword that deals extra acid damage and can grapple enemies to dissolve them.",
+      "name": "Slimesword",
+      "properties": {
+        "rarity": "Uncommon",
+        "attunement": true,
+        "origin": "arcane",
+        "item_type": "Melee Weapon",
+        "tier": 1,
+        "price": "2100",
+        "icon": "0072_slimesword-icon.webp"
+      }
+    },
+    "0073_visage_of_dismay": {
+      "key": "0073_visage_of_dismay",
+      "description": "Draw strength from your allies' failures or chastise them to do better.",
+      "name": "Visage Of Dismay",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "ancient",
+        "item_type": "Medium Armor",
+        "tier": 2,
+        "price": "5700",
+        "icon": "0073_visage_of_dismay-icon.webp"
+      }
+    },
+    "0074_dawnmartyr_pelerine": {
+      "key": "0074_dawnmartyr_pelerine",
+      "description": "When an ally is hurt, you can take part of the damage, starting to burn to buff allies and damage enemies.",
+      "name": "Dawnmartyr Pelerine",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "blessed",
+        "item_type": "Clothing",
+        "tier": 3,
+        "price": "25700",
+        "icon": "0074_dawnmartyr_pelerine-icon.webp"
+      }
+    },
+    "0075_grace_of_the_shade_court": {
+      "key": "0075_grace_of_the_shade_court",
+      "description": "Wearing the cowl enhances your charisma and allows you to diminish harm or fortify your resolve with regal grace.",
+      "name": "Grace Of The Shade Court",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "feywoven",
+        "item_type": "Clothing",
+        "tier": 3,
+        "price": "44800",
+        "icon": "0075_grace_of_the_shade_court-icon.webp"
+      }
+    },
+    "0076_mask_of_the_third_eye": {
+      "key": "0076_mask_of_the_third_eye",
+      "description": "As you gain Insight, this mask enhances your perception and intellect while granting powerful divinatory and defensive abilities.",
+      "name": "Mask Of The Third Eye",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "arcane",
+        "item_type": "Clothing",
+        "tier": 2,
+        "price": "189000",
+        "icon": "0076_mask_of_the_third_eye-icon.webp"
+      }
+    },
+    "0077_windup_key": {
+      "key": "0077_windup_key",
+      "description": "Use the Windup-Key to animate an object, with the option to either hasten it or blowing it up.",
+      "name": "Windup Key",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "technoarcane",
+        "item_type": "Consumable",
+        "tier": 2,
+        "price": "5200",
+        "icon": "0077_windup_key-icon.webp"
+      }
+    },
+    "0078_enslaver_stake": {
+      "key": "0078_enslaver_stake",
+      "description": "An unholy stake, used to temporarily animate a dead humanoid or beast under the user's control.",
+      "name": "Enslaver Stake",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": false,
+        "origin": "occult",
+        "item_type": "Consumable",
+        "tier": 1,
+        "price": "2600",
+        "icon": "0078_enslaver_stake-icon.webp"
+      }
+    },
+    "0079_martyrs_ash": {
+      "key": "0079_martyrs_ash",
+      "description": "Apply to your skin to gain various resistances and the ability to sacrifice your hit points to prevent failed death saves.",
+      "name": "Martyr's Ash",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": false,
+        "origin": "blessed",
+        "item_type": "Consumable",
+        "tier": 1,
+        "price": "2600",
+        "icon": "0079_martyrs_ash-icon.webp"
+      }
+    },
+    "0080_mind_tyrant": {
+      "key": "0080_mind_tyrant",
+      "description": "Buffs your spellcasting and enables you to psychically flay your enemies, causing them to suffer increased damage.",
+      "name": "Mind Tyrant",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "occult",
+        "item_type": "Spellfocus",
+        "tier": 2,
+        "price": "13700",
+        "icon": "0080_mind_tyrant-icon.webp"
+      }
+    },
+    "0082_convergence_crest": {
+      "key": "0082_convergence_crest",
+      "description": "Cast spells of the same school in a specific sequence to achieve a powerful convergence",
+      "name": "Convergence Crest",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "arcane",
+        "item_type": "Melee Weapon",
+        "tier": 3,
+        "price": "37200",
+        "icon": "0082_convergence_crest-icon.webp"
+      }
+    },
+    "0083_ghostflicker_habit": {
+      "key": "0083_ghostflicker_habit",
+      "description": "Light Ghostflicker Candles to view the unseen and boost your spell save DC.",
+      "name": "Ghostflicker Habit",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "arcane",
+        "item_type": "Clothing",
+        "tier": 2,
+        "price": "5200",
+        "icon": "0083_ghostflicker_habit-icon.webp"
+      }
+    },
+    "0084_reefs_splendour": {
+      "key": "0084_reefs_splendour",
+      "description": "Grow ephemereal corals to increase your AC, grant temporary hit points and resistance to cold damage.",
+      "name": "Reef's Splendour",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "elemental",
+        "item_type": "Melee Weapon",
+        "tier": 2,
+        "price": "4750",
+        "icon": "0084_reefs_splendour-icon.webp"
+      }
+    },
+    "0085_shield_of_the_sepulchral_saint": {
+      "key": "0085_shield_of_the_sepulchral_saint",
+      "description": "Summon and elevate an undead creature to act as your lieutnant.",
+      "name": "Shield of the Sepulchral Saint",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "blessed",
+        "item_type": "Shield",
+        "tier": 2,
+        "price": "8200",
+        "icon": "0085_shield_of_the_sepulchral_saint-icon.webp"
+      }
+    },
+    "0087_irontide_raidmask_1": {
+      "key": "0087_irontide_raidmask_1",
+      "description": "War-Masks granting you immunity to fear, however eventually forcing you to confront that fear.",
+      "name": "Irontide Raid-Mask",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "sanctified",
+        "item_type": "Medium Armor",
+        "tier": 2,
+        "price": "4600",
+        "icon": "0087_irontide_raidmask_1-icon.webp"
+      }
+    },
+    "0087_irontide_raidmask_2": {
+      "key": "0087_irontide_raidmask_2",
+      "description": "War-Masks granting you immunity to fear, however eventually forcing you to confront that fear.",
+      "name": "Irontide Raid-Mask",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "sanctified",
+        "item_type": "Medium Armor",
+        "tier": 2,
+        "price": "4600",
+        "icon": "0087_irontide_raidmask_2-icon.webp"
+      }
+    },
+    "0087_irontide_raidmask_3": {
+      "key": "0087_irontide_raidmask_3",
+      "description": "War-Mask granting you immunity to fear, however eventually forcing you to confront that fear.",
+      "name": "Irontide Raid-Mask",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "sanctified",
+        "item_type": "Medium Armor",
+        "tier": 2,
+        "price": "4600",
+        "icon": "0087_irontide_raidmask_3-icon.webp"
+      }
+    },
+    "0088_fluttershade_habit": {
+      "key": "0088_fluttershade_habit",
+      "description": "A comfortable hat, attracting moths and butterflies. Their whispers grant you access to more spells and can sooth your allies during a short rest.",
+      "name": "Fluttershade Habit",
+      "properties": {
+        "rarity": "Uncommon",
+        "attunement": true,
+        "origin": "feywoven",
+        "item_type": "Clothing",
+        "tier": 1,
+        "price": "1750",
+        "icon": "0088_fluttershade_habit-icon.webp"
+      }
+    },
+    "0086_gravelord_scepter": {
+      "key": "0086_gravelord_scepter",
+      "description": "Spellfocus boosting your necromancy spells, as well as buffing undead creatures under your control",
+      "name": "Gravelord Scepter",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "occult",
+        "item_type": "Melee Weapon",
+        "tier": 3,
+        "price": "17500",
+        "icon": "0086_gravelord_scepter-icon.webp"
+      }
+    },
+    "0089_staff_of_multiple_minds": {
+      "key": "0089_staff_of_multiple_minds",
+      "description": "Allows you to prepare and cast an additional spell from the wizard spell list and possibly concentrate on two spells.",
+      "name": "Staff of Multiple Minds",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "arcane",
+        "item_type": "Melee Weapon",
+        "tier": 3,
+        "price": "24700",
+        "icon": "0089_staff_of_multiple_minds-icon.webp"
+      }
+    },
+    "0090_lightning_shrike": {
+      "key": "0090_lightning_shrike",
+      "description": "Move and strike like lightning.",
+      "name": "Lightning Shrike",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "elemental",
+        "item_type": "Melee Weapon",
+        "tier": 2,
+        "price": "3600",
+        "icon": "0090_lightning_shrike-icon.webp"
+      }
+    },
+    "0091_dark_promise": {
+      "key": "0091_dark_promise",
+      "description": "Should a creature triumph over you, rise again to haunt it.",
+      "name": "Dark Promise",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "occult",
+        "item_type": "Melee Weapon",
+        "tier": 3,
+        "price": "44800",
+        "icon": "0091_dark_promise-icon.webp"
+      }
+    },
+    "0092_rod_of_the_silent_saint": {
+      "key": "0092_rod_of_the_silent_saint",
+      "description": "Silently cast your spells and silence your enemies to prohibit them from using their voice or spells.",
+      "name": "Rod of the Silent Saint",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "blessed",
+        "item_type": "Trinket",
+        "tier": 3,
+        "price": "32000",
+        "icon": "0092_rod_of_the_silent_saint-icon.webp"
+      }
+    },
+    "0093_sunscorched_shield": {
+      "key": "0093_sunscorched_shield",
+      "description": "Grants resistance to fire damage, can be used to shield allies from fiery harm and to substitute a campfire.",
+      "name": "Sun-Scorched Shield",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "elemental",
+        "item_type": "Shield",
+        "tier": 2,
+        "price": "3800",
+        "icon": "0093_sunscorched_shield-icon.webp"
+      }
+    },
+    "0098_sphinx_key": {
+      "key": "0098_sphinx_key",
+      "description": "Magical key that opens nonmagical locks if you can solve a riddle.",
+      "name": "Sphinx Key",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": false,
+        "origin": "relic",
+        "item_type": "Trinket",
+        "tier": 1,
+        "price": "2850",
+        "icon": "0098_sphinx_key-icon.webp"
+      }
+    },
+    "0099_killing_thought": {
+      "key": "0099_killing_thought",
+      "description": "Crystal blade that you can control with your mind.",
+      "name": "Killing Thought",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "crystalline",
+        "item_type": "Melee Weapon",
+        "tier": 2,
+        "price": "1250",
+        "icon": "0099_killing_thought-icon.webp"
+      }
+    },
+    "0100_latchling_vial": {
+      "key": "0100_latchling_vial",
+      "description": "Vial containing a parasite capable of creating an allied Animated Object.",
+      "name": "Latchling Vial",
+      "properties": {
+        "rarity": "Uncommon",
+        "attunement": false,
+        "origin": "mutation",
+        "item_type": "Consumable",
+        "tier": 1,
+        "price": "480",
+        "icon": "0100_latchling_vial-icon.webp"
+      }
+    },
+    "0101_spookshroud": {
+      "key": "0101_spookshroud",
+      "description": "Spooky veil that lets you turn into a ghost.",
+      "name": "Spookshroud",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "beastforged",
+        "item_type": "Cloak",
+        "tier": 2,
+        "price": "13001",
+        "icon": "0101_spookshroud-icon.webp"
+      }
+    },
+    "0081_truthtaker": {
+      "key": "0081_truthtaker",
+      "description": "Behead a creature, carry its head around, talk to it.",
+      "name": "Truthtaker",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "awoken",
+        "item_type": "Melee Weapon",
+        "tier": 1,
+        "price": "1800",
+        "icon": "0081_truthtaker-icon.webp"
+      }
+    },
+    "0095_muspelhammer": {
+      "key": "0095_muspelhammer",
+      "description": "Imprint a fiery rune unto a weapon or suit of armor, granting extra damage or fire resistance.",
+      "name": "Muspelhammer",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "giantforged",
+        "item_type": "Melee Weapon",
+        "tier": 1,
+        "price": "1800",
+        "icon": "0095_muspelhammer-icon.webp"
+      }
+    },
+    "0094_trench_digger": {
+      "key": "0094_trench_digger",
+      "description": "Create fortified positions gain defensive boni while holding them.",
+      "name": "Trench Digger",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "dwarvenforged",
+        "item_type": "Melee Weapon",
+        "tier": 2,
+        "price": "3100",
+        "icon": "0094_trench_digger-icon.webp"
+      }
+    },
+    "0096_overseers_hardhat": {
+      "key": "0096_overseers_hardhat",
+      "description": "Protects your noggin from non-magical projectiles other occupational hazards.",
+      "name": "Overseers Hardhat",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "dwarvenforged",
+        "item_type": "Clothing",
+        "tier": 2,
+        "price": "2200",
+        "icon": "0096_overseers_hardhat-icon.webp"
+      }
+    },
+    "0097_potion_of_healing": {
+      "key": "0097_potion_of_healing",
+      "description": "Drink to regain an almost negligible amount of hit points.",
+      "name": "Potion of Healing",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "arcane",
+        "item_type": "Consumable",
+        "tier": 1,
+        "price": "50",
+        "icon": "0097_potion_of_healing-icon.webp"
+      }
+    },
+    "0097_potion_of_greater_healing": {
+      "key": "0097_potion_of_greater_healing",
+      "description": "Drink to regain a minor amount of hit points.",
+      "name": "Potion of Greater Healing",
+      "properties": {
+        "rarity": "Uncommon",
+        "attunement": false,
+        "origin": "arcane",
+        "item_type": "Consumable",
+        "tier": 1,
+        "price": "100",
+        "icon": "0097_potion_of_greater_healing-icon.webp"
+      }
+    },
+    "0097_potion_of_superior_healing": {
+      "key": "0097_potion_of_superior_healing",
+      "description": "Drink to regain a respectable amount of hit points.",
+      "name": "Potion of Superior Healing",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": false,
+        "origin": "arcane",
+        "item_type": "Consumable",
+        "tier": 1,
+        "price": "250",
+        "icon": "0097_potion_of_superior_healing-icon.webp"
+      }
+    },
+    "0097_potion_of_supreme_healing": {
+      "key": "0097_potion_of_supreme_healing",
+      "description": "Drink to regain a large amount of hit points.",
+      "name": "Potion of Supreme Healing",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": false,
+        "origin": "arcane",
+        "item_type": "Consumable",
+        "tier": 2,
+        "price": "3500",
+        "icon": "0097_potion_of_greater_healing-icon.webp"
+      }
+    },
+    "0029_the_pilgrims_plate": {
+      "key": "0029_the_pilgrims_plate",
+      "description": "Gain charges as you suffer damage, expend charges to gain damage resistances.",
+      "name": "Pilgrim's Plate",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "ancient",
+        "item_type": "Heavy Armor",
+        "tier": 2,
+        "price": "1800",
+        "icon": "0029_the_pilgrims_plate-icon.webp"
+      }
+    },
+    "0000_bens_test": {
+      "key": "0000_bens_test",
+      "name": "Bens Test",
+      "description": "Dies ist die shot description",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "dwarven_forged",
+        "item_type": "Adventuring Gear",
+        "tier": 3,
+        "price": "12345",
+        "icon": "0000_bens_test-icon.webp"
+      }
+    }
+  }
 }
