@@ -41769,6 +41769,348 @@
                 "download_terms": "SC: Tormentor Camp",
                 "download_creator": "Beneos Battlemaps"
             }
-        }
-    }
-}
+                    },
+                    "99-01_arena_center-4k_BM":{
+                        "name":"arena center",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ruin","Arena","Otherworldly","Exteriour","Civilized"],
+                        "brightness":"Medium",
+                        "grid":"50x50",
+                        "pack":"99_Otherworldly_Arena_Ruins",
+                        "releaseurl":"https://www.patreon.com/posts/eldritch-arena-139132468",
+                        "sibling":"99-01_arena_center-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"99-01_arena_center-4k_bm.webp",
+                        "videourl":"https://www.youtube.com/watch?v=ve5ouWA6Cs8",
+                        "download_pack": "Otherworldly Arena Ruins - 99",
+                        "download_terms": "BM: Arena Center",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "99-01_arena_center-4k_Scen":{
+                                "name":"arena center",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Ruin","Arena","Otherworldly","Exteriour","Civilized"],
+                                "brightness":"Medium",
+                                "grid":"50x50",
+                                "pack":"99_Otherworldly_Arena_Ruins",
+                                "releaseurl":"https://www.patreon.com/posts/eldritch-arena-139132468",
+                                "sibling":"99-01_arena_center-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"99-01_arena_center-4k_scen.webp",
+                                "videourl":"https://www.youtube.com/watch?v=ve5ouWA6Cs8",
+                                "download_pack": "Otherworldly Arena Ruins - 99",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "99-02_arena_east-4k_BM":{
+                        "name":"arena east",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ruin","Arena","Otherworldly","Exteriour","Civilized"],
+                        "brightness":"Medium",
+                        "grid":"40x32",
+                        "pack":"99_Otherworldly_Arena_Ruins",
+                        "releaseurl":"https://www.patreon.com/posts/eldritch-arena-139132468",
+                        "sibling":"99-02_arena_east-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"99-02_arena_east-4k_bm.webp",
+                        "videourl":"https://www.youtube.com/watch?v=ve5ouWA6Cs8",
+                        "download_pack": "Otherworldly Arena Ruins - 99",
+                        "download_terms": "BM: Arena North East",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "99-02_arena_east-4k_Scen":{
+                                "name":"arena east",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Ruin","Arena","Otherworldly","Exteriour","Civilized"],
+                                "brightness":"Medium",
+                                "grid":"40x32",
+                                "pack":"99_Otherworldly_Arena_Ruins",
+                                "releaseurl":"https://www.patreon.com/posts/eldritch-arena-139132468",
+                                "sibling":"99-02_arena_east-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"99-02_arena_east-4k_scen.webp",
+                                "videourl":"https://www.youtube.com/watch?v=ve5ouWA6Cs8",
+                                "download_pack": "Otherworldly Arena Ruins - 99",
+                                "download_terms": "SC: Arena North East",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "99-03_arena_north-4k_BM":{
+                        "name":"arena north",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ruin","Arena","Otherworldly","Exteriour","Civilized"],
+                        "brightness":"Medium",
+                        "grid":"40x32",
+                        "pack":"99_Otherworldly_Arena_Ruins",
+                        "releaseurl":"https://www.patreon.com/posts/eldritch-arena-139132468",
+                        "sibling":"99-03_arena_north-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"99-03_arena_north-4k_bm.webp",
+                        "videourl":"https://www.youtube.com/watch?v=ve5ouWA6Cs8",
+                        "download_pack": "Otherworldly Arena Ruins - 99",
+                        "download_terms": "BM: Arena North West",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "99-03_arena_north-4k_Scen":{
+                                "name":"arena north",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Ruin","Arena","Otherworldly","Exteriour","Civilized"],
+                                "brightness":"Medium",
+                                "grid":"40x32",
+                                "pack":"99_Otherworldly_Arena_Ruins",
+                                "releaseurl":"https://www.patreon.com/posts/eldritch-arena-139132468",
+                                "sibling":"99-03_arena_north-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"99-03_arena_north-4k_scen.webp",
+                                "videourl":"https://www.youtube.com/watch?v=ve5ouWA6Cs8",
+                                "download_pack": "Otherworldly Arena Ruins - 99",
+                                "download_terms": "SC: Arena North West",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "99-04_arena_west-4k_BM":{
+                        "name":"arena west",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ruin","Arena","Otherworldly","Exteriour","Civilized"],
+                        "brightness":"Medium",
+                        "grid":"40x25",
+                        "pack":"99_Otherworldly_Arena_Ruins",
+                        "releaseurl":"https://www.patreon.com/posts/eldritch-arena-139132468",
+                        "sibling":"99-04_arena_west-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"99-04_arena_west-4k_bm.webp",
+                        "videourl":"https://www.youtube.com/watch?v=ve5ouWA6Cs8",
+                        "download_pack": "Otherworldly Arena Ruins - 99",
+                        "download_terms": "BM: Arena South West",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "99-04_arena_west-4k_Scen":{
+                                "name":"arena west",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Ruin","Arena","Otherworldly","Exteriour","Civilized"],
+                                "brightness":"Medium",
+                                "grid":"40x25",
+                                "pack":"99_Otherworldly_Arena_Ruins",
+                                "releaseurl":"https://www.patreon.com/posts/eldritch-arena-139132468",
+                                "sibling":"99-04_arena_west-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"99-04_arena_west-4k_scen.webp",
+                                "videourl":"https://www.youtube.com/watch?v=ve5ouWA6Cs8",
+                                "download_pack": "Otherworldly Arena Ruins - 99",
+                                "download_terms": "SC: Arena South West",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "99-05_arena_south-4k_BM":{
+                        "name":"arena south",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ruin","Arena","Otherworldly","Exteriour","Civilized"],
+                        "brightness":"Medium",
+                        "grid":"40x32",
+                        "pack":"99_Otherworldly_Arena_Ruins",
+                        "releaseurl":"https://www.patreon.com/posts/eldritch-arena-139132468",
+                        "sibling":"99-05_arena_south-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"99-05_arena_south-4k_bm.webp",
+                        "videourl":"https://www.youtube.com/watch?v=ve5ouWA6Cs8",
+                        "download_pack": "Otherworldly Arena Ruins - 99",
+                        "download_terms": "BM: Arena South East",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "99-05_arena_south-4k_Scen":{
+                                "name":"arena south",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Ruin","Arena","Otherworldly","Exteriour","Civilized"],
+                                "brightness":"Medium",
+                                "grid":"40x32",
+                                "pack":"99_Otherworldly_Arena_Ruins",
+                                "releaseurl":"https://www.patreon.com/posts/eldritch-arena-139132468",
+                                "sibling":"99-05_arena_south-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"99-05_arena_south-4k_scen.webp",
+                                "videourl":"https://www.youtube.com/watch?v=ve5ouWA6Cs8",
+                                "download_pack": "Otherworldly Arena Ruins - 99",
+                                "download_terms": "SC: Arena South East",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "99-06_catacombs_south-4k_BM":{
+                        "name":"catacombs south",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ruin","Arena","Otherworldly","Exteriour","Civilized"],
+                        "brightness":"Medium",
+                        "grid":"30x20",
+                        "pack":"99_Otherworldly_Arena_Ruins",
+                        "releaseurl":"https://www.patreon.com/posts/eldritch-arena-139132468",
+                        "sibling":"99-06_catacombs_south-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"99-06_catacombs_south-4k_bm.webp",
+                        "videourl":"https://www.youtube.com/watch?v=ve5ouWA6Cs8",
+                        "download_pack": "Otherworldly Arena Ruins - 99",
+                        "download_terms": "BM: Catacombs South",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "99-06_catacombs_south-4k_Scen":{
+                                "name":"catacombs south",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Ruin","Arena","Otherworldly","Exteriour","Civilized"],
+                                "brightness":"Medium",
+                                "grid":"30x20",
+                                "pack":"99_Otherworldly_Arena_Ruins",
+                                "releaseurl":"https://www.patreon.com/posts/eldritch-arena-139132468",
+                                "sibling":"99-06_catacombs_south-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"99-06_catacombs_south-4k_scen.webp",
+                                "videourl":"https://www.youtube.com/watch?v=ve5ouWA6Cs8",
+                                "download_pack": "Otherworldly Arena Ruins - 99",
+                                "download_terms": "SC: Catacombs South",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "99-07_catacombs_west-4k_BM":{
+                        "name":"catacombs west",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ruin","Arena","Otherworldly","Exteriour","Civilized"],
+                        "brightness":"Medium",
+                        "grid":"30x30",
+                        "pack":"99_Otherworldly_Arena_Ruins",
+                        "releaseurl":"https://www.patreon.com/posts/eldritch-arena-139132468",
+                        "sibling":"99-07_catacombs_west-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"99-07_catacombs_west-4k_bm.webp",
+                        "videourl":"https://www.youtube.com/watch?v=ve5ouWA6Cs8",
+                        "download_pack": "Otherworldly Arena Ruins - 99",
+                        "download_terms": "BM: Catacombs West",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "99-07_catacombs_west-4k_Scen":{
+                                "name":"catacombs west",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Ruin","Arena","Otherworldly","Exteriour","Civilized"],
+                                "brightness":"Medium",
+                                "grid":"30x30",
+                                "pack":"99_Otherworldly_Arena_Ruins",
+                                "releaseurl":"https://www.patreon.com/posts/eldritch-arena-139132468",
+                                "sibling":"99-07_catacombs_west-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"99-07_catacombs_west-4k_scen.webp",
+                                "videourl":"https://www.youtube.com/watch?v=ve5ouWA6Cs8",
+                                "download_pack": "Otherworldly Arena Ruins - 99",
+                                "download_terms": "SC: Catacombs West",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "99-08_catacombs_north-4k_BM":{
+                        "name":"catacombs north",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ruin","Arena","Otherworldly","Exteriour","Civilized"],
+                        "brightness":"Medium",
+                        "grid":"30x20",
+                        "pack":"99_Otherworldly_Arena_Ruins",
+                        "releaseurl":"https://www.patreon.com/posts/eldritch-arena-139132468",
+                        "sibling":"99-08_catacombs_north-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"99-08_catacombs_north-4k_bm.webp",
+                        "videourl":"https://www.youtube.com/watch?v=ve5ouWA6Cs8",
+                        "download_pack": "Otherworldly Arena Ruins - 99",
+                        "download_terms": "BM: Catacombs North ",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "99-08_catacombs_north-4k_Scen":{
+                                "name":"catacombs north",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Ruin","Arena","Otherworldly","Exteriour","Civilized"],
+                                "brightness":"Medium",
+                                "grid":"30x20",
+                                "pack":"99_Otherworldly_Arena_Ruins",
+                                "releaseurl":"https://www.patreon.com/posts/eldritch-arena-139132468",
+                                "sibling":"99-08_catacombs_north-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"99-08_catacombs_north-4k_scen.webp",
+                                "videourl":"https://www.youtube.com/watch?v=ve5ouWA6Cs8",
+                                "download_pack": "Otherworldly Arena Ruins - 99",
+                                "download_terms": "SC: Catacombs North ",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "99-09_catacombs_east-4k_BM":{
+                        "name":"catacombs east",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Ruin","Arena","Otherworldly","Exteriour","Civilized"],
+                        "brightness":"Medium",
+                        "grid":"30x30",
+                        "pack":"99_Otherworldly_Arena_Ruins",
+                        "releaseurl":"https://www.patreon.com/posts/eldritch-arena-139132468",
+                        "sibling":"99-09_catacombs_east-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"99-09_catacombs_east-4k_bm.webp",
+                        "videourl":"https://www.youtube.com/watch?v=ve5ouWA6Cs8",
+                        "download_pack": "Otherworldly Arena Ruins - 99",
+                        "download_terms": "BM: Catacombs East",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "99-09_catacombs_east-4k_Scen":{
+                                "name":"catacombs east",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Ruin","Arena","Otherworldly","Exteriour","Civilized"],
+                                "brightness":"Medium",
+                                "grid":"30x30",
+                                "pack":"99_Otherworldly_Arena_Ruins",
+                                "releaseurl":"https://www.patreon.com/posts/eldritch-arena-139132468",
+                                "sibling":"99-09_catacombs_east-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"99-09_catacombs_east-4k_scen.webp",
+                                "videourl":"https://www.youtube.com/watch?v=ve5ouWA6Cs8",
+                                "download_pack": "Otherworldly Arena Ruins - 99",
+                                "download_terms": "SC: Catacombs East",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                            }
+                        }
+                    }
