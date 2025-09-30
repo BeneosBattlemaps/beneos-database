@@ -29693,7 +29693,7 @@
                                      },
                     "000-month_24_elder_lindwurm":  {
                                                         "description":  "The Elder Lindwyrm is a vast, serpentine abomination:  a body as long as a siege tower is tall,scaled in a sickly sheen of green and bronze, its hide constantly weeping toxic mucus that simmers where it touches soil or stone. it bears no wings or noble bearing, adorns no crests - and it hates the true dragons for that.born of ancient wyrmstock but denied the gifts of flight and majesty, the lindwyrm festers with corrosive jealousy. it despises dragonkind, a bastard sibling clawing at a birthright it was never granted. it does not hoard gold, but slays those who do. it does not rule with majesty, but tears down those who dare. most insidiously, the lindwyrm prefers to strike at those under a dragon’s protection, hunting them not for sustenance, but as bait, each kill an invitation for their patron to come and face it. and when the dragon answers the call, the lindwyrm coils tight, drowning wings in mud and venom, in a desperate attempt to prove superior.",
-                                                        "name":  "Elder Lindwurm",
+                                                        "name":  "Elder Lindwyrm",
                                                         "properties":  {
                                                                            "biom":  [
                                                                                         "swamp",
@@ -29715,7 +29715,8 @@
                                                                            "purpose":  [
                                                                                            "damage",
                                                                                            "debuff",
-                                                                                           "boss"
+                                                                                           "boss",																					
+                                                                                        "classic"
                                                                                        ],
                                                                            "releaseurl":  "https://www.patreon.com/c/beneostokens",
                                                                            "size":  "gargantuan",
@@ -29729,8 +29730,7 @@
                                                                            "stat_wis":  99,
                                                                            "thumbnail":  "000-month_24_elder_lindwurm-1-db.webp",
                                                                            "type":  [
-                                                                                        "dragon",
-                                                                                        "classic"
+                                                                                        "dragon"
                                                                                     ],
                                                                            "videourl":  "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
                                                                            "nb_variants":  1,
