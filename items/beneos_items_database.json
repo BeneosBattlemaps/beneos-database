@@ -565,7 +565,7 @@
     },
     "0044_ghoulskin_gloves": {
       "key": "0044_ghoulskin_gloves",
-      "description": "Made to hunt enormous prey, this knife increases the chance to score critical hits and always deals maximal weapon damage against Huge and larger creatures.",
+      "description": "Strangle and mangle humanoids with the low chance of paralyzing them.",
       "name": "Ghoulskin Gloves",
       "properties": {
         "rarity": "Rare",
@@ -621,7 +621,7 @@
     },
     "0049_wrathfire_talisman": {
       "key": "0049_wrathfire_talisman",
-      "description": "Wreath yourself in scorching Wrathfire, granting you increased damage and resistance at the low cost of turning into a blood-crazed maniac.",
+      "description": "Wreath yourself in scorching Wrathfire, granting you increased damage and resistance at the low cost of risking mindless rage.",
       "name": "Wrathfire Talisman",
       "properties": {
         "rarity": "Rare",
@@ -1041,7 +1041,7 @@
     },
     "0076_mask_of_the_third_eye": {
       "key": "0076_mask_of_the_third_eye",
-      "description": "As you gain Insight, this mask enhances your perception and intellect while granting powerful divinatory and defensive abilities.",
+      "description": "This mask enhances your perception and intellect while granting powerful divinatory and defensive abilities.",
       "name": "Mask Of The Third Eye",
       "properties": {
         "rarity": "Very Rare",
@@ -1470,7 +1470,7 @@
         "item_type": "Consumable",
         "tier": 2,
         "price": "3500",
-        "icon": "0097_potion_of_greater_healing-icon.webp"
+        "icon": "0097_potion_of_supreme_healing-icon.webp"
       }
     },
     "0029_the_pilgrims_plate": {
@@ -1518,7 +1518,7 @@
     "0102_serpents_scales": {
       "key": "0102_serpents_scales",
       "name": "Serpent's Scales",
-      "description": "Stealthy scale mail s serpentine movement and .",
+      "description": "Stealthy scale mail supporting serpentine sneaking.",
       "properties": {
         "rarity": "Rare",
         "attunement": true,
