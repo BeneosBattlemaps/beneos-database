@@ -2646,30 +2646,6 @@
         "icon": "0098_blade_of_burning_blood-icon.webp"
       }
     },
-    "0001_ben_test": {
-      "key": "0001_ben_test",
-      "description": "NEUER TEST NEUER TEST",
-      "name": "Ben Test",
-      "properties": {
-        "level": "4",
-        "school": "Abjuration",
-        "casting_time": "Action",
-        "concentration": true,
-        "ritual": false,
-        "spell_type": "",
-        "classes": [
-          "Cleric",
-          "Paladin",
-          "Rogue"
-        ],
-        "components": [
-          "V",
-          "S",
-          "M"
-        ],
-        "icon": "0001_ben_test-icon.webp"
-      }
-    },
     "0000_paladin_pack_1_desperate_plea": {
       "key": "0000_paladin_pack_1_desperate_plea",
       "description": "Instantly prepare an unprepared spell.",
