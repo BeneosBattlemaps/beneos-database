@@ -12082,6 +12082,46 @@
                                                                                 ]
                                                                }
                                             },
+                    "216-hellracer_hellwright":  {
+                                                     "description":  "Hellwrights have devoted themselves to the soul-devouring furnace-engines of the infernal vehicle pool. over centuries of use, many of these machines begin to develop personalities of their own, and hellwrights are able to get the most out of them through a deliberate mix of carrot and stick — that is, sacrifices and machine curses. hellwrights with similar interests or design philosophies often gather into cult-like conclaves, marked by a suprising amount of jovial cooperation and a subordination of personal quarrels in pursuit of increasingly obscene technological perversions. their loyalty typically lies first with their machines, second with their conclave, and only third with their respective lords or patrons. but due to their vast knowledge and indispensable connections, they are usually granted a fair amount of leeway and autonomy. a fact that hellwrights have learned to exploit with great skill and delight.",
+                                                     "name":  "Hellracer Hellwright",
+                                                     "properties":  {
+                                                                        "biom":  [
+                                                                                     "planar",
+                                                                                     "infernal",
+                                                                                     "road",
+                                                                                     "wastelands"
+                                                                                 ],
+                                                                        "cr":  "5",
+                                                                        "fightingstyle":  "interactive",
+                                                                        "movement":  "walk",
+                                                                        "purpose":  [
+                                                                                        "support",
+                                                                                        "debuff"
+                                                                                    ],
+                                                                        "releaseurl":  "https://www.patreon.com/c/beneostokens",
+                                                                        "size":  "medium",
+                                                                        "stat_ac":  93,
+                                                                        "stat_cha":  94,
+                                                                        "stat_con":  95,
+                                                                        "stat_dex":  96,
+                                                                        "stat_hp":  97,
+                                                                        "stat_int":  96,
+                                                                        "stat_str":  98,
+                                                                        "stat_wis":  99,
+                                                                        "thumbnail":  "216-hellracer_hellwright-1-db.webp",
+                                                                        "type":  [
+                                                                                     "fiend",
+                                                                                     "devil"
+                                                                                 ],
+                                                                        "videourl":  "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
+                                                                        "nb_variants":  3,
+                                                                        "shortdesc":  "Boosts friendly Infernal War Machines, while cursing hostile ones.",
+                                                                        "faction":  "Hellracers",
+                                                                        "source":  "Patreon",
+                                                                        "campaign":  "Descent into Avernus"
+                                                                    }
+                                                 },
                     "000-srd_wererat":  {
                                             "name":  "Wererat",
                                             "description":  "Shapeshifter. Stealthy assaults and savage claws.",
@@ -16805,6 +16845,52 @@
                                                                                     ]
                                                                    }
                                                 },
+                    "000-srd_horned_devil":  {
+                                                 "name":  "Horned Devil",
+                                                 "description":  "Reasonable powerful and able to fly. Impressive melee damage output qualifies it as a disciplined enforcer in the infernal hierarchy.",
+                                                 "properties":  {
+                                                                    "size":  "Large",
+                                                                    "stat_ac":  18,
+                                                                    "stat_cha":  18,
+                                                                    "stat_con":  21,
+                                                                    "stat_dex":  17,
+                                                                    "stat_hp":  199,
+                                                                    "stat_int":  12,
+                                                                    "stat_str":  22,
+                                                                    "stat_wis":  16,
+                                                                    "cr":  11,
+                                                                    "movement":  [
+                                                                                     "Fly",
+                                                                                     "Walk"
+                                                                                 ],
+                                                                    "biom":  [
+                                                                                 "SRD",
+                                                                                 "Planar"
+                                                                             ],
+                                                                    "fightingstyle":  [
+                                                                                          "Melee"
+                                                                                      ],
+                                                                    "purpose":  [
+                                                                                    "Damage"
+                                                                                ],
+                                                                    "releaseurl":  "https://www.patreon.com/c/BeneosTokens",
+                                                                    "videourl":  "https://www.youtube.com/watch?v=fwLYhQJNgKU",
+                                                                    "type":  [
+                                                                                 "fiend",
+                                                                                 "Devil"
+                                                                             ],
+                                                                    "nb_variants":  1,
+                                                                    "thumbnail":  "000-srd_horned_devil-1-db.webp",
+                                                                    "shortdesc":  "Reasonable powerful and able to fly.",
+                                                                    "faction":  [
+
+                                                                                ],
+                                                                    "source":  "SRD",
+                                                                    "campaign":  [
+
+                                                                                 ]
+                                                                }
+                                             },
                     "078-necrovolt_reanimator":  {
                                                      "description":  "The Necrovolt Reanimators are a conclave of deranged scientists who discovered the abyssal Netherstorm, a sentient tempest of howling souls, charged with cracking aether-lightning. Reanimators harness the Netherstorm\u0027s boundless energy with their Necrovoltaic Generators, using it to power various nightmarish machineries and undead constructs. Over time fanatical members of the Reanimator Conclave seemingly discerned sentience within their own devices, remnants of the soul-lightning powering them. This ghost in the machine was dubbed the Necrovolt, a being of unliving lightning made manifest.",
                                                      "name":  "Necrovolt Reanimator",
@@ -28638,57 +28724,6 @@
                                                                            ]
                                                           }
                                        },
-                    "000-srd_giant_spider":  {
-                                                 "name":  "Giant Spider",
-                                                 "description":  "Every arachnophobe\u0027s nightmare made manifest, not as threatening as the Weblurker Arachnid.",
-                                                 "properties":  {
-                                                                    "size":  "Large",
-                                                                    "stat_ac":  12,
-                                                                    "stat_cha":  4,
-                                                                    "stat_con":  12,
-                                                                    "stat_dex":  16,
-                                                                    "stat_hp":  26,
-                                                                    "stat_int":  2,
-                                                                    "stat_str":  14,
-                                                                    "stat_wis":  11,
-                                                                    "cr":  1,
-                                                                    "movement":  [
-                                                                                     "Climb",
-                                                                                     "Walk"
-                                                                                 ],
-                                                                    "biom":  [
-                                                                                 "SRD",
-                                                                                 "Desert",
-                                                                                 "Forest",
-                                                                                 "Swamp",
-                                                                                 "Underdark",
-                                                                                 "Urban"
-                                                                             ],
-                                                                    "fightingstyle":  [
-                                                                                          "Ambush"
-                                                                                      ],
-                                                                    "purpose":  [
-                                                                                    "Hunter",
-                                                                                    "Critter",
-                                                                                    "Classic"
-                                                                                ],
-                                                                    "releaseurl":  "https://www.patreon.com/c/BeneosTokens",
-                                                                    "videourl":  "https://www.youtube.com/watch?v=fwLYhQJNgKU",
-                                                                    "type":  [
-                                                                                 "beast"
-                                                                             ],
-                                                                    "nb_variants":  1,
-                                                                    "thumbnail":  "000-srd_giant_spider-1-db.webp",
-                                                                    "shortdesc":  "Every arachnophobe\u0027s nightmare made manifest, not as threatening as the Weblurker...",
-                                                                    "faction":  [
-
-                                                                                ],
-                                                                    "source":  "SRD",
-                                                                    "campaign":  [
-
-                                                                                 ]
-                                                                }
-                                             },
                     "000-srd_imp":  {
                                         "name":  "Imp",
                                         "description":  "Devious minor fiend adept at sowing chaos.",
@@ -29715,8 +29750,8 @@
                                                                            "purpose":  [
                                                                                            "damage",
                                                                                            "debuff",
-                                                                                           "boss",																					
-                                                                                        "classic"
+                                                                                           "boss",
+                                                                                           "classic"
                                                                                        ],
                                                                            "releaseurl":  "https://www.patreon.com/c/beneostokens",
                                                                            "size":  "gargantuan",
@@ -33567,43 +33602,48 @@
                                                                             ]
                                                            }
                                         },
-                    "000-srd_horned_devil":  {
-                                                 "name":  "Horned Devil",
-                                                 "description":  "Reasonable powerful and able to fly. Impressive melee damage output qualifies it as a disciplined enforcer in the infernal hierarchy.",
+                    "000-srd_giant_spider":  {
+                                                 "name":  "Giant Spider",
+                                                 "description":  "Every arachnophobe\u0027s nightmare made manifest, not as threatening as the Weblurker Arachnid.",
                                                  "properties":  {
                                                                     "size":  "Large",
-                                                                    "stat_ac":  18,
-                                                                    "stat_cha":  18,
-                                                                    "stat_con":  21,
-                                                                    "stat_dex":  17,
-                                                                    "stat_hp":  199,
-                                                                    "stat_int":  12,
-                                                                    "stat_str":  22,
-                                                                    "stat_wis":  16,
-                                                                    "cr":  11,
+                                                                    "stat_ac":  12,
+                                                                    "stat_cha":  4,
+                                                                    "stat_con":  12,
+                                                                    "stat_dex":  16,
+                                                                    "stat_hp":  26,
+                                                                    "stat_int":  2,
+                                                                    "stat_str":  14,
+                                                                    "stat_wis":  11,
+                                                                    "cr":  1,
                                                                     "movement":  [
-                                                                                     "Fly",
+                                                                                     "Climb",
                                                                                      "Walk"
                                                                                  ],
                                                                     "biom":  [
                                                                                  "SRD",
-                                                                                 "Planar"
+                                                                                 "Desert",
+                                                                                 "Forest",
+                                                                                 "Swamp",
+                                                                                 "Underdark",
+                                                                                 "Urban"
                                                                              ],
                                                                     "fightingstyle":  [
-                                                                                          "Melee"
+                                                                                          "Ambush"
                                                                                       ],
                                                                     "purpose":  [
-                                                                                    "Damage"
+                                                                                    "Hunter",
+                                                                                    "Critter",
+                                                                                    "Classic"
                                                                                 ],
                                                                     "releaseurl":  "https://www.patreon.com/c/BeneosTokens",
                                                                     "videourl":  "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                                                                     "type":  [
-                                                                                 "fiend",
-                                                                                 "Devil"
+                                                                                 "beast"
                                                                              ],
                                                                     "nb_variants":  1,
-                                                                    "thumbnail":  "000-srd_horned_devil-1-db.webp",
-                                                                    "shortdesc":  "Reasonable powerful and able to fly.",
+                                                                    "thumbnail":  "000-srd_giant_spider-1-db.webp",
+                                                                    "shortdesc":  "Every arachnophobe\u0027s nightmare made manifest, not as threatening as the Weblurker...",
                                                                     "faction":  [
 
                                                                                 ],

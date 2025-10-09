@@ -2711,6 +2711,35 @@
         ],
         "icon": "0000_paladin_pack_1_shoulder_the_burden-icon.webp"
       }
+    },
+    "0099_crowfathers_kin": {
+      "key": "0099_crowfathers_kin",
+      "description": "A murder of crows hacks at your enmies, blinds them and protects you.",
+      "name": "Crowfather's Kin",
+      "properties": {
+        "level": "4",
+        "school": "Conjuration",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Area Effect",
+        "classes": [
+          "Bard",
+          "Cleric",
+          "Druid",
+          "Paladin",
+          "Ranger",
+          "Sorcerer",
+          "Warlock",
+          "Wizard"
+        ],
+        "components": [
+          "V",
+          "S",
+          "M"
+        ],
+        "icon": "0099_crowfathers_kin-icon.webp"
+      }
     }
   }
 }
