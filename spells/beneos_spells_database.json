@@ -1116,28 +1116,25 @@
     },
     "0044_retrace": {
       "key": "0044_retrace",
-      "description": "Perfectly retrace the path a creature took during the last hour.",
-      "name": "Retrace",
+      "description": "Perfectly retrace the steps a creature took within the last 1 hour.",
+      "name": "RETRACE",
       "properties": {
         "level": "2",
         "school": "Divination",
         "casting_time": "Action",
-        "concentration": false,
+        "concentration": true,
         "ritual": false,
         "spell_type": "Utility",
         "classes": [
-          "Warlock",
-          "Sorcerer",
-          "Ranger",
-          "Druid",
-          "Bard",
           "Cleric",
+          "Druid",
+          "Ranger",
+          "Sorcerer",
+          "Warlock",
           "Wizard"
         ],
         "components": [
-          "V",
-          "S",
-          "M"
+          "S"
         ],
         "icon": "0044_retrace-icon.webp"
       }
@@ -1515,48 +1512,6 @@
           "M"
         ],
         "icon": "0000_paladin_pack_1_shieldwall-icon.webp"
-      }
-    },
-    "0000_paladin_pack_1_shoulder_the_burden": {
-      "key": "0000_paladin_pack_1_shoulder_the_burden",
-      "description": "Granting allies near-immunity to death, the spell ensures they are reduced to 1 hit point instead of 0, with the caster potentially reviving if they die from the strain of sustaining their comrades.",
-      "name": "Shoulder The Burden",
-      "properties": {
-        "level": "4",
-        "school": "Abjuration",
-        "casting_time": "Action",
-        "concentration": false,
-        "ritual": false,
-        "spell_type": "Protection",
-        "classes": [
-          "Paladin"
-        ],
-        "components": [
-          "V",
-          "S"
-        ],
-        "icon": "0000_paladin_pack_1_shoulder_the_burden-icon.webp"
-      }
-    },
-    "0000_paladin_pack_1_desperate_plea": {
-      "key": "0000_paladin_pack_1_desperate_plea",
-      "description": "This spell temporarily grants you the ability to cast a chosen spell without it counting against your usual preparation limit.",
-      "name": "Desperate Plea",
-      "properties": {
-        "level": "1",
-        "school": "Evocation",
-        "casting_time": "Action",
-        "concentration": false,
-        "ritual": false,
-        "spell_type": "Utility",
-        "classes": [
-          "Cleric",
-          "Paladin"
-        ],
-        "components": [
-          "V S M"
-        ],
-        "icon": "0000_paladin_pack_1_desperate_plea-icon.webp"
       }
     },
     "0053_curse_of_corrosion": {
@@ -2691,28 +2646,75 @@
         "icon": "0098_blade_of_burning_blood-icon.webp"
       }
     },
-    "0001_ben_test": {
-      "key": "0001_ben_test",
-      "description": "NEUER TEST NEUER TEST",
-      "name": "Ben Test",
+    "0000_paladin_pack_1_desperate_plea": {
+      "key": "0000_paladin_pack_1_desperate_plea",
+      "description": "Instantly prepare an unprepared spell.",
+      "name": "Desperate Plea",
       "properties": {
-        "level": "4",
-        "school": "Abjuration",
+        "level": "1",
+        "school": "Evocation",
         "casting_time": "Action",
-        "concentration": true,
+        "concentration": false,
         "ritual": false,
-        "spell_type": "",
+        "spell_type": "Utility",
         "classes": [
-          "Cleric",
-          "Paladin",
-          "Rogue"
+          "Paladin"
         ],
         "components": [
           "V",
           "S",
           "M"
         ],
-        "icon": "0001_ben_test-icon.webp"
+        "icon": "0000_paladin_pack_1_desperate_plea-icon.webp"
+      }
+    },
+    "0000_paladin_pack_1_shoulder_the_burden": {
+      "key": "0000_paladin_pack_1_shoulder_the_burden",
+      "description": "Make Death Saving throws to prevent nearby allies from falling unconscious.",
+      "name": "Shoulder the Burden",
+      "properties": {
+        "level": "4",
+        "school": "Abjuration",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Protection",
+        "classes": [
+          "Paladin"
+        ],
+        "components": [
+          "V"
+        ],
+        "icon": "0000_paladin_pack_1_shoulder_the_burden-icon.webp"
+      }
+    },
+    "0099_crowfathers_kin": {
+      "key": "0099_crowfathers_kin",
+      "description": "A murder of crows hacks at your enmies, blinds them and protects you.",
+      "name": "Crowfather's Kin",
+      "properties": {
+        "level": "4",
+        "school": "Conjuration",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Area Effect",
+        "classes": [
+          "Bard",
+          "Cleric",
+          "Druid",
+          "Paladin",
+          "Ranger",
+          "Sorcerer",
+          "Warlock",
+          "Wizard"
+        ],
+        "components": [
+          "V",
+          "S",
+          "M"
+        ],
+        "icon": "0099_crowfathers_kin-icon.webp"
       }
     }
   }

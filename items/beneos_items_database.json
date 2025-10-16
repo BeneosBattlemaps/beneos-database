@@ -565,7 +565,7 @@
     },
     "0044_ghoulskin_gloves": {
       "key": "0044_ghoulskin_gloves",
-      "description": "Made to hunt enormous prey, this knife increases the chance to score critical hits and always deals maximal weapon damage against Huge and larger creatures.",
+      "description": "Strangle and mangle humanoids with the low chance of paralyzing them.",
       "name": "Ghoulskin Gloves",
       "properties": {
         "rarity": "Rare",
@@ -621,7 +621,7 @@
     },
     "0049_wrathfire_talisman": {
       "key": "0049_wrathfire_talisman",
-      "description": "Wreath yourself in scorching Wrathfire, granting you increased damage and resistance at the low cost of turning into a blood-crazed maniac.",
+      "description": "Wreath yourself in scorching Wrathfire, granting you increased damage and resistance at the low cost of risking mindless rage.",
       "name": "Wrathfire Talisman",
       "properties": {
         "rarity": "Rare",
@@ -1041,7 +1041,7 @@
     },
     "0076_mask_of_the_third_eye": {
       "key": "0076_mask_of_the_third_eye",
-      "description": "As you gain Insight, this mask enhances your perception and intellect while granting powerful divinatory and defensive abilities.",
+      "description": "This mask enhances your perception and intellect while granting powerful divinatory and defensive abilities.",
       "name": "Mask Of The Third Eye",
       "properties": {
         "rarity": "Very Rare",
@@ -1470,7 +1470,7 @@
         "item_type": "Consumable",
         "tier": 2,
         "price": "3500",
-        "icon": "0097_potion_of_greater_healing-icon.webp"
+        "icon": "0097_potion_of_supreme_healing-icon.webp"
       }
     },
     "0029_the_pilgrims_plate": {
@@ -1487,18 +1487,75 @@
         "icon": "0029_the_pilgrims_plate-icon.webp"
       }
     },
-    "0000_bens_test": {
-      "key": "0000_bens_test",
-      "name": "Bens Test",
-      "description": "Dies ist die shot description",
+    "0104_crows_perch": {
+      "key": "0104_crows_perch",
+      "name": "Crow's Perch",
+      "description": "Allows you to summon spectral crows, able to fulfill different purposes.",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Rare",
         "attunement": true,
-        "origin": "dwarven_forged",
+        "origin": "occult",
+        "item_type": "Spellfocus",
+        "tier": 2,
+        "price": "4000",
+        "icon": "0104_crows_perch-icon.webp"
+      }
+    },
+    "0103_hellwrights_hexcoil": {
+      "key": "0103_hellwrights_hexcoil",
+      "name": "Hellwright's Hexcoil",
+      "description": "Used to curse constructs and infernal war machines.",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "infernal",
+        "item_type": "Spellfocus",
+        "tier": 2,
+        "price": "3750",
+        "icon": "0103_hellwrights_hexcoil-icon.webp"
+      }
+    },
+    "0102_serpents_scales": {
+      "key": "0102_serpents_scales",
+      "name": "Serpent's Scales",
+      "description": "Stealthy scale mail supporting serpentine sneaking.",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "beastforged",
+        "item_type": "Medium Armor",
+        "tier": 1,
+        "price": "2800",
+        "icon": "0102_serpents_scales-icon.webp"
+      }
+    },
+    "0105_consciousmist_disperser": {
+      "key": "0105_consciousmist_disperser",
+      "name": "Consciousmist Disperser",
+      "description": "Contains intelligent mist enabling various methods of divination and communication.",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "technoarcane",
         "item_type": "Adventuring Gear",
-        "tier": 3,
-        "price": "12345",
-        "icon": "0000_bens_test-icon.webp"
+        "tier": 2,
+        "price": "2300",
+        "icon": "0105_consciousmist_disperser-icon.webp"
+      }
+    },
+    "0105_consciousmist_potion": {
+      "key": "0105_consciousmist_potion",
+      "name": "Consciousmist Potion",
+      "description": "A single dose of Consciousmist, granting methods of divination and communication.",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": false,
+        "origin": "elemental",
+        "item_type": "Potion",
+        "tier": 2,
+        "price": "380",
+        "icon": "0105_consciousmist_potion-icon.webp"
+   
       }
     }
   }
