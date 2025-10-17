@@ -2716,6 +2716,76 @@
         ],
         "icon": "0099_crowfathers_kin-icon.webp"
       }
+    },
+    "0100_stormspear": {
+      "key": "0100_stormspear",
+      "description": "Massive lighting and thunder damage against various targets.",
+      "name": "Stormspear",
+      "properties": {
+        "level": "8",
+        "school": "Evocation",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Ranged Damage",
+        "classes": [
+          "Bard",
+          "Cleric",
+          "Druid",
+          "Sorcerer"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0100_stormspear-icon.webp"
+      }
+    },
+    "0101_supercell": {
+      "key": "0101_supercell",
+      "description": "A chance to strike an enemy each turn, increasing damage until discharge and reset.",
+      "name": "Supercell",
+      "properties": {
+        "level": "2",
+        "school": "Conjuration",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Ranged Damage",
+        "classes": [
+          "Bard",
+          "Druid",
+          "Sorcerer",
+          "Warlock",
+          "Wizard"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0101_supercell-icon.webp"
+      }
+    },
+    "0102_elemental_blessing": {
+      "key": "0102_elemental_blessing",
+      "description": "Add an elemental burst to an ally's weapon as they attack.",
+      "name": "Elemental Blessing",
+      "properties": {
+        "level": "0",
+        "school": "Evocation",
+        "casting_time": "Reaction",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Buff",
+        "classes": [
+          "Druid"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0102_elemental_blessing-icon.webp"
+      }
     }
   }
 }
