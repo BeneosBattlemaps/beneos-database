@@ -18022,6 +18022,53 @@
                                                                           ]
                                                          }
                                       },
+                    "217-ghoul_monarch":  {
+                                              "description":  "Draped in tattered regalia and clinging to a memory of nobility, this towering undead presides over a decaying court of delusion. it is caught in reenactments of tragic pageantry, assigning roles to its ghoulish courtiers in a theatre of obedience, grotesquely mirroring the courtial ceremonies. once, perhaps, it was a noble soul, now it is a broken vessel barely containing starved frenzy. its mind frays at the edges, torn between moments of feral hunger and memories of royal grandeur, collapsing into shame when lucidity returns.",
+                                              "name":  "Ghoul Monarch",
+                                              "properties":  {
+                                                                 "biom":  [
+                                                                              "horror",
+                                                                              "graves",
+                                                                              "catacombs",
+                                                                              "dungeon",
+                                                                              "castle"
+                                                                          ],
+                                                                 "cr":  "14",
+                                                                 "fightingstyle":  [
+                                                                                       "demanding",
+                                                                                       "tactical",
+                                                                                       "interactive"
+                                                                                   ],
+                                                                 "movement":  "walk",
+                                                                 "purpose":  [
+                                                                                 "boss",
+                                                                                 "leader",
+                                                                                 "gimmick",
+																				 "classic"
+                                                                             ],
+                                                                 "releaseurl":  "https://www.patreon.com/c/beneostokens",
+                                                                 "size":  "large",
+                                                                 "stat_ac":  93,
+                                                                 "stat_cha":  94,
+                                                                 "stat_con":  95,
+                                                                 "stat_dex":  96,
+                                                                 "stat_hp":  97,
+                                                                 "stat_int":  96,
+                                                                 "stat_str":  98,
+                                                                 "stat_wis":  99,
+                                                                 "thumbnail":  "217-ghoul_monarch-1-db.webp",
+                                                                 "type":  [
+                                                                              "undead",
+                                                                              "ghoul"
+                                                                          ],
+                                                                 "videourl":  "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
+                                                                 "nb_variants":  1,
+                                                                 "shortdesc":  "A tragic fallen king teetering at the brink of delusion and madness.",
+                                                                 "faction":  "Ghoul Empire",
+                                                                 "source":  "Patreon",
+                                                                 "campaign":  "Curse of Strahd"
+                                                             }
+                                          },
                     "017-dwarven_king":  {
                                              "description":  "Dwarven Kings do not rule by birthright alone, but command respect earned by dilligence, grit and merit. Dwarves are a proud and stubborn folk and while they appreciate the rigid structures of monarchy, they need a reason for why a specific individual should hold the power to rule the grand cave cities, vast mountain halls and stalwart hill fortresses of dwarvenkind. However, if an aspirant to the throne manages to endure the ordeals and rites necessary to claim the title of king, their subjects serve them with unwavering loyalty. Each Dwarven King is a statesman, general and master craftsman with a body of granite, a soul of iron and a heart of gold.",
                                              "name":  "Dwarven King",
