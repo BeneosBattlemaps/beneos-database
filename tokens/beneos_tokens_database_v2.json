@@ -3925,6 +3925,50 @@
                                                                                ]
                                                               }
                                            },
+                    "219-giant_mantis_consort":  {
+                                                     "description":  "there are various factors that can cause ordinary creatures and critters to grow to monstrous size. their true danger often stems from the fact that not only are their physical attributes  massively magnified, which especially for insects more often than not is nightmarish in its own right, but also behavioral traits are manifested in extreme ways. in the case of the giant mantis, the mating rituals of female and male representatives can spiral into catastrophic proportions. swarms of frenzied male consorts attempt to prove their worth as hunters and defenders to a towering bride, resulting in dramatic declines in local populations. the consorts are locked in a destructive competition for the favor of the bride. driven by the presence of their coveted queen and surrounded by countless rivals, they hurl themselves into the fray with little regard for their own safety. each selects what they deem to be a worthy offering and attempts to present it to their capricious bride-to-be, often only to be consumed by her on the spot. should a consort be fortunate enough to win her favor, he remains by her side to defend her, hoping that—once the dust has settled—he may finally mate with her. but even this act is rarely without fatal consequences.",
+                                                     "name":  "Giant Mantis Consort",
+                                                     "properties":  {
+                                                                        "biom":  [
+                                                                                     "jungle",
+                                                                                     "forest",
+                                                                                     "wilderness",
+                                                                                     "dungeon",
+                                                                                     "road"
+                                                                                 ],
+                                                                        "cr":  "3",
+                                                                        "fightingstyle":  [
+                                                                                              "pack",
+                                                                                              "melee"
+                                                                                          ],
+                                                                        "movement":  "walk",
+                                                                        "purpose":  [
+                                                                                        "minion",
+                                                                                        "gimmick"
+                                                                                    ],
+                                                                        "releaseurl":  "https://www.patreon.com/c/beneostokens",
+                                                                        "size":  "large",
+                                                                        "stat_ac":  93,
+                                                                        "stat_cha":  94,
+                                                                        "stat_con":  95,
+                                                                        "stat_dex":  96,
+                                                                        "stat_hp":  97,
+                                                                        "stat_int":  96,
+                                                                        "stat_str":  98,
+                                                                        "stat_wis":  99,
+                                                                        "thumbnail":  "219-giant_mantis_consort-1-db.webp",
+                                                                        "type":  [
+                                                                                     "beast",
+                                                                                     "insect"
+                                                                                 ],
+                                                                        "videourl":  "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
+                                                                        "nb_variants":  3,
+                                                                        "shortdesc":  "Captures prey and presents it to his bride with middling success.",
+                                                                        "faction":  "",
+                                                                        "source":  "Patreon",
+                                                                        "campaign":  "Tomb of Annihilation"
+                                                                    }
+                                                 },
                     "063-beckoning_devil":  {
                                                 "description":  "Insidious manipulator, embraces creatures to bring under his thrall, capable of erasing any trace of its existence.",
                                                 "name":  "Beckoning Devil",
@@ -17874,6 +17918,50 @@
                                                                             ]
                                                            }
                                         },
+                    "218-giant_mantis_bride":  {
+                                                   "description":  "There are various factors that can cause ordinary creatures and critters to grow to monstrous size. their true danger often stems from the fact that not only are their physical attributes  massively magnified, which especially for insects more often than not is nightmarish in its own right, but also behavioral traits are manifested in extreme ways. in the case of the giant mantis, the mating rituals of female and male representatives can spiral into catastrophic proportions. swarms of frenzied male consorts attempt to prove their worth as hunters and defenders to a towering bride, resulting in dramatic declines in local populations. the mantis bride stands at the heart of the frenzy—vastly larger than the males and immeasurably more dangerous. she rules over her hopelessly enamored consorts with an iron claw, demanding a constant offering of worthy prey. she does not hesitate for a moment to punish an unworthy gift by devouring the hopeful suitor on the spot.",
+                                                   "name":  "Giant Mantis Bride",
+                                                   "properties":  {
+                                                                      "biom":  [
+                                                                                   "jungle",
+                                                                                   "forest",
+                                                                                   "wilderness",
+                                                                                   "dungeon",
+                                                                                   "road"
+                                                                               ],
+                                                                      "cr":  "6",
+                                                                      "fightingstyle":  [
+                                                                                            "interactive",
+                                                                                            "melee"
+                                                                                        ],
+                                                                      "movement":  "walk",
+                                                                      "purpose":  [
+                                                                                      "leader",
+                                                                                      "support"
+                                                                                  ],
+                                                                      "releaseurl":  "https://www.patreon.com/c/beneostokens",
+                                                                      "size":  "huge",
+                                                                      "stat_ac":  93,
+                                                                      "stat_cha":  94,
+                                                                      "stat_con":  95,
+                                                                      "stat_dex":  96,
+                                                                      "stat_hp":  97,
+                                                                      "stat_int":  96,
+                                                                      "stat_str":  98,
+                                                                      "stat_wis":  99,
+                                                                      "thumbnail":  "218-giant_mantis_bride-1-db.webp",
+                                                                      "type":  [
+                                                                                   "beast",
+                                                                                   "insect"
+                                                                               ],
+                                                                      "videourl":  "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
+                                                                      "nb_variants":  2,
+                                                                      "shortdesc":  "Leads a swarm of desperate Consorts into battle.",
+                                                                      "faction":  "",
+                                                                      "source":  "Patreon",
+                                                                      "campaign":  "Tomb of Annihilation"
+                                                                  }
+                                               },
                     "000-month_23_living_fossil_tyrannosaurus":  {
                                                                      "description":  "Ancient fossils infused with primordial magic awaken, combining primal might and elemental power.",
                                                                      "name":  "Living Fossil Tyrannosaurus",
@@ -18044,7 +18132,7 @@
                                                                                  "boss",
                                                                                  "leader",
                                                                                  "gimmick",
-																				 "classic"
+                                                                                 "classic"
                                                                              ],
                                                                  "releaseurl":  "https://www.patreon.com/c/beneostokens",
                                                                  "size":  "large",
