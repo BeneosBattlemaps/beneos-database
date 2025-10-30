@@ -42111,6 +42111,310 @@
                                 "download_terms": "SC: Catacombs East",
                                 "download_creator": "Beneos Battlemaps"
                                 }
+                    },
+                    "100-01_knucklebone_gate-4k_BM":{
+                        "name":"knucklebone gate",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Steampunk","Fortress","Junkyard","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"38x25",
+                        "pack":"100_DiA_03_Fort_Knucklebone",
+                        "releaseurl":"https://www.patreon.com/posts/fort-knucklebone-141644964",
+                        "sibling":"100-01_knucklebone_gate-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"100-01_knucklebone_gate-4k_bm.webp",
+                        "videourl":"https://www.youtube.com/watch?v=WQymVpik-PM",
+                        "download_pack": "DiA - 03 Fort Knucklebone - 100",
+                        "download_terms": "BM: knucklebone gate",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "100-01_knucklebone_gate-4k_Scen":{
+                                "name":"knucklebone gate",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Steampunk","Fortress","Junkyard","Exteriour"],
+                                "brightness":"Medium",
+                                "grid":"38x25",
+                                "pack":"100_DiA_03_Fort_Knucklebone",
+                                "releaseurl":"https://www.patreon.com/posts/fort-knucklebone-141644964",
+                                "sibling":"100-01_knucklebone_gate-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"100-01_knucklebone_gate-4k_scen.webp",
+                                "videourl":"https://www.youtube.com/watch?v=WQymVpik-PM",
+                                "download_pack": "DiA - 03 Fort Knucklebone - 100",
+                                "download_terms": "SC: knucklebone gate",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "100-02_knucklebone_junkyard-4k_BM":{
+                        "name":"knucklebone junkyard",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Steampunk","Junkyard","Exteriour","Vehicle"],
+                        "brightness":"Medium",
+                        "grid":"35x20",
+                        "pack":"100_DiA_03_Fort_Knucklebone",
+                        "releaseurl":"https://www.patreon.com/posts/fort-knucklebone-141644964",
+                        "sibling":"100-02_knucklebone_junkyard-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"100-02_knucklebone_junkyard-4k_bm.webp",
+                        "videourl":"https://www.youtube.com/watch?v=WQymVpik-PM",
+                        "download_pack": "DiA - 03 Fort Knucklebone - 100",
+                        "download_terms": "BM: knucklebone junkyard",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "100-02_knucklebone_junkyard-4k_Scen":{
+                                "name":"knucklebone junkyard",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Steampunk","Junkyard","Exteriour","Vehicle"],
+                                "brightness":"Medium",
+                                "grid":"35x20",
+                                "pack":"100_DiA_03_Fort_Knucklebone",
+                                "releaseurl":"https://www.patreon.com/posts/fort-knucklebone-141644964",
+                                "sibling":"100-02_knucklebone_junkyard-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"100-02_knucklebone_junkyard-4k_scen.webp",
+                                "videourl":"https://www.youtube.com/watch?v=WQymVpik-PM",
+                                "download_pack": "DiA - 03 Fort Knucklebone - 100",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "100-03_knucklebone_tinkers_shed-4k_BM":{
+                        "name":"knucklebone tinkers shed",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Steampunk","Workshop","Wreckage","Interiour","Vehicle"],
+                        "brightness":"Medium",
+                        "grid":"35x20",
+                        "pack":"100_DiA_03_Fort_Knucklebone",
+                        "releaseurl":"https://www.patreon.com/posts/fort-knucklebone-141644964",
+                        "sibling":"100-03_knucklebone_tinkers_shed-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"100-03_knucklebone_tinkers_shed-4k_bm.webp",
+                        "videourl":"https://www.youtube.com/watch?v=WQymVpik-PM",
+                        "download_pack": "DiA - 03 Fort Knucklebone - 100",
+                        "download_terms": "BM: knucklebone tinkers shed",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "100-03_knucklebone_tinkers_shed-4k_Scen":{
+                                "name":"knucklebone tinkers shed",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Steampunk","Workshop","Wreckage","Interiour","Vehicle"],
+                                "brightness":"Medium",
+                                "grid":"35x20",
+                                "pack":"100_DiA_03_Fort_Knucklebone",
+                                "releaseurl":"https://www.patreon.com/posts/fort-knucklebone-141644964",
+                                "sibling":"100-03_knucklebone_tinkers_shed-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"100-03_knucklebone_tinkers_shed-4k_scen.webp",
+                                "videourl":"https://www.youtube.com/watch?v=WQymVpik-PM",
+                                "download_pack": "DiA - 03 Fort Knucklebone - 100",
+                                "download_terms": "SC: knucklebone tinkers shed",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "100-04_knucklebone_tent_hostel-4k_BM":{
+                        "name":"knucklebone tent hostel",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Steampunk","Tavern","Exteriour","Junkyard"],
+                        "brightness":"Medium",
+                        "grid":"40x40",
+                        "pack":"100_DiA_03_Fort_Knucklebone",
+                        "releaseurl":"https://www.patreon.com/posts/fort-knucklebone-141644964",
+                        "sibling":"100-04_knucklebone_tent_hostel-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"100-04_knucklebone_tent_hostel-4k_bm.webp",
+                        "videourl":"https://www.youtube.com/watch?v=WQymVpik-PM",
+                        "download_pack": "DiA - 03 Fort Knucklebone - 100",
+                        "download_terms": "BM: knucklebone tent hostel",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "100-04_knucklebone_tent_hostel-4k_Scen":{
+                                "name":"knucklebone tent hostel",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Steampunk","Tavern","Exteriour","Junkyard"],
+                                "brightness":"Medium",
+                                "grid":"40x40",
+                                "pack":"100_DiA_03_Fort_Knucklebone",
+                                "releaseurl":"https://www.patreon.com/posts/fort-knucklebone-141644964",
+                                "sibling":"100-04_knucklebone_tent_hostel-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"100-04_knucklebone_tent_hostel-4k_scen.webp",
+                                "videourl":"https://www.youtube.com/watch?v=WQymVpik-PM",
+                                "download_pack": "DiA - 03 Fort Knucklebone - 100",
+                                "download_terms": "SC: knucklebone tent hostel",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "100-05_knucklebone_arcade-4k_BM":{
+                        "name":"knucklebone arcade",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Steampunk","Shop","Exteriour","Junkyard"],
+                        "brightness":"Medium",
+                        "grid":"40x40",
+                        "pack":"100_DiA_03_Fort_Knucklebone",
+                        "releaseurl":"https://www.patreon.com/posts/fort-knucklebone-141644964",
+                        "sibling":"100-05_knucklebone_arcade-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"100-05_knucklebone_arcade-4k_bm.webp",
+                        "videourl":"https://www.youtube.com/watch?v=WQymVpik-PM",
+                        "download_pack": "DiA - 03 Fort Knucklebone - 100",
+                        "download_terms": "BM: knucklebone arcade",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "100-05_knucklebone_arcade-4k_Scen":{
+                                "name":"knucklebone arcade",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Steampunk","Shop","Exteriour","Junkyard"],
+                                "brightness":"Medium",
+                                "grid":"40x40",
+                                "pack":"100_DiA_03_Fort_Knucklebone",
+                                "releaseurl":"https://www.patreon.com/posts/fort-knucklebone-141644964",
+                                "sibling":"100-05_knucklebone_arcade-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"100-05_knucklebone_arcade-4k_scen.webp",
+                                "videourl":"https://www.youtube.com/watch?v=WQymVpik-PM",
+                                "download_pack": "DiA - 03 Fort Knucklebone - 100",
+                                "download_terms": "SC: knucklebone arcade",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "100-06_knucklebone_maggies_lair-4k_BM":{
+                        "name":"knucklebone maggies lair",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Dungeon","Steampunk","Underground","Interiour","Laboratory"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"100_DiA_03_Fort_Knucklebone",
+                        "releaseurl":"https://www.patreon.com/posts/fort-knucklebone-141644964",
+                        "sibling":"100-06_knucklebone_maggies_lair-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"100-06_knucklebone_maggies_lair-4k_bm.webp",
+                        "videourl":"https://www.youtube.com/watch?v=WQymVpik-PM",
+                        "download_pack": "DiA - 03 Fort Knucklebone - 100",
+                        "download_terms": "BM: knucklebone maggies lair",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "100-06_knucklebone_maggies_lair-4k_Scen":{
+                                "name":"knucklebone maggies lair",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Dungeon","Steampunk","Underground","Interiour","Laboratory"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"100_DiA_03_Fort_Knucklebone",
+                                "releaseurl":"https://www.patreon.com/posts/fort-knucklebone-141644964",
+                                "sibling":"100-06_knucklebone_maggies_lair-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"100-06_knucklebone_maggies_lair-4k_scen.webp",
+                                "videourl":"https://www.youtube.com/watch?v=WQymVpik-PM",
+                                "download_pack": "DiA - 03 Fort Knucklebone - 100",
+                                "download_terms": "SC: knucklebone maggies lair",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "100-07_knucklebone_dream_machine-4k_BM":{
+                        "name":"knucklebone dream machine",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Steampunk","Hell","Industrial","Futuristic","Manufacture","Special"],
+                        "brightness":"Medium",
+                        "grid":"23x15",
+                        "pack":"100_DiA_03_Fort_Knucklebone",
+                        "releaseurl":"https://www.patreon.com/posts/fort-knucklebone-141644964",
+                        "sibling":"100-07_knucklebone_dream_machine-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"100-07_knucklebone_dream_machine-4k_bm.webp",
+                        "videourl":"https://www.youtube.com/watch?v=WQymVpik-PM",
+                        "download_pack": "DiA - 03 Fort Knucklebone - 100",
+                        "download_terms": "BM: knucklebone dream machine",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "100-07_knucklebone_dream_machine-4k_Scen":{
+                                "name":"knucklebone dream machine",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Steampunk","Hell","Industrial","Futuristic","Manufacture","Special"],
+                                "brightness":"Medium",
+                                "grid":"23x15",
+                                "pack":"100_DiA_03_Fort_Knucklebone",
+                                "releaseurl":"https://www.patreon.com/posts/fort-knucklebone-141644964",
+                                "sibling":"100-07_knucklebone_dream_machine-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"100-07_knucklebone_dream_machine-4k_scen.webp",
+                                "videourl":"https://www.youtube.com/watch?v=WQymVpik-PM",
+                                "download_pack": "DiA - 03 Fort Knucklebone - 100",
+                                "download_terms": "SC: knucklebone dream machine",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "100-08_knucklebone_the_well_tavern-4k_BM":{
+                        "name":"knucklebone the well tavern",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Otherworldly","Steampunk","Tavern","Interiour","Cave"],
+                        "brightness":"Medium",
+                        "grid":"30x30",
+                        "pack":"100_DiA_03_Fort_Knucklebone",
+                        "releaseurl":"https://www.patreon.com/posts/fort-knucklebone-141644964",
+                        "sibling":"100-08_knucklebone_the_well_tavern-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"100-08_knucklebone_the_well_tavern-4k_bm.webp",
+                        "videourl":"https://www.youtube.com/watch?v=WQymVpik-PM",
+                        "download_pack": "DiA - 03 Fort Knucklebone - 100",
+                        "download_terms": "BM: knucklebone the well tavern",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "100-08_knucklebone_the_well_tavern-4k_Scen":{
+                                "name":"knucklebone the well tavern",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Otherworldly","Steampunk","Tavern","Interiour","Cave"],
+                                "brightness":"Medium",
+                                "grid":"30x30",
+                                "pack":"100_DiA_03_Fort_Knucklebone",
+                                "releaseurl":"https://www.patreon.com/posts/fort-knucklebone-141644964",
+                                "sibling":"100-08_knucklebone_the_well_tavern-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"100-08_knucklebone_the_well_tavern-4k_scen.webp",
+                                "videourl":"https://www.youtube.com/watch?v=WQymVpik-PM",
+                                "download_pack": "DiA - 03 Fort Knucklebone - 100",
+                                "download_terms": "SC: knucklebone the well tavern",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                            }
+                        }
                     }
-                  }
-               }
