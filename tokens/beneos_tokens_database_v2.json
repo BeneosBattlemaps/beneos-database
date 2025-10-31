@@ -1281,7 +1281,7 @@
 			}
 		},
 		"048-stormwyvern": {
-			"description": "An especially powerful Blue dragon can infuse a wyvern with its arcane draconic energy, elevating it to a Stormwyvern. Stormwyverns are bestowed a semblance of their master\u0027s elemental affinity and cunning. They serve in the dragon\u0027s forces as heralds and subcommanders, their increased intelligence allowing for a rudimentary grasp on the draconic language and a crude understanding of battle tactics.",
+			"description": "An especially powerful Blue dragon can infuse a wyvern with its arcane draconic energy, elevating it to a Stormwyvern. Stormwyverns are bestowed a semblance of their master's elemental affinity and cunning. They serve in the dragon's forces as heralds and subcommanders, their increased intelligence allowing for a rudimentary grasp on the draconic language and a crude understanding of battle tactics.",
 			"name": "Stormwyvern",
 			"properties": {
 				"biom": [
@@ -1458,7 +1458,7 @@
 			}
 		},
 		"000-month_12_weavstress": {
-			"description": "The Weavstress is a sinister creature, the extent of its cruel and deceitful nature hidden behind this unassuming title. This colossal arachnid weaves its silvery threads into intricate traps, capable of spinning almost invisible, delicate strands and massive ropes with the strength of steel cables. These threads are soaked in narcotic secretions, inducing hallucinations or narcoleptic episodes. Sleeping creatures are then controlled by the Weavstresses spider-like brood, the Dreamweavers, through narcotic poisons, acting against their will and dancing to the ethereal tunes of the Weavstresses\u0027 haunting song.",
+			"description": "The Weavstress is a sinister creature, the extent of its cruel and deceitful nature hidden behind this unassuming title. This colossal arachnid weaves its silvery threads into intricate traps, capable of spinning almost invisible, delicate strands and massive ropes with the strength of steel cables. These threads are soaked in narcotic secretions, inducing hallucinations or narcoleptic episodes. Sleeping creatures are then controlled by the Weavstresses spider-like brood, the Dreamweavers, through narcotic poisons, acting against their will and dancing to the ethereal tunes of the Weavstresses' haunting song.",
 			"name": "Weavstress",
 			"properties": {
 				"biom": [
@@ -1772,7 +1772,7 @@
 			}
 		},
 		"022-orc_shaman": {
-			"description": "Shamans are the spiritual leaders of an orc warhost. They maintain the moral of the troops by conducting bonding rituals and are generally tasked with a wide array of ceremonial duties. Even though they are feared and respected, Shamans often are outsiders, as their reclusive nature and connection to the spiritual world warps them into capricious eccentrics. Most Shamans are not bound to any host, as their true loyalty lies with the shamanistic covens they belong to, often only supporting a host chief when their reign of terror furthers the Shamans own, often concealed, agenda. In combat, Shamans are fearsome opponents who may call upon forces of nature to bring their enemies to their knees. They are able to call upon aid from beyond the Graves and inspire the troops surrounding them to fight even harder, as they feel their ancestor\u0027s gaze upon them.",
+			"description": "Shamans are the spiritual leaders of an orc warhost. They maintain the moral of the troops by conducting bonding rituals and are generally tasked with a wide array of ceremonial duties. Even though they are feared and respected, Shamans often are outsiders, as their reclusive nature and connection to the spiritual world warps them into capricious eccentrics. Most Shamans are not bound to any host, as their true loyalty lies with the shamanistic covens they belong to, often only supporting a host chief when their reign of terror furthers the Shamans own, often concealed, agenda. In combat, Shamans are fearsome opponents who may call upon forces of nature to bring their enemies to their knees. They are able to call upon aid from beyond the Graves and inspire the troops surrounding them to fight even harder, as they feel their ancestor's gaze upon them.",
 			"name": "Orc Shaman",
 			"properties": {
 				"biom": [
@@ -1954,7 +1954,7 @@
 			}
 		},
 		"012-cipactli": {
-			"description": "Cipactli are the alleged offspring of a reptilian river god feared for his boundless rage. They roam mangrove forests and tropical river banks in packs, behaving very territorial and highly aggressive towards any kind of encroachment. Their social behaviour is suprisingly complex, with them displaying their martial skills through ritualized combat among each other. However, if isolated from its pack, a Cipactli can form an equally strong bond with any creature able to gain the Cipactli\u0027s respect by demonstrating superior prowess. Indigenous tribes have been observed utilizing bonded Cipactli as status symbols, as well as beasts of burden or instruments of war. Tribal legends tell of champions riding into battle mounted on a rampaging Cipactli, battering aside enemies and jungle trees alike in a display of rage worthy of their eponymous genitor.",
+			"description": "Cipactli are the alleged offspring of a reptilian river god feared for his boundless rage. They roam mangrove forests and tropical river banks in packs, behaving very territorial and highly aggressive towards any kind of encroachment. Their social behaviour is suprisingly complex, with them displaying their martial skills through ritualized combat among each other. However, if isolated from its pack, a Cipactli can form an equally strong bond with any creature able to gain the Cipactli's respect by demonstrating superior prowess. Indigenous tribes have been observed utilizing bonded Cipactli as status symbols, as well as beasts of burden or instruments of war. Tribal legends tell of champions riding into battle mounted on a rampaging Cipactli, battering aside enemies and jungle trees alike in a display of rage worthy of their eponymous genitor.",
 			"name": "Cipactli",
 			"properties": {
 				"biom": [
@@ -2775,7 +2775,7 @@
 			}
 		},
 		"018-giant_spider": {
-			"description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don\u0027t, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
+			"description": "Based on your disposition towards spiders in general, a confrontation with Megaarachnids can range from unpleasant to traumatising. They are vicious predators who are dangerous when you see them, as they can unexpectedly cross surprising distances with mighty leaps, but infinitively more dangerous if you don't, as they excel at lurking in the shadows while waiting in their web, eager to strike as their prey becomes more and more entangled. Megaarachnids usually hunt alone or in small packs to take down bigger prey, but are also known to band together in vast colonies, occupying claustrophobic burrows or abandoned structures, creating a web-covered and egg-filled nightmare realm littered with the dried out husks of their victims.",
 			"name": "Weblurker Arachnid",
 			"properties": {
 				"biom": [
@@ -2876,7 +2876,7 @@
 		},
 		"000-srd_will_o_wisp": {
 			"name": "Will o Wisp",
-			"description": "A will-o\u0027-wisp glows to lure wanderers into traps before striking with arcane shock.",
+			"description": "A will-o'-wisp glows to lure wanderers into traps before striking with arcane shock.",
 			"properties": {
 				"size": "Tiny",
 				"stat_ac": 12,
@@ -2911,7 +2911,7 @@
 				],
 				"nb_variants": 1,
 				"thumbnail": "000-srd_will_o_wisp-1-db.webp",
-				"shortdesc": "A will-o\u0027-wisp glows to lure wanderers into traps before striking with arcane shock.",
+				"shortdesc": "A will-o'-wisp glows to lure wanderers into traps before striking with arcane shock.",
 				"faction": [],
 				"source": "SRD",
 				"campaign": []
@@ -3127,7 +3127,7 @@
 			}
 		},
 		"000-month_4_valkyrie": {
-			"description": "The Valkyrie\u0027s purpose transcends mere escorts of the fallen, for they are seekers of the Allfather\u0027s mightiest foes across all realms. Traversing the boundless expanse of countless worlds, they remain unyielding in their quest, the relentless pursuit of proving their mettle, that they may someday prove skillful enough to perceive the skeins of fate, recognizing warriors worthy of a place within the golden halls of heroism. Forged in the fires of battle and beaten into shape upon the anvil of her expectations, there are no greater warriors than those growing under the winged shadow of the Allfather\u0027s champions.",
+			"description": "The Valkyrie's purpose transcends mere escorts of the fallen, for they are seekers of the Allfather's mightiest foes across all realms. Traversing the boundless expanse of countless worlds, they remain unyielding in their quest, the relentless pursuit of proving their mettle, that they may someday prove skillful enough to perceive the skeins of fate, recognizing warriors worthy of a place within the golden halls of heroism. Forged in the fires of battle and beaten into shape upon the anvil of her expectations, there are no greater warriors than those growing under the winged shadow of the Allfather's champions.",
 			"name": "Valkyrie",
 			"properties": {
 				"biom": [
@@ -3170,7 +3170,7 @@
 				],
 				"videourl": "https://youtu.be/CoFpWUb5aWg",
 				"nb_variants": 1,
-				"shortdesc": "The Valkyrie\u0027s purpose transcends mere escorts of the fallen, for they are seekers of...",
+				"shortdesc": "The Valkyrie's purpose transcends mere escorts of the fallen, for they are seekers of...",
 				"faction": [],
 				"source": "Loyalty Token",
 				"campaign": []
@@ -3311,7 +3311,7 @@
 		},
 		"000-srd_giant_scorpion": {
 			"name": "Giant Scorpion",
-			"description": "Nature\u0027s hoplite, clad in chitinous plate and wielding a lethal spear.",
+			"description": "Nature's hoplite, clad in chitinous plate and wielding a lethal spear.",
 			"properties": {
 				"size": "Large",
 				"stat_ac": 12,
@@ -3342,7 +3342,7 @@
 				],
 				"nb_variants": 1,
 				"thumbnail": "000-srd_giant_scorpion-1-db.webp",
-				"shortdesc": "Nature\u0027s hoplite, clad in chitinous plate and wielding a lethal spear.",
+				"shortdesc": "Nature's hoplite, clad in chitinous plate and wielding a lethal spear.",
 				"faction": [],
 				"source": "SRD",
 				"campaign": []
@@ -3478,7 +3478,7 @@
 			}
 		},
 		"116-mawbloom_creepling": {
-			"description": "Creeplings are miniature Mawblooms in an infant stadium. They emerge from underground spawn-pods attached to the Mawbloom\u0027s Gravesroots and are the Mawbloom\u0027s primary form of reproduction, attaching to unsuspecting targets to drain them of nutrients, before seeking out new territories to become stationary and grow into Voracious Mawblooms themselves.",
+			"description": "Creeplings are miniature Mawblooms in an infant stadium. They emerge from underground spawn-pods attached to the Mawbloom's Gravesroots and are the Mawbloom's primary form of reproduction, attaching to unsuspecting targets to drain them of nutrients, before seeking out new territories to become stationary and grow into Voracious Mawblooms themselves.",
 			"name": "Mawbloom Creepling",
 			"properties": {
 				"biom": [
@@ -3523,7 +3523,7 @@
 			}
 		},
 		"141-troll_ironhead": {
-			"description": "Heavily armored elite with its mood shifts radically altering an encounter\u0027s dynamic.",
+			"description": "Heavily armored elite with its mood shifts radically altering an encounter's dynamic.",
 			"name": "Troll Ironhead",
 			"properties": {
 				"biom": [
@@ -3565,7 +3565,7 @@
 				],
 				"videourl": "https://youtu.be/wsMBuFJ9dWI?si=W692xmlgjrj0MDH7",
 				"nb_variants": 1,
-				"shortdesc": "Heavily armored elite with its mood shifts radically altering an encounter\u0027s dynamic.",
+				"shortdesc": "Heavily armored elite with its mood shifts radically altering an encounter's dynamic.",
 				"faction": [
 					"Iron Fists"
 				],
@@ -3760,7 +3760,7 @@
 			}
 		},
 		"000-month_9_forge_devil": {
-			"description": "Forge Devils revel in subjugation, be it the subjugation of elements within their hellish forge complexes, the submission of those who kneel to grasp a morsel of the forbidden arts and infernal intricacies of the Devil\u0027s own craftsmanship, or the subjugation of entire peoples by armies clad in hellforged iron.",
+			"description": "Forge Devils revel in subjugation, be it the subjugation of elements within their hellish forge complexes, the submission of those who kneel to grasp a morsel of the forbidden arts and infernal intricacies of the Devil's own craftsmanship, or the subjugation of entire peoples by armies clad in hellforged iron.",
 			"name": "Forge Devil",
 			"properties": {
 				"biom": [
@@ -4379,7 +4379,7 @@
 			}
 		},
 		"055-klabautermann": {
-			"description": "Serves as a ship\u0027s guardian, capable of repelling attackers and bolstering defenders, weaponizes the ship itself.",
+			"description": "Serves as a ship's guardian, capable of repelling attackers and bolstering defenders, weaponizes the ship itself.",
 			"name": "Klabautermann",
 			"properties": {
 				"biom": [
@@ -4421,7 +4421,7 @@
 				],
 				"videourl": "https://youtu.be/1H_2xVLzQtw",
 				"nb_variants": 1,
-				"shortdesc": "Serves as a ship\u0027s guardian, capable of repelling attackers and bolstering defenders...",
+				"shortdesc": "Serves as a ship's guardian, capable of repelling attackers and bolstering defenders...",
 				"faction": [
 					"Bleak Reef"
 				],
@@ -4479,7 +4479,7 @@
 			}
 		},
 		"136-tyrannosaurus_rex": {
-			"description": "Amidst the dense, primeval jungles of the Archipelago, lurks a creature whose presence alone invokes visions of primal power,the Tyrannosaurus Rex. Known as the Jungle Monarch in the indigenous xotl language, this colossal predator embodies an ancient and fearsome majesty that evolution wasn\u0027t able to improve upon. Its thunderous footfalls reverberate through the foliage, conjuring images of bygone eras of lost worlds and untamed wilderness. Its towering form and menacing maw evoke the very essence of raw, untamed nature, a prehistoric force that roams the land, instilling a sense of ancient danger and primal instincts in all who dare to wander these unforgiving territories.",
+			"description": "Amidst the dense, primeval jungles of the Archipelago, lurks a creature whose presence alone invokes visions of primal power,the Tyrannosaurus Rex. Known as the Jungle Monarch in the indigenous xotl language, this colossal predator embodies an ancient and fearsome majesty that evolution wasn't able to improve upon. Its thunderous footfalls reverberate through the foliage, conjuring images of bygone eras of lost worlds and untamed wilderness. Its towering form and menacing maw evoke the very essence of raw, untamed nature, a prehistoric force that roams the land, instilling a sense of ancient danger and primal instincts in all who dare to wander these unforgiving territories.",
 			"name": "Tyrannosaurus Rex",
 			"properties": {
 				"biom": [
@@ -4613,7 +4613,7 @@
 			}
 		},
 		"113-imprisoned_one": {
-			"description": "The Imprisoned Ones are the echoes of a Facestealer\u0027s victims populating the demonic realm lorded over by the demon. Waning shades of past beings consumed by the demonic energies of their captor, they have become part of the insidious process that once claimed their soul.",
+			"description": "The Imprisoned Ones are the echoes of a Facestealer's victims populating the demonic realm lorded over by the demon. Waning shades of past beings consumed by the demonic energies of their captor, they have become part of the insidious process that once claimed their soul.",
 			"name": "Imprisoned One",
 			"properties": {
 				"biom": [
@@ -4655,7 +4655,7 @@
 				],
 				"videourl": "https://youtu.be/7Ht4szPKX1A",
 				"nb_variants": 5,
-				"shortdesc": "The Imprisoned Ones are the echoes of a Facestealer\u0027s victims populating the demonic...",
+				"shortdesc": "The Imprisoned Ones are the echoes of a Facestealer's victims populating the demonic...",
 				"faction": [],
 				"source": "Patreon",
 				"campaign": []
@@ -6303,7 +6303,7 @@
 			}
 		},
 		"000-month_2_magma_wyrm": {
-			"description": "Magma Wyrms inhabit the most inhospitable terrain imaginable, breeding at the black sand shores of great lava lakes or within the noxious calderas of active volcanoes. Glowing red with inner heat and covered in glistening obdsidan scales, fighting these great Wyrms head on is foolhardy bordering suicidal and only the greatest (or most boastful) dwarven heros are said to having defied a Wyrm\u0027s withering heat and extinguished its molten core.",
+			"description": "Magma Wyrms inhabit the most inhospitable terrain imaginable, breeding at the black sand shores of great lava lakes or within the noxious calderas of active volcanoes. Glowing red with inner heat and covered in glistening obdsidan scales, fighting these great Wyrms head on is foolhardy bordering suicidal and only the greatest (or most boastful) dwarven heros are said to having defied a Wyrm's withering heat and extinguished its molten core.",
 			"name": "Magma Wyrm",
 			"properties": {
 				"biom": [
@@ -6644,7 +6644,7 @@
 			}
 		},
 		"032-night_hag": {
-			"description": " Night Hags are vile creatures, once proud denizens of the fae wild who\u0027s cruel inclinations got them banished to the Grey Wastes, an ever-gloomy hellscape out in the Far Realms. Not that it matters, for they are able to plane shift to freely spread their very own flavour of chaos, obsession and corruption by poisoning creatures dreams, driving them mad and eventually collecting their souls. Of course, we made some adjustments to the original creature, giving her two additional nightmarish abilities!",
+			"description": " Night Hags are vile creatures, once proud denizens of the fae wild who's cruel inclinations got them banished to the Grey Wastes, an ever-gloomy hellscape out in the Far Realms. Not that it matters, for they are able to plane shift to freely spread their very own flavour of chaos, obsession and corruption by poisoning creatures dreams, driving them mad and eventually collecting their souls. Of course, we made some adjustments to the original creature, giving her two additional nightmarish abilities!",
 			"name": "Night Hag",
 			"properties": {
 				"biom": [
@@ -6691,7 +6691,7 @@
 				],
 				"videourl": "https://youtu.be/CkrpBIvW0wU",
 				"nb_variants": 3,
-				"shortdesc": "Night Hags are vile creatures, once proud denizens of the fae wild who\u0027s cruel...",
+				"shortdesc": "Night Hags are vile creatures, once proud denizens of the fae wild who's cruel...",
 				"faction": [
 					"Maiden, Mother, Crone"
 				],
@@ -6828,7 +6828,7 @@
 		},
 		"000-srd_giant_insect": {
 			"name": "Giant Insect",
-			"description": "Everything that\u0027s creepy and crawly and way too large for comfort.",
+			"description": "Everything that's creepy and crawly and way too large for comfort.",
 			"properties": {
 				"size": "Large",
 				"stat_ac": 11,
@@ -6860,7 +6860,7 @@
 				],
 				"nb_variants": 1,
 				"thumbnail": "000-srd_giant_insect-1-db.webp",
-				"shortdesc": "Everything that\u0027s creepy and crawly and way too large for comfort.",
+				"shortdesc": "Everything that's creepy and crawly and way too large for comfort.",
 				"faction": [],
 				"source": "SRD",
 				"campaign": []
@@ -7806,7 +7806,7 @@
 			}
 		},
 		"100-luck_dragon": {
-			"description": "In stark contrast to their domineering and tyrannical brethren, these travel sized dragons usually prefer a friendly scratch behind the ears to worship and subjugation. They do not take themselves very seriously and admire this quality in others, known to both form strong bonds of friendship, as well as petty, but well-spirited rivalries. It is unclear if the Luck Dragon\u0027s existence implies the existence of a Bad Luck Dragon, but experts argue that regular Dragons could already be considered Bad Luck Dragons.",
+			"description": "In stark contrast to their domineering and tyrannical brethren, these travel sized dragons usually prefer a friendly scratch behind the ears to worship and subjugation. They do not take themselves very seriously and admire this quality in others, known to both form strong bonds of friendship, as well as petty, but well-spirited rivalries. It is unclear if the Luck Dragon's existence implies the existence of a Bad Luck Dragon, but experts argue that regular Dragons could already be considered Bad Luck Dragons.",
 			"name": "Luck Dragon",
 			"properties": {
 				"biom": [
@@ -7995,7 +7995,7 @@
 			}
 		},
 		"135-skeletal_swashbuckler": {
-			"description": "Life at sea is perilous and offers myriad ways to meet an untimely demise be it disease, violence, or the raw brutality of the elements. Yet, amidst this danger, sailors have discovered diverse means to transcend mortality, seldom by choice. Ancient curses, bonds to captain, crew, and vessel transcending death, or the mystical sway of natural forces all ensure a sailor\u0027s journey sometimes doesn\u0027t conclude with death. The Skeletal Swashbucklers are undead mariners who defy decay, their bleached bones pulsating with a lingering thrill for adventure and peril, refusing to succumb to mere oblivion.",
+			"description": "Life at sea is perilous and offers myriad ways to meet an untimely demise be it disease, violence, or the raw brutality of the elements. Yet, amidst this danger, sailors have discovered diverse means to transcend mortality, seldom by choice. Ancient curses, bonds to captain, crew, and vessel transcending death, or the mystical sway of natural forces all ensure a sailor's journey sometimes doesn't conclude with death. The Skeletal Swashbucklers are undead mariners who defy decay, their bleached bones pulsating with a lingering thrill for adventure and peril, refusing to succumb to mere oblivion.",
 			"name": "Skeletal Swashbuckler",
 			"properties": {
 				"biom": [
@@ -8644,7 +8644,7 @@
 			}
 		},
 		"093-faceless": {
-			"description": "Faceless are demons of murder, summoned by ritual and bound to a worldy anchor by its summoner. Faceless tirelessly hunt their prey, unhindered by locks, guards or castle walls. Despite acting independently, each Faceless is an aspect of a greater demonic entity, either unable or unwilling to leave its home plane. This makes Faceless all the more terrifying, as a designated victim oftentimes finds itself harried by a neverending stream of demonic incursions until it finally succumbs to the continuous assaults. A creature targeted by the Faceless can only hope for the summoner\u0027s death or to evade its own demise long enough to wear out the patience of the demon.",
+			"description": "Faceless are demons of murder, summoned by ritual and bound to a worldy anchor by its summoner. Faceless tirelessly hunt their prey, unhindered by locks, guards or castle walls. Despite acting independently, each Faceless is an aspect of a greater demonic entity, either unable or unwilling to leave its home plane. This makes Faceless all the more terrifying, as a designated victim oftentimes finds itself harried by a neverending stream of demonic incursions until it finally succumbs to the continuous assaults. A creature targeted by the Faceless can only hope for the summoner's death or to evade its own demise long enough to wear out the patience of the demon.",
 			"name": "Faceless",
 			"properties": {
 				"biom": [
@@ -8732,7 +8732,7 @@
 			}
 		},
 		"164-rustblight_skeleton": {
-			"description": "Ravaged by ruinous energies, capable of destroying players\u0027 equipment.",
+			"description": "Ravaged by ruinous energies, capable of destroying players' equipment.",
 			"name": "Rustblight Skeleton",
 			"properties": {
 				"biom": [
@@ -8773,7 +8773,7 @@
 				],
 				"videourl": "https://youtu.be/n6hLF30zNtA?si=_TLuDmnT8IzKmj6I",
 				"nb_variants": 3,
-				"shortdesc": "Ravaged by ruinous energies, capable of destroying players\u0027 equipment.",
+				"shortdesc": "Ravaged by ruinous energies, capable of destroying players' equipment.",
 				"faction": [],
 				"source": "Patreon",
 				"campaign": []
@@ -9882,7 +9882,7 @@
 			}
 		},
 		"127-constrictor_drake": {
-			"description": "It doesn\u0027t take much imagination to understand why Constrictor Drakes bear their name, as they are the most serpentine of the lesser Wyverns, from their hunting methods to their puff adder-like jaws and tooth shape. They combine the worst qualities of snake and wyverns, resulting in a venomous, choke-happy, flying serpent the size of a horse. The Constrictor Drake\u0027s vivid warning colors only heighten one\u0027s unease because one can only imagine the kind of predator they are trying to deter.",
+			"description": "It doesn't take much imagination to understand why Constrictor Drakes bear their name, as they are the most serpentine of the lesser Wyverns, from their hunting methods to their puff adder-like jaws and tooth shape. They combine the worst qualities of snake and wyverns, resulting in a venomous, choke-happy, flying serpent the size of a horse. The Constrictor Drake's vivid warning colors only heighten one's unease because one can only imagine the kind of predator they are trying to deter.",
 			"name": "Constrictor Drake",
 			"properties": {
 				"biom": [
@@ -9928,7 +9928,7 @@
 				],
 				"videourl": "https://youtu.be/5dD9TnTs5us?si=_XmwyJbgqQmOWHog",
 				"nb_variants": 5,
-				"shortdesc": "It doesn\u0027t take much imagination to understand why Constrictor Drakes bear their name...",
+				"shortdesc": "It doesn't take much imagination to understand why Constrictor Drakes bear their name...",
 				"faction": [],
 				"source": "Patreon",
 				"campaign": []
@@ -10115,7 +10115,7 @@
 			}
 		},
 		"087-wintergrim": {
-			"description": "Sudden drops in temperature and billowing snowstorms herald the coming of a Wintergrim. Wintergrim are murderous fey creatures and intrude into the profane world during a time where the temperature drops to unnatural lows and the snow mantle becomes a burial shroud for humans and livestock alike. Hunters don\u0027t return from the forest, rime coats windows and even a fire\u0027s heat may no longer banish the exisential cold that has seeped into body and spirit. Until banished by the return of spring, the Wintergrim will hunt, its pale bestial hands choking life and and warmth from its victims, leaving behind only icy skin and blood on the snow. At the seasonal height of its power, even powerful iron wards may not keep a Wintergrim at bay and many a frontier village turns to ancient pacts sealed with blood and sacrifice instead.",
+			"description": "Sudden drops in temperature and billowing snowstorms herald the coming of a Wintergrim. Wintergrim are murderous fey creatures and intrude into the profane world during a time where the temperature drops to unnatural lows and the snow mantle becomes a burial shroud for humans and livestock alike. Hunters don't return from the forest, rime coats windows and even a fire's heat may no longer banish the exisential cold that has seeped into body and spirit. Until banished by the return of spring, the Wintergrim will hunt, its pale bestial hands choking life and and warmth from its victims, leaving behind only icy skin and blood on the snow. At the seasonal height of its power, even powerful iron wards may not keep a Wintergrim at bay and many a frontier village turns to ancient pacts sealed with blood and sacrifice instead.",
 			"name": "Wintergrim",
 			"properties": {
 				"biom": [
@@ -11770,7 +11770,7 @@
 			}
 		},
 		"086-fire_manifestation": {
-			"description": "Fire Manifestations a living blazes inhabiting the ever-burning plane of Eternal Fire. Into this ash-choked realm of red sand and molten rock retreated the primordial beings of flame once the immense magic potential necessary to feed them slowly bled from the young world\u0027s bones into the beings of flesh and blood that slowly came to inhabit and shape it. The Manifestations are personified elemental forces, fire\u0027s unsatiable hunger and destructive nature given flickering form. In the profane world, Manifestations flock to places connected to their native plane or appear in the wake of fire-related disasters powerful enough to tear through the veil between planes.",
+			"description": "Fire Manifestations a living blazes inhabiting the ever-burning plane of Eternal Fire. Into this ash-choked realm of red sand and molten rock retreated the primordial beings of flame once the immense magic potential necessary to feed them slowly bled from the young world's bones into the beings of flesh and blood that slowly came to inhabit and shape it. The Manifestations are personified elemental forces, fire's unsatiable hunger and destructive nature given flickering form. In the profane world, Manifestations flock to places connected to their native plane or appear in the wake of fire-related disasters powerful enough to tear through the veil between planes.",
 			"name": "Fire Manifestation",
 			"properties": {
 				"biom": [
@@ -12397,7 +12397,7 @@
 			}
 		},
 		"040-ossian_debt_collector": {
-			"description": "The Debt Collectors are operatives of the Ossian Bank, tasked with tracking and retrieving especially elusive debtors. Despite their harrowing appearance, Ossian Debt Collectors are courteous and sophisticated negotiators, blessed with the endless patience of the undead and prodigious language skills. When approaching a debtor, they initially aim on settling things amicably, politely asking the transient debtor to accompany them to the Ossian Bank to stand before the Tribunal. When met with unreasonableness or hostility, the Debt Collectors begrudgingly change tactics in favour of more direct means of apprehension. It is unclear if their skeletal appearance reflects a Collector\u0027s true being or if it only appears as such to their targets, combining two of the things mortals fear most: death and tax collectors.",
+			"description": "The Debt Collectors are operatives of the Ossian Bank, tasked with tracking and retrieving especially elusive debtors. Despite their harrowing appearance, Ossian Debt Collectors are courteous and sophisticated negotiators, blessed with the endless patience of the undead and prodigious language skills. When approaching a debtor, they initially aim on settling things amicably, politely asking the transient debtor to accompany them to the Ossian Bank to stand before the Tribunal. When met with unreasonableness or hostility, the Debt Collectors begrudgingly change tactics in favour of more direct means of apprehension. It is unclear if their skeletal appearance reflects a Collector's true being or if it only appears as such to their targets, combining two of the things mortals fear most: death and tax collectors.",
 			"name": "Ossian Debt Collector",
 			"properties": {
 				"biom": [],
@@ -12439,7 +12439,7 @@
 			}
 		},
 		"128-voidmare_wailer": {
-			"description": "Voidmare Wailers hail from the eponymous Voidmare, a nightmarish prison dimension steeped in cosmic darkness. Beings banished into the black cells of the Voidmare lose themselves in isolation and void-chill, eventually pupating and morphing into weeping and wailing monstrosities infused with the dimension\u0027s tortuous, hungering for the dreams and memories of living beings, their own lost forever.",
+			"description": "Voidmare Wailers hail from the eponymous Voidmare, a nightmarish prison dimension steeped in cosmic darkness. Beings banished into the black cells of the Voidmare lose themselves in isolation and void-chill, eventually pupating and morphing into weeping and wailing monstrosities infused with the dimension's tortuous, hungering for the dreams and memories of living beings, their own lost forever.",
 			"name": "Voidmare Wailer",
 			"properties": {
 				"biom": [
@@ -12485,7 +12485,7 @@
 			}
 		},
 		"000-month_14_dwarven_battlebrewer": {
-			"description": "Brewing is more than just a craft for dwarves; it\u0027s a cultural cornerstone deeply intertwined with the local identity of their decentralized and often isolated societies. Each mountain kingdom or cavernous realm, has their unique brews enriched with customs and culture. Whether it\u0027s hearty whiskey with hints of volcanic smoke, clear schnapps with sparkling mineral particles, or strong beer brewed from underground river water, they all have the power to soothe weary hands and quickly loosen knotted muscles. With their potent brews, Battle-Brewers specialize in maintaining the esprit de corps and, with their down-to-earth and jovial nature, they ease the hardships of military life, all while never hesitating to get their hands dirty themselves.",
+			"description": "Brewing is more than just a craft for dwarves; it's a cultural cornerstone deeply intertwined with the local identity of their decentralized and often isolated societies. Each mountain kingdom or cavernous realm, has their unique brews enriched with customs and culture. Whether it's hearty whiskey with hints of volcanic smoke, clear schnapps with sparkling mineral particles, or strong beer brewed from underground river water, they all have the power to soothe weary hands and quickly loosen knotted muscles. With their potent brews, Battle-Brewers specialize in maintaining the esprit de corps and, with their down-to-earth and jovial nature, they ease the hardships of military life, all while never hesitating to get their hands dirty themselves.",
 			"name": "Dwarven Battle-Brewer",
 			"properties": {
 				"biom": [
@@ -12523,7 +12523,7 @@
 				],
 				"videourl": "https://youtu.be/YA7mamRl3mA?feature=shared",
 				"nb_variants": 1,
-				"shortdesc": "Brewing is more than just a craft for dwarves; it\u0027s a cultural cornerstone deeply...",
+				"shortdesc": "Brewing is more than just a craft for dwarves; it's a cultural cornerstone deeply...",
 				"faction": [],
 				"source": "Loyalty Token",
 				"campaign": []
@@ -12572,7 +12572,7 @@
 			}
 		},
 		"042-mournbride": {
-			"description": "Mournbrides are the tortured souls of women dying a violent death on what was promised to be the happiest day of their lifes: their wedding day. Great tragedy usually surrounds a Mournbride\u0027s ermergence, like murder at the hands of a jealous rival or the taking of ones own life after being left at the altar. Still wrapped in the tattered and blood splattered remains of their wedding gowns, Mournbrides haunt places of great significance to the departed individual, like their family home, wedding venue or secret a meeting place with their former beloved. If their would-be spouse is still alive, the Mournbride will jealously watch over them, often causing more harm than good in their twisted need to protect them.",
+			"description": "Mournbrides are the tortured souls of women dying a violent death on what was promised to be the happiest day of their lifes: their wedding day. Great tragedy usually surrounds a Mournbride's ermergence, like murder at the hands of a jealous rival or the taking of ones own life after being left at the altar. Still wrapped in the tattered and blood splattered remains of their wedding gowns, Mournbrides haunt places of great significance to the departed individual, like their family home, wedding venue or secret a meeting place with their former beloved. If their would-be spouse is still alive, the Mournbride will jealously watch over them, often causing more harm than good in their twisted need to protect them.",
 			"name": "Mournbride",
 			"properties": {
 				"biom": [
@@ -12619,7 +12619,7 @@
 			}
 		},
 		"114-minotaur": {
-			"description": "For ages, scholars have been contemplating the origin of the mighty Minotaurs, bovine man-beasts of considerable strength, often exhibiting an inborn lust for battle and an innate understanding of ancient martial traditions. While civilized Minotaurs can be found in the ranks or even upper brass of mercenary bands or royal armies, feral specimens plague untamed lands or cut bloody swathes through frontier regions. Regardless of if they are the cursed children of a bestial progenitor or the products of a war god\u0027s special kind of divine intervention, Minotaurs embody mythical prowess in a way few creatures do.",
+			"description": "For ages, scholars have been contemplating the origin of the mighty Minotaurs, bovine man-beasts of considerable strength, often exhibiting an inborn lust for battle and an innate understanding of ancient martial traditions. While civilized Minotaurs can be found in the ranks or even upper brass of mercenary bands or royal armies, feral specimens plague untamed lands or cut bloody swathes through frontier regions. Regardless of if they are the cursed children of a bestial progenitor or the products of a war god's special kind of divine intervention, Minotaurs embody mythical prowess in a way few creatures do.",
 			"name": "Minotaur",
 			"properties": {
 				"biom": [
@@ -12841,7 +12841,7 @@
 			}
 		},
 		"131-graftsman": {
-			"description": "Graftsmen occupy the lowest caste among the fleshcrafters of the Burial Host. As journeymen that have not yet passed their master\u0027s examination, they don\u0027t have access to the most choice resources from the Host\u0027s Limbchambers, Fleshpits and charnel houses. Instead, they have to scavenge battlefields or undertake personal raids in search of suitable parts for their projects. However, this makes them flexible and pragmatic improvisers who don\u0027t shy away from using less subtle and monstrous grafts, a practice frowned upon in the upper castes. Eager to practice advanced techniques on themselves, they are easily recognizable by their mismatched limbs, hulking statue and gruff demeanor.",
+			"description": "Graftsmen occupy the lowest caste among the fleshcrafters of the Burial Host. As journeymen that have not yet passed their master's examination, they don't have access to the most choice resources from the Host's Limbchambers, Fleshpits and charnel houses. Instead, they have to scavenge battlefields or undertake personal raids in search of suitable parts for their projects. However, this makes them flexible and pragmatic improvisers who don't shy away from using less subtle and monstrous grafts, a practice frowned upon in the upper castes. Eager to practice advanced techniques on themselves, they are easily recognizable by their mismatched limbs, hulking statue and gruff demeanor.",
 			"name": "Graftsman",
 			"properties": {
 				"biom": [
@@ -12978,7 +12978,7 @@
 			}
 		},
 		"000-month_14_dwarven_brewers_barrel": {
-			"description": "Brewing is more than just a craft for dwarves; it\u0027s a cultural cornerstone deeply intertwined with the local identity of their decentralized and often isolated societies. Each mountain kingdom or cavernous realm, has their unique brews enriched with customs and culture. Whether it\u0027s hearty whiskey with hints of volcanic smoke, clear schnapps with sparkling mineral particles, or strong beer brewed from underground river water, they all have the power to soothe weary hands and quickly loosen knotted muscles. With their potent brews, Battle-Brewers specialize in maintaining the esprit de corps and, with their down-to-earth and jovial nature, they ease the hardships of military life, all while never hesitating to get their hands dirty themselves.",
+			"description": "Brewing is more than just a craft for dwarves; it's a cultural cornerstone deeply intertwined with the local identity of their decentralized and often isolated societies. Each mountain kingdom or cavernous realm, has their unique brews enriched with customs and culture. Whether it's hearty whiskey with hints of volcanic smoke, clear schnapps with sparkling mineral particles, or strong beer brewed from underground river water, they all have the power to soothe weary hands and quickly loosen knotted muscles. With their potent brews, Battle-Brewers specialize in maintaining the esprit de corps and, with their down-to-earth and jovial nature, they ease the hardships of military life, all while never hesitating to get their hands dirty themselves.",
 			"name": "Dwarven Brewers Barrel",
 			"properties": {
 				"biom": [
@@ -13015,7 +13015,7 @@
 				],
 				"videourl": "https://youtu.be/YA7mamRl3mA?feature=shared",
 				"nb_variants": 1,
-				"shortdesc": "Brewing is more than just a craft for dwarves; it\u0027s a cultural cornerstone deeply...",
+				"shortdesc": "Brewing is more than just a craft for dwarves; it's a cultural cornerstone deeply...",
 				"faction": [],
 				"source": "Loyalty Token",
 				"campaign": []
@@ -14664,7 +14664,7 @@
 			}
 		},
 		"033-yeti": {
-			"description": "Yetis are a chimeric breed, carrying an accumulation of odd traits from their ancestors. Who exactly those ancestors were is unclear, but the Yeti\u0027s immunity to even magical cold that far exceeds any natural resistances, as well as their regenerative healing abilites seem to imply a shared heritage based upon both the blood of Frost Giants as well as Trolls. How this unholy alliance came to pass remains mercifully unknown, but it is terrifying nonetheless.",
+			"description": "Yetis are a chimeric breed, carrying an accumulation of odd traits from their ancestors. Who exactly those ancestors were is unclear, but the Yeti's immunity to even magical cold that far exceeds any natural resistances, as well as their regenerative healing abilites seem to imply a shared heritage based upon both the blood of Frost Giants as well as Trolls. How this unholy alliance came to pass remains mercifully unknown, but it is terrifying nonetheless.",
 			"name": "Yeti",
 			"properties": {
 				"biom": [
@@ -14750,7 +14750,7 @@
 			}
 		},
 		"001-primal_vampire_spawn": {
-			"description": "Sometimes Vampires impart the dubious gift of spawndom upon the wrong soul, stirring primordial horrors from their sleep. These vampire spawns regress to a primal state, detached from the rules that even compel their creators, driven only by their lust for terror and agony.  Primal Spawns are beyond their unwilling creators\u0027 control and they in turn feel disdain for their more ‘evolved’ kin. Despite not having a weakness to sunlight, they prefer the shadows, as the darkness supports their preferred hunting style. And if the right opportunity arises, a Primal Vampire Spawn will not hesitate to hunt during broad daylight to indulge in the screams of horrified onlookers.",
+			"description": "Sometimes Vampires impart the dubious gift of spawndom upon the wrong soul, stirring primordial horrors from their sleep. These vampire spawns regress to a primal state, detached from the rules that even compel their creators, driven only by their lust for terror and agony.  Primal Spawns are beyond their unwilling creators' control and they in turn feel disdain for their more ‘evolved’ kin. Despite not having a weakness to sunlight, they prefer the shadows, as the darkness supports their preferred hunting style. And if the right opportunity arises, a Primal Vampire Spawn will not hesitate to hunt during broad daylight to indulge in the screams of horrified onlookers.",
 			"name": "Primal Vampire Spawn",
 			"properties": {
 				"biom": [
@@ -15016,7 +15016,7 @@
 			}
 		},
 		"211-uvargandr_stormscalecluster": {
-			"description": "A marker token for the Uvargandr\u0027s storm scales.",
+			"description": "A marker token for the Uvargandr's storm scales.",
 			"name": "Uvargandr Storm Scale Cluster",
 			"properties": {
 				"biom": [
@@ -15050,7 +15050,7 @@
 				],
 				"videourl": "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
 				"nb_variants": 1,
-				"shortdesc": "A marker token for the Uvargandr\u0027s storm scales.",
+				"shortdesc": "A marker token for the Uvargandr's storm scales.",
 				"faction": [],
 				"source": "Patreon",
 				"campaign": []
@@ -15144,7 +15144,7 @@
 			}
 		},
 		"000-goblin_pack_1_soulshaper_shaman": {
-			"description": "Soulshaper Shamans oversee a tribe\u0027s death rites and stand vigil during the transition of a goblin\u0027s soul beyond the mortal veil. They do this to take note of where this particular soul goes, to eventually drag it back to fulfill various purposes, should the need arise. Necessity is the mother of invention, goblins die in droves - why not capitalise on that? The goblins are thankful for their ancestor\u0027s service and both live and die knowing that their duty does not end in death. A Shaman\u0027s word carries a lot of weight, as they are known to converse with the spirits of the afterlife and carry the knowledge of the ancestors. Most shamans however quickly find out that dying does not automatically impart knowledge and most ancestors are as dense in death as they were in life. This realisation usually sours a Soulshaper Shaman\u0027s mood and factors into their characteristic bitterness.",
+			"description": "Soulshaper Shamans oversee a tribe's death rites and stand vigil during the transition of a goblin's soul beyond the mortal veil. They do this to take note of where this particular soul goes, to eventually drag it back to fulfill various purposes, should the need arise. Necessity is the mother of invention, goblins die in droves - why not capitalise on that? The goblins are thankful for their ancestor's service and both live and die knowing that their duty does not end in death. A Shaman's word carries a lot of weight, as they are known to converse with the spirits of the afterlife and carry the knowledge of the ancestors. Most shamans however quickly find out that dying does not automatically impart knowledge and most ancestors are as dense in death as they were in life. This realisation usually sours a Soulshaper Shaman's mood and factors into their characteristic bitterness.",
 			"name": "Goblin Soulshaper Shaman",
 			"properties": {
 				"biom": [
@@ -15193,7 +15193,7 @@
 				],
 				"videourl": "https://www.youtube.com/watch?v=Kj63gMA_pWI",
 				"nb_variants": 1,
-				"shortdesc": "Soulshaper Shamans oversee a tribe\u0027s death rites and stand vigil during the transition...",
+				"shortdesc": "Soulshaper Shamans oversee a tribe's death rites and stand vigil during the transition...",
 				"faction": [
 					"Raiding Rabble"
 				],
@@ -15343,7 +15343,7 @@
 			}
 		},
 		"096-stormwrath_marauder": {
-			"description": "Stormwrath Marauders are conduits of the tempest\u0027s fury, their heart beating in tact with the rolling thunder. Warriors might be born blessed by the storms or elevated by a higher being that holds command over the elements, such as a Storm Giant, a dragon or even a god. They become chosen warriors, stalwart in their faith and honoured keepers of the naval rites..",
+			"description": "Stormwrath Marauders are conduits of the tempest's fury, their heart beating in tact with the rolling thunder. Warriors might be born blessed by the storms or elevated by a higher being that holds command over the elements, such as a Storm Giant, a dragon or even a god. They become chosen warriors, stalwart in their faith and honoured keepers of the naval rites..",
 			"name": "Stormwrath Marauder",
 			"properties": {
 				"biom": [
@@ -15383,7 +15383,7 @@
 				],
 				"videourl": "https://youtu.be/14buhmfD2uU",
 				"nb_variants": 1,
-				"shortdesc": "Stormwrath Marauders are conduits of the tempest\u0027s fury, their heart beating in tact...",
+				"shortdesc": "Stormwrath Marauders are conduits of the tempest's fury, their heart beating in tact...",
 				"faction": [
 					"Irontide Raiders"
 				],
@@ -15433,7 +15433,7 @@
 			}
 		},
 		"078-necrovolt_reanimator": {
-			"description": "The Necrovolt Reanimators are a conclave of deranged scientists who discovered the abyssal Netherstorm, a sentient tempest of howling souls, charged with cracking aether-lightning. Reanimators harness the Netherstorm\u0027s boundless energy with their Necrovoltaic Generators, using it to power various nightmarish machineries and undead constructs. Over time fanatical members of the Reanimator Conclave seemingly discerned sentience within their own devices, remnants of the soul-lightning powering them. This ghost in the machine was dubbed the Necrovolt, a being of unliving lightning made manifest.",
+			"description": "The Necrovolt Reanimators are a conclave of deranged scientists who discovered the abyssal Netherstorm, a sentient tempest of howling souls, charged with cracking aether-lightning. Reanimators harness the Netherstorm's boundless energy with their Necrovoltaic Generators, using it to power various nightmarish machineries and undead constructs. Over time fanatical members of the Reanimator Conclave seemingly discerned sentience within their own devices, remnants of the soul-lightning powering them. This ghost in the machine was dubbed the Necrovolt, a being of unliving lightning made manifest.",
 			"name": "Necrovolt Reanimator",
 			"properties": {
 				"biom": [
@@ -15663,7 +15663,7 @@
 			}
 		},
 		"000-month_3_draconic_elite": {
-			"description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon\u0027s equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
+			"description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon's equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
 			"name": "Draconic Elite",
 			"properties": {
 				"biom": [
@@ -17420,7 +17420,7 @@
 			}
 		},
 		"169-mummy_tomb_vizier": {
-			"description": "Mummified minister managing minor mummies, wields a fraction of their sovereign\u0027s power.",
+			"description": "Mummified minister managing minor mummies, wields a fraction of their sovereign's power.",
 			"name": "Mummy Tomb-Vizier",
 			"properties": {
 				"biom": [
@@ -17459,7 +17459,7 @@
 				],
 				"videourl": "https://youtu.be/mKE3llLvfI4?si=oABK7A2IQJfjtVwh",
 				"nb_variants": 1,
-				"shortdesc": "Mummified minister managing minor mummies, wields a fraction of their sovereign\u0027s power.",
+				"shortdesc": "Mummified minister managing minor mummies, wields a fraction of their sovereign's power.",
 				"faction": [],
 				"source": "Patreon",
 				"campaign": []
@@ -18216,7 +18216,7 @@
 			}
 		},
 		"113-facestealer": {
-			"description": "Facestealers are demonic entities that revel in subjecting indiscriminate terror upon mortal beings. Their bulbous insectoid bodies are overgrown with faces and skulls in various states of decomposition, weeping, whispering, laughing or screaming. These are the results of the Facestealer\u0027s unique hunting methods, being able to draw creatures into a demonic realm where they are assailed by the Imprisoned Ones, waning shades of the demon\u0027s previous victims. If a creature succumbs to the demonic realm, its soul will be devoured by the Facestealer and its face joins the ingrown gallery upon the demon\u0027s bloated body.",
+			"description": "Facestealers are demonic entities that revel in subjecting indiscriminate terror upon mortal beings. Their bulbous insectoid bodies are overgrown with faces and skulls in various states of decomposition, weeping, whispering, laughing or screaming. These are the results of the Facestealer's unique hunting methods, being able to draw creatures into a demonic realm where they are assailed by the Imprisoned Ones, waning shades of the demon's previous victims. If a creature succumbs to the demonic realm, its soul will be devoured by the Facestealer and its face joins the ingrown gallery upon the demon's bloated body.",
 			"name": "Facestealer",
 			"properties": {
 				"biom": [
@@ -18266,7 +18266,7 @@
 			}
 		},
 		"110-apshait_ambusher": {
-			"description": "Apshait are named after mythical insects said to feast on the souls of the dead during their travels through the underworld. Those worrying about their immortal soul may be relieved to hear that the actual Apshait much prefer to feast on mortal bodies instead, making them a dangerous prospect for both lone travelers or armed transports traversing infested landscapes. Breeding in looming underground hives, the Asphait\u0027s expansive tunnel networks stretch far beyond the central hive chambers, where the Apshait soldier swarms utilize them to coordinate intricate ambushes.",
+			"description": "Apshait are named after mythical insects said to feast on the souls of the dead during their travels through the underworld. Those worrying about their immortal soul may be relieved to hear that the actual Apshait much prefer to feast on mortal bodies instead, making them a dangerous prospect for both lone travelers or armed transports traversing infested landscapes. Breeding in looming underground hives, the Asphait's expansive tunnel networks stretch far beyond the central hive chambers, where the Apshait soldier swarms utilize them to coordinate intricate ambushes.",
 			"name": "Apshait Ambusher",
 			"properties": {
 				"biom": [
@@ -18314,7 +18314,7 @@
 			}
 		},
 		"133-ratfolk_gutterskulk": {
-			"description": "Wherever damp tunnel networks extend beneath sprawling cities, one can find those who have chosen the Undercity as their domain. Shunned by even the less human-like races due to their unsettling appearance and unsavory reputation, the parallel worlds beneath the great cities are often a realm of matted fur, gnashing teeth, and crooked blades. And if one takes a wrong turn in the tunnels, it\u0027s possible to find themselves confronted by a dozen pairs of yellow-gleaming eyes in the darkness.",
+			"description": "Wherever damp tunnel networks extend beneath sprawling cities, one can find those who have chosen the Undercity as their domain. Shunned by even the less human-like races due to their unsettling appearance and unsavory reputation, the parallel worlds beneath the great cities are often a realm of matted fur, gnashing teeth, and crooked blades. And if one takes a wrong turn in the tunnels, it's possible to find themselves confronted by a dozen pairs of yellow-gleaming eyes in the darkness.",
 			"name": "Ratfolk Gutterskulk",
 			"properties": {
 				"biom": [
@@ -18611,7 +18611,7 @@
 			}
 		},
 		"118-cyclops": {
-			"description": "Cyclopeans are tragic figurs, once the master smiths of giant kind, using their god-given power over the elements to forge storm-wreathed weaponry for the High Kings of the Storm Giants, the Frost Giant Jarls or Stone Giant Thanes. But these days are over, the few Cyclopeans left are pale shades of former glory, lumbering thin-blooded brutes who barely know how to swing their club, let alone a blacksmith\u0027s hammer. They are very suspicious, but once their mistrust has been overcome, they are trusting bordering gullibe - perhaps an indication that their downfall has been brought about by betrayal and that these wounds still linger.",
+			"description": "Cyclopeans are tragic figurs, once the master smiths of giant kind, using their god-given power over the elements to forge storm-wreathed weaponry for the High Kings of the Storm Giants, the Frost Giant Jarls or Stone Giant Thanes. But these days are over, the few Cyclopeans left are pale shades of former glory, lumbering thin-blooded brutes who barely know how to swing their club, let alone a blacksmith's hammer. They are very suspicious, but once their mistrust has been overcome, they are trusting bordering gullibe - perhaps an indication that their downfall has been brought about by betrayal and that these wounds still linger.",
 			"name": "Cyclops",
 			"properties": {
 				"biom": [
@@ -19146,7 +19146,7 @@
 			}
 		},
 		"119-sand_elemental": {
-			"description": "The four major elemental planes share hidden borders, where their essences intermingle. As looming Magma Elementals populate the vast volcanic trenches below the endless oceans of the aquatic plane, the relentless rasp-winds of the aerial plane instill the terran plane\u0027s sand with life, causing Sand Elementals to rise from the arid dunes, finding their way through weak points of the planar veil into the profane world.",
+			"description": "The four major elemental planes share hidden borders, where their essences intermingle. As looming Magma Elementals populate the vast volcanic trenches below the endless oceans of the aquatic plane, the relentless rasp-winds of the aerial plane instill the terran plane's sand with life, causing Sand Elementals to rise from the arid dunes, finding their way through weak points of the planar veil into the profane world.",
 			"name": "Sand Elemental",
 			"properties": {
 				"biom": [
@@ -19406,7 +19406,7 @@
 			}
 		},
 		"215-beast_of_soot_and_sulphur": {
-			"description": "Also known as black chimeras, beasts of soot and sulphur inhabit regions characterized by fire-scoured desolatiob: Areas ravaged by volcanic activity, territories under a fire dragon\u0027s rule, or sites of planar activity. When unobserved, they drift as ghostly shades, formless swathes of ash and embers that, without warning, coalesce into a ravening beast.",
+			"description": "Also known as black chimeras, beasts of soot and sulphur inhabit regions characterized by fire-scoured desolatiob: Areas ravaged by volcanic activity, territories under a fire dragon's rule, or sites of planar activity. When unobserved, they drift as ghostly shades, formless swathes of ash and embers that, without warning, coalesce into a ravening beast.",
 			"name": "Beast Of Soot And Sulphur",
 			"properties": {
 				"biom": [
@@ -19452,7 +19452,7 @@
 			}
 		},
 		"000-month_19_shamblevault_casket_bearer": {
-			"description": "The Shamblevaults are hidden oubliette-structures where hordes of undead creatures are imprisoned, awaiting the call of their master to be summoned when needed. Through massive blackwood caskets, ambitious necromancers can draw forth undead abominations directly from the nightmarish depths of these vaults. The towering Casket Bearers, hulking figures bound to their masters\u0027 will, provide the perfect solution to the logistical challenge of hauling around a colossal, chain-wrapped sarcophagus.",
+			"description": "The Shamblevaults are hidden oubliette-structures where hordes of undead creatures are imprisoned, awaiting the call of their master to be summoned when needed. Through massive blackwood caskets, ambitious necromancers can draw forth undead abominations directly from the nightmarish depths of these vaults. The towering Casket Bearers, hulking figures bound to their masters' will, provide the perfect solution to the logistical challenge of hauling around a colossal, chain-wrapped sarcophagus.",
 			"name": "Shamblevault Casket Bearer",
 			"properties": {
 				"biom": [
@@ -20008,7 +20008,7 @@
 			}
 		},
 		"198-gnoll_fleshtaker": {
-			"description": "Collects and distributes meat strategically to maintain the gnoll horde\u0027s momentum.",
+			"description": "Collects and distributes meat strategically to maintain the gnoll horde's momentum.",
 			"name": "Gnoll Flesh-Taker",
 			"properties": {
 				"biom": [
@@ -20047,7 +20047,7 @@
 				],
 				"videourl": "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
 				"nb_variants": 2,
-				"shortdesc": "Collects and distributes meat strategically to maintain the gnoll horde\u0027s momentum.",
+				"shortdesc": "Collects and distributes meat strategically to maintain the gnoll horde's momentum.",
 				"faction": [],
 				"source": "Patreon",
 				"campaign": []
@@ -20094,7 +20094,7 @@
 			}
 		},
 		"000-month_16_deathrite_bellringer": {
-			"description": "Cathedral Knights are towering undead tasked with guarding the great Cathedral of Silence, the spiritual center of the Deathrite Cult. Drawn from the Unspeaking, the undead martial elite of the Cult, they bask in the soundless tolling of the great cathedral\u0027s leaden bells, causing them to grow to towering size over time. Cathedral Knights are deployed to crush particularly obstinate enemies of the Cult and are always accompanied by Bell Ringers, empowering the Cathedral Knights with deathrite rituals and maintaining the shroud of blessed silence.",
+			"description": "Cathedral Knights are towering undead tasked with guarding the great Cathedral of Silence, the spiritual center of the Deathrite Cult. Drawn from the Unspeaking, the undead martial elite of the Cult, they bask in the soundless tolling of the great cathedral's leaden bells, causing them to grow to towering size over time. Cathedral Knights are deployed to crush particularly obstinate enemies of the Cult and are always accompanied by Bell Ringers, empowering the Cathedral Knights with deathrite rituals and maintaining the shroud of blessed silence.",
 			"name": "Deathrite Bellringer",
 			"properties": {
 				"biom": [
@@ -20483,7 +20483,7 @@
 			}
 		},
 		"122-gutterfist": {
-			"description": "Gutterfists are hard-boiled brawlers, back alley thugs, prizefighters, or gentlemen pugilists. They hold their ground against better-armored foes with nothing but rock-hard abs, moxie, and their bare hands. Eventually, even veteran warriors might find themselves outmaneuvered and pinned to the ground as a hail of fists dents their priceless armor, all while the Gutterfist spouts filthy limericks concerning the promiscuous nature of their opponents\u0027 mothers.",
+			"description": "Gutterfists are hard-boiled brawlers, back alley thugs, prizefighters, or gentlemen pugilists. They hold their ground against better-armored foes with nothing but rock-hard abs, moxie, and their bare hands. Eventually, even veteran warriors might find themselves outmaneuvered and pinned to the ground as a hail of fists dents their priceless armor, all while the Gutterfist spouts filthy limericks concerning the promiscuous nature of their opponents' mothers.",
 			"name": "Gutterfist",
 			"properties": {
 				"biom": [
@@ -20531,7 +20531,7 @@
 		},
 		"000-srd_giant_goat": {
 			"name": "Giant Goat",
-			"description": "A regular ol\u0027 goat, just big.",
+			"description": "A regular ol' goat, just big.",
 			"properties": {
 				"size": "Large",
 				"stat_ac": 12,
@@ -20566,7 +20566,7 @@
 				],
 				"nb_variants": 1,
 				"thumbnail": "000-srd_giant_goat-1-db.webp",
-				"shortdesc": "A regular ol\u0027 goat, just big.",
+				"shortdesc": "A regular ol' goat, just big.",
 				"faction": [],
 				"source": "SRD",
 				"campaign": []
@@ -20712,7 +20712,7 @@
 			}
 		},
 		"115-pirate_powder_dancer": {
-			"description": "Powder Dancers are part of a pirate ship\u0027s dedicated boarding crews, agile and tactically versatile fighters and marksmen well versed in the art of ship to ship combat. They constantly alternate between Melee and ranged weaponry, overwhelming the defenders with devastating point blank salvos from their characteristic flintlock pistols or pressuring them with aggressive bladework. Once the rhythmic, bellowing blasts fade away and the powder dust dissipates, the enemy ship has been taken.",
+			"description": "Powder Dancers are part of a pirate ship's dedicated boarding crews, agile and tactically versatile fighters and marksmen well versed in the art of ship to ship combat. They constantly alternate between Melee and ranged weaponry, overwhelming the defenders with devastating point blank salvos from their characteristic flintlock pistols or pressuring them with aggressive bladework. Once the rhythmic, bellowing blasts fade away and the powder dust dissipates, the enemy ship has been taken.",
 			"name": "Pirate Powder Dancer",
 			"properties": {
 				"biom": [
@@ -20750,15 +20750,15 @@
 				],
 				"videourl": "https://youtu.be/XE63tD68JYM",
 				"nb_variants": 3,
-				"shortdesc": "Powder Dancers are part of a pirate ship\u0027s dedicated boarding crews, agile and...",
+				"shortdesc": "Powder Dancers are part of a pirate ship's dedicated boarding crews, agile and...",
 				"faction": [],
 				"source": "Patreon",
 				"campaign": []
 			}
 		},
 		"008-gluttonys_aspect": {
-			"description": "Dull-looking, dimwitted and bloated creatures, filled to the brim with noxious gas and disgusting thoughts. They nest within the fleshy crevasses of Gluttony\u0027s lumpy body and swarm out on its command, eager to gather offerings to gain their master\u0027s favour.",
-			"name": "Gluttony\u0027s Aspect",
+			"description": "Dull-looking, dimwitted and bloated creatures, filled to the brim with noxious gas and disgusting thoughts. They nest within the fleshy crevasses of Gluttony's lumpy body and swarm out on its command, eager to gather offerings to gain their master's favour.",
+			"name": "Gluttony's Aspect",
 			"properties": {
 				"biom": [
 					"Lair",
@@ -21516,7 +21516,7 @@
 			}
 		},
 		"000-goblin_pack_1_soulstarved_abomination": {
-			"description": "The shambling and frankly horrifying Soulstarved Abominations are Soulshaper Shaman\u0027s failed attempt to just kind of stuff a goblin\u0027s soul back into a vessel, be it their former body or an vaguely goblin-shaped flesh-construct. Still, something must have worked out as planned, as these aptly named Abominations walk and fight, despite their unsettling appearence and even more unsettling hunger for flesh. If a Soulshaper Shaman is part of a Raid Rabble, the Abominations can be found shuffling in its wake, herded by their creator into combat as unliving weapons.",
+			"description": "The shambling and frankly horrifying Soulstarved Abominations are Soulshaper Shaman's failed attempt to just kind of stuff a goblin's soul back into a vessel, be it their former body or an vaguely goblin-shaped flesh-construct. Still, something must have worked out as planned, as these aptly named Abominations walk and fight, despite their unsettling appearence and even more unsettling hunger for flesh. If a Soulshaper Shaman is part of a Raid Rabble, the Abominations can be found shuffling in its wake, herded by their creator into combat as unliving weapons.",
 			"name": "Goblin Soulstarved Abomination",
 			"properties": {
 				"biom": [
@@ -21565,7 +21565,7 @@
 				],
 				"videourl": "https://www.youtube.com/watch?v=Kj63gMA_pWI",
 				"nb_variants": 3,
-				"shortdesc": "The shambling and frankly horrifying Soulstarved Abominations are Soulshaper Shaman\u0027s...",
+				"shortdesc": "The shambling and frankly horrifying Soulstarved Abominations are Soulshaper Shaman's...",
 				"faction": [
 					"Raiding Rabble"
 				],
@@ -21574,7 +21574,7 @@
 			}
 		},
 		"000-goblin_pack_1_crookshank": {
-			"description": "Crookshanks mark the rank and file of a Raid Rabble, both conscripted and willing participants of mixed age and skill. Most goblins are used to fight creatures larger than them and they make the most of it, trying to swarm enemies to bring them down, where their eponymous crooked blades are waiting. Goblins aren\u0027t eager to die fighting, as each dead goblin weakens the tribe. This utilitarian view on survival has earned them a reputation of cowardice, but if Goblins commit to a fight, they do so without hesitation, fully aware of their mortality and knowing that their death will only empower the raid, as their Shaman draws great strength from them.",
+			"description": "Crookshanks mark the rank and file of a Raid Rabble, both conscripted and willing participants of mixed age and skill. Most goblins are used to fight creatures larger than them and they make the most of it, trying to swarm enemies to bring them down, where their eponymous crooked blades are waiting. Goblins aren't eager to die fighting, as each dead goblin weakens the tribe. This utilitarian view on survival has earned them a reputation of cowardice, but if Goblins commit to a fight, they do so without hesitation, fully aware of their mortality and knowing that their death will only empower the raid, as their Shaman draws great strength from them.",
 			"name": "Goblin Crookshank",
 			"properties": {
 				"biom": [
@@ -21631,7 +21631,7 @@
 			}
 		},
 		"026-vampire_spawn": {
-			"description": "Everlasting mist floods the land of Barovia, the cursed realm of Strahd von Zahrovich. Barovia teems with dreadful creatures, most of which are hellbent on making the player\u0027s stay in their realm a harrowing one. For Spooktober 2021 we decided to give the iconic Vampire Spawns roaming the crypts and castles of Curse of Strahd a unique spin! The Barovian Vampire spawn is closely bonded to Strahd, who is the land himself, as we all know! This is reflected by increased mental stats and a strange symbiotic relationship with the mist that wreathes it\u0027s masters domain, granting a formidable foe even more power and making for a creature able to haunt even veteran players\u0027 nightmares!",
+			"description": "Everlasting mist floods the land of Barovia, the cursed realm of Strahd von Zahrovich. Barovia teems with dreadful creatures, most of which are hellbent on making the player's stay in their realm a harrowing one. For Spooktober 2021 we decided to give the iconic Vampire Spawns roaming the crypts and castles of Curse of Strahd a unique spin! The Barovian Vampire spawn is closely bonded to Strahd, who is the land himself, as we all know! This is reflected by increased mental stats and a strange symbiotic relationship with the mist that wreathes it's masters domain, granting a formidable foe even more power and making for a creature able to haunt even veteran players' nightmares!",
 			"name": "Vampire Spawn",
 			"properties": {
 				"biom": [
@@ -21899,8 +21899,8 @@
 			}
 		},
 		"000-month_14_dwarven_brewers_boarcart": {
-			"description": "Traditionally, the Battle-Brewers carts are pulled by mighty boars, serving both as beasts of burden and defenders of the Brewer\u0027s mobile tavern and improvised brewery. These boars are nurtured from birth and raised on a secret diet, likely involving copious amounts of dwarven spirits, to enhance their already considerable combat prowess.",
-			"name": "Dwarven Brewer\u0027s Boar Cart",
+			"description": "Traditionally, the Battle-Brewers carts are pulled by mighty boars, serving both as beasts of burden and defenders of the Brewer's mobile tavern and improvised brewery. These boars are nurtured from birth and raised on a secret diet, likely involving copious amounts of dwarven spirits, to enhance their already considerable combat prowess.",
+			"name": "Dwarven Brewer's Boar Cart",
 			"properties": {
 				"biom": [
 					"Wilderness",
@@ -21943,7 +21943,7 @@
 			}
 		},
 		"108-deathrite_harrower": {
-			"description": "The Deathrite Cult strives for a world silenced by death, an unliving utopia of crypts tended to by the mute Graveswardens. To hush those living beings disturbing the sacred silence of the Deathshroud, the Deathrite\u0027s High Crematorians dispatch legions of thralls, both mortal cultists and the Annointed, undead beings bound or birthed into the ranks of the Deathrite. Among these Annointed are the Deathrite Harrowers, hateful souls that gave their life in service of the Deathrite, now carrying a holy mandate to silence the blasphemous beating of hearts and turn all that is living into blessed ash.",
+			"description": "The Deathrite Cult strives for a world silenced by death, an unliving utopia of crypts tended to by the mute Graveswardens. To hush those living beings disturbing the sacred silence of the Deathshroud, the Deathrite's High Crematorians dispatch legions of thralls, both mortal cultists and the Annointed, undead beings bound or birthed into the ranks of the Deathrite. Among these Annointed are the Deathrite Harrowers, hateful souls that gave their life in service of the Deathrite, now carrying a holy mandate to silence the blasphemous beating of hearts and turn all that is living into blessed ash.",
 			"name": "Deathrite Harrower",
 			"properties": {
 				"biom": [
@@ -22795,7 +22795,7 @@
 		},
 		"065-sovereigns_guard": {
 			"description": "Guards high value personell, expert duellist and capable of overcoming grievous injury through sheer devotion.",
-			"name": "Sovereign\u0027s Guard",
+			"name": "Sovereign's Guard",
 			"properties": {
 				"biom": [
 					"Road",
@@ -23728,7 +23728,7 @@
 			}
 		},
 		"132-animated_blade": {
-			"description": "Animated Blades are swords imbued with arcane essence, a semblance of life breathing through them. This phenomenon can occur through enchantment magic, ancient rituals, or more rarely, the awakening of the blade itself. Driven by a deep-seated thirst for combat or an unquenchable desire for revenge, these blades act on their own, no longer requiring a wielder to carry out their intended purpose. Some of these blades are tasked with guarding treasure chambers or wizards\u0027 studies, while others tirelessly roam the the tombs and castles of their long-forgotten masters.",
+			"description": "Animated Blades are swords imbued with arcane essence, a semblance of life breathing through them. This phenomenon can occur through enchantment magic, ancient rituals, or more rarely, the awakening of the blade itself. Driven by a deep-seated thirst for combat or an unquenchable desire for revenge, these blades act on their own, no longer requiring a wielder to carry out their intended purpose. Some of these blades are tasked with guarding treasure chambers or wizards' studies, while others tirelessly roam the the tombs and castles of their long-forgotten masters.",
 			"name": "Animated Blade",
 			"properties": {
 				"biom": [
@@ -24487,7 +24487,7 @@
 			}
 		},
 		"044-amygdalyan": {
-			"description": "Amygdalyan are predators from beyond the thin veil separating reality from the infinite ocean of madness beyond. They are drawn to trauma and tragedy like moths to a flame, first appearing in the dreams of their chosen victim, before infiltrating their mind, driving their hosts to bouts of insanity and paranoia before destroying their psyche and moving on, their perverse hunger seated for the time being. If cornered, an Amygdalyan is a cunning and perfidioius foe, using it enemies\u0027 greatest fears against them and until they perish from the strain the constant terror puts on their body and mind.",
+			"description": "Amygdalyan are predators from beyond the thin veil separating reality from the infinite ocean of madness beyond. They are drawn to trauma and tragedy like moths to a flame, first appearing in the dreams of their chosen victim, before infiltrating their mind, driving their hosts to bouts of insanity and paranoia before destroying their psyche and moving on, their perverse hunger seated for the time being. If cornered, an Amygdalyan is a cunning and perfidioius foe, using it enemies' greatest fears against them and until they perish from the strain the constant terror puts on their body and mind.",
 			"name": "Amygdalyan",
 			"properties": {
 				"biom": [
@@ -24668,7 +24668,7 @@
 			}
 		},
 		"035-roc": {
-			"description": "To describe Rocs as \u0027gigantic birds of prey\u0027 is accurate but vastly understates the horror of a creature able to carry off a fully grown elephant in its talons. They are both profane and mythical in nature, dominating their realm due to their sheer size alone, without any magical or primordial powers coursing through them. They are able to adapt to nearly any environment, causing regional differences in their appearance, as evidenced by sightings of vividly coloured tropical Rocs, as well as arctic variants with frost-wreathed pinions, preying on Yetis and Mammoths.",
+			"description": "To describe Rocs as 'gigantic birds of prey' is accurate but vastly understates the horror of a creature able to carry off a fully grown elephant in its talons. They are both profane and mythical in nature, dominating their realm due to their sheer size alone, without any magical or primordial powers coursing through them. They are able to adapt to nearly any environment, causing regional differences in their appearance, as evidenced by sightings of vividly coloured tropical Rocs, as well as arctic variants with frost-wreathed pinions, preying on Yetis and Mammoths.",
 			"name": "Roc",
 			"properties": {
 				"biom": [
@@ -24712,7 +24712,7 @@
 				],
 				"videourl": "https://youtu.be/tuZkcDQJCEc",
 				"nb_variants": 1,
-				"shortdesc": "To describe Rocs as \u0027gigantic birds of prey\u0027 is accurate but vastly understates the...",
+				"shortdesc": "To describe Rocs as 'gigantic birds of prey' is accurate but vastly understates the...",
 				"faction": [],
 				"source": "Patreon",
 				"campaign": []
@@ -24811,7 +24811,7 @@
 			}
 		},
 		"000-month_16_cathedral_knight": {
-			"description": "Cathedral Knights are towering undead tasked with guarding the great Cathedral of Silence, the spiritual center of the Deathrite Cult. Drawn from the Unspeaking, the undead martial elite of the Cult, they bask in the soundless tolling of the great cathedral\u0027s leaden bells, causing them to grow to towering size over time. Cathedral Knights are deployed to crush particularly obstinate enemies of the Cult and are always accompanied by Bell Ringers, empowering the Cathedral Knights with deathrite rituals and maintaining the shroud of blessed silence.",
+			"description": "Cathedral Knights are towering undead tasked with guarding the great Cathedral of Silence, the spiritual center of the Deathrite Cult. Drawn from the Unspeaking, the undead martial elite of the Cult, they bask in the soundless tolling of the great cathedral's leaden bells, causing them to grow to towering size over time. Cathedral Knights are deployed to crush particularly obstinate enemies of the Cult and are always accompanied by Bell Ringers, empowering the Cathedral Knights with deathrite rituals and maintaining the shroud of blessed silence.",
 			"name": "Cathedral Knight",
 			"properties": {
 				"biom": [
@@ -24902,7 +24902,7 @@
 			}
 		},
 		"000-month_1_bone_hag": {
-			"description": "Bone Hags abhor Civilized\u0027s ever expanding need for greater cities and more farmland.They regard each village as nothing but a malign growth with the potential to mutate into a tumorous City if left unchecked. As they draw strength from their bindings to the bones of the earth, the very essence of the primordial titans who gave up their bodies to create room for earthbound life, they require earth and stone untouched by tools or stonecraft, violently subduing any outside attempts to encroach on their domains.",
+			"description": "Bone Hags abhor Civilized's ever expanding need for greater cities and more farmland.They regard each village as nothing but a malign growth with the potential to mutate into a tumorous City if left unchecked. As they draw strength from their bindings to the bones of the earth, the very essence of the primordial titans who gave up their bodies to create room for earthbound life, they require earth and stone untouched by tools or stonecraft, violently subduing any outside attempts to encroach on their domains.",
 			"name": "Bone Hag",
 			"properties": {
 				"biom": [
@@ -24947,7 +24947,7 @@
 				],
 				"videourl": "https://youtu.be/RHuZD_GkJ3U",
 				"nb_variants": 2,
-				"shortdesc": "Bone Hags abhor Civilized\u0027s ever expanding need for greater cities and more...",
+				"shortdesc": "Bone Hags abhor Civilized's ever expanding need for greater cities and more...",
 				"faction": [
 					"Maiden, Mother, Crone"
 				],
@@ -25141,7 +25141,7 @@
 			}
 		},
 		"037-royal_griffon": {
-			"description": "Since ages past, the Griffon has been a symbol of just and virtuos regency, earning their species the prefix \u0027royal\u0027. Because of this symbolism, Royal Griffons are coveted mounts and familiars for any ambitious sovereign. Taming a feral Griffon is a dangerous and arduous undertaking, therefore most trained Griffons originate from Heralds Aerie, a mountain bastion held by an Order of Knights dedicated to forging a bond between a Griffon and its rider.",
+			"description": "Since ages past, the Griffon has been a symbol of just and virtuos regency, earning their species the prefix 'royal'. Because of this symbolism, Royal Griffons are coveted mounts and familiars for any ambitious sovereign. Taming a feral Griffon is a dangerous and arduous undertaking, therefore most trained Griffons originate from Heralds Aerie, a mountain bastion held by an Order of Knights dedicated to forging a bond between a Griffon and its rider.",
 			"name": "Royal Griffon",
 			"properties": {
 				"biom": [
@@ -25544,7 +25544,7 @@
 			}
 		},
 		"000-month_15_crocodile": {
-			"description": "Crocodiles appear to sport a self-satisfied grin, almost as if they\u0027re aware they\u0027re a pinnacle of evolutionary success. While others had to develop fins or feet to find their niche, those very appendages often ended up on the menu of lurking crocodiles. The stars of their own evolutionary success story ensure that life near water remains thrilling.",
+			"description": "Crocodiles appear to sport a self-satisfied grin, almost as if they're aware they're a pinnacle of evolutionary success. While others had to develop fins or feet to find their niche, those very appendages often ended up on the menu of lurking crocodiles. The stars of their own evolutionary success story ensure that life near water remains thrilling.",
 			"name": "Crocodile",
 			"properties": {
 				"biom": [
@@ -25587,7 +25587,7 @@
 				],
 				"videourl": "https://youtu.be/dC3m2uK0HXo?si=lyu8-cn0IkhqRRkM",
 				"nb_variants": 1,
-				"shortdesc": "Crocodiles appear to sport a self-satisfied grin, almost as if they\u0027re aware they\u0027re a...",
+				"shortdesc": "Crocodiles appear to sport a self-satisfied grin, almost as if they're aware they're a...",
 				"faction": [],
 				"source": "Loyalty Token",
 				"campaign": []
@@ -25978,7 +25978,7 @@
 			}
 		},
 		"117-skeletal_graveblade": {
-			"description": "Graveblades were capable warriors, their body and soul now enthralled by necromancy powerful enough to restore their martial abilities and fighting spirit. Not to be confused with the mindless shambling hordes of lesser undead they often command, they are creative in the way of using their undead form to their advantage, amplifying their martial strength with the possibilities opened up by an undying body. Their fiery passion and warrior\u0027s honour, however, transformed into the cruel coldness of the unliving, turning the Gravesblades into relentless executors of calculated and methodical slaughter.",
+			"description": "Graveblades were capable warriors, their body and soul now enthralled by necromancy powerful enough to restore their martial abilities and fighting spirit. Not to be confused with the mindless shambling hordes of lesser undead they often command, they are creative in the way of using their undead form to their advantage, amplifying their martial strength with the possibilities opened up by an undying body. Their fiery passion and warrior's honour, however, transformed into the cruel coldness of the unliving, turning the Gravesblades into relentless executors of calculated and methodical slaughter.",
 			"name": "Skeletal Graveblade",
 			"properties": {
 				"biom": [
@@ -26028,7 +26028,7 @@
 			}
 		},
 		"010-horse": {
-			"description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it\u0027s party on arduous voyages as well as dire combat scenarios.",
+			"description": "Horses are half a ton worth of muscle crammed into an elegant and timeless frame. They are fast, they are not particularly intelligent and they are an essential component of the fantasy genre. In the context of adventuring, Horses are mainly used for travel and battle, although they may as well become trusted and loved companions to the players. This reimagination of the classic Horse embodies a sturdy and valiant creature able to support it's party on arduous voyages as well as dire combat scenarios.",
 			"name": "Horse",
 			"properties": {
 				"biom": [],
@@ -26196,7 +26196,7 @@
 			}
 		},
 		"000-month_10_skeleton_dragon": {
-			"description": "A dragon\u0027s might appears to be limited only by the constraints of a physical form, forcing it to obey the laws of mortality, as they already ignore those of physics, displaying this particular brand of hybris everytime they take flight. Imagine now this creature no lounger bound to a mortal shell, instead transcending the border between life and death to become something even greater, something even more terrifying. Wreathed in night-coloured soulfire and with a malign spark lightning up its empty eye sockets, a Skeleton Dragon is a draconic nightmare given form, its mere presence draining colour from life and hope from the heart of mortal folk.",
+			"description": "A dragon's might appears to be limited only by the constraints of a physical form, forcing it to obey the laws of mortality, as they already ignore those of physics, displaying this particular brand of hybris everytime they take flight. Imagine now this creature no lounger bound to a mortal shell, instead transcending the border between life and death to become something even greater, something even more terrifying. Wreathed in night-coloured soulfire and with a malign spark lightning up its empty eye sockets, a Skeleton Dragon is a draconic nightmare given form, its mere presence draining colour from life and hope from the heart of mortal folk.",
 			"name": "Skeleton Dragon",
 			"properties": {
 				"biom": [
@@ -26237,7 +26237,7 @@
 				],
 				"videourl": "https://youtu.be/IwQQhP6KaHI?si=xD9gKN-RY79JiMMy",
 				"nb_variants": 1,
-				"shortdesc": "A dragon\u0027s might appears to be limited only by the constraints of a physical form...",
+				"shortdesc": "A dragon's might appears to be limited only by the constraints of a physical form...",
 				"faction": [],
 				"source": "Loyalty Token",
 				"campaign": []
@@ -26466,7 +26466,7 @@
 		},
 		"000-srd_deer": {
 			"name": "Deer",
-			"description": "Its fleet hooves carry it swiftly out of harm\u0027s way.",
+			"description": "Its fleet hooves carry it swiftly out of harm's way.",
 			"properties": {
 				"size": "Medium",
 				"stat_ac": 12,
@@ -26498,7 +26498,7 @@
 				],
 				"nb_variants": 1,
 				"thumbnail": "000-srd_deer-1-db.webp",
-				"shortdesc": "Its fleet hooves carry it swiftly out of harm\u0027s way.",
+				"shortdesc": "Its fleet hooves carry it swiftly out of harm's way.",
 				"faction": [],
 				"source": "SRD",
 				"campaign": []
@@ -26631,7 +26631,7 @@
 			}
 		},
 		"101-stonegorger": {
-			"description": "Stonegorgers are an enigmatic offshoot of giant-kin, lacking the majesty and grandeur of their mythical brethren. Called Skoldborer in their native tongue, fables claim that Stonegorgers devour rock and stone to get to the gems, ores and minerals within in an attempt to reunite their earthen mother with her treasures. Accumulating these precious materials within their bodies, they slowly turn into stone themselves. As they approach the end of their life, they seek ever greater depths, finally succumbing to age and pressure, returning earth\u0027s treasures to its womb. The earth welcomes its wayward children back and gracefully accepts the gifts they bring, rewarding the Stonegorger by slowly turning it into a being of pure diamond, in death finally achieving the beauty it always pursued.",
+			"description": "Stonegorgers are an enigmatic offshoot of giant-kin, lacking the majesty and grandeur of their mythical brethren. Called Skoldborer in their native tongue, fables claim that Stonegorgers devour rock and stone to get to the gems, ores and minerals within in an attempt to reunite their earthen mother with her treasures. Accumulating these precious materials within their bodies, they slowly turn into stone themselves. As they approach the end of their life, they seek ever greater depths, finally succumbing to age and pressure, returning earth's treasures to its womb. The earth welcomes its wayward children back and gracefully accepts the gifts they bring, rewarding the Stonegorger by slowly turning it into a being of pure diamond, in death finally achieving the beauty it always pursued.",
 			"name": "Stonegorger",
 			"properties": {
 				"biom": [
@@ -26731,7 +26731,7 @@
 			}
 		},
 		"000-goblin_pack_1_rabble_rouser": {
-			"description": "Within the confines of a goblin village everyone has to pull their weight. There is no place for ego, grudges or feuds, as time is better spent improving the ever slim chances of the tribe\u0027s survival than to indulge in petty conflicts. Some goblins chafe under this, for reasons of temper, personality or sheer stubborn obstinacy. A Raid Rabble is a great way to send these Rabble-Rousers to blow off some steam, before they start developing some dangerous thoughts. This is a win-win situation, as they make for furious warriors, passionate looters and grandstanding braggarts, taking their attention away from getting into trouble, continuously telling of their heroic deeds instead. That is, if they return.",
+			"description": "Within the confines of a goblin village everyone has to pull their weight. There is no place for ego, grudges or feuds, as time is better spent improving the ever slim chances of the tribe's survival than to indulge in petty conflicts. Some goblins chafe under this, for reasons of temper, personality or sheer stubborn obstinacy. A Raid Rabble is a great way to send these Rabble-Rousers to blow off some steam, before they start developing some dangerous thoughts. This is a win-win situation, as they make for furious warriors, passionate looters and grandstanding braggarts, taking their attention away from getting into trouble, continuously telling of their heroic deeds instead. That is, if they return.",
 			"name": "Goblin Rabble Rouser",
 			"properties": {
 				"biom": [
@@ -27005,7 +27005,7 @@
 			}
 		},
 		"031-swarm_of_vampire_bats": {
-			"description": "Except as a carrier of disease, a single bat does not usually pose much of a challenge for both fledgling and seasoned adventurers. But add a few hundred or even thousand bats, and you\u0027re suddenly confronted with a shrieking inferno of razor claws and pointy teeth, able to gnaw any humanoid the meat from its bones by sheer mass of bodies. Now, regular swarms of bats normally don\u0027t show signs of aggression towards beings larger than their insect prey. But in a world steeped in dark magic and beset by evil forces, bats can become dangerous creatures, revelling in a vampiric nature normally only shown by a few select subspecies of bats. These bloodthirsty swarms of bats darken the moonlight sky with ominous intent and are said to only leave drained husks in their wake...",
+			"description": "Except as a carrier of disease, a single bat does not usually pose much of a challenge for both fledgling and seasoned adventurers. But add a few hundred or even thousand bats, and you're suddenly confronted with a shrieking inferno of razor claws and pointy teeth, able to gnaw any humanoid the meat from its bones by sheer mass of bodies. Now, regular swarms of bats normally don't show signs of aggression towards beings larger than their insect prey. But in a world steeped in dark magic and beset by evil forces, bats can become dangerous creatures, revelling in a vampiric nature normally only shown by a few select subspecies of bats. These bloodthirsty swarms of bats darken the moonlight sky with ominous intent and are said to only leave drained husks in their wake...",
 			"name": "Swarm of Vampire Bats",
 			"properties": {
 				"biom": [
@@ -28141,7 +28141,7 @@
 		},
 		"000-srd_noble": {
 			"name": "Noble",
-			"description": "Represents a baseline humanoid noble. Once its stat block becomes relevant, it probably won\u0027t live long.",
+			"description": "Represents a baseline humanoid noble. Once its stat block becomes relevant, it probably won't live long.",
 			"properties": {
 				"size": "Medium",
 				"stat_ac": 12,
@@ -28402,7 +28402,7 @@
 			}
 		},
 		"103-gloomspore_harvester": {
-			"description": "Gloomspore Harvesters haunt jungles and fungus forests, swamps, subterran groves and even occasionally overgrown City sewers. In dim light, their gaunt upper body resembles a scrawny tree, while it gently shifts its weight between its branch-like six legs, allowing it to silently stride through thick underbrush, as well as crawl-climb through the tree tops. A gentle rain of soft-glowing spores surrounds it, allowing the Harvester to sense its surroundings and infesting living creatures. Each infested creature appears as a radiant beacon to the Harvester, who in turn skulks towards it to harvest its weakened prey\u0027s dwindling energy.",
+			"description": "Gloomspore Harvesters haunt jungles and fungus forests, swamps, subterran groves and even occasionally overgrown City sewers. In dim light, their gaunt upper body resembles a scrawny tree, while it gently shifts its weight between its branch-like six legs, allowing it to silently stride through thick underbrush, as well as crawl-climb through the tree tops. A gentle rain of soft-glowing spores surrounds it, allowing the Harvester to sense its surroundings and infesting living creatures. Each infested creature appears as a radiant beacon to the Harvester, who in turn skulks towards it to harvest its weakened prey's dwindling energy.",
 			"name": "Gloomspore Harvester",
 			"properties": {
 				"biom": [
@@ -28494,7 +28494,7 @@
 			}
 		},
 		"088-magarach_sentinel": {
-			"description": "Magarach were created as an ancient warrior caste to serve the formless Waking One as temple guardians, but were abandoned by their creator. With the Magarach still tending to overgrown vestiges of past glory, nature has reclaimed the once thriving temple complexes and the Magarach, blessed with the right to bathe within the sacred waters they guard, are granted longevity bordering on immortality. The Magarach protect these hidden wells, as within the sacred waters the essence of the Waking One still lingers on. Upon death, a Magarach\u0027s soul returns to these wells and it will soon rise once more, accumulating hundreds of lifetimes worth of experience, knowledge and grudges over the centuries..",
+			"description": "Magarach were created as an ancient warrior caste to serve the formless Waking One as temple guardians, but were abandoned by their creator. With the Magarach still tending to overgrown vestiges of past glory, nature has reclaimed the once thriving temple complexes and the Magarach, blessed with the right to bathe within the sacred waters they guard, are granted longevity bordering on immortality. The Magarach protect these hidden wells, as within the sacred waters the essence of the Waking One still lingers on. Upon death, a Magarach's soul returns to these wells and it will soon rise once more, accumulating hundreds of lifetimes worth of experience, knowledge and grudges over the centuries..",
 			"name": "Magarach Sentinel",
 			"properties": {
 				"biom": [
@@ -29537,7 +29537,7 @@
 			}
 		},
 		"090-swordbearer_reliquary": {
-			"description": "Swordbearer Reliquaries are vestiges of past ages, walking shrines dedicated to a forgotten deity of war and valor. These silent effigies are named Swordbearers, for ancient blades are driven deeply into their craggy form, unclear to which purpose - remembrance or veneration? It is also unknown what causes life to spark within the overgrown form of the Reliquary, causing it to rise and wander. Maybe the souls of the ancient blades thirst for battle once more, or maybe the lost deity itself slowly wakes from its god-slumber, sending out these living shrines as solemn emissaries to seek out worthy warriors to receive the old god\u0027s favor.",
+			"description": "Swordbearer Reliquaries are vestiges of past ages, walking shrines dedicated to a forgotten deity of war and valor. These silent effigies are named Swordbearers, for ancient blades are driven deeply into their craggy form, unclear to which purpose - remembrance or veneration? It is also unknown what causes life to spark within the overgrown form of the Reliquary, causing it to rise and wander. Maybe the souls of the ancient blades thirst for battle once more, or maybe the lost deity itself slowly wakes from its god-slumber, sending out these living shrines as solemn emissaries to seek out worthy warriors to receive the old god's favor.",
 			"name": "Swordbearer Reliquary",
 			"properties": {
 				"biom": [
@@ -29725,7 +29725,7 @@
 			}
 		},
 		"129-undead_archer": {
-			"description": "The legendary Undead Archers of the Burial Host serve as tireless artillery units, inexorable in their mission to provide cover for the marching troops. The Host\u0027s shambling hordes advance through a torrent of Rothail arrows. Even though their deteriorated musculature only allows the use of shortbows, they can be deployed further forward than regular archers, as an undead archer felled by return fire may rise again to continue their ceaseless barrage. Even when outmaneuvered and locked in Melee combat, the Host\u0027s archers refuse to yield, continuing their unrelenting volleys until physically incapable of doing so.",
+			"description": "The legendary Undead Archers of the Burial Host serve as tireless artillery units, inexorable in their mission to provide cover for the marching troops. The Host's shambling hordes advance through a torrent of Rothail arrows. Even though their deteriorated musculature only allows the use of shortbows, they can be deployed further forward than regular archers, as an undead archer felled by return fire may rise again to continue their ceaseless barrage. Even when outmaneuvered and locked in Melee combat, the Host's archers refuse to yield, continuing their unrelenting volleys until physically incapable of doing so.",
 			"name": "Undead Archer",
 			"properties": {
 				"biom": [
@@ -30248,7 +30248,7 @@
 			}
 		},
 		"085-aberrant_tyrant": {
-			"description": "Aberrant Tyrants birth themselves into the Material Plane through their dreams and nightmares. Considering themselves the apex of creation, an Aberrant Tyrant\u0027s worst nightmare is to be trapped in a world filled with inferior creatures. Due to the nature of the dreamlands beyond the veil, these nightmares are manifested, and the Tyrant is brought forth into the mundane world, where it promptly goes mad from the combined horrors of this experience and the utter contempt towards the vile inhabitants of this hellscape. Some Tyrants however dream of subjugating foreign worlds their inhabitants, only to wake up finally being able to do so. They are, however, no less insane.",
+			"description": "Aberrant Tyrants birth themselves into the Material Plane through their dreams and nightmares. Considering themselves the apex of creation, an Aberrant Tyrant's worst nightmare is to be trapped in a world filled with inferior creatures. Due to the nature of the dreamlands beyond the veil, these nightmares are manifested, and the Tyrant is brought forth into the mundane world, where it promptly goes mad from the combined horrors of this experience and the utter contempt towards the vile inhabitants of this hellscape. Some Tyrants however dream of subjugating foreign worlds their inhabitants, only to wake up finally being able to do so. They are, however, no less insane.",
 			"name": "Aberrant Tyrant",
 			"properties": {
 				"biom": [
@@ -30770,7 +30770,7 @@
 		},
 		"000-srd_giant_spider": {
 			"name": "Giant Spider",
-			"description": "Every arachnophobe\u0027s nightmare made manifest, not as threatening as the Weblurker Arachnid.",
+			"description": "Every arachnophobe's nightmare made manifest, not as threatening as the Weblurker Arachnid.",
 			"properties": {
 				"size": "Large",
 				"stat_ac": 12,
@@ -30808,7 +30808,7 @@
 				],
 				"nb_variants": 1,
 				"thumbnail": "000-srd_giant_spider-1-db.webp",
-				"shortdesc": "Every arachnophobe\u0027s nightmare made manifest, not as threatening as the Weblurker...",
+				"shortdesc": "Every arachnophobe's nightmare made manifest, not as threatening as the Weblurker...",
 				"faction": [],
 				"source": "SRD",
 				"campaign": []
