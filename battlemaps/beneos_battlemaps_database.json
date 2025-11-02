@@ -42415,6 +42415,462 @@
                                 "download_terms": "SC: knucklebone the well tavern",
                                 "download_creator": "Beneos Battlemaps"
                                 }
+                    },
+                    "101-01_modular_cave_entry-4k_BM":{
+                        "name":"modular cave entry",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Mountain","Exteriour","Chasm"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"101_Modular_Cave",
+                        "releaseurl":"WIP",
+                        "sibling":"101-01_modular_cave_entry-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"101-01_modular_cave_entry-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Modular Cave - 101",
+                        "download_terms": "BM: modular cave entry",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "101-01_modular_cave_entry-4k_Scen":{
+                                "name":"modular cave entry",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Mountain","Exteriour","Chasm"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"101_Modular_Cave",
+                                "releaseurl":"WIP",
+                                "sibling":"101-01_modular_cave_entry-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"101-01_modular_cave_entry-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Modular Cave - 101",
+                                "download_terms": "SC: modular cave entry",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "101-02_modular_cave_hall_1-4k_BM":{
+                        "name":"modular cave hall 1",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Underdark"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"101_Modular_Cave",
+                        "releaseurl":"WIP",
+                        "sibling":"101-02_modular_cave_hall_1-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"101-02_modular_cave_hall_1-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Modular Cave - 101",
+                        "download_terms": "BM: modular cave hall 1",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "101-02_modular_cave_hall_1-4k_Scen":{
+                                "name":"modular cave hall 1",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Underdark"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"101_Modular_Cave",
+                                "releaseurl":"WIP",
+                                "sibling":"101-02_modular_cave_hall_1-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"101-02_modular_cave_hall_1-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Modular Cave - 101",
+                                "download_terms": "SC: modular cave hall 1",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "101-03_modular_cave_tunnels-4k_BM":{
+                        "name":"modular cave tunnels",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Underdark"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"101_Modular_Cave",
+                        "releaseurl":"WIP",
+                        "sibling":"101-03_modular_cave_tunnels-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"101-03_modular_cave_tunnels-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Modular Cave - 101",
+                        "download_terms": "BM: modular cave tunnels",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "101-03_modular_cave_tunnels-4k_Scen":{
+                                "name":"modular cave tunnels",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Underdark"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"101_Modular_Cave",
+                                "releaseurl":"WIP",
+                                "sibling":"101-03_modular_cave_tunnels-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"101-03_modular_cave_tunnels-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Modular Cave - 101",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "101-04_modular_cave_hall_2-4k_BM":{
+                        "name":"modular cave hall 2",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Underdark"],
+                        "brightness":"Medium",
+                        "grid":"50x20",
+                        "pack":"101_Modular_Cave",
+                        "releaseurl":"WIP",
+                        "sibling":"101-04_modular_cave_hall_2-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"101-04_modular_cave_hall_2-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Modular Cave - 101",
+                        "download_terms": "BM: modular cave hall 2",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "101-04_modular_cave_hall_2-4k_Scen":{
+                                "name":"modular cave hall 2",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Underdark"],
+                                "brightness":"Medium",
+                                "grid":"50x20",
+                                "pack":"101_Modular_Cave",
+                                "releaseurl":"WIP",
+                                "sibling":"101-04_modular_cave_hall_2-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"101-04_modular_cave_hall_2-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Modular Cave - 101",
+                                "download_terms": "SC: modular cave hall 2",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "101-05_modular_cave_gorge_exit-4k_BM":{
+                        "name":"modular cave gorge exit",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Underdark","Chasm"],
+                        "brightness":"Medium",
+                        "grid":"35x25",
+                        "pack":"101_Modular_Cave",
+                        "releaseurl":"WIP",
+                        "sibling":"101-05_modular_cave_gorge_exit-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"101-05_modular_cave_gorge_exit-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Modular Cave - 101",
+                        "download_terms": "BM: modular cave gorge exit",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "101-05_modular_cave_gorge_exit-4k_Scen":{
+                                "name":"modular cave gorge exit",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Underdark","Chasm"],
+                                "brightness":"Medium",
+                                "grid":"35x25",
+                                "pack":"101_Modular_Cave",
+                                "releaseurl":"WIP",
+                                "sibling":"101-05_modular_cave_gorge_exit-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"101-05_modular_cave_gorge_exit-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Modular Cave - 101",
+                                "download_terms": "SC: modular cave gorge exit",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "101-06_modular_cave_gorge_bridge-4k_BM":{
+                        "name":"modular cave gorge bridge",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Underdark","Chasm"],
+                        "brightness":"Medium",
+                        "grid":"35x25",
+                        "pack":"101_Modular_Cave",
+                        "releaseurl":"WIP",
+                        "sibling":"101-06_modular_cave_gorge_bridge-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"101-06_modular_cave_gorge_bridge-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Modular Cave - 101",
+                        "download_terms": "BM: modular cave gorge bridge",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "101-06_modular_cave_gorge_bridge-4k_Scen":{
+                                "name":"modular cave gorge bridge",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Underdark","Chasm"],
+                                "brightness":"Medium",
+                                "grid":"35x25",
+                                "pack":"101_Modular_Cave",
+                                "releaseurl":"WIP",
+                                "sibling":"101-06_modular_cave_gorge_bridge-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"101-06_modular_cave_gorge_bridge-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Modular Cave - 101",
+                                "download_terms": "SC: modular cave gorge bridge",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "101-07_modular_cave_gorge-4k_BM":{
+                        "name":"modular cave gorge",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Underdark","Chasm"],
+                        "brightness":"Medium",
+                        "grid":"35x25",
+                        "pack":"101_Modular_Cave",
+                        "releaseurl":"WIP",
+                        "sibling":"101-07_modular_cave_gorge-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"101-07_modular_cave_gorge-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Modular Cave - 101",
+                        "download_terms": "BM: modular cave gorge",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "101-07_modular_cave_gorge-4k_Scen":{
+                                "name":"modular cave gorge",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Underdark","Chasm"],
+                                "brightness":"Medium",
+                                "grid":"35x25",
+                                "pack":"101_Modular_Cave",
+                                "releaseurl":"WIP",
+                                "sibling":"101-07_modular_cave_gorge-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"101-07_modular_cave_gorge-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Modular Cave - 101",
+                                "download_terms": "SC: modular cave gorge",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "101-08_modular_cave_mushroom_forest-4k_BM":{
+                        "name":"modular cave mushroom forest",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Underdark"],
+                        "brightness":"Medium",
+                        "grid":"60x40",
+                        "pack":"101_Modular_Cave",
+                        "releaseurl":"WIP",
+                        "sibling":"101-08_modular_cave_mushroom_forest-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"101-08_modular_cave_mushroom_forest-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Modular Cave - 101",
+                        "download_terms": "BM: modular cave mushroom forest",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "101-08_modular_cave_mushroom_forest-4k_Scen":{
+                                "name":"modular cave mushroom forest",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Underdark"],
+                                "brightness":"Medium",
+                                "grid":"60x40",
+                                "pack":"101_Modular_Cave",
+                                "releaseurl":"WIP",
+                                "sibling":"101-08_modular_cave_mushroom_forest-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"101-08_modular_cave_mushroom_forest-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Modular Cave - 101",
+                                "download_terms": "SC: modular cave mushroom forest",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "101-09_modular_cave_lake_island-4k_BM":{
+                        "name":"modular cave lake island",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Underdark","Lake","Water"],
+                        "brightness":"Medium",
+                        "grid":"40x40",
+                        "pack":"101_Modular_Cave",
+                        "releaseurl":"WIP",
+                        "sibling":"101-09_modular_cave_lake_island-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"101-09_modular_cave_lake_island-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Modular Cave - 101",
+                        "download_terms": "BM: modular cave lake island",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "101-09_modular_cave_lake_island-4k_Scen":{
+                                "name":"modular cave lake island",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Underdark","Lake","Water"],
+                                "brightness":"Medium",
+                                "grid":"40x40",
+                                "pack":"101_Modular_Cave",
+                                "releaseurl":"WIP",
+                                "sibling":"101-09_modular_cave_lake_island-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"101-09_modular_cave_lake_island-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Modular Cave - 101",
+                                "download_terms": "SC: modular cave lake island",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "101-10_modular_cave_lake-4k_BM":{
+                        "name":"modular cave lake",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Underdark","Lake","Water"],
+                        "brightness":"Medium",
+                        "grid":"40x40",
+                        "pack":"101_Modular_Cave",
+                        "releaseurl":"WIP",
+                        "sibling":"101-10_modular_cave_lake-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"101-10_modular_cave_lake-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Modular Cave - 101",
+                        "download_terms": "BM: modular cave lake",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "101-10_modular_cave_lake-4k_Scen":{
+                                "name":"modular cave lake",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Underdark","Lake","Water"],
+                                "brightness":"Medium",
+                                "grid":"40x40",
+                                "pack":"101_Modular_Cave",
+                                "releaseurl":"WIP",
+                                "sibling":"101-10_modular_cave_lake-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"101-10_modular_cave_lake-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Modular Cave - 101",
+                                "download_terms": "SC: modular cave lake",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "101-11_modular_cave_camp-4k_BM":{
+                        "name":"modular cave camp",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Underdark","Camp"],
+                        "brightness":"Medium",
+                        "grid":"25x25",
+                        "pack":"101_Modular_Cave",
+                        "releaseurl":"WIP",
+                        "sibling":"101-11_modular_cave_camp-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"101-11_modular_cave_camp-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Modular Cave - 101",
+                        "download_terms": "BM: modular cave camp",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "101-11_modular_cave_camp-4k_Scen":{
+                                "name":"modular cave camp",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Underdark","Camp"],
+                                "brightness":"Medium",
+                                "grid":"25x25",
+                                "pack":"101_Modular_Cave",
+                                "releaseurl":"WIP",
+                                "sibling":"101-11_modular_cave_camp-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"101-11_modular_cave_camp-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Modular Cave - 101",
+                                "download_terms": "SC: modular cave camp",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "101-12_modular_cave_combat_arena-4k_BM":{
+                        "name":"modular cave combat arena",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Cave","Underground","Underdark"],
+                        "brightness":"Medium",
+                        "grid":"25x25",
+                        "pack":"101_Modular_Cave",
+                        "releaseurl":"WIP",
+                        "sibling":"101-12_modular_cave_combat_arena-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"101-12_modular_cave_combat_arena-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Modular Cave - 101",
+                        "download_terms": "BM: modular cave combat arena",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "101-12_modular_cave_combat_arena-4k_Scen":{
+                                "name":"modular cave combat arena",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Cave","Underground","Underdark"],
+                                "brightness":"Medium",
+                                "grid":"25x25",
+                                "pack":"101_Modular_Cave",
+                                "releaseurl":"WIP",
+                                "sibling":"101-12_modular_cave_combat_arena-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"101-12_modular_cave_combat_arena-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Modular Cave - 101",
+                                "download_terms": "SC: modular cave combat arena",
+                                "download_creator": "Beneos Battlemaps"
+                                }
                             }
                         }
                     }
