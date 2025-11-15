@@ -2690,7 +2690,7 @@
     },
     "0099_crowfathers_kin": {
       "key": "0099_crowfathers_kin",
-      "description": "A murder of crows hacks at your enmies, blinds them and protects you.",
+      "description": "A murder of crows hacks at your enemies, blinds them and protects you.",
       "name": "Crowfather's Kin",
       "properties": {
         "level": "4",
@@ -2785,6 +2785,107 @@
           "S"
         ],
         "icon": "0102_elemental_blessing-icon.webp"
+      }
+    },
+    "0106_crypt_mist": {
+      "key": "0106_crypt_mist",
+      "description": "Cursed mist that poisons the living why emboldening the undead.",
+      "name": "Crypt Mist",
+      "properties": {
+        "level": "4",
+        "school": "Necromancy",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Buff",
+        "classes": [
+          "Bard",
+          "Cleric",
+          "Druid",
+          "Paladin",
+          "Sorcerer",
+          "Warlock",
+          "Wizard"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0106_crypt_mist-icon.webp"
+      }
+    },
+    "0103_raise_graveguard": {
+      "key": "0103_raise_graveguard",
+      "description": "Two armored undead guard you, persisting a while even should you fall.",
+      "name": "Raise Grave-Guard",
+      "properties": {
+        "level": "6",
+        "school": "Necromancy",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Summon",
+        "classes": [
+          "Bard",
+          "Cleric",
+          "Sorcerer",
+          "Wizard"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0103_raise_graveguard-icon.webp"
+      }
+    },
+    "0104_armored_sanctum": {
+      "key": "0104_armored_sanctum",
+      "description": "An iron fist encloses your body in its grip, shielding you from harm.",
+      "name": "Armored Sanctum",
+      "properties": {
+        "level": "4",
+        "school": "Conjuration",
+        "casting_time": "Bonus Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Protection",
+        "classes": [
+          "Bard",
+          "Cleric",
+          "Paladin",
+          "Sorcerer",
+          "Warlock",
+          "Wizard"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0104_armored_sanctum-icon.webp"
+      }
+    },
+    "0105_unmake": {
+      "key": "0105_unmake",
+      "description": "Damages and debilitates target, possibly killing it instantly.",
+      "name": "Unmake",
+      "properties": {
+        "level": "7",
+        "school": "Necromancy",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Ranged Damage",
+        "classes": [
+          "Bard",
+          "Cleric",
+          "Sorcerer",
+          "Wizard"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0105_unmake-icon.webp"
       }
     }
   }
