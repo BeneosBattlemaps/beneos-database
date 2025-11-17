@@ -5375,51 +5375,49 @@
                                                                               ]
                                                              }
                                           },
-                    "188-conflagrator_effigy":  {
-                                                    "description":  "The Conflagrator Effigy, an infernal war machine, immolates enemies with searing hellfire.",
-                                                    "name":  "Conflagrator Effigy",
-                                                    "properties":  {
-                                                                       "biom":  [
-                                                                                    "planar",
-                                                                                    "infernal"
-                                                                                ],
-                                                                       "cr":  "8",
-                                                                       "fightingstyle":  [
-                                                                                             "demanding",
-                                                                                             "aoe"
-                                                                                         ],
-                                                                       "movement":  "fly",
-                                                                       "purpose":  [
-                                                                                       "damage",
-                                                                                       "debuff"
-                                                                                   ],
-                                                                       "releaseurl":  "https://www.patreon.com/posts/188-conflagrator-120868369",
-                                                                       "size":  "huge",
-                                                                       "stat_ac":  17,
-                                                                       "stat_cha":  16,
-                                                                       "stat_con":  16,
-                                                                       "stat_dex":  8,
-                                                                       "stat_hp":  133,
-                                                                       "stat_int":  4,
-                                                                       "stat_str":  16,
-                                                                       "stat_wis":  6,
-                                                                       "thumbnail":  "188-conflagrator_effigy-1-db.webp",
-                                                                       "type":  [
-                                                                                    "fiend",
-                                                                                    "devil"
-                                                                                ],
-                                                                       "videourl":  "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
-                                                                       "nb_variants":  1,
-                                                                       "shortdesc":  "The Conflagrator Effigy, an infernal war machine, immolates enemies with searing hellfire.",
-                                                                       "faction":  [
-                                                                                       "Infernal Legions"
-                                                                                   ],
-                                                                       "source":  "Patreon",
-                                                                       "campaign":  [
+                    "000-srd_keelboat":  {
+                                             "name":  "Keelboat",
+                                             "description":  "Comparatively small boat, yet still capable of carrying a full party and then some.",
+                                             "properties":  {
+                                                                "size":  "Large",
+                                                                "stat_ac":  15,
+                                                                "stat_cha":  0,
+                                                                "stat_con":  10,
+                                                                "stat_dex":  10,
+                                                                "stat_hp":  100,
+                                                                "stat_int":  0,
+                                                                "stat_str":  10,
+                                                                "stat_wis":  0,
+                                                                "cr":  0,
+                                                                "movement":  [
+                                                                                 "Swim"
+                                                                             ],
+                                                                "biom":  [
+                                                                             "Any"
+                                                                         ],
+                                                                "fightingstyle":  [
+                                                                                      "Vehicle"
+                                                                                  ],
+                                                                "purpose":  [
+                                                                                "Mount"
+                                                                            ],
+                                                                "releaseurl":  "https://www.patreon.com/c/BeneosTokens",
+                                                                "videourl":  "https://www.youtube.com/watch?v=fwLYhQJNgKU",
+                                                                "type":  [
 
-                                                                                    ]
-                                                                   }
-                                                },
+                                                                         ],
+                                                                "nb_variants":  1,
+                                                                "thumbnail":  "000-srd_keelboat-1-db.webp",
+                                                                "shortdesc":  "Comparatively small boat, yet still capable of carrying a full party and then some.",
+                                                                "faction":  [
+
+                                                                            ],
+                                                                "source":  "SRD",
+                                                                "campaign":  [
+
+                                                                             ]
+                                                            }
+                                         },
                     "047-swifttalon_raptor":  {
                                                   "description":  "Lithe pack hunters often found in the wake of larger predators to get a few bites in themselves.",
                                                   "name":  "Swifttalon Raptor",
@@ -8326,49 +8324,52 @@
                                                                       ]
                                                      }
                                   },
-                    "000-srd_keelboat":  {
-                                             "name":  "Keelboat",
-                                             "description":  "Comparatively small boat, yet still capable of carrying a full party and then some.",
-                                             "properties":  {
-                                                                "size":  "Large",
-                                                                "stat_ac":  15,
-                                                                "stat_cha":  0,
-                                                                "stat_con":  10,
-                                                                "stat_dex":  10,
-                                                                "stat_hp":  100,
-                                                                "stat_int":  0,
-                                                                "stat_str":  10,
-                                                                "stat_wis":  0,
-                                                                "cr":  0,
-                                                                "movement":  [
-                                                                                 "Swim"
+                    "214-draconic_devotee":  {
+                                                 "description":  "Fanatical cultists able defy death and empower their patron through acts of faith.",
+                                                 "name":  "Draconic Devotee",
+                                                 "properties":  {
+                                                                    "biom":  [
+                                                                                 "lair",
+                                                                                 "civilized",
+                                                                                 "city",
+                                                                                 "road"
                                                                              ],
-                                                                "biom":  [
-                                                                             "Any"
-                                                                         ],
-                                                                "fightingstyle":  [
-                                                                                      "Vehicle"
-                                                                                  ],
-                                                                "purpose":  [
-                                                                                "Mount"
-                                                                            ],
-                                                                "releaseurl":  "https://www.patreon.com/c/BeneosTokens",
-                                                                "videourl":  "https://www.youtube.com/watch?v=fwLYhQJNgKU",
-                                                                "type":  [
+                                                                    "cr":  "1",
+                                                                    "fightingstyle":  [
+                                                                                          "pack"
+                                                                                      ],
+                                                                    "movement":  "walk",
+                                                                    "purpose":  [
+                                                                                    "support",
+                                                                                    "minion"
+                                                                                ],
+                                                                    "releaseurl":  "https://www.patreon.com/posts/new-cultist-138520141",
+                                                                    "size":  "medium",
+                                                                    "stat_ac":  14,
+                                                                    "stat_cha":  14,
+                                                                    "stat_con":  12,
+                                                                    "stat_dex":  13,
+                                                                    "stat_hp":  22,
+                                                                    "stat_int":  9,
+                                                                    "stat_str":  14,
+                                                                    "stat_wis":  10,
+                                                                    "thumbnail":  "214-draconic_devotee-1-db.webp",
+                                                                    "type":  [
+                                                                                 "humanoid",
+                                                                                 "cultist"
+                                                                             ],
+                                                                    "videourl":  "https://youtu.be/V42zCUhRN5o",
+                                                                    "nb_variants":  2,
+                                                                    "shortdesc":  "Fanatical cultists able defy death and empower their patron through acts of faith.",
+                                                                    "faction":  [
 
-                                                                         ],
-                                                                "nb_variants":  1,
-                                                                "thumbnail":  "000-srd_keelboat-1-db.webp",
-                                                                "shortdesc":  "Comparatively small boat, yet still capable of carrying a full party and then some.",
-                                                                "faction":  [
+                                                                                ],
+                                                                    "source":  "Patreon",
+                                                                    "campaign":  [
 
-                                                                            ],
-                                                                "source":  "SRD",
-                                                                "campaign":  [
-
-                                                                             ]
-                                                            }
-                                         },
+                                                                                 ]
+                                                                }
+                                             },
                     "000-srd_vampire_familiar":  {
                                                      "name":  "Vampire Familiar",
                                                      "description":  "Serves its vampire master as both spy and predator.",
@@ -9277,6 +9278,56 @@
                                                                                  ]
                                                                 }
                                              },
+                    "013-harpyia":  {
+                                        "description":  "Not many a  creature is as unjustly feared and detested as the Harpyia. Decried as carriers of bad omen, death and evil magic, they have been hunted to near extinction. The remaining Harpyies prefer to nest on storm-wreathed cliffsides and within coastal ravines, seeking safety in isolation. Legend has them born from wind and water, which might explain their affinity to the sea. Colonies, or *parliaments*, of Harpyies can be often found nesting atop the salt-encrusted masts and rigging of beached shipwrecks. This behaviour unfortunately further feeds the hate and fear towards them, as they stand accused of gloating over the misfortune of others, when in reality Harpyies are inclined to protect shipwrecked sailors from actual malicious creatures like the alluring Sirens.",
+                                        "name":  "Harpyia",
+                                        "properties":  {
+                                                           "biom":  [
+                                                                        "Wilderness",
+                                                                        "Coast",
+                                                                        "Road"
+                                                                    ],
+                                                           "cr":  "3",
+                                                           "fightingstyle":  [
+                                                                                 "Airborne",
+                                                                                 "Pack",
+                                                                                 "Area of Effect"
+                                                                             ],
+                                                           "movement":  [
+                                                                            "Walk",
+                                                                            "Fly"
+                                                                        ],
+                                                           "purpose":  [
+                                                                           "Damage",
+                                                                           "Minion"
+                                                                       ],
+                                                           "releaseurl":  "https://www.patreon.com/posts/basic-creature-53489969",
+                                                           "size":  "medium",
+                                                           "stat_ac":  12,
+                                                           "stat_cha":  8,
+                                                           "stat_con":  12,
+                                                           "stat_dex":  18,
+                                                           "stat_hp":  32,
+                                                           "stat_int":  14,
+                                                           "stat_str":  10,
+                                                           "stat_wis":  16,
+                                                           "thumbnail":  "013-harpyia-1-db.webp",
+                                                           "type":  [
+                                                                        "monstrosity",
+                                                                        "demi-human"
+                                                                    ],
+                                                           "videourl":  "https://www.youtube.com/watch?v=INKJw3Ha0tc",
+                                                           "nb_variants":  1,
+                                                           "shortdesc":  "Not many a creature is as unjustly feared and detested as the Harpyia.",
+                                                           "faction":  [
+
+                                                                       ],
+                                                           "source":  "Patreon",
+                                                           "campaign":  [
+
+                                                                        ]
+                                                       }
+                                    },
                     "000-srd_giant_octopus":  {
                                                   "name":  "Giant Octopus",
                                                   "description":  "Smarter than the average barbarian.",
@@ -9367,6 +9418,60 @@
                                                                                    ]
                                                                   }
                                                },
+                    "162-brigand":  {
+                                        "description":  "Rugged armed peasants relying on creative ambush tactics to even the odds.",
+                                        "name":  "Brigand",
+                                        "properties":  {
+                                                           "biom":  [
+                                                                        "Road",
+                                                                        "Wastelands",
+                                                                        "Forest",
+                                                                        "Swamp",
+                                                                        "grave",
+                                                                        "Civilized",
+                                                                        "Jungle",
+                                                                        "Mountain"
+                                                                    ],
+                                                           "cr":  "1",
+                                                           "fightingstyle":  [
+                                                                                 "Ambush",
+                                                                                 "Predator",
+                                                                                 "Pack"
+                                                                             ],
+                                                           "movement":  [
+                                                                            "Walk"
+                                                                        ],
+                                                           "purpose":  [
+                                                                           "Minion",
+                                                                           "Classic"
+                                                                       ],
+                                                           "releaseurl":  "https://www.patreon.com/posts/brigands-104963999",
+                                                           "size":  "Medium",
+                                                           "stat_ac":  15,
+                                                           "stat_cha":  10,
+                                                           "stat_con":  14,
+                                                           "stat_dex":  14,
+                                                           "stat_hp":  26,
+                                                           "stat_int":  11,
+                                                           "stat_str":  15,
+                                                           "stat_wis":  14,
+                                                           "thumbnail":  "162-brigand-1-db.webp",
+                                                           "type":  [
+                                                                        "humanoid",
+                                                                        "Human"
+                                                                    ],
+                                                           "videourl":  "https://youtu.be/QJ4vvUwJK98?si=fYanuggbZSn8sb3g",
+                                                           "nb_variants":  4,
+                                                           "shortdesc":  "Rugged armed peasants relying on creative ambush tactics to even the odds.",
+                                                           "faction":  [
+
+                                                                       ],
+                                                           "source":  "Patreon",
+                                                           "campaign":  [
+
+                                                                        ]
+                                                       }
+                                    },
                     "093-faceless":  {
                                          "description":  "Faceless are demons of murder, summoned by ritual and bound to a worldy anchor by its summoner. Faceless tirelessly hunt their prey, unhindered by locks, guards or castle walls. Despite acting independently, each Faceless is an aspect of a greater demonic entity, either unable or unwilling to leave its home plane. This makes Faceless all the more terrifying, as a designated victim oftentimes finds itself harried by a neverending stream of demonic incursions until it finally succumbs to the continuous assaults. A creature targeted by the Faceless can only hope for the summoner\u0027s death or to evade its own demise long enough to wear out the patience of the demon.",
                                          "name":  "Faceless",
@@ -10251,58 +10356,6 @@
                                                                         ]
                                                        }
                                     },
-                    "076-deathsworn":  {
-                                           "description":  "Orc warrior seeking death in honourable combat. Their solemn, yet energetic fighting style resembles a lethal dance.",
-                                           "name":  "Deathsworn",
-                                           "properties":  {
-                                                              "biom":  [
-                                                                           "Civilized",
-                                                                           "City",
-                                                                           "Wilderness",
-                                                                           "Road",
-                                                                           "Mountain",
-                                                                           "Desert",
-                                                                           "ruin"
-                                                                       ],
-                                                              "cr":  "5",
-                                                              "fightingstyle":  [
-                                                                                    "Charge",
-                                                                                    "Interactive"
-                                                                                ],
-                                                              "movement":  [
-                                                                               "Walk"
-                                                                           ],
-                                                              "purpose":  [
-                                                                              "Duelist",
-                                                                              "Damage"
-                                                                          ],
-                                                              "releaseurl":  "",
-                                                              "size":  "medium",
-                                                              "stat_ac":  16,
-                                                              "stat_cha":  12,
-                                                              "stat_con":  15,
-                                                              "stat_dex":  18,
-                                                              "stat_hp":  67,
-                                                              "stat_int":  13,
-                                                              "stat_str":  14,
-                                                              "stat_wis":  16,
-                                                              "thumbnail":  "076-deathsworn-1-db.webp",
-                                                              "type":  [
-                                                                           "humanoid",
-                                                                           "orc"
-                                                                       ],
-                                                              "videourl":  "https://youtu.be/p9B4x9Vb38k",
-                                                              "nb_variants":  1,
-                                                              "shortdesc":  "Orc warrior seeking death in honourable combat.",
-                                                              "faction":  [
-
-                                                                          ],
-                                                              "source":  "Patreon",
-                                                              "campaign":  [
-
-                                                                           ]
-                                                          }
-                                       },
                     "000-srd_conjured_fey":  {
                                                  "name":  "Conjured Fey",
                                                  "description":  "Flits into battle at its summonerâ€™s command.",
@@ -14213,6 +14266,56 @@
                                                                             ]
                                                            }
                                         },
+                    "220-corrupted_champion":  {
+                                                   "description":  "Corruption and taint can take many forms, especially when countless entities across the planes eagerly wait to bestow their dubious gifts. whether through willing acceptance or infection, corruption can find a foothold in the souls or bodies of creatures and begin to bloom. it promises boundless strength and power, but ultimately always at the cost of one\u0027s own self.",
+                                                   "name":  "Corrupted Champion",
+                                                   "properties":  {
+                                                                      "biom":  [
+                                                                                   "planar",
+                                                                                   "infernal",
+                                                                                   "horror",
+                                                                                   "dungeon",
+                                                                                   "catacomb",
+                                                                                   "ruin",
+                                                                                   "grave",
+                                                                                   "road",
+                                                                                   "civilized",
+                                                                                   "castle"
+                                                                               ],
+                                                                      "cr":  "7",
+                                                                      "fightingstyle":  [
+                                                                                            "melee",
+                                                                                            "regeneration"
+                                                                                        ],
+                                                                      "movement":  "walk",
+                                                                      "purpose":  [
+                                                                                      "tank",
+                                                                                      "duellist",
+                                                                                      "debuff"
+                                                                                  ],
+                                                                      "releaseurl":  "https://www.patreon.com/posts/new-champion-143576712",
+                                                                      "size":  "large",
+                                                                      "stat_ac":  18,
+                                                                      "stat_cha":  94,
+                                                                      "stat_con":  95,
+                                                                      "stat_dex":  96,
+                                                                      "stat_hp":  79,
+                                                                      "stat_int":  96,
+                                                                      "stat_str":  98,
+                                                                      "stat_wis":  99,
+                                                                      "thumbnail":  "220-corrupted_champion-1-db.webp",
+                                                                      "type":  [
+                                                                                   "humanoid",
+                                                                                   "corrupted"
+                                                                               ],
+                                                                      "videourl":  "https://youtu.be/ynwgwl7dnui?si=ixsako7u4snqve6k",
+                                                                      "nb_variants":  1,
+                                                                      "shortdesc":  "Adapts and regenerates, causes festering wounds.",
+                                                                      "faction":  "",
+                                                                      "source":  "Patreon",
+                                                                      "campaign":  ""
+                                                                  }
+                                               },
                     "000-srd_carpet_of_flying_5_by_7_ft":  {
                                                                "name":  "Carpet of Flying 5 by 7 ft",
                                                                "description":  "Hovers at the command of its rider, offering swift and silent aerial transport.",
@@ -14257,56 +14360,63 @@
                                                                                                ]
                                                                               }
                                                            },
-                    "013-harpyia":  {
-                                        "description":  "Not many a  creature is as unjustly feared and detested as the Harpyia. Decried as carriers of bad omen, death and evil magic, they have been hunted to near extinction. The remaining Harpyies prefer to nest on storm-wreathed cliffsides and within coastal ravines, seeking safety in isolation. Legend has them born from wind and water, which might explain their affinity to the sea. Colonies, or *parliaments*, of Harpyies can be often found nesting atop the salt-encrusted masts and rigging of beached shipwrecks. This behaviour unfortunately further feeds the hate and fear towards them, as they stand accused of gloating over the misfortune of others, when in reality Harpyies are inclined to protect shipwrecked sailors from actual malicious creatures like the alluring Sirens.",
-                                        "name":  "Harpyia",
-                                        "properties":  {
-                                                           "biom":  [
-                                                                        "Wilderness",
-                                                                        "Coast",
-                                                                        "Road"
-                                                                    ],
-                                                           "cr":  "3",
-                                                           "fightingstyle":  [
-                                                                                 "Airborne",
-                                                                                 "Pack",
-                                                                                 "Area of Effect"
+                    "026-vampire_spawn":  {
+                                              "description":  "Everlasting mist floods the land of Barovia, the cursed realm of Strahd von Zahrovich. Barovia teems with dreadful creatures, most of which are hellbent on making the player\u0027s stay in their realm a harrowing one. For Spooktober 2021 we decided to give the iconic Vampire Spawns roaming the crypts and castles of Curse of Strahd a unique spin! The Barovian Vampire spawn is closely bonded to Strahd, who is the land himself, as we all know! This is reflected by increased mental stats and a strange symbiotic relationship with the mist that wreathes it\u0027s masters domain, granting a formidable foe even more power and making for a creature able to haunt even veteran players\u0027 nightmares!",
+                                              "name":  "Vampire Spawn",
+                                              "properties":  {
+                                                                 "biom":  [
+                                                                              "Dungeon",
+                                                                              "ruin",
+                                                                              "grave",
+                                                                              "Horror",
+                                                                              "Road",
+                                                                              "Wilderness",
+                                                                              "Lair",
+                                                                              "Civilized",
+                                                                              "Wastelands",
+                                                                              "Underground",
+                                                                              "Desert"
+                                                                          ],
+                                                                 "cr":  "5",
+                                                                 "fightingstyle":  [
+                                                                                       "Melee",
+                                                                                       "Regeneration"
+                                                                                   ],
+                                                                 "movement":  [
+                                                                                  "Walk",
+                                                                                  "Climb"
+                                                                              ],
+                                                                 "purpose":  [
+                                                                                 "Damage",
+                                                                                 "Classic"
                                                                              ],
-                                                           "movement":  [
-                                                                            "Walk",
-                                                                            "Fly"
-                                                                        ],
-                                                           "purpose":  [
-                                                                           "Damage",
-                                                                           "Minion"
-                                                                       ],
-                                                           "releaseurl":  "https://www.patreon.com/posts/basic-creature-53489969",
-                                                           "size":  "medium",
-                                                           "stat_ac":  12,
-                                                           "stat_cha":  8,
-                                                           "stat_con":  12,
-                                                           "stat_dex":  18,
-                                                           "stat_hp":  32,
-                                                           "stat_int":  14,
-                                                           "stat_str":  10,
-                                                           "stat_wis":  16,
-                                                           "thumbnail":  "013-harpyia-1-db.webp",
-                                                           "type":  [
-                                                                        "monstrosity",
-                                                                        "demi-human"
-                                                                    ],
-                                                           "videourl":  "https://www.youtube.com/watch?v=INKJw3Ha0tc",
-                                                           "nb_variants":  1,
-                                                           "shortdesc":  "Not many a creature is as unjustly feared and detested as the Harpyia.",
-                                                           "faction":  [
+                                                                 "releaseurl":  "https://www.patreon.com/posts/vampire-spawn-57268303",
+                                                                 "size":  "medium",
+                                                                 "stat_ac":  14,
+                                                                 "stat_cha":  16,
+                                                                 "stat_con":  16,
+                                                                 "stat_dex":  16,
+                                                                 "stat_hp":  80,
+                                                                 "stat_int":  13,
+                                                                 "stat_str":  16,
+                                                                 "stat_wis":  13,
+                                                                 "thumbnail":  "026-vampire_spawn-1-db.webp",
+                                                                 "type":  [
+                                                                              "undead",
+                                                                              "vampire"
+                                                                          ],
+                                                                 "videourl":  "https://youtu.be/LXhyJtSYF2s",
+                                                                 "nb_variants":  4,
+                                                                 "shortdesc":  "Everlasting mist floods the land of Barovia, the cursed realm of Strahd von Zahrovich.",
+                                                                 "faction":  [
 
-                                                                       ],
-                                                           "source":  "Patreon",
-                                                           "campaign":  [
+                                                                             ],
+                                                                 "source":  "Patreon",
+                                                                 "campaign":  [
 
-                                                                        ]
-                                                       }
-                                    },
+                                                                              ]
+                                                             }
+                                          },
                     "000-srd_hippopotamus":  {
                                                  "name":  "Hippopotamus",
                                                  "description":  "A tough animal with strong jaws and surprising speed, dangerous both in water and on land.",
@@ -14412,60 +14522,55 @@
                                                                              ]
                                                             }
                                          },
-                    "162-brigand":  {
-                                        "description":  "Rugged armed peasants relying on creative ambush tactics to even the odds.",
-                                        "name":  "Brigand",
-                                        "properties":  {
-                                                           "biom":  [
-                                                                        "Road",
-                                                                        "Wastelands",
-                                                                        "Forest",
-                                                                        "Swamp",
-                                                                        "grave",
-                                                                        "Civilized",
-                                                                        "Jungle",
-                                                                        "Mountain"
-                                                                    ],
-                                                           "cr":  "1",
-                                                           "fightingstyle":  [
-                                                                                 "Ambush",
-                                                                                 "Predator",
-                                                                                 "Pack"
-                                                                             ],
-                                                           "movement":  [
-                                                                            "Walk"
+                    "071-blade_slave":  {
+                                            "description":  "Humanoid husk torturted into madness, empowered by taking slashing damage while erratically swinging a greatword.",
+                                            "name":  "Blade Slave",
+                                            "properties":  {
+                                                               "biom":  [
+                                                                            "City",
+                                                                            "Civilized",
+                                                                            "Road",
+                                                                            "Dungeon",
+                                                                            "Sacral"
                                                                         ],
-                                                           "purpose":  [
-                                                                           "Minion",
-                                                                           "Classic"
-                                                                       ],
-                                                           "releaseurl":  "https://www.patreon.com/posts/brigands-104963999",
-                                                           "size":  "Medium",
-                                                           "stat_ac":  15,
-                                                           "stat_cha":  10,
-                                                           "stat_con":  14,
-                                                           "stat_dex":  14,
-                                                           "stat_hp":  26,
-                                                           "stat_int":  11,
-                                                           "stat_str":  15,
-                                                           "stat_wis":  14,
-                                                           "thumbnail":  "162-brigand-1-db.webp",
-                                                           "type":  [
-                                                                        "humanoid",
-                                                                        "Human"
-                                                                    ],
-                                                           "videourl":  "https://youtu.be/QJ4vvUwJK98?si=fYanuggbZSn8sb3g",
-                                                           "nb_variants":  4,
-                                                           "shortdesc":  "Rugged armed peasants relying on creative ambush tactics to even the odds.",
-                                                           "faction":  [
+                                                               "cr":  "2",
+                                                               "fightingstyle":  [
+                                                                                     "Melee",
+                                                                                     "Charge"
+                                                                                 ],
+                                                               "movement":  [
+                                                                                "Walk"
+                                                                            ],
+                                                               "purpose":  [
+                                                                               "Damage",
+                                                                               "Minion"
+                                                                           ],
+                                                               "releaseurl":  "https://www.patreon.com/posts/blade-slave-70982216",
+                                                               "size":  "medium",
+                                                               "stat_ac":  12,
+                                                               "stat_cha":  3,
+                                                               "stat_con":  16,
+                                                               "stat_dex":  14,
+                                                               "stat_hp":  27,
+                                                               "stat_int":  6,
+                                                               "stat_str":  16,
+                                                               "stat_wis":  7,
+                                                               "thumbnail":  "071-blade_slave-1-db.webp",
+                                                               "type":  [
+                                                                            "humanoid"
+                                                                        ],
+                                                               "videourl":  "https://youtu.be/rkrv9SuuwUc",
+                                                               "nb_variants":  1,
+                                                               "shortdesc":  "Humanoid husk torturted into madness, empowered by taking slashing damage while...",
+                                                               "faction":  [
+                                                                               "Crimson Tribunal"
+                                                                           ],
+                                                               "source":  "Patreon",
+                                                               "campaign":  [
 
-                                                                       ],
-                                                           "source":  "Patreon",
-                                                           "campaign":  [
-
-                                                                        ]
-                                                       }
-                                    },
+                                                                            ]
+                                                           }
+                                        },
                     "000-srd_roper":  {
                                           "name":  "Roper",
                                           "description":  "Ensnaring prey with sinewy tendrils. Once trapped, victims are drawn inexorably to its gaping maw.",
@@ -17180,51 +17285,50 @@
                                                                             ]
                                                            }
                                         },
-                    "000-srd_merfolk_skirmisher":  {
-                                                       "name":  "Merfolk Skirmisher",
-                                                       "description":  "Standard template for underwater humanoids.",
-                                                       "properties":  {
-                                                                          "size":  "Medium",
-                                                                          "stat_ac":  12,
-                                                                          "stat_cha":  12,
-                                                                          "stat_con":  12,
-                                                                          "stat_dex":  13,
-                                                                          "stat_hp":  11,
-                                                                          "stat_int":  11,
-                                                                          "stat_str":  10,
-                                                                          "stat_wis":  14,
-                                                                          "cr":  0.125,
-                                                                          "movement":  [
-                                                                                           "Swim",
-                                                                                           "Walk"
-                                                                                       ],
-                                                                          "biom":  [
-                                                                                       "Coast",
-                                                                                       "Underwater"
-                                                                                   ],
-                                                                          "fightingstyle":  [
-                                                                                                "Simple"
-                                                                                            ],
-                                                                          "purpose":  [
-                                                                                          "Minion"
-                                                                                      ],
-                                                                          "releaseurl":  "https://www.patreon.com/c/BeneosTokens",
-                                                                          "videourl":  "https://www.youtube.com/watch?v=fwLYhQJNgKU",
-                                                                          "type":  [
-                                                                                       "elemental"
-                                                                                   ],
-                                                                          "nb_variants":  1,
-                                                                          "thumbnail":  "000-srd_merfolk_skirmisher-1-db.webp",
-                                                                          "shortdesc":  "Standard template for underwater humanoids.",
-                                                                          "faction":  [
+                    "000-srd_noble":  {
+                                          "name":  "Noble",
+                                          "description":  "Represents a baseline humanoid noble. Once its stat block becomes relevant, it probably won\u0027t live long.",
+                                          "properties":  {
+                                                             "size":  "Medium",
+                                                             "stat_ac":  12,
+                                                             "stat_cha":  16,
+                                                             "stat_con":  11,
+                                                             "stat_dex":  12,
+                                                             "stat_hp":  9,
+                                                             "stat_int":  12,
+                                                             "stat_str":  11,
+                                                             "stat_wis":  14,
+                                                             "cr":  0.125,
+                                                             "movement":  [
+                                                                              "Walk"
+                                                                          ],
+                                                             "biom":  [
+                                                                          "Any"
+                                                                      ],
+                                                             "fightingstyle":  [
+                                                                                   "Simple"
+                                                                               ],
+                                                             "purpose":  [
+                                                                             "Ally",
+                                                                             "Minion"
+                                                                         ],
+                                                             "releaseurl":  "https://www.patreon.com/c/BeneosTokens",
+                                                             "videourl":  "https://www.youtube.com/watch?v=fwLYhQJNgKU",
+                                                             "type":  [
+                                                                          "humanoid"
+                                                                      ],
+                                                             "nb_variants":  1,
+                                                             "thumbnail":  "000-srd_noble-1-db.webp",
+                                                             "shortdesc":  "Represents a baseline humanoid noble.",
+                                                             "faction":  [
 
-                                                                                      ],
-                                                                          "source":  "SRD",
-                                                                          "campaign":  [
+                                                                         ],
+                                                             "source":  "SRD",
+                                                             "campaign":  [
 
-                                                                                       ]
-                                                                      }
-                                                   },
+                                                                          ]
+                                                         }
+                                      },
                     "049-poisonfang":  {
                                            "description":  "Versatile snake-themed assassins utilizing venomous blades, noxious gas, shapeshifting and hypnosis.",
                                            "name":  "Poisonfang Assassin",
@@ -18923,6 +19027,55 @@
                                                                                   ]
                                                                  }
                                               },
+                    "000-srd_young_bronze_dragon":  {
+                                                        "name":  "Young Bronze Dragon",
+                                                        "description":  "A vigilant protector striking with thunder and confusion.",
+                                                        "properties":  {
+                                                                           "size":  "Large",
+                                                                           "stat_ac":  17,
+                                                                           "stat_cha":  17,
+                                                                           "stat_con":  19,
+                                                                           "stat_dex":  10,
+                                                                           "stat_hp":  142,
+                                                                           "stat_int":  14,
+                                                                           "stat_str":  21,
+                                                                           "stat_wis":  13,
+                                                                           "cr":  8,
+                                                                           "movement":  [
+                                                                                            "Fly",
+                                                                                            "Swim",
+                                                                                            "Walk"
+                                                                                        ],
+                                                                           "biom":  [
+                                                                                        "Coast",
+                                                                                        "Beach",
+                                                                                        "Island"
+                                                                                    ],
+                                                                           "fightingstyle":  [
+                                                                                                 "Airborne",
+                                                                                                 "Area of Effect"
+                                                                                             ],
+                                                                           "purpose":  [
+                                                                                           "Debuff",
+                                                                                           "Damage"
+                                                                                       ],
+                                                                           "releaseurl":  "https://www.patreon.com/c/BeneosTokens",
+                                                                           "videourl":  "https://www.youtube.com/watch?v=fwLYhQJNgKU",
+                                                                           "type":  [
+                                                                                        "dragon"
+                                                                                    ],
+                                                                           "nb_variants":  1,
+                                                                           "thumbnail":  "000-srd_young_bronze_dragon-1-db.webp",
+                                                                           "shortdesc":  "A vigilant protector striking with thunder and confusion.",
+                                                                           "faction":  [
+
+                                                                                       ],
+                                                                           "source":  "SRD",
+                                                                           "campaign":  [
+
+                                                                                        ]
+                                                                       }
+                                                    },
                     "000-srd_ghoul":  {
                                           "name":  "Ghoul",
                                           "description":  "Feasts on decay and flesh, its claws imbued with paralytic venom.",
@@ -23432,63 +23585,6 @@
                                                                                          ]
                                                                         }
                                                      },
-                    "026-vampire_spawn":  {
-                                              "description":  "Everlasting mist floods the land of Barovia, the cursed realm of Strahd von Zahrovich. Barovia teems with dreadful creatures, most of which are hellbent on making the player\u0027s stay in their realm a harrowing one. For Spooktober 2021 we decided to give the iconic Vampire Spawns roaming the crypts and castles of Curse of Strahd a unique spin! The Barovian Vampire spawn is closely bonded to Strahd, who is the land himself, as we all know! This is reflected by increased mental stats and a strange symbiotic relationship with the mist that wreathes it\u0027s masters domain, granting a formidable foe even more power and making for a creature able to haunt even veteran players\u0027 nightmares!",
-                                              "name":  "Vampire Spawn",
-                                              "properties":  {
-                                                                 "biom":  [
-                                                                              "Dungeon",
-                                                                              "ruin",
-                                                                              "grave",
-                                                                              "Horror",
-                                                                              "Road",
-                                                                              "Wilderness",
-                                                                              "Lair",
-                                                                              "Civilized",
-                                                                              "Wastelands",
-                                                                              "Underground",
-                                                                              "Desert"
-                                                                          ],
-                                                                 "cr":  "5",
-                                                                 "fightingstyle":  [
-                                                                                       "Melee",
-                                                                                       "Regeneration"
-                                                                                   ],
-                                                                 "movement":  [
-                                                                                  "Walk",
-                                                                                  "Climb"
-                                                                              ],
-                                                                 "purpose":  [
-                                                                                 "Damage",
-                                                                                 "Classic"
-                                                                             ],
-                                                                 "releaseurl":  "https://www.patreon.com/posts/vampire-spawn-57268303",
-                                                                 "size":  "medium",
-                                                                 "stat_ac":  14,
-                                                                 "stat_cha":  16,
-                                                                 "stat_con":  16,
-                                                                 "stat_dex":  16,
-                                                                 "stat_hp":  80,
-                                                                 "stat_int":  13,
-                                                                 "stat_str":  16,
-                                                                 "stat_wis":  13,
-                                                                 "thumbnail":  "026-vampire_spawn-1-db.webp",
-                                                                 "type":  [
-                                                                              "undead",
-                                                                              "vampire"
-                                                                          ],
-                                                                 "videourl":  "https://youtu.be/LXhyJtSYF2s",
-                                                                 "nb_variants":  4,
-                                                                 "shortdesc":  "Everlasting mist floods the land of Barovia, the cursed realm of Strahd von Zahrovich.",
-                                                                 "faction":  [
-
-                                                                             ],
-                                                                 "source":  "Patreon",
-                                                                 "campaign":  [
-
-                                                                              ]
-                                                             }
-                                          },
                     "068-wereboar":  {
                                          "description":  "Towering half-boar, usually combining the worst traits of man and swine.",
                                          "name":  "Wereboar",
@@ -25915,6 +26011,51 @@
                                                                                    ]
                                                                   }
                                                },
+                    "000-srd_merfolk_skirmisher":  {
+                                                       "name":  "Merfolk Skirmisher",
+                                                       "description":  "Standard template for underwater humanoids.",
+                                                       "properties":  {
+                                                                          "size":  "Medium",
+                                                                          "stat_ac":  12,
+                                                                          "stat_cha":  12,
+                                                                          "stat_con":  12,
+                                                                          "stat_dex":  13,
+                                                                          "stat_hp":  11,
+                                                                          "stat_int":  11,
+                                                                          "stat_str":  10,
+                                                                          "stat_wis":  14,
+                                                                          "cr":  0.125,
+                                                                          "movement":  [
+                                                                                           "Swim",
+                                                                                           "Walk"
+                                                                                       ],
+                                                                          "biom":  [
+                                                                                       "Coast",
+                                                                                       "Underwater"
+                                                                                   ],
+                                                                          "fightingstyle":  [
+                                                                                                "Simple"
+                                                                                            ],
+                                                                          "purpose":  [
+                                                                                          "Minion"
+                                                                                      ],
+                                                                          "releaseurl":  "https://www.patreon.com/c/BeneosTokens",
+                                                                          "videourl":  "https://www.youtube.com/watch?v=fwLYhQJNgKU",
+                                                                          "type":  [
+                                                                                       "elemental"
+                                                                                   ],
+                                                                          "nb_variants":  1,
+                                                                          "thumbnail":  "000-srd_merfolk_skirmisher-1-db.webp",
+                                                                          "shortdesc":  "Standard template for underwater humanoids.",
+                                                                          "faction":  [
+
+                                                                                      ],
+                                                                          "source":  "SRD",
+                                                                          "campaign":  [
+
+                                                                                       ]
+                                                                      }
+                                                   },
                     "003-inquisitorial_penitent":  {
                                                        "description":  "Inquisitorial Penitents are former witches, persecuted and excruciatingly converted by those they now serve as living weapons. Their connection to the arcane has been perverted, the flow of magic reversed, as they now syphon arcane energies from others with their mere presence. They stalk the lands in packs, travel as independent operatives or are part of an inquisitorial retinue, acting as both bodyguards and executioners. The most dangerous penitents, however, are those who underwent the purifications voluntarily, eager to shed the taint of witchcraft. They are the most unforgiving and zealous of their kind, hunting their tainted kin without mercy or remorse.",
                                                        "name":  "Inquisitorial Penitent",
@@ -27482,55 +27623,6 @@
                                                                                         ]
                                                                        }
                                                     },
-                    "071-blade_slave":  {
-                                            "description":  "Humanoid husk torturted into madness, empowered by taking slashing damage while erratically swinging a greatword.",
-                                            "name":  "Blade Slave",
-                                            "properties":  {
-                                                               "biom":  [
-                                                                            "City",
-                                                                            "Civilized",
-                                                                            "Road",
-                                                                            "Dungeon",
-                                                                            "Sacral"
-                                                                        ],
-                                                               "cr":  "2",
-                                                               "fightingstyle":  [
-                                                                                     "Melee",
-                                                                                     "Charge"
-                                                                                 ],
-                                                               "movement":  [
-                                                                                "Walk"
-                                                                            ],
-                                                               "purpose":  [
-                                                                               "Damage",
-                                                                               "Minion"
-                                                                           ],
-                                                               "releaseurl":  "https://www.patreon.com/posts/blade-slave-70982216",
-                                                               "size":  "medium",
-                                                               "stat_ac":  12,
-                                                               "stat_cha":  3,
-                                                               "stat_con":  16,
-                                                               "stat_dex":  14,
-                                                               "stat_hp":  27,
-                                                               "stat_int":  6,
-                                                               "stat_str":  16,
-                                                               "stat_wis":  7,
-                                                               "thumbnail":  "071-blade_slave-1-db.webp",
-                                                               "type":  [
-                                                                            "humanoid"
-                                                                        ],
-                                                               "videourl":  "https://youtu.be/rkrv9SuuwUc",
-                                                               "nb_variants":  1,
-                                                               "shortdesc":  "Humanoid husk torturted into madness, empowered by taking slashing damage while...",
-                                                               "faction":  [
-                                                                               "Crimson Tribunal"
-                                                                           ],
-                                                               "source":  "Patreon",
-                                                               "campaign":  [
-
-                                                                            ]
-                                                           }
-                                        },
                     "000-srd_killer_whale":  {
                                                  "name":  "Killer Whale",
                                                  "description":  "The largest and deadliest dolphin, unnervingly intelligent and often with a sadistic streak.",
@@ -28582,6 +28674,51 @@
                                                                            ]
                                                           }
                                        },
+                    "188-conflagrator_effigy":  {
+                                                    "description":  "The Conflagrator Effigy, an infernal war machine, immolates enemies with searing hellfire.",
+                                                    "name":  "Conflagrator Effigy",
+                                                    "properties":  {
+                                                                       "biom":  [
+                                                                                    "planar",
+                                                                                    "infernal"
+                                                                                ],
+                                                                       "cr":  "8",
+                                                                       "fightingstyle":  [
+                                                                                             "demanding",
+                                                                                             "aoe"
+                                                                                         ],
+                                                                       "movement":  "fly",
+                                                                       "purpose":  [
+                                                                                       "damage",
+                                                                                       "debuff"
+                                                                                   ],
+                                                                       "releaseurl":  "https://www.patreon.com/posts/188-conflagrator-120868369",
+                                                                       "size":  "huge",
+                                                                       "stat_ac":  17,
+                                                                       "stat_cha":  16,
+                                                                       "stat_con":  16,
+                                                                       "stat_dex":  8,
+                                                                       "stat_hp":  133,
+                                                                       "stat_int":  4,
+                                                                       "stat_str":  16,
+                                                                       "stat_wis":  6,
+                                                                       "thumbnail":  "188-conflagrator_effigy-1-db.webp",
+                                                                       "type":  [
+                                                                                    "fiend",
+                                                                                    "devil"
+                                                                                ],
+                                                                       "videourl":  "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
+                                                                       "nb_variants":  1,
+                                                                       "shortdesc":  "The Conflagrator Effigy, an infernal war machine, immolates enemies with searing hellfire.",
+                                                                       "faction":  [
+                                                                                       "Infernal Legions"
+                                                                                   ],
+                                                                       "source":  "Patreon",
+                                                                       "campaign":  [
+
+                                                                                    ]
+                                                                   }
+                                                },
                     "000-srd_imp":  {
                                         "name":  "Imp",
                                         "description":  "Devious minor fiend adept at sowing chaos.",
@@ -30544,50 +30681,6 @@
                                                                              ]
                                                             }
                                          },
-                    "000-srd_noble":  {
-                                          "name":  "Noble",
-                                          "description":  "Represents a baseline humanoid noble. Once its stat block becomes relevant, it probably won\u0027t live long.",
-                                          "properties":  {
-                                                             "size":  "Medium",
-                                                             "stat_ac":  12,
-                                                             "stat_cha":  16,
-                                                             "stat_con":  11,
-                                                             "stat_dex":  12,
-                                                             "stat_hp":  9,
-                                                             "stat_int":  12,
-                                                             "stat_str":  11,
-                                                             "stat_wis":  14,
-                                                             "cr":  0.125,
-                                                             "movement":  [
-                                                                              "Walk"
-                                                                          ],
-                                                             "biom":  [
-                                                                          "Any"
-                                                                      ],
-                                                             "fightingstyle":  [
-                                                                                   "Simple"
-                                                                               ],
-                                                             "purpose":  [
-                                                                             "Ally",
-                                                                             "Minion"
-                                                                         ],
-                                                             "releaseurl":  "https://www.patreon.com/c/BeneosTokens",
-                                                             "videourl":  "https://www.youtube.com/watch?v=fwLYhQJNgKU",
-                                                             "type":  [
-                                                                          "humanoid"
-                                                                      ],
-                                                             "nb_variants":  1,
-                                                             "thumbnail":  "000-srd_noble-1-db.webp",
-                                                             "shortdesc":  "Represents a baseline humanoid noble.",
-                                                             "faction":  [
-
-                                                                         ],
-                                                             "source":  "SRD",
-                                                             "campaign":  [
-
-                                                                          ]
-                                                         }
-                                      },
                     "161-undead_steed":  {
                                              "description":  "Rotting horse infested with vermin, unfazed by the most hostile terrrain on account of being dead.",
                                              "name":  "Undead Steed",
@@ -31597,55 +31690,58 @@
                                                                                ]
                                                               }
                                            },
-                    "000-srd_young_bronze_dragon":  {
-                                                        "name":  "Young Bronze Dragon",
-                                                        "description":  "A vigilant protector striking with thunder and confusion.",
-                                                        "properties":  {
-                                                                           "size":  "Large",
-                                                                           "stat_ac":  17,
-                                                                           "stat_cha":  17,
-                                                                           "stat_con":  19,
-                                                                           "stat_dex":  10,
-                                                                           "stat_hp":  142,
-                                                                           "stat_int":  14,
-                                                                           "stat_str":  21,
-                                                                           "stat_wis":  13,
-                                                                           "cr":  8,
-                                                                           "movement":  [
-                                                                                            "Fly",
-                                                                                            "Swim",
-                                                                                            "Walk"
-                                                                                        ],
-                                                                           "biom":  [
-                                                                                        "Coast",
-                                                                                        "Beach",
-                                                                                        "Island"
-                                                                                    ],
-                                                                           "fightingstyle":  [
-                                                                                                 "Airborne",
-                                                                                                 "Area of Effect"
-                                                                                             ],
-                                                                           "purpose":  [
-                                                                                           "Debuff",
-                                                                                           "Damage"
-                                                                                       ],
-                                                                           "releaseurl":  "https://www.patreon.com/c/BeneosTokens",
-                                                                           "videourl":  "https://www.youtube.com/watch?v=fwLYhQJNgKU",
-                                                                           "type":  [
-                                                                                        "dragon"
-                                                                                    ],
-                                                                           "nb_variants":  1,
-                                                                           "thumbnail":  "000-srd_young_bronze_dragon-1-db.webp",
-                                                                           "shortdesc":  "A vigilant protector striking with thunder and confusion.",
-                                                                           "faction":  [
+                    "076-deathsworn":  {
+                                           "description":  "Orc warrior seeking death in honourable combat. Their solemn, yet energetic fighting style resembles a lethal dance.",
+                                           "name":  "Deathsworn",
+                                           "properties":  {
+                                                              "biom":  [
+                                                                           "Civilized",
+                                                                           "City",
+                                                                           "Wilderness",
+                                                                           "Road",
+                                                                           "Mountain",
+                                                                           "Desert",
+                                                                           "ruin"
+                                                                       ],
+                                                              "cr":  "5",
+                                                              "fightingstyle":  [
+                                                                                    "Charge",
+                                                                                    "Interactive"
+                                                                                ],
+                                                              "movement":  [
+                                                                               "Walk"
+                                                                           ],
+                                                              "purpose":  [
+                                                                              "Duelist",
+                                                                              "Damage"
+                                                                          ],
+                                                              "releaseurl":  "",
+                                                              "size":  "medium",
+                                                              "stat_ac":  16,
+                                                              "stat_cha":  12,
+                                                              "stat_con":  15,
+                                                              "stat_dex":  18,
+                                                              "stat_hp":  67,
+                                                              "stat_int":  13,
+                                                              "stat_str":  14,
+                                                              "stat_wis":  16,
+                                                              "thumbnail":  "076-deathsworn-1-db.webp",
+                                                              "type":  [
+                                                                           "humanoid",
+                                                                           "orc"
+                                                                       ],
+                                                              "videourl":  "https://youtu.be/p9B4x9Vb38k",
+                                                              "nb_variants":  1,
+                                                              "shortdesc":  "Orc warrior seeking death in honourable combat.",
+                                                              "faction":  [
 
-                                                                                       ],
-                                                                           "source":  "SRD",
-                                                                           "campaign":  [
+                                                                          ],
+                                                              "source":  "Patreon",
+                                                              "campaign":  [
 
-                                                                                        ]
-                                                                       }
-                                                    },
+                                                                           ]
+                                                          }
+                                       },
                     "084-mimic":  {
                                       "description":  "It is unclear how exactly Mimics came to be. The leading theory proposes that a Wizard sought a way to secure his riches and enchanted a chest to simply make it come alive and eat intruders, which, knowing wizards, does not seem too far-fetched. How we ended up with the voracious ambush predators taking all manner of shapes or for ms still poses some unanswered questions. Similarly, unclear is how Mimics reproduce, even if the thought of pocket-sized chests with big eyes is delightful. Some theorize that Mimic eggs eerily resemble gold coins, allowing Mimics to mix their brood into the treasures they guard.",
                                       "name":  "Mimic",
@@ -31745,52 +31841,6 @@
                                                                                      ]
                                                                     }
                                                  },
-                    "214-draconic_devotee":  {
-                                                 "description":  "Fanatical cultists able defy death and empower their patron through acts of faith.",
-                                                 "name":  "Draconic Devotee",
-                                                 "properties":  {
-                                                                    "biom":  [
-                                                                                 "lair",
-                                                                                 "civilized",
-                                                                                 "city",
-                                                                                 "road"
-                                                                             ],
-                                                                    "cr":  "1",
-                                                                    "fightingstyle":  [
-                                                                                          "pack"
-                                                                                      ],
-                                                                    "movement":  "walk",
-                                                                    "purpose":  [
-                                                                                    "support",
-                                                                                    "minion"
-                                                                                ],
-                                                                    "releaseurl":  "https://www.patreon.com/posts/new-cultist-138520141",
-                                                                    "size":  "medium",
-                                                                    "stat_ac":  14,
-                                                                    "stat_cha":  14,
-                                                                    "stat_con":  12,
-                                                                    "stat_dex":  13,
-                                                                    "stat_hp":  22,
-                                                                    "stat_int":  9,
-                                                                    "stat_str":  14,
-                                                                    "stat_wis":  10,
-                                                                    "thumbnail":  "214-draconic_devotee-1-db.webp",
-                                                                    "type":  [
-                                                                                 "humanoid",
-                                                                                 "cultist"
-                                                                             ],
-                                                                    "videourl":  "https://youtu.be/V42zCUhRN5o",
-                                                                    "nb_variants":  2,
-                                                                    "shortdesc":  "Fanatical cultists able defy death and empower their patron through acts of faith.",
-                                                                    "faction":  [
-
-                                                                                ],
-                                                                    "source":  "Patreon",
-                                                                    "campaign":  [
-
-                                                                                 ]
-                                                                }
-                                             },
                     "000-srd_flesh_golem":  {
                                                 "name":  "Flesh Golem",
                                                 "description":  "Its monstrous blows and unnatural resilience make it a relentless guardian.",
