@@ -42871,6 +42871,348 @@
                                 "download_terms": "SC: modular cave combat arena",
                                 "download_creator": "Beneos Battlemaps"
                                 }
+                    },
+                    "102-01_dream_1_grass_field_a-4k_BM":{
+                        "name":"dream 1 grass field a",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Grassland","Exteriour","Open","Otherworldly"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"102_dia_03_Dream_Sequence",
+                        "releaseurl":"WIP",
+                        "sibling":"102-01_dream_1_grass_field_a-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"102-01_dream_1_grass_field_a-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA - 03 Dream Sequence - 102",
+                        "download_terms": "BM: dream 1 grass field a",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "102-01_dream_1_grass_field_a-4k_Scen":{
+                                "name":"dream 1 grass field a",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Grassland","Exteriour","Open","Otherworldly"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"102_dia_03_Dream_Sequence",
+                                "releaseurl":"WIP",
+                                "sibling":"102-01_dream_1_grass_field_a-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"102-01_dream_1_grass_field_a-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA - 03 Dream Sequence - 102",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "102-02_dream_1_grass_field_b-4k_BM":{
+                        "name":"dream 1 grass field b",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Grassland","Exteriour","Open","Otherworldly"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"102_dia_03_Dream_Sequence",
+                        "releaseurl":"WIP",
+                        "sibling":"102-02_dream_1_grass_field_b-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"102-02_dream_1_grass_field_b-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA - 03 Dream Sequence - 102",
+                        "download_terms": "BM: dream 1 grass field b",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "102-02_dream_1_grass_field_b-4k_Scen":{
+                                "name":"dream 1 grass field b",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Grassland","Exteriour","Open","Otherworldly"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"102_dia_03_Dream_Sequence",
+                                "releaseurl":"WIP",
+                                "sibling":"102-02_dream_1_grass_field_b-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"102-02_dream_1_grass_field_b-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA - 03 Dream Sequence - 102",
+                                "download_terms": "SC: dream 1 grass field b",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "102-03_dream_2_battlefield_a-4k_BM":{
+                        "name":"dream 2 battlefield a",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Burning","Battle","Gore", "Fire"],
+                        "brightness":"Medium",
+                        "grid":"32x22",
+                        "pack":"102_dia_03_Dream_Sequence",
+                        "releaseurl":"WIP",
+                        "sibling":"102-03_dream_2_battlefield_a-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"102-03_dream_2_battlefield_a-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA - 03 Dream Sequence - 102",
+                        "download_terms": "BM: dream 2 battlefield a",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "102-03_dream_2_battlefield_a-4k_Scen":{
+                                "name":"dream 2 battlefield a",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Burning","Battle","Gore", "Fire"],
+                                "brightness":"Medium",
+                                "grid":"32x22",
+                                "pack":"102_dia_03_Dream_Sequence",
+                                "releaseurl":"WIP",
+                                "sibling":"102-03_dream_2_battlefield_a-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"102-03_dream_2_battlefield_a-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA - 03 Dream Sequence - 102",
+                                "download_terms": "SC: dream 2 battlefield a",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "102-04_dream_2_battlefield_b-4k_BM":{
+                        "name":"dream 2 battlefield b",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Burning","Battle","Gore", "Fire"],
+                        "brightness":"Medium",
+                        "grid":"32x22",
+                        "pack":"102_dia_03_Dream_Sequence",
+                        "releaseurl":"WIP",
+                        "sibling":"102-04_dream_2_battlefield_b-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"102-04_dream_2_battlefield_b-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA - 03 Dream Sequence - 102",
+                        "download_terms": "BM: dream 2 battlefield b",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "102-04_dream_2_battlefield_b-4k_Scen":{
+                                "name":"dream 2 battlefield b",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Burning","Battle","Gore", "Fire"],
+                                "brightness":"Medium",
+                                "grid":"32x22",
+                                "pack":"102_dia_03_Dream_Sequence",
+                                "releaseurl":"WIP",
+                                "sibling":"102-04_dream_2_battlefield_b-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"102-04_dream_2_battlefield_b-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA - 03 Dream Sequence - 102",
+                                "download_terms": "SC: dream 2 battlefield b",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "102-05_dream_3_wastelands_a-4k_BM":{
+                        "name":"dream 3 wastelands a",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Barren","Otherworldly","Mountain","Planar", "Shadow Realm"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"102_dia_03_Dream_Sequence",
+                        "releaseurl":"WIP",
+                        "sibling":"102-05_dream_3_wastelands_a-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"102-05_dream_3_wastelands_a-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA - 03 Dream Sequence - 102",
+                        "download_terms": "BM: dream 3 wastelands a",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "102-05_dream_3_wastelands_a-4k_Scen":{
+                                "name":"dream 3 wastelands a",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Barren","Otherworldly","Mountain","Planar", "Shadow Realm"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"102_dia_03_Dream_Sequence",
+                                "releaseurl":"WIP",
+                                "sibling":"102-05_dream_3_wastelands_a-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"102-05_dream_3_wastelands_a-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA - 03 Dream Sequence - 102",
+                                "download_terms": "SC: dream 3 wastelands a",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "102-06_dream_3_wastelands_b-4k_BM":{
+                        "name":"dream 3 wastelands b",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Barren","Otherworldly","Mountain","Planar", "Shadow Realm"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"102_dia_03_Dream_Sequence",
+                        "releaseurl":"WIP",
+                        "sibling":"102-06_dream_3_wastelands_b-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"102-06_dream_3_wastelands_b-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA - 03 Dream Sequence - 102",
+                        "download_terms": "BM: dream 3 wastelands b",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "102-06_dream_3_wastelands_b-4k_Scen":{
+                                "name":"dream 3 wastelands b",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Barren","Otherworldly","Mountain","Planar", "Shadow Realm"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"102_dia_03_Dream_Sequence",
+                                "releaseurl":"WIP",
+                                "sibling":"102-06_dream_3_wastelands_b-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"102-06_dream_3_wastelands_b-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA - 03 Dream Sequence - 102",
+                                "download_terms": "SC: dream 3 wastelands b",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "102-07_dream_4_desolation_a-4k_BM":{
+                        "name":"dream 4 desolation a",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Barren","Otherworldly","Mountain","Planar", "Shadow Realm"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"102_dia_03_Dream_Sequence",
+                        "releaseurl":"WIP",
+                        "sibling":"102-07_dream_4_desolation_a-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"102-07_dream_4_desolation_a-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA - 03 Dream Sequence - 102",
+                        "download_terms": "BM: dream 4 desolation a",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "102-07_dream_4_desolation_a-4k_Scen":{
+                                "name":"dream 4 desolation a",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Barren","Otherworldly","Mountain","Planar", "Shadow Realm"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"102_dia_03_Dream_Sequence",
+                                "releaseurl":"WIP",
+                                "sibling":"102-07_dream_4_desolation_a-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"102-07_dream_4_desolation_a-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA - 03 Dream Sequence - 102",
+                                "download_terms": "SC: dream 4 desolation a",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "102-08_dream_4_desolation_b-4k_BM":{
+                        "name":"dream 4 desolation b",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Barren","Otherworldly","Void","Planar", "Shadow Realm"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"102_dia_03_Dream_Sequence",
+                        "releaseurl":"WIP",
+                        "sibling":"102-08_dream_4_desolation_b-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"102-08_dream_4_desolation_b-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA - 03 Dream Sequence - 102",
+                        "download_terms": "BM: dream 4 desolation b",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "102-08_dream_4_desolation_b-4k_Scen":{
+                                "name":"dream 4 desolation b",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Barren","Otherworldly","Void","Planar", "Shadow Realm"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"102_dia_03_Dream_Sequence",
+                                "releaseurl":"WIP",
+                                "sibling":"102-08_dream_4_desolation_b-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"102-08_dream_4_desolation_b-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA - 03 Dream Sequence - 102",
+                                "download_terms": "SC: dream 4 desolation b",
+                                "download_creator": "Beneos Battlemaps"
+                                }
+                    },
+                    "102-09_dream_5_black_void-4k_BM":{
+                        "name":"dream 5 black void",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Special","Otherworldly","Mountain","Planar", "Shadow Realm"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"102_dia_03_Dream_Sequence",
+                        "releaseurl":"WIP",
+                        "sibling":"102-09_dream_5_black_void-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"102-09_dream_5_black_void-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA - 03 Dream Sequence - 102",
+                        "download_terms": "BM: dream 5 black void",
+                        "download_creator": "Beneos Battlemaps"
+                        }
+                            },
+                            "102-09_dream_5_black_void-4k_Scen":{
+                                "name":"dream 5 black void",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Special","Otherworldly","Mountain","Planar", "Shadow Realm"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"102_dia_03_Dream_Sequence",
+                                "releaseurl":"WIP",
+                                "sibling":"102-09_dream_5_black_void-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"102-09_dream_5_black_void-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA - 03 Dream Sequence - 102",
+                                "download_terms": "SC: dream 5 black void",
+                                "download_creator": "Beneos Battlemaps"
+                                }
                             }
                         }
                     }
