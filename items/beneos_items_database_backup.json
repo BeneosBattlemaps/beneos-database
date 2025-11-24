@@ -14,8 +14,7 @@
         "item_type": "Melee Weapon",
         "tier": 3,
         "price": "52800",
-        "icon": "0001_nightfall-icon.webp",
-        "hidden_tags": []
+        "icon": "0001_nightfall-icon.webp"
       }
     },
     "0003_shamblevault_coffin": {
@@ -29,8 +28,7 @@
         "item_type": "Trinket",
         "tier": 2,
         "price": "3400",
-        "icon": "0003_shamblevault_coffin-icon.webp",
-        "hidden_tags": []
+        "icon": "0003_shamblevault_coffin-icon.webp"
       }
     },
     "0004_harrowshrike_deathmask": {
@@ -44,8 +42,7 @@
         "item_type": "Clothing",
         "tier": 2,
         "price": "4300",
-        "icon": "0004_harrowshrike_deathmask-icon.webp",
-        "hidden_tags": []
+        "icon": "0004_harrowshrike_deathmask-icon.webp"
       }
     },
     "0005_stormbreaker": {
@@ -59,8 +56,7 @@
         "item_type": "Shield",
         "tier": 3,
         "price": "49600",
-        "icon": "0005_stormbreaker-icon.webp",
-        "hidden_tags": []
+        "icon": "0005_stormbreaker-icon.webp"
       }
     },
     "0006_sea_tyrants_scales": {
@@ -74,8 +70,7 @@
         "item_type": "Medium Armor",
         "tier": 2,
         "price": "5800",
-        "icon": "0006_sea_tyrants_scales-icon.webp",
-        "hidden_tags": []
+        "icon": "0006_sea_tyrants_scales-icon.webp"
       }
     },
     "0007_cloak_of_photosynthesis": {
@@ -89,8 +84,7 @@
         "item_type": "Clothing",
         "tier": 1,
         "price": "800",
-        "icon": "0007_cloak_of_photosynthesis-icon.webp",
-        "hidden_tags": []
+        "icon": "0007_cloak_of_photosynthesis-icon.webp"
       }
     },
     "0008_scythe_of_the_long_march": {
@@ -104,8 +98,7 @@
         "item_type": "Melee Weapon",
         "tier": 1,
         "price": "2900",
-        "icon": "0008_scythe_of_the_long_march-icon.webp",
-        "hidden_tags": []
+        "icon": "0008_scythe_of_the_long_march-icon.webp"
       }
     },
     "0009_blood_toll_bracers": {
@@ -119,8 +112,7 @@
         "item_type": "Clothing",
         "tier": 1,
         "price": "900",
-        "icon": "0009_blood_toll_bracers-icon.webp",
-        "hidden_tags": []
+        "icon": "0009_blood_toll_bracers-icon.webp"
       }
     },
     "0010_eye_of_obliteration": {
@@ -134,8 +126,7 @@
         "item_type": "Trinket",
         "tier": 4,
         "price": "108000",
-        "icon": "0010_eye_of_obliteration-icon.webp",
-        "hidden_tags": []
+        "icon": "0010_eye_of_obliteration-icon.webp"
       }
     },
     "0011_graveblade1": {
@@ -149,8 +140,7 @@
         "item_type": "Melee Weapon",
         "tier": 1,
         "price": "1700",
-        "icon": "0011_graveblade1-icon.webp",
-        "hidden_tags": []
+        "icon": "0011_graveblade1-icon.webp"
       }
     },
     "0011_graveblade2": {
@@ -164,8 +154,7 @@
         "item_type": "Melee Weapon",
         "tier": 2,
         "price": "2900",
-        "icon": "0011_graveblade2-icon.webp",
-        "hidden_tags": []
+        "icon": "0011_graveblade2-icon.webp"
       }
     },
     "0011_graveblade3": {
@@ -179,8 +168,7 @@
         "item_type": "Melee Weapon",
         "tier": 3,
         "price": "4400",
-        "icon": "0011_graveblade3-icon.webp",
-        "hidden_tags": []
+        "icon": "0011_graveblade3-icon.webp"
       }
     },
     "0012_defuser_harness": {
@@ -194,8 +182,7 @@
         "item_type": "Medium Armor",
         "tier": 2,
         "price": "5400",
-        "icon": "0012_defuser_harness-icon.webp",
-        "hidden_tags": []
+        "icon": "0012_defuser_harness-icon.webp"
       }
     },
     "0013_shoreclaimer": {
@@ -209,8 +196,7 @@
         "item_type": "Melee Weapon",
         "tier": 1,
         "price": "1800",
-        "icon": "0013_shoreclaimer-icon.webp",
-        "hidden_tags": []
+        "icon": "0013_shoreclaimer-icon.webp"
       }
     },
     "0014_dreamers_prison": {
@@ -224,8 +210,7 @@
         "item_type": "Trinket",
         "tier": 2,
         "price": "2600",
-        "icon": "0014_dreamers_prison-icon.webp",
-        "hidden_tags": []
+        "icon": "0014_dreamers_prison-icon.webp"
       }
     },
     "0015_sunflower_scepter": {
@@ -239,8 +224,7 @@
         "item_type": "Natural",
         "tier": 2,
         "price": "4400",
-        "icon": "0015_sunflower_scepter-icon.webp",
-        "hidden_tags": []
+        "icon": "0015_sunflower_scepter-icon.webp"
       }
     },
     "0016_harrowshrike_harness": {
@@ -254,8 +238,7 @@
         "item_type": "Medium Armor",
         "tier": 1,
         "price": "1600",
-        "icon": "0016_harrowshrike_harness-icon.webp",
-        "hidden_tags": []
+        "icon": "0016_harrowshrike_harness-icon.webp"
       }
     },
     "0017_griefplate": {
@@ -269,8 +252,7 @@
         "item_type": "Heavy Armor",
         "tier": 2,
         "price": "6200",
-        "icon": "0017_griefplate-icon.webp",
-        "hidden_tags": []
+        "icon": "0017_griefplate-icon.webp"
       }
     },
     "0018_gatebreaker_gauntlets": {
@@ -284,8 +266,7 @@
         "item_type": "Heavy Armor",
         "tier": 3,
         "price": "28800",
-        "icon": "0018_gatebreaker_gauntlets-icon.webp",
-        "hidden_tags": []
+        "icon": "0018_gatebreaker_gauntlets-icon.webp"
       }
     },
     "0019_osseous_mask": {
@@ -299,8 +280,7 @@
         "item_type": "Clothing",
         "tier": 1,
         "price": "2500",
-        "icon": "0019_osseous_mask-icon.webp",
-        "hidden_tags": []
+        "icon": "0019_osseous_mask-icon.webp"
       }
     },
     "0020_stormstrider_boots": {
@@ -314,8 +294,7 @@
         "item_type": "Clothing",
         "tier": 2,
         "price": "6600",
-        "icon": "0020_stormstrider_boots-icon.webp",
-        "hidden_tags": []
+        "icon": "0020_stormstrider_boots-icon.webp"
       }
     },
     "0022_ossian_crown": {
@@ -329,8 +308,7 @@
         "item_type": "Clothing",
         "tier": 1,
         "price": "2700",
-        "icon": "0022_ossian_crown-icon.webp",
-        "hidden_tags": []
+        "icon": "0022_ossian_crown-icon.webp"
       }
     },
     "0024_ancestral_fragment": {
@@ -344,8 +322,7 @@
         "item_type": "Trinket",
         "tier": 2,
         "price": "2100",
-        "icon": "0024_ancestral_fragment-icon.webp",
-        "hidden_tags": []
+        "icon": "0024_ancestral_fragment-icon.webp"
       }
     },
     "0025_lightbringer_torch": {
@@ -359,8 +336,7 @@
         "item_type": "Trinket",
         "tier": 2,
         "price": "4600",
-        "icon": "0025_lightbringer_torch-icon.webp",
-        "hidden_tags": []
+        "icon": "0025_lightbringer_torch-icon.webp"
       }
     },
     "0026_molten_core": {
@@ -374,8 +350,7 @@
         "item_type": "Trinket",
         "tier": 2,
         "price": "4800",
-        "icon": "0026_molten_core-icon.webp",
-        "hidden_tags": []
+        "icon": "0026_molten_core-icon.webp"
       }
     },
     "0028_fleshgrafter_workgloves": {
@@ -389,8 +364,7 @@
         "item_type": "Trinket",
         "tier": 2,
         "price": "2600",
-        "icon": "0028_fleshgrafter_workgloves-icon.webp",
-        "hidden_tags": []
+        "icon": "0028_fleshgrafter_workgloves-icon.webp"
       }
     },
     "0002_devils_decksweeper": {
@@ -404,8 +378,7 @@
         "item_type": "Range Weapon",
         "tier": 2,
         "price": "2400",
-        "icon": "0002_devils_decksweeper-icon.webp",
-        "hidden_tags": []
+        "icon": "0002_devils_decksweeper-icon.webp"
       }
     },
     "0031_gravewardens_bell": {
@@ -419,8 +392,7 @@
         "item_type": "Trinket",
         "tier": 1,
         "price": "750",
-        "icon": "0031_gravewardens_bell-icon.webp",
-        "hidden_tags": []
+        "icon": "0031_gravewardens_bell-icon.webp"
       }
     },
     "0032_crescent_moon": {
@@ -434,8 +406,7 @@
         "item_type": "Melee Weapon",
         "tier": 2,
         "price": "4400",
-        "icon": "0032_crescent_moon-icon.webp",
-        "hidden_tags": []
+        "icon": "0032_crescent_moon-icon.webp"
       }
     },
     "0034_cloak_of_billowing_ash": {
@@ -449,8 +420,7 @@
         "item_type": "Clothing",
         "tier": 3,
         "price": "48000",
-        "icon": "0034_cloak_of_billowing_ash-icon.webp",
-        "hidden_tags": []
+        "icon": "0034_cloak_of_billowing_ash-icon.webp"
       }
     },
     "0033_wiredevil": {
@@ -464,8 +434,7 @@
         "item_type": "consumable",
         "tier": 1,
         "price": "800",
-        "icon": "0033_wiredevil-icon.webp",
-        "hidden_tags": []
+        "icon": "0033_wiredevil-icon.webp"
       }
     },
     "0035_dreamraker": {
@@ -479,8 +448,7 @@
         "item_type": "Melee Weapon",
         "tier": 2,
         "price": "6600",
-        "icon": "0035_dreamraker-icon.webp",
-        "hidden_tags": []
+        "icon": "0035_dreamraker-icon.webp"
       }
     },
     "0036_vermin_crown": {
@@ -494,8 +462,7 @@
         "item_type": "Trinket",
         "tier": 1,
         "price": "2200",
-        "icon": "0036_vermin_crown-icon.webp",
-        "hidden_tags": []
+        "icon": "0036_vermin_crown-icon.webp"
       }
     },
     "0037_grovekeepers_promise": {
@@ -509,8 +476,7 @@
         "item_type": "Shield",
         "tier": 2,
         "price": "5600",
-        "icon": "0037_grovekeepers_promise-icon.webp",
-        "hidden_tags": []
+        "icon": "0037_grovekeepers_promise-icon.webp"
       }
     },
     "0038_seed_of_renewal": {
@@ -524,8 +490,7 @@
         "item_type": "Consumable",
         "tier": 1,
         "price": "3200",
-        "icon": "0038_seed_of_renewal-icon.webp",
-        "hidden_tags": []
+        "icon": "0038_seed_of_renewal-icon.webp"
       }
     },
     "0039_blade_sage_scroll": {
@@ -539,8 +504,7 @@
         "item_type": "Trinket",
         "tier": 1,
         "price": "3800",
-        "icon": "0039_blade_sage_scroll-icon.webp",
-        "hidden_tags": []
+        "icon": "0039_blade_sage_scroll-icon.webp"
       }
     },
     "0040_jungle_monarch": {
@@ -554,8 +518,7 @@
         "item_type": "Melee Weapon",
         "tier": 2,
         "price": "3600",
-        "icon": "0040_jungle_monarch-icon.webp",
-        "hidden_tags": []
+        "icon": "0040_jungle_monarch-icon.webp"
       }
     },
     "0041_lantern_of_waning_hope": {
@@ -569,8 +532,7 @@
         "item_type": "Trinket",
         "tier": 1,
         "price": "2700",
-        "icon": "0041_lantern_of_waning_hope-icon.webp",
-        "hidden_tags": []
+        "icon": "0041_lantern_of_waning_hope-icon.webp"
       }
     },
     "0042_rothail_shortbow": {
@@ -584,8 +546,7 @@
         "item_type": "Range Weapon",
         "tier": 1,
         "price": "1400",
-        "icon": "0042_rothail_shortbow-icon.webp",
-        "hidden_tags": []
+        "icon": "0042_rothail_shortbow-icon.webp"
       }
     },
     "0043_conquerors_chalice": {
@@ -599,8 +560,7 @@
         "item_type": "Trinket",
         "tier": 1,
         "price": "2100",
-        "icon": "0043_conquerors_chalice-icon.webp",
-        "hidden_tags": []
+        "icon": "0043_conquerors_chalice-icon.webp"
       }
     },
     "0044_ghoulskin_gloves": {
@@ -614,8 +574,7 @@
         "item_type": "Clothing",
         "tier": 1,
         "price": "1700",
-        "icon": "0044_ghoulskin_gloves-icon.webp",
-        "hidden_tags": []
+        "icon": "0044_ghoulskin_gloves-icon.webp"
       }
     },
     "0045_bridgehead": {
@@ -629,8 +588,7 @@
         "item_type": "Heavy Armor",
         "tier": 2,
         "price": "5200",
-        "icon": "0045_bridgehead-icon.webp",
-        "hidden_tags": []
+        "icon": "0045_bridgehead-icon.webp"
       }
     },
     "0046_mourners_frock": {
@@ -644,8 +602,7 @@
         "item_type": "Light Armor",
         "tier": 2,
         "price": "4700",
-        "icon": "0046_mourners_frock-icon.webp",
-        "hidden_tags": []
+        "icon": "0046_mourners_frock-icon.webp"
       }
     },
     "0049_foremans_flask": {
@@ -659,8 +616,7 @@
         "item_type": "Trinket",
         "tier": 1,
         "price": "1700",
-        "icon": "0049_foremans_flask-icon.webp",
-        "hidden_tags": []
+        "icon": "0049_foremans_flask-icon.webp"
       }
     },
     "0049_wrathfire_talisman": {
@@ -674,8 +630,7 @@
         "item_type": "Trinket",
         "tier": 2,
         "price": "3800",
-        "icon": "0049_wrathfire_talisman-icon.webp",
-        "hidden_tags": []
+        "icon": "0049_wrathfire_talisman-icon.webp"
       }
     },
     "0047_beast_hunters_cowl": {
@@ -689,8 +644,7 @@
         "item_type": "Clothing",
         "tier": 2,
         "price": "2200",
-        "icon": "0047_beast_hunters_cowl-icon.webp",
-        "hidden_tags": []
+        "icon": "0047_beast_hunters_cowl-icon.webp"
       }
     },
     "0048_fadesilk_shroud": {
@@ -704,8 +658,7 @@
         "item_type": "Clothing",
         "tier": 2,
         "price": "3200",
-        "icon": "0048_fadesilk_shroud-icon.webp",
-        "hidden_tags": []
+        "icon": "0048_fadesilk_shroud-icon.webp"
       }
     },
     "0050_brawlers_eagerness": {
@@ -719,8 +672,7 @@
         "item_type": "Trinket",
         "tier": 1,
         "price": "700",
-        "icon": "0050_brawlers_eagerness-icon.webp",
-        "hidden_tags": []
+        "icon": "0050_brawlers_eagerness-icon.webp"
       }
     },
     "0051_blessed_bindings": {
@@ -734,8 +686,7 @@
         "item_type": "Clothing",
         "tier": 1,
         "price": "350",
-        "icon": "0051_blessed_bindings-icon.webp",
-        "hidden_tags": []
+        "icon": "0051_blessed_bindings-icon.webp"
       }
     },
     "0053_robes_of_reflection": {
@@ -749,8 +700,7 @@
         "item_type": "Clothing",
         "tier": 1,
         "price": "900",
-        "icon": "0053_robes_of_reflection-icon.webp",
-        "hidden_tags": []
+        "icon": "0053_robes_of_reflection-icon.webp"
       }
     },
     "0052_dark_shepherd_cursed": {
@@ -764,8 +714,7 @@
         "item_type": "Trinket",
         "tier": 2,
         "price": "4200",
-        "icon": "0052_dark_shepherd_cursed-icon.webp",
-        "hidden_tags": []
+        "icon": "0052_dark_shepherd_cursed-icon.webp"
       }
     },
     "0052_dark_shepherd": {
@@ -779,8 +728,7 @@
         "item_type": "Trinket",
         "tier": 2,
         "price": "4200",
-        "icon": "0052_dark_shepherd-icon.webp",
-        "hidden_tags": []
+        "icon": "0052_dark_shepherd-icon.webp"
       }
     },
     "0054_slumbering_huskblade": {
@@ -794,8 +742,7 @@
         "item_type": "Melee Weapon",
         "tier": 2,
         "price": "3600",
-        "icon": "0054_slumbering_huskblade-icon.webp",
-        "hidden_tags": []
+        "icon": "0054_slumbering_huskblade-icon.webp"
       }
     },
     "0055_awoken_huskblade": {
@@ -809,8 +756,7 @@
         "item_type": "Melee Weapon",
         "tier": 2,
         "price": "5800",
-        "icon": "0055_awoken_huskblade-icon.webp",
-        "hidden_tags": []
+        "icon": "0055_awoken_huskblade-icon.webp"
       }
     },
     "0056_hiveheart": {
@@ -824,8 +770,7 @@
         "item_type": "Trinket",
         "tier": 2,
         "price": "5000",
-        "icon": "0056_hiveheart-icon.webp",
-        "hidden_tags": []
+        "icon": "0056_hiveheart-icon.webp"
       }
     },
     "0057_sullen_knights_helmet": {
@@ -839,8 +784,7 @@
         "item_type": "Clothing",
         "tier": 1,
         "price": "2700",
-        "icon": "0057_sullen_knights_helmet-icon.webp",
-        "hidden_tags": []
+        "icon": "0057_sullen_knights_helmet-icon.webp"
       }
     },
     "0058_bascinet_of_ancient_tactica": {
@@ -854,8 +798,7 @@
         "item_type": "Clothing",
         "tier": 2,
         "price": "12500",
-        "icon": "0058_bascinet_of_ancient_tactica-icon.webp",
-        "hidden_tags": []
+        "icon": "0058_bascinet_of_ancient_tactica-icon.webp"
       }
     },
     "0059_bottlesnatcher_imp": {
@@ -869,8 +812,7 @@
         "item_type": "Trinket",
         "tier": 1,
         "price": "2600",
-        "icon": "0059_bottlesnatcher_imp-icon.webp",
-        "hidden_tags": []
+        "icon": "0059_bottlesnatcher_imp-icon.webp"
       }
     },
     "0060_heart_of_iron": {
@@ -884,8 +826,7 @@
         "item_type": "Trinket",
         "tier": 2,
         "price": "13600",
-        "icon": "0060_heart_of_iron-icon.webp",
-        "hidden_tags": []
+        "icon": "0060_heart_of_iron-icon.webp"
       }
     },
     "0061_spelldrinker_scroll": {
@@ -899,8 +840,7 @@
         "item_type": "Consumable",
         "tier": 2,
         "price": "3900",
-        "icon": "0061_spelldrinker_scroll-icon.webp",
-        "hidden_tags": []
+        "icon": "0061_spelldrinker_scroll-icon.webp"
       }
     },
     "0062_three_feather_tricorne": {
@@ -914,8 +854,7 @@
         "item_type": "Clothing",
         "tier": 2,
         "price": "1600",
-        "icon": "0062_three_feather_tricorne-icon.webp",
-        "hidden_tags": []
+        "icon": "0062_three_feather_tricorne-icon.webp"
       }
     },
     "0063_nightbloom_chalice": {
@@ -929,8 +868,7 @@
         "item_type": "Trinket",
         "tier": 1,
         "price": "2900",
-        "icon": "0063_nightbloom_chalice-icon.webp",
-        "hidden_tags": []
+        "icon": "0063_nightbloom_chalice-icon.webp"
       }
     },
     "0064_boreal_bulwark": {
@@ -944,8 +882,7 @@
         "item_type": "Shield",
         "tier": 2,
         "price": "5200",
-        "icon": "0064_boreal_bulwark-icon.webp",
-        "hidden_tags": []
+        "icon": "0064_boreal_bulwark-icon.webp"
       }
     },
     "0065_duskdreamers_diadem": {
@@ -959,8 +896,7 @@
         "item_type": "Trinket",
         "tier": 2,
         "price": "3200",
-        "icon": "0065_duskdreamers_diadem-icon.webp",
-        "hidden_tags": []
+        "icon": "0065_duskdreamers_diadem-icon.webp"
       }
     },
     "0066_death_ink": {
@@ -974,8 +910,7 @@
         "item_type": "Consumable",
         "tier": 3,
         "price": "18000",
-        "icon": "0066_death_ink-icon.webp",
-        "hidden_tags": []
+        "icon": "0066_death_ink-icon.webp"
       }
     },
     "0067_whispermaw_strain": {
@@ -989,8 +924,7 @@
         "item_type": "Consumable",
         "tier": 3,
         "price": "14200",
-        "icon": "0067_whispermaw_strain-icon.webp",
-        "hidden_tags": []
+        "icon": "0067_whispermaw_strain-icon.webp"
       }
     },
     "0068_magmatic_molasses": {
@@ -1004,8 +938,7 @@
         "item_type": "Consumable",
         "tier": 2,
         "price": "2800",
-        "icon": "0068_magmatic_molasses-icon.webp",
-        "hidden_tags": []
+        "icon": "0068_magmatic_molasses-icon.webp"
       }
     },
     "0069_drought_draught": {
@@ -1019,8 +952,7 @@
         "item_type": "Consumable",
         "tier": 2,
         "price": "6000",
-        "icon": "0069_drought_draught-icon.webp",
-        "hidden_tags": []
+        "icon": "0069_drought_draught-icon.webp"
       }
     },
     "0070_crown_of_defiance": {
@@ -1034,8 +966,7 @@
         "item_type": "Clothing",
         "tier": 3,
         "price": "1000000",
-        "icon": "0070_crown_of_defiance-icon.webp",
-        "hidden_tags": []
+        "icon": "0070_crown_of_defiance-icon.webp"
       }
     },
     "0071_hags_due": {
@@ -1049,8 +980,7 @@
         "item_type": "Melee Weapon",
         "tier": 1,
         "price": "1900",
-        "icon": "0071_hags_due-icon.webp",
-        "hidden_tags": []
+        "icon": "0071_hags_due-icon.webp"
       }
     },
     "0072_slimesword": {
@@ -1064,8 +994,7 @@
         "item_type": "Melee Weapon",
         "tier": 1,
         "price": "2100",
-        "icon": "0072_slimesword-icon.webp",
-        "hidden_tags": []
+        "icon": "0072_slimesword-icon.webp"
       }
     },
     "0073_visage_of_dismay": {
@@ -1079,8 +1008,7 @@
         "item_type": "Medium Armor",
         "tier": 2,
         "price": "5700",
-        "icon": "0073_visage_of_dismay-icon.webp",
-        "hidden_tags": []
+        "icon": "0073_visage_of_dismay-icon.webp"
       }
     },
     "0074_dawnmartyr_pelerine": {
@@ -1094,8 +1022,7 @@
         "item_type": "Clothing",
         "tier": 3,
         "price": "25700",
-        "icon": "0074_dawnmartyr_pelerine-icon.webp",
-        "hidden_tags": []
+        "icon": "0074_dawnmartyr_pelerine-icon.webp"
       }
     },
     "0075_grace_of_the_shade_court": {
@@ -1109,8 +1036,7 @@
         "item_type": "Clothing",
         "tier": 3,
         "price": "44800",
-        "icon": "0075_grace_of_the_shade_court-icon.webp",
-        "hidden_tags": []
+        "icon": "0075_grace_of_the_shade_court-icon.webp"
       }
     },
     "0076_mask_of_the_third_eye": {
@@ -1124,8 +1050,7 @@
         "item_type": "Clothing",
         "tier": 2,
         "price": "189000",
-        "icon": "0076_mask_of_the_third_eye-icon.webp",
-        "hidden_tags": []
+        "icon": "0076_mask_of_the_third_eye-icon.webp"
       }
     },
     "0077_windup_key": {
@@ -1139,8 +1064,7 @@
         "item_type": "Consumable",
         "tier": 2,
         "price": "5200",
-        "icon": "0077_windup_key-icon.webp",
-        "hidden_tags": []
+        "icon": "0077_windup_key-icon.webp"
       }
     },
     "0078_enslaver_stake": {
@@ -1154,8 +1078,7 @@
         "item_type": "Consumable",
         "tier": 1,
         "price": "2600",
-        "icon": "0078_enslaver_stake-icon.webp",
-        "hidden_tags": []
+        "icon": "0078_enslaver_stake-icon.webp"
       }
     },
     "0079_martyrs_ash": {
@@ -1169,8 +1092,7 @@
         "item_type": "Consumable",
         "tier": 1,
         "price": "2600",
-        "icon": "0079_martyrs_ash-icon.webp",
-        "hidden_tags": []
+        "icon": "0079_martyrs_ash-icon.webp"
       }
     },
     "0080_mind_tyrant": {
@@ -1184,8 +1106,7 @@
         "item_type": "Spellfocus",
         "tier": 2,
         "price": "13700",
-        "icon": "0080_mind_tyrant-icon.webp",
-        "hidden_tags": []
+        "icon": "0080_mind_tyrant-icon.webp"
       }
     },
     "0082_convergence_crest": {
@@ -1199,8 +1120,7 @@
         "item_type": "Melee Weapon",
         "tier": 3,
         "price": "37200",
-        "icon": "0082_convergence_crest-icon.webp",
-        "hidden_tags": []
+        "icon": "0082_convergence_crest-icon.webp"
       }
     },
     "0083_ghostflicker_habit": {
@@ -1214,8 +1134,7 @@
         "item_type": "Clothing",
         "tier": 2,
         "price": "5200",
-        "icon": "0083_ghostflicker_habit-icon.webp",
-        "hidden_tags": []
+        "icon": "0083_ghostflicker_habit-icon.webp"
       }
     },
     "0084_reefs_splendour": {
@@ -1229,8 +1148,7 @@
         "item_type": "Melee Weapon",
         "tier": 2,
         "price": "4750",
-        "icon": "0084_reefs_splendour-icon.webp",
-        "hidden_tags": []
+        "icon": "0084_reefs_splendour-icon.webp"
       }
     },
     "0085_shield_of_the_sepulchral_saint": {
@@ -1244,8 +1162,7 @@
         "item_type": "Shield",
         "tier": 2,
         "price": "8200",
-        "icon": "0085_shield_of_the_sepulchral_saint-icon.webp",
-        "hidden_tags": []
+        "icon": "0085_shield_of_the_sepulchral_saint-icon.webp"
       }
     },
     "0087_irontide_raidmask_1": {
@@ -1259,8 +1176,7 @@
         "item_type": "Medium Armor",
         "tier": 2,
         "price": "4600",
-        "icon": "0087_irontide_raidmask_1-icon.webp",
-        "hidden_tags": []
+        "icon": "0087_irontide_raidmask_1-icon.webp"
       }
     },
     "0087_irontide_raidmask_2": {
@@ -1274,8 +1190,7 @@
         "item_type": "Medium Armor",
         "tier": 2,
         "price": "4600",
-        "icon": "0087_irontide_raidmask_2-icon.webp",
-        "hidden_tags": []
+        "icon": "0087_irontide_raidmask_2-icon.webp"
       }
     },
     "0087_irontide_raidmask_3": {
@@ -1289,8 +1204,7 @@
         "item_type": "Medium Armor",
         "tier": 2,
         "price": "4600",
-        "icon": "0087_irontide_raidmask_3-icon.webp",
-        "hidden_tags": []
+        "icon": "0087_irontide_raidmask_3-icon.webp"
       }
     },
     "0088_fluttershade_habit": {
@@ -1304,8 +1218,7 @@
         "item_type": "Clothing",
         "tier": 1,
         "price": "1750",
-        "icon": "0088_fluttershade_habit-icon.webp",
-        "hidden_tags": []
+        "icon": "0088_fluttershade_habit-icon.webp"
       }
     },
     "0086_gravelord_scepter": {
@@ -1319,8 +1232,7 @@
         "item_type": "Melee Weapon",
         "tier": 3,
         "price": "17500",
-        "icon": "0086_gravelord_scepter-icon.webp",
-        "hidden_tags": []
+        "icon": "0086_gravelord_scepter-icon.webp"
       }
     },
     "0089_staff_of_multiple_minds": {
@@ -1334,8 +1246,7 @@
         "item_type": "Melee Weapon",
         "tier": 3,
         "price": "24700",
-        "icon": "0089_staff_of_multiple_minds-icon.webp",
-        "hidden_tags": []
+        "icon": "0089_staff_of_multiple_minds-icon.webp"
       }
     },
     "0090_lightning_shrike": {
@@ -1349,8 +1260,7 @@
         "item_type": "Melee Weapon",
         "tier": 2,
         "price": "3600",
-        "icon": "0090_lightning_shrike-icon.webp",
-        "hidden_tags": []
+        "icon": "0090_lightning_shrike-icon.webp"
       }
     },
     "0091_dark_promise": {
@@ -1364,8 +1274,7 @@
         "item_type": "Melee Weapon",
         "tier": 3,
         "price": "44800",
-        "icon": "0091_dark_promise-icon.webp",
-        "hidden_tags": []
+        "icon": "0091_dark_promise-icon.webp"
       }
     },
     "0092_rod_of_the_silent_saint": {
@@ -1379,8 +1288,7 @@
         "item_type": "Trinket",
         "tier": 3,
         "price": "32000",
-        "icon": "0092_rod_of_the_silent_saint-icon.webp",
-        "hidden_tags": []
+        "icon": "0092_rod_of_the_silent_saint-icon.webp"
       }
     },
     "0093_sunscorched_shield": {
@@ -1394,8 +1302,7 @@
         "item_type": "Shield",
         "tier": 2,
         "price": "3800",
-        "icon": "0093_sunscorched_shield-icon.webp",
-        "hidden_tags": []
+        "icon": "0093_sunscorched_shield-icon.webp"
       }
     },
     "0098_sphinx_key": {
@@ -1409,8 +1316,7 @@
         "item_type": "Trinket",
         "tier": 1,
         "price": "2850",
-        "icon": "0098_sphinx_key-icon.webp",
-        "hidden_tags": []
+        "icon": "0098_sphinx_key-icon.webp"
       }
     },
     "0099_killing_thought": {
@@ -1424,8 +1330,7 @@
         "item_type": "Melee Weapon",
         "tier": 2,
         "price": "1250",
-        "icon": "0099_killing_thought-icon.webp",
-        "hidden_tags": []
+        "icon": "0099_killing_thought-icon.webp"
       }
     },
     "0100_latchling_vial": {
@@ -1439,8 +1344,7 @@
         "item_type": "Consumable",
         "tier": 1,
         "price": "480",
-        "icon": "0100_latchling_vial-icon.webp",
-        "hidden_tags": []
+        "icon": "0100_latchling_vial-icon.webp"
       }
     },
     "0101_spookshroud": {
@@ -1454,8 +1358,7 @@
         "item_type": "Cloak",
         "tier": 2,
         "price": "13001",
-        "icon": "0101_spookshroud-icon.webp",
-        "hidden_tags": []
+        "icon": "0101_spookshroud-icon.webp"
       }
     },
     "0081_truthtaker": {
@@ -1469,8 +1372,7 @@
         "item_type": "Melee Weapon",
         "tier": 1,
         "price": "1800",
-        "icon": "0081_truthtaker-icon.webp",
-        "hidden_tags": []
+        "icon": "0081_truthtaker-icon.webp"
       }
     },
     "0095_muspelhammer": {
@@ -1484,8 +1386,7 @@
         "item_type": "Melee Weapon",
         "tier": 1,
         "price": "1800",
-        "icon": "0095_muspelhammer-icon.webp",
-        "hidden_tags": []
+        "icon": "0095_muspelhammer-icon.webp"
       }
     },
     "0094_trench_digger": {
@@ -1499,8 +1400,7 @@
         "item_type": "Melee Weapon",
         "tier": 2,
         "price": "3100",
-        "icon": "0094_trench_digger-icon.webp",
-        "hidden_tags": []
+        "icon": "0094_trench_digger-icon.webp"
       }
     },
     "0096_overseers_hardhat": {
@@ -1514,8 +1414,7 @@
         "item_type": "Clothing",
         "tier": 2,
         "price": "2200",
-        "icon": "0096_overseers_hardhat-icon.webp",
-        "hidden_tags": []
+        "icon": "0096_overseers_hardhat-icon.webp"
       }
     },
     "0097_potion_of_healing": {
@@ -1529,8 +1428,7 @@
         "item_type": "Consumable",
         "tier": 1,
         "price": "50",
-        "icon": "0097_potion_of_healing-icon.webp",
-        "hidden_tags": []
+        "icon": "0097_potion_of_healing-icon.webp"
       }
     },
     "0097_potion_of_greater_healing": {
@@ -1544,8 +1442,7 @@
         "item_type": "Consumable",
         "tier": 1,
         "price": "100",
-        "icon": "0097_potion_of_greater_healing-icon.webp",
-        "hidden_tags": []
+        "icon": "0097_potion_of_greater_healing-icon.webp"
       }
     },
     "0097_potion_of_superior_healing": {
@@ -1559,8 +1456,7 @@
         "item_type": "Consumable",
         "tier": 1,
         "price": "250",
-        "icon": "0097_potion_of_superior_healing-icon.webp",
-        "hidden_tags": []
+        "icon": "0097_potion_of_superior_healing-icon.webp"
       }
     },
     "0097_potion_of_supreme_healing": {
@@ -1574,8 +1470,7 @@
         "item_type": "Consumable",
         "tier": 2,
         "price": "3500",
-        "icon": "0097_potion_of_supreme_healing-icon.webp",
-        "hidden_tags": []
+        "icon": "0097_potion_of_supreme_healing-icon.webp"
       }
     },
     "0029_the_pilgrims_plate": {
@@ -1589,8 +1484,7 @@
         "item_type": "Heavy Armor",
         "tier": 2,
         "price": "1800",
-        "icon": "0029_the_pilgrims_plate-icon.webp",
-        "hidden_tags": []
+        "icon": "0029_the_pilgrims_plate-icon.webp"
       }
     },
     "0104_crows_perch": {
@@ -1604,8 +1498,7 @@
         "item_type": "Spellfocus",
         "tier": 2,
         "price": "4000",
-        "icon": "0104_crows_perch-icon.webp",
-        "hidden_tags": []
+        "icon": "0104_crows_perch-icon.webp"
       }
     },
     "0103_hellwrights_hexcoil": {
@@ -1619,8 +1512,7 @@
         "item_type": "Spellfocus",
         "tier": 2,
         "price": "3750",
-        "icon": "0103_hellwrights_hexcoil-icon.webp",
-        "hidden_tags": []
+        "icon": "0103_hellwrights_hexcoil-icon.webp"
       }
     },
     "0102_serpents_scales": {
@@ -1634,8 +1526,7 @@
         "item_type": "Medium Armor",
         "tier": 1,
         "price": "2800",
-        "icon": "0102_serpents_scales-icon.webp",
-        "hidden_tags": []
+        "icon": "0102_serpents_scales-icon.webp"
       }
     },
     "0105_consciousmist_disperser": {
@@ -1649,8 +1540,7 @@
         "item_type": "Adventuring Gear",
         "tier": 2,
         "price": "2300",
-        "icon": "0105_consciousmist_disperser-icon.webp",
-        "hidden_tags": []
+        "icon": "0105_consciousmist_disperser-icon.webp"
       }
     },
     "0105_consciousmist_potion": {
@@ -1664,8 +1554,7 @@
         "item_type": "Potion",
         "tier": 2,
         "price": "380",
-        "icon": "0105_consciousmist_potion-icon.webp",
-        "hidden_tags": []
+        "icon": "0105_consciousmist_potion-icon.webp"
       }
     },
     "0106_a_drink_of_despair": {
@@ -1679,8 +1568,7 @@
         "item_type": "Consumable",
         "tier": 2,
         "price": "8700",
-        "icon": "0106_a_drink_of_despair-icon.webp",
-        "hidden_tags": []
+        "icon": "0106_a_drink_of_despair-icon.webp"
       }
     },
     "0107_teethsmasher_tankard": {
@@ -1694,8 +1582,7 @@
         "item_type": "Impr. Weapon",
         "tier": 1,
         "price": "1870",
-        "icon": "0107_teethsmasher_tankard-icon.webp",
-        "hidden_tags": []
+        "icon": "0107_teethsmasher_tankard-icon.webp"
       }
     },
     "0108_proliferating_plate": {
@@ -1709,8 +1596,7 @@
         "item_type": "Plate Armor",
         "tier": 2,
         "price": "2700",
-        "icon": "0108_proliferating_plate-icon.webp",
-        "hidden_tags": []
+        "icon": "0108_proliferating_plate-icon.webp"
       }
     },
     "0109_festering_blade": {
@@ -1724,8 +1610,7 @@
         "item_type": "Longsword",
         "tier": 1,
         "price": "2200",
-        "icon": "0109_festering_blade-icon.webp",
-        "hidden_tags": []
+        "icon": "0109_festering_blade-icon.webp"
       }
     }
   }

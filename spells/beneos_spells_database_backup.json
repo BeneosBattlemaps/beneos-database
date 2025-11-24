@@ -27,8 +27,7 @@
           "S",
           "M"
         ],
-        "icon": "0001_needleburst_cactus-icon.webp",
-        "hidden_tags": []
+        "icon": "0001_needleburst_cactus-icon.webp"
       }
     },
     "0002_black_hand": {
@@ -52,8 +51,7 @@
           "V",
           "S"
         ],
-        "icon": "0002_black_hand-icon.webp",
-        "hidden_tags": []
+        "icon": "0002_black_hand-icon.webp"
       }
     },
     "0005_red_mist_frenzy": {
@@ -79,8 +77,7 @@
           "S",
           "M"
         ],
-        "icon": "0005_red_mist_frenzy-icon.webp",
-        "hidden_tags": []
+        "icon": "0005_red_mist_frenzy-icon.webp"
       }
     },
     "0006_vengeful_spirit": {
@@ -105,8 +102,7 @@
           "V",
           "S"
         ],
-        "icon": "0006_vengeful_spirit-icon.webp",
-        "hidden_tags": []
+        "icon": "0006_vengeful_spirit-icon.webp"
       }
     },
     "0007_deconstruct": {
@@ -131,8 +127,7 @@
           "S",
           "M"
         ],
-        "icon": "0007_deconstruct-icon.webp",
-        "hidden_tags": []
+        "icon": "0007_deconstruct-icon.webp"
       }
     },
     "0009_void_shield": {
@@ -158,8 +153,7 @@
           "S",
           "M"
         ],
-        "icon": "0009_void_shield-icon.webp",
-        "hidden_tags": []
+        "icon": "0009_void_shield-icon.webp"
       }
     },
     "0010_harrowshriek": {
@@ -181,8 +175,7 @@
         "components": [
           "V"
         ],
-        "icon": "0010_harrowshriek-icon.webp",
-        "hidden_tags": []
+        "icon": "0010_harrowshriek-icon.webp"
       }
     },
     "0013_deathrite_shroud": {
@@ -206,8 +199,7 @@
           "S",
           "M"
         ],
-        "icon": "0013_deathrite_shroud-icon.webp",
-        "hidden_tags": []
+        "icon": "0013_deathrite_shroud-icon.webp"
       }
     },
     "0014_summon_megalith": {
@@ -232,8 +224,7 @@
           "S",
           "M"
         ],
-        "icon": "0014_summon_megalith-icon.webp",
-        "hidden_tags": []
+        "icon": "0014_summon_megalith-icon.webp"
       }
     },
     "0016_keep_moving": {
@@ -253,8 +244,7 @@
         "components": [
           "V"
         ],
-        "icon": "0016_keep_moving-icon.webp",
-        "hidden_tags": []
+        "icon": "0016_keep_moving-icon.webp"
       }
     },
     "0017_waynes_tag_team": {
@@ -283,8 +273,7 @@
           "S",
           "M"
         ],
-        "icon": "0017_waynes_tag_team-icon.webp",
-        "hidden_tags": []
+        "icon": "0017_waynes_tag_team-icon.webp"
       }
     },
     "0018_fist": {
@@ -313,8 +302,7 @@
           "S",
           "M"
         ],
-        "icon": "0018_fist-icon.webp",
-        "hidden_tags": []
+        "icon": "0018_fist-icon.webp"
       }
     },
     "0020_destabilize": {
@@ -339,8 +327,7 @@
           "S",
           "M"
         ],
-        "icon": "0020_destabilize-icon.webp",
-        "hidden_tags": []
+        "icon": "0020_destabilize-icon.webp"
       }
     },
     "0008_ash_rain": {
@@ -365,8 +352,7 @@
           "S",
           "M"
         ],
-        "icon": "0008_ash_rain-icon.webp",
-        "hidden_tags": []
+        "icon": "0008_ash_rain-icon.webp"
       }
     },
     "0011_grim_harvest": {
@@ -391,8 +377,7 @@
           "S",
           "M"
         ],
-        "icon": "0011_grim_harvest-icon.webp",
-        "hidden_tags": []
+        "icon": "0011_grim_harvest-icon.webp"
       }
     },
     "0012_glacial_prison": {
@@ -417,8 +402,7 @@
           "S",
           "M"
         ],
-        "icon": "0012_glacial_prison-icon.webp",
-        "hidden_tags": []
+        "icon": "0012_glacial_prison-icon.webp"
       }
     },
     "0015_stormflight": {
@@ -444,8 +428,7 @@
           "S",
           "M"
         ],
-        "icon": "0015_stormflight-icon.webp",
-        "hidden_tags": []
+        "icon": "0015_stormflight-icon.webp"
       }
     },
     "0019_mist_phantoms": {
@@ -468,8 +451,7 @@
           "S",
           "M"
         ],
-        "icon": "0019_mist_phantoms-icon.webp",
-        "hidden_tags": []
+        "icon": "0019_mist_phantoms-icon.webp"
       }
     },
     "0004_anchor_of_tragedy": {
@@ -494,8 +476,7 @@
           "S",
           "M"
         ],
-        "icon": "0004_anchor_of_tragedy-icon.webp",
-        "hidden_tags": []
+        "icon": "0004_anchor_of_tragedy-icon.webp"
       }
     },
     "0000_srd_guidance": {
@@ -517,8 +498,7 @@
           "V",
           "S"
         ],
-        "icon": "0000_srd_guidance-icon.webp",
-        "hidden_tags": []
+        "icon": "0000_srd_guidance-icon.webp"
       }
     },
     "0000_srd_message": {
@@ -542,8 +522,7 @@
           "S",
           "M"
         ],
-        "icon": "0000_srd_message-icon.webp",
-        "hidden_tags": []
+        "icon": "0000_srd_message-icon.webp"
       }
     },
     "0021_grove_moss": {
@@ -566,8 +545,7 @@
           "S",
           "M"
         ],
-        "icon": "0021_grove_moss-icon.webp",
-        "hidden_tags": []
+        "icon": "0021_grove_moss-icon.webp"
       }
     },
     "0022_brittlebone_hex": {
@@ -592,8 +570,7 @@
           "S",
           "M"
         ],
-        "icon": "0022_brittlebone_hex-icon.webp",
-        "hidden_tags": []
+        "icon": "0022_brittlebone_hex-icon.webp"
       }
     },
     "0023_soothing_scents": {
@@ -616,8 +593,7 @@
           "S",
           "M"
         ],
-        "icon": "0023_soothing_scents-icon.webp",
-        "hidden_tags": []
+        "icon": "0023_soothing_scents-icon.webp"
       }
     },
     "0000_srd_prestidigitation": {
@@ -641,8 +617,7 @@
           "V",
           "S"
         ],
-        "icon": "0000_srd_prestidigitation-icon.webp",
-        "hidden_tags": []
+        "icon": "0000_srd_prestidigitation-icon.webp"
       }
     },
     "0024_rats": {
@@ -663,8 +638,7 @@
         "components": [
           "V S"
         ],
-        "icon": "0024_rats-icon.webp",
-        "hidden_tags": []
+        "icon": "0024_rats-icon.webp"
       }
     },
     "0025_magma_prison": {
@@ -689,8 +663,7 @@
           "S",
           "M"
         ],
-        "icon": "0025_magma_prison-icon.webp",
-        "hidden_tags": []
+        "icon": "0025_magma_prison-icon.webp"
       }
     },
     "0026_detonate": {
@@ -713,8 +686,7 @@
         "components": [
           "V S"
         ],
-        "icon": "0026_detonate-icon.webp",
-        "hidden_tags": []
+        "icon": "0026_detonate-icon.webp"
       }
     },
     "0027_gunpowder_cloud": {
@@ -737,8 +709,7 @@
         "components": [
           "V S M"
         ],
-        "icon": "0027_gunpowder_cloud-icon.webp",
-        "hidden_tags": []
+        "icon": "0027_gunpowder_cloud-icon.webp"
       }
     },
     "0028_arcane_bombardment": {
@@ -761,8 +732,7 @@
         "components": [
           "V S M"
         ],
-        "icon": "0028_arcane_bombardment-icon.webp",
-        "hidden_tags": []
+        "icon": "0028_arcane_bombardment-icon.webp"
       }
     },
     "0029_inner_heat": {
@@ -785,8 +755,7 @@
           "S",
           "M"
         ],
-        "icon": "0029_inner_heat-icon.webp",
-        "hidden_tags": []
+        "icon": "0029_inner_heat-icon.webp"
       }
     },
     "0031_gravegraspers": {
@@ -809,8 +778,7 @@
         "components": [
           "V S M"
         ],
-        "icon": "0031_gravegraspers-icon.webp",
-        "hidden_tags": []
+        "icon": "0031_gravegraspers-icon.webp"
       }
     },
     "0030_scarab_infestation": {
@@ -832,8 +800,7 @@
         "components": [
           "V S M"
         ],
-        "icon": "0030_scarab_infestation-icon.webp",
-        "hidden_tags": []
+        "icon": "0030_scarab_infestation-icon.webp"
       }
     },
     "0032_profane_parrot": {
@@ -860,8 +827,7 @@
           "S",
           "M"
         ],
-        "icon": "0032_profane_parrot-icon.webp",
-        "hidden_tags": []
+        "icon": "0032_profane_parrot-icon.webp"
       }
     },
     "0033_bullet_dew": {
@@ -882,8 +848,7 @@
         "components": [
           "V S M"
         ],
-        "icon": "0033_bullet_dew-icon.webp",
-        "hidden_tags": []
+        "icon": "0033_bullet_dew-icon.webp"
       }
     },
     "0034_slashers_shroud": {
@@ -908,8 +873,7 @@
           "S",
           "M"
         ],
-        "icon": "0034_slashers_shroud-icon.webp",
-        "hidden_tags": []
+        "icon": "0034_slashers_shroud-icon.webp"
       }
     },
     "0035_relive": {
@@ -935,8 +899,7 @@
           "S",
           "M"
         ],
-        "icon": "0035_relive-icon.webp",
-        "hidden_tags": []
+        "icon": "0035_relive-icon.webp"
       }
     },
     "0036_numerology": {
@@ -962,8 +925,7 @@
           "S",
           "M"
         ],
-        "icon": "0036_numerology-icon.webp",
-        "hidden_tags": []
+        "icon": "0036_numerology-icon.webp"
       }
     },
     "0037_bulwark_of_faith": {
@@ -983,8 +945,7 @@
         "components": [
           "V S"
         ],
-        "icon": "0037_bulwark_of_faith-icon.webp",
-        "hidden_tags": []
+        "icon": "0037_bulwark_of_faith-icon.webp"
       }
     },
     "0038_grand_entrance": {
@@ -1007,8 +968,7 @@
         "components": [
           "V S M"
         ],
-        "icon": "0038_grand_entrance-icon.webp",
-        "hidden_tags": []
+        "icon": "0038_grand_entrance-icon.webp"
       }
     },
     "0039_stormsong": {
@@ -1033,8 +993,7 @@
           "S",
           "M"
         ],
-        "icon": "0039_stormsong-icon.webp",
-        "hidden_tags": []
+        "icon": "0039_stormsong-icon.webp"
       }
     },
     "0040_ripple": {
@@ -1054,8 +1013,7 @@
         "components": [
           "V S M"
         ],
-        "icon": "0040_ripple-icon.webp",
-        "hidden_tags": []
+        "icon": "0040_ripple-icon.webp"
       }
     },
     "0041_terrorbolt": {
@@ -1080,8 +1038,7 @@
           "S",
           "M"
         ],
-        "icon": "0041_terrorbolt-icon.webp",
-        "hidden_tags": []
+        "icon": "0041_terrorbolt-icon.webp"
       }
     },
     "0042_thought_rot": {
@@ -1106,8 +1063,7 @@
           "S",
           "M"
         ],
-        "icon": "0042_thought_rot-icon.webp",
-        "hidden_tags": []
+        "icon": "0042_thought_rot-icon.webp"
       }
     },
     "0043_black_tears": {
@@ -1132,8 +1088,7 @@
           "V",
           "S"
         ],
-        "icon": "0043_black_tears-icon.webp",
-        "hidden_tags": []
+        "icon": "0043_black_tears-icon.webp"
       }
     },
     "0048_predatory_focus": {
@@ -1156,8 +1111,7 @@
           "S",
           "M"
         ],
-        "icon": "0048_predatory_focus-icon.webp",
-        "hidden_tags": []
+        "icon": "0048_predatory_focus-icon.webp"
       }
     },
     "0044_retrace": {
@@ -1182,8 +1136,7 @@
         "components": [
           "S"
         ],
-        "icon": "0044_retrace-icon.webp",
-        "hidden_tags": []
+        "icon": "0044_retrace-icon.webp"
       }
     },
     "0045_stumbleground": {
@@ -1206,8 +1159,7 @@
           "V",
           "S"
         ],
-        "icon": "0045_stumbleground-icon.webp",
-        "hidden_tags": []
+        "icon": "0045_stumbleground-icon.webp"
       }
     },
     "0046_fist_of_iron": {
@@ -1232,8 +1184,7 @@
           "V",
           "S"
         ],
-        "icon": "0046_fist_of_iron-icon.webp",
-        "hidden_tags": []
+        "icon": "0046_fist_of_iron-icon.webp"
       }
     },
     "0047_subtle_lure": {
@@ -1259,8 +1210,7 @@
           "S",
           "M"
         ],
-        "icon": "0047_subtle_lure-icon.webp",
-        "hidden_tags": []
+        "icon": "0047_subtle_lure-icon.webp"
       }
     },
     "0049_allconsuming_flame": {
@@ -1284,8 +1234,7 @@
         "components": [
           "V S M"
         ],
-        "icon": "0049_allconsuming_flame-icon.webp",
-        "hidden_tags": []
+        "icon": "0049_allconsuming_flame-icon.webp"
       }
     },
     "0050_evoke_grandeur": {
@@ -1305,8 +1254,7 @@
         "components": [
           "V S M"
         ],
-        "icon": "0050_evoke_grandeur-icon.webp",
-        "hidden_tags": []
+        "icon": "0050_evoke_grandeur-icon.webp"
       }
     },
     "0051_predatory_adaption": {
@@ -1330,8 +1278,7 @@
           "S",
           "M"
         ],
-        "icon": "0051_predatory_adaption-icon.webp",
-        "hidden_tags": []
+        "icon": "0051_predatory_adaption-icon.webp"
       }
     },
     "0052_sense_mood": {
@@ -1356,8 +1303,7 @@
         "components": [
           "V S M"
         ],
-        "icon": "0052_sense_mood-icon.webp",
-        "hidden_tags": []
+        "icon": "0052_sense_mood-icon.webp"
       }
     },
     "0000_paladin_pack_1_bladevow": {
@@ -1377,8 +1323,7 @@
         "components": [
           "V M"
         ],
-        "icon": "0000_paladin_pack_1_bladevow-icon.webp",
-        "hidden_tags": []
+        "icon": "0000_paladin_pack_1_bladevow-icon.webp"
       }
     },
     "0000_paladin_pack_1_blessed_battlegrounds": {
@@ -1399,8 +1344,7 @@
         "components": [
           "V S M"
         ],
-        "icon": "0000_paladin_pack_1_blessed_battlegrounds-icon.webp",
-        "hidden_tags": []
+        "icon": "0000_paladin_pack_1_blessed_battlegrounds-icon.webp"
       }
     },
     "0000_paladin_pack_1_bloodrain": {
@@ -1421,8 +1365,7 @@
         "components": [
           "V S"
         ],
-        "icon": "0000_paladin_pack_1_bloodrain-icon.webp",
-        "hidden_tags": []
+        "icon": "0000_paladin_pack_1_bloodrain-icon.webp"
       }
     },
     "0000_paladin_pack_1_cavalcade": {
@@ -1442,8 +1385,7 @@
         "components": [
           "V S M"
         ],
-        "icon": "0000_paladin_pack_1_cavalcade-icon.webp",
-        "hidden_tags": []
+        "icon": "0000_paladin_pack_1_cavalcade-icon.webp"
       }
     },
     "0000_paladin_pack_1_chalice_of_charity": {
@@ -1463,8 +1405,7 @@
         "components": [
           "V S M"
         ],
-        "icon": "0000_paladin_pack_1_chalice_of_charity-icon.webp",
-        "hidden_tags": []
+        "icon": "0000_paladin_pack_1_chalice_of_charity-icon.webp"
       }
     },
     "0000_paladin_pack_1_death_oath": {
@@ -1485,8 +1426,7 @@
         "components": [
           "V"
         ],
-        "icon": "0000_paladin_pack_1_death_oath-icon.webp",
-        "hidden_tags": []
+        "icon": "0000_paladin_pack_1_death_oath-icon.webp"
       }
     },
     "0000_paladin_pack_1_ironclad": {
@@ -1506,8 +1446,7 @@
         "components": [
           "V S"
         ],
-        "icon": "0000_paladin_pack_1_ironclad-icon.webp",
-        "hidden_tags": []
+        "icon": "0000_paladin_pack_1_ironclad-icon.webp"
       }
     },
     "0000_paladin_pack_1_onwards": {
@@ -1529,8 +1468,7 @@
           "S",
           "M"
         ],
-        "icon": "0000_paladin_pack_1_onwards-icon.webp",
-        "hidden_tags": []
+        "icon": "0000_paladin_pack_1_onwards-icon.webp"
       }
     },
     "0000_paladin_pack_1_raise_banner": {
@@ -1551,8 +1489,7 @@
           "V",
           "S"
         ],
-        "icon": "0000_paladin_pack_1_raise_banner-icon.webp",
-        "hidden_tags": []
+        "icon": "0000_paladin_pack_1_raise_banner-icon.webp"
       }
     },
     "0000_paladin_pack_1_shieldwall": {
@@ -1574,8 +1511,7 @@
           "S",
           "M"
         ],
-        "icon": "0000_paladin_pack_1_shieldwall-icon.webp",
-        "hidden_tags": []
+        "icon": "0000_paladin_pack_1_shieldwall-icon.webp"
       }
     },
     "0053_curse_of_corrosion": {
@@ -1598,8 +1534,7 @@
         "components": [
           "V S M"
         ],
-        "icon": "0053_curse_of_corrosion-icon.webp",
-        "hidden_tags": []
+        "icon": "0053_curse_of_corrosion-icon.webp"
       }
     },
     "0054_spoils_of_the_hunt": {
@@ -1619,8 +1554,7 @@
         "components": [
           "V S M"
         ],
-        "icon": "0054_spoils_of_the_hunt-icon.webp",
-        "hidden_tags": []
+        "icon": "0054_spoils_of_the_hunt-icon.webp"
       }
     },
     "0056_out_of_place": {
@@ -1647,8 +1581,7 @@
           "S",
           "M"
         ],
-        "icon": "0056_out_of_place-icon.webp",
-        "hidden_tags": []
+        "icon": "0056_out_of_place-icon.webp"
       }
     },
     "0055_morrowgleam_crown": {
@@ -1670,8 +1603,7 @@
         "components": [
           "V S"
         ],
-        "icon": "0055_morrowgleam_crown-icon.webp",
-        "hidden_tags": []
+        "icon": "0055_morrowgleam_crown-icon.webp"
       }
     },
     "0003_spiteful_harpoon": {
@@ -1695,8 +1627,7 @@
           "V",
           "S"
         ],
-        "icon": "0003_spiteful_harpoon-icon.webp",
-        "hidden_tags": []
+        "icon": "0003_spiteful_harpoon-icon.webp"
       }
     },
     "0022_shadow_symphony": {
@@ -1716,8 +1647,7 @@
         "components": [
           "S"
         ],
-        "icon": "0022_shadow_symphony-icon.webp",
-        "hidden_tags": []
+        "icon": "0022_shadow_symphony-icon.webp"
       }
     },
     "0057_crystal_carapace": {
@@ -1741,8 +1671,7 @@
           "S",
           "M"
         ],
-        "icon": "0057_crystal_carapace-icon.webp",
-        "hidden_tags": []
+        "icon": "0057_crystal_carapace-icon.webp"
       }
     },
     "0058_steal_heat": {
@@ -1767,8 +1696,7 @@
           "V",
           "S"
         ],
-        "icon": "0058_steal_heat-icon.webp",
-        "hidden_tags": []
+        "icon": "0058_steal_heat-icon.webp"
       }
     },
     "0059_festering_truth": {
@@ -1792,8 +1720,7 @@
         "components": [
           "V"
         ],
-        "icon": "0059_festering_truth-icon.webp",
-        "hidden_tags": []
+        "icon": "0059_festering_truth-icon.webp"
       }
     },
     "0060_illusionary_labyrinth": {
@@ -1816,8 +1743,7 @@
           "V",
           "S"
         ],
-        "icon": "0060_illusionary_labyrinth-icon.webp",
-        "hidden_tags": []
+        "icon": "0060_illusionary_labyrinth-icon.webp"
       }
     },
     "0061_flame_dance": {
@@ -1842,8 +1768,7 @@
           "V",
           "S"
         ],
-        "icon": "0061_flame_dance-icon.webp",
-        "hidden_tags": []
+        "icon": "0061_flame_dance-icon.webp"
       }
     },
     "0062_flashfreeze": {
@@ -1867,8 +1792,7 @@
           "V",
           "S"
         ],
-        "icon": "0062_flashfreeze-icon.webp",
-        "hidden_tags": []
+        "icon": "0062_flashfreeze-icon.webp"
       }
     },
     "0063_burning_zeal": {
@@ -1889,8 +1813,7 @@
           "V",
           "S"
         ],
-        "icon": "0063_burning_zeal-icon.webp",
-        "hidden_tags": []
+        "icon": "0063_burning_zeal-icon.webp"
       }
     },
     "0064_hope_devourer": {
@@ -1913,8 +1836,7 @@
           "V",
           "S"
         ],
-        "icon": "0064_hope_devourer-icon.webp",
-        "hidden_tags": []
+        "icon": "0064_hope_devourer-icon.webp"
       }
     },
     "0065_lifeleech_protocol": {
@@ -1938,8 +1860,7 @@
           "V",
           "S"
         ],
-        "icon": "0065_lifeleech_protocol-icon.webp",
-        "hidden_tags": []
+        "icon": "0065_lifeleech_protocol-icon.webp"
       }
     },
     "0066_mutual_suffering": {
@@ -1961,8 +1882,7 @@
           "V",
           "S"
         ],
-        "icon": "0066_mutual_suffering-icon.webp",
-        "hidden_tags": []
+        "icon": "0066_mutual_suffering-icon.webp"
       }
     },
     "0067_twilight_pathways": {
@@ -1985,8 +1905,7 @@
           "V",
           "S"
         ],
-        "icon": "0067_twilight_pathways-icon.webp",
-        "hidden_tags": []
+        "icon": "0067_twilight_pathways-icon.webp"
       }
     },
     "0068_from_dust": {
@@ -2008,8 +1927,7 @@
         "components": [
           "V S M"
         ],
-        "icon": "0068_from_dust-icon.webp",
-        "hidden_tags": []
+        "icon": "0068_from_dust-icon.webp"
       }
     },
     "0069_duty_calls": {
@@ -2034,8 +1952,7 @@
           "S",
           "M"
         ],
-        "icon": "0069_duty_calls-icon.webp",
-        "hidden_tags": []
+        "icon": "0069_duty_calls-icon.webp"
       }
     },
     "0070_rekindle": {
@@ -2059,8 +1976,7 @@
           "S",
           "M"
         ],
-        "icon": "0070_rekindle-icon.webp",
-        "hidden_tags": []
+        "icon": "0070_rekindle-icon.webp"
       }
     },
     "0071_broadside_from_beyond": {
@@ -2083,8 +1999,7 @@
           "V",
           "S"
         ],
-        "icon": "0071_broadside_from_beyond-icon.webp",
-        "hidden_tags": []
+        "icon": "0071_broadside_from_beyond-icon.webp"
       }
     },
     "0072_campfire_tales": {
@@ -2110,8 +2025,7 @@
           "S",
           "M"
         ],
-        "icon": "0072_campfire_tales-icon.webp",
-        "hidden_tags": []
+        "icon": "0072_campfire_tales-icon.webp"
       }
     },
     "0073_constructed_consciousness": {
@@ -2134,8 +2048,7 @@
           "S",
           "M"
         ],
-        "icon": "0073_constructed_consciousness-icon.webp",
-        "hidden_tags": []
+        "icon": "0073_constructed_consciousness-icon.webp"
       }
     },
     "0074_nightly_vigil": {
@@ -2160,8 +2073,7 @@
           "S",
           "M"
         ],
-        "icon": "0074_nightly_vigil-icon.webp",
-        "hidden_tags": []
+        "icon": "0074_nightly_vigil-icon.webp"
       }
     },
     "0075_dying_breath": {
@@ -2185,8 +2097,7 @@
           "S",
           "M"
         ],
-        "icon": "0075_dying_breath-icon.webp",
-        "hidden_tags": []
+        "icon": "0075_dying_breath-icon.webp"
       }
     },
     "0076_voice_voiceless": {
@@ -2212,8 +2123,7 @@
           "V",
           "S"
         ],
-        "icon": "0076_voice_voiceless-icon.webp",
-        "hidden_tags": []
+        "icon": "0076_voice_voiceless-icon.webp"
       }
     },
     "0077_phantom_passenger": {
@@ -2237,8 +2147,7 @@
           "V",
           "S"
         ],
-        "icon": "0077_phantom_passenger-icon.webp",
-        "hidden_tags": []
+        "icon": "0077_phantom_passenger-icon.webp"
       }
     },
     "0078_oathbound_charge": {
@@ -2260,8 +2169,7 @@
           "V",
           "S"
         ],
-        "icon": "0078_oathbound_charge-icon.webp",
-        "hidden_tags": []
+        "icon": "0078_oathbound_charge-icon.webp"
       }
     },
     "0079_raise_wall": {
@@ -2286,8 +2194,7 @@
           "S",
           "M"
         ],
-        "icon": "0079_raise_wall-icon.webp",
-        "hidden_tags": []
+        "icon": "0079_raise_wall-icon.webp"
       }
     },
     "0080_nightfall": {
@@ -2311,8 +2218,7 @@
           "V",
           "S"
         ],
-        "icon": "0080_nightfall-icon.webp",
-        "hidden_tags": []
+        "icon": "0080_nightfall-icon.webp"
       }
     },
     "0081_haunt": {
@@ -2335,8 +2241,7 @@
           "V",
           "S"
         ],
-        "icon": "0081_haunt-icon.webp",
-        "hidden_tags": []
+        "icon": "0081_haunt-icon.webp"
       }
     },
     "0082_oathbound_rout": {
@@ -2358,8 +2263,7 @@
           "S",
           "M"
         ],
-        "icon": "0082_oathbound_rout-icon.webp",
-        "hidden_tags": []
+        "icon": "0082_oathbound_rout-icon.webp"
       }
     },
     "0083_elemental_echo": {
@@ -2383,8 +2287,7 @@
           "V",
           "S"
         ],
-        "icon": "0083_elemental_echo-icon.webp",
-        "hidden_tags": []
+        "icon": "0083_elemental_echo-icon.webp"
       }
     },
     "0085_chosen_thrall": {
@@ -2410,8 +2313,7 @@
           "V",
           "S"
         ],
-        "icon": "0085_chosen_thrall-icon.webp",
-        "hidden_tags": []
+        "icon": "0085_chosen_thrall-icon.webp"
       }
     },
     "0086_pestilence": {
@@ -2437,8 +2339,7 @@
           "V",
           "S"
         ],
-        "icon": "0086_pestilence-icon.webp",
-        "hidden_tags": []
+        "icon": "0086_pestilence-icon.webp"
       }
     },
     "0087_cloudwalk": {
@@ -2461,8 +2362,7 @@
           "S",
           "M"
         ],
-        "icon": "0087_cloudwalk-icon.webp",
-        "hidden_tags": []
+        "icon": "0087_cloudwalk-icon.webp"
       }
     },
     "0084_hold_heretic": {
@@ -2485,8 +2385,7 @@
           "S",
           "M"
         ],
-        "icon": "0084_hold_heretic-icon.webp",
-        "hidden_tags": []
+        "icon": "0084_hold_heretic-icon.webp"
       }
     },
     "0088_glimpse": {
@@ -2512,8 +2411,7 @@
           "V",
           "S"
         ],
-        "icon": "0088_glimpse-icon.webp",
-        "hidden_tags": []
+        "icon": "0088_glimpse-icon.webp"
       }
     },
     "0089_nebula_gate": {
@@ -2536,8 +2434,7 @@
           "V",
           "S"
         ],
-        "icon": "0089_nebula_gate-icon.webp",
-        "hidden_tags": []
+        "icon": "0089_nebula_gate-icon.webp"
       }
     },
     "0090_timestamp": {
@@ -2561,8 +2458,7 @@
           "V",
           "S"
         ],
-        "icon": "0090_timestamp-icon.webp",
-        "hidden_tags": []
+        "icon": "0090_timestamp-icon.webp"
       }
     },
     "0091_vanish": {
@@ -2587,8 +2483,7 @@
           "V",
           "S"
         ],
-        "icon": "0091_vanish-icon.webp",
-        "hidden_tags": []
+        "icon": "0091_vanish-icon.webp"
       }
     },
     "0092_enkindle": {
@@ -2608,8 +2503,7 @@
         "components": [
           "v,s,m"
         ],
-        "icon": "0092_enkindle-icon.webp",
-        "hidden_tags": []
+        "icon": "0092_enkindle-icon.webp"
       }
     },
     "0093_moth_wings": {
@@ -2629,8 +2523,7 @@
         "components": [
           "v,s"
         ],
-        "icon": "0093_moth_wings-icon.webp",
-        "hidden_tags": []
+        "icon": "0093_moth_wings-icon.webp"
       }
     },
     "0094_curse_mark": {
@@ -2650,8 +2543,7 @@
         "components": [
           "v,s"
         ],
-        "icon": "0094_curse_mark-icon.webp",
-        "hidden_tags": []
+        "icon": "0094_curse_mark-icon.webp"
       }
     },
     "0094_sinister_seedling": {
@@ -2671,8 +2563,7 @@
         "components": [
           "v,s,m"
         ],
-        "icon": "0094_sinister_seedling-icon.webp",
-        "hidden_tags": []
+        "icon": "0094_sinister_seedling-icon.webp"
       }
     },
     "0095_skitterspotters": {
@@ -2692,8 +2583,7 @@
         "components": [
           "s"
         ],
-        "icon": "0095_skitterspotters-icon.webp",
-        "hidden_tags": []
+        "icon": "0095_skitterspotters-icon.webp"
       }
     },
     "0096_atrament": {
@@ -2713,8 +2603,7 @@
         "components": [
           "v,s,m"
         ],
-        "icon": "0096_atrament-icon.webp",
-        "hidden_tags": []
+        "icon": "0096_atrament-icon.webp"
       }
     },
     "0097_honour_the_deed": {
@@ -2734,8 +2623,7 @@
         "components": [
           "v,s"
         ],
-        "icon": "0097_honour_the_deed-icon.webp",
-        "hidden_tags": []
+        "icon": "0097_honour_the_deed-icon.webp"
       }
     },
     "0098_blade_of_burning_blood": {
@@ -2755,8 +2643,7 @@
         "components": [
           "v,s"
         ],
-        "icon": "0098_blade_of_burning_blood-icon.webp",
-        "hidden_tags": []
+        "icon": "0098_blade_of_burning_blood-icon.webp"
       }
     },
     "0000_paladin_pack_1_desperate_plea": {
@@ -2778,8 +2665,7 @@
           "S",
           "M"
         ],
-        "icon": "0000_paladin_pack_1_desperate_plea-icon.webp",
-        "hidden_tags": []
+        "icon": "0000_paladin_pack_1_desperate_plea-icon.webp"
       }
     },
     "0000_paladin_pack_1_shoulder_the_burden": {
@@ -2799,8 +2685,7 @@
         "components": [
           "V"
         ],
-        "icon": "0000_paladin_pack_1_shoulder_the_burden-icon.webp",
-        "hidden_tags": []
+        "icon": "0000_paladin_pack_1_shoulder_the_burden-icon.webp"
       }
     },
     "0099_crowfathers_kin": {
@@ -2829,8 +2714,7 @@
           "S",
           "M"
         ],
-        "icon": "0099_crowfathers_kin-icon.webp",
-        "hidden_tags": []
+        "icon": "0099_crowfathers_kin-icon.webp"
       }
     },
     "0100_stormspear": {
@@ -2854,8 +2738,7 @@
           "V",
           "S"
         ],
-        "icon": "0100_stormspear-icon.webp",
-        "hidden_tags": []
+        "icon": "0100_stormspear-icon.webp"
       }
     },
     "0101_supercell": {
@@ -2880,8 +2763,7 @@
           "V",
           "S"
         ],
-        "icon": "0101_supercell-icon.webp",
-        "hidden_tags": []
+        "icon": "0101_supercell-icon.webp"
       }
     },
     "0102_elemental_blessing": {
@@ -2902,8 +2784,7 @@
           "V",
           "S"
         ],
-        "icon": "0102_elemental_blessing-icon.webp",
-        "hidden_tags": []
+        "icon": "0102_elemental_blessing-icon.webp"
       }
     },
     "0106_crypt_mist": {
@@ -2930,8 +2811,7 @@
           "V",
           "S"
         ],
-        "icon": "0106_crypt_mist-icon.webp",
-        "hidden_tags": []
+        "icon": "0106_crypt_mist-icon.webp"
       }
     },
     "0103_raise_graveguard": {
@@ -2955,8 +2835,7 @@
           "V",
           "S"
         ],
-        "icon": "0103_raise_graveguard-icon.webp",
-        "hidden_tags": []
+        "icon": "0103_raise_graveguard-icon.webp"
       }
     },
     "0104_armored_sanctum": {
@@ -2982,8 +2861,7 @@
           "V",
           "S"
         ],
-        "icon": "0104_armored_sanctum-icon.webp",
-        "hidden_tags": []
+        "icon": "0104_armored_sanctum-icon.webp"
       }
     },
     "0105_unmake": {
@@ -3007,8 +2885,7 @@
           "V",
           "S"
         ],
-        "icon": "0105_unmake-icon.webp",
-        "hidden_tags": []
+        "icon": "0105_unmake-icon.webp"
       }
     }
   }
