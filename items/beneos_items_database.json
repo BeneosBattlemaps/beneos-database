@@ -1727,6 +1727,62 @@
         "icon": "0109_festering_blade-icon.webp",
         "hidden_tags": []
       }
+    },
+    "0110_bleak_reef_talisman": {
+      "key": "0110_bleak_reef_talisman",
+      "name": "Bleak Reef Talisman",
+      "description": "Become undead for a limited time, entails different upsides and drawbacks.",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "occult",
+        "item_type": "Trinket",
+        "tier": 2,
+        "price": "2850",
+        "icon": "0110_bleak_reef_talisman-icon.webp"
+      }
+    },
+    "0112_conquerors_crown": {
+      "key": "0112_conquerors_crown",
+      "name": "Conqueror's Crown",
+      "description": "Grants bonus to saving throws and allows to possibly deny a Lair Action.",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "beastforged",
+        "item_type": "Light Armor",
+        "tier": 3,
+        "price": "35600",
+        "icon": "0112_conquerors_crown-icon.webp"
+      }
+    },
+    "0113_crownbreakers_defiance": {
+      "key": "0113_crownbreakers_defiance",
+      "name": "Crownbreaker's Defiance",
+      "description": "Temporarily reduce your maximum hit points to boost your Strength and Vitality.",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": false,
+        "origin": "beastforged",
+        "item_type": "Potion",
+        "tier": 2,
+        "price": "3600",
+        "icon": "0113_crownbreakers_defiance-icon.webp"
+      }
+    },
+    "0111_iron_chin_talisman": {
+      "key": "0111_iron_chin_talisman",
+      "name": "Iron Chin Talisman",
+      "description": "Half incoming damage and gain temporary hit points afterwards.",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "awoken",
+        "item_type": "Trinket",
+        "tier": 2,
+        "price": "3400",
+        "icon": "0111_iron_chin_talisman-icon.webp"
+      }
     }
   }
 }
