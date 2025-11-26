@@ -26176,7 +26176,7 @@
                                                                            ],
                                                                   "videourl":  "https://youtu.be/fE41AfAovCQ",
                                                                   "nb_variants":  3,
-                                                                  "shortdesc":  "Ranger, hunters or City guards standing watch on battlements or rooftops - the Trained...",
+                                                                  "shortdesc":  "Capable sharpshooters and can be relied upon in every situation.",
                                                                   "faction":  [
 
                                                                               ],
@@ -26184,14 +26184,14 @@
                                                                   "campaign":  [
 
                                                                                ],
-                                                                  "hidden_tags":  [
+                                                                  "hidden_tags":  ["archer", "marksman", "ranger", "sniper", "bowman","soldier","fighter"
 
                                                                                   ]
                                                               }
                                            },
                     "000-srd_druid":  {
                                           "name":  "Druid",
-                                          "description":  "Melds with nature, casting elemental spells and transforming into beasts.",
+                                          "description":  "Casts elemental spells and transforms into beasts.",
                                           "properties":  {
                                                              "size":  "Medium",
                                                              "stat_ac":  12,
@@ -26224,7 +26224,7 @@
                                                                       ],
                                                              "nb_variants":  1,
                                                              "thumbnail":  "000-srd_druid-1-db.webp",
-                                                             "shortdesc":  "Melds with nature, casting elemental spells and transforming into beasts.",
+                                                             "shortdesc":  "Casts elemental spells and transforms into beasts.",
                                                              "faction":  [
 
                                                                          ],
@@ -26274,7 +26274,7 @@
                                                                       ],
                                                              "videourl":  "https://youtu.be/QYWFEbCk5Eg",
                                                              "nb_variants":  1,
-                                                             "shortdesc":  "Where the azure sky and the lush green of viridian grasslands meet, the Centaurs reign...",
+                                                             "shortdesc":  "Highly mobile, deadly archer and powerful charger.",
                                                              "faction":  [
 
                                                                          ],
@@ -26282,7 +26282,7 @@
                                                              "campaign":  [
 
                                                                           ],
-                                                             "hidden_tags":  [
+                                                             "hidden_tags":  ["centaur", "archer", "horseman"
 
                                                                              ]
                                                          }
@@ -26337,7 +26337,7 @@
                                            },
                     "000-srd_zombie":  {
                                            "name":  "Zombie",
-                                           "description":  "Its undead form shrugging off harm while pursuing the living with mindless hunger.",
+                                           "description":  "Undead husk, pursuing the living with mindless hunger.",
                                            "properties":  {
                                                               "size":  "Medium",
                                                               "stat_ac":  12,
@@ -26371,7 +26371,7 @@
                                                                        ],
                                                               "nb_variants":  4,
                                                               "thumbnail":  "000-srd_zombie-1-db.webp",
-                                                              "shortdesc":  "Its undead form shrugging off harm while pursuing the living with mindless hunger.",
+                                                              "shortdesc":  "Undead husk, pursuing the living with mindless hunger.",
                                                               "faction":  [
 
                                                                           ],
@@ -26385,8 +26385,8 @@
                                                           }
                                        },
                     "065-sovereigns_guard":  {
-                                                 "description":  "Guards high value personell, expert duellist and capable of overcoming grievous injury through sheer devotion.",
-                                                 "name":  "Sovereign\u0027s Guard",
+                                                 "description":  "Kings and Queens, Hierophants and Arch-Bishops, Emperors and Empresses - these sovereigns dare not resting their wellbeing on the meek shoulders of regular guards or hired mercenaries. A true sovereign requires an elite guard, drilled fighters of supreme ability and mental strength, eager to continously prove their worth and unwavering loyalty. The Sovereign's Guard represent an elite cadre of bodyguards and combat specialists, well versed in both protecting their liege or carrying out special tasks all over the realm.",
+                                                 "name":  "Sovereign's Guard",
                                                  "properties":  {
                                                                     "biom":  [
                                                                                  "Road",
@@ -26422,7 +26422,7 @@
                                                                              ],
                                                                     "videourl":  "https://youtu.be/FrLIeuyCNwU",
                                                                     "nb_variants":  1,
-                                                                    "shortdesc":  "Guards high value personell, expert duellist and capable of overcoming grievous injury...",
+                                                                    "shortdesc":  "Elite bodyguard, overcomes grievous injury through sheer devotion,.",
                                                                     "faction":  [
 
                                                                                 ],
@@ -26430,7 +26430,7 @@
                                                                     "campaign":  [
 
                                                                                  ],
-                                                                    "hidden_tags":  [
+                                                                    "hidden_tags":  ["guard", "bodyguard", "honour guard", "elite"
 
                                                                                     ]
                                                                 }
@@ -26476,7 +26476,7 @@
                                                                                  ],
                                                                         "videourl":  "https://youtu.be/NE004FYa0kw",
                                                                         "nb_variants":  4,
-                                                                        "shortdesc":  "First created by the expert Fleshgrafters of the Burial Host, an endless column of...",
+                                                                        "shortdesc":  "",
                                                                         "faction":  [
                                                                                         "Burial Host"
                                                                                     ],
