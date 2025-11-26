@@ -24029,7 +24029,7 @@
                                                                             ],
                                                                    "videourl":  "https://youtu.be/QjQOGaOsdC0",
                                                                    "nb_variants":  1,
-                                                                   "shortdesc":  "Nightmarish puppeteer, fights by turning creatures into paralyzed puppets, cutting...",
+                                                                   "shortdesc":  "Fights by turning creatures into paralyzed puppets.",
                                                                    "faction":  [
                                                                                    "Infernal Courts"
                                                                                ],
@@ -24043,7 +24043,7 @@
                                                                }
                                             },
                     "115-pirate_powder_dancer":  {
-                                                     "description":  "Powder Dancers are part of a pirate ship\u0027s dedicated boarding crews, agile and tactically versatile fighters and marksmen well versed in the art of ship to ship combat. They constantly alternate between Melee and ranged weaponry, overwhelming the defenders with devastating point blank salvos from their characteristic flintlock pistols or pressuring them with aggressive bladework. Once the rhythmic, bellowing blasts fade away and the powder dust dissipates, the enemy ship has been taken.",
+                                                     "description":  "Powder Dancers are part of a pirate ship's dedicated boarding crews, agile and tactically versatile fighters and marksmen well versed in the art of ship to ship combat. They constantly alternate between Melee and ranged weaponry, overwhelming the defenders with devastating point blank salvos from their characteristic flintlock pistols or pressuring them with aggressive bladework. Once the rhythmic, bellowing blasts fade away and the powder dust dissipates, the enemy ship has been taken.",
                                                      "name":  "Pirate Powder Dancer",
                                                      "properties":  {
                                                                         "biom":  [
@@ -24081,7 +24081,7 @@
                                                                                  ],
                                                                         "videourl":  "https://youtu.be/XE63tD68JYM",
                                                                         "nb_variants":  3,
-                                                                        "shortdesc":  "Powder Dancers are part of a pirate ship\u0027s dedicated boarding crews, agile and...",
+                                                                        "shortdesc":  "Flavourful pirate, excels at close-quarter gun fights.",
                                                                         "faction":  [
 
                                                                                     ],
@@ -24089,14 +24089,14 @@
                                                                         "campaign":  [
 
                                                                                      ],
-                                                                        "hidden_tags":  [
+                                                                        "hidden_tags":  ["pirate", "boarding", "marksman", "ranged"
 
                                                                                         ]
                                                                     }
                                                  },
                     "008-gluttonys_aspect":  {
-                                                 "description":  "Dull-looking, dimwitted and bloated creatures, filled to the brim with noxious gas and disgusting thoughts. They nest within the fleshy crevasses of Gluttony\u0027s lumpy body and swarm out on its command, eager to gather offerings to gain their master\u0027s favour.",
-                                                 "name":  "Gluttony\u0027s Aspect",
+                                                 "description":  "Dull-looking, dimwitted and bloated creatures, filled to the brim with noxious gas and disgusting thoughts. They nest within the fleshy crevasses of Gluttony's lumpy body and swarm out on its command, eager to gather offerings to gain their master\u0027s favour.",
+                                                 "name":  "Gluttony's Aspect",
                                                  "properties":  {
                                                                     "biom":  [
                                                                                  "Lair",
@@ -24129,7 +24129,7 @@
                                                                              ],
                                                                     "videourl":  "https://youtu.be/wdnXJBQW0lo",
                                                                     "nb_variants":  1,
-                                                                    "shortdesc":  "Dull-looking, dimwitted and bloated creatures, filled to the brim with noxious gas and...",
+                                                                    "shortdesc":  "Demon-spawn of Gluttony, flood the battlefield and gather its tithe.",
                                                                     "faction":  [
 
                                                                                 ],
@@ -24283,7 +24283,7 @@
                                                                           ],
                                                                  "videourl":  "https://youtu.be/S30OcizwqOU?si=AKUL2RC-aasyxxoU",
                                                                  "nb_variants":  2,
-                                                                 "shortdesc":  "Ogres are gluttonous and vile in nature, wild ogres even more so than their more...",
+                                                                 "shortdesc":  "Raving cannibals always on the verge of a feeding frenzy.",
                                                                  "faction":  [
 
                                                                              ],
@@ -24335,7 +24335,7 @@
                                                                                                   ],
                                                                                          "videourl":  "https://youtu.be/nbzaqxwyvei",
                                                                                          "nb_variants":  1,
-                                                                                         "shortdesc":  "Ancient fossils infused with primordial magic awaken, combining primal might and...",
+                                                                                         "shortdesc":  "Airborne, buffs fellow earth elementals.",
                                                                                          "faction":  [
 
                                                                                                      ],
@@ -24438,7 +24438,7 @@
                                                                        ],
                                                               "videourl":  "https://youtu.be/ttATZdEONXM",
                                                               "nb_variants":  1,
-                                                              "shortdesc":  "Mind golems are enforcer-creatures crafted by Wizard councils, a mighty body shaped...",
+                                                              "shortdesc":  "Highly intelligent, wields powerful magic and psychic abilities.",
                                                               "faction":  [
 
                                                                           ],
@@ -24452,7 +24452,7 @@
                                                           }
                                        },
                     "070-airship_sentry_automaton":  {
-                                                         "description":  "Simple combat automaton equipped with a sophisticated occular beam and a reliable heavy boarding axe.",
+                                                         "description":  "Automated sentries were first utilized during a great exhibition showcasing different proofs of concept concerning the development of techno-arcane automata. These prototypes were expanded upon by military scientists and now serve as sentries and boarding repellents on various airships throughout the realms. Their armaments consist of heavy boarding axes, short-ranged ocular beams and advanced kinetic shielding, all powered by a miniature techno-arcane reactor. These sentries are able to activate a magnetic field, allowing them to safely battle any threats while being mag-locked to an airship's metal hull. Gunner variants are also known to operate the heavy Thunderstrike Pattern Airship Cannons utilized by great military airships, such as the Dawn Emperor and Storm Herald class.",
                                                          "name":  "Airship Sentry Automaton",
                                                          "properties":  {
                                                                             "biom":  [
@@ -24488,7 +24488,7 @@
                                                                                      ],
                                                                             "videourl":  "https://youtu.be/sCv7D-KVmNY",
                                                                             "nb_variants":  1,
-                                                                            "shortdesc":  "Simple combat automaton equipped with a sophisticated occular beam and a reliable heavy...",
+                                                                            "shortdesc":  "Simple combat automaton, equipped with a occular beam and a heavy boarding axe.",
                                                                             "faction":  [
 
                                                                                         ],
@@ -24502,7 +24502,7 @@
                                                                         }
                                                      },
                     "145-ghoul_bonegnawer":  {
-                                                 "description":  "Stronger than the average ghoul, grapples and incapacitates enemies to feast on their bone marrow.",
+                                                 "description":  "Bone-Gnawers are more aggressive and feral than ordinary ghouls. Defying the image of lurking, gaunt and emaciated creatures, they are infused with unexpected strength, pouncing on their victims with unnatural bulk, unsettling body movements, and flesh-hungry savagery. Their grave-cold hands choking the life from their victims, they often start feeding before the last breath is drawn.",
                                                  "name":  "Ghoul Bone Gnawer",
                                                  "properties":  {
                                                                     "biom":  [
@@ -24546,7 +24546,7 @@
                                                                              ],
                                                                     "videourl":  "https://youtu.be/Sd5smfLAK4Q?si=6QtBo-UHZ_158Gvw",
                                                                     "nb_variants":  3,
-                                                                    "shortdesc":  "Stronger than the average ghoul, grapples and incapacitates enemies to feast on their...",
+                                                                    "shortdesc":  "Stronger than the average ghoul, grapples and incapacitates enemies.",
                                                                     "faction":  [
                                                                                     "Ghoul Empire"
                                                                                 ],
@@ -24602,7 +24602,7 @@
                                                                                    ],
                                                                           "videourl":  "https://youtu.be/8z3DVKxVi3w?si=0Yt1MFmD_pYXAGU4",
                                                                           "nb_variants":  1,
-                                                                          "shortdesc":  "The 12th of 13 comically oversized ship cannons commissioned by a pirate queen, now...",
+                                                                          "shortdesc":  "A powerful cannon crewed by the undead.",
                                                                           "faction":  [
                                                                                           "Bleak Reef"
                                                                                       ],
@@ -24610,14 +24610,13 @@
                                                                           "campaign":  [
 
                                                                                        ],
-                                                                          "hidden_tags":  [
-
+                                                                          "hidden_tags":  ["cannon", "pirate", "naval", "ship", "ship battle"
                                                                                           ]
                                                                       }
                                                    },
                     "000-srd_troll_limb":  {
                                                "name":  "Troll Limb",
-                                               "description":  "crushing or ensnaring those it touches.",
+                                               "description":  "Severed limb acting on its own.",
                                                "properties":  {
                                                                   "size":  "Small",
                                                                   "stat_ac":  13,
@@ -24654,7 +24653,7 @@
                                                                            ],
                                                                   "nb_variants":  1,
                                                                   "thumbnail":  "000-srd_troll_limb-1-db.webp",
-                                                                  "shortdesc":  "crushing or ensnaring those it touches.",
+                                                                  "shortdesc":  "Severed limb acting on its own.",
                                                                   "faction":  [
 
                                                                               ],
@@ -24668,7 +24667,7 @@
                                                               }
                                            },
                     "202-curseroot_bloomblight":  {
-                                                      "description":  "Infests creatures with debilitating seeds that bloom violently when targeted with its radiant gaze.",
+                                                      "description":  "Curseroots do not only thrive in the dim underbrush, even if one might first picture choking vine-tentacles, skin-piercing bramble-crawlers, or towering, corrupted treants. The towering Bloomblights are active in broad daylight, hungrily absorbing sunlight and unleashing it in concentrated bursts against any who seek to halt the relentless spread of curseroots within infected areas. At the same time, they serve as crucial spreaders, gently planting seeds and shoots into the living flesh of their victims, which will soon nourish a new generation of varied curseroots.",
                                                       "name":  "Curseroot Bloomblight",
                                                       "properties":  {
                                                                          "biom":  [
@@ -24702,7 +24701,7 @@
                                                                                   ],
                                                                          "videourl":  "https://youtu.be/ydy0odh7pus",
                                                                          "nb_variants":  1,
-                                                                         "shortdesc":  "Infests creatures with debilitating seeds that bloom violently when targeted with its...",
+                                                                         "shortdesc":  "Infests creatures with seeds that bloom violently when targeted with its radiant gaze.",
                                                                          "faction":  [
                                                                                          "Curseroots"
                                                                                      ],
@@ -24807,7 +24806,7 @@
                                                                                  ],
                                                                         "videourl":  "https://youtu.be/Jozhlm8Yf_U?si=0Qq5ncH74udMPDB7",
                                                                         "nb_variants":  2,
-                                                                        "shortdesc":  "Since its inception, various models of the Mobile Operations Transport and Headquarters...",
+                                                                        "shortdesc":  "Mobile headquarters with advanced techno-machinery.",
                                                                         "faction":  [
 
                                                                                     ],
@@ -24822,7 +24821,7 @@
                                                  },
                     "000-srd_lizardfolk":  {
                                                "name":  "Lizardfolk",
-                                               "description":  "Inhabiting dense jungles, defending their sacred lands with repitilian ferocity.",
+                                               "description":  "Native to the deepest jungles, expert hunters and skilled warriors.",
                                                "properties":  {
                                                                   "size":  "Medium",
                                                                   "stat_ac":  13,
@@ -24855,7 +24854,7 @@
                                                                            ],
                                                                   "nb_variants":  1,
                                                                   "thumbnail":  "000-srd_lizardfolk-1-db.webp",
-                                                                  "shortdesc":  "Inhabiting dense jungles, defending their sacred lands with repitilian ferocity.",
+                                                                  "shortdesc":  "Native to the deepest jungles, expert hunters and skilled warriors.",
                                                                   "faction":  [
 
                                                                               ],
@@ -24870,7 +24869,7 @@
                                            },
                     "000-srd_young_copper_dragon":  {
                                                         "name":  "Young Copper Dragon",
-                                                        "description":  "A quick-witted ambusher blending laughter with corrosive power.",
+                                                        "description":  "A quick-witted ambusher, always one step ahead of its opponents.",
                                                         "properties":  {
                                                                            "size":  "Large",
                                                                            "stat_ac":  17,
@@ -24907,7 +24906,7 @@
                                                                                     ],
                                                                            "nb_variants":  1,
                                                                            "thumbnail":  "000-srd_young_copper_dragon-1-db.webp",
-                                                                           "shortdesc":  "A quick-witted ambusher blending laughter with corrosive power.",
+                                                                           "shortdesc":  "A quick-witted ambusher, always one step ahead of its opponents.",
                                                                            "faction":  [
 
                                                                                        ],
@@ -24922,7 +24921,7 @@
                                                     },
                     "000-srd_animated_rug_of_smothering":  {
                                                                "name":  "Animated Rug of Smothering",
-                                                               "description":  "Wrapping victims in smothering folds before devouring flesh with brutal force.",
+                                                               "description":  "Ambushes victims by enwrapping them, eventually suffocating them.",
                                                                "properties":  {
                                                                                   "size":  "Large",
                                                                                   "stat_ac":  12,
@@ -24955,7 +24954,7 @@
                                                                                            ],
                                                                                   "nb_variants":  1,
                                                                                   "thumbnail":  "000-srd_animated_rug_of_smothering-1-db.webp",
-                                                                                  "shortdesc":  "Wrapping victims in smothering folds before devouring flesh with brutal force.",
+                                                                                  "shortdesc":  "Ambushes victims by enwrapping them, eventually suffocating them.",
                                                                                   "faction":  [
 
                                                                                               ],
@@ -24969,7 +24968,7 @@
                                                                               }
                                                            },
                     "000-goblin_pack_1_soulstarved_abomination":  {
-                                                                      "description":  "The shambling and frankly horrifying Soulstarved Abominations are Soulshaper Shaman\u0027s failed attempt to just kind of stuff a goblin\u0027s soul back into a vessel, be it their former body or an vaguely goblin-shaped flesh-construct. Still, something must have worked out as planned, as these aptly named Abominations walk and fight, despite their unsettling appearence and even more unsettling hunger for flesh. If a Soulshaper Shaman is part of a Raid Rabble, the Abominations can be found shuffling in its wake, herded by their creator into combat as unliving weapons.",
+                                                                      "description":  "The shambling and frankly horrifying Soulstarved Abominations are Soulshaper Shaman's failed attempt to just kind of stuff a goblin's soul back into a vessel, be it their former body or an vaguely goblin-shaped flesh-construct. Still, something must have worked out as planned, as these aptly named Abominations walk and fight, despite their unsettling appearence and even more unsettling hunger for flesh. If a Soulshaper Shaman is part of a Raid Rabble, the Abominations can be found shuffling in its wake, herded by their creator into combat as unliving weapons.",
                                                                       "name":  "Goblin Soulstarved Abomination",
                                                                       "properties":  {
                                                                                          "biom":  [
@@ -25018,7 +25017,7 @@
                                                                                                   ],
                                                                                          "videourl":  "https://www.youtube.com/watch?v=Kj63gMA_pWI",
                                                                                          "nb_variants":  3,
-                                                                                         "shortdesc":  "The shambling and frankly horrifying Soulstarved Abominations are Soulshaper Shaman\u0027s...",
+                                                                                         "shortdesc":  "Herded into battle by a Soulshaper-Shaman.",
                                                                                          "faction":  [
                                                                                                          "Raiding Rabble"
                                                                                                      ],
@@ -25080,7 +25079,7 @@
                                                                                      ],
                                                                             "videourl":  "https://www.youtube.com/watch?v=Kj63gMA_pWI",
                                                                             "nb_variants":  5,
-                                                                            "shortdesc":  "Crookshanks mark the rank and file of a Raid Rabble, both conscripted and willing...",
+                                                                            "shortdesc":  "Versatile goblin warrior.",
                                                                             "faction":  [
                                                                                             "Raiding Rabble"
                                                                                         ],
@@ -25150,7 +25149,7 @@
                                      },
                     "000-srd_tyrannosaurus_rex":  {
                                                       "name":  "Tyrannosaurus Rex",
-                                                      "description":  "Crushing bone as it charges with unstoppable force.",
+                                                      "description":  "Towering carnivore, imposing and reliable.",
                                                       "properties":  {
                                                                          "size":  "Huge",
                                                                          "stat_ac":  12,
@@ -25181,7 +25180,7 @@
                                                                                   ],
                                                                          "nb_variants":  1,
                                                                          "thumbnail":  "000-srd_tyrannosaurus_rex-1-db.webp",
-                                                                         "shortdesc":  "Crushing bone as it charges with unstoppable force.",
+                                                                         "shortdesc":  "Towering carnivore, imposing and reliable",
                                                                          "faction":  [
 
                                                                                      ],
@@ -25231,7 +25230,7 @@
                                                                           ],
                                                                  "videourl":  "https://youtu.be/Ak26m-571QU",
                                                                  "nb_variants":  1,
-                                                                 "shortdesc":  "Umber Hulks spend their youthful days terrorising the Underdark or similar subterranean...",
+                                                                 "shortdesc":  "Inject Umber Hulk eggs into creatures, triggering horrifying transformation.",
                                                                  "faction":  [
 
                                                                              ],
@@ -25239,7 +25238,7 @@
                                                                  "campaign":  [
 
                                                                               ],
-                                                                 "hidden_tags":  [
+                                                                 "hidden_tags":  ["Umber Hulk", "underdark", "parasite"
 
                                                                                  ]
                                                              }
@@ -25283,7 +25282,7 @@
                                                                               ],
                                                                      "nb_variants":  1,
                                                                      "thumbnail":  "000-srd_goblin_minion-1-db.webp",
-                                                                     "shortdesc":  "Overcomes its many, many weaknesses through numbers and erratic aggression rather than...",
+                                                                     "shortdesc":  "Overcomes its weaknesses through numbers and erratic aggression rather than skill.",
                                                                      "faction":  [
 
                                                                                  ],
@@ -25298,7 +25297,7 @@
                                               },
                     "000-srd_triceratops":  {
                                                 "name":  "Triceratops",
-                                                "description":  "Charges with unrelenting force.",
+                                                "description":  "Scale-clad battering ram, equipped with imposing horns.",
                                                 "properties":  {
                                                                    "size":  "Huge",
                                                                    "stat_ac":  12,
@@ -25330,7 +25329,7 @@
                                                                             ],
                                                                    "nb_variants":  1,
                                                                    "thumbnail":  "000-srd_triceratops-1-db.webp",
-                                                                   "shortdesc":  "Charges with unrelenting force.",
+                                                                   "shortdesc":  "Scale-clad battering ram, equipped with imposing horns.",
                                                                    "faction":  [
 
                                                                                ],
@@ -25344,8 +25343,8 @@
                                                                }
                                             },
                     "000-month_14_dwarven_brewers_boarcart":  {
-                                                                  "description":  "Traditionally, the Battle-Brewers carts are pulled by mighty boars, serving both as beasts of burden and defenders of the Brewer\u0027s mobile tavern and improvised brewery. These boars are nurtured from birth and raised on a secret diet, likely involving copious amounts of dwarven spirits, to enhance their already considerable combat prowess.",
-                                                                  "name":  "Dwarven Brewer\u0027s Boar Cart",
+                                                                  "description":  "Traditionally, the Battle-Brewers carts are pulled by mighty boars, serving both as beasts of burden and defenders of the Brewer's mobile tavern and improvised brewery. These boars are nurtured from birth and raised on a secret diet, likely involving copious amounts of dwarven spirits, to enhance their already considerable combat prowess.",
+                                                                  "name":  "Dwarven Brewer's Boar Cart",
                                                                   "properties":  {
                                                                                      "biom":  [
                                                                                                   "Wilderness",
@@ -25381,7 +25380,7 @@
                                                                                               ],
                                                                                      "videourl":  "https://youtu.be/YA7mamRl3mA?feature=shared",
                                                                                      "nb_variants":  1,
-                                                                                     "shortdesc":  "Traditionally, the Battle-Brewers carts are pulled by mighty boars, serving both as...",
+                                                                                     "shortdesc":  "A Battle-Brewer's mobile bar.",
                                                                                      "faction":  [
 
                                                                                                  ],
@@ -25434,7 +25433,7 @@
                                                                                ],
                                                                       "videourl":  "https://youtu.be/j_pVOUmNWZo",
                                                                       "nb_variants":  2,
-                                                                      "shortdesc":  "The Deathrite Cult strives for a world silenced by death, an unliving utopia of crypts...",
+                                                                      "shortdesc":  "Moves in silence and summons lethal soulfire.",
                                                                       "faction":  [
                                                                                       "Deathrite Cult"
                                                                                   ],
@@ -25449,7 +25448,7 @@
                                                },
                     "000-srd_ancient_blue_dragon":  {
                                                         "name":  "Ancient Blue Dragon",
-                                                        "description":  "A majestic lightning tyrant whose presence shakes the desert skies.",
+                                                        "description":  "Blue-scaled tyrant who reigns supreme over the desert skies.",
                                                         "properties":  {
                                                                            "size":  "Gargantuan",
                                                                            "stat_ac":  22,
@@ -25487,7 +25486,7 @@
                                                                                     ],
                                                                            "nb_variants":  1,
                                                                            "thumbnail":  "000-srd_ancient_blue_dragon-1-db.webp",
-                                                                           "shortdesc":  "A majestic lightning tyrant whose presence shakes the desert skies.",
+                                                                           "shortdesc":  "Blue-scaled tyrant who reigns supreme over the desert skies.",
                                                                            "faction":  [
 
                                                                                        ],
@@ -25502,7 +25501,7 @@
                                                     },
                     "000-srd_rust_monster":  {
                                                  "name":  "Rust Monster",
-                                                 "description":  "Its antennae corroding armor and weapons on contact.",
+                                                 "description":  "Its antennae corrode armor and weapons on contact.",
                                                  "properties":  {
                                                                     "size":  "Medium",
                                                                     "stat_ac":  14,
@@ -25535,7 +25534,7 @@
                                                                              ],
                                                                     "nb_variants":  1,
                                                                     "thumbnail":  "000-srd_rust_monster-1-db.webp",
-                                                                    "shortdesc":  "Its antennae corroding armor and weapons on contact.",
+                                                                    "shortdesc":  "Its antennae corrode armor and weapons on contact.",
                                                                     "faction":  [
 
                                                                                 ],
@@ -25550,7 +25549,7 @@
                                              },
                     "000-srd_conjured_air_elemental":  {
                                                            "name":  "Conjured Air Elemental",
-                                                           "description":  "A swirling vortex of wind. Its gusts and arcane strikes overwhelm those unprepared.",
+                                                           "description":  "A swirling vortex of wind.",
                                                            "properties":  {
                                                                               "size":  "Large",
                                                                               "stat_ac":  0,
@@ -25788,7 +25787,7 @@
                                                   },
                     "000-srd_mummy_lord":  {
                                                "name":  "Mummy Lord",
-                                               "description":  "Embalmed, entombed and loving it. Lords over your average mummies, but does not pack the punch of a Lord of Dust.",
+                                               "description":  "Lords over your average mummies, but does not pack the punch of a Lord of Dust.",
                                                "properties":  {
                                                                   "size":  "Medium",
                                                                   "stat_ac":  17,
@@ -25878,7 +25877,7 @@
                                                                     ],
                                                            "videourl":  "https://youtu.be/r2QZhKXzaT4?feature=shared",
                                                            "nb_variants":  1,
-                                                           "shortdesc":  "Those afflicted by the Curse of the Wulfen slowly lose themselves to the bestial urges...",
+                                                           "shortdesc":  "Hunts alongside Wolves and Werewolves alike.",
                                                            "faction":  [
 
                                                                        ],
@@ -25893,7 +25892,7 @@
                                     },
                     "000-srd_ancient_silver_dragon":  {
                                                           "name":  "Ancient Silver Dragon",
-                                                          "description":  "A legendary protector of mortals, whose freezing wrath humbles tyrants.",
+                                                          "description":  "God-like being, renown protector of mortals and hunter of tyrants.",
                                                           "properties":  {
                                                                              "size":  "Gargantuan",
                                                                              "stat_ac":  22,
@@ -25932,7 +25931,7 @@
                                                                                       ],
                                                                              "nb_variants":  1,
                                                                              "thumbnail":  "000-srd_ancient_silver_dragon-1-db.webp",
-                                                                             "shortdesc":  "A legendary protector of mortals, whose freezing wrath humbles tyrants.",
+                                                                             "shortdesc":  "God-like being, renown protector of mortals and hunter of tyrants.",
                                                                              "faction":  [
 
                                                                                          ],
@@ -25947,7 +25946,7 @@
                                                       },
                     "000-srd_storm_giant":  {
                                                 "name":  "Storm Giant",
-                                                "description":  "Commands thunder and tidal fury, hurling lightning bolts and massive stones with divine wrath.",
+                                                "description":  "Kin to lightning and thunder, the greatest of the giants.",
                                                 "properties":  {
                                                                    "size":  "Huge",
                                                                    "stat_ac":  16,
@@ -25981,7 +25980,7 @@
                                                                             ],
                                                                    "nb_variants":  1,
                                                                    "thumbnail":  "000-srd_storm_giant-1-db.webp",
-                                                                   "shortdesc":  "Commands thunder and tidal fury, hurling lightning bolts and massive stones with divine...",
+                                                                   "shortdesc":  "Kin to lightning and thunder, the greatest of the giants.",
                                                                    "faction":  [
 
                                                                                ],
@@ -25996,7 +25995,7 @@
                                             },
                     "000-srd_ankylosaurus":  {
                                                  "name":  "Ankylosaurus",
-                                                 "description":  "Swings its massive clubbed tail with seismic force.",
+                                                 "description":  "Slow and steady, hard to topple.",
                                                  "properties":  {
                                                                     "size":  "Huge",
                                                                     "stat_ac":  12,
@@ -26028,7 +26027,7 @@
                                                                              ],
                                                                     "nb_variants":  1,
                                                                     "thumbnail":  "000-srd_ankylosaurus-1-db.webp",
-                                                                    "shortdesc":  "Swings its massive clubbed tail with seismic force.",
+                                                                    "shortdesc":  "Slow and steady, hard to topple.",
                                                                     "faction":  [
 
                                                                                 ],
@@ -26043,7 +26042,7 @@
                                              },
                     "000-srd_dretch":  {
                                            "name":  "Dretch",
-                                           "description":  "Foul-smelling, snarls as it lunges in packs.",
+                                           "description":  "Foul-smelling pack predator.",
                                            "properties":  {
                                                               "size":  "Small",
                                                               "stat_ac":  11,
@@ -26076,7 +26075,7 @@
                                                                        ],
                                                               "nb_variants":  1,
                                                               "thumbnail":  "000-srd_dretch-1-db.webp",
-                                                              "shortdesc":  "Foul-smelling, snarls as it lunges in packs.",
+                                                              "shortdesc":  "Foul-smelling pack predator",
                                                               "faction":  [
 
                                                                           ],
@@ -26091,7 +26090,7 @@
                                        },
                     "000-srd_white_dragon_wyrmling":  {
                                                           "name":  "White Dragon Wyrmling",
-                                                          "description":  "A feral frostspawn with chilling breath and primal hunger.",
+                                                          "description":  "A feral frostspawn, already on the hunt.",
                                                           "properties":  {
                                                                              "size":  "Medium",
                                                                              "stat_ac":  16,
@@ -26127,7 +26126,7 @@
                                                                                       ],
                                                                              "nb_variants":  1,
                                                                              "thumbnail":  "000-srd_white_dragon_wyrmling-1-db.webp",
-                                                                             "shortdesc":  "A feral frostspawn with chilling breath and primal hunger.",
+                                                                             "shortdesc":  "A feral frostspawn, already on the hunt.",
                                                                              "faction":  [
 
                                                                                          ],
