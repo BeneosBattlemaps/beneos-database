@@ -11531,7 +11531,7 @@
                                                         }
                                      },
                     "127-constrictor_drake":  {
-                                                  "description":  "It doesn\u0027t take much imagination to understand why Constrictor Drakes bear their name, as they are the most serpentine of the lesser Wyverns, from their hunting methods to their puff adder-like jaws and tooth shape. They combine the worst qualities of snake and wyverns, resulting in a venomous, choke-happy, flying serpent the size of a horse. The Constrictor Drake\u0027s vivid warning colors only heighten one\u0027s unease because one can only imagine the kind of predator they are trying to deter.",
+                                                  "description":  "It doesn't take much imagination to understand why Constrictor Drakes bear their name, as they are the most serpentine of the lesser Wyverns, from their hunting methods to their puff adder-like jaws and tooth shape. They combine the worst qualities of snake and wyverns, resulting in a venomous, choke-happy, flying serpent the size of a horse. The Constrictor Drake\u0027s vivid warning colors only heighten one\u0027s unease because one can only imagine the kind of predator they are trying to deter.",
                                                   "name":  "Constrictor Drake",
                                                   "properties":  {
                                                                      "biom":  [
@@ -11577,7 +11577,7 @@
                                                                               ],
                                                                      "videourl":  "https://youtu.be/5dD9TnTs5us?si=_XmwyJbgqQmOWHog",
                                                                      "nb_variants":  5,
-                                                                     "shortdesc":  "It doesn\u0027t take much imagination to understand why Constrictor Drakes bear their name...",
+                                                                     "shortdesc":  "Wyvern with snake-like attributes.",
                                                                      "faction":  [
 
                                                                                  ],
@@ -11625,8 +11625,8 @@
                                                                         "type":  ["dragon"],
                                                                         "videourl":  "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
                                                                         "nb_variants":  1,
-                                                                        "shortdesc":  "",
-                                                                        "faction":  "Creates and devours clouds to unleash storm-centered effects.",
+                                                                        "shortdesc":  "Creates and devours clouds to unleash storm-centered effects.",
+                                                                        "faction":  "",
                                                                         "source":  "Loyalty Token",
                                                                         "campaign":  "",
                                                                         "hidden_tags":  ""
@@ -16501,8 +16501,8 @@
                                                                        "type":  ["dragon"],
                                                                        "videourl":  "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
                                                                        "nb_variants":  1,
-                                                                       "shortdesc":  "",
-                                                                       "faction":  "This is a marker for the Cloud Eater.",
+                                                                       "shortdesc":  "This is a marker for the Cloud Eater.",
+                                                                       "faction":  "",
                                                                        "source":  "Loyalty Token",
                                                                        "campaign":  "",
                                                                        "hidden_tags":  ""
@@ -25724,8 +25724,8 @@
                                                                          "type":  ["dragon"],
                                                                          "videourl":  "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
                                                                          "nb_variants":  1,
-                                                                         "shortdesc":  "",
-                                                                         "faction":  "This is a marker for the Cloud Eater.",
+                                                                         "shortdesc":  "This is a marker for the Cloud Eater.",
+                                                                         "faction":  "",
                                                                          "source":  "Loyalty Token",
                                                                          "campaign":  "",
                                                                          "hidden_tags":  ""
