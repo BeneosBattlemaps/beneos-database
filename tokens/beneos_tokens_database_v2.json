@@ -11531,7 +11531,7 @@
                                                         }
                                      },
                     "127-constrictor_drake":  {
-                                                  "description":  "It doesn't take much imagination to understand why Constrictor Drakes bear their name, as they are the most serpentine of the lesser Wyverns, from their hunting methods to their puff adder-like jaws and tooth shape. They combine the worst qualities of snake and wyverns, resulting in a venomous, choke-happy, flying serpent the size of a horse. The Constrictor Drake\u0027s vivid warning colors only heighten one\u0027s unease because one can only imagine the kind of predator they are trying to deter.",
+                                                  "description":  "It doesn\u0027t take much imagination to understand why Constrictor Drakes bear their name, as they are the most serpentine of the lesser Wyverns, from their hunting methods to their puff adder-like jaws and tooth shape. They combine the worst qualities of snake and wyverns, resulting in a venomous, choke-happy, flying serpent the size of a horse. The Constrictor Drake\u0027s vivid warning colors only heighten one\u0027s unease because one can only imagine the kind of predator they are trying to deter.",
                                                   "name":  "Constrictor Drake",
                                                   "properties":  {
                                                                      "biom":  [
@@ -11622,7 +11622,9 @@
                                                                         "stat_str":  98,
                                                                         "stat_wis":  99,
                                                                         "thumbnail":  "000-month_26_cloud_eater-1-db.webp",
-                                                                        "type":  ["dragon"],
+                                                                        "type":  [
+                                                                                     "dragon"
+                                                                                 ],
                                                                         "videourl":  "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
                                                                         "nb_variants":  1,
                                                                         "shortdesc":  "Creates and devours clouds to unleash storm-centered effects.",
@@ -16498,7 +16500,9 @@
                                                                        "stat_str":  98,
                                                                        "stat_wis":  99,
                                                                        "thumbnail":  "000-month_26_cloud_zone-1-db.webp",
-                                                                       "type":  ["dragon"],
+                                                                       "type":  [
+                                                                                    "dragon"
+                                                                                ],
                                                                        "videourl":  "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
                                                                        "nb_variants":  1,
                                                                        "shortdesc":  "This is a marker for the Cloud Eater.",
@@ -25721,7 +25725,9 @@
                                                                          "stat_str":  98,
                                                                          "stat_wis":  99,
                                                                          "thumbnail":  "000-month_26_cloud_charge-1-db.webp",
-                                                                         "type":  ["dragon"],
+                                                                         "type":  [
+                                                                                      "dragon"
+                                                                                  ],
                                                                          "videourl":  "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
                                                                          "nb_variants":  1,
                                                                          "shortdesc":  "This is a marker for the Cloud Eater.",
@@ -28478,9 +28484,51 @@
                                                                                        ]
                                                                    }
                                                 },
+                    "224-krampus":  {
+                                        "description":  "Krampus was once a man who committed terrible deeds. as punishment, he was cursed to roam the lands, given the chance to present his soul for reevaluation at the end of each year - if it is free from guilt, the curse will be lifted. instead of putting in the work, krampus abducts children in the twisted attempt to pass their innocent souls off as his own and break the curse. he hasn’t been successful, but not for the lack of trying. he is accompanied by sacklings, ramshackle constructs inhabited by stolen child souls, because naturally it is their fault that his curse is not lifted.",
+                                        "name":  "Krampus",
+                                        "properties":  {
+                                                           "biom":  [
+                                                                        "Planar",
+                                                                        "Winter",
+                                                                        "Horror",
+                                                                        "Arctic",
+                                                                        "Forest"
+                                                                    ],
+                                                           "cr":  "9",
+                                                           "fightingstyle":  [
+                                                                                 "Demanding",
+                                                                                 "Pressure"
+                                                                             ],
+                                                           "movement":  "Walk",
+                                                           "purpose":  [
+                                                                           "Gimmick",
+                                                                           "Debuff"
+                                                                       ],
+                                                           "releaseurl":  "https://www.patreon.com/c/beneostokens",
+                                                           "size":  "large",
+                                                           "stat_ac":  16,
+                                                           "stat_cha":  94,
+                                                           "stat_con":  95,
+                                                           "stat_dex":  96,
+                                                           "stat_hp":  137,
+                                                           "stat_int":  96,
+                                                           "stat_str":  98,
+                                                           "stat_wis":  99,
+                                                           "thumbnail":  "224-krampus-1-db.webp",
+                                                           "type":  ["fey"],
+                                                           "videourl":  "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
+                                                           "nb_variants":  2,
+                                                           "shortdesc":  "Turns opponents into children to steal their souls.",
+                                                           "faction":  "",
+                                                           "source":  "Patreon",
+                                                           "campaign":  "",
+                                                           "hidden_tags":  "christmas, oneshot, boss, event, creepy, narrative, athmosphere"
+                                                       }
+                                    },
                     "000-srd_crab":  {
                                          "name":  "Crab",
-                                         "description":  "Scuttles along shores.",
+                                         "description":  "Pinchy and delicious.",
                                          "properties":  {
                                                             "size":  "Tiny",
                                                             "stat_ac":  12,
@@ -28513,7 +28561,7 @@
                                                                      ],
                                                             "nb_variants":  1,
                                                             "thumbnail":  "000-srd_crab-1-db.webp",
-                                                            "shortdesc":  "Scuttles along shores.",
+                                                            "shortdesc":  "Pinchy and delicious",
                                                             "faction":  [
 
                                                                         ],
@@ -28528,7 +28576,7 @@
                                      },
                     "000-srd_goat_of_traveling":  {
                                                       "name":  "Goat of Traveling",
-                                                      "description":  "Wit sturdy hooves and uncanny endurance, it ferries travelers through treacherous mountain paths with ease.",
+                                                      "description":  "With sturdy hooves and unending endurance, it ferries travelers through treacherous mountain paths with ease.",
                                                       "properties":  {
                                                                          "size":  "Large",
                                                                          "stat_ac":  12,
@@ -28560,7 +28608,7 @@
                                                                                   ],
                                                                          "nb_variants":  1,
                                                                          "thumbnail":  "000-srd_goat_of_traveling-1-db.webp",
-                                                                         "shortdesc":  "Wit sturdy hooves and uncanny endurance, it ferries travelers through treacherous...",
+                                                                         "shortdesc":  "Goat optimized for travel.",
                                                                          "faction":  [
 
                                                                                      ],
@@ -28668,7 +28716,7 @@
                                                                        ],
                                                               "videourl":  "https://youtu.be/QisCqjvHD34",
                                                               "nb_variants":  1,
-                                                              "shortdesc":  "Amygdalyan are predators from beyond the thin veil separating reality from the infinite...",
+                                                              "shortdesc":  "Planar predator feasting on fear.",
                                                               "faction":  [
 
                                                                           ],

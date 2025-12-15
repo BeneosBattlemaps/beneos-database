@@ -3010,6 +3010,106 @@
         "icon": "0105_unmake-icon.webp",
         "hidden_tags": []
       }
+    },
+    "0107_toxic_touch": {
+      "key": "0107_toxic_touch",
+      "description": "Deal poison damage and increase the next poison damage dealt to the creature.",
+      "name": "Toxic Touch",
+      "properties": {
+        "level": "0",
+        "school": "Evocation",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Melee Damage",
+        "classes": [
+          "Bard",
+          "Druid",
+          "Sorcerer",
+          "Warlock",
+          "Wizard"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0107_toxic_touch-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0108_flickerfever": {
+      "key": "0108_flickerfever",
+      "description": "Potentially prevents creature from perceiving others visually.",
+      "name": "Flickerfever",
+      "properties": {
+        "level": "2",
+        "school": "Illusion",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Debuff",
+        "classes": [
+          "Bard",
+          "Cleric",
+          "Druid",
+          "Sorcerer",
+          "Warlock",
+          "Wizard"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0108_flickerfever-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0109_nightshade_gardens": {
+      "key": "0109_nightshade_gardens",
+      "description": "Enchanted area charms, poisons, blinds and deafens affected creatures.",
+      "name": "Nightshade Gardens",
+      "properties": {
+        "level": "6",
+        "school": "Conjuration",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Area Effect",
+        "classes": [
+          "Cleric",
+          "Druid",
+          "Sorcerer",
+          "Wizard"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0109_nightshade_gardens-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0110_earthen_armor": {
+      "key": "0110_earthen_armor",
+      "description": "Burrow through the earth and emerge with protection against most damage types.",
+      "name": "Earthen Armor",
+      "properties": {
+        "level": "3",
+        "school": "Abjuration",
+        "casting_time": "Bonus Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Mobility",
+        "classes": [
+          "Druid"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0110_earthen_armor-icon.webp",
+        "hidden_tags": []
+      }
     }
   }
 }
