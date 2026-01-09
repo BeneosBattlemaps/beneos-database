@@ -1783,6 +1783,66 @@
         "price": "3400",
         "icon": "0111_iron_chin_talisman-icon.webp"
       }
+    },
+    "0117_balefire_scepter": {
+      "key": "0117_balefire_scepter",
+      "name": "Balefire Scepter",
+      "description": "Damage dealt by its unique ability increases with every soul it incinerates.",
+      "properties": {
+        "rarity": "Legendary",
+        "attunement": true,
+        "origin": "infernal",
+        "item_type": "Spellfocus",
+        "tier": 3,
+        "price": "17600",
+        "icon": "0117_balefire_scepter-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0116_helmet_of_the_wrathful_champion": {
+      "key": "0116_helmet_of_the_wrathful_champion",
+      "name": "Helmet of the Wrathful Champion",
+      "description": "Once you defeat the powerful spirit within, you may summon it for aid.",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "awoken",
+        "item_type": "Light Armor",
+        "tier": 2,
+        "price": "7000",
+        "icon": "0116_helmet_of_the_wrathful_champion-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0115_helmet_of_the_chivalric_champion": {
+      "key": "0115_helmet_of_the_chivalric_champion",
+      "name": "Helmet of the Chivalric Champion",
+      "description": "Once you defeat the powerful spirit within, you may summon it for aid.",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "awoken",
+        "item_type": "Heavy Armor",
+        "tier": 2,
+        "price": "7000",
+        "icon": "0115_helmet_of_the_chivalric_champion-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0114_craven_cutlass": {
+      "key": "0114_craven_cutlass",
+      "name": "Craven Cutlass",
+      "description": "Increases your chgance to get out of dicey situations.",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "awoken",
+        "item_type": "Scimitar",
+        "tier": 1,
+        "price": "1350",
+        "icon": "0114_craven_cutlass-icon.webp",
+        "hidden_tags": []
+      }
     }
   }
 }
