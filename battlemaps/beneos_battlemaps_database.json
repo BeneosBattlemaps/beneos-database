@@ -45856,6 +45856,246 @@
                                 "download_creator": "Beneos Battlemaps",
                                 "hidden_tags": []
                                 }
+                    },
+                    "104-01_harumans_hill_path_1-4k_BM":{
+                        "name":"harumans hill path 1",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Forest","Hell","Nightmare","Exteriour", "Horror","Organic"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"104_DiA_Harumans_Hill",
+                        "releaseurl":"WIP",
+                        "sibling":"104-01_harumans_hill_path_1-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"104-01_harumans_hill_path_1-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Harumans Hill - 104",
+                        "download_terms": "BM: harumans hill path 1",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "104-01_harumans_hill_path_1-4k_Scen":{
+                                "name":"harumans hill path 1",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Forest","Hell","Nightmare","Exteriour", "Horror","Organic"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"104_DiA_Harumans_Hill",
+                                "releaseurl":"WIP",
+                                "sibling":"104-01_harumans_hill_path_1-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"104-01_harumans_hill_path_1-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Harumans Hill - 104",
+                                "download_terms": "SC: harumans hill path 1",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "104-02_harumans_hill_path_2-4k_BM":{
+                        "name":"harumans hill path 2",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Forest","Hell","Nightmare","Exteriour", "Horror","Organic"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"104_DiA_Harumans_Hill",
+                        "releaseurl":"WIP",
+                        "sibling":"104-02_harumans_hill_path_2-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"104-02_harumans_hill_path_2-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Harumans Hill - 104",
+                        "download_terms": "BM: harumans hill path 2",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "104-02_harumans_hill_path_2-4k_Scen":{
+                                "name":"harumans hill path 2",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Forest","Hell","Nightmare","Exteriour", "Horror","Organic"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"104_DiA_Harumans_Hill",
+                                "releaseurl":"WIP",
+                                "sibling":"104-02_harumans_hill_path_2-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"104-02_harumans_hill_path_2-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Harumans Hill - 104",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "104-03_harumans_hill_organic_matter-4k_BM":{
+                        "name":"harumans hill organic matter",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Nightmare","Exteriour", "Horror","Organic"],
+                        "brightness":"Medium",
+                        "grid":"38x25",
+                        "pack":"104_DiA_Harumans_Hill",
+                        "releaseurl":"WIP",
+                        "sibling":"104-03_harumans_hill_organic_matter-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"104-03_harumans_hill_organic_matter-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Harumans Hill - 104",
+                        "download_terms": "BM: harumans hill organic matter",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "104-03_harumans_hill_organic_matter-4k_Scen":{
+                                "name":"harumans hill organic matter",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Nightmare","Exteriour", "Horror","Organic"],
+                                "brightness":"Medium",
+                                "grid":"38x25",
+                                "pack":"104_DiA_Harumans_Hill",
+                                "releaseurl":"WIP",
+                                "sibling":"104-03_harumans_hill_organic_matter-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"104-03_harumans_hill_organic_matter-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Harumans Hill - 104",
+                                "download_terms": "SC: harumans hill organic matter",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "104-04_harumans_hill_skeleton-4k_BM":{
+                        "name":"harumans hill skeleton",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Nightmare","Exteriour", "Horror","Organic"],
+                        "brightness":"Medium",
+                        "grid":"60x35",
+                        "pack":"104_DiA_Harumans_Hill",
+                        "releaseurl":"WIP",
+                        "sibling":"104-04_harumans_hill_skeleton-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"104-04_harumans_hill_skeleton-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Harumans Hill - 104",
+                        "download_terms": "BM: harumans hill skeleton",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "104-04_harumans_hill_skeleton-4k_Scen":{
+                                "name":"harumans hill skeleton",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Nightmare","Exteriour", "Horror","Organic"],
+                                "brightness":"Medium",
+                                "grid":"60x35",
+                                "pack":"104_DiA_Harumans_Hill",
+                                "releaseurl":"WIP",
+                                "sibling":"104-04_harumans_hill_skeleton-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"104-04_harumans_hill_skeleton-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Harumans Hill - 104",
+                                "download_terms": "SC: harumans hill skeleton",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "104-05_harumans_hill_lava_bridge-4k_BM":{
+                        "name":"harumans hill lava bridge",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Forest","Hell","Nightmare","Exteriour", "Horror","Organic","Lava"],
+                        "brightness":"Medium",
+                        "grid":"38x25",
+                        "pack":"104_DiA_Harumans_Hill",
+                        "releaseurl":"WIP",
+                        "sibling":"104-05_harumans_hill_lava_bridge-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"104-05_harumans_hill_lava_bridge-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Harumans Hill - 104",
+                        "download_terms": "BM: harumans hill lava bridge",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "104-05_harumans_hill_lava_bridge-4k_Scen":{
+                                "name":"harumans hill lava bridge",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Forest","Hell","Nightmare","Exteriour", "Horror","Organic","Lava"],
+                                "brightness":"Medium",
+                                "grid":"38x25",
+                                "pack":"104_DiA_Harumans_Hill",
+                                "releaseurl":"WIP",
+                                "sibling":"104-05_harumans_hill_lava_bridge-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"104-05_harumans_hill_lava_bridge-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Harumans Hill - 104",
+                                "download_terms": "SC: harumans hill lava bridge",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "104-06_harumans_hill_janders_tree-4k_BM":{
+                        "name":"harumans hill janders tree",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Mountain","Hell","Nightmare","Exteriour", "Horror"],
+                        "brightness":"Dark",
+                        "grid":"30x50",
+                        "pack":"104_DiA_Harumans_Hill",
+                        "releaseurl":"WIP",
+                        "sibling":"104-06_harumans_hill_janders_tree-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"104-06_harumans_hill_janders_tree-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Harumans Hill - 104",
+                        "download_terms": "BM: harumans hill janders tree",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "104-06_harumans_hill_janders_tree-4k_Scen":{
+                                "name":"harumans hill janders tree",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Mountain","Hell","Nightmare","Exteriour", "Horror"],
+                                "brightness":"Dark",
+                                "grid":"30x50",
+                                "pack":"104_DiA_Harumans_Hill",
+                                "releaseurl":"WIP",
+                                "sibling":"104-06_harumans_hill_janders_tree-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"104-06_harumans_hill_janders_tree-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Harumans Hill - 104",
+                                "download_terms": "SC: harumans hill janders tree",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
                             }
                         }
                     }
