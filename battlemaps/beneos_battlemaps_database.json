@@ -496,7 +496,7 @@
                     "City",
                     "Interiour",
                     "Underground",
-                    "Industrial"
+                    "Industry"
                 ],
                 "brightness": "Medium",
                 "grid": "32x18",
@@ -525,7 +525,7 @@
                     "City",
                     "Interiour",
                     "Underground",
-                    "Industrial"
+                    "Industry"
                 ],
                 "brightness": "Medium",
                 "grid": "32x18",
@@ -554,7 +554,7 @@
                     "City",
                     "Interiour",
                     "Underground",
-                    "Industrial"
+                    "Industry"
                 ],
                 "brightness": "Medium",
                 "grid": "32x18",
@@ -583,7 +583,7 @@
                     "City",
                     "Interiour",
                     "Underground",
-                    "Industrial"
+                    "Industry"
                 ],
                 "brightness": "Medium",
                 "grid": "32x18",
@@ -612,7 +612,7 @@
                     "City",
                     "Interiour",
                     "Underground",
-                    "Industrial"
+                    "Industry"
                 ],
                 "brightness": "Medium",
                 "grid": "32x18",
@@ -641,7 +641,7 @@
                     "City",
                     "Interiour",
                     "Underground",
-                    "Industrial"
+                    "Industry"
                 ],
                 "brightness": "Medium",
                 "grid": "32x18",
@@ -670,7 +670,7 @@
                     "City",
                     "Interiour",
                     "Underground",
-                    "Industrial"
+                    "Industry"
                 ],
                 "brightness": "Medium",
                 "grid": "32x18",
@@ -699,7 +699,7 @@
                     "City",
                     "Interiour",
                     "Underground",
-                    "Industrial"
+                    "Industry"
                 ],
                 "brightness": "Medium",
                 "grid": "32x18",
@@ -728,7 +728,7 @@
                     "City",
                     "Interiour",
                     "Underground",
-                    "Industrial"
+                    "Industry"
                 ],
                 "brightness": "Medium",
                 "grid": "32x18",
@@ -1786,7 +1786,7 @@
                 "biom": [
                     "Science Fiction",
                     "Snow",
-                    "Industrial",
+                    "Industry",
                     "Interiour"
                 ],
                 "brightness": "Medium",
@@ -1813,7 +1813,7 @@
                 "biom": [
                     "Science Fiction",
                     "Snow",
-                    "Industrial",
+                    "Industry",
                     "Interiour"
                 ],
                 "brightness": "Medium",
@@ -1840,7 +1840,7 @@
                 "biom": [
                     "Science Fiction",
                     "Snow",
-                    "Industrial",
+                    "Industry",
                     "Interiour"
                 ],
                 "brightness": "Medium",
@@ -1867,7 +1867,7 @@
                 "biom": [
                     "Science Fiction",
                     "Snow",
-                    "Industrial",
+                    "Industry",
                     "Interiour"
                 ],
                 "brightness": "Medium",
@@ -21781,7 +21781,7 @@
                     "Airship",
                     "Interiour",
                     "Science Fiction",
-                    "Industrial"
+                    "Industry"
                 ],
                 "brightness": "Bright",
                 "grid": "32x18",
@@ -21809,7 +21809,7 @@
                     "Airship",
                     "Interiour",
                     "Science Fiction",
-                    "Industrial"
+                    "Industry"
                 ],
                 "brightness": "Bright",
                 "grid": "32x18",
@@ -21837,7 +21837,7 @@
                     "Airship",
                     "Interiour",
                     "Science Fiction",
-                    "Industrial"
+                    "Industry"
                 ],
                 "brightness": "Bright",
                 "grid": "32x18",
@@ -21865,7 +21865,7 @@
                     "Airship",
                     "Interiour",
                     "Science Fiction",
-                    "Industrial"
+                    "Industry"
                 ],
                 "brightness": "Bright",
                 "grid": "32x18",
@@ -21893,7 +21893,7 @@
                     "Airship",
                     "Interiour",
                     "Science Fiction",
-                    "Industrial"
+                    "Industry"
                 ],
                 "brightness": "Bright",
                 "grid": "32x18",
@@ -21921,7 +21921,7 @@
                     "Airship",
                     "Interiour",
                     "Science Fiction",
-                    "Industrial"
+                    "Industry"
                 ],
                 "brightness": "Bright",
                 "grid": "32x18",
@@ -21949,7 +21949,7 @@
                     "Airship",
                     "Interiour",
                     "Science Fiction",
-                    "Industrial"
+                    "Industry"
                 ],
                 "brightness": "Bright",
                 "grid": "32x18",
@@ -21977,7 +21977,7 @@
                     "Airship",
                     "Interiour",
                     "Science Fiction",
-                    "Industrial"
+                    "Industry"
                 ],
                 "brightness": "Bright",
                 "grid": "32x18",
@@ -22005,7 +22005,7 @@
                     "Airship",
                     "Interiour",
                     "Science Fiction",
-                    "Industrial"
+                    "Industry"
                 ],
                 "brightness": "Bright",
                 "grid": "32x18",
@@ -22033,7 +22033,7 @@
                     "Airship",
                     "Interiour",
                     "Science Fiction",
-                    "Industrial"
+                    "Industry"
                 ],
                 "brightness": "Bright",
                 "grid": "32x18",
@@ -22061,7 +22061,7 @@
                     "Airship",
                     "Interiour",
                     "Science Fiction",
-                    "Industrial"
+                    "Industry"
                 ],
                 "brightness": "Bright",
                 "grid": "32x18",
@@ -22089,7 +22089,7 @@
                     "Airship",
                     "Interiour",
                     "Science Fiction",
-                    "Industrial"
+                    "Industry"
                 ],
                 "brightness": "Bright",
                 "grid": "32x18",
@@ -44171,7 +44171,7 @@
                 "biom": [
                     "Steampunk",
                     "Hell",
-                    "Industrial",
+                    "Industry",
                     "Futuristic",
                     "Manufacture",
                     "Special"
@@ -44200,7 +44200,7 @@
                 "biom": [
                     "Steampunk",
                     "Hell",
-                    "Industrial",
+                    "Industry",
                     "Futuristic",
                     "Manufacture",
                     "Special"
