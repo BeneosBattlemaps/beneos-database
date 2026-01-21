@@ -3110,6 +3110,108 @@
         "icon": "0110_earthen_armor-icon.webp",
         "hidden_tags": []
       }
+    },
+    "0111_hellthorn_brambles": {
+      "key": "0111_hellthorn_brambles",
+      "description": "Block an area and immobilize foes with lashing razor-vines.",
+      "name": "Hellthorn Brambles",
+      "properties": {
+        "level": "4",
+        "school": "Conjuration",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Area Effect",
+        "classes": [
+          "Bard",
+          "Sorcerer",
+          "Warlock",
+          "Wizard"
+        ],
+        "components": [
+          "V",
+          "S",
+          "M"
+        ],
+        "icon": "0111_hellthorn_brambles-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0112_cloud_oubliette": {
+      "key": "0112_cloud_oubliette",
+      "description": "",
+      "name": "Cloud Oubliette",
+      "properties": {
+        "level": "5",
+        "school": "Conjuration",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Bard",
+          "Cleric",
+          "Druid",
+          "Sorcerer",
+          "Wizard"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0112_cloud_oubliette-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0113_dramatic_sendoff": {
+      "key": "0113_dramatic_sendoff",
+      "description": "Detonate a corpse to damage surrounding creatures.",
+      "name": "Dramatic Send-Off",
+      "properties": {
+        "level": "2",
+        "school": "Necromancy",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Bard",
+          "Cleric",
+          "Paladin",
+          "Sorcerer",
+          "Warlock",
+          "Wizard"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0113_dramatic_sendoff-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0114_blunten_the_edge": {
+      "key": "0114_blunten_the_edge",
+      "description": "Minimize the damage dealt by a creature's weapon for one round.",
+      "name": "Blunten the Edge",
+      "properties": {
+        "level": "2",
+        "school": "Transmutation",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Debuff",
+        "classes": [
+          "Cleric",
+          "Paladin"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0114_blunten_the_edge-icon.webp",
+        "hidden_tags": []
+      }
     }
   }
 }

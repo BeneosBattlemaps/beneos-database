@@ -2317,6 +2317,49 @@
                 "hidden_tags": ""
             }
         },
+        "000-month_27_iron_shrike": {
+            "description": "controls creatures with chains and impales them on conjured spires.",
+            "name": "Iron Shrike",
+            "properties": {
+                "biom": [
+                    "planar",
+                    "infernal",
+                    "horror"
+                ],
+                "cr": "13",
+                "fightingstyle": [
+                    "tactical",
+                    "lethal"
+                ],
+                "movement": "walk",
+                "purpose": [
+                    "boss",
+                    "debuff"
+                ],
+                "releaseurl": "https://www.patreon.com/c/beneostokens",
+                "size": "large",
+                "stat_ac": 18,
+                "stat_cha": 94,
+                "stat_con": 95,
+                "stat_dex": 96,
+                "stat_hp": 97,
+                "stat_int": 96,
+                "stat_str": 98,
+                "stat_wis": 99,
+                "thumbnail": "000-month_27_iron_shrike-1-db.webp",
+                "type": [
+                    "fiend",
+                    "devil"
+                ],
+                "videourl": "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
+                "nb_variants": 2,
+                "shortdesc": "Controls creatures with chains and impales them on conjured spires.",
+                "faction": "Infernal Courts",
+                "source": "Loyalty Token",
+                "campaign": "Descent into Avernus",
+                "hidden_tags": "Haruman, Narzugon, Zariel"
+            }
+        },
         "000-month_3_draconic_elite": {
             "description": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering man-dragons boasting a scaled hide, reptilian maw and scything talons. Their winged, bipedal grants them total aerial superiority, skilled Elites capable of outmaneuvering even their ancestral patrons. As guardians of ancient ruins, instruments of divine judgment or a greater dragon's equerry, their presence invokes both fear and reverence, their martial prowess a testament to the potency of this convergence.",
             "name": "Draconic Elite",
@@ -28386,7 +28429,7 @@
         },
         "098-knight_of_tragedy": {
             "description": "Collapsed under the weight of their oaths, these fallen Knights are bound to ruined castles or abandoned chapels. Some sold their souls to protect their brethren, transgressed against their patron saint or broke their oath so severly that it resulted in the total corruption of their being. Whatever the reason for their downfall, these erstwhile epitomes of piety and righteousness have become dark mirrors of their past, now doomed to cause the same pain and suffering they were once sworn to fight. Steeped in tragedy, these Knights are solemn creatures, most harboring the secret desire to die in combat, being finally brought to justice by a righteous blade.",
-     "name": "Knight of Tragedy",
+            "name": "Knight of Tragedy",
             "properties": {
                 "biom": [
                     "Dungeon",
@@ -36045,7 +36088,7 @@
                     "civilized",
                     "underdark"
                 ],
-                "cr": "8",
+                "cr": "4",
                 "fightingstyle": [
                     "versatile",
                     "aoe",
@@ -36122,6 +36165,139 @@
                 "source": "Patreon",
                 "campaign": "",
                 "hidden_tags": "christmas, oneshot, boss, event, creepy, narrative, athmosphere"
+            }
+        },
+        "225-sackling_swarmer": {
+            "description": "Sacklings are simple constructs with a dark history. they were used to be created by binding a child's soul into a small, ragged body made from hemp, wool, straw, and any sharp materials that could be worked into it to make it functional in combat. in the present day, only the cruelest and most unhinged still make use of children’s souls in this way, as there are far more practical methods to exploit such a valuable prize. over time, different variants of sacklings have evolved to serve different purposes, but the simple swarmer remains a classic, used to overwhelm a creature, drag it to the floor, and inflict death by a thousand cuts.",
+            "name": "Sackling Swarmer",
+            "properties": {
+                "biom": [
+                    "civilized",
+                    "dungeon",
+                    "horror",
+                    "lair"
+                ],
+                "cr": "0.25",
+                "fightingstyle": [
+                    "pack",
+                    "charge"
+                ],
+                "movement": "walk",
+                "purpose": "pressure",
+                "releaseurl": "https://www.patreon.com/c/beneostokens",
+                "size": "small",
+                "stat_ac": 93,
+                "stat_cha": 94,
+                "stat_con": 95,
+                "stat_dex": 96,
+                "stat_hp": 97,
+                "stat_int": 96,
+                "stat_str": 98,
+                "stat_wis": 99,
+                "thumbnail": "225-sackling_swarmer-1-db.webp",
+                "type": [
+                    "construct"
+                ],
+                "videourl": "https://youtu.be/8tMKFU7mwqI",
+                "nb_variants": 3,
+                "shortdesc": "Surge toward victims to drag them down and stab relentlessly.",
+                "faction": "",
+                "source": "Patreon",
+                "campaign": "Curse of Strahd",
+                "hidden_tags": "puppet, doll, marionette, pidlwick"
+            }
+        },
+        "226-stirge": {
+            "description": "Attacks in swarms to drain blood, carrier of disease.",
+            "name": "Stirge",
+            "properties": {
+                "biom": [
+                    "planar",
+                    "infernal",
+                    "horror",
+                    "grave",
+                    "forest",
+                    "wilderness",
+                    "wasteland",
+                    "road",
+                    "dungeon",
+                    "cave",
+                    "underdark"
+                ],
+                "cr": "1/8",
+                "fightingstyle": [
+                    "pack",
+                    "airborne"
+                ],
+                "movement": "fly",
+                "purpose": "debuff",
+                "releaseurl": "https://www.patreon.com/posts/148615451",
+                "size": "tiny",
+                "stat_ac": 93,
+                "stat_cha": 94,
+                "stat_con": 95,
+                "stat_dex": 96,
+                "stat_hp": 97,
+                "stat_int": 96,
+                "stat_str": 98,
+                "stat_wis": 99,
+                "thumbnail": "226-stirge-1-db.webp",
+                "type": ["monstrosity"],
+                "videourl": "https://youtu.be/U4DsGzokdck",
+                "nb_variants": 3,
+                "shortdesc": "Attacks in swarms to drain blood, carrier of disease.",
+                "faction": "",
+                "source": "Patreon",
+                "campaign": "",
+                "hidden_tags": ""
+            }
+        },
+        "226-swarm_of_stirges": {
+            "description": "attacks in swarms to drain blood, carrier of disease.",
+            "name": "Swarm Of Stirges",
+            "properties": {
+                "biom": [
+                    "planar",
+                    "infernal",
+                    "horror",
+                    "grave",
+                    "forest",
+                    "wilderness",
+                    "wasteland",
+                    "road",
+                    "dungeon",
+                    "cave",
+                    "underdark"
+                ],
+                "cr": "1/4",
+                "fightingstyle": [
+                    "pack",
+                    "airborne"
+                ],
+                "movement": "fly",
+                "purpose": "debuff",
+                "releaseurl": "https://www.patreon.com/posts/148615451",
+                "size": "medium",
+                "stat_ac": 93,
+                "stat_cha": 94,
+                "stat_con": 95,
+                "stat_dex": 96,
+                "stat_hp": 97,
+                "stat_int": 96,
+                "stat_str": 98,
+                "stat_wis": 99,
+                "thumbnail": "226-swarm_of_stirges-1-db.webp",
+                "type": [
+                    "swarm", 
+					"monstrosity"
+                ],
+                "videourl": "https://youtu.be/U4DsGzokdck",
+                "nb_variants": 3,
+                "shortdesc": "Attacks in swarms to drain blood, carrier of disease.",
+                "faction": "",
+                "source": "Patreon",
+                "campaign": "",
+                "hidden_tags": ""
             }
         }
     }
