@@ -1385,8 +1385,8 @@
     },
     "0093_sunscorched_shield": {
       "key": "0093_sunscorched_shield",
-      "description": "Grants resistance to fire damage, can be used to shield allies from fiery harm and to substitute a campfire.",
       "name": "Sun-Scorched Shield",
+      "description": "",
       "properties": {
         "rarity": "Rare",
         "attunement": true,
