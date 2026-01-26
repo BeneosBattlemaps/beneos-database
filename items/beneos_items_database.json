@@ -1843,6 +1843,66 @@
         "icon": "0114_craven_cutlass-icon.webp",
         "hidden_tags": []
       }
+    },
+    "0119_blade_of_the_radiant_rout": {
+      "key": "0119_blade_of_the_radiant_rout",
+      "name": "Blade of the Radiant Rout",
+      "description": "Punishes cowardly foes, allows you to give chase and keep attacking.",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "sanctified",
+        "item_type": "Longsword +2",
+        "tier": 3,
+        "price": "35500",
+        "icon": "0119_blade_of_the_radiant_rout-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0120_hjalmars_nifty_apron": {
+      "key": "0120_hjalmars_nifty_apron",
+      "name": "Hjalmar’s Nifty Apron",
+      "description": "Summon a variety of tools and trinkets, comes with a secret pouch.",
+      "properties": {
+        "rarity": "Uncommon",
+        "attunement": true,
+        "origin": "dwarven_forged",
+        "item_type": "Light Armor +1",
+        "tier": 1,
+        "price": "2200",
+        "icon": "0120_hjalmars_nifty_apron-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0121_snake_eyes": {
+      "key": "0121_snake_eyes",
+      "name": "Snake Eyes",
+      "description": "1 in 6 chance to curse a creature using the dice to do your bidding.",
+      "properties": {
+        "rarity": "Legendary",
+        "attunement": true,
+        "origin": "infernal",
+        "item_type": "Consumable",
+        "tier": 3,
+        "price": "43200",
+        "icon": "0121_snake_eyes-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0118_thornbloom_bow": {
+      "key": "0118_thornbloom_bow",
+      "name": "Thornbloom Bow",
+      "description": "Critical hits implant seeds that can bloom violently, impaling nearby foes.",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "infernal",
+        "item_type": "Longbow +2",
+        "tier": 3,
+        "price": "33600",
+        "icon": "0118_thornbloom_bow-icon.webp",
+        "hidden_tags": []
+      }
     }
   }
 }
