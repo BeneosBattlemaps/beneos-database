@@ -1686,7 +1686,7 @@
     "0107_teethsmasher_tankard": {
       "key": "0107_teethsmasher_tankard",
       "name": "Teeth-Smasher Tankard",
-      "description": "Knock-outs fill tankard with healing concoction, overuse might lead to uncontrollable rage.",
+      "description": "Knocking out enemies fills the tankard, drinking too much from it causes rage.",
       "properties": {
         "rarity": "Rare",
         "attunement": true,
@@ -1716,14 +1716,14 @@
     "0109_festering_blade": {
       "key": "0109_festering_blade",
       "name": "Festering Blade",
-      "description": "Critical hits cause festering wounds that turn healing into damage.",
+      "description": "Critical hits cause festering wounds that negate healing and damage instead.",
       "properties": {
         "rarity": "Rare",
         "attunement": true,
         "origin": "mutation",
         "item_type": "Longsword",
         "tier": 1,
-        "price": "2200",
+        "price": "2550",
         "icon": "0109_festering_blade-icon.webp",
         "hidden_tags": []
       }
