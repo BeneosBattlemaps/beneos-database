@@ -305,13 +305,13 @@
     },
     "0020_stormstrider_boots": {
       "key": "0020_stormstrider_boots",
-      "description": "Boots allowing you to stride through air and granting resistance to lightning damage.",
       "name": "Stormstrider Boots",
+      "description": "",
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
-        "origin": "giantforged",
-        "item_type": "Clothing",
+        "origin": "giant_forged",
+        "item_type": "Medium Armor",
         "tier": 2,
         "price": "6600",
         "icon": "0020_stormstrider_boots-icon.webp",
@@ -455,13 +455,13 @@
     },
     "0033_wiredevil": {
       "key": "0033_wiredevil",
-      "description": "A wind-up grenade unleashing a torrent of razor-wire when activated.",
       "name": "Wiredevil",
+      "description": "",
       "properties": {
-        "rarity": "rare",
-        "attunement": true,
-        "origin": "technoarcane",
-        "item_type": "consumable",
+        "rarity": "Rare",
+        "attunement": false,
+        "origin": "techno_arcane",
+        "item_type": "Consumable",
         "tier": 1,
         "price": "800",
         "icon": "0033_wiredevil-icon.webp",
@@ -740,12 +740,12 @@
     },
     "0053_robes_of_reflection": {
       "key": "0053_robes_of_reflection",
-      "description": "A robe best suited for the Monk class, allowing them to regain Ki points by reflecting on their failure.",
-      "name": "Robes Of Reflection",
+      "name": "Robes of Reflection",
+      "description": "",
       "properties": {
         "rarity": "Uncommon",
         "attunement": true,
-        "origin": "relic",
+        "origin": "ancient",
         "item_type": "Clothing",
         "tier": 1,
         "price": "900",
@@ -755,13 +755,13 @@
     },
     "0052_dark_shepherd_cursed": {
       "key": "0052_dark_shepherd_cursed",
-      "description": "Regular Dark Shepherd but with the curse text added.",
-      "name": "Dark Shepherd Cursed",
+      "name": "Dark Shepherd (Cursed)",
+      "description": "",
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
         "origin": "occult",
-        "item_type": "Trinket",
+        "item_type": "Spell Focus",
         "tier": 2,
         "price": "4200",
         "icon": "0052_dark_shepherd_cursed-icon.webp",
@@ -770,13 +770,13 @@
     },
     "0052_dark_shepherd": {
       "key": "0052_dark_shepherd",
-      "description": "Buffs your undead minions and grants you necromantic spell slots.",
       "name": "Dark Shepherd",
+      "description": "",
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
         "origin": "occult",
-        "item_type": "Trinket",
+        "item_type": "Spell Focus",
         "tier": 2,
         "price": "4200",
         "icon": "0052_dark_shepherd-icon.webp",
@@ -800,13 +800,13 @@
     },
     "0055_awoken_huskblade": {
       "key": "0055_awoken_huskblade",
-      "description": "The stronger the creature slain with the Slumbering Husk Blade, the mightier its awoken form.",
-      "name": "Huskblade (Awoken)",
+      "name": "Awoken Huskblade",
+      "description": "",
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
         "origin": "beastforged",
-        "item_type": "Melee Weapon",
+        "item_type": "Longsword",
         "tier": 2,
         "price": "5800",
         "icon": "0055_awoken_huskblade-icon.webp",
@@ -905,15 +905,15 @@
     },
     "0062_three_feather_tricorne": {
       "key": "0062_three_feather_tricorne",
-      "description": "A hat that lets you fly, calm everyone down or summon a drunk parrot.",
-      "name": "Three-Feathered Tricorne",
+      "name": "Three Feather Tricorne",
+      "description": "",
       "properties": {
         "rarity": "Rare",
         "attunement": true,
         "origin": "blessed",
         "item_type": "Clothing",
         "tier": 2,
-        "price": "1600",
+        "price": "2800",
         "icon": "0062_three_feather_tricorne-icon.webp",
         "hidden_tags": []
       }
@@ -980,13 +980,13 @@
     },
     "0067_whispermaw_strain": {
       "key": "0067_whispermaw_strain",
-      "description": "Parasitic organism whose whispers can regenerate spell slots and charm enemies.",
       "name": "Whispermaw Strain",
+      "description": "",
       "properties": {
         "rarity": "Very Rare",
         "attunement": false,
         "origin": "mutation",
-        "item_type": "Consumable",
+        "item_type": "Potion",
         "tier": 3,
         "price": "14200",
         "icon": "0067_whispermaw_strain-icon.webp",
@@ -1025,15 +1025,15 @@
     },
     "0070_crown_of_defiance": {
       "key": "0070_crown_of_defiance",
-      "description": "lets you ignore the result of an attack against you, a failed save or falling to 0 hit points once per day.",
-      "name": "Crown Of Defiance",
+      "name": "Crown of Defiance",
+      "description": "",
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
         "origin": "relic",
-        "item_type": "Clothing",
+        "item_type": "Crown",
         "tier": 3,
-        "price": "1000000",
+        "price": "100000",
         "icon": "0070_crown_of_defiance-icon.webp",
         "hidden_tags": []
       }
@@ -1325,13 +1325,13 @@
     },
     "0089_staff_of_multiple_minds": {
       "key": "0089_staff_of_multiple_minds",
-      "description": "Allows you to prepare and cast an additional spell from the wizard spell list and possibly concentrate on two spells.",
       "name": "Staff of Multiple Minds",
+      "description": "",
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
         "origin": "arcane",
-        "item_type": "Melee Weapon",
+        "item_type": "Spell Focus",
         "tier": 3,
         "price": "24700",
         "icon": "0089_staff_of_multiple_minds-icon.webp",
@@ -1340,15 +1340,15 @@
     },
     "0090_lightning_shrike": {
       "key": "0090_lightning_shrike",
-      "description": "Move and strike like lightning.",
       "name": "Lightning Shrike",
+      "description": "",
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
         "origin": "elemental",
-        "item_type": "Melee Weapon",
+        "item_type": "Dagger",
         "tier": 2,
-        "price": "3600",
+        "price": "6700",
         "icon": "0090_lightning_shrike-icon.webp",
         "hidden_tags": []
       }
@@ -1400,11 +1400,11 @@
     },
     "0098_sphinx_key": {
       "key": "0098_sphinx_key",
-      "description": "Magical key that opens nonmagical locks if you can solve a riddle.",
       "name": "Sphinx Key",
+      "description": "",
       "properties": {
         "rarity": "Very Rare",
-        "attunement": false,
+        "attunement": true,
         "origin": "relic",
         "item_type": "Trinket",
         "tier": 1,
@@ -1445,12 +1445,12 @@
     },
     "0101_spookshroud": {
       "key": "0101_spookshroud",
-      "description": "Spooky veil that lets you turn into a ghost.",
       "name": "Spookshroud",
+      "description": "",
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
-        "origin": "beastforged",
+        "origin": "occult",
         "item_type": "Cloak",
         "tier": 2,
         "price": "13001",
@@ -1505,14 +1505,14 @@
     },
     "0096_overseers_hardhat": {
       "key": "0096_overseers_hardhat",
-      "description": "Protects your noggin from non-magical projectiles other occupational hazards.",
-      "name": "Overseers Hardhat",
+      "name": "Overseer's Hardhat",
+      "description": "",
       "properties": {
         "rarity": "Rare",
         "attunement": true,
-        "origin": "dwarvenforged",
-        "item_type": "Clothing",
-        "tier": 2,
+        "origin": "techno_arcane",
+        "item_type": "Hat",
+        "tier": 1,
         "price": "2200",
         "icon": "0096_overseers_hardhat-icon.webp",
         "hidden_tags": []
@@ -1600,8 +1600,8 @@
       "properties": {
         "rarity": "Rare",
         "attunement": true,
-        "origin": "occult",
-        "item_type": "Spellfocus",
+        "origin": "druidic",
+        "item_type": "Spell Focus",
         "tier": 2,
         "price": "4000",
         "icon": "0104_crows_perch-icon.webp",
@@ -1901,6 +1901,21 @@
         "tier": 3,
         "price": "33600",
         "icon": "0118_thornbloom_bow-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0002_devils_deck_sweeper": {
+      "key": "0002_devils_deck_sweeper",
+      "name": "Devil's Deck Sweeper",
+      "description": "Excels in close-range gunfights.",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "infernal",
+        "item_type": "Flintlock Pistol",
+        "tier": 2,
+        "price": "3100",
+        "icon": "0002_devils_deck_sweeper-icon.webp",
         "hidden_tags": []
       }
     }

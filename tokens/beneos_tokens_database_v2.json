@@ -6094,7 +6094,7 @@
                                                                   "nb_variants":  1,
                                                                   "shortdesc":  "Opulence Devils revel in subverting mortal structures and corrupting them from within...",
                                                                   "faction":  [
-                                                                                  "Infernal Court"
+                                                                                  "Infernal Courts"
                                                                               ],
                                                                   "source":  "Patreon",
                                                                   "campaign":  [
@@ -14305,7 +14305,7 @@
                                                                         "videourl":  "https://youtu.be/0dpfdy2o34c",
                                                                         "nb_variants":  2,
                                                                         "shortdesc":  "Imprisons and impales.",
-                                                                        "faction":  "",
+                                                                        "faction":  "Awakened Objects",
                                                                         "source":  "Patreon",
                                                                         "campaign":  "Curse of Strahd",
                                                                         "hidden_tags":  ""
@@ -18753,7 +18753,7 @@
                                                               "nb_variants":  1,
                                                               "shortdesc":  "Versatile snake-themed assassins utilizing venomous blades, noxious gas, shapeshifting...",
                                                               "faction":  [
-                                                                              "Dys-Nashqa"
+                                                                              "Dys-Nashqa", "Artisans of Death"
                                                                           ],
                                                               "source":  "Patreon",
                                                               "campaign":  [
@@ -36074,7 +36074,7 @@
                                                                "nb_variants":  4,
                                                                "shortdesc":  "Tasked to charge, breach and defend a beachhead against overwhelming odds.",
                                                                "faction":  [
-                                                                               "Iron Fist"
+                                                                               "Iron Fists"
                                                                            ],
                                                                "source":  "Patreon",
                                                                "campaign":  [
