@@ -46096,6 +46096,246 @@
                                 "download_creator": "Beneos Battlemaps",
                                 "hidden_tags": []
                                 }
+                    },
+                    "105-01_ancient_statue_path_bright-4k_BM":{
+                        "name":"ancient statue path bright",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Forest","Otherworldly","Exteriour", "Feywild"],
+                        "brightness":"Medium",
+                        "grid":"48x27",
+                        "pack":"105_Ancient_Monument",
+                        "releaseurl":"WIP",
+                        "sibling":"105-01_ancient_statue_path_bright-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"105-01_ancient_statue_path_bright-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Ancient Monument - 105",
+                        "download_terms": "BM: ancient statue path bright",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "105-01_ancient_statue_path_bright-4k_Scen":{
+                                "name":"ancient statue path bright",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Forest","Otherworldly","Exteriour", "Feywild"],
+                                "brightness":"Medium",
+                                "grid":"48x27",
+                                "pack":"105_Ancient_Monument",
+                                "releaseurl":"WIP",
+                                "sibling":"105-01_ancient_statue_path_bright-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"105-01_ancient_statue_path_bright-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Ancient Monument - 105",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "105-02_ancient_statue_monument_bright-4k_BM":{
+                        "name":"ancient statue monument bright",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Forest","Otherworldly","Exteriour","Monument","Feywild"],
+                        "brightness":"Medium",
+                        "grid":"48x27",
+                        "pack":"105_Ancient_Monument",
+                        "releaseurl":"WIP",
+                        "sibling":"105-02_ancient_statue_monument_bright-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"105-02_ancient_statue_monument_bright-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Ancient Monument - 105",
+                        "download_terms": "BM: ancient statue monument bright",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "105-02_ancient_statue_monument_bright-4k_Scen":{
+                                "name":"ancient statue monument bright",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Forest","Otherworldly","Exteriour","Monument","Feywild"],
+                                "brightness":"Medium",
+                                "grid":"48x27",
+                                "pack":"105_Ancient_Monument",
+                                "releaseurl":"WIP",
+                                "sibling":"105-02_ancient_statue_monument_bright-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"105-02_ancient_statue_monument_bright-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Ancient Monument - 105",
+                                "download_terms": "SC: ancient statue monument bright",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "105-03_ancient_statue_fight_bright-4k_BM":{
+                        "name":"ancient statue fight bright",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Forest","Fog","Otherworldly","Exteriour", "Special","Monument","Monster"],
+                        "brightness":"Medium",
+                        "grid":"48x27",
+                        "pack":"105_Ancient_Monument",
+                        "releaseurl":"WIP",
+                        "sibling":"105-03_ancient_statue_fight_bright-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"105-03_ancient_statue_fight_bright-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Ancient Monument - 105",
+                        "download_terms": "BM: ancient statue fight bright",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "105-03_ancient_statue_fight_bright-4k_Scen":{
+                                "name":"ancient statue fight bright",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Forest","Fog","Otherworldly","Exteriour", "Special","Monument","Monster"],
+                                "brightness":"Medium",
+                                "grid":"48x27",
+                                "pack":"105_Ancient_Monument",
+                                "releaseurl":"WIP",
+                                "sibling":"105-03_ancient_statue_fight_bright-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"105-03_ancient_statue_fight_bright-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Ancient Monument - 105",
+                                "download_terms": "SC: ancient statue fight bright",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "105-04_ancient_statue_path_dark-4k_BM":{
+                        "name":"ancient statue path dark",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Forest","Otherworldly","Fog","Exteriour", "Feywild","Horror"],
+                        "brightness":"Dark",
+                        "grid":"48x27",
+                        "pack":"105_Ancient_Monument",
+                        "releaseurl":"WIP",
+                        "sibling":"105-04_ancient_statue_path_dark-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"105-04_ancient_statue_path_dark-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Ancient Monument - 105",
+                        "download_terms": "BM: ancient statue path dark",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "105-04_ancient_statue_path_dark-4k_Scen":{
+                                "name":"ancient statue path dark",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Forest","Otherworldly","Fog","Exteriour", "Feywild","Horror"],
+                                "brightness":"Dark",
+                                "grid":"48x27",
+                                "pack":"105_Ancient_Monument",
+                                "releaseurl":"WIP",
+                                "sibling":"105-04_ancient_statue_path_dark-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"105-04_ancient_statue_path_dark-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Ancient Monument - 105",
+                                "download_terms": "SC: ancient statue path dark",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "105-05_ancient_statue_monument_dark-4k_BM":{
+                        "name":"ancient statue monument dark",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Forest","Otherworldly","Fog","Exteriour", "Feywild","Monument","Horror"],
+                        "brightness":"Dark",
+                        "grid":"48x27",
+                        "pack":"105_Ancient_Monument",
+                        "releaseurl":"WIP",
+                        "sibling":"105-05_ancient_statue_monument_dark-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"105-05_ancient_statue_monument_dark-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Ancient Monument - 105",
+                        "download_terms": "BM: ancient statue monument dark",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "105-05_ancient_statue_monument_dark-4k_Scen":{
+                                "name":"ancient statue monument dark",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Forest","Otherworldly","Fog","Exteriour", "Feywild","Monument","Horror"],
+                                "brightness":"Dark",
+                                "grid":"48x27",
+                                "pack":"105_Ancient_Monument",
+                                "releaseurl":"WIP",
+                                "sibling":"105-05_ancient_statue_monument_dark-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"105-05_ancient_statue_monument_dark-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Ancient Monument - 105",
+                                "download_terms": "SC: ancient statue monument dark",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "105-06_ancient_statue_fight_dark-4k_BM":{
+                        "name":"ancient statue fight dark",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Forest","Fog","Otherworldly","Exteriour", "Special","Monument","Monster"],
+                        "brightness":"Dark",
+                        "grid":"48x27",
+                        "pack":"105_Ancient_Monument",
+                        "releaseurl":"WIP",
+                        "sibling":"105-06_ancient_statue_fight_dark-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"105-06_ancient_statue_fight_dark-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Ancient Monument - 105",
+                        "download_terms": "BM: ancient statue fight dark",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "105-06_ancient_statue_fight_dark-4k_Scen":{
+                                "name":"ancient statue fight dark",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Forest","Fog","Otherworldly","Exteriour", "Special","Monument","Monster"],
+                                "brightness":"Dark",
+                                "grid":"48x27",
+                                "pack":"105_Ancient_Monument",
+                                "releaseurl":"WIP",
+                                "sibling":"105-06_ancient_statue_fight_dark-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"105-06_ancient_statue_fight_dark-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Ancient Monument - 105",
+                                "download_terms": "SC: ancient statue fight dark",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
                             }
                         }
                     }
