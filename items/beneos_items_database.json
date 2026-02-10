@@ -20,14 +20,14 @@
     },
     "0003_shamblevault_coffin": {
       "key": "0003_shamblevault_coffin",
-      "description": "A coffin used to summon undead creatures and press them into service.",
       "name": "Shamblevault Coffin",
+      "description": "Summon undead creatures under your thrall.",
       "properties": {
         "rarity": "Rare",
         "attunement": true,
         "origin": "occult",
-        "item_type": "Trinket",
-        "tier": 2,
+        "item_type": "Adventuring Gear",
+        "tier": 1,
         "price": "3400",
         "icon": "0003_shamblevault_coffin-icon.webp",
         "hidden_tags": []
@@ -1916,6 +1916,126 @@
         "tier": 2,
         "price": "3100",
         "icon": "0002_devils_deck_sweeper-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_ancient_echo_of_origin": {
+      "key": "0000_ancient_echo_of_origin",
+      "name": "Ancient: Echo of Origin",
+      "description": "",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "ancient",
+        "item_type": "Shield",
+        "tier": 1,
+        "price": "1000",
+        "icon": "0000_ancient_echo_of_origin-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_arcane_echo_of_origin": {
+      "key": "0000_arcane_echo_of_origin",
+      "name": "Arcane: Echo of Origin",
+      "description": "",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "arcane",
+        "item_type": "Shield",
+        "tier": 1,
+        "price": "1000",
+        "icon": "0000_arcane_echo_of_origin-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_beastforged_echo_of_origin": {
+      "key": "0000_beastforged_echo_of_origin",
+      "name": "Beastforged: Echo of Origin",
+      "description": "",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "beastforged",
+        "item_type": "Shield",
+        "tier": 1,
+        "price": "1000",
+        "icon": "0000_beastforged_echo_of_origin-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_awoken_echo_of_origin_i": {
+      "key": "0000_awoken_echo_of_origin_i",
+      "name": "Awoken: Echo of Origin I",
+      "description": "",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "awoken",
+        "item_type": "Shield",
+        "tier": 1,
+        "price": "1000",
+        "icon": "0000_awoken_echo_of_origin_i-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_blessed_echo_of_origin": {
+      "key": "0000_blessed_echo_of_origin",
+      "name": "Blessed: Echo of Origin",
+      "description": "",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "blessed",
+        "item_type": "Shield",
+        "tier": 1,
+        "price": "1000",
+        "icon": "0000_blessed_echo_of_origin-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_crystalline_echo_of_origin": {
+      "key": "0000_crystalline_echo_of_origin",
+      "name": "Crystalline: Echo of Origin",
+      "description": "",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "crystalline",
+        "item_type": "Shield",
+        "tier": 1,
+        "price": "1000",
+        "icon": "0000_crystalline_echo_of_origin-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_dwarvenforged_echo_of_origin": {
+      "key": "0000_dwarvenforged_echo_of_origin",
+      "name": "Dwarven-Forged: Echo of Origin",
+      "description": "",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "dwarven_forged",
+        "item_type": "Shield",
+        "tier": 1,
+        "price": "1000",
+        "icon": "0000_dwarvenforged_echo_of_origin-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_feywoven_echo_of_origin": {
+      "key": "0000_feywoven_echo_of_origin",
+      "name": "Feywoven: Echo of Origin",
+      "description": "",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "feywoven",
+        "item_type": "Shield",
+        "tier": 1,
+        "price": "1000",
+        "icon": "0000_feywoven_echo_of_origin-icon.webp",
         "hidden_tags": []
       }
     }
