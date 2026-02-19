@@ -1925,9 +1925,9 @@
       "description": "",
       "properties": {
         "rarity": "Rare",
-        "attunement": true,
+        "attunement": false,
         "origin": "ancient",
-        "item_type": "Shield",
+        "item_type": "",
         "tier": 1,
         "price": "1000",
         "icon": "0000_ancient_echo_of_origin-icon.webp",
@@ -1955,9 +1955,9 @@
       "description": "",
       "properties": {
         "rarity": "Rare",
-        "attunement": true,
+        "attunement": false,
         "origin": "beastforged",
-        "item_type": "Shield",
+        "item_type": "",
         "tier": 1,
         "price": "1000",
         "icon": "0000_beastforged_echo_of_origin-icon.webp",
@@ -1970,9 +1970,9 @@
       "description": "",
       "properties": {
         "rarity": "Rare",
-        "attunement": true,
+        "attunement": false,
         "origin": "awoken",
-        "item_type": "Shield",
+        "item_type": "",
         "tier": 1,
         "price": "1000",
         "icon": "0000_awoken_echo_of_origin_i-icon.webp",
@@ -1987,7 +1987,7 @@
         "rarity": "Rare",
         "attunement": true,
         "origin": "blessed",
-        "item_type": "Shield",
+        "item_type": "",
         "tier": 1,
         "price": "1000",
         "icon": "0000_blessed_echo_of_origin-icon.webp",
@@ -2000,9 +2000,9 @@
       "description": "",
       "properties": {
         "rarity": "Rare",
-        "attunement": true,
+        "attunement": false,
         "origin": "crystalline",
-        "item_type": "Shield",
+        "item_type": "",
         "tier": 1,
         "price": "1000",
         "icon": "0000_crystalline_echo_of_origin-icon.webp",
@@ -2011,13 +2011,13 @@
     },
     "0000_dwarvenforged_echo_of_origin": {
       "key": "0000_dwarvenforged_echo_of_origin",
-      "name": "Dwarven-Forged: Echo of Origin",
+      "name": "Dwarvenforged: Echo of Origin",
       "description": "",
       "properties": {
         "rarity": "Rare",
-        "attunement": true,
+        "attunement": false,
         "origin": "dwarven_forged",
-        "item_type": "Shield",
+        "item_type": "",
         "tier": 1,
         "price": "1000",
         "icon": "0000_dwarvenforged_echo_of_origin-icon.webp",
@@ -2030,12 +2030,957 @@
       "description": "",
       "properties": {
         "rarity": "Rare",
-        "attunement": true,
+        "attunement": false,
         "origin": "feywoven",
-        "item_type": "Shield",
+        "item_type": "",
         "tier": 1,
         "price": "1000",
         "icon": "0000_feywoven_echo_of_origin-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_beastforged_shield": {
+      "key": "0000_beastforged_shield",
+      "name": "Beastforged Shield",
+      "description": "",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "beastforged",
+        "item_type": "Shield",
+        "tier": 1,
+        "price": "1000",
+        "icon": "0000_beastforged_shield-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_crystalline_shield": {
+      "key": "0000_crystalline_shield",
+      "name": "Crystalline Shield",
+      "description": "",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "crystalline",
+        "item_type": "Shield",
+        "tier": 1,
+        "price": "1000",
+        "icon": "0000_crystalline_shield-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_druidic_shield": {
+      "key": "0000_druidic_shield",
+      "name": "Druidic Shield",
+      "description": "",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "druidic",
+        "item_type": "Shield",
+        "tier": 1,
+        "price": "1000",
+        "icon": "0000_druidic_shield-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_dwarvenforged_shield": {
+      "key": "0000_dwarvenforged_shield",
+      "name": "Dwarvenforged Shield",
+      "description": "",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "dwarven_forged",
+        "item_type": "Shield",
+        "tier": 1,
+        "price": "1000",
+        "icon": "0000_dwarvenforged_shield-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_giantforged_echo_of_origin": {
+      "key": "0000_giantforged_echo_of_origin",
+      "name": "Giantforged: Echo of Origin",
+      "description": "",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": false,
+        "origin": "giant_forged",
+        "item_type": "",
+        "tier": 1,
+        "price": "1000",
+        "icon": "0000_giantforged_echo_of_origin-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_infernal_echo_of_origin": {
+      "key": "0000_infernal_echo_of_origin",
+      "name": "Infernal: Echo of Origin",
+      "description": "",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": false,
+        "origin": "infernal",
+        "item_type": "",
+        "tier": 1,
+        "price": "1000",
+        "icon": "0000_infernal_echo_of_origin-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_mutation_echo_of_origin": {
+      "key": "0000_mutation_echo_of_origin",
+      "name": "Mutation: Echo of Origin",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "mutation",
+        "item_type": "",
+        "tier": 1,
+        "price": "1000",
+        "icon": "0000_mutation_echo_of_origin-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_occult_echo_of_origin": {
+      "key": "0000_occult_echo_of_origin",
+      "name": "Occult: Echo of Origin",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "occult",
+        "item_type": "",
+        "tier": 1,
+        "price": "1000",
+        "icon": "0000_occult_echo_of_origin-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_primordial_echo_of_origin": {
+      "key": "0000_primordial_echo_of_origin",
+      "name": "Primordial: Echo of Origin",
+      "description": "",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": false,
+        "origin": "primordial",
+        "item_type": "",
+        "tier": 1,
+        "price": "1000",
+        "icon": "0000_primordial_echo_of_origin-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_relic_echo_of_origin": {
+      "key": "0000_relic_echo_of_origin",
+      "name": "Relic: Echo of Origin",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "relic",
+        "item_type": "",
+        "tier": 1,
+        "price": "1221",
+        "icon": "0000_relic_echo_of_origin-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_sanctified_echo_of_origin": {
+      "key": "0000_sanctified_echo_of_origin",
+      "name": "Sanctified: Echo of Origin",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "sanctified",
+        "item_type": "",
+        "tier": 1,
+        "price": "111",
+        "icon": "0000_sanctified_echo_of_origin-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_technoarcane_echo_of_origin": {
+      "key": "0000_technoarcane_echo_of_origin",
+      "name": "Techno-Arcane: Echo of Origin",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "techno_arcane",
+        "item_type": "",
+        "tier": 1,
+        "price": "1111",
+        "icon": "0000_technoarcane_echo_of_origin-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_vampiric_echo_of_origin": {
+      "key": "0000_vampiric_echo_of_origin",
+      "name": "Vampiric: Echo of Origin",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "vampiric",
+        "item_type": "",
+        "tier": 1,
+        "price": "1111",
+        "icon": "0000_vampiric_echo_of_origin-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_elemental_echo_of_origin": {
+      "key": "0000_elemental_echo_of_origin",
+      "name": "Elemental: Echo of Origin",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "elemental",
+        "item_type": "",
+        "tier": 1,
+        "price": "1221",
+        "icon": "0000_elemental_echo_of_origin-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_elemental_resonance": {
+      "key": "0000_elemental_resonance",
+      "name": "Elemental: Resonance",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "elemental",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_elemental_resonance-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_elemental_perfect_harmony": {
+      "key": "0000_elemental_perfect_harmony",
+      "name": "Elemental: Perfect Harmony",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "elemental",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_elemental_perfect_harmony-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_ancient_perfect_harmony": {
+      "key": "0000_ancient_perfect_harmony",
+      "name": "Ancient: Perfect Harmony",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "ancient",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_ancient_perfect_harmony-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_ancient_resonance": {
+      "key": "0000_ancient_resonance",
+      "name": "Ancient: Resonance",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "ancient",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_ancient_resonance-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_awoken_echo_of_origin": {
+      "key": "0000_awoken_echo_of_origin",
+      "name": "Awoken: Echo of Origin",
+      "description": "",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": false,
+        "origin": "awoken",
+        "item_type": "",
+        "tier": 1,
+        "price": "1000",
+        "icon": "0000_awoken_echo_of_origin-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_awoken_resonance_i": {
+      "key": "0000_awoken_resonance_i",
+      "name": "Awoken: Resonance I",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "awoken",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_awoken_resonance_i-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_awoken_resonance_ii": {
+      "key": "0000_awoken_resonance_ii",
+      "name": "Awoken: Resonance II",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "awoken",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_awoken_resonance_ii-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_awoken_perfect_harmony": {
+      "key": "0000_awoken_perfect_harmony",
+      "name": "Awoken: Perfect Harmony",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "awoken",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_awoken_perfect_harmony-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_beastforged_resonance": {
+      "key": "0000_beastforged_resonance",
+      "name": "Beast-forged: Resonance",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "beastforged",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_beastforged_resonance-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_beastforged_perfect_harmony": {
+      "key": "0000_beastforged_perfect_harmony",
+      "name": "Beastforged: Perfect Harmony",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "beastforged",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_beastforged_perfect_harmony-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_blessed_resonance": {
+      "key": "0000_blessed_resonance",
+      "name": "Blessed: Resonance",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "blessed",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_blessed_resonance-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_blessed_perfect_harmony": {
+      "key": "0000_blessed_perfect_harmony",
+      "name": "Blessed: Perfect Harmony",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "blessed",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_blessed_perfect_harmony-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_crystalline_resonance": {
+      "key": "0000_crystalline_resonance",
+      "name": "Crystalline: Resonance",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "crystalline",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_crystalline_resonance-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_crystalline_perfect_harmony": {
+      "key": "0000_crystalline_perfect_harmony",
+      "name": "Crystalline: Perfect Harmony",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "crystalline",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_crystalline_perfect_harmony-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_druidic_echo_of_origin": {
+      "key": "0000_druidic_echo_of_origin",
+      "name": "Druidic: Echo of Origin",
+      "description": "",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": false,
+        "origin": "druidic",
+        "item_type": "",
+        "tier": 1,
+        "price": "1000",
+        "icon": "0000_druidic_echo_of_origin-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_druidic_resonance": {
+      "key": "0000_druidic_resonance",
+      "name": "Druidic: Resonance",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "druidic",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_druidic_resonance-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_druidic_perfect_harmony": {
+      "key": "0000_druidic_perfect_harmony",
+      "name": "Druidic: Perfect Harmony",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "druidic",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_druidic_perfect_harmony-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_dwarvenforged_resonance": {
+      "key": "0000_dwarvenforged_resonance",
+      "name": "Dwarven-Forged: Resonance",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "dwarven_forged",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_dwarvenforged_resonance-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_dwarvenforged_perfect_harmony": {
+      "key": "0000_dwarvenforged_perfect_harmony",
+      "name": "Dwarven-Forged: Perfect Harmony",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "dwarven_forged",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_dwarvenforged_perfect_harmony-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_feywoven_resonance": {
+      "key": "0000_feywoven_resonance",
+      "name": "Feywoven: Resonance",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "feywoven",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_feywoven_resonance-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_feywoven_perfect_harmony": {
+      "key": "0000_feywoven_perfect_harmony",
+      "name": "Feywoven: Perfect Harmony",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "feywoven",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_feywoven_perfect_harmony-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_feywoven_ritual_of_ascension": {
+      "key": "0000_feywoven_ritual_of_ascension",
+      "name": "Feywoven: Ritual of Ascension",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "feywoven",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_feywoven_ritual_of_ascension-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_giantforged_resonance": {
+      "key": "0000_giantforged_resonance",
+      "name": "Giant-Forged: Resonance",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "giant_forged",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_giantforged_resonance-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_giantforged_perfect_harmony": {
+      "key": "0000_giantforged_perfect_harmony",
+      "name": "Giant-Forged: Perfect Harmony",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "giant_forged",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_giantforged_perfect_harmony-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_infernal_resonance": {
+      "key": "0000_infernal_resonance",
+      "name": "Infernal: Resonance",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "infernal",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_infernal_resonance-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_infernal_perfect_harmony": {
+      "key": "0000_infernal_perfect_harmony",
+      "name": "Infernal: Perfect Harmony",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "infernal",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_infernal_perfect_harmony-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_infernal_ritual_of_ascension": {
+      "key": "0000_infernal_ritual_of_ascension",
+      "name": "Infernal: Ritual of Ascension",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "infernal",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_infernal_ritual_of_ascension-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_mutation_resonance": {
+      "key": "0000_mutation_resonance",
+      "name": "Mutation: Resonance",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "mutation",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_mutation_resonance-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_mutation_surge_table_i": {
+      "key": "0000_mutation_surge_table_i",
+      "name": "Mutation Surge Table I",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "mutation",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_mutation_surge_table_i-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_mutation_surge_table_ii": {
+      "key": "0000_mutation_surge_table_ii",
+      "name": "Mutation Surge Table II",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "mutation",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_mutation_surge_table_ii-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_occult_dark_bond": {
+      "key": "0000_occult_dark_bond",
+      "name": "Occult: Dark Bond",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "occult",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_occult_dark_bond-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_occult_resonance": {
+      "key": "0000_occult_resonance",
+      "name": "Occult: Resonance",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "occult",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_occult_resonance-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_occult_perfect_harmony": {
+      "key": "0000_occult_perfect_harmony",
+      "name": "Occult: Perfect Harmony",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "occult",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_occult_perfect_harmony-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_occult_ritual_of_ascension": {
+      "key": "0000_occult_ritual_of_ascension",
+      "name": "Occult: Ritual of Ascension",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "occult",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_occult_ritual_of_ascension-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_primordial_perfect_harmony": {
+      "key": "0000_primordial_perfect_harmony",
+      "name": "Primordial: Perfect Harmony",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "primordial",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_primordial_perfect_harmony-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_primordial_resonance": {
+      "key": "0000_primordial_resonance",
+      "name": "Primordial: Resonance",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "primordial",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_primordial_resonance-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_relic_resonance": {
+      "key": "0000_relic_resonance",
+      "name": "Relic: Resonance",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "relic",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_relic_resonance-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_relic_perfect_harmony": {
+      "key": "0000_relic_perfect_harmony",
+      "name": "Relic: Perfect Harmony",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "relic",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_relic_perfect_harmony-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_sanctified_resonance": {
+      "key": "0000_sanctified_resonance",
+      "name": "Sanctified: Resonance",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "sanctified",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_sanctified_resonance-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_sanctified_perfect_harmony": {
+      "key": "0000_sanctified_perfect_harmony",
+      "name": "Sanctified: Perfect Harmony",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "sanctified",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_sanctified_perfect_harmony-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_technoarcane_resonance": {
+      "key": "0000_technoarcane_resonance",
+      "name": "Techno-Arcane: Resonance",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "techno_arcane",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_technoarcane_resonance-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_technoarcane_perfect_harmony": {
+      "key": "0000_technoarcane_perfect_harmony",
+      "name": "Techno-Arcane: Perfect Harmony",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "techno_arcane",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_technoarcane_perfect_harmony-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_vampiric_resonance": {
+      "key": "0000_vampiric_resonance",
+      "name": "Vampiric: Resonance",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "vampiric",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_vampiric_resonance-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_vampiric_sanguine_rites": {
+      "key": "0000_vampiric_sanguine_rites",
+      "name": "Vampiric Sanguine Rites",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "vampiric",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_vampiric_sanguine_rites-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_vampiric_ritual_of_ascension": {
+      "key": "0000_vampiric_ritual_of_ascension",
+      "name": "Vampiric: Ritual of Ascension",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "vampiric",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_vampiric_ritual_of_ascension-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_item_origins_rules_i": {
+      "key": "0000_item_origins_rules_i",
+      "name": "Item Origins: Rules I",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "ancient",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_item_origins_rules_i-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_item_origins_rules_keywords": {
+      "key": "0000_item_origins_rules_keywords",
+      "name": "Item Origins: Rules Keywords",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "ancient",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_item_origins_rules_keywords-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_item_origins_rules_sensing_items": {
+      "key": "0000_item_origins_rules_sensing_items",
+      "name": "Item Origins Rules: Sensing Items",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "ancient",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_item_origins_rules_sensing_items-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_item_origins_rules_ritual_of_ascension": {
+      "key": "0000_item_origins_rules_ritual_of_ascension",
+      "name": "Item Origins Rules: Ritual of Ascension",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "ancient",
+        "item_type": "",
+        "tier": 1,
+        "price": "0",
+        "icon": "0000_item_origins_rules_ritual_of_ascension-icon.webp",
         "hidden_tags": []
       }
     }
