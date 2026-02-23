@@ -1610,7 +1610,7 @@
                 "campaign": [
                     
                 ],
-                "hidden_tags": [
+                "hidden_tags": ["nightmare"
                     
                 ]
             }
@@ -1658,7 +1658,7 @@
                 "campaign": [
                     
                 ],
-                "hidden_tags": [
+                "hidden_tags": ["ghost", "nightmare"
                     
                 ]
             }
@@ -29489,7 +29489,7 @@
                 "campaign": [
                     
                 ],
-                "hidden_tags": [
+                "hidden_tags": ["nightmare"
                     
                 ]
             }

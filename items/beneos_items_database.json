@@ -1866,7 +1866,7 @@
       "properties": {
         "rarity": "Uncommon",
         "attunement": true,
-        "origin": "dwarven_forged",
+        "origin": "dwarvenforged",
         "item_type": "Light Armor +1",
         "tier": 1,
         "price": "2200",
@@ -1902,7 +1902,6 @@
         "price": "33600",
         "icon": "0118_thornbloom_bow-icon.webp",
         "hidden_tags": []
-
       }
     },
     "0125_rain_dancer": {
