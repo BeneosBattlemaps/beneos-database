@@ -3212,6 +3212,96 @@
         "icon": "0114_blunten_the_edge-icon.webp",
         "hidden_tags": []
       }
+    },
+    "0115_background_music": {
+      "key": "0115_background_music",
+      "description": "",
+      "name": "Background Music",
+      "properties": {
+        "level": "4",
+        "school": "Enchantment",
+        "casting_time": "Reaction",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Buff",
+        "classes": [
+          "Bard"
+        ],
+        "components": [],
+        "icon": "0115_background_music-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0116_skinsquirmers": {
+      "key": "0116_skinsquirmers",
+      "description": "",
+      "name": "Skinsquirmers",
+      "properties": {
+        "level": "2",
+        "school": "Enchantment",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "Debuff",
+        "classes": [
+          "Bard",
+          "Cleric",
+          "Druid",
+          "Sorcerer",
+          "Warlock",
+          "Wizard"
+        ],
+        "components": [],
+        "icon": "0116_skinsquirmers-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0117_neurotentacle_grasp": {
+      "key": "0117_neurotentacle_grasp",
+      "description": "",
+      "name": "Neurotentacle Grasp",
+      "properties": {
+        "level": "5",
+        "school": "Transmutation",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Melee Damage",
+        "classes": [
+          "Druid",
+          "Sorcerer",
+          "Warlock",
+          "Wizard"
+        ],
+        "components": [],
+        "icon": "0117_neurotentacle_grasp-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0118_deserts_due": {
+      "key": "0118_deserts_due",
+      "description": "Deals damage to raise Mummies.",
+      "name": "Desert's Due",
+      "properties": {
+        "level": "7",
+        "school": "Necromancy",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "Area Damage",
+        "classes": [
+          "Cleric",
+          "Sorcerer",
+          "Wizard"
+        ],
+        "components": [
+          "V",
+          "S",
+          "M"
+        ],
+        "icon": "0118_deserts_due-icon.webp",
+        "hidden_tags": []
+      }
     }
   }
 }

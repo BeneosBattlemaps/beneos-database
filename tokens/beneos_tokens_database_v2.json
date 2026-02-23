@@ -36344,7 +36344,7 @@
             }
         },
         "228-greater_earth_elemental": {
-            "description": "elementals are splinters of those immense manifestations of primordial power whose mere existence tore open the veil between planes and claimed a domain of their own, so that the young world could breathe at all. from these primal forces, elemental manifestations are born, and so are earth elementals. the categories between lesser and greater elementals are distinctions that are often hardly possible to draw in any truly reliable way, due to the underlying alienness of their nature. still, one can say that greater elementals show a closer, purer connection to their primordial source matter, command more powerful abilities, and pose a greater danger to those who find themselves confronted by them.",
+            "description": "Elementals are splinters of those immense manifestations of primordial power whose mere existence tore open the veil between planes and claimed a domain of their own, so that the young world could breathe at all. from these primal forces, elemental manifestations are born, and so are earth elementals. the categories between lesser and greater elementals are distinctions that are often hardly possible to draw in any truly reliable way, due to the underlying alienness of their nature. still, one can say that greater elementals show a closer, purer connection to their primordial source matter, command more powerful abilities, and pose a greater danger to those who find themselves confronted by them.",
             "name": "Greater Earth Elemental",
             "properties": {
                 "biom": [
@@ -36385,6 +36385,46 @@
                 "source": "Patreon",
                 "campaign": "Princes of the Apocalypse",
                 "hidden_tags": ""
+            }
+        },
+        "229-gravegrasper": {
+            "description": "Gravegraspers emerge in overcrowded graveyards and hastily dug mass graves, where the ground is so saturated by the presence of the dead or already-undead that it grows together into tangled knots. within them, a certain frustration toward the living has taken root. most of the time, they are barely able to free themselves from the earth; most of it is just grave-pallid arms or half-rotten heads sprouting from the grave dirt like ghastly fungi. as they are completely immobile, their only real danger comes from suddenly bursting forth and seizing the unwary, dragging them beneath the ground, where the unfortunate victims die from being buried alive and often become part of the knot, their own arms soon shooting forth to do the same to someone else.",
+            "name": "Gravegrasper",
+            "properties": {
+                "biom": [
+                    "grave",
+                    "wilderness",
+                    "road",
+                    "dungeon",
+                    "ruin",
+                    "horror"
+                ],
+                "cr": "2",
+                "fightingstyle": "ambush",
+                "movement": "burrow",
+                "purpose": [
+                    "shock",
+                    "debuff"
+                ],
+                "releaseurl": "https://www.patreon.com/posts/150985233",
+                "size": "large",
+                "stat_ac": 93,
+                "stat_cha": 94,
+                "stat_con": 95,
+                "stat_dex": 96,
+                "stat_hp": 97,
+                "stat_int": 96,
+                "stat_str": 98,
+                "stat_wis": 99,
+                "thumbnail": "229_gravegrasper-1-db.webp",
+                "type": ["undead"],
+                "videourl": "https://youtu.be/urghdr9gnpu",
+                "nb_variants": 3,
+                "shortdesc": "Grasps from below to bury alive.",
+                "faction": "",
+                "source": "Patreon",
+                "campaign": "Curse of Strahd",
+                "hidden_tags": "[zombie,ghoul,undead]"
             }
         }
     }
