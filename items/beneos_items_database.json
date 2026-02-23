@@ -393,18 +393,18 @@
         "hidden_tags": []
       }
     },
-    "0002_devils_decksweeper": {
-      "key": "0002_devils_decksweeper",
-      "description": "An overgrown pistol cursed by a devil of the sea",
-      "name": "Devils Decksweeper",
+    "0002_devils_deck_sweeper": {
+      "key": "0002_devils_deck_sweeper",
+      "name": "Devil's Deck Sweeper",
+      "description": "Excels in close-range gunfights.",
       "properties": {
         "rarity": "Rare",
         "attunement": true,
-        "origin": "occult",
-        "item_type": "Range Weapon",
+        "origin": "infernal",
+        "item_type": "Flintlock Pistol",
         "tier": 2,
-        "price": "2400",
-        "icon": "0002_devils_decksweeper-icon.webp",
+        "price": "3100",
+        "icon": "0002_devils_deck_sweeper-icon.webp",
         "hidden_tags": []
       }
     },
@@ -1902,21 +1902,7 @@
         "price": "33600",
         "icon": "0118_thornbloom_bow-icon.webp",
         "hidden_tags": []
-      }
-    },
-    "0002_devils_deck_sweeper": {
-      "key": "0002_devils_deck_sweeper",
-      "name": "Devil's Deck Sweeper",
-      "description": "Excels in close-range gunfights.",
-      "properties": {
-        "rarity": "Rare",
-        "attunement": true,
-        "origin": "infernal",
-        "item_type": "Flintlock Pistol",
-        "tier": 2,
-        "price": "3100",
-        "icon": "0002_devils_deck_sweeper-icon.webp",
-        "hidden_tags": []
+
       }
     },
     "0125_rain_dancer": {
