@@ -46336,6 +46336,286 @@
                                 "download_creator": "Beneos Battlemaps",
                                 "hidden_tags": []
                                 }
+                            },
+                    "106-01_hellwasp_nest_ground-4k_BM":{
+                        "name":"hellwasp nest ground",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Hell","Otherworldly","Barren", "Organic","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"106_Hellwasp_Nest",
+                        "releaseurl":"WIP",
+                        "sibling":"106-01_hellwasp_nest_ground-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"106-01_hellwasp_nest_ground-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA - 03 Hellwasp Nest - 106",
+                        "download_terms": "BM: hellwasp nest ground",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "106-01_hellwasp_nest_ground-4k_Scen":{
+                                "name":"hellwasp nest ground",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Hell","Otherworldly","Barren", "Organic","Exteriour"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"106_Hellwasp_Nest",
+                                "releaseurl":"WIP",
+                                "sibling":"106-01_hellwasp_nest_ground-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"106-01_hellwasp_nest_ground-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA - 03 Hellwasp Nest - 106",
+                                "download_terms": "SC: hellwasp nest ground",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "106-02_hellwasp_nest_chain-4k_BM":{
+                        "name":"hellwasp nest chain",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Hell","Otherworldly","Horror", "Organic", "High Altitude","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"25x16",
+                        "pack":"106_Hellwasp_Nest",
+                        "releaseurl":"WIP",
+                        "sibling":"106-02_hellwasp_nest_chain-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"106-02_hellwasp_nest_chain-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA - 03 Hellwasp Nest - 106",
+                        "download_terms": "BM: hellwasp nest chain",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "106-02_hellwasp_nest_chain-4k_Scen":{
+                                "name":"hellwasp nest chain",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Hell","Otherworldly","Horror", "Organic", "High Altitude","Exteriour"],
+                                "brightness":"Medium",
+                                "grid":"25x16",
+                                "pack":"106_Hellwasp_Nest",
+                                "releaseurl":"WIP",
+                                "sibling":"106-02_hellwasp_nest_chain-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"106-02_hellwasp_nest_chain-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA - 03 Hellwasp Nest - 106",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "106-03_hellwasp_nest_level_1-4k_BM":{
+                        "name":"hellwasp nest level 1",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Hell","Horror","Nightmare", "Organic","Interiour","Lair"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"106_Hellwasp_Nest",
+                        "releaseurl":"WIP",
+                        "sibling":"106-03_hellwasp_nest_level_1-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"106-03_hellwasp_nest_level_1-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA - 03 Hellwasp Nest - 106",
+                        "download_terms": "BM: hellwasp nest level 1",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "106-03_hellwasp_nest_level_1-4k_Scen":{
+                                "name":"hellwasp nest level 1",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Hell","Horror","Nightmare", "Organic","Interiour","Lair"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"106_Hellwasp_Nest",
+                                "releaseurl":"WIP",
+                                "sibling":"106-03_hellwasp_nest_level_1-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"106-03_hellwasp_nest_level_1-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA - 03 Hellwasp Nest - 106",
+                                "download_terms": "SC: hellwasp nest level 1",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "106-04_hellwasp_nest_level_2-4k_BM":{
+                        "name":"hellwasp nest level 2",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Hell","Horror","Nightmare", "Organic","Interiour","Lair"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"106_Hellwasp_Nest",
+                        "releaseurl":"WIP",
+                        "sibling":"106-04_hellwasp_nest_level_2-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"106-04_hellwasp_nest_level_2-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA - 03 Hellwasp Nest - 106",
+                        "download_terms": "BM: hellwasp nest level 2",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "106-04_hellwasp_nest_level_2-4k_Scen":{
+                                "name":"hellwasp nest level 2",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Hell","Horror","Nightmare", "Organic","Interiour","Lair"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"106_Hellwasp_Nest",
+                                "releaseurl":"WIP",
+                                "sibling":"106-04_hellwasp_nest_level_2-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"106-04_hellwasp_nest_level_2-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA - 03 Hellwasp Nest - 106",
+                                "download_terms": "SC: hellwasp nest level 2",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "106-05_hellwasp_nest_level_3-4k_BM":{
+                        "name":"hellwasp nest level 3",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Hell","Horror","Nightmare", "Organic","Interiour","Lair"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"106_Hellwasp_Nest",
+                        "releaseurl":"WIP",
+                        "sibling":"106-05_hellwasp_nest_level_3-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"106-05_hellwasp_nest_level_3-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA - 03 Hellwasp Nest - 106",
+                        "download_terms": "BM: hellwasp nest level 3",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "106-05_hellwasp_nest_level_3-4k_Scen":{
+                                "name":"hellwasp nest level 3",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Hell","Horror","Nightmare", "Organic","Interiour","Lair"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"106_Hellwasp_Nest",
+                                "releaseurl":"WIP",
+                                "sibling":"106-05_hellwasp_nest_level_3-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"106-05_hellwasp_nest_level_3-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA - 03 Hellwasp Nest - 106",
+                                "download_terms": "SC: hellwasp nest level 3",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "106-06_hellwasp_nest_level_4_Nest-4k_BM":{
+                        "name":"hellwasp nest level 4 Nest",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Hell","Horror","Nightmare", "Organic","Interiour","Lair"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"106_Hellwasp_Nest",
+                        "releaseurl":"WIP",
+                        "sibling":"106-06_hellwasp_nest_level_4_Nest-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"106-06_hellwasp_nest_level_4_Nest-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA - 03 Hellwasp Nest - 106",
+                        "download_terms": "BM: hellwasp nest level 4 Nest",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "106-06_hellwasp_nest_level_4_Nest-4k_Scen":{
+                                "name":"hellwasp nest level 4 Nest",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Hell","Horror","Nightmare", "Organic","Interiour","Lair"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"106_Hellwasp_Nest",
+                                "releaseurl":"WIP",
+                                "sibling":"106-06_hellwasp_nest_level_4_Nest-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"106-06_hellwasp_nest_level_4_Nest-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA - 03 Hellwasp Nest - 106",
+                                "download_terms": "SC: hellwasp nest level 4 Nest",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "106-07_hellwasp_nest_top-4k_BM":{
+                        "name":"hellwasp nest top",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Hell","Otherworldly","Horror", "Organic", "High Altitude","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"35x30",
+                        "pack":"106_Hellwasp_Nest",
+                        "releaseurl":"WIP",
+                        "sibling":"106-07_hellwasp_nest_top-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"106-07_hellwasp_nest_top-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "DiA - 03 Hellwasp Nest - 106",
+                        "download_terms": "BM: hellwasp nest top",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "106-07_hellwasp_nest_top-4k_Scen":{
+                                "name":"hellwasp nest top",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Hell","Otherworldly","Horror", "Organic", "High Altitude","Exteriour"],
+                                "brightness":"Medium",
+                                "grid":"35x30",
+                                "pack":"106_Hellwasp_Nest",
+                                "releaseurl":"WIP",
+                                "sibling":"106-07_hellwasp_nest_top-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"106-07_hellwasp_nest_top-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "DiA - 03 Hellwasp Nest - 106",
+                                "download_terms": "SC: hellwasp nest top",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
                             }
                         }
                     }
