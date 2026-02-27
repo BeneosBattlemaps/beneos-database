@@ -46341,7 +46341,7 @@
                         "name":"hellwasp nest ground",
                         "description":"",
                         "properties":{
-                        "adventure":["None"],
+                        "adventure":["Descent into Avernus"],
                         "biom":["Hell","Otherworldly","Barren", "Organic","Exteriour"],
                         "brightness":"Medium",
                         "grid":"32x18",
@@ -46361,7 +46361,7 @@
                                 "name":"hellwasp nest ground",
                                 "description":"",
                                 "properties":{
-                                "adventure":["None"],
+                                "adventure":["Descent into Avernus"],
                                 "biom":["Hell","Otherworldly","Barren", "Organic","Exteriour"],
                                 "brightness":"Medium",
                                 "grid":"32x18",
@@ -46381,7 +46381,7 @@
                         "name":"hellwasp nest chain",
                         "description":"",
                         "properties":{
-                        "adventure":["None"],
+                        "adventure":["Descent into Avernus"],
                         "biom":["Hell","Otherworldly","Horror", "Organic", "High Altitude","Exteriour"],
                         "brightness":"Medium",
                         "grid":"25x16",
@@ -46401,7 +46401,7 @@
                                 "name":"hellwasp nest chain",
                                 "description":"",
                                 "properties":{
-                                "adventure":["None"],
+                                "adventure":["Descent into Avernus"],
                                 "biom":["Hell","Otherworldly","Horror", "Organic", "High Altitude","Exteriour"],
                                 "brightness":"Medium",
                                 "grid":"25x16",
@@ -46421,7 +46421,7 @@
                         "name":"hellwasp nest level 1",
                         "description":"",
                         "properties":{
-                        "adventure":["None"],
+                        "adventure":["Descent into Avernus"],
                         "biom":["Hell","Horror","Nightmare", "Organic","Interiour","Lair"],
                         "brightness":"Medium",
                         "grid":"32x18",
@@ -46441,7 +46441,7 @@
                                 "name":"hellwasp nest level 1",
                                 "description":"",
                                 "properties":{
-                                "adventure":["None"],
+                                "adventure":["Descent into Avernus"],
                                 "biom":["Hell","Horror","Nightmare", "Organic","Interiour","Lair"],
                                 "brightness":"Medium",
                                 "grid":"32x18",
@@ -46461,7 +46461,7 @@
                         "name":"hellwasp nest level 2",
                         "description":"",
                         "properties":{
-                        "adventure":["None"],
+                        "adventure":["Descent into Avernus"],
                         "biom":["Hell","Horror","Nightmare", "Organic","Interiour","Lair"],
                         "brightness":"Medium",
                         "grid":"32x18",
@@ -46481,7 +46481,7 @@
                                 "name":"hellwasp nest level 2",
                                 "description":"",
                                 "properties":{
-                                "adventure":["None"],
+                                "adventure":["Descent into Avernus"],
                                 "biom":["Hell","Horror","Nightmare", "Organic","Interiour","Lair"],
                                 "brightness":"Medium",
                                 "grid":"32x18",
@@ -46501,7 +46501,7 @@
                         "name":"hellwasp nest level 3",
                         "description":"",
                         "properties":{
-                        "adventure":["None"],
+                        "adventure":["Descent into Avernus"],
                         "biom":["Hell","Horror","Nightmare", "Organic","Interiour","Lair"],
                         "brightness":"Medium",
                         "grid":"32x18",
@@ -46521,7 +46521,7 @@
                                 "name":"hellwasp nest level 3",
                                 "description":"",
                                 "properties":{
-                                "adventure":["None"],
+                                "adventure":["Descent into Avernus"],
                                 "biom":["Hell","Horror","Nightmare", "Organic","Interiour","Lair"],
                                 "brightness":"Medium",
                                 "grid":"32x18",
@@ -46541,7 +46541,7 @@
                         "name":"hellwasp nest level 4 Nest",
                         "description":"",
                         "properties":{
-                        "adventure":["None"],
+                        "adventure":["Descent into Avernus"],
                         "biom":["Hell","Horror","Nightmare", "Organic","Interiour","Lair"],
                         "brightness":"Medium",
                         "grid":"32x18",
@@ -46561,7 +46561,7 @@
                                 "name":"hellwasp nest level 4 Nest",
                                 "description":"",
                                 "properties":{
-                                "adventure":["None"],
+                                "adventure":["Descent into Avernus"],
                                 "biom":["Hell","Horror","Nightmare", "Organic","Interiour","Lair"],
                                 "brightness":"Medium",
                                 "grid":"32x18",
@@ -46581,7 +46581,7 @@
                         "name":"hellwasp nest top",
                         "description":"",
                         "properties":{
-                        "adventure":["None"],
+                        "adventure":["Descent into Avernus"],
                         "biom":["Hell","Otherworldly","Horror", "Organic", "High Altitude","Exteriour"],
                         "brightness":"Medium",
                         "grid":"35x30",
@@ -46601,7 +46601,7 @@
                                 "name":"hellwasp nest top",
                                 "description":"",
                                 "properties":{
-                                "adventure":["None"],
+                                "adventure":["Descent into Avernus"],
                                 "biom":["Hell","Otherworldly","Horror", "Organic", "High Altitude","Exteriour"],
                                 "brightness":"Medium",
                                 "grid":"35x30",
