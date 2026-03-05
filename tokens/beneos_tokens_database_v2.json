@@ -2393,7 +2393,9 @@
                 "stat_str": 98,
                 "stat_wis": 99,
                 "thumbnail": "000-month_28_hellwasp_queen-1-db.webp",
-                "type": ["fiend"],
+                "type": [
+                    "fiend"
+                ],
                 "videourl": "https://youtu.be/g1rj7pi4mc0",
                 "nb_variants": 3,
                 "shortdesc": "Encrusts creatures in bile to petrify them.",
@@ -36470,6 +36472,49 @@
                 "source": "Patreon",
                 "campaign": "Curse of Strahd",
                 "hidden_tags": "[zombie,ghoul,undead]"
+            }
+        },
+        "231-kelpie": {
+            "description": "Kelpies lurk along the mist-shrouded banks of wayside lochs and stagnant marshes. to the weary traveler, it appears as a magnificent stallion, its coat shimmering like polished silver under the moonlight. but this beauty is a cruel mask donned to lure and kill: those who succumb to the urge to stroke its mane or mount its back find themselves fused to its damp hide and dragged into the dark depths, where what remains of its equine form dissolves into a shapeless horror, drowning its prey. it’s suspected that kelpies don’t even hunt to feed, but only for the love of the game.",
+            "name": "Kelpie",
+            "properties": {
+                "biom": [
+                    "planar",
+                    "feywild",
+                    "swamp",
+                    "coast",
+                    "river",
+                    "jungle",
+                    "forest",
+                    "wilderness",
+					"ruin"
+                ],
+                "cr": "4",
+                "fightingstyle": "ambush",
+                "movement": "swim",
+                "purpose": [
+                    "gimmick",
+                    "debuff"
+                ],
+                "releaseurl": "https://www.patreon.com/c/beneostokens",
+                "size": "large",
+                "stat_ac": 93,
+                "stat_cha": 94,
+                "stat_con": 95,
+                "stat_dex": 96,
+                "stat_hp": 97,
+                "stat_int": 96,
+                "stat_str": 98,
+                "stat_wis": 99,
+                "thumbnail": "231-kelpie-1-db.webp",
+                "type": ["fey"],
+                "videourl": "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
+                "nb_variants": 1,
+                "shortdesc": "Lures creatures towards them, then grapples and drowns.",
+                "faction": "",
+                "source": "Patreon",
+                "campaign": "",
+                "hidden_tags": ""
             }
         }
     }
