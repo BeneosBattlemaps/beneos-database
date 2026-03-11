@@ -3302,6 +3302,106 @@
         "icon": "0118_deserts_due-icon.webp",
         "hidden_tags": []
       }
+    },
+    "0119_illgotten_gains": {
+      "key": "0119_illgotten_gains",
+      "description": "Create cursed coins that heal you when distributed.",
+      "name": "Ill-Gotten Gains",
+      "properties": {
+        "level": "5",
+        "school": "Necromancy",
+        "casting_time": "1 Hour",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Bard",
+          "Sorcerer",
+          "Wizard"
+        ],
+        "components": [
+          "V",
+          "S",
+          "M"
+        ],
+        "icon": "0119_illgotten_gains-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0120_tentacles": {
+      "key": "0120_tentacles",
+      "description": "Sprout a tentacle to do tentactly things.",
+      "name": "Tentacles",
+      "properties": {
+        "level": "2",
+        "school": "Transmutation",
+        "casting_time": "Bonus Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Bard",
+          "Druid",
+          "Ranger",
+          "Sorcerer",
+          "Warlock",
+          "Wizard"
+        ],
+        "components": [
+          "V",
+          "S",
+          "M"
+        ],
+        "icon": "0120_tentacles-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0121_divine_decree": {
+      "key": "0121_divine_decree",
+      "description": "Use shock and awe to ensure obedience.",
+      "name": "Divine Decree",
+      "properties": {
+        "level": "7",
+        "school": "Illusion",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Cleric"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0121_divine_decree-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0122_rig_to_blow": {
+      "key": "0122_rig_to_blow",
+      "description": "Set object to explode, power increases over time.",
+      "name": "Rig to Blow",
+      "properties": {
+        "level": "6",
+        "school": "Enchantment",
+        "casting_time": "1 Minute",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Bard",
+          "Sorcerer",
+          "Wizard"
+        ],
+        "components": [
+          "V",
+          "S",
+          "M"
+        ],
+        "icon": "0122_rig_to_blow-icon.webp",
+        "hidden_tags": []
+      }
     }
   }
 }
