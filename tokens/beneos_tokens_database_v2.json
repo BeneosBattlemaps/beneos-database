@@ -1611,7 +1611,7 @@
                     
                 ],
                 "hidden_tags": [
-                    
+                    "nightmare"
                 ]
             }
         },
@@ -1659,7 +1659,8 @@
                     
                 ],
                 "hidden_tags": [
-                    
+                    "ghost",
+                    "nightmare"
                 ]
             }
         },
@@ -2358,6 +2359,50 @@
                 "source": "Loyalty Token",
                 "campaign": "Descent into Avernus",
                 "hidden_tags": "Haruman, Narzugon, Zariel"
+            }
+        },
+        "000-month_28_hellwasp_queen": {
+            "description": "Nesting shrouded by the sulphorous clouds of the infernal planes, the hellwasp queen spreads terror over vast swaths of the dusty landscape the queen is a massive, chitinous horror, her shell a macabre monument to her cruelty: fused to her thorax are the petrified remains of celestials and mortals alike. encrusted with rapidly hardening bile and their faces frozen in eternal silent screams. they remain horrifically affixed to her bulbous head, as she wields the petrified remains of her victims as a shield and channels the ailing remains of their tortured souls into a maddening choir. deep from within sprawling hives of hardened gold-bile, she orchestrates the expansion of her swarm, ever seeking new voices to add to her choir..",
+            "name": "Hellwasp Queen",
+            "properties": {
+                "biom": [
+                    "planar",
+                    "infernal",
+                    "horror",
+                    "dungeon",
+                    "wilderness"
+                ],
+                "cr": "12",
+                "fightingstyle": [
+                    "tactical",
+                    "versatile"
+                ],
+                "movement": "fly",
+                "purpose": [
+                    "boss",
+                    "debuff"
+                ],
+                "releaseurl": "https://www.patreon.com/c/beneostokens",
+                "size": "huge",
+                "stat_ac": 93,
+                "stat_cha": 94,
+                "stat_con": 95,
+                "stat_dex": 96,
+                "stat_hp": 97,
+                "stat_int": 96,
+                "stat_str": 98,
+                "stat_wis": 99,
+                "thumbnail": "000-month_28_hellwasp_queen-1-db.webp",
+                "type": [
+                    "fiend"
+                ],
+                "videourl": "https://youtu.be/g1rj7pi4mc0",
+                "nb_variants": 3,
+                "shortdesc": "Encrusts creatures in bile to petrify them.",
+                "faction": "",
+                "source": "Loyalty Token",
+                "campaign": "Descent into Avernus",
+                "hidden_tags": "[hellwasp]"
             }
         },
         "000-month_3_draconic_elite": {
@@ -29490,7 +29535,7 @@
                     
                 ],
                 "hidden_tags": [
-                    
+                    "nightmare"
                 ]
             }
         },
@@ -36417,7 +36462,9 @@
                 "stat_str": 98,
                 "stat_wis": 99,
                 "thumbnail": "229_gravegrasper-1-db.webp",
-                "type": ["undead"],
+                "type": [
+                    "undead"
+                ],
                 "videourl": "https://youtu.be/urghdr9gnpu",
                 "nb_variants": 3,
                 "shortdesc": "Grasps from below to bury alive.",
@@ -36425,6 +36472,49 @@
                 "source": "Patreon",
                 "campaign": "Curse of Strahd",
                 "hidden_tags": "[zombie,ghoul,undead]"
+            }
+        },
+        "231-kelpie": {
+            "description": "Kelpies lurk along the mist-shrouded banks of wayside lochs and stagnant marshes. to the weary traveler, it appears as a magnificent stallion, its coat shimmering like polished silver under the moonlight. but this beauty is a cruel mask donned to lure and kill: those who succumb to the urge to stroke its mane or mount its back find themselves fused to its damp hide and dragged into the dark depths, where what remains of its equine form dissolves into a shapeless horror, drowning its prey. it’s suspected that kelpies don’t even hunt to feed, but only for the love of the game.",
+            "name": "Kelpie",
+            "properties": {
+                "biom": [
+                    "planar",
+                    "feywild",
+                    "swamp",
+                    "coast",
+                    "river",
+                    "jungle",
+                    "forest",
+                    "wilderness",
+					"ruin"
+                ],
+                "cr": "4",
+                "fightingstyle": "ambush",
+                "movement": "swim",
+                "purpose": [
+                    "gimmick",
+                    "debuff"
+                ],
+                "releaseurl": "https://www.patreon.com/c/beneostokens",
+                "size": "large",
+                "stat_ac": 93,
+                "stat_cha": 94,
+                "stat_con": 95,
+                "stat_dex": 96,
+                "stat_hp": 97,
+                "stat_int": 96,
+                "stat_str": 98,
+                "stat_wis": 99,
+                "thumbnail": "231-kelpie-1-db.webp",
+                "type": ["fey"],
+                "videourl": "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
+                "nb_variants": 1,
+                "shortdesc": "Lures creatures towards them, then grapples and drowns.",
+                "faction": "",
+                "source": "Patreon",
+                "campaign": "",
+                "hidden_tags": ""
             }
         }
     }
