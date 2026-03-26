@@ -1248,8 +1248,8 @@
         "hidden_tags": []
       }
     },
-    "0087_irontide_raidmask_1": {
-      "key": "0087_irontide_raidmask_1",
+    "0087_irontide_raidmask": {
+      "key": "0087_irontide_raidmask",
       "description": "War-Masks granting you immunity to fear, however eventually forcing you to confront that fear.",
       "name": "Irontide Raid-Mask",
       "properties": {
@@ -1259,37 +1259,7 @@
         "item_type": "Medium Armor",
         "tier": 2,
         "price": "4600",
-        "icon": "0087_irontide_raidmask_1-icon.webp",
-        "hidden_tags": []
-      }
-    },
-    "0087_irontide_raidmask_2": {
-      "key": "0087_irontide_raidmask_2",
-      "description": "War-Masks granting you immunity to fear, however eventually forcing you to confront that fear.",
-      "name": "Irontide Raid-Mask",
-      "properties": {
-        "rarity": "Rare",
-        "attunement": true,
-        "origin": "sanctified",
-        "item_type": "Medium Armor",
-        "tier": 2,
-        "price": "4600",
-        "icon": "0087_irontide_raidmask_2-icon.webp",
-        "hidden_tags": []
-      }
-    },
-    "0087_irontide_raidmask_3": {
-      "key": "0087_irontide_raidmask_3",
-      "description": "War-Mask granting you immunity to fear, however eventually forcing you to confront that fear.",
-      "name": "Irontide Raid-Mask",
-      "properties": {
-        "rarity": "Rare",
-        "attunement": true,
-        "origin": "sanctified",
-        "item_type": "Medium Armor",
-        "tier": 2,
-        "price": "4600",
-        "icon": "0087_irontide_raidmask_3-icon.webp",
+        "icon": "0087_irontide_raidmask-icon.webp",
         "hidden_tags": []
       }
     },
@@ -1962,6 +1932,67 @@
         "price": "8888",
         "icon": "0123_carnyx_of_sacred_slaughter-icon.webp",
         "hidden_tags": []
+      }
+    },
+    "0126_bladewhisper_tattoo": {
+      "key": "0126_bladewhisper_tattoo",
+      "name": "Bladewhisper Tattoo",
+      "description": "Whisper hurtful words to subtly strike from a distance.",
+      "properties": {
+        "rarity": "Common",
+        "attunement": true,
+        "origin": "arcane",
+        "item_type": "Tattoo",
+        "tier": 1,
+        "price": "450",
+        "icon": "0126_bladewhisper_tattoo-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0127_leaf_of_promised_return": {
+      "key": "0127_leaf_of_promised_return",
+      "name": "Leaf of Promised Return",
+      "description": "Can be used to teleport to the tree it once belonged to.",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": false,
+        "origin": "druidic",
+        "item_type": "Consumable",
+        "tier": 2,
+        "price": "2700",
+        "icon": "0127_leaf_of_promised_return-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0128_headtaker_pincerscythe": {
+      "key": "0128_headtaker_pincerscythe",
+      "name": "Headtaker Pincer-Scythe",
+      "description": "Especially dangerous against grappled and restrained targets.",
+      "properties": {
+        "rarity": "Uncommon",
+        "attunement": true,
+        "origin": "beastforged",
+        "item_type": "Glaive",
+        "tier": 1,
+        "price": "2400",
+        "icon": "0128_headtaker_pincerscythe-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0129_harrowing_gutpipes": {
+      "key": "0129_harrowing_gutpipes",
+      "name": "Harrowing Gutpipes",
+      "description": "Functions as a spellcasting focus with various fear-based effects.",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "mutation",
+        "item_type": "Instrument",
+        "tier": 1,
+        "price": "5600",
+        "icon": "0129_harrowing_gutpipes-icon.webp",
+        "hidden_tags": []
+    
       }
     }
   }
