@@ -517,6 +517,7 @@
                     "Wilderness",
                     "Abyssal",
                     "Wasteland",
+                    "Wilderness",
                     "Mountain",
                     "Desert"
                 ],
@@ -653,7 +654,7 @@
                 "stat_wis": 10,
                 "thumbnail": "000-month_11_mother_base-1-db.webp",
                 "type": [
-                    "construct"
+                    "Construct"
                 ],
                 "videourl": "https://youtu.be/Jozhlm8Yf_U?si=0Qq5ncH74udMPDB7",
                 "nb_variants": 2,
@@ -842,7 +843,7 @@
                 "thumbnail": "000-month_14_dwarven_battlebrewer-1-db.webp",
                 "type": [
                     "humanoid",
-                    "dwarf"
+                    "Dwarf"
                 ],
                 "videourl": "https://youtu.be/YA7mamRl3mA?feature=shared",
                 "nb_variants": 1,
@@ -1442,7 +1443,7 @@
                 "thumbnail": "000-month_2_magma_wyrm-1-db.webp",
                 "type": [
                     "dragon",
-                    "construct"
+                    "Beneos Loyalty Token"
                 ],
                 "videourl": "https://youtu.be/1s64rZkx_o8",
                 "nb_variants": 1,
@@ -1461,7 +1462,7 @@
                     "Planar",
                     "Road",
                     "Civilized",
-                    "Castle",
+                    "castle",
                     "Horror",
                     "Dungeon"
                 ],
@@ -1610,7 +1611,7 @@
                     "Civilized",
                     "Urban",
                     "Road",
-                    "Castle",
+                    "castle",
                     "Dungeon"
                 ],
                 "cr": "7",
@@ -1658,7 +1659,7 @@
                     "Civilized",
                     "Urban",
                     "Road",
-                    "Castle",
+                    "castle",
                     "Dungeon"
                 ],
                 "cr": "9",
@@ -1706,7 +1707,7 @@
                     "Civilized",
                     "Urban",
                     "Road",
-                    "Castle",
+                    "castle",
                     "Dungeon"
                 ],
                 "cr": "7",
@@ -1755,7 +1756,8 @@
                     "Wasteland",
                     "Desert",
                     "Dungeon",
-                    "Mountain"
+                    "Planar",
+                    "mountain"
                 ],
                 "cr": "6",
                 "fightingstyle": [
@@ -1800,7 +1802,8 @@
                     "Wasteland",
                     "Desert",
                     "Dungeon",
-                    "Mountain"
+                    "Planar",
+                    "mountain"
                 ],
                 "cr": "8",
                 "fightingstyle": [
@@ -1845,7 +1848,8 @@
                     "Wasteland",
                     "Desert",
                     "Dungeon",
-                    "Mountain"
+                    "Planar",
+                    "mountain"
                 ],
                 "cr": "6",
                 "fightingstyle": [
@@ -1890,7 +1894,8 @@
                     "Wasteland",
                     "Desert",
                     "Dungeon",
-                    "Mountain"
+                    "Planar",
+                    "mountain"
                 ],
                 "cr": "10",
                 "fightingstyle": [
@@ -1932,13 +1937,13 @@
                 "biom": [
                     "Swamp",
                     "Jungle",
-                    "Forest",
-                    "Coast",
-                    "Wilderness",
+                    "forest",
+                    "coast",
+                    "wilderness",
                     "Wasteland",
-                    "Lair",
-                    "Mountain",
-                    "River"
+                    "lair",
+                    "mountain",
+                    "river"
                 ],
                 "cr": "14",
                 "fightingstyle": [
@@ -1980,13 +1985,13 @@
             "name": "Bileblood Tyrant",
             "properties": {
                 "biom": [
-                    "Lair",
+                    "lair",
                     "Jungle",
-                    "Forest",
+                    "forest",
                     "Swamp",
                     "Grave",
                     "Dungeon",
-                    "Wasteland",
+                    "wasteland",
                     "Ruin"
                 ],
                 "cr": "21",
@@ -2033,9 +2038,9 @@
             "properties": {
                 "biom": [
                     "Planar",
-                    "Lair",
+                    "lair",
                     "Mountain",
-                    "Sky"
+                    "sky"
                 ],
                 "cr": "20",
                 "fightingstyle": [
@@ -2077,9 +2082,9 @@
             "properties": {
                 "biom": [
                     "Planar",
-                    "Lair",
+                    "lair",
                     "Mountain",
-                    "Sky"
+                    "sky"
                 ],
                 "cr": "20",
                 "fightingstyle": [
@@ -2121,9 +2126,9 @@
             "properties": {
                 "biom": [
                     "Planar",
-                    "Lair",
+                    "lair",
                     "Mountain",
-                    "Sky"
+                    "sky"
                 ],
                 "cr": "20",
                 "fightingstyle": [
@@ -2213,7 +2218,7 @@
                     "Infernal",
                     "Horror",
                     "Dungeon",
-                    "Wilderness"
+                    "wilderness"
                 ],
                 "cr": "12",
                 "fightingstyle": [
@@ -2451,8 +2456,8 @@
                 "stat_wis": 16,
                 "thumbnail": "000-month_5_crownbreaker_archwyvern-1-db.webp",
                 "type": [
-                    "dragon",
-                    "wyvern"
+                    "Dragon",
+                    "Wyvern"
                 ],
                 "videourl": "https://youtu.be/cTnFnZ1YzcA",
                 "nb_variants": 1,
@@ -2500,7 +2505,7 @@
                 "stat_wis": 16,
                 "thumbnail": "000-month_6_emissary_of_annihilation-1-db.webp",
                 "type": [
-                    "construct"
+                    "Construct"
                 ],
                 "videourl": "https://youtu.be/Yx8049uGtVg?si=PE5vpeCGflnO79-T",
                 "nb_variants": 1,
@@ -2598,8 +2603,8 @@
                 "stat_wis": 16,
                 "thumbnail": "000-month_8_lord_of_dust-1-db.webp",
                 "type": [
-                    "undead",
-                    "mummy"
+                    "Undead",
+                    "Mummy"
                 ],
                 "videourl": "https://youtu.be/AsVZh6eUIm8?si=vZJbdJsi22qpDJn9",
                 "nb_variants": 1,
@@ -2619,6 +2624,7 @@
                 "biom": [
                     "Planar",
                     "Lair",
+                    "Mountain",
                     "Mountain",
                     "Ruin",
                     "Underground",
@@ -2648,8 +2654,8 @@
                 "stat_wis": 18,
                 "thumbnail": "000-month_9_forge_devil-1-db.webp",
                 "type": [
-                    "fiend",
-                    "devil"
+                    "Fiend",
+                    "Devil"
                 ],
                 "videourl": "https://youtu.be/YUwQK39UR5Y?si=hx-OmLtkIeuvCXEO",
                 "nb_variants": 1,
@@ -3181,6 +3187,7 @@
                 ],
                 "biom": [
                     "Arctic",
+                    "Snow",
                     "Mountain"
                 ],
                 "fightingstyle": [
@@ -3268,9 +3275,7 @@
                     "Fly"
                 ],
                 "biom": [
-                    "Sky",
-                    "Mountain",
-                    "Coast"
+                    "Any"
                 ],
                 "fightingstyle": [
                     "Vehicle"
@@ -3321,7 +3326,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "beast",
-                    "dinosaur"
+                    "Dinosaur"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_allosaurus-1-db.webp",
@@ -3781,6 +3786,7 @@
                 ],
                 "biom": [
                     "Arctic",
+                    "Snow",
                     "Mountain"
                 ],
                 "fightingstyle": [
@@ -4170,7 +4176,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon"
+                    "Summon"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_arcane_eye-1-db.webp",
@@ -4210,7 +4216,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon"
+                    "Summon"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_arcane_hand-1-db.webp",
@@ -4251,7 +4257,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon"
+                    "Summon"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_arcane_sword-1-db.webp",
@@ -4336,7 +4342,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "humanoid"
+                    "humanoid",
+                    "Wizard"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_archmage-1-db.webp",
@@ -4409,10 +4416,7 @@
                     "Walk"
                 ],
                 "biom": [
-                    "Grave",
-                    "Planar",
-                    "Dungeon",
-                    "Ruin"
+                    "Any"
                 ],
                 "fightingstyle": [
                     "Melee",
@@ -4722,7 +4726,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fiend",
-                    "demon"
+                    "Demon"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_balor-1-db.webp",
@@ -4848,7 +4852,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fiend",
-                    "devil"
+                    "Devil"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_barbed_devil-1-db.webp",
@@ -4979,7 +4983,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fiend",
-                    "devil"
+                    "Devil"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_bearded_devil-1-db.webp",
@@ -5010,7 +5014,7 @@
                 ],
                 "biom": [
                     "Underdark",
-                    "Mountain",
+                    "mountain",
                     "Wasteland",
                     "Wilderness"
                 ],
@@ -5416,7 +5420,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fiend",
-                    "devil"
+                    "Devil"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_bone_devil-1-db.webp",
@@ -5636,7 +5640,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fey",
-                    "goblinoid"
+                    "Goblinoid"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_bugbear_stalker-1-db.webp",
@@ -5682,7 +5686,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fey",
-                    "goblinoid"
+                    "Goblinoid"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_bugbear_warrior-1-db.webp",
@@ -5895,7 +5899,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "construct",
+                    "Construct",
                     "carpet"
                 ],
                 "nb_variants": 1,
@@ -5936,7 +5940,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "construct",
+                    "Construct",
                     "carpet"
                 ],
                 "nb_variants": 1,
@@ -5977,7 +5981,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "construct",
+                    "Construct",
                     "carpet"
                 ],
                 "nb_variants": 1,
@@ -6018,7 +6022,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "construct",
+                    "Construct",
                     "carpet"
                 ],
                 "nb_variants": 1,
@@ -6149,7 +6153,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "celestial",
-                    "otherworldly steed"
+                    "Otherworldly Steed"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_celestial_steed-1-db.webp",
@@ -6235,7 +6239,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fiend",
-                    "devil"
+                    "Devil"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_chain_devil-1-db.webp",
@@ -6575,8 +6579,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon",
-                    "elemental"
+                    "Summon",
+                    "Elemental"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_conjured_air_elemental-1-db.webp",
@@ -6617,8 +6621,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon",
-                    "beast"
+                    "Summon",
+                    "Beast"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_conjured_animals-1-db.webp",
@@ -6659,8 +6663,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon",
-                    "elemental"
+                    "Summon",
+                    "Elemental"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_conjured_earth_elemental-1-db.webp",
@@ -6700,8 +6704,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon",
-                    "fey"
+                    "Summon",
+                    "Fey"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_conjured_fey-1-db.webp",
@@ -6742,8 +6746,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon",
-                    "elemental"
+                    "Summon",
+                    "Elemental"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_conjured_fire_elemental-1-db.webp",
@@ -6783,8 +6787,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon",
-                    "elemental"
+                    "Summon",
+                    "Elemental"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_conjured_water_elemental-1-db.webp",
@@ -7167,7 +7171,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon"
+                    "Summon"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_dancing_lights_tiny-1-db.webp",
@@ -7207,7 +7211,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon"
+                    "Summon"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_dancing_sword-1-db.webp",
@@ -7330,7 +7334,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "humanoid"
+                    "humanoid",
+                    "Gnome"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_deep_gnome-1-db.webp",
@@ -7498,7 +7503,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "elemental"
+                    "elemental",
+                    "Genie"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_djinni-1-db.webp",
@@ -7572,9 +7578,7 @@
                     "Walk"
                 ],
                 "biom": [
-                    "Planar",
-                    "Lair",
-                    "Mountain"
+                    "Any"
                 ],
                 "fightingstyle": [
                     "Simple"
@@ -7718,7 +7722,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fiend",
-                    "demon"
+                    "Demon"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_dretch-1-db.webp",
@@ -7801,7 +7805,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "humanoid"
+                    "humanoid",
+                    "Elf"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_drow-1-db.webp",
@@ -7842,7 +7847,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "humanoid"
+                    "humanoid",
+                    "Druid"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_druid-1-db.webp",
@@ -7925,7 +7931,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "humanoid",
-                    "dwarf"
+                    "Dwarf"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_duergar-1-db.webp",
@@ -8096,7 +8102,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "elemental"
+                    "elemental",
+                    "Genie"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_efreeti-1-db.webp",
@@ -8225,7 +8232,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fiend",
-                    "devil"
+                    "Devil"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_erinyes-1-db.webp",
@@ -8351,8 +8358,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon",
-                    "beast"
+                    "Summon",
+                    "Beast"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_faithful_hound-1-db.webp",
@@ -8394,7 +8401,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fey",
-                    "otherworldly steed"
+                    "Otherworldly Steed"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_fey_steed-1-db.webp",
@@ -8436,7 +8443,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fiend",
-                    "otherworldly steed"
+                    "Otherworldly Steed"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_fiend_steed-1-db.webp",
@@ -8585,9 +8592,7 @@
                     "Walk"
                 ],
                 "biom": [
-                    "Dungeon",
-                    "Lair",
-                    "Ruin"
+                    "Any"
                 ],
                 "fightingstyle": [
                     "Simple"
@@ -8642,7 +8647,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon"
+                    "Summon"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_floating_disk-1-db.webp",
@@ -8682,8 +8687,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon",
-                    "construct"
+                    "Summon",
+                    "Feather Token"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_floating_whip-1-db.webp",
@@ -8841,10 +8846,7 @@
                     "Swim"
                 ],
                 "biom": [
-                    "Ocean",
-                    "Coast",
-                    "River",
-                    "Ship"
+                    "Any"
                 ],
                 "fightingstyle": [
                     "Vehicle"
@@ -9571,10 +9573,7 @@
                     "Walk"
                 ],
                 "biom": [
-                    "Forest",
-                    "Wilderness",
-                    "Swamp",
-                    "Cave"
+                    "Any"
                 ],
                 "fightingstyle": [
                     "Simple",
@@ -9748,10 +9747,7 @@
                     "Walk"
                 ],
                 "biom": [
-                    "Forest",
-                    "Wilderness",
-                    "Swamp",
-                    "Cave"
+                    "Any"
                 ],
                 "fightingstyle": [
                     "Simple"
@@ -10461,7 +10457,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fiend",
-                    "demon"
+                    "Demon"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_glabrezu-1-db.webp",
@@ -10677,7 +10673,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fey",
-                    "goblinoid"
+                    "Goblinoid"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_goblin_boss-1-db.webp",
@@ -10723,7 +10719,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fey",
-                    "goblinoid"
+                    "Goblinoid"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_goblin_minion-1-db.webp",
@@ -10770,7 +10766,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fey",
-                    "goblinoid"
+                    "Goblinoid"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_goblin_warrior-1-db.webp",
@@ -10900,8 +10896,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon",
-                    "plant"
+                    "Summon",
+                    "Plant"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_grasping_vine-1-db.webp",
@@ -11332,7 +11328,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon"
+                    "Summon"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_guardian_of_faith-1-db.webp",
@@ -11404,10 +11400,7 @@
                     "Walk"
                 ],
                 "biom": [
-                    "Mountain",
-                    "Lair",
-                    "Cave",
-                    "Dungeon"
+                    "Any"
                 ],
                 "fightingstyle": [
                     "Simple"
@@ -11447,11 +11440,7 @@
                     "Walk"
                 ],
                 "biom": [
-                    "Mountain",
-                    "Lair",
-                    "Cave",
-                    "Dungeon",
-                    "Ruin"
+                    "Any"
                 ],
                 "fightingstyle": [
                     "Simple",
@@ -11464,7 +11453,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "humanoid",
-                    "human"
+                    "Human"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_half_red_dragon_veteran-1-db.webp",
@@ -11640,7 +11629,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fiend",
-                    "demon"
+                    "Demon"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_hezrou-1-db.webp",
@@ -11819,7 +11808,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fey",
-                    "goblinoid"
+                    "Goblinoid"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_hobgoblin_captain-1-db.webp",
@@ -11867,7 +11856,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fey",
-                    "goblinoid"
+                    "Goblinoid"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_hobgoblin_warrior-1-db.webp",
@@ -11897,9 +11886,7 @@
                     "Walk"
                 ],
                 "biom": [
-                    "Dungeon",
-                    "Lair",
-                    "Urban"
+                    "Any"
                 ],
                 "fightingstyle": [
                     "Simple"
@@ -11953,7 +11940,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fiend",
-                    "devil"
+                    "Devil"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_horned_devil-1-db.webp",
@@ -12166,7 +12153,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fiend",
-                    "devil"
+                    "Devil"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_ice_devil-1-db.webp",
@@ -12250,7 +12237,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon"
+                    "Summon"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_illusory_creature-1-db.webp",
@@ -12291,7 +12278,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon"
+                    "Summon"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_illusory_object-1-db.webp",
@@ -12333,7 +12320,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon"
+                    "Summon"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_illusory_phenomenon-1-db.webp",
@@ -12363,10 +12350,7 @@
                     "Walk"
                 ],
                 "biom": [
-                    "Infernal",
-                    "Urban",
-                    "Dungeon",
-                    "Planar"
+                    "Any"
                 ],
                 "fightingstyle": [
                     "Simple"
@@ -12379,7 +12363,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fiend",
-                    "devil"
+                    "Devil"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_imp-1-db.webp",
@@ -12462,7 +12446,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon"
+                    "Summon"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_invisible_sensor-1-db.webp",
@@ -12534,10 +12518,7 @@
                     "Walk"
                 ],
                 "biom": [
-                    "Dungeon",
-                    "Lair",
-                    "Ruin",
-                    "Castle"
+                    "Any"
                 ],
                 "fightingstyle": [
                     "Tank",
@@ -12621,10 +12602,7 @@
                     "Swim"
                 ],
                 "biom": [
-                    "Ocean",
-                    "Coast",
-                    "River",
-                    "Ship"
+                    "Any"
                 ],
                 "fightingstyle": [
                     "Vehicle"
@@ -12811,7 +12789,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "monstrosity",
-                    "giant"
+                    "Titan"
                 ],
                 "nb_variants": 2,
                 "thumbnail": "000-srd_kraken-1-db.webp",
@@ -12937,7 +12915,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fiend",
-                    "devil"
+                    "Devil"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_lemure-1-db.webp",
@@ -12966,10 +12944,7 @@
                     "Walk"
                 ],
                 "biom": [
-                    "Dungeon",
-                    "Grave",
-                    "Lair",
-                    "Ruin"
+                    "Any"
                 ],
                 "fightingstyle": [
                     "Spellcasting"
@@ -13023,7 +12998,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon"
+                    "Summon"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_light-1-db.webp",
@@ -13152,7 +13127,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "humanoid"
+                    "humanoid",
+                    "Lizardfolk"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_lizardfolk-1-db.webp",
@@ -13181,10 +13157,7 @@
                     "Swim"
                 ],
                 "biom": [
-                    "Ocean",
-                    "Coast",
-                    "River",
-                    "Ship"
+                    "Any"
                 ],
                 "fightingstyle": [
                     "Vehicle"
@@ -13235,7 +13208,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "humanoid"
+                    "humanoid",
+                    "Wizard"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_mage-1-db.webp",
@@ -13275,7 +13249,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon"
+                    "Summon"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_mage_hand-1-db.webp",
@@ -13491,7 +13465,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fiend",
-                    "demon"
+                    "Demon"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_marilith-1-db.webp",
@@ -14049,7 +14023,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fiend",
-                    "demon"
+                    "Demon"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_nalfeshnee-1-db.webp",
@@ -14479,7 +14453,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "humanoid",
-                    "orc"
+                    "Orc"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_orc-1-db.webp",
@@ -14520,7 +14494,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon"
+                    "Summon"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_otherworldly_steed-1-db.webp",
@@ -14763,9 +14737,7 @@
                     "Walk"
                 ],
                 "biom": [
-                    "Road",
-                    "Wilderness",
-                    "Planar"
+                    "Any"
                 ],
                 "fightingstyle": [
                     "Mobile"
@@ -14994,7 +14966,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fiend",
-                    "devil"
+                    "Devil"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_pit_fiend-1-db.webp",
@@ -15204,7 +15176,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "humanoid"
+                    "humanoid",
+                    "Cleric"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_priest_acolyte-1-db.webp",
@@ -15378,7 +15351,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fiend",
-                    "demon",
+                    "Demon",
                     "shapechanger"
                 ],
                 "nb_variants": 1,
@@ -15877,10 +15850,7 @@
                     "Swim"
                 ],
                 "biom": [
-                    "Ocean",
-                    "Coast",
-                    "River",
-                    "Ship"
+                    "Any"
                 ],
                 "fightingstyle": [
                     "Vehicle"
@@ -16043,10 +16013,7 @@
                     "Swim"
                 ],
                 "biom": [
-                    "Ocean",
-                    "Coast",
-                    "River",
-                    "Ship"
+                    "Any"
                 ],
                 "fightingstyle": [
                     "Vehicle"
@@ -16294,10 +16261,7 @@
                     "Swim"
                 ],
                 "biom": [
-                    "Underwater",
-                    "Aquatic",
-                    "Ocean",
-                    "Coast"
+                    "Any"
                 ],
                 "fightingstyle": [
                     "Simple"
@@ -16348,7 +16312,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "object"
+                    "Object"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_secret_chest-1-db.webp",
@@ -17033,7 +16997,7 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon"
+                    "Summon"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_spiritual_weapon-1-db.webp",
@@ -17276,10 +17240,7 @@
                     "Walk"
                 ],
                 "biom": [
-                    "Dungeon",
-                    "Lair",
-                    "Ruin",
-                    "Castle"
+                    "Any"
                 ],
                 "fightingstyle": [
                     "Melee"
@@ -17535,9 +17496,7 @@
                     "Walk"
                 ],
                 "biom": [
-                    "Grave",
-                    "Dungeon",
-                    "Ruin"
+                    "Any"
                 ],
                 "fightingstyle": [
                     "Simple"
@@ -17935,7 +17894,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "monstrosity",
-                    "giant"
+                    "Titan"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_tarrasque-1-db.webp",
@@ -18482,8 +18441,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "summon",
-                    "construct"
+                    "Summon",
+                    "Construct"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_unseen_servant-1-db.webp",
@@ -18742,7 +18701,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "fiend",
-                    "demon"
+                    "Demon"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_vrock-1-db.webp",
@@ -18978,9 +18937,7 @@
                     "Swim"
                 ],
                 "biom": [
-                    "Ocean",
-                    "Coast",
-                    "Ship"
+                    "Any"
                 ],
                 "fightingstyle": [
                     "Vehicle"
@@ -19120,8 +19077,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "monstrosity",
-                    "shapechanger"
+                    "Monstrosity",
+                    "Shapechanger"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_werebear-1-db.webp",
@@ -19208,7 +19165,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "monstrosity",
-                    "shapechanger"
+                    "Shapechanger"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_wererat-1-db.webp",
@@ -19252,7 +19209,7 @@
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
                     "monstrosity",
-                    "shapechanger"
+                    "Shapeshifter"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_weretiger-1-db.webp",
@@ -19294,8 +19251,8 @@
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
-                    "monstrosity",
-                    "shapechanger"
+                    "Monstrosity",
+                    "Shapechanger"
                 ],
                 "nb_variants": 1,
                 "thumbnail": "000-srd_werewolf-1-db.webp",
@@ -19328,7 +19285,8 @@
                 ],
                 "biom": [
                     "Arctic",
-                    "Mountain"
+                    "Mountain",
+                    "Snow"
                 ],
                 "fightingstyle": [
                     "Simple"
@@ -20136,6 +20094,7 @@
                 ],
                 "biom": [
                     "Arctic",
+                    "Snow",
                     "Mountain"
                 ],
                 "fightingstyle": [
@@ -20237,7 +20196,7 @@
                 "thumbnail": "001-primal_vampire_spawn-1-db.webp",
                 "type": [
                     "undead",
-                    "vampire"
+                    "Vampire"
                 ],
                 "videourl": "https://youtu.be/GLNZy5sujd0",
                 "nb_variants": 1,
@@ -20477,7 +20436,8 @@
                 "stat_wis": 11,
                 "thumbnail": "006-shield_guardian-1-db.webp",
                 "type": [
-                    "construct"
+                    "construct",
+                    "robot"
                 ],
                 "videourl": "https://youtu.be/Z0jOdBi4oFA",
                 "nb_variants": 2,
@@ -20613,7 +20573,8 @@
                 "stat_wis": 10,
                 "thumbnail": "009-skeleton_henchman-1-db.webp",
                 "type": [
-                    "undead"
+                    "undead",
+                    "skeleton"
                 ],
                 "videourl": "https://youtu.be/3p_dN5Pk1jY",
                 "nb_variants": 6,
@@ -20674,14 +20635,7 @@
             "description": "War veterans, gang members with military experience or nobles who spent a fair share of their youth under the watchful eyes of combat instructors - the Trained Fighter represents all of them and more. They are trained in the art of Melee, have seen various combat scenarios and lived to tell the tale. While a rabble of peasants or a gang of highwaymen can be disposed of rather quickly and with little effort, an organized troop of Trained Fighters makes for a varitable fighting force, leading to a complex and tactical encounter for a low or even mid-level party.",
             "name": "Trained Fighter",
             "properties": {
-                "biom": [
-                    "Civilized",
-                    "Urban",
-                    "Road",
-                    "Dungeon",
-                    "Ruin",
-                    "Castle"
-                ],
+                "biom": [],
                 "cr": "2",
                 "fightingstyle": [
                     "Melee",
@@ -20816,14 +20770,7 @@
             "description": "The Dragon might be the ultimate mythical creature. Almost every human culture has a being with the shared traits of a snake-like body, mighty wings, supernatural cunning and indomitable might. In some myths and folktales they are benevolent and wise, in most they are cruel and despotic. Our dragon makes no attempt at being an ambivalent creature, skirting the border of good and evil or trying to paint the picture of a complex and often misunderstood creature. This dragon is a scaled tyrant, a megalomaniacal lizard corrupted by the arcane energies flowing through its veins. It is avaricious, gluttonous, wrathful and treacherous - the worst traits humanity can offer, but enabled by inhabiting a body of a living and breathing natural disaster.",
             "name": "Dragon",
             "properties": {
-                "biom": [
-                    "Mountain",
-                    "Lair",
-                    "Cave",
-                    "Wilderness",
-                    "Dungeon",
-                    "Ruin"
-                ],
+                "biom": [],
                 "cr": "19",
                 "fightingstyle": [
                     "Airborne",
@@ -20897,7 +20844,7 @@
                 "stat_wis": 12,
                 "thumbnail": "015-werewolf-1-db.webp",
                 "type": [
-                    "shapechanger",
+                    "Shapechanger",
                     "monstrosity"
                 ],
                 "videourl": "https://youtu.be/rU2-Ph6Gp4Y",
@@ -21151,12 +21098,7 @@
             "description": "Grimgheists are soul-constructs fashioned from murderous and vengeful souls by particularly ruthless practicers of dark and forbidden arts. Driven by an innate thirst for murder and furtherly incited by their creators, the Grimgheist are tasked to either haunt a specific target or to just wreak havoc among the enemies of its master. As they can effortlessly travel between the profane and the ethereal world, they make for efficient assassins, being able to materialize infront of their hapless target and unleash horrible acts of violence upon it, fueled by pure hatred for the living.",
             "name": "Grimgheist",
             "properties": {
-                "biom": [
-                    "Dungeon",
-                    "Ruin",
-                    "Lair",
-                    "Urban"
-                ],
+                "biom": [],
                 "cr": "6",
                 "fightingstyle": [
                     "Melee",
@@ -21182,7 +21124,8 @@
                 "stat_wis": 12,
                 "thumbnail": "020-grimgheist-1-db.webp",
                 "type": [
-                    "construct"
+                    "construct",
+                    "ethereal"
                 ],
                 "videourl": "https://youtu.be/QiNEu3NUXwQ",
                 "nb_variants": 1,
@@ -21397,14 +21340,7 @@
             "description": "Ranger, hunters or Urban guards standing watch on battlements or rooftops - the Trained Archer is a stand-in for every man and woman well versed in the art of the bow. They are capable sharpshooters and can be relied upon in the heat of battle, an ambush or even an assassination. With the weaker members of a party threatened with a barrage of arrows, an organized unit of Trained Archers makes for a flexible and deadly force, leading to a complex and tactical encounter for a low or even mid-level party.",
             "name": "Trained Archer",
             "properties": {
-                "biom": [
-                    "Civilized",
-                    "Urban",
-                    "Road",
-                    "Dungeon",
-                    "Ruin",
-                    "Castle"
-                ],
+                "biom": [],
                 "cr": "2",
                 "fightingstyle": [
                     "Range",
@@ -22236,12 +22172,7 @@
             "description": "The Debt Collectors are operatives of the Ossian Bank, tasked with tracking and retrieving especially elusive debtors. Despite their harrowing appearance, Ossian Debt Collectors are courteous and sophisticated negotiators, blessed with the endless patience of the undead and prodigious language skills. When approaching a debtor, they initially aim on settling things amicably, politely asking the transient debtor to accompany them to the Ossian Bank to stand before the Tribunal. When met with unreasonableness or hostility, the Debt Collectors begrudgingly change tactics in favour of more direct means of apprehension. It is unclear if their skeletal appearance reflects a Collector's true being or if it only appears as such to their targets, combining two of the things mortals fear most: death and tax collectors.",
             "name": "Ossian Debt Collector",
             "properties": {
-                "biom": [
-                    "Grave",
-                    "Dungeon",
-                    "Ruin",
-                    "Urban"
-                ],
+                "biom": [],
                 "cr": "6",
                 "fightingstyle": [
                     "Tactical",
@@ -22292,6 +22223,7 @@
                     "Wasteland",
                     "Desert",
                     "Coast",
+                    "Desert",
                     "Civilized"
                 ],
                 "cr": "5",
@@ -22366,7 +22298,8 @@
                 "stat_wis": 8,
                 "thumbnail": "042-mournbride-1-db.webp",
                 "type": [
-                    "undead"
+                    "undead",
+                    "Spirit"
                 ],
                 "videourl": "https://youtu.be/H2cjzuYoJ74",
                 "nb_variants": 1,
@@ -22438,6 +22371,7 @@
                     "Horror",
                     "Planar",
                     "Dungeon",
+                    "Dungeon",
                     "Civilized",
                     "Urban",
                     "Lair"
@@ -22467,7 +22401,7 @@
                 "stat_wis": 14,
                 "thumbnail": "044-amygdalyan-1-db.webp",
                 "type": [
-                    "aberration"
+                    "Aberration"
                 ],
                 "videourl": "https://youtu.be/QisCqjvHD34",
                 "nb_variants": 1,
@@ -22570,7 +22504,7 @@
                 "thumbnail": "046-garghoul-1-db.webp",
                 "type": [
                     "undead",
-                    "ghoul"
+                    "Ghoul"
                 ],
                 "videourl": "https://youtu.be/lfM3VpYcCgI",
                 "nb_variants": 1,
@@ -22726,7 +22660,7 @@
                 "thumbnail": "049-poisonfang-1-db.webp",
                 "type": [
                     "humanoid",
-                    "shapechanger"
+                    "Shapechanger"
                 ],
                 "videourl": "https://youtu.be/hOridEWNlvE",
                 "nb_variants": 1,
@@ -23516,6 +23450,7 @@
                     "Lair",
                     "Planar",
                     "Underground",
+                    "Dungeon",
                     "Ruin",
                     "Horror"
                 ],
@@ -23572,6 +23507,7 @@
                     "Civilized",
                     "Planar",
                     "Underground",
+                    "Dungeon",
                     "Ruin",
                     "Sacral",
                     "Mountain",
@@ -24194,7 +24130,7 @@
                 "thumbnail": "075-guild_artillerist-1-db.webp",
                 "type": [
                     "humanoid",
-                    "dwarf"
+                    "Dwarf"
                 ],
                 "videourl": "https://youtu.be/QOBIr9gJC1s",
                 "nb_variants": 1,
@@ -25035,7 +24971,8 @@
                     "Coast",
                     "Tavern",
                     "Civilized",
-                    "Urban"
+                    "Urban",
+                    "Tavern"
                 ],
                 "cr": "5",
                 "fightingstyle": [
@@ -25531,7 +25468,8 @@
                     "Wilderness",
                     "Tropical",
                     "Jungle",
-                    "Forest"
+                    "Forest",
+                    "Tropical"
                 ],
                 "cr": "1",
                 "fightingstyle": [
@@ -26407,6 +26345,7 @@
                     "Wasteland",
                     "Road",
                     "Civilized",
+                    "Road",
                     "Forest",
                     "Desert",
                     "Mountain",
@@ -26733,7 +26672,7 @@
                 "stat_wis": 10,
                 "thumbnail": "119-sand_elemental-1-db.webp",
                 "type": [
-                    "elemental"
+                    "Elemental"
                 ],
                 "videourl": "https://youtu.be/itTCrbVZ488",
                 "nb_variants": 1,
@@ -26783,8 +26722,8 @@
                 "stat_wis": 13,
                 "thumbnail": "120-vampire_dreg-1-db.webp",
                 "type": [
-                    "undead",
-                    "vampire"
+                    "Undead",
+                    "Vampire"
                 ],
                 "videourl": "https://youtu.be/aWz8M4auq3Y",
                 "nb_variants": 1,
@@ -26810,7 +26749,8 @@
                     "Road",
                     "Dungeon",
                     "Swamp",
-                    "Tropical"
+                    "Tropical",
+                    "Wilderness"
                 ],
                 "cr": "0.5",
                 "fightingstyle": [
@@ -26836,7 +26776,7 @@
                 "stat_wis": 6,
                 "thumbnail": "121-sporeshambler-1-db.webp",
                 "type": [
-                    "undead"
+                    "Undead"
                 ],
                 "videourl": "https://youtu.be/NHCuSjMFOrI",
                 "nb_variants": 3,
@@ -26883,8 +26823,8 @@
                 "stat_wis": 15,
                 "thumbnail": "122-gutterfist-1-db.webp",
                 "type": [
-                    "humanoid",
-                    "human"
+                    "Humanoid",
+                    "Human"
                 ],
                 "videourl": "https://youtu.be/G2q7SIDahRg",
                 "nb_variants": 1,
@@ -26933,8 +26873,8 @@
                 "stat_wis": 14,
                 "thumbnail": "123-blackfeather_huntress-1-db.webp",
                 "type": [
-                    "humanoid",
-                    "human"
+                    "Humanoid",
+                    "Human"
                 ],
                 "videourl": "https://youtu.be/zgrN4lyX0jA?si=kG9TKmgXiF29YJxe",
                 "nb_variants": 1,
@@ -26986,8 +26926,8 @@
                 "stat_wis": 7,
                 "thumbnail": "124-ogre_maneater-1-db.webp",
                 "type": [
-                    "giant",
-                    "ogre"
+                    "Giant",
+                    "Ogre"
                 ],
                 "videourl": "https://youtu.be/S30OcizwqOU?si=AKUL2RC-aasyxxoU",
                 "nb_variants": 2,
@@ -27035,7 +26975,8 @@
                 "stat_wis": 11,
                 "thumbnail": "125-satyr-1-db.webp",
                 "type": [
-                    "fey"
+                    "Fey",
+                    "Satyr"
                 ],
                 "videourl": "https://youtu.be/nqYvyow8rUc?si=-lbmkxRhzXGsRntI",
                 "nb_variants": 2,
@@ -27055,7 +26996,8 @@
                     "Civilized",
                     "Planar",
                     "Lair",
-                    "Infernal"
+                    "Infernal",
+                    "Civilized"
                 ],
                 "cr": "9",
                 "fightingstyle": [
@@ -27082,8 +27024,8 @@
                 "stat_wis": 14,
                 "thumbnail": "126-opulence_devil-1-db.webp",
                 "type": [
-                    "fiend",
-                    "devil"
+                    "Fiend",
+                    "Devil"
                 ],
                 "videourl": "https://youtu.be/dVgbSDndNCY?si=CiCLNvoixhUY08Od",
                 "nb_variants": 1,
@@ -27140,8 +27082,8 @@
                 "stat_wis": 12,
                 "thumbnail": "127-constrictor_drake-1-db.webp",
                 "type": [
-                    "dragon",
-                    "wyvern"
+                    "Dragon",
+                    "Wyvern"
                 ],
                 "videourl": "https://youtu.be/5dD9TnTs5us?si=_XmwyJbgqQmOWHog",
                 "nb_variants": 5,
@@ -27188,7 +27130,7 @@
                 "stat_wis": 12,
                 "thumbnail": "128-voidmare_wailer-1-db.webp",
                 "type": [
-                    "aberration"
+                    "Aberration"
                 ],
                 "videourl": "https://youtu.be/knFPQFfr1CU?si=DScd37mNqPKZhPeI",
                 "nb_variants": 1,
@@ -27211,7 +27153,8 @@
                     "Grave",
                     "Dungeon",
                     "Horror",
-                    "Wilderness"
+                    "Wilderness",
+                    "Swamp"
                 ],
                 "cr": "1",
                 "fightingstyle": [
@@ -27287,7 +27230,7 @@
                 "stat_wis": 10,
                 "thumbnail": "130-automaton_enforcer-1-db.webp",
                 "type": [
-                    "construct"
+                    "Construct"
                 ],
                 "videourl": "https://youtu.be/P5u92o6kNog?si=xErqtlx_RixhGbj3",
                 "nb_variants": 3,
@@ -27334,7 +27277,7 @@
                 "stat_wis": 8,
                 "thumbnail": "131-graftsman-1-db.webp",
                 "type": [
-                    "undead"
+                    "Undead"
                 ],
                 "videourl": "https://youtu.be/EWsWFpiRSPE?si=Z_773U9S8WGQJMzR",
                 "nb_variants": 3,
@@ -27387,7 +27330,7 @@
                 "stat_wis": 5,
                 "thumbnail": "132-animated_blade-1-db.webp",
                 "type": [
-                    "construct"
+                    "Construct"
                 ],
                 "videourl": "https://youtu.be/t5BKqmAsXlM?si=w90tx8h_iT6-QAck",
                 "nb_variants": 2,
@@ -27435,8 +27378,8 @@
                 "stat_wis": 13,
                 "thumbnail": "133-ratfolk_gutterskulk-1-db.webp",
                 "type": [
-                    "humanoid",
-                    "demi-human"
+                    "Humanoid",
+                    "Demi-Human"
                 ],
                 "videourl": "https://youtu.be/ChWLAFnTNfE?si=lbrZ2i1ytG2nNfXG",
                 "nb_variants": 1,
@@ -27486,8 +27429,8 @@
                 "stat_wis": 10,
                 "thumbnail": "134-rock_golem-1-db.webp",
                 "type": [
-                    "construct",
-                    "golem"
+                    "Construct",
+                    "Golem"
                 ],
                 "videourl": "https://youtu.be/M33W119WU6o?si=mwo-p6YiR3AMopzO",
                 "nb_variants": 1,
@@ -27534,7 +27477,7 @@
                 "stat_wis": 10,
                 "thumbnail": "135-skeletal_swashbuckler-1-db.webp",
                 "type": [
-                    "undead"
+                    "Undead"
                 ],
                 "videourl": "https://youtu.be/1bHvK0Kftvg?si=AVXfCrrA71cjkIRm",
                 "nb_variants": 2,
@@ -27584,8 +27527,8 @@
                 "stat_wis": 12,
                 "thumbnail": "136-tyrannosaurus_rex-1-db.webp",
                 "type": [
-                    "beast",
-                    "dinosaur"
+                    "Beast",
+                    "Dinosaur"
                 ],
                 "videourl": "https://youtu.be/WBQtNkgHlbM?si=nuOO9Msrx5mYgoRh",
                 "nb_variants": 1,
@@ -27636,7 +27579,7 @@
                 "stat_wis": 13,
                 "thumbnail": "137-cannonade_crawler-1-db.webp",
                 "type": [
-                    "monstrosity"
+                    "Monstrosity"
                 ],
                 "videourl": "https://youtu.be/1fS3i6_SZII?si=ULIN5uJHPisXxWv0",
                 "nb_variants": 2,
@@ -27710,7 +27653,7 @@
                     "Swamp",
                     "Grave",
                     "Horror",
-                    "Futuristic"
+                    "Scifi"
                 ],
                 "cr": "0.5",
                 "fightingstyle": [
@@ -28091,7 +28034,7 @@
                 "thumbnail": "146-bard-1-db.webp",
                 "type": [
                     "humanoid",
-                    "human"
+                    "Human"
                 ],
                 "videourl": "https://youtu.be/OhCqlIvInEc?si=kP0js4C2yZcHLuTf",
                 "nb_variants": 4,
@@ -28117,7 +28060,8 @@
                     "Forest",
                     "Ocean",
                     "Coast",
-                    "Sacral"
+                    "Sacral",
+                    "Coast"
                 ],
                 "cr": "5",
                 "fightingstyle": [
@@ -28144,7 +28088,7 @@
                 "thumbnail": "147-witch_hunter-1-db.webp",
                 "type": [
                     "humanoid",
-                    "human"
+                    "Human"
                 ],
                 "videourl": "https://youtu.be/-1RoBVo1DYE?si=SZ1VwG_nlIjfOxcL",
                 "nb_variants": 1,
@@ -28340,7 +28284,7 @@
                 "thumbnail": "151-dwarven_battlemason-1-db.webp",
                 "type": [
                     "humanoid",
-                    "dwarf"
+                    "Dwarf"
                 ],
                 "videourl": "https://youtu.be/VBcr9TwxMaY",
                 "nb_variants": 1,
@@ -28871,7 +28815,7 @@
                 "thumbnail": "159-vampire_chiropterror-1-db.webp",
                 "type": [
                     "undead",
-                    "vampire"
+                    "Vampire"
                 ],
                 "videourl": "https://youtu.be/BfY7rvxnMow?feature=shared",
                 "nb_variants": 2,
@@ -29067,7 +29011,7 @@
                 "thumbnail": "162-brigand-1-db.webp",
                 "type": [
                     "humanoid",
-                    "human"
+                    "Human"
                 ],
                 "videourl": "https://youtu.be/QJ4vvUwJK98?si=fYanuggbZSn8sb3g",
                 "nb_variants": 4,
@@ -29114,7 +29058,7 @@
                 "thumbnail": "163-infernal_bloodhowler-1-db.webp",
                 "type": [
                     "fiend",
-                    "devil"
+                    "Devil"
                 ],
                 "videourl": "https://youtu.be/COTI8mCMCEk?si=P0mev5udsJlc2vvs",
                 "nb_variants": 1,
@@ -29473,7 +29417,7 @@
                 "stat_wis": 11,
                 "thumbnail": "168-city_guard_runner-1-db.webp",
                 "type": [
-                    "humanoid"
+                    "Humanoid"
                 ],
                 "videourl": "https://youtu.be/AGKLrLF6l3M?si=j-nVLIRf_4JmABzo",
                 "nb_variants": 4,
@@ -29521,7 +29465,7 @@
                 "stat_wis": 11,
                 "thumbnail": "169-mummy_tomb_vizier-1-db.webp",
                 "type": [
-                    "undead",
+                    "Undead",
                     "mummy"
                 ],
                 "videourl": "https://youtu.be/mKE3llLvfI4?si=oABK7A2IQJfjtVwh",
@@ -29571,7 +29515,7 @@
                 "stat_wis": 14,
                 "thumbnail": "170-cult_oracle-1-db.webp",
                 "type": [
-                    "humanoid"
+                    "Humanoid"
                 ],
                 "videourl": "https://youtu.be/r6AQ5zva7hc?si=AuQprLDL1vp6VC-i",
                 "nb_variants": 1,
@@ -29820,7 +29764,7 @@
                 "thumbnail": "175-bounty_hunter_breaker-1-db.webp",
                 "type": [
                     "humanoid",
-                    "human"
+                    "Human"
                 ],
                 "videourl": "https://youtu.be/2sE3CStft4g?si=eEj93hurBJSLaGLG",
                 "nb_variants": 2,
@@ -29867,7 +29811,7 @@
                 "thumbnail": "175-bounty_hunter_impaler-1-db.webp",
                 "type": [
                     "humanoid",
-                    "orc"
+                    "Orc"
                 ],
                 "videourl": "https://youtu.be/2sE3CStft4g?si=eEj93hurBJSLaGLG",
                 "nb_variants": 2,
@@ -29915,7 +29859,7 @@
                 "thumbnail": "175-bounty_hunter_stalker-1-db.webp",
                 "type": [
                     "humanoid",
-                    "orc"
+                    "Orc"
                 ],
                 "videourl": "https://youtu.be/2sE3CStft4g?si=eEj93hurBJSLaGLG",
                 "nb_variants": 2,
@@ -29963,7 +29907,7 @@
                 "thumbnail": "175-bounty_hunter_trapper-1-db.webp",
                 "type": [
                     "humanoid",
-                    "human"
+                    "Human"
                 ],
                 "videourl": "https://youtu.be/2sE3CStft4g?si=eEj93hurBJSLaGLG",
                 "nb_variants": 1,
@@ -29980,6 +29924,7 @@
             "properties": {
                 "biom": [
                     "Swamp",
+                    "Coast",
                     "Coast",
                     "Ocean",
                     "Underwater",
@@ -30062,7 +30007,8 @@
                 "stat_wis": 14,
                 "thumbnail": "177-cult_possessed-1-db.webp",
                 "type": [
-                    "humanoid"
+                    "humanoid",
+                    "Cultist"
                 ],
                 "videourl": "https://youtu.be/QFNMMbf3sjo?si=D4Oxdb9f48AQX4N3",
                 "nb_variants": 1,
@@ -30115,7 +30061,7 @@
                 "thumbnail": "178-ogre_batter_brute-1-db.webp",
                 "type": [
                     "humanoid",
-                    "ogre"
+                    "Ogre"
                 ],
                 "videourl": "https://youtu.be/pRft3KcQqqs?si=y5N3x3CWgtEykxtM",
                 "nb_variants": 1,
@@ -30233,6 +30179,7 @@
                     "Lair",
                     "Ocean",
                     "Beach",
+                    "Sea",
                     "Planar",
                     "Aquatic"
                 ],
@@ -30278,6 +30225,7 @@
                     "Arctic",
                     "Wilderness",
                     "Wasteland",
+                    "Snow",
                     "Grave",
                     "Dungeon"
                 ],
@@ -30352,7 +30300,7 @@
                 "thumbnail": "182-barmaid-1-db.webp",
                 "type": [
                     "humanoid",
-                    "human"
+                    "Human"
                 ],
                 "videourl": "https://youtu.be/OyVgdN77Qxc?si=arauriS4jC4iti-3",
                 "nb_variants": 1,
@@ -30401,7 +30349,7 @@
                 "thumbnail": "183-goblin_pinecone_bomber-1-db.webp",
                 "type": [
                     "humanoid",
-                    "goblin"
+                    "Goblin"
                 ],
                 "videourl": "https://youtu.be/1eKKV2sxuVI?si=O9r_XE63EsLwxVvs",
                 "nb_variants": 1,
@@ -30503,7 +30451,7 @@
                 "thumbnail": "185-hunting_wyvern-1-db.webp",
                 "type": [
                     "dragon",
-                    "wyvern"
+                    "Wyvern"
                 ],
                 "videourl": "https://youtu.be/hAvadbSNgC0?si=GEaEiSrFbEieFqw3",
                 "nb_variants": 2,
@@ -30556,7 +30504,7 @@
                 "thumbnail": "186-vampire_huntress-1-db.webp",
                 "type": [
                     "humanoid",
-                    "human"
+                    "Human"
                 ],
                 "videourl": "https://youtu.be/WZd5yQsRX5M?si=TUppetZgKLxEmwz3",
                 "nb_variants": 2,
@@ -30605,7 +30553,7 @@
                 "stat_wis": 12,
                 "thumbnail": "187-skeletal_dune_raider-1-db.webp",
                 "type": [
-                    "undead"
+                    "Undead"
                 ],
                 "videourl": "https://youtu.be/wGJw0fkdAvo?si=TUQt3b4UhB9nupZG",
                 "nb_variants": 1,
@@ -31277,6 +31225,7 @@
                     "Urban",
                     "Road",
                     "Castle",
+                    "Urban",
                     "Tavern",
                     "Wilderness",
                     "Sacral",
@@ -31378,8 +31327,9 @@
                     "Planar",
                     "Forest",
                     "Jungle",
-                    "Wilderness",
-                    "Road"
+                    "Nature",
+                    "Road",
+                    "Wilderness"
                 ],
                 "cr": "7",
                 "fightingstyle": [
@@ -31463,7 +31413,8 @@
                     "Planar",
                     "Wilderness",
                     "Wasteland",
-                    "Arctic",
+                    "Snow",
+                    "Tundra",
                     "Mountain",
                     "Dungeon",
                     "Horror"
@@ -31510,7 +31461,7 @@
                     "Grave",
                     "Horror",
                     "Dungeon",
-                    "Catacombs"
+                    "catacombs"
                 ],
                 "cr": "11",
                 "fightingstyle": [
@@ -31556,9 +31507,9 @@
                 "biom": [
                     "Dungeon",
                     "Civilized",
-                    "Castle",
+                    "castle",
                     "Urban",
-                    "Tavern"
+                    "tavern"
                 ],
                 "cr": "6",
                 "fightingstyle": [
@@ -31653,7 +31604,8 @@
                     "Wasteland",
                     "Desert",
                     "Dungeon",
-                    "Mountain"
+                    "Planar",
+                    "mountain"
                 ],
                 "cr": "8",
                 "fightingstyle": [
@@ -31742,8 +31694,8 @@
                 "biom": [
                     "Urban",
                     "Civilized",
-                    "Castle",
-                    "Tavern",
+                    "castle",
+                    "tavern",
                     "Dungeon"
                 ],
                 "cr": "0.5",
@@ -31787,12 +31739,12 @@
             "properties": {
                 "biom": [
                     "Planar",
-                    "Mountain",
+                    "mountain",
                     "Wasteland",
-                    "Arctic",
-                    "Lair",
-                    "Wilderness",
-                    "Coast"
+                    "arctic",
+                    "lair",
+                    "wilderness",
+                    "coast"
                 ],
                 "cr": "0.25",
                 "fightingstyle": [
@@ -31832,7 +31784,7 @@
                     "Urban",
                     "Dungeon",
                     "Underground",
-                    "Cave",
+                    "cave",
                     "Road"
                 ],
                 "cr": "1",
@@ -31875,7 +31827,7 @@
                     "Urban",
                     "Dungeon",
                     "Underground",
-                    "Cave",
+                    "cave",
                     "Road"
                 ],
                 "cr": "0.5",
@@ -31918,13 +31870,13 @@
             "properties": {
                 "biom": [
                     "Planar",
-                    "Mountain",
+                    "mountain",
                     "Wasteland",
-                    "Arctic",
+                    "arctic",
                     "Dungeon",
-                    "Lair",
-                    "Coast",
-                    "Wilderness"
+                    "lair",
+                    "coast",
+                    "wilderness"
                 ],
                 "cr": "10",
                 "fightingstyle": [
@@ -32012,7 +31964,7 @@
             "name": "Draconic Devotee",
             "properties": {
                 "biom": [
-                    "Lair",
+                    "lair",
                     "Civilized",
                     "Urban",
                     "Road"
@@ -32038,7 +31990,8 @@
                 "stat_wis": 10,
                 "thumbnail": "214-draconic_devotee-1-db.webp",
                 "type": [
-                    "humanoid"
+                    "humanoid",
+                    "cultist"
                 ],
                 "videourl": "https://youtu.be/V42zCUhRN5o",
                 "nb_variants": 2,
@@ -32056,11 +32009,11 @@
                 "biom": [
                     "Planar",
                     "Infernal",
-                    "Lair",
-                    "Wilderness",
+                    "lair",
+                    "wilderness",
                     "Desert",
                     "Wasteland",
-                    "Volcano"
+                    "volcano"
                 ],
                 "cr": "8",
                 "fightingstyle": [
@@ -32148,9 +32101,9 @@
                 "biom": [
                     "Horror",
                     "Grave",
-                    "Catacombs",
+                    "catacombs",
                     "Dungeon",
-                    "Castle"
+                    "castle"
                 ],
                 "cr": "14",
                 "fightingstyle": [
@@ -32197,8 +32150,8 @@
             "properties": {
                 "biom": [
                     "Jungle",
-                    "Forest",
-                    "Wilderness",
+                    "forest",
+                    "wilderness",
                     "Dungeon",
                     "Road"
                 ],
@@ -32244,8 +32197,8 @@
             "properties": {
                 "biom": [
                     "Jungle",
-                    "Forest",
-                    "Wilderness",
+                    "forest",
+                    "wilderness",
                     "Dungeon",
                     "Road"
                 ],
@@ -32294,12 +32247,12 @@
                     "Infernal",
                     "Horror",
                     "Dungeon",
-                    "Catacombs",
+                    "catacomb",
                     "Ruin",
                     "Grave",
                     "Road",
                     "Civilized",
-                    "Castle"
+                    "castle"
                 ],
                 "cr": "7",
                 "fightingstyle": [
@@ -32392,8 +32345,8 @@
                     "Road",
                     "Civilized",
                     "Wasteland",
-                    "Forest",
-                    "Tavern",
+                    "forest",
+                    "tavern",
                     "Grave",
                     "Ruin",
                     "Horror"
@@ -32485,8 +32438,9 @@
             "properties": {
                 "biom": [
                     "Planar",
-                    "Arctic",
+                    "Winter",
                     "Horror",
+                    "Arctic",
                     "Forest"
                 ],
                 "cr": "9",
@@ -32530,7 +32484,7 @@
                     "Civilized",
                     "Dungeon",
                     "Horror",
-                    "Lair"
+                    "lair"
                 ],
                 "cr": "0.25",
                 "fightingstyle": [
@@ -32573,12 +32527,12 @@
                     "Infernal",
                     "Horror",
                     "Grave",
-                    "Forest",
-                    "Wilderness",
-                    "Wasteland",
+                    "forest",
+                    "wilderness",
+                    "wasteland",
                     "Road",
                     "Dungeon",
-                    "Cave",
+                    "cave",
                     "Underdark"
                 ],
                 "cr": "1/8",
@@ -32622,12 +32576,12 @@
                     "Infernal",
                     "Horror",
                     "Grave",
-                    "Forest",
-                    "Wilderness",
-                    "Wasteland",
+                    "forest",
+                    "wilderness",
+                    "wasteland",
                     "Road",
                     "Dungeon",
-                    "Cave",
+                    "cave",
                     "Underdark"
                 ],
                 "cr": "1/4",
@@ -32671,7 +32625,7 @@
                     "Dungeon",
                     "Horror",
                     "Grave",
-                    "Castle"
+                    "castle"
                 ],
                 "cr": "6",
                 "fightingstyle": "simple",
@@ -32711,12 +32665,12 @@
             "properties": {
                 "biom": [
                     "Planar",
-                    "Wasteland",
-                    "Wilderness",
+                    "wasteland",
+                    "wilderness",
                     "Underground",
                     "Dungeon",
                     "Desert",
-                    "Mountain"
+                    "mountain"
                 ],
                 "cr": "9",
                 "fightingstyle": "simple",
@@ -32757,7 +32711,7 @@
             "properties": {
                 "biom": [
                     "Grave",
-                    "Wilderness",
+                    "wilderness",
                     "Road",
                     "Dungeon",
                     "Ruin",
@@ -32846,13 +32800,13 @@
             "properties": {
                 "biom": [
                     "Planar",
-                    "Feywild",
+                    "feywild",
                     "Swamp",
-                    "Coast",
-                    "River",
+                    "coast",
+                    "river",
                     "Jungle",
-                    "Forest",
-                    "Wilderness",
+                    "forest",
+                    "wilderness",
                     "Ruin"
                 ],
                 "cr": "4",
@@ -32890,11 +32844,11 @@
             "name": "Pyre Wyvern",
             "properties": {
                 "biom": [
-                    "Mountain",
-                    "Desert",
-                    "Lair",
-                    "Volcano",
-                    "Dungeon"
+                    "mountain",
+                    "desert",
+                    "lair",
+                    "volcano",
+                    "dungeon"
                 ],
                 "cr": "7",
                 "fightingstyle": [
