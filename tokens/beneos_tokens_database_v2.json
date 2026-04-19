@@ -348,7 +348,7 @@
                 "fightingstyle": [
                     "Ambush",
                     "Pack",
-                    "Range"
+                    "Ranged"
                 ],
                 "movement": [
                     "Walk"
@@ -722,8 +722,7 @@
                 ],
                 "cr": "17",
                 "fightingstyle": [
-                    "Demanding",
-                    "Leader"
+                    "Demanding"
                 ],
                 "movement": [
                     "Walk"
@@ -1066,8 +1065,7 @@
                     "Swim"
                 ],
                 "purpose": [
-                    "Minion",
-                    "Beneos Loyalty Token"
+                    "Minion"
                 ],
                 "releaseurl": "https://beneos-battlemaps.com/collections/animated-tokens/products/beneos-tokens-shaman-assorted-beasts",
                 "size": "Large",
@@ -1260,7 +1258,7 @@
                 ],
                 "cr": "10",
                 "fightingstyle": [
-                    "Range",
+                    "Ranged",
                     "Demanding"
                 ],
                 "movement": [
@@ -1268,8 +1266,7 @@
                 ],
                 "purpose": [
                     "Damage",
-                    "Pressure",
-                    "Area of Effect"
+                    "Pressure"
                 ],
                 "releaseurl": "https://beneos-battlemaps.com/collections/animated-tokens/products/beneos-tokens-cursed-cannon-crew",
                 "size": "Huge",
@@ -1467,8 +1464,8 @@
                 ],
                 "cr": "13",
                 "fightingstyle": [
-                    "demanding",
-                    "tactical"
+                    "Demanding",
+                    "Tactical"
                 ],
                 "movement": [
                     "Walk"
@@ -1517,11 +1514,13 @@
                 ],
                 "cr": "0,5",
                 "fightingstyle": [
-                    "simple"
+                    "Simple"
                 ],
-                "movement": "fly",
+                "movement": [
+                    "Fly"
+                ],
                 "purpose": [
-                    "minion"
+                    "Minion"
                 ],
                 "releaseurl": "https://beneos-battlemaps.com/de/collections/2-5d-tokens/products/beneos-tokens-shamblevault-casket-bearer-kopie",
                 "size": "medium",
@@ -1615,14 +1614,16 @@
                 ],
                 "cr": "7",
                 "fightingstyle": [
-                    "tactical",
-                    "pressure",
-                    "melee"
+                    "Tactical",
+                    "Pressure",
+                    "Melee"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
-                    "boss",
-                    "duellist"
+                    "Boss",
+                    "Duelist"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "medium",
@@ -1663,14 +1664,16 @@
                 ],
                 "cr": "9",
                 "fightingstyle": [
-                    "tactical",
-                    "pressure",
-                    "melee"
+                    "Tactical",
+                    "Pressure",
+                    "Melee"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
-                    "boss",
-                    "duellist"
+                    "Boss",
+                    "Duelist"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "medium",
@@ -1711,14 +1714,16 @@
                 ],
                 "cr": "7",
                 "fightingstyle": [
-                    "tactical",
-                    "pressure",
-                    "melee"
+                    "Tactical",
+                    "Pressure",
+                    "Melee"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
-                    "boss",
-                    "duellist"
+                    "Boss",
+                    "Duelist"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "medium",
@@ -1759,13 +1764,15 @@
                 ],
                 "cr": "6",
                 "fightingstyle": [
-                    "area of effect",
-                    "demanding"
+                    "Area of Effect",
+                    "Demanding"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
-                    "tank",
-                    "debuff"
+                    "Tank",
+                    "Debuff"
                 ],
                 "releaseurl": "https://beneos-battlemaps.com/collections/2-5d-tokens/products/beneos-tokens-living-fossils",
                 "size": "huge",
@@ -1805,12 +1812,14 @@
                 "cr": "8",
                 "fightingstyle": [
                     "Airborne",
-                    "demanding"
+                    "Demanding"
                 ],
-                "movement": "fly",
+                "movement": [
+                    "Fly"
+                ],
                 "purpose": [
                     "Support",
-                    "debuff"
+                    "Debuff"
                 ],
                 "releaseurl": "https://beneos-battlemaps.com/collections/2-5d-tokens/products/beneos-tokens-living-fossils",
                 "size": "huge",
@@ -1849,13 +1858,15 @@
                 ],
                 "cr": "6",
                 "fightingstyle": [
-                    "mobile",
-                    "pack"
+                    "Mobile",
+                    "Pack"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
-                    "damage",
-                    "hunter"
+                    "Damage",
+                    "Hunter"
                 ],
                 "releaseurl": "https://beneos-battlemaps.com/collections/2-5d-tokens/products/beneos-tokens-living-fossils",
                 "size": "large",
@@ -1894,12 +1905,14 @@
                 ],
                 "cr": "10",
                 "fightingstyle": [
-                    "pressure",
-                    "pack"
+                    "Pressure",
+                    "Pack"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
-                    "damage"
+                    "Damage"
                 ],
                 "releaseurl": "https://beneos-battlemaps.com/collections/2-5d-tokens/products/beneos-tokens-living-fossils",
                 "size": "huge",
@@ -1942,15 +1955,17 @@
                 ],
                 "cr": "14",
                 "fightingstyle": [
-                    "demanding",
-                    "pressure"
+                    "Demanding",
+                    "Pressure"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
-                    "damage",
-                    "debuff",
-                    "boss",
-                    "classic"
+                    "Damage",
+                    "Debuff",
+                    "Boss",
+                    "Classic"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "gargantuan",
@@ -1991,15 +2006,17 @@
                 ],
                 "cr": "21",
                 "fightingstyle": [
-                    "lethal",
-                    "demanding"
+                    "Lethal",
+                    "Demanding"
                 ],
-                "movement": "fly",
+                "movement": [
+                    "Fly"
+                ],
                 "purpose": [
-                    "boss",
-                    "legendary",
-                    "damage",
-                    "debuff"
+                    "Boss",
+                    "Legendary",
+                    "Damage",
+                    "Debuff"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/142982420",
                 "size": "gargantuan",
@@ -2039,14 +2056,15 @@
                 ],
                 "cr": "20",
                 "fightingstyle": [
-                    "demanding",
-                    "Versatile"
+                    "Demanding"
                 ],
-                "movement": "fly",
+                "movement": [
+                    "Fly"
+                ],
                 "purpose": [
-                    "boss",
-                    "legendary",
-                    "pressure"
+                    "Boss",
+                    "Legendary",
+                    "Pressure"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "gargantuan",
@@ -2083,14 +2101,15 @@
                 ],
                 "cr": "20",
                 "fightingstyle": [
-                    "demanding",
-                    "Versatile"
+                    "Demanding"
                 ],
-                "movement": "fly",
+                "movement": [
+                    "Fly"
+                ],
                 "purpose": [
-                    "boss",
-                    "legendary",
-                    "pressure"
+                    "Boss",
+                    "Legendary",
+                    "Pressure"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "gargantuan",
@@ -2127,14 +2146,15 @@
                 ],
                 "cr": "20",
                 "fightingstyle": [
-                    "demanding",
-                    "Versatile"
+                    "Demanding"
                 ],
-                "movement": "fly",
+                "movement": [
+                    "Fly"
+                ],
                 "purpose": [
-                    "boss",
-                    "legendary",
-                    "pressure"
+                    "Boss",
+                    "Legendary",
+                    "Pressure"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "gargantuan",
@@ -2170,13 +2190,15 @@
                 ],
                 "cr": "13",
                 "fightingstyle": [
-                    "tactical",
-                    "lethal"
+                    "Tactical",
+                    "Lethal"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
-                    "boss",
-                    "debuff"
+                    "Boss",
+                    "Debuff"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "large",
@@ -2217,13 +2239,14 @@
                 ],
                 "cr": "12",
                 "fightingstyle": [
-                    "tactical",
-                    "Versatile"
+                    "Tactical"
                 ],
-                "movement": "fly",
+                "movement": [
+                    "Fly"
+                ],
                 "purpose": [
-                    "boss",
-                    "debuff"
+                    "Boss",
+                    "Debuff"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "huge",
@@ -2266,13 +2289,15 @@
                 ],
                 "cr": "9",
                 "fightingstyle": [
-                    "interactive",
-                    "AOE"
+                    "Interactive",
+                    "Area of Effect"
                 ],
-                "movement": "fly",
+                "movement": [
+                    "Fly"
+                ],
                 "purpose": [
-                    "leader",
-                    "damage"
+                    "Leader",
+                    "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "huge",
@@ -2328,7 +2353,6 @@
                 ],
                 "purpose": [
                     "Hunter",
-                    "Pack",
                     "Leader"
                 ],
                 "releaseurl": "https://beneos-battlemaps.com/de/products/beneos-tokens-the-draconic-elite",
@@ -2484,8 +2508,6 @@
                     "Fly"
                 ],
                 "purpose": [
-                    "Lethal",
-                    "Demanding",
                     "Boss"
                 ],
                 "releaseurl": "https://beneos-battlemaps.com/de/products/beneos-tokens-the-emissary-of-annihilation",
@@ -6183,7 +6205,7 @@
                     "Planar"
                 ],
                 "fightingstyle": [
-                    "Range",
+                    "Ranged",
                     "Mobile"
                 ],
                 "purpose": [
@@ -12323,7 +12345,6 @@
                     "Any"
                 ],
                 "fightingstyle": [
-                    "Gimmick",
                     "Tactical"
                 ],
                 "purpose": [
@@ -12499,8 +12520,7 @@
                     "Mobile"
                 ],
                 "purpose": [
-                    "Hunter",
-                    "Shock"
+                    "Hunter"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -12540,7 +12560,6 @@
                     "Castle"
                 ],
                 "fightingstyle": [
-                    "Tank",
                     "Melee"
                 ],
                 "purpose": [
@@ -14944,7 +14963,7 @@
                 ],
                 "purpose": [
                     "Minion",
-                    "Duellist"
+                    "Duelist"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -15713,7 +15732,7 @@
                     "Charge"
                 ],
                 "purpose": [
-                    "critter"
+                    "Critter"
                 ],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
@@ -16339,12 +16358,8 @@
                 "biom": [
                     "Any"
                 ],
-                "fightingstyle": [
-                    "None"
-                ],
-                "purpose": [
-                    "Item"
-                ],
+                "fightingstyle": [],
+                "purpose": [],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
@@ -16983,7 +16998,7 @@
                 "fightingstyle": [
                     "Spellcasting",
                     "Melee",
-                    "Range"
+                    "Ranged"
                 ],
                 "purpose": [
                     "Boss",
@@ -18134,9 +18149,7 @@
                 "fightingstyle": [
                     "Melee"
                 ],
-                "purpose": [
-                    "Simple"
-                ],
+                "purpose": [],
                 "releaseurl": "https://www.patreon.com/c/BeneosTokens",
                 "videourl": "https://www.youtube.com/watch?v=fwLYhQJNgKU",
                 "type": [
@@ -20312,7 +20325,6 @@
                 ],
                 "cr": "5",
                 "fightingstyle": [
-                    "Debuff",
                     "Melee",
                     "Interactive"
                 ],
@@ -20359,15 +20371,13 @@
                 ],
                 "cr": "5",
                 "fightingstyle": [
-                    "Debuff",
                     "Interactive"
                 ],
                 "movement": [
                     "Walk"
                 ],
                 "purpose": [
-                    "Anti Caster",
-                    "Spellcasting"
+                    "Anti Caster"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/boss-creature-51753670",
                 "size": "huge",
@@ -20545,9 +20555,7 @@
                     "Abyssal"
                 ],
                 "cr": "1",
-                "fightingstyle": [
-                    "Debuff"
-                ],
+                "fightingstyle": [],
                 "movement": [
                     "Walk"
                 ],
@@ -20693,7 +20701,6 @@
                 ],
                 "purpose": [
                     "Minion",
-                    "Pack",
                     "Classic"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/basic-creature-52930930",
@@ -21310,8 +21317,7 @@
                 "cr": "7",
                 "fightingstyle": [
                     "Tactical",
-                    "Interactive",
-                    "Leader"
+                    "Interactive"
                 ],
                 "movement": [
                     "Walk"
@@ -21356,7 +21362,7 @@
                 "cr": "4",
                 "fightingstyle": [
                     "Mobile",
-                    "Range"
+                    "Ranged"
                 ],
                 "movement": [
                     "Walk"
@@ -21407,7 +21413,7 @@
                 ],
                 "cr": "2",
                 "fightingstyle": [
-                    "Range",
+                    "Ranged",
                     "Simple"
                 ],
                 "movement": [
@@ -22606,8 +22612,7 @@
                     "Walk"
                 ],
                 "purpose": [
-                    "Minion",
-                    "Simple"
+                    "Minion"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/swifttalon-is-63666888",
                 "size": "medium",
@@ -23783,8 +23788,7 @@
                     "Walk"
                 ],
                 "purpose": [
-                    "Damage",
-                    "Simple"
+                    "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/wereboar-70000773",
                 "size": "medium",
@@ -23832,8 +23836,7 @@
                     "Walk"
                 ],
                 "purpose": [
-                    "Damage",
-                    "Simple"
+                    "Damage"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/wereboar-70000773",
                 "size": "medium",
@@ -24171,7 +24174,7 @@
                 ],
                 "cr": "3",
                 "fightingstyle": [
-                    "Range",
+                    "Ranged",
                     "Interactive"
                 ],
                 "movement": [
@@ -24989,16 +24992,12 @@
                     "Jungle"
                 ],
                 "cr": "9",
-                "fightingstyle": [
-                    "Anti Caster",
-                    "Gimmick"
-                ],
+                "fightingstyle": [],
                 "movement": [
                     "Walk"
                 ],
                 "purpose": [
-                    "Tank",
-                    "Melee"
+                    "Tank"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/swordbearer-76910448",
                 "size": "Huge",
@@ -25039,7 +25038,7 @@
                 ],
                 "cr": "5",
                 "fightingstyle": [
-                    "Range",
+                    "Ranged",
                     "Area of Effect",
                     "Interactive"
                 ],
@@ -25239,7 +25238,6 @@
                 ],
                 "cr": "5",
                 "fightingstyle": [
-                    "Support",
                     "Pack"
                 ],
                 "movement": [
@@ -25336,7 +25334,6 @@
                 ],
                 "cr": "4",
                 "fightingstyle": [
-                    "Duelist",
                     "Shock"
                 ],
                 "movement": [
@@ -25682,17 +25679,11 @@
                     "Tropical"
                 ],
                 "cr": "7",
-                "fightingstyle": [
-                    "Gimmick",
-                    "Debuff"
-                ],
+                "fightingstyle": [],
                 "movement": [
                     "Walk"
                 ],
-                "purpose": [
-                    "Regeneration",
-                    "Demanding"
-                ],
+                "purpose": [],
                 "releaseurl": "",
                 "size": "Huge",
                 "stat_ac": 15,
@@ -26519,7 +26510,6 @@
                     "Walk"
                 ],
                 "purpose": [
-                    "Pack",
                     "Minion"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/voracious-85864426",
@@ -26565,7 +26555,6 @@
                     "Burrow"
                 ],
                 "purpose": [
-                    "Pack",
                     "Pressure",
                     "Leader"
                 ],
@@ -26911,7 +26900,7 @@
                 ],
                 "cr": "5",
                 "fightingstyle": [
-                    "Range",
+                    "Ranged",
                     "Mobile"
                 ],
                 "movement": [
@@ -27013,7 +27002,7 @@
                 ],
                 "cr": "0.5",
                 "fightingstyle": [
-                    "Range",
+                    "Ranged",
                     "Pack"
                 ],
                 "movement": [
@@ -27217,7 +27206,7 @@
                 "fightingstyle": [
                     "Simple",
                     "Pack",
-                    "Range"
+                    "Ranged"
                 ],
                 "movement": [
                     "Walk"
@@ -27616,7 +27605,7 @@
                 "cr": "3",
                 "fightingstyle": [
                     "Pack",
-                    "Range"
+                    "Ranged"
                 ],
                 "movement": [
                     "Walk"
@@ -27662,15 +27651,11 @@
                     "Tavern"
                 ],
                 "cr": "1",
-                "fightingstyle": [
-                    "Duelist"
-                ],
+                "fightingstyle": [],
                 "movement": [
                     "Walk"
                 ],
-                "purpose": [
-                    "Shock"
-                ],
+                "purpose": [],
                 "releaseurl": "https://www.patreon.com/posts/back-alley-94411472",
                 "size": "Medium",
                 "stat_ac": 15,
@@ -28704,7 +28689,6 @@
                 ],
                 "cr": "7",
                 "fightingstyle": [
-                    "Damage",
                     "Mobile"
                 ],
                 "movement": [
@@ -28942,7 +28926,6 @@
                 ],
                 "cr": "5",
                 "fightingstyle": [
-                    "Debuff",
                     "Melee"
                 ],
                 "movement": [
@@ -29697,7 +29680,7 @@
                 ],
                 "cr": "8",
                 "fightingstyle": [
-                    "Range",
+                    "Ranged",
                     "Spellcasting"
                 ],
                 "movement": [
@@ -29755,7 +29738,6 @@
                     "Walk"
                 ],
                 "purpose": [
-                    "Shock",
                     "Classic"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/City-guard-110442793",
@@ -29845,7 +29827,7 @@
                 ],
                 "cr": "5",
                 "fightingstyle": [
-                    "Range"
+                    "Ranged"
                 ],
                 "movement": [
                     "Walk"
@@ -29940,7 +29922,7 @@
                 ],
                 "cr": "5",
                 "fightingstyle": [
-                    "Range",
+                    "Ranged",
                     "Area of Effect"
                 ],
                 "movement": [
@@ -30198,9 +30180,7 @@
                 "movement": [
                     "Burrow"
                 ],
-                "purpose": [
-                    "Shock"
-                ],
+                "purpose": [],
                 "releaseurl": "https://www.patreon.com/posts/giant-luremaw-114033722",
                 "size": "Huge",
                 "stat_ac": 14,
@@ -30244,9 +30224,7 @@
                 "movement": [
                     "Swim"
                 ],
-                "purpose": [
-                    "Shock"
-                ],
+                "purpose": [],
                 "releaseurl": "https://www.patreon.com/posts/giant-luremaw-114033722",
                 "size": "Huge",
                 "stat_ac": 14,
@@ -30378,7 +30356,7 @@
                 "fightingstyle": [
                     "Ambush",
                     "Pack",
-                    "Range"
+                    "Ranged"
                 ],
                 "movement": [
                     "Walk"
@@ -30480,7 +30458,6 @@
                 ],
                 "cr": "1",
                 "fightingstyle": [
-                    "Hunter",
                     "Mobile"
                 ],
                 "movement": [
@@ -30534,8 +30511,7 @@
                 ],
                 "cr": "6",
                 "fightingstyle": [
-                    "Hunter",
-                    "Range"
+                    "Ranged"
                 ],
                 "movement": [
                     "Walk"
@@ -30590,7 +30566,6 @@
                 ],
                 "purpose": [
                     "Minion",
-                    "Pack",
                     "Classic"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/117234057",
@@ -30628,13 +30603,15 @@
                 ],
                 "cr": "8",
                 "fightingstyle": [
-                    "demanding",
-                    "AOE"
+                    "Demanding",
+                    "Area of Effect"
                 ],
-                "movement": "fly",
+                "movement": [
+                    "Fly"
+                ],
                 "purpose": [
-                    "damage",
-                    "debuff"
+                    "Damage",
+                    "Debuff"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/188-conflagrator-120868369",
                 "size": "huge",
@@ -30675,11 +30652,13 @@
                 ],
                 "cr": "0.5",
                 "fightingstyle": [
-                    "melee"
+                    "Melee"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
-                    "minion",
+                    "Minion",
                     "Support"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/189-hellspawned-120869662",
@@ -30725,7 +30704,9 @@
                     "Ambush",
                     "Swallow"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
                     "Minion",
                     "Support"
@@ -30769,11 +30750,13 @@
                 ],
                 "cr": "1/4",
                 "fightingstyle": [
-                    "simple"
+                    "Simple"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
-                    "minion",
+                    "Minion",
                     "Classic"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
@@ -30817,7 +30800,9 @@
                     "Tactical",
                     "Spellcasting"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
                     "Ally",
                     "Support",
@@ -30862,9 +30847,11 @@
                 ],
                 "cr": "11",
                 "fightingstyle": [
-                    "pressure"
+                    "Pressure"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
                     "Leader",
                     "Support",
@@ -30911,10 +30898,14 @@
                 ],
                 "cr": "1",
                 "fightingstyle": [
-                    "simple"
+                    "Simple"
                 ],
-                "movement": "walk",
-                "purpose": "minion",
+                "movement": [
+                    "Walk"
+                ],
+                "purpose": [
+                    "Minion"
+                ],
                 "releaseurl": "https://www.patreon.com/posts/193-grave-golem-123141614",
                 "size": "medium",
                 "stat_ac": 12,
@@ -30955,11 +30946,14 @@
                 "cr": "6",
                 "fightingstyle": [
                     "Charge",
-                    "Melee",
-                    "Classic"
+                    "Melee"
                 ],
-                "movement": "walk",
-                "purpose": "duelist",
+                "movement": [
+                    "Walk"
+                ],
+                "purpose": [
+                    "Duelist"
+                ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "large",
                 "stat_ac": 20,
@@ -30996,9 +30990,11 @@
                 ],
                 "cr": "5",
                 "fightingstyle": [
-                    "melee"
+                    "Melee"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
                     "Duelist",
                     "Tank",
@@ -31044,7 +31040,9 @@
                     "Melee",
                     "Pressure"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
                     "Bodyguard",
                     "Tank",
@@ -31096,7 +31094,9 @@
                     "Melee",
                     "Pack"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
                     "Duelist",
                     "Support",
@@ -31147,8 +31147,12 @@
                     "Ambush",
                     "Swallow"
                 ],
-                "movement": "fly",
-                "purpose": "gimmick",
+                "movement": [
+                    "Fly"
+                ],
+                "purpose": [
+                    "Gimmick"
+                ],
                 "releaseurl": "https://www.patreon.com/posts/197-soulgrasp-125973747",
                 "size": "medium",
                 "stat_ac": 16,
@@ -31197,8 +31201,12 @@
                     "Pack",
                     "Charge"
                 ],
-                "movement": "walk",
-                "purpose": "Support",
+                "movement": [
+                    "Walk"
+                ],
+                "purpose": [
+                    "Support"
+                ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "medium",
                 "stat_ac": 15,
@@ -31236,11 +31244,13 @@
                 ],
                 "cr": "3",
                 "fightingstyle": [
-                    "ambush"
+                    "Ambush"
                 ],
-                "movement": "fly",
+                "movement": [
+                    "Fly"
+                ],
                 "purpose": [
-                    "damage",
+                    "Damage",
                     "Classic"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/126770917",
@@ -31287,7 +31297,9 @@
                     "Tactical",
                     "Pack"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
                     "Anti Caster",
                     "Debuff",
@@ -31339,7 +31351,9 @@
                     "Regeneration",
                     "Shock"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
                     "Tank",
                     "Damage"
@@ -31386,8 +31400,12 @@
                     "Regeneration",
                     "Tactical"
                 ],
-                "movement": "walk",
-                "purpose": "debuff",
+                "movement": [
+                    "Walk"
+                ],
+                "purpose": [
+                    "Debuff"
+                ],
                 "releaseurl": "https://www.patreon.com/posts/203-curseroot-129903613",
                 "size": "huge",
                 "stat_ac": 15,
@@ -31427,7 +31445,9 @@
                     "Demanding",
                     "Pressure"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
                     "Damage",
                     "Debuff"
@@ -31473,8 +31493,10 @@
                     "Ambush",
                     "Pack"
                 ],
-                "movement": "fly",
-                "purpose": "shock",
+                "movement": [
+                    "Fly"
+                ],
+                "purpose": [],
                 "releaseurl": "https://www.patreon.com/posts/204-nightmaiden-129904124",
                 "size": "medium",
                 "stat_ac": 15,
@@ -31514,12 +31536,14 @@
                 ],
                 "cr": "11",
                 "fightingstyle": [
-                    "simple"
+                    "Simple"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
-                    "damage",
-                    "tank"
+                    "Damage",
+                    "Tank"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/205-torn-titan-131510974",
                 "size": "gargantuan",
@@ -31562,13 +31586,14 @@
                 ],
                 "cr": "6",
                 "fightingstyle": [
-                    "ambush",
-                    "swallow"
+                    "Ambush"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
-                    "leader",
-                    "gimmick",
+                    "Leader",
+                    "Gimmick",
                     "Classic"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/205-torn-titan-131510974",
@@ -31609,14 +31634,16 @@
                 ],
                 "cr": "10",
                 "fightingstyle": [
-                    "demanding",
-                    "tactical"
+                    "Demanding",
+                    "Tactical"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
-                    "leader",
-                    "damage",
-                    "debuff",
+                    "Leader",
+                    "Damage",
+                    "Debuff",
                     "Classic"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/205-torn-titan-131510974",
@@ -31657,12 +31684,13 @@
                 ],
                 "cr": "8",
                 "fightingstyle": [
-                    "demanding"
+                    "Demanding"
                 ],
-                "movement": "fly",
+                "movement": [
+                    "Fly"
+                ],
                 "purpose": [
-                    "tank",
-                    "area of effect"
+                    "Tank"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/209-living-134274790",
                 "size": "huge",
@@ -31701,13 +31729,15 @@
                 ],
                 "cr": "9",
                 "fightingstyle": [
-                    "demanding",
-                    "tactical"
+                    "Demanding",
+                    "Tactical"
                 ],
-                "movement": "fly",
+                "movement": [
+                    "Fly"
+                ],
                 "purpose": [
                     "Support",
-                    "debuff",
+                    "Debuff",
                     "Classic"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/205-torn-titan-131510974",
@@ -31748,11 +31778,13 @@
                 ],
                 "cr": "0.5",
                 "fightingstyle": [
-                    "simple"
+                    "Simple"
                 ],
-                "movement": "fly",
+                "movement": [
+                    "Fly"
+                ],
                 "purpose": [
-                    "debuff",
+                    "Debuff",
                     "Support",
                     "Classic"
                 ],
@@ -31796,10 +31828,14 @@
                 ],
                 "cr": "0.25",
                 "fightingstyle": [
-                    "simple"
+                    "Simple"
                 ],
-                "movement": "walk",
-                "purpose": "minion",
+                "movement": [
+                    "Walk"
+                ],
+                "purpose": [
+                    "Minion"
+                ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "medium",
                 "stat_ac": 15,
@@ -31837,11 +31873,15 @@
                 ],
                 "cr": "1",
                 "fightingstyle": [
-                    "mobile",
-                    "charge"
+                    "Mobile",
+                    "Charge"
                 ],
-                "movement": "walk",
-                "purpose": "minion",
+                "movement": [
+                    "Walk"
+                ],
+                "purpose": [
+                    "Minion"
+                ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "medium",
                 "stat_ac": 16,
@@ -31880,13 +31920,15 @@
                 ],
                 "cr": "0.5",
                 "fightingstyle": [
-                    "ranged",
-                    "predator"
+                    "Ranged",
+                    "Predator"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
-                    "damage",
-                    "hunter"
+                    "Damage",
+                    "Hunter"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "small",
@@ -31928,13 +31970,15 @@
                 ],
                 "cr": "10",
                 "fightingstyle": [
-                    "demanding",
-                    "AOE"
+                    "Demanding",
+                    "Area of Effect"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
-                    "damage",
-                    "pressure"
+                    "Damage",
+                    "Pressure"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "huge",
@@ -31970,14 +32014,16 @@
                 ],
                 "cr": "1",
                 "fightingstyle": [
-                    "pack",
-                    "shock",
-                    "ambush"
+                    "Pack",
+                    "Shock",
+                    "Ambush"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
-                    "gimmick",
-                    "minion"
+                    "Gimmick",
+                    "Minion"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/137159709",
                 "size": "huge",
@@ -32019,12 +32065,14 @@
                 ],
                 "cr": "1",
                 "fightingstyle": [
-                    "pack"
+                    "Pack"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
                     "Support",
-                    "minion"
+                    "Minion"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/new-cultist-138520141",
                 "size": "medium",
@@ -32064,14 +32112,16 @@
                 ],
                 "cr": "8",
                 "fightingstyle": [
-                    "demanding",
-                    "AOE",
-                    "mobile"
+                    "Demanding",
+                    "Area of Effect",
+                    "Mobile"
                 ],
-                "movement": "fly",
+                "movement": [
+                    "Fly"
+                ],
                 "purpose": [
-                    "damage",
-                    "debuff"
+                    "Damage",
+                    "Debuff"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "huge",
@@ -32108,12 +32158,14 @@
                 ],
                 "cr": "5",
                 "fightingstyle": [
-                    "interactive"
+                    "Interactive"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
                     "Support",
-                    "debuff"
+                    "Debuff"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "medium",
@@ -32154,16 +32206,18 @@
                 ],
                 "cr": "14",
                 "fightingstyle": [
-                    "demanding",
-                    "tactical",
-                    "interactive"
+                    "Demanding",
+                    "Tactical",
+                    "Interactive"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
-                    "boss",
-                    "leader",
-                    "gimmick",
-                    "classic"
+                    "Boss",
+                    "Leader",
+                    "Gimmick",
+                    "Classic"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "large",
@@ -32204,12 +32258,14 @@
                 ],
                 "cr": "6",
                 "fightingstyle": [
-                    "interactive",
-                    "melee"
+                    "Interactive",
+                    "Melee"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
-                    "leader",
+                    "Leader",
                     "Support"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
@@ -32251,13 +32307,15 @@
                 ],
                 "cr": "3",
                 "fightingstyle": [
-                    "pack",
-                    "melee"
+                    "Pack",
+                    "Melee"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
-                    "minion",
-                    "gimmick"
+                    "Minion",
+                    "Gimmick"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "large",
@@ -32303,14 +32361,16 @@
                 ],
                 "cr": "7",
                 "fightingstyle": [
-                    "melee",
-                    "regeneration"
+                    "Melee",
+                    "Regeneration"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
-                    "tank",
-                    "duellist",
-                    "debuff"
+                    "Tank",
+                    "Duelist",
+                    "Debuff"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/new-champion-143576712",
                 "size": "large",
@@ -32350,13 +32410,15 @@
                 ],
                 "cr": "4",
                 "fightingstyle": [
-                    "charge",
-                    "melee"
+                    "Charge",
+                    "Melee"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
-                    "damage",
-                    "tank"
+                    "Damage",
+                    "Tank"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "medium",
@@ -32400,13 +32462,15 @@
                 ],
                 "cr": "6",
                 "fightingstyle": [
-                    "predator",
-                    "shock"
+                    "Predator",
+                    "Shock"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
-                    "duellist",
-                    "hunter"
+                    "Duelist",
+                    "Hunter"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "medium",
@@ -32446,14 +32510,14 @@
                 ],
                 "cr": "4",
                 "fightingstyle": [
-                    "Versatile",
-                    "AOE",
-                    "summon"
+                    "Area of Effect"
                 ],
-                "movement": "walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
                     "Support",
-                    "debuff"
+                    "Debuff"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "small",
@@ -32494,7 +32558,9 @@
                     "Demanding",
                     "Pressure"
                 ],
-                "movement": "Walk",
+                "movement": [
+                    "Walk"
+                ],
                 "purpose": [
                     "Gimmick",
                     "Debuff"
@@ -32534,11 +32600,15 @@
                 ],
                 "cr": "0.25",
                 "fightingstyle": [
-                    "pack",
-                    "charge"
+                    "Pack",
+                    "Charge"
                 ],
-                "movement": "walk",
-                "purpose": "pressure",
+                "movement": [
+                    "Walk"
+                ],
+                "purpose": [
+                    "Pressure"
+                ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "small",
                 "stat_ac": 93,
@@ -32583,11 +32653,15 @@
                 ],
                 "cr": "1/8",
                 "fightingstyle": [
-                    "pack",
-                    "airborne"
+                    "Pack",
+                    "Airborne"
                 ],
-                "movement": "fly",
-                "purpose": "debuff",
+                "movement": [
+                    "Fly"
+                ],
+                "purpose": [
+                    "Debuff"
+                ],
                 "releaseurl": "https://www.patreon.com/posts/148615451",
                 "size": "tiny",
                 "stat_ac": 93,
@@ -32632,11 +32706,15 @@
                 ],
                 "cr": "1/4",
                 "fightingstyle": [
-                    "pack",
-                    "airborne"
+                    "Pack",
+                    "Airborne"
                 ],
-                "movement": "fly",
-                "purpose": "debuff",
+                "movement": [
+                    "Fly"
+                ],
+                "purpose": [
+                    "Debuff"
+                ],
                 "releaseurl": "https://www.patreon.com/posts/148615451",
                 "size": "medium",
                 "stat_ac": 93,
@@ -32674,11 +32752,15 @@
                     "Castle"
                 ],
                 "cr": "6",
-                "fightingstyle": "simple",
-                "movement": "fly",
+                "fightingstyle": [
+                    "Simple"
+                ],
+                "movement": [
+                    "Fly"
+                ],
                 "purpose": [
-                    "gimmick",
-                    "debuff"
+                    "Gimmick",
+                    "Debuff"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "large",
@@ -32719,11 +32801,15 @@
                     "Mountain"
                 ],
                 "cr": "9",
-                "fightingstyle": "simple",
-                "movement": "fly",
+                "fightingstyle": [
+                    "Simple"
+                ],
+                "movement": [
+                    "Fly"
+                ],
                 "purpose": [
-                    "damage",
-                    "tank"
+                    "Damage",
+                    "Tank"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "huge",
@@ -32764,11 +32850,14 @@
                     "Horror"
                 ],
                 "cr": "2",
-                "fightingstyle": "ambush",
-                "movement": "burrow",
+                "fightingstyle": [
+                    "Ambush"
+                ],
+                "movement": [
+                    "Burrow"
+                ],
                 "purpose": [
-                    "shock",
-                    "debuff"
+                    "Debuff"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/150985233",
                 "size": "large",
@@ -32807,13 +32896,15 @@
                 ],
                 "cr": "5",
                 "fightingstyle": [
-                    "shock",
-                    "pack"
+                    "Shock",
+                    "Pack"
                 ],
-                "movement": "fly",
+                "movement": [
+                    "Fly"
+                ],
                 "purpose": [
-                    "minion",
-                    "debuff"
+                    "Minion",
+                    "Debuff"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "large",
@@ -32856,11 +32947,15 @@
                     "Ruin"
                 ],
                 "cr": "4",
-                "fightingstyle": "ambush",
-                "movement": "swim",
+                "fightingstyle": [
+                    "Ambush"
+                ],
+                "movement": [
+                    "Swim"
+                ],
                 "purpose": [
-                    "gimmick",
-                    "debuff"
+                    "Gimmick",
+                    "Debuff"
                 ],
                 "releaseurl": "https://www.patreon.com/c/beneostokens",
                 "size": "large",
@@ -32898,14 +32993,16 @@
                 ],
                 "cr": "7",
                 "fightingstyle": [
-                    "shock",
-                    "mobile",
-                    "airborne"
+                    "Shock",
+                    "Mobile",
+                    "Airborne"
                 ],
-                "movement": "fly",
+                "movement": [
+                    "Fly"
+                ],
                 "purpose": [
-                    "damage",
-                    "debuff"
+                    "Damage",
+                    "Debuff"
                 ],
                 "releaseurl": "https://www.patreon.com/posts/156035943",
                 "size": "huge",
