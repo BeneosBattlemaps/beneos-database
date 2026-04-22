@@ -48,25 +48,10 @@
         "hidden_tags": []
       }
     },
-    "0005_stormbreaker": {
-      "key": "0005_stormbreaker",
-      "description": "An indomitable tower shield imbued with tempest's fury",
-      "name": "Stormbreaker",
-      "properties": {
-        "rarity": "Legendary",
-        "attunement": true,
-        "origin": "giantforged",
-        "item_type": "Shield",
-        "tier": 3,
-        "price": "49600",
-        "icon": "0005_stormbreaker-icon.webp",
-        "hidden_tags": []
-      }
-    },
     "0006_sea_tyrants_scales": {
       "key": "0006_sea_tyrants_scales",
       "description": "Scale armor, reducing damage taken and imbuing you with the hybris of a Leviathan.",
-      "name": "Sea Tyrants Scales",
+      "name": "Sea Tyrant's Scales",
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
@@ -78,25 +63,10 @@
         "hidden_tags": []
       }
     },
-    "0007_cloak_of_photosynthesis": {
-      "key": "0007_cloak_of_photosynthesis",
-      "description": "A cloak that slowly heals you when in direct sunlight",
-      "name": "Cloak Of Photosynthesis",
-      "properties": {
-        "rarity": "Uncommon",
-        "attunement": true,
-        "origin": "druidic",
-        "item_type": "Clothing",
-        "tier": 1,
-        "price": "800",
-        "icon": "0007_cloak_of_photosynthesis-icon.webp",
-        "hidden_tags": []
-      }
-    },
     "0008_scythe_of_the_long_march": {
       "key": "0008_scythe_of_the_long_march",
       "description": "A grisly weapon allowing you to endure grave wounds and march on seemingly forever.",
-      "name": "Scythe Of The Long March",
+      "name": "Scythe of the Long March",
       "properties": {
         "rarity": "Rare",
         "attunement": true,
@@ -126,7 +96,7 @@
     "0010_eye_of_obliteration": {
       "key": "0010_eye_of_obliteration",
       "description": "An eye replacement enabling you to turn enemies into dust by looking at them.",
-      "name": "Eye Of Obliteration",
+      "name": "Eye of Obliteration",
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
@@ -135,51 +105,6 @@
         "tier": 4,
         "price": "108000",
         "icon": "0010_eye_of_obliteration-icon.webp",
-        "hidden_tags": []
-      }
-    },
-    "0011_graveblade1": {
-      "key": "0011_graveblade1",
-      "description": "A sword dealing more damage to already wounded creatures.",
-      "name": "Graveblade +1",
-      "properties": {
-        "rarity": "Rare",
-        "attunement": true,
-        "origin": "occult",
-        "item_type": "Melee Weapon",
-        "tier": 1,
-        "price": "1700",
-        "icon": "0011_graveblade1-icon.webp",
-        "hidden_tags": []
-      }
-    },
-    "0011_graveblade2": {
-      "key": "0011_graveblade2",
-      "description": "A sword dealing more damage to already wounded creatures.",
-      "name": "Graveblade +2",
-      "properties": {
-        "rarity": "Rare",
-        "attunement": true,
-        "origin": "occult",
-        "item_type": "Melee Weapon",
-        "tier": 2,
-        "price": "2900",
-        "icon": "0011_graveblade2-icon.webp",
-        "hidden_tags": []
-      }
-    },
-    "0011_graveblade3": {
-      "key": "0011_graveblade3",
-      "description": "A sword dealing more damage to already wounded creatures.",
-      "name": "Graveblade +3",
-      "properties": {
-        "rarity": "Rare",
-        "attunement": true,
-        "origin": "occult",
-        "item_type": "Melee Weapon",
-        "tier": 3,
-        "price": "4400",
-        "icon": "0011_graveblade3-icon.webp",
         "hidden_tags": []
       }
     },
@@ -216,7 +141,7 @@
     "0014_dreamers_prison": {
       "key": "0014_dreamers_prison",
       "description": "A morbid artifact allowing you to imprison a creature within the head's dream.",
-      "name": "Dreamers Prison",
+      "name": "Dreamer's Prison",
       "properties": {
         "rarity": "Uncommon",
         "attunement": true,
@@ -310,7 +235,7 @@
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
-        "origin": "giant_forged",
+        "origin": "giantforged",
         "item_type": "Medium Armor",
         "tier": 2,
         "price": "6600",
@@ -378,21 +303,6 @@
         "hidden_tags": []
       }
     },
-    "0028_fleshgrafter_workgloves": {
-      "key": "0028_fleshgrafter_workgloves",
-      "description": "Summon a giant mummified arm and crush your foes with it.",
-      "name": "Fleshgrafter Workgloves",
-      "properties": {
-        "rarity": "Rare",
-        "attunement": true,
-        "origin": "occult",
-        "item_type": "Trinket",
-        "tier": 2,
-        "price": "2600",
-        "icon": "0028_fleshgrafter_workgloves-icon.webp",
-        "hidden_tags": []
-      }
-    },
     "0002_devils_deck_sweeper": {
       "key": "0002_devils_deck_sweeper",
       "name": "Devil's Deck Sweeper",
@@ -411,7 +321,7 @@
     "0031_gravewardens_bell": {
       "key": "0031_gravewardens_bell",
       "description": "This bell grants communion with the Deathshroud, allowing you to partake in its holy silence and grant its burial shroud.",
-      "name": "Gravewardens Bell",
+      "name": "Gravewarden's Bell",
       "properties": {
         "rarity": "Rare",
         "attunement": true,
@@ -460,7 +370,7 @@
       "properties": {
         "rarity": "Rare",
         "attunement": false,
-        "origin": "techno_arcane",
+        "origin": "technoarcane",
         "item_type": "Consumable",
         "tier": 1,
         "price": "800",
@@ -501,7 +411,7 @@
     "0037_grovekeepers_promise": {
       "key": "0037_grovekeepers_promise",
       "description": "Activating this magical shield, you become rooted to the earth, nigh impossible to shift, as thorny vines lash at your enemies.",
-      "name": "Grovekeepers Promise",
+      "name": "Grovekeeper's Promise",
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
@@ -591,7 +501,7 @@
     "0043_conquerors_chalice": {
       "key": "0043_conquerors_chalice",
       "description": "Imbibe a worty enemy's life blood to increase your maximum hit points and terrorize its kindred.",
-      "name": "Conquerors Chalice",
+      "name": "Conqueror's Chalice",
       "properties": {
         "rarity": "Rare",
         "attunement": true,
@@ -636,7 +546,7 @@
     "0046_mourners_frock": {
       "key": "0046_mourners_frock",
       "description": "You gain access to two of the Mourner's signature spells, allowing you to stalk the mists in style.",
-      "name": "Mourners Frock",
+      "name": "Mourner's Frock",
       "properties": {
         "rarity": "Rare",
         "attunement": true,
@@ -651,7 +561,7 @@
     "0049_foremans_flask": {
       "key": "0049_foremans_flask",
       "description": "Drink from the flask to benefit from a short rest. Do so secretly to also gain 2d10 temporary hit points.",
-      "name": "Foremans Flask",
+      "name": "Foreman's Flask",
       "properties": {
         "rarity": "Uncommon",
         "attunement": true,
@@ -660,21 +570,6 @@
         "tier": 1,
         "price": "1700",
         "icon": "0049_foremans_flask-icon.webp",
-        "hidden_tags": []
-      }
-    },
-    "0049_wrathfire_talisman": {
-      "key": "0049_wrathfire_talisman",
-      "description": "Wreath yourself in scorching Wrathfire, granting you increased damage and resistance at the low cost of risking mindless rage.",
-      "name": "Wrathfire Talisman",
-      "properties": {
-        "rarity": "Rare",
-        "attunement": true,
-        "origin": "infernal",
-        "item_type": "Trinket",
-        "tier": 2,
-        "price": "3800",
-        "icon": "0049_wrathfire_talisman-icon.webp",
         "hidden_tags": []
       }
     },
@@ -711,7 +606,7 @@
     "0050_brawlers_eagerness": {
       "key": "0050_brawlers_eagerness",
       "description": "Gain a bonus to your initiative roll and possibly to your movement speed and number of attacks.",
-      "name": "Brawlers Eagerness",
+      "name": "Brawler's Eagerness",
       "properties": {
         "rarity": "Uncommon",
         "attunement": true,
@@ -903,21 +798,6 @@
         "hidden_tags": []
       }
     },
-    "0062_three_feather_tricorne": {
-      "key": "0062_three_feather_tricorne",
-      "name": "Three Feather Tricorne",
-      "description": "",
-      "properties": {
-        "rarity": "Rare",
-        "attunement": true,
-        "origin": "blessed",
-        "item_type": "Clothing",
-        "tier": 2,
-        "price": "2800",
-        "icon": "0062_three_feather_tricorne-icon.webp",
-        "hidden_tags": []
-      }
-    },
     "0063_nightbloom_chalice": {
       "key": "0063_nightbloom_chalice",
       "description": "A chalic offering a healing nectar every night, can also be used to befriend local wildlife.",
@@ -1071,7 +951,7 @@
     "0073_visage_of_dismay": {
       "key": "0073_visage_of_dismay",
       "description": "Draw strength from your allies' failures or chastise them to do better.",
-      "name": "Visage Of Dismay",
+      "name": "Visage of Dismay",
       "properties": {
         "rarity": "Rare",
         "attunement": true,
@@ -1101,7 +981,7 @@
     "0075_grace_of_the_shade_court": {
       "key": "0075_grace_of_the_shade_court",
       "description": "Wearing the cowl enhances your charisma and allows you to diminish harm or fortify your resolve with regal grace.",
-      "name": "Grace Of The Shade Court",
+      "name": "Grace of the Shade Court",
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
@@ -1116,7 +996,7 @@
     "0076_mask_of_the_third_eye": {
       "key": "0076_mask_of_the_third_eye",
       "description": "This mask enhances your perception and intellect while granting powerful divinatory and defensive abilities.",
-      "name": "Mask Of The Third Eye",
+      "name": "Mask of the Third Eye",
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
@@ -1131,7 +1011,7 @@
     "0077_windup_key": {
       "key": "0077_windup_key",
       "description": "Use the Windup-Key to animate an object, with the option to either hasten it or blowing it up.",
-      "name": "Windup Key",
+      "name": "Windup-Key",
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
@@ -1480,7 +1360,7 @@
       "properties": {
         "rarity": "Rare",
         "attunement": true,
-        "origin": "techno_arcane",
+        "origin": "technoarcane",
         "item_type": "Hat",
         "tier": 1,
         "price": "2200",
@@ -1993,6 +1873,112 @@
         "icon": "0129_harrowing_gutpipes-icon.webp",
         "hidden_tags": []
       }
+    },
+    "0130_bandana_of_bravado": {
+      "key": "0130_bandana_of_bravado",
+      "name": "Bandana of Bravado",
+      "description": "Gain Risk Dice through daring maneuvers, spend them to push through.",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "awoken",
+        "item_type": "Clothing",
+        "tier": 1,
+        "price": "2350",
+        "icon": "0130_bandana_of_bravado-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0131_blessing_of_the_vaettir": {
+      "key": "0131_blessing_of_the_vaettir",
+      "name": "Blessing of the Vaettir",
+      "description": "Bolsters your defences against various damage types.",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "elemental",
+        "item_type": "Trinket",
+        "tier": 3,
+        "price": "17500",
+        "icon": "0131_blessing_of_the_vaettir-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0132_gloomspore_cap": {
+      "key": "0132_gloomspore_cap",
+      "name": "Gloomspore Cap",
+      "description": "Expel spores to regain life and talk to mushrooms.",
+      "properties": {
+        "rarity": "Uncommon",
+        "attunement": true,
+        "origin": "druidic",
+        "item_type": "Clothing",
+        "tier": 1,
+        "price": "3100",
+        "icon": "0132_gloomspore_cap-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0133_voltgheist_shroud": {
+      "key": "0133_voltgheist_shroud",
+      "name": "Voltgheist Shroud",
+      "description": "Grants various means to phase through creatures and objects.",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "technoarcane",
+        "item_type": "Cloak",
+        "tier": 3,
+        "price": "14500",
+        "icon": "0133_voltgheist_shroud-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0062_three_feather_tricorne": {
+      "key": "0062_three_feather_tricorne",
+      "name": "Three Feather Tricorne",
+      "description": "",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "blessed",
+        "item_type": "Clothing",
+        "tier": 2,
+        "price": "2800",
+        "icon": "0062_three_feather_tricorne-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0011_graveblade": {
+      "key": "0011_graveblade",
+      "name": "Graveblade",
+      "description": "",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "occult",
+        "item_type": "Longsword",
+        "tier": 3,
+        "price": "4400",
+        "icon": "0011_graveblade-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0021_wrathfire_talisman": {
+      "key": "0021_wrathfire_talisman",
+      "name": "Wrathfire Talisman",
+      "description": "",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": false,
+        "origin": "infernal",
+        "item_type": "Trinket",
+        "tier": 2,
+        "price": "3800",
+        "icon": "0021_wrathfire_talisman-icon.webp",
+        "hidden_tags": []
+	  }
+
     }
   }
 }
