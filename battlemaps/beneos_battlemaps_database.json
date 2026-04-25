@@ -48096,6 +48096,606 @@
                                 "download_creator": "Beneos Battlemaps",
                                 "hidden_tags": []
                                 }
+                    },
+                    "109-01_highland_cliff_a-4k_BM":{
+                        "name":"highland cliff a",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"109_Stormridge_Highlands",
+                        "releaseurl":"WIP",
+                        "sibling":"109-01_highland_cliff_a-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"109-01_highland_cliff_a-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Stormridge Highlands - 109",
+                        "download_terms": "BM: highland cliff a",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "109-01_highland_cliff_a-4k_Scen":{
+                                "name":"highland cliff a",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"109_Stormridge_Highlands",
+                                "releaseurl":"WIP",
+                                "sibling":"109-01_highland_cliff_a-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"109-01_highland_cliff_a-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Stormridge Highlands - 109",
+                                "download_terms": "SC: highland cliff a",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "109-02_highland_cliff_creek-4k_BM":{
+                        "name":"highland cliff creek",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"109_Stormridge_Highlands",
+                        "releaseurl":"WIP",
+                        "sibling":"109-02_highland_cliff_creek-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"109-02_highland_cliff_creek-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Stormridge Highlands - 109",
+                        "download_terms": "BM: highland cliff creek",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "109-02_highland_cliff_creek-4k_Scen":{
+                                "name":"highland cliff creek",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"109_Stormridge_Highlands",
+                                "releaseurl":"WIP",
+                                "sibling":"109-02_highland_cliff_creek-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"109-02_highland_cliff_creek-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Stormridge Highlands - 109",
+                                "download_terms": "SC: highland cliff creek",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "109-03_highland_shore_a-4k_BM":{
+                        "name":"highland shore a",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Beach","Exteriour","Wilderness", "Mountain","Hill"],
+                        "brightness":"Medium",
+                        "grid":"32x18",
+                        "pack":"109_Stormridge_Highlands",
+                        "releaseurl":"WIP",
+                        "sibling":"109-03_highland_shore_a-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"109-03_highland_shore_a-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Stormridge Highlands - 109",
+                        "download_terms": "BM: highland shore a",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "109-03_highland_shore_a-4k_Scen":{
+                                "name":"highland shore a",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Beach","Exteriour","Wilderness", "Mountain","Hill"],
+                                "brightness":"Medium",
+                                "grid":"32x18",
+                                "pack":"109_Stormridge_Highlands",
+                                "releaseurl":"WIP",
+                                "sibling":"109-03_highland_shore_a-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"109-03_highland_shore_a-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Stormridge Highlands - 109",
+                                "download_terms": "SC: highland shore a",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "109-04_island_cliff_nest-4k_BM":{
+                        "name":"island cliff nest",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Beach","Exteriour","Nest", "Mountain","Nest"],
+                        "brightness":"dark",
+                        "grid":"40x40",
+                        "pack":"109_Stormridge_Highlands",
+                        "releaseurl":"WIP",
+                        "sibling":"109-04_island_cliff_nest-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"109-04_island_cliff_nest-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Stormridge Highlands - 109",
+                        "download_terms": "BM: island cliff nest",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "109-04_island_cliff_nest-4k_Scen":{
+                                "name":"island cliff nest",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Beach","Exteriour","Nest", "Mountain","Nest"],
+                                "brightness":"dark",
+                                "grid":"40x40",
+                                "pack":"109_Stormridge_Highlands",
+                                "releaseurl":"WIP",
+                                "sibling":"109-04_island_cliff_nest-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"109-04_island_cliff_nest-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Stormridge Highlands - 109",
+                                "download_terms": "SC: island cliff nest",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "109-05_highland_road_a-4k_BM":{
+                        "name":"highland road a",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill","Road"],
+                        "brightness":"dark",
+                        "grid":"35x30",
+                        "pack":"109_Stormridge_Highlands",
+                        "releaseurl":"WIP",
+                        "sibling":"109-05_highland_road_a-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"109-05_highland_road_a-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Stormridge Highlands - 109",
+                        "download_terms": "BM: highland road a",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "109-05_highland_road_a-4k_Scen":{
+                                "name":"highland road a",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill","Road"],
+                                "brightness":"dark",
+                                "grid":"35x30",
+                                "pack":"109_Stormridge_Highlands",
+                                "releaseurl":"WIP",
+                                "sibling":"109-05_highland_road_a-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"109-05_highland_road_a-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Stormridge Highlands - 109",
+                                "download_terms": "SC: highland road a",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "109-06_highland_crossroads-4k_BM":{
+                        "name":"highland crossroads",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill"],
+                        "brightness":"dark",
+                        "grid":"35x30",
+                        "pack":"109_Stormridge_Highlands",
+                        "releaseurl":"WIP",
+                        "sibling":"109-06_highland_crossroads-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"109-06_highland_crossroads-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Stormridge Highlands - 109",
+                        "download_terms": "BM: highland crossroads",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "109-06_highland_crossroads-4k_Scen":{
+                                "name":"highland crossroads",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill"],
+                                "brightness":"dark",
+                                "grid":"35x30",
+                                "pack":"109_Stormridge_Highlands",
+                                "releaseurl":"WIP",
+                                "sibling":"109-06_highland_crossroads-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"109-06_highland_crossroads-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Stormridge Highlands - 109",
+                                "download_terms": "SC: highland crossroads",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "109-07_highland_road_b-4k_BM":{
+                        "name":"highland road b",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill","Road"],
+                        "brightness":"Medium",
+                        "grid":"35x30",
+                        "pack":"109_Stormridge_Highlands",
+                        "releaseurl":"WIP",
+                        "sibling":"109-07_highland_road_b-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"109-07_highland_road_b-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Stormridge Highlands - 109",
+                        "download_terms": "BM: highland road b",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "109-07_highland_road_b-4k_Scen":{
+                                "name":"highland road b",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill","Road"],
+                                "brightness":"Medium",
+                                "grid":"35x30",
+                                "pack":"109_Stormridge_Highlands",
+                                "releaseurl":"WIP",
+                                "sibling":"109-07_highland_road_b-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"109-07_highland_road_b-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Stormridge Highlands - 109",
+                                "download_terms": "SC: highland road b",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "109-08_highland_cliff_b-4k_BM":{
+                        "name":"highland cliff b",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill"],
+                        "brightness":"Medium",
+                        "grid":"35x30",
+                        "pack":"109_Stormridge_Highlands",
+                        "releaseurl":"WIP",
+                        "sibling":"109-08_highland_cliff_b-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"109-08_highland_cliff_b-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Stormridge Highlands - 109",
+                        "download_terms": "BM: highland cliff b",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "109-08_highland_cliff_b-4k_Scen":{
+                                "name":"highland cliff b",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill"],
+                                "brightness":"Medium",
+                                "grid":"35x30",
+                                "pack":"109_Stormridge_Highlands",
+                                "releaseurl":"WIP",
+                                "sibling":"109-08_highland_cliff_b-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"109-08_highland_cliff_b-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Stormridge Highlands - 109",
+                                "download_terms": "SC: highland cliff b",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "109-09_highland_road_c-4k_BM":{
+                        "name":"highland road c",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill","Road"],
+                        "brightness":"Medium",
+                        "grid":"35x25",
+                        "pack":"109_Stormridge_Highlands",
+                        "releaseurl":"WIP",
+                        "sibling":"109-09_highland_road_c-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"109-09_highland_road_c-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Stormridge Highlands - 109",
+                        "download_terms": "BM: highland road c",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "109-09_highland_road_c-4k_Scen":{
+                                "name":"highland road c",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill","Road"],
+                                "brightness":"Medium",
+                                "grid":"35x25",
+                                "pack":"109_Stormridge_Highlands",
+                                "releaseurl":"WIP",
+                                "sibling":"109-09_highland_road_c-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"109-09_highland_road_c-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Stormridge Highlands - 109",
+                                "download_terms": "SC: highland road c",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "109-10_highland_valley_a-4k_BM":{
+                        "name":"highland valley a",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill"],
+                        "brightness":"dark",
+                        "grid":"35x25",
+                        "pack":"109_Stormridge_Highlands",
+                        "releaseurl":"WIP",
+                        "sibling":"109-10_highland_valley_a-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"109-10_highland_valley_a-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Stormridge Highlands - 109",
+                        "download_terms": "BM: highland valley a",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "109-10_highland_valley_a-4k_Scen":{
+                                "name":"highland valley a",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill"],
+                                "brightness":"dark",
+                                "grid":"35x25",
+                                "pack":"109_Stormridge_Highlands",
+                                "releaseurl":"WIP",
+                                "sibling":"109-10_highland_valley_a-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"109-10_highland_valley_a-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Stormridge Highlands - 109",
+                                "download_terms": "SC: highland valley a",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "109-11_highland_valley_b-4k_BM":{
+                        "name":"highland valley b",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill"],
+                        "brightness":"dark",
+                        "grid":"35x25",
+                        "pack":"109_Stormridge_Highlands",
+                        "releaseurl":"WIP",
+                        "sibling":"109-11_highland_valley_b-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"109-11_highland_valley_b-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Stormridge Highlands - 109",
+                        "download_terms": "BM: highland valley b",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "109-11_highland_valley_b-4k_Scen":{
+                                "name":"highland valley b",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill"],
+                                "brightness":"dark",
+                                "grid":"35x25",
+                                "pack":"109_Stormridge_Highlands",
+                                "releaseurl":"WIP",
+                                "sibling":"109-11_highland_valley_b-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"109-11_highland_valley_b-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Stormridge Highlands - 109",
+                                "download_terms": "SC: highland valley b",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "109-12_highland_valley_c-4k_BM":{
+                        "name":"highland valley c",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill"],
+                        "brightness":"dark",
+                        "grid":"35x25",
+                        "pack":"109_Stormridge_Highlands",
+                        "releaseurl":"WIP",
+                        "sibling":"109-12_highland_valley_c-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"109-12_highland_valley_c-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Stormridge Highlands - 109",
+                        "download_terms": "BM: highland valley c",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "109-12_highland_valley_c-4k_Scen":{
+                                "name":"highland valley c",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill"],
+                                "brightness":"dark",
+                                "grid":"35x25",
+                                "pack":"109_Stormridge_Highlands",
+                                "releaseurl":"WIP",
+                                "sibling":"109-12_highland_valley_c-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"109-12_highland_valley_c-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Stormridge Highlands - 109",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "109-13_highland_camp_a-4k_BM":{
+                        "name":"highland camp a",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill","Camp","Night"],
+                        "brightness":"Medium",
+                        "grid":"35x25",
+                        "pack":"109_Stormridge_Highlands",
+                        "releaseurl":"WIP",
+                        "sibling":"109-13_highland_camp_a-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"109-13_highland_camp_a-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Stormridge Highlands - 109",
+                        "download_terms": "BM: highland camp a",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "109-13_highland_camp_a-4k_Scen":{
+                                "name":"highland camp a",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill","Camp","Night"],
+                                "brightness":"Medium",
+                                "grid":"35x25",
+                                "pack":"109_Stormridge_Highlands",
+                                "releaseurl":"WIP",
+                                "sibling":"109-13_highland_camp_a-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"109-13_highland_camp_a-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Stormridge Highlands - 109",
+                                "download_terms": "SC: highland camp a",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "109-14_highland_camp_b-4k_BM":{
+                        "name":"highland camp b",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill","Camp","Night"],
+                        "brightness":"Medium",
+                        "grid":"35x25",
+                        "pack":"109_Stormridge_Highlands",
+                        "releaseurl":"WIP",
+                        "sibling":"109-14_highland_camp_b-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"109-14_highland_camp_b-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Stormridge Highlands - 109",
+                        "download_terms": "BM: highland camp b",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "109-14_highland_camp_b-4k_Scen":{
+                                "name":"highland camp b",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill","Camp","Night"],
+                                "brightness":"Medium",
+                                "grid":"35x25",
+                                "pack":"109_Stormridge_Highlands",
+                                "releaseurl":"WIP",
+                                "sibling":"109-14_highland_camp_b-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"109-14_highland_camp_b-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Stormridge Highlands - 109",
+                                "download_terms": "SC: highland camp b",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
+                    },
+                    "109-15_highland_gorge-4k_BM":{
+                        "name":"highland gorge",
+                        "description":"",
+                        "properties":{
+                        "adventure":["None"],
+                        "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill"],
+                        "brightness":"Medium",
+                        "grid":"35x25",
+                        "pack":"109_Stormridge_Highlands",
+                        "releaseurl":"WIP",
+                        "sibling":"109-15_highland_gorge-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"109-15_highland_gorge-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Stormridge Highlands - 109",
+                        "download_terms": "BM: highland gorge",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": []
+                        }
+                            },
+                            "109-15_highland_gorge-4k_Scen":{
+                                "name":"highland gorge",
+                                "description":"",
+                                "properties":{
+                                "adventure":["None"],
+                                "biom":["Grassland","Exteriour","Wilderness", "Mountain","Hill"],
+                                "brightness":"Medium",
+                                "grid":"35x25",
+                                "pack":"109_Stormridge_Highlands",
+                                "releaseurl":"WIP",
+                                "sibling":"109-15_highland_gorge-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"109-15_highland_gorge-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Stormridge Highlands - 109",
+                                "download_terms": "SC: highland gorge",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": []
+                                }
                             }
                         }
                     }
