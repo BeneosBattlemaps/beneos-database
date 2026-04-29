@@ -1977,8 +1977,36 @@
         "price": "3800",
         "icon": "0021_wrathfire_talisman-icon.webp",
         "hidden_tags": []
+      }
+    },
+    "0141_magebane_injector": {
+      "key": "0141_magebane_injector",
+      "name": "Magebane Injector",
+      "description": "Inject to dramatically weaken spellcaster.",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": false,
+        "origin": "techno_arcane",
+        "item_type": "Consumable",
+        "tier": 1,
+        "price": "1950",
+        "icon": "0141_magebane_injector-icon.webp",
+        "hidden_tags": []
 	  }
-
+    },
+    "0146_suppressor_shackles": {
+      "key": "0146_suppressor_shackles",
+      "name": "Suppressor Shackles",
+      "description": "",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "sanctified",
+        "item_type": "Adventuring Gear",
+        "tier": 2,
+        "price": "6300",
+        "icon": "0146_suppressor_shackles-icon.webp",
+        "hidden_tags": []
     }
   }
-}
+}}
