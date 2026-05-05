@@ -1271,7 +1271,7 @@
         "level": "7",
         "school": "Evocation",
         "casting_time": "Action",
-        "concentration": false,
+        "concentration": true,
         "ritual": false,
         "spell_type": "Area Damage",
         "classes": [
@@ -2249,7 +2249,7 @@
         "level": "3",
         "school": "Conjuration",
         "casting_time": "Action",
-        "concentration": true,
+        "concentration": false,
         "ritual": false,
         "spell_type": "Area Damage",
         "classes": [
