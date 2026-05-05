@@ -2706,7 +2706,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "Regeneration",
+        "spell_type": "Restoration",
         "classes": [
           "bard, cleric, druid, paladin, sorcerer, warlock, wizard"
         ],
@@ -3147,7 +3147,7 @@
         "casting_time": "Action",
         "concentration": true,
         "ritual": false,
-        "spell_type": "",
+        "spell_type": "Immobilization",
         "classes": [
           "Bard",
           "Cleric",
@@ -3173,7 +3173,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "",
+        "spell_type": "Area Damage",
         "classes": [
           "Bard",
           "Cleric",
@@ -3313,7 +3313,7 @@
         "casting_time": "1 Hour",
         "concentration": false,
         "ritual": false,
-        "spell_type": "",
+        "spell_type": "Restoration",
         "classes": [
           "Bard",
           "Sorcerer",
@@ -3338,7 +3338,7 @@
         "casting_time": "Bonus Action",
         "concentration": true,
         "ritual": false,
-        "spell_type": "",
+        "spell_type": "Immobilization",
         "classes": [
           "Bard",
           "Druid",
@@ -3366,7 +3366,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "",
+        "spell_type": "Debuff",
         "classes": [
           "Cleric"
         ],
@@ -3388,7 +3388,7 @@
         "casting_time": "1 Minute",
         "concentration": true,
         "ritual": false,
-        "spell_type": "",
+        "spell_type": "Area Damage",
         "classes": [
           "Bard",
           "Sorcerer",
@@ -3520,7 +3520,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "",
+        "spell_type": "Utility",
         "classes": [
           "Artificer",
           "Bard",
@@ -3547,7 +3547,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "",
+        "spell_type": "Utility",
         "classes": [
           "Artificer",
           "Bard",
@@ -3574,7 +3574,7 @@
         "casting_time": "Action",
         "concentration": true,
         "ritual": false,
-        "spell_type": "",
+        "spell_type": "Buff",
         "classes": [
           "Cleric",
           "Druid"
