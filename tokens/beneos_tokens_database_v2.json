@@ -2537,13 +2537,13 @@
                 ],
                 "videourl": "https://youtu.be/tnOtP7tXB7M",
                 "nb_variants": 6,
-                "shortdesc": "Draconic Elites are otherworldly might given vaguely humanoid shape, towering...",
+                "shortdesc": "Draconic might given vaguely humanoid shape.",
                 "faction": [
                     
                 ],
                 "source": "Loyalty Token",
                 "campaign": [
-                    "Curse of Strahd"
+                    
                 ],
                 "hidden_tags": [
                     
@@ -2588,7 +2588,6 @@
                 "stat_wis": 99,
                 "thumbnail": "000-month_30_pyre_wyvern_knight-1-db.webp",
                 "type": [
-                    "humanoid",
                     "dragon"
                 ],
                 "videourl": "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",

@@ -3509,6 +3509,84 @@
         "hidden_tags": []
       },
       "beneosDatabasePath": "J:/Beneos_Webservice/Online_Search/beneos-database"
+    },
+    "0000_prestidigitation": {
+      "key": "0000_prestidigitation",
+      "description": "",
+      "name": "Prestidigitation",
+      "properties": {
+        "level": "0",
+        "school": "Transmutation",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Artificer",
+          "Bard",
+          "Sorcerer",
+          "Warlock",
+          "Wizard"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0000_prestidigitation-icon.webp",
+        "hidden_tags": []
+      },
+      "beneosDatabasePath": "J:/Beneos_Webservice/Online_Search/beneos-database"
+    },
+    "0000_message": {
+      "key": "0000_message",
+      "description": "",
+      "name": "Message",
+      "properties": {
+        "level": "0",
+        "school": "Transmutation",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Artificer",
+          "Bard",
+          "Druid",
+          "Sorcerer",
+          "Wizard"
+        ],
+        "components": [
+          "S",
+          "M"
+        ],
+        "icon": "0000_message-icon.webp",
+        "hidden_tags": []
+      },
+      "beneosDatabasePath": "J:/Beneos_Webservice/Online_Search/beneos-database"
+    },
+    "0000_guidance": {
+      "key": "0000_guidance",
+      "description": "",
+      "name": "Guidance",
+      "properties": {
+        "level": "0",
+        "school": "Divination",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Cleric",
+          "Druid"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0000_guidance-icon.webp",
+        "hidden_tags": []
+      },
+      "beneosDatabasePath": "J:/Beneos_Webservice/Online_Search/beneos-database"
     }
   }
 }
