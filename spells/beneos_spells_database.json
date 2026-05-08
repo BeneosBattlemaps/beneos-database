@@ -3413,8 +3413,7 @@
         ],
         "icon": "0125_a_place_of_shades-icon.webp",
         "hidden_tags": []
-      },
-      "beneosDatabasePath": "J:/Beneos_Webservice/Online_Search/beneos-database"
+      }
     },
     "0123_gorgons_gaze": {
       "key": "0123_gorgons_gaze",
@@ -3440,8 +3439,7 @@
         ],
         "icon": "0123_gorgons_gaze-icon.webp",
         "hidden_tags": []
-      },
-      "beneosDatabasePath": "J:/Beneos_Webservice/Online_Search/beneos-database"
+      }
     },
     "0124_dreamsilk_strand": {
       "key": "0124_dreamsilk_strand",
@@ -3468,8 +3466,7 @@
         ],
         "icon": "0124_dreamsilk_strand-icon.webp",
         "hidden_tags": []
-      },
-      "beneosDatabasePath": "J:/Beneos_Webservice/Online_Search/beneos-database"
+      }
     },
     "0126_guardian_beast": {
       "key": "0126_guardian_beast",
@@ -3494,8 +3491,7 @@
         ],
         "icon": "0126_guardian_beast-icon.webp",
         "hidden_tags": []
-      },
-      "beneosDatabasePath": "J:/Beneos_Webservice/Online_Search/beneos-database"
+      }
     },
     "0000_srd_acid_arrow": {
       "key": "0000_srd_acid_arrow",
