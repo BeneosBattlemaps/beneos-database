@@ -15,8 +15,7 @@
         "tier": 3,
         "price": "52800",
         "icon": "0001_nightfall-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0003_shamblevault_coffin": {
@@ -31,8 +30,7 @@
         "tier": 1,
         "price": "3400",
         "icon": "0003_shamblevault_coffin-icon.webp",
-        "hidden_tags": [],
-        "free_content": true
+        "hidden_tags": []
       }
     },
     "0004_harrowshrike_deathmask": {
@@ -47,8 +45,7 @@
         "tier": 2,
         "price": "4300",
         "icon": "0004_harrowshrike_deathmask-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0006_sea_tyrants_scales": {
@@ -63,8 +60,7 @@
         "tier": 2,
         "price": "5800",
         "icon": "0006_sea_tyrants_scales-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0008_scythe_of_the_long_march": {
@@ -79,8 +75,7 @@
         "tier": 1,
         "price": "2900",
         "icon": "0008_scythe_of_the_long_march-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0009_blood_toll_bracers": {
@@ -95,8 +90,7 @@
         "tier": 1,
         "price": "900",
         "icon": "0009_blood_toll_bracers-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0010_eye_of_obliteration": {
@@ -111,8 +105,7 @@
         "tier": 4,
         "price": "108000",
         "icon": "0010_eye_of_obliteration-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0012_defuser_harness": {
@@ -127,8 +120,7 @@
         "tier": 2,
         "price": "5400",
         "icon": "0012_defuser_harness-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0013_shoreclaimer": {
@@ -143,8 +135,7 @@
         "tier": 1,
         "price": "1800",
         "icon": "0013_shoreclaimer-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0014_dreamers_prison": {
@@ -159,8 +150,7 @@
         "tier": 2,
         "price": "2600",
         "icon": "0014_dreamers_prison-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0015_sunflower_scepter": {
@@ -175,8 +165,7 @@
         "tier": 2,
         "price": "4400",
         "icon": "0015_sunflower_scepter-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0016_harrowshrike_harness": {
@@ -191,8 +180,7 @@
         "tier": 1,
         "price": "1600",
         "icon": "0016_harrowshrike_harness-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0017_griefplate": {
@@ -207,8 +195,7 @@
         "tier": 2,
         "price": "6200",
         "icon": "0017_griefplate-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0018_gatebreaker_gauntlets": {
@@ -223,8 +210,7 @@
         "tier": 3,
         "price": "28800",
         "icon": "0018_gatebreaker_gauntlets-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0019_osseous_mask": {
@@ -239,8 +225,7 @@
         "tier": 1,
         "price": "2500",
         "icon": "0019_osseous_mask-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0020_stormstrider_boots": {
@@ -255,8 +240,7 @@
         "tier": 2,
         "price": "6600",
         "icon": "0020_stormstrider_boots-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0022_ossian_crown": {
@@ -271,8 +255,7 @@
         "tier": 1,
         "price": "2700",
         "icon": "0022_ossian_crown-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0024_ancestral_fragment": {
@@ -287,8 +270,7 @@
         "tier": 2,
         "price": "2100",
         "icon": "0024_ancestral_fragment-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0025_lightbringer_torch": {
@@ -303,8 +285,7 @@
         "tier": 2,
         "price": "4600",
         "icon": "0025_lightbringer_torch-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0026_molten_core": {
@@ -319,8 +300,7 @@
         "tier": 2,
         "price": "4800",
         "icon": "0026_molten_core-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0002_devils_deck_sweeper": {
@@ -335,8 +315,7 @@
         "tier": 2,
         "price": "3100",
         "icon": "0002_devils_deck_sweeper-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0031_gravewardens_bell": {
@@ -351,8 +330,7 @@
         "tier": 1,
         "price": "750",
         "icon": "0031_gravewardens_bell-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0032_crescent_moon": {
@@ -367,8 +345,7 @@
         "tier": 2,
         "price": "4400",
         "icon": "0032_crescent_moon-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0034_cloak_of_billowing_ash": {
@@ -383,8 +360,7 @@
         "tier": 3,
         "price": "48000",
         "icon": "0034_cloak_of_billowing_ash-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0033_wiredevil": {
@@ -399,8 +375,7 @@
         "tier": 1,
         "price": "800",
         "icon": "0033_wiredevil-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0035_dreamraker": {
@@ -415,8 +390,7 @@
         "tier": 2,
         "price": "6600",
         "icon": "0035_dreamraker-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0036_vermin_crown": {
@@ -431,8 +405,7 @@
         "tier": 1,
         "price": "2200",
         "icon": "0036_vermin_crown-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0037_grovekeepers_promise": {
@@ -447,8 +420,7 @@
         "tier": 2,
         "price": "5600",
         "icon": "0037_grovekeepers_promise-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0038_seed_of_renewal": {
@@ -463,8 +435,7 @@
         "tier": 1,
         "price": "3200",
         "icon": "0038_seed_of_renewal-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0039_blade_sage_scroll": {
@@ -479,8 +450,7 @@
         "tier": 1,
         "price": "3800",
         "icon": "0039_blade_sage_scroll-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0040_jungle_monarch": {
@@ -495,8 +465,7 @@
         "tier": 2,
         "price": "3600",
         "icon": "0040_jungle_monarch-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0041_lantern_of_waning_hope": {
@@ -511,8 +480,7 @@
         "tier": 1,
         "price": "2700",
         "icon": "0041_lantern_of_waning_hope-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0042_rothail_shortbow": {
@@ -527,8 +495,7 @@
         "tier": 1,
         "price": "1400",
         "icon": "0042_rothail_shortbow-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0043_conquerors_chalice": {
@@ -543,8 +510,7 @@
         "tier": 1,
         "price": "2100",
         "icon": "0043_conquerors_chalice-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0044_ghoulskin_gloves": {
@@ -559,8 +525,7 @@
         "tier": 1,
         "price": "1700",
         "icon": "0044_ghoulskin_gloves-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0045_bridgehead": {
@@ -575,8 +540,7 @@
         "tier": 2,
         "price": "5200",
         "icon": "0045_bridgehead-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0046_mourners_frock": {
@@ -591,8 +555,7 @@
         "tier": 2,
         "price": "4700",
         "icon": "0046_mourners_frock-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0049_foremans_flask": {
@@ -607,8 +570,7 @@
         "tier": 1,
         "price": "1700",
         "icon": "0049_foremans_flask-icon.webp",
-        "hidden_tags": [],
-        "free_content": true
+        "hidden_tags": []
       }
     },
     "0047_beast_hunters_cowl": {
@@ -623,8 +585,7 @@
         "tier": 2,
         "price": "2200",
         "icon": "0047_beast_hunters_cowl-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0048_fadesilk_shroud": {
@@ -639,8 +600,7 @@
         "tier": 2,
         "price": "3200",
         "icon": "0048_fadesilk_shroud-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0050_brawlers_eagerness": {
@@ -655,8 +615,7 @@
         "tier": 1,
         "price": "700",
         "icon": "0050_brawlers_eagerness-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0051_blessed_bindings": {
@@ -671,8 +630,7 @@
         "tier": 1,
         "price": "350",
         "icon": "0051_blessed_bindings-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0053_robes_of_reflection": {
@@ -687,8 +645,7 @@
         "tier": 1,
         "price": "900",
         "icon": "0053_robes_of_reflection-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0052_dark_shepherd_cursed": {
@@ -703,8 +660,7 @@
         "tier": 2,
         "price": "4200",
         "icon": "0052_dark_shepherd_cursed-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0052_dark_shepherd": {
@@ -719,8 +675,7 @@
         "tier": 2,
         "price": "4200",
         "icon": "0052_dark_shepherd-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0054_slumbering_huskblade": {
@@ -735,8 +690,7 @@
         "tier": 2,
         "price": "3600",
         "icon": "0054_slumbering_huskblade-icon.webp",
-        "hidden_tags": [],
-        "free_content": true
+        "hidden_tags": []
       }
     },
     "0055_awoken_huskblade": {
@@ -751,8 +705,7 @@
         "tier": 2,
         "price": "5800",
         "icon": "0055_awoken_huskblade-icon.webp",
-        "hidden_tags": [],
-        "free_content": true
+        "hidden_tags": []
       }
     },
     "0056_hiveheart": {
@@ -767,8 +720,7 @@
         "tier": 2,
         "price": "5000",
         "icon": "0056_hiveheart-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0057_sullen_knights_helmet": {
@@ -783,8 +735,7 @@
         "tier": 1,
         "price": "2700",
         "icon": "0057_sullen_knights_helmet-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0058_bascinet_of_ancient_tactica": {
@@ -799,8 +750,7 @@
         "tier": 2,
         "price": "12500",
         "icon": "0058_bascinet_of_ancient_tactica-icon.webp",
-        "hidden_tags": [],
-        "free_content": true
+        "hidden_tags": []
       }
     },
     "0059_bottlesnatcher_imp": {
@@ -815,8 +765,7 @@
         "tier": 1,
         "price": "2600",
         "icon": "0059_bottlesnatcher_imp-icon.webp",
-        "hidden_tags": [],
-        "free_content": true
+        "hidden_tags": []
       }
     },
     "0060_heart_of_iron": {
@@ -831,8 +780,7 @@
         "tier": 2,
         "price": "13600",
         "icon": "0060_heart_of_iron-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0061_spelldrinker_scroll": {
@@ -847,8 +795,7 @@
         "tier": 2,
         "price": "3900",
         "icon": "0061_spelldrinker_scroll-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0063_nightbloom_chalice": {
@@ -863,8 +810,7 @@
         "tier": 1,
         "price": "2900",
         "icon": "0063_nightbloom_chalice-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0064_boreal_bulwark": {
@@ -879,8 +825,7 @@
         "tier": 2,
         "price": "5200",
         "icon": "0064_boreal_bulwark-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0065_duskdreamers_diadem": {
@@ -895,8 +840,7 @@
         "tier": 2,
         "price": "3200",
         "icon": "0065_duskdreamers_diadem-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0066_death_ink": {
@@ -911,8 +855,7 @@
         "tier": 3,
         "price": "18000",
         "icon": "0066_death_ink-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0067_whispermaw_strain": {
@@ -927,8 +870,7 @@
         "tier": 3,
         "price": "14200",
         "icon": "0067_whispermaw_strain-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0068_magmatic_molasses": {
@@ -943,8 +885,7 @@
         "tier": 2,
         "price": "2800",
         "icon": "0068_magmatic_molasses-icon.webp",
-        "hidden_tags": [],
-        "free_content": true
+        "hidden_tags": []
       }
     },
     "0069_drought_draught": {
@@ -959,8 +900,7 @@
         "tier": 2,
         "price": "6000",
         "icon": "0069_drought_draught-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0070_crown_of_defiance": {
@@ -975,8 +915,7 @@
         "tier": 3,
         "price": "100000",
         "icon": "0070_crown_of_defiance-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0071_hags_due": {
@@ -991,8 +930,7 @@
         "tier": 1,
         "price": "1900",
         "icon": "0071_hags_due-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0072_slimesword": {
@@ -1007,8 +945,7 @@
         "tier": 1,
         "price": "2100",
         "icon": "0072_slimesword-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0073_visage_of_dismay": {
@@ -1023,8 +960,7 @@
         "tier": 2,
         "price": "5700",
         "icon": "0073_visage_of_dismay-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0074_dawnmartyr_pelerine": {
@@ -1039,8 +975,7 @@
         "tier": 3,
         "price": "25700",
         "icon": "0074_dawnmartyr_pelerine-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0075_grace_of_the_shade_court": {
@@ -1055,8 +990,7 @@
         "tier": 3,
         "price": "44800",
         "icon": "0075_grace_of_the_shade_court-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0076_mask_of_the_third_eye": {
@@ -1071,8 +1005,7 @@
         "tier": 2,
         "price": "189000",
         "icon": "0076_mask_of_the_third_eye-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0077_windup_key": {
@@ -1087,8 +1020,7 @@
         "tier": 2,
         "price": "5200",
         "icon": "0077_windup_key-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0078_enslaver_stake": {
@@ -1103,8 +1035,7 @@
         "tier": 1,
         "price": "2600",
         "icon": "0078_enslaver_stake-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0079_martyrs_ash": {
@@ -1119,8 +1050,7 @@
         "tier": 1,
         "price": "2600",
         "icon": "0079_martyrs_ash-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0080_mind_tyrant": {
@@ -1135,8 +1065,7 @@
         "tier": 2,
         "price": "13700",
         "icon": "0080_mind_tyrant-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0082_convergence_crest": {
@@ -1151,8 +1080,7 @@
         "tier": 3,
         "price": "37200",
         "icon": "0082_convergence_crest-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0083_ghostflicker_habit": {
@@ -1167,8 +1095,7 @@
         "tier": 2,
         "price": "5200",
         "icon": "0083_ghostflicker_habit-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0084_reefs_splendour": {
@@ -1183,8 +1110,7 @@
         "tier": 2,
         "price": "4750",
         "icon": "0084_reefs_splendour-icon.webp",
-        "hidden_tags": [],
-        "free_content": true
+        "hidden_tags": []
       }
     },
     "0085_shield_of_the_sepulchral_saint": {
@@ -1199,8 +1125,7 @@
         "tier": 2,
         "price": "8200",
         "icon": "0085_shield_of_the_sepulchral_saint-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0087_irontide_raidmask": {
@@ -1215,8 +1140,7 @@
         "tier": 2,
         "price": "4600",
         "icon": "0087_irontide_raidmask-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0088_fluttershade_habit": {
@@ -1231,8 +1155,7 @@
         "tier": 1,
         "price": "1750",
         "icon": "0088_fluttershade_habit-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0086_gravelord_scepter": {
@@ -1247,8 +1170,7 @@
         "tier": 3,
         "price": "17500",
         "icon": "0086_gravelord_scepter-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0089_staff_of_multiple_minds": {
@@ -1263,8 +1185,7 @@
         "tier": 3,
         "price": "24700",
         "icon": "0089_staff_of_multiple_minds-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0090_lightning_shrike": {
@@ -1279,8 +1200,7 @@
         "tier": 2,
         "price": "6700",
         "icon": "0090_lightning_shrike-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0091_dark_promise": {
@@ -1295,8 +1215,7 @@
         "tier": 3,
         "price": "44800",
         "icon": "0091_dark_promise-icon.webp",
-        "hidden_tags": [],
-        "free_content": true
+        "hidden_tags": []
       }
     },
     "0092_rod_of_the_silent_saint": {
@@ -1311,8 +1230,7 @@
         "tier": 3,
         "price": "32000",
         "icon": "0092_rod_of_the_silent_saint-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0093_sunscorched_shield": {
@@ -1327,8 +1245,7 @@
         "tier": 2,
         "price": "3800",
         "icon": "0093_sunscorched_shield-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0098_sphinx_key": {
@@ -1343,8 +1260,7 @@
         "tier": 1,
         "price": "2850",
         "icon": "0098_sphinx_key-icon.webp",
-        "hidden_tags": [],
-        "free_content": true
+        "hidden_tags": []
       }
     },
     "0099_killing_thought": {
@@ -1359,8 +1275,7 @@
         "tier": 2,
         "price": "1250",
         "icon": "0099_killing_thought-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0100_latchling_vial": {
@@ -1375,8 +1290,7 @@
         "tier": 1,
         "price": "480",
         "icon": "0100_latchling_vial-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0101_spookshroud": {
@@ -1391,8 +1305,7 @@
         "tier": 2,
         "price": "13001",
         "icon": "0101_spookshroud-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0081_truthtaker": {
@@ -1407,8 +1320,7 @@
         "tier": 1,
         "price": "1800",
         "icon": "0081_truthtaker-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0095_muspelhammer": {
@@ -1423,8 +1335,7 @@
         "tier": 1,
         "price": "1800",
         "icon": "0095_muspelhammer-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0094_trench_digger": {
@@ -1439,8 +1350,7 @@
         "tier": 2,
         "price": "3100",
         "icon": "0094_trench_digger-icon.webp",
-        "hidden_tags": [],
-        "free_content": true
+        "hidden_tags": []
       }
     },
     "0096_overseers_hardhat": {
@@ -1455,8 +1365,7 @@
         "tier": 1,
         "price": "2200",
         "icon": "0096_overseers_hardhat-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0097_potion_of_healing": {
@@ -1471,8 +1380,7 @@
         "tier": 1,
         "price": "50",
         "icon": "0097_potion_of_healing-icon.webp",
-        "hidden_tags": [],
-        "free_content": true
+        "hidden_tags": []
       }
     },
     "0097_potion_of_greater_healing": {
@@ -1487,8 +1395,7 @@
         "tier": 1,
         "price": "100",
         "icon": "0097_potion_of_greater_healing-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0097_potion_of_superior_healing": {
@@ -1503,8 +1410,7 @@
         "tier": 1,
         "price": "250",
         "icon": "0097_potion_of_superior_healing-icon.webp",
-        "hidden_tags": [],
-        "free_content": true
+        "hidden_tags": []
       }
     },
     "0097_potion_of_supreme_healing": {
@@ -1519,8 +1425,7 @@
         "tier": 2,
         "price": "3500",
         "icon": "0097_potion_of_supreme_healing-icon.webp",
-        "hidden_tags": [],
-        "free_content": true
+        "hidden_tags": []
       }
     },
     "0029_the_pilgrims_plate": {
@@ -1535,8 +1440,7 @@
         "tier": 2,
         "price": "1800",
         "icon": "0029_the_pilgrims_plate-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0104_crows_perch": {
@@ -1551,8 +1455,7 @@
         "tier": 2,
         "price": "4000",
         "icon": "0104_crows_perch-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0103_hellwrights_hexcoil": {
@@ -1567,8 +1470,7 @@
         "tier": 2,
         "price": "3750",
         "icon": "0103_hellwrights_hexcoil-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0102_serpents_scales": {
@@ -1583,8 +1485,7 @@
         "tier": 1,
         "price": "2800",
         "icon": "0102_serpents_scales-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0105_consciousmist_disperser": {
@@ -1599,8 +1500,7 @@
         "tier": 2,
         "price": "2300",
         "icon": "0105_consciousmist_disperser-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0105_consciousmist_potion": {
@@ -1615,8 +1515,7 @@
         "tier": 2,
         "price": "380",
         "icon": "0105_consciousmist_potion-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0106_a_drink_of_despair": {
@@ -1631,8 +1530,7 @@
         "tier": 2,
         "price": "8700",
         "icon": "0106_a_drink_of_despair-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0107_teethsmasher_tankard": {
@@ -1647,8 +1545,7 @@
         "tier": 1,
         "price": "1870",
         "icon": "0107_teethsmasher_tankard-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0108_proliferating_plate": {
@@ -1663,8 +1560,7 @@
         "tier": 2,
         "price": "2700",
         "icon": "0108_proliferating_plate-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0109_festering_blade": {
@@ -1679,8 +1575,7 @@
         "tier": 1,
         "price": "2550",
         "icon": "0109_festering_blade-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0110_bleak_reef_talisman": {
@@ -1694,8 +1589,7 @@
         "item_type": "Trinket",
         "tier": 2,
         "price": "2850",
-        "icon": "0110_bleak_reef_talisman-icon.webp",
-        "free_content": false
+        "icon": "0110_bleak_reef_talisman-icon.webp"
       }
     },
     "0112_conquerors_crown": {
@@ -1709,8 +1603,7 @@
         "item_type": "Light Armor",
         "tier": 3,
         "price": "35600",
-        "icon": "0112_conquerors_crown-icon.webp",
-        "free_content": false
+        "icon": "0112_conquerors_crown-icon.webp"
       }
     },
     "0113_crownbreakers_defiance": {
@@ -1724,8 +1617,7 @@
         "item_type": "Potion",
         "tier": 2,
         "price": "3600",
-        "icon": "0113_crownbreakers_defiance-icon.webp",
-        "free_content": false
+        "icon": "0113_crownbreakers_defiance-icon.webp"
       }
     },
     "0111_iron_chin_talisman": {
@@ -1739,8 +1631,7 @@
         "item_type": "Trinket",
         "tier": 2,
         "price": "3400",
-        "icon": "0111_iron_chin_talisman-icon.webp",
-        "free_content": false
+        "icon": "0111_iron_chin_talisman-icon.webp"
       }
     },
     "0117_balefire_scepter": {
@@ -1755,8 +1646,7 @@
         "tier": 3,
         "price": "17600",
         "icon": "0117_balefire_scepter-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0116_helmet_of_the_wrathful_champion": {
@@ -1771,8 +1661,7 @@
         "tier": 2,
         "price": "7000",
         "icon": "0116_helmet_of_the_wrathful_champion-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0115_helmet_of_the_chivalric_champion": {
@@ -1787,8 +1676,7 @@
         "tier": 2,
         "price": "7000",
         "icon": "0115_helmet_of_the_chivalric_champion-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0114_craven_cutlass": {
@@ -1803,8 +1691,7 @@
         "tier": 1,
         "price": "1350",
         "icon": "0114_craven_cutlass-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0119_blade_of_the_radiant_rout": {
@@ -1819,8 +1706,7 @@
         "tier": 3,
         "price": "35500",
         "icon": "0119_blade_of_the_radiant_rout-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0120_hjalmars_nifty_apron": {
@@ -1835,8 +1721,7 @@
         "tier": 1,
         "price": "2200",
         "icon": "0120_hjalmars_nifty_apron-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0121_snake_eyes": {
@@ -1851,8 +1736,7 @@
         "tier": 3,
         "price": "43200",
         "icon": "0121_snake_eyes-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0118_thornbloom_bow": {
@@ -1867,8 +1751,7 @@
         "tier": 3,
         "price": "33600",
         "icon": "0118_thornbloom_bow-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0125_rain_dancer": {
@@ -1883,8 +1766,7 @@
         "tier": 3,
         "price": "49600",
         "icon": "0125_rain_dancer-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0124_sufferers_skull": {
@@ -1899,8 +1781,7 @@
         "tier": 2,
         "price": "4700",
         "icon": "0124_sufferers_skull-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0122_graveplate_armor": {
@@ -1915,8 +1796,7 @@
         "tier": 2,
         "price": "2750",
         "icon": "0122_graveplate_armor-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0123_carnyx_of_sacred_slaughter": {
@@ -1931,8 +1811,7 @@
         "tier": 2,
         "price": "8888",
         "icon": "0123_carnyx_of_sacred_slaughter-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0126_bladewhisper_tattoo": {
@@ -1947,8 +1826,7 @@
         "tier": 1,
         "price": "450",
         "icon": "0126_bladewhisper_tattoo-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0127_leaf_of_promised_return": {
@@ -1963,8 +1841,7 @@
         "tier": 2,
         "price": "2700",
         "icon": "0127_leaf_of_promised_return-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0128_headtaker_pincerscythe": {
@@ -1979,8 +1856,7 @@
         "tier": 1,
         "price": "2400",
         "icon": "0128_headtaker_pincerscythe-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0129_harrowing_gutpipes": {
@@ -1995,8 +1871,7 @@
         "tier": 1,
         "price": "5600",
         "icon": "0129_harrowing_gutpipes-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0130_bandana_of_bravado": {
@@ -2011,8 +1886,7 @@
         "tier": 1,
         "price": "2350",
         "icon": "0130_bandana_of_bravado-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0131_blessing_of_the_vaettir": {
@@ -2027,8 +1901,7 @@
         "tier": 3,
         "price": "17500",
         "icon": "0131_blessing_of_the_vaettir-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0132_gloomspore_cap": {
@@ -2043,8 +1916,7 @@
         "tier": 1,
         "price": "3100",
         "icon": "0132_gloomspore_cap-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0133_voltgheist_shroud": {
@@ -2059,8 +1931,7 @@
         "tier": 3,
         "price": "14500",
         "icon": "0133_voltgheist_shroud-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0062_three_feather_tricorne": {
@@ -2075,8 +1946,7 @@
         "tier": 2,
         "price": "2800",
         "icon": "0062_three_feather_tricorne-icon.webp",
-        "hidden_tags": [],
-        "free_content": true
+        "hidden_tags": []
       }
     },
     "0011_graveblade": {
@@ -2091,8 +1961,7 @@
         "tier": 3,
         "price": "4400",
         "icon": "0011_graveblade-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0021_wrathfire_talisman": {
@@ -2107,8 +1976,7 @@
         "tier": 2,
         "price": "3800",
         "icon": "0021_wrathfire_talisman-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0141_magebane_injector": {
@@ -2123,8 +1991,7 @@
         "tier": 1,
         "price": "1950",
         "icon": "0141_magebane_injector-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0146_suppressor_shackles": {
@@ -2139,8 +2006,7 @@
         "tier": 2,
         "price": "6300",
         "icon": "0146_suppressor_shackles-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_acid": {
@@ -2155,8 +2021,7 @@
         "tier": 1,
         "price": "25",
         "icon": "0000_srd_acid-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_activate_folding_boat": {
@@ -2171,8 +2036,7 @@
         "tier": 1,
         "price": "0",
         "icon": "0000_srd_activate_folding_boat-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_adamantine_armor": {
@@ -2190,8 +2054,7 @@
         "hidden_tags": [
           "ada",
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_air_ring_of_elemental_command": {
@@ -2208,8 +2071,7 @@
         "icon": "0000_srd_air_ring_of_elemental_command-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_alchemists_fire": {
@@ -2224,8 +2086,7 @@
         "tier": 1,
         "price": "50",
         "icon": "0000_srd_alchemists_fire-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_alchemists_supplies": {
@@ -2240,8 +2101,7 @@
         "tier": 1,
         "price": "50",
         "icon": "0000_srd_alchemists_supplies-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_ammunition_1_2_or_3": {
@@ -2258,8 +2118,7 @@
         "icon": "0000_srd_ammunition_1_2_or_3-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ammunition_varies": {
@@ -2274,8 +2133,7 @@
         "tier": 1,
         "price": "0",
         "icon": "0000_srd_ammunition_varies-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_ammunition_of_slaying": {
@@ -2292,8 +2150,7 @@
         "icon": "0000_srd_ammunition_of_slaying-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_amulet_of_health": {
@@ -2310,8 +2167,7 @@
         "icon": "0000_srd_amulet_of_health-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_amulet_of_proof_against_detection_and_location": {
@@ -2328,8 +2184,7 @@
         "icon": "0000_srd_amulet_of_proof_against_detection_and_location-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_amulet_of_the_planes": {
@@ -2346,8 +2201,7 @@
         "icon": "0000_srd_amulet_of_the_planes-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_amulet": {
@@ -2362,8 +2216,7 @@
         "tier": 1,
         "price": "5",
         "icon": "0000_srd_amulet-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_animated_shield": {
@@ -2380,8 +2233,7 @@
         "icon": "0000_srd_animated_shield-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_antitoxin": {
@@ -2396,8 +2248,7 @@
         "tier": 1,
         "price": "50",
         "icon": "0000_srd_antitoxin-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_apparatus_of_the_crab": {
@@ -2414,8 +2265,7 @@
         "icon": "0000_srd_apparatus_of_the_crab-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_arcane_focus_varies": {
@@ -2430,8 +2280,7 @@
         "tier": 1,
         "price": "0",
         "icon": "0000_srd_arcane_focus_varies-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_armor_1_2_or_3": {
@@ -2448,8 +2297,7 @@
         "icon": "0000_srd_armor_1_2_or_3-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_armor_of_invulnerability": {
@@ -2467,8 +2315,7 @@
         "hidden_tags": [
           "mgc",
           "stealthDisadvantage"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_armor_of_resistance": {
@@ -2485,8 +2332,7 @@
         "icon": "0000_srd_armor_of_resistance-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_armor_of_vulnerability": {
@@ -2503,8 +2349,7 @@
         "icon": "0000_srd_armor_of_vulnerability-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_arrow_catching_shield": {
@@ -2521,8 +2366,7 @@
         "icon": "0000_srd_arrow_catching_shield-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_arrows": {
@@ -2537,8 +2381,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_arrows-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_assassins_blood": {
@@ -2553,8 +2396,7 @@
         "tier": 1,
         "price": "150",
         "icon": "0000_srd_assassins_blood-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_backpack": {
@@ -2569,8 +2411,7 @@
         "tier": 1,
         "price": "2",
         "icon": "0000_srd_backpack-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_bag_of_beans": {
@@ -2588,8 +2429,7 @@
         "hidden_tags": [
           "mgc",
           "weightlessContents"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_bag_of_devouring": {
@@ -2607,8 +2447,7 @@
         "hidden_tags": [
           "mgc",
           "weightlessContents"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_bag_of_holding": {
@@ -2626,8 +2465,7 @@
         "hidden_tags": [
           "mgc",
           "weightlessContents"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_bagpipes": {
@@ -2642,8 +2480,7 @@
         "tier": 1,
         "price": "30",
         "icon": "0000_srd_bagpipes-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_balance": {
@@ -2660,8 +2497,7 @@
         "icon": "0000_srd_balance-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ball_bearings": {
@@ -2676,8 +2512,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_ball_bearings-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_barrel": {
@@ -2692,8 +2527,7 @@
         "tier": 1,
         "price": "2",
         "icon": "0000_srd_barrel-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_basket": {
@@ -2708,8 +2542,7 @@
         "tier": 1,
         "price": "4",
         "icon": "0000_srd_basket-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_battleaxe": {
@@ -2726,8 +2559,7 @@
         "icon": "0000_srd_battleaxe-icon.webp",
         "hidden_tags": [
           "ver"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_bead_of_force": {
@@ -2744,8 +2576,7 @@
         "icon": "0000_srd_bead_of_force-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_bead_of_nourishment": {
@@ -2762,8 +2593,7 @@
         "icon": "0000_srd_bead_of_nourishment-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_bedroll": {
@@ -2778,8 +2608,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_bedroll-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_bell": {
@@ -2794,8 +2623,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_bell-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_belt_of_dwarvenkind": {
@@ -2812,8 +2640,7 @@
         "icon": "0000_srd_belt_of_dwarvenkind-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_belt_of_giant_strength_cloud": {
@@ -2830,8 +2657,7 @@
         "icon": "0000_srd_belt_of_giant_strength_cloud-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_belt_of_giant_strength_fire": {
@@ -2848,8 +2674,7 @@
         "icon": "0000_srd_belt_of_giant_strength_fire-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_belt_of_giant_strength_frost": {
@@ -2866,8 +2691,7 @@
         "icon": "0000_srd_belt_of_giant_strength_frost-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_belt_of_giant_strength_hill": {
@@ -2884,8 +2708,7 @@
         "icon": "0000_srd_belt_of_giant_strength_hill-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_belt_of_giant_strength_stone": {
@@ -2902,8 +2725,7 @@
         "icon": "0000_srd_belt_of_giant_strength_stone-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_belt_of_giant_strength_storm": {
@@ -2920,8 +2742,7 @@
         "icon": "0000_srd_belt_of_giant_strength_storm-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_belt_of_giant_strength": {
@@ -2938,8 +2759,7 @@
         "icon": "0000_srd_belt_of_giant_strength-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_berserker_axe": {
@@ -2956,8 +2776,7 @@
         "icon": "0000_srd_berserker_axe-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_blanket": {
@@ -2972,8 +2791,7 @@
         "tier": 1,
         "price": "5",
         "icon": "0000_srd_blanket-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_block_and_tackle": {
@@ -2988,8 +2806,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_block_and_tackle-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_blowgun": {
@@ -3007,8 +2824,7 @@
         "hidden_tags": [
           "amm",
           "lod"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_bolts": {
@@ -3023,8 +2839,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_bolts-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_book": {
@@ -3039,8 +2854,7 @@
         "tier": 1,
         "price": "25",
         "icon": "0000_srd_book-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_boots_of_elvenkind": {
@@ -3057,8 +2871,7 @@
         "icon": "0000_srd_boots_of_elvenkind-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_boots_of_levitation": {
@@ -3075,8 +2888,7 @@
         "icon": "0000_srd_boots_of_levitation-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_boots_of_speed": {
@@ -3093,8 +2905,7 @@
         "icon": "0000_srd_boots_of_speed-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_boots_of_striding_and_springing": {
@@ -3111,8 +2922,7 @@
         "icon": "0000_srd_boots_of_striding_and_springing-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_boots_of_the_winterlands": {
@@ -3129,8 +2939,7 @@
         "icon": "0000_srd_boots_of_the_winterlands-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_bottle_glass": {
@@ -3145,8 +2954,7 @@
         "tier": 1,
         "price": "2",
         "icon": "0000_srd_bottle_glass-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_bowl_of_commanding_water_elementals": {
@@ -3163,8 +2971,7 @@
         "icon": "0000_srd_bowl_of_commanding_water_elementals-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_bracers_of_archery": {
@@ -3181,8 +2988,7 @@
         "icon": "0000_srd_bracers_of_archery-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_bracers_of_defense": {
@@ -3199,8 +3005,7 @@
         "icon": "0000_srd_bracers_of_defense-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_brass_horn_of_valhalla": {
@@ -3217,8 +3022,7 @@
         "icon": "0000_srd_brass_horn_of_valhalla-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_brazier_of_commanding_fire_elementals": {
@@ -3235,8 +3039,7 @@
         "icon": "0000_srd_brazier_of_commanding_fire_elementals-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_breastplate": {
@@ -3251,8 +3054,7 @@
         "tier": 1,
         "price": "400",
         "icon": "0000_srd_breastplate-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_brewers_supplies": {
@@ -3267,8 +3069,7 @@
         "tier": 1,
         "price": "20",
         "icon": "0000_srd_brewers_supplies-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_bronze_griffon": {
@@ -3285,8 +3086,7 @@
         "icon": "0000_srd_bronze_griffon-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_bronze_horn_of_valhalla": {
@@ -3303,8 +3103,7 @@
         "icon": "0000_srd_bronze_horn_of_valhalla-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_brooch_of_shielding": {
@@ -3321,8 +3120,7 @@
         "icon": "0000_srd_brooch_of_shielding-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_broom_of_flying": {
@@ -3339,8 +3137,7 @@
         "icon": "0000_srd_broom_of_flying-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_bucket": {
@@ -3355,8 +3152,7 @@
         "tier": 1,
         "price": "5",
         "icon": "0000_srd_bucket-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_bullets_firearm": {
@@ -3371,8 +3167,7 @@
         "tier": 1,
         "price": "3",
         "icon": "0000_srd_bullets_firearm-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_bullets_sling": {
@@ -3387,8 +3182,7 @@
         "tier": 1,
         "price": "4",
         "icon": "0000_srd_bullets_sling-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_bullseye_lantern": {
@@ -3403,8 +3197,7 @@
         "tier": 1,
         "price": "10",
         "icon": "0000_srd_bullseye_lantern-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_burglars_pack": {
@@ -3419,8 +3212,7 @@
         "tier": 1,
         "price": "16",
         "icon": "0000_srd_burglars_pack-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_burnt_othur_fumes": {
@@ -3435,8 +3227,7 @@
         "tier": 1,
         "price": "500",
         "icon": "0000_srd_burnt_othur_fumes-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_calligraphers_supplies": {
@@ -3451,8 +3242,7 @@
         "tier": 1,
         "price": "10",
         "icon": "0000_srd_calligraphers_supplies-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_caltrops": {
@@ -3467,8 +3257,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_caltrops-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_candle": {
@@ -3483,8 +3272,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_candle-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_candle_of_invocation": {
@@ -3501,8 +3289,7 @@
         "icon": "0000_srd_candle_of_invocation-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_cape_of_the_mountebank": {
@@ -3519,8 +3306,7 @@
         "icon": "0000_srd_cape_of_the_mountebank-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_carpenters_tools": {
@@ -3535,8 +3321,7 @@
         "tier": 1,
         "price": "8",
         "icon": "0000_srd_carpenters_tools-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_carpet_of_flying": {
@@ -3553,8 +3338,7 @@
         "icon": "0000_srd_carpet_of_flying-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_cartographers_tools": {
@@ -3569,8 +3353,7 @@
         "tier": 1,
         "price": "15",
         "icon": "0000_srd_cartographers_tools-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_case_crossbow_bolt": {
@@ -3585,8 +3368,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_case_crossbow_bolt-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_case_map_or_scroll": {
@@ -3601,8 +3383,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_case_map_or_scroll-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_censer_of_controlling_air_elementals": {
@@ -3619,8 +3400,7 @@
         "icon": "0000_srd_censer_of_controlling_air_elementals-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_central_pouch": {
@@ -3637,8 +3417,7 @@
         "icon": "0000_srd_central_pouch-icon.webp",
         "hidden_tags": [
           "weightlessContents"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_chain_mail": {
@@ -3655,8 +3434,7 @@
         "icon": "0000_srd_chain_mail-icon.webp",
         "hidden_tags": [
           "stealthDisadvantage"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_chain": {
@@ -3671,8 +3449,7 @@
         "tier": 1,
         "price": "5",
         "icon": "0000_srd_chain-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_chain_shirt": {
@@ -3687,8 +3464,7 @@
         "tier": 1,
         "price": "50",
         "icon": "0000_srd_chain_shirt-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_chest": {
@@ -3703,8 +3479,7 @@
         "tier": 1,
         "price": "5",
         "icon": "0000_srd_chest-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_chime_of_opening": {
@@ -3721,8 +3496,7 @@
         "icon": "0000_srd_chime_of_opening-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_circlet_of_blasting": {
@@ -3739,8 +3513,7 @@
         "icon": "0000_srd_circlet_of_blasting-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_clawed_gauntlet": {
@@ -3757,8 +3530,7 @@
         "icon": "0000_srd_clawed_gauntlet-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_climbers_kit": {
@@ -3773,8 +3545,7 @@
         "tier": 1,
         "price": "25",
         "icon": "0000_srd_climbers_kit-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_cloak_of_arachnida": {
@@ -3791,8 +3562,7 @@
         "icon": "0000_srd_cloak_of_arachnida-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_cloak_of_displacement": {
@@ -3809,8 +3579,7 @@
         "icon": "0000_srd_cloak_of_displacement-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_cloak_of_elvenkind": {
@@ -3827,8 +3596,7 @@
         "icon": "0000_srd_cloak_of_elvenkind-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_cloak_of_invisibility": {
@@ -3845,8 +3613,7 @@
         "icon": "0000_srd_cloak_of_invisibility-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_cloak_of_protection": {
@@ -3863,8 +3630,7 @@
         "icon": "0000_srd_cloak_of_protection-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_cloak_of_the_bat": {
@@ -3881,8 +3647,7 @@
         "icon": "0000_srd_cloak_of_the_bat-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_cloak_of_the_manta_ray": {
@@ -3899,8 +3664,7 @@
         "icon": "0000_srd_cloak_of_the_manta_ray-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_clothes_fine": {
@@ -3915,8 +3679,7 @@
         "tier": 1,
         "price": "15",
         "icon": "0000_srd_clothes_fine-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_clothes_travelers": {
@@ -3931,8 +3694,7 @@
         "tier": 1,
         "price": "2",
         "icon": "0000_srd_clothes_travelers-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_club": {
@@ -3949,8 +3711,7 @@
         "icon": "0000_srd_club-icon.webp",
         "hidden_tags": [
           "lgt"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_cobblers_tools": {
@@ -3965,8 +3726,7 @@
         "tier": 1,
         "price": "5",
         "icon": "0000_srd_cobblers_tools-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_collapsing_roof": {
@@ -3981,8 +3741,7 @@
         "tier": 1,
         "price": "0",
         "icon": "0000_srd_collapsing_roof-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_comet": {
@@ -3999,8 +3758,7 @@
         "icon": "0000_srd_comet-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_component_pouch": {
@@ -4015,8 +3773,7 @@
         "tier": 1,
         "price": "25",
         "icon": "0000_srd_component_pouch-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_cooks_utensils": {
@@ -4031,8 +3788,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_cooks_utensils-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_costume": {
@@ -4047,8 +3803,7 @@
         "tier": 1,
         "price": "5",
         "icon": "0000_srd_costume-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_crawler_mucus": {
@@ -4063,8 +3818,7 @@
         "tier": 1,
         "price": "200",
         "icon": "0000_srd_crawler_mucus-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_crowbar": {
@@ -4079,8 +3833,7 @@
         "tier": 1,
         "price": "2",
         "icon": "0000_srd_crowbar-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_crystal_ball": {
@@ -4097,8 +3850,7 @@
         "icon": "0000_srd_crystal_ball-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_crystal_ball_of_mind_reading": {
@@ -4115,8 +3867,7 @@
         "icon": "0000_srd_crystal_ball_of_mind_reading-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_crystal_ball_of_telepathy": {
@@ -4133,8 +3884,7 @@
         "icon": "0000_srd_crystal_ball_of_telepathy-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_crystal_ball_of_true_seeing": {
@@ -4151,8 +3901,7 @@
         "icon": "0000_srd_crystal_ball_of_true_seeing-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_crystal": {
@@ -4167,8 +3916,7 @@
         "tier": 1,
         "price": "10",
         "icon": "0000_srd_crystal-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_cube_of_force": {
@@ -4185,8 +3933,7 @@
         "icon": "0000_srd_cube_of_force-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_cubic_gate": {
@@ -4203,8 +3950,7 @@
         "icon": "0000_srd_cubic_gate-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_dagger": {
@@ -4223,8 +3969,7 @@
           "fin",
           "lgt",
           "thr"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_dagger_of_venom": {
@@ -4244,8 +3989,7 @@
           "lgt",
           "mgc",
           "thr"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_dancing_sword": {
@@ -4262,8 +4006,7 @@
         "icon": "0000_srd_dancing_sword-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_dart": {
@@ -4281,8 +4024,7 @@
         "hidden_tags": [
           "fin",
           "thr"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_decanter_of_endless_water": {
@@ -4299,8 +4041,7 @@
         "icon": "0000_srd_decanter_of_endless_water-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_deck_of_illusions": {
@@ -4317,8 +4058,7 @@
         "icon": "0000_srd_deck_of_illusions-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_defender": {
@@ -4335,8 +4075,7 @@
         "icon": "0000_srd_defender-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_demon_armor": {
@@ -4353,8 +4092,7 @@
         "icon": "0000_srd_demon_armor-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_dice": {
@@ -4369,8 +4107,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_dice-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_dimensional_shackles": {
@@ -4387,8 +4124,7 @@
         "icon": "0000_srd_dimensional_shackles-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_diplomats_pack": {
@@ -4403,8 +4139,7 @@
         "tier": 1,
         "price": "39",
         "icon": "0000_srd_diplomats_pack-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_disguise_kit": {
@@ -4419,8 +4154,7 @@
         "tier": 1,
         "price": "25",
         "icon": "0000_srd_disguise_kit-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_donjon": {
@@ -4437,8 +4171,7 @@
         "icon": "0000_srd_donjon-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_dragon_orb": {
@@ -4455,8 +4188,7 @@
         "icon": "0000_srd_dragon_orb-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_dragon_scale_mail": {
@@ -4474,8 +4206,7 @@
         "hidden_tags": [
           "mgc",
           "stealthDisadvantage"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_dragon_slayer": {
@@ -4492,8 +4223,7 @@
         "icon": "0000_srd_dragon_slayer-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_dragonchess": {
@@ -4508,8 +4238,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_dragonchess-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_druidic_focus_varies": {
@@ -4524,8 +4253,7 @@
         "tier": 1,
         "price": "0",
         "icon": "0000_srd_druidic_focus_varies-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_drum": {
@@ -4540,8 +4268,7 @@
         "tier": 1,
         "price": "6",
         "icon": "0000_srd_drum-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_dulcimer": {
@@ -4556,8 +4283,7 @@
         "tier": 1,
         "price": "25",
         "icon": "0000_srd_dulcimer-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_dungeoneers_pack": {
@@ -4572,8 +4298,7 @@
         "tier": 1,
         "price": "12",
         "icon": "0000_srd_dungeoneers_pack-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_dust_of_disappearance": {
@@ -4590,8 +4315,7 @@
         "icon": "0000_srd_dust_of_disappearance-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_dust_of_dryness": {
@@ -4608,8 +4332,7 @@
         "icon": "0000_srd_dust_of_dryness-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_dust_of_sneezing_and_choking": {
@@ -4626,8 +4349,7 @@
         "icon": "0000_srd_dust_of_sneezing_and_choking-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_dwarven_plate": {
@@ -4644,8 +4366,7 @@
         "icon": "0000_srd_dwarven_plate-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_dwarven_thrower": {
@@ -4665,8 +4386,7 @@
           "ret",
           "thr",
           "ver"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_earth_ring_of_elemental_command": {
@@ -4683,8 +4403,7 @@
         "icon": "0000_srd_earth_ring_of_elemental_command-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ebony_fly": {
@@ -4701,8 +4420,7 @@
         "icon": "0000_srd_ebony_fly-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_efficient_quiver": {
@@ -4720,8 +4438,7 @@
         "hidden_tags": [
           "mgc",
           "weightlessContents"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_efreeti_bottle": {
@@ -4738,8 +4455,7 @@
         "icon": "0000_srd_efreeti_bottle-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_efreeti_chain": {
@@ -4756,8 +4472,7 @@
         "icon": "0000_srd_efreeti_chain-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_elemental_gem_blue_sapphire": {
@@ -4774,8 +4489,7 @@
         "icon": "0000_srd_elemental_gem_blue_sapphire-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_elemental_gem_emerald": {
@@ -4792,8 +4506,7 @@
         "icon": "0000_srd_elemental_gem_emerald-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_elemental_gem_red_corundum": {
@@ -4810,8 +4523,7 @@
         "icon": "0000_srd_elemental_gem_red_corundum-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_elemental_gem_yellow_diamond": {
@@ -4828,8 +4540,7 @@
         "icon": "0000_srd_elemental_gem_yellow_diamond-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_elemental_gem": {
@@ -4846,8 +4557,7 @@
         "icon": "0000_srd_elemental_gem-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_elixir_of_health": {
@@ -4864,8 +4574,7 @@
         "icon": "0000_srd_elixir_of_health-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_elven_chain": {
@@ -4882,8 +4591,7 @@
         "icon": "0000_srd_elven_chain-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_emblem": {
@@ -4898,8 +4606,7 @@
         "tier": 1,
         "price": "5",
         "icon": "0000_srd_emblem-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_energy_bow": {
@@ -4916,8 +4623,7 @@
         "icon": "0000_srd_energy_bow-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_entertainers_pack": {
@@ -4932,8 +4638,7 @@
         "tier": 1,
         "price": "40",
         "icon": "0000_srd_entertainers_pack-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_essence_of_ether": {
@@ -4948,8 +4653,7 @@
         "tier": 1,
         "price": "300",
         "icon": "0000_srd_essence_of_ether-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_euryale": {
@@ -4966,8 +4670,7 @@
         "icon": "0000_srd_euryale-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_eversmoking_bottle": {
@@ -4984,8 +4687,7 @@
         "icon": "0000_srd_eversmoking_bottle-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_explorers_pack": {
@@ -5000,8 +4702,7 @@
         "tier": 1,
         "price": "10",
         "icon": "0000_srd_explorers_pack-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_eyes_of_charming": {
@@ -5018,8 +4719,7 @@
         "icon": "0000_srd_eyes_of_charming-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_eyes_of_minute_seeing": {
@@ -5036,8 +4736,7 @@
         "icon": "0000_srd_eyes_of_minute_seeing-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_eyes_of_the_eagle": {
@@ -5054,8 +4753,7 @@
         "icon": "0000_srd_eyes_of_the_eagle-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_falling_net": {
@@ -5070,8 +4768,7 @@
         "tier": 1,
         "price": "0",
         "icon": "0000_srd_falling_net-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_fates": {
@@ -5088,8 +4785,7 @@
         "icon": "0000_srd_fates-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_feather_token_anchor": {
@@ -5106,8 +4802,7 @@
         "icon": "0000_srd_feather_token_anchor-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_feather_token_bird": {
@@ -5124,8 +4819,7 @@
         "icon": "0000_srd_feather_token_bird-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_feather_token_fan": {
@@ -5142,8 +4836,7 @@
         "icon": "0000_srd_feather_token_fan-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_feather_token_swan_boat": {
@@ -5160,8 +4853,7 @@
         "icon": "0000_srd_feather_token_swan_boat-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_feather_token_tree": {
@@ -5178,8 +4870,7 @@
         "icon": "0000_srd_feather_token_tree-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_feather_token_whip": {
@@ -5196,8 +4887,7 @@
         "icon": "0000_srd_feather_token_whip-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_feather_token": {
@@ -5214,8 +4904,7 @@
         "icon": "0000_srd_feather_token-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_figurine_of_wondrous_power": {
@@ -5232,8 +4921,7 @@
         "icon": "0000_srd_figurine_of_wondrous_power-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_fine_clothes": {
@@ -5248,8 +4936,7 @@
         "tier": 1,
         "price": "15",
         "icon": "0000_srd_fine_clothes-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_fire_casting_statue": {
@@ -5264,8 +4951,7 @@
         "tier": 1,
         "price": "0",
         "icon": "0000_srd_fire_casting_statue-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_fire_ring_of_elemental_command": {
@@ -5282,8 +4968,7 @@
         "icon": "0000_srd_fire_ring_of_elemental_command-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_flail": {
@@ -5298,8 +4983,7 @@
         "tier": 1,
         "price": "10",
         "icon": "0000_srd_flail-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_flame_tongue": {
@@ -5316,8 +5000,7 @@
         "icon": "0000_srd_flame_tongue-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_flames": {
@@ -5334,8 +5017,7 @@
         "icon": "0000_srd_flames-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_flask": {
@@ -5350,8 +5032,7 @@
         "tier": 1,
         "price": "2",
         "icon": "0000_srd_flask-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_flute": {
@@ -5366,8 +5047,7 @@
         "tier": 1,
         "price": "2",
         "icon": "0000_srd_flute-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_folding_boat": {
@@ -5384,8 +5064,7 @@
         "icon": "0000_srd_folding_boat-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_fool": {
@@ -5402,8 +5081,7 @@
         "icon": "0000_srd_fool-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_forgery_kit": {
@@ -5418,8 +5096,7 @@
         "tier": 1,
         "price": "15",
         "icon": "0000_srd_forgery_kit-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_frost_brand": {
@@ -5436,8 +5113,7 @@
         "icon": "0000_srd_frost_brand-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_gauntlets_of_ogre_power": {
@@ -5454,8 +5130,7 @@
         "icon": "0000_srd_gauntlets_of_ogre_power-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_gem": {
@@ -5472,8 +5147,7 @@
         "icon": "0000_srd_gem-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_gem_of_brightness": {
@@ -5490,8 +5164,7 @@
         "icon": "0000_srd_gem_of_brightness-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_gem_of_seeing": {
@@ -5508,8 +5181,7 @@
         "icon": "0000_srd_gem_of_seeing-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_giant_slayer": {
@@ -5526,8 +5198,7 @@
         "icon": "0000_srd_giant_slayer-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_glaive": {
@@ -5546,8 +5217,7 @@
           "hvy",
           "rch",
           "two"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_glamoured_studded_leather": {
@@ -5564,8 +5234,7 @@
         "icon": "0000_srd_glamoured_studded_leather-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_glassblowers_tools": {
@@ -5580,8 +5249,7 @@
         "tier": 1,
         "price": "30",
         "icon": "0000_srd_glassblowers_tools-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_gloves_of_missile_snaring": {
@@ -5598,8 +5266,7 @@
         "icon": "0000_srd_gloves_of_missile_snaring-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_gloves_of_swimming_and_climbing": {
@@ -5616,8 +5283,7 @@
         "icon": "0000_srd_gloves_of_swimming_and_climbing-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_gloves_of_thievery": {
@@ -5634,8 +5300,7 @@
         "icon": "0000_srd_gloves_of_thievery-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_goggles_of_night": {
@@ -5652,8 +5317,7 @@
         "icon": "0000_srd_goggles_of_night-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_golden_lions": {
@@ -5670,8 +5334,7 @@
         "icon": "0000_srd_golden_lions-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_grappling_hook": {
@@ -5686,8 +5349,7 @@
         "tier": 1,
         "price": "2",
         "icon": "0000_srd_grappling_hook-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_gray_bag_of_tricks": {
@@ -5704,8 +5366,7 @@
         "icon": "0000_srd_gray_bag_of_tricks-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_greataxe": {
@@ -5723,8 +5384,7 @@
         "hidden_tags": [
           "hvy",
           "two"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_greatclub": {
@@ -5741,8 +5401,7 @@
         "icon": "0000_srd_greatclub-icon.webp",
         "hidden_tags": [
           "two"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_greatsword": {
@@ -5760,8 +5419,7 @@
         "hidden_tags": [
           "hvy",
           "two"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_halberd": {
@@ -5780,8 +5438,7 @@
           "hvy",
           "rch",
           "two"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_half_plate_armor": {
@@ -5798,8 +5455,7 @@
         "icon": "0000_srd_half_plate_armor-icon.webp",
         "hidden_tags": [
           "stealthDisadvantage"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_hammer_of_thunderbolts": {
@@ -5816,8 +5472,7 @@
         "icon": "0000_srd_hammer_of_thunderbolts-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_hand_crossbow": {
@@ -5836,8 +5491,7 @@
           "amm",
           "lgt",
           "lod"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_handaxe": {
@@ -5855,8 +5509,7 @@
         "hidden_tags": [
           "lgt",
           "thr"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_handy_haversack": {
@@ -5874,8 +5527,7 @@
         "hidden_tags": [
           "mgc",
           "weightlessContents"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_hat_of_disguise": {
@@ -5892,8 +5544,7 @@
         "icon": "0000_srd_hat_of_disguise-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_hat_of_many_spells": {
@@ -5911,8 +5562,7 @@
         "hidden_tags": [
           "foc",
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_headband_of_intellect": {
@@ -5929,8 +5579,7 @@
         "icon": "0000_srd_headband_of_intellect-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_healers_kit": {
@@ -5945,8 +5594,7 @@
         "tier": 1,
         "price": "5",
         "icon": "0000_srd_healers_kit-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_heavy_crossbow": {
@@ -5966,8 +5614,7 @@
           "hvy",
           "lod",
           "two"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_helm_of_brilliance": {
@@ -5984,8 +5631,7 @@
         "icon": "0000_srd_helm_of_brilliance-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_helm_of_comprehending_languages": {
@@ -6002,8 +5648,7 @@
         "icon": "0000_srd_helm_of_comprehending_languages-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_helm_of_telepathy": {
@@ -6020,8 +5665,7 @@
         "icon": "0000_srd_helm_of_telepathy-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_helm_of_teleportation": {
@@ -6038,8 +5682,7 @@
         "icon": "0000_srd_helm_of_teleportation-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_herbalism_kit": {
@@ -6054,8 +5697,7 @@
         "tier": 1,
         "price": "5",
         "icon": "0000_srd_herbalism_kit-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_hidden_pit": {
@@ -6070,8 +5712,7 @@
         "tier": 1,
         "price": "0",
         "icon": "0000_srd_hidden_pit-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_hide_armor": {
@@ -6086,8 +5727,7 @@
         "tier": 1,
         "price": "10",
         "icon": "0000_srd_hide_armor-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_holy_avenger": {
@@ -6104,8 +5744,7 @@
         "icon": "0000_srd_holy_avenger-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_holy_symbol_varies": {
@@ -6120,8 +5759,7 @@
         "tier": 1,
         "price": "0",
         "icon": "0000_srd_holy_symbol_varies-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_holy_water": {
@@ -6136,8 +5774,7 @@
         "tier": 1,
         "price": "25",
         "icon": "0000_srd_holy_water-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_hooded_lantern": {
@@ -6152,8 +5789,7 @@
         "tier": 1,
         "price": "10",
         "icon": "0000_srd_hooded_lantern-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_horn": {
@@ -6168,8 +5804,7 @@
         "tier": 1,
         "price": "3",
         "icon": "0000_srd_horn-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_horn_of_blasting": {
@@ -6186,8 +5821,7 @@
         "icon": "0000_srd_horn_of_blasting-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_horn_of_valhalla": {
@@ -6204,8 +5838,7 @@
         "icon": "0000_srd_horn_of_valhalla-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_horseshoes_of_a_zephyr": {
@@ -6222,8 +5855,7 @@
         "icon": "0000_srd_horseshoes_of_a_zephyr-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_horseshoes_of_speed": {
@@ -6240,8 +5872,7 @@
         "icon": "0000_srd_horseshoes_of_speed-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_hunting_trap": {
@@ -6256,8 +5887,7 @@
         "tier": 1,
         "price": "5",
         "icon": "0000_srd_hunting_trap-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_immovable_rod": {
@@ -6275,8 +5905,7 @@
         "hidden_tags": [
           "foc",
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ink": {
@@ -6291,8 +5920,7 @@
         "tier": 1,
         "price": "10",
         "icon": "0000_srd_ink-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_ink_pen": {
@@ -6307,8 +5935,7 @@
         "tier": 1,
         "price": "2",
         "icon": "0000_srd_ink_pen-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_instant_fortress": {
@@ -6325,8 +5952,7 @@
         "icon": "0000_srd_instant_fortress-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ioun_stone": {
@@ -6343,8 +5969,7 @@
         "icon": "0000_srd_ioun_stone-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ioun_stone_of_absorption": {
@@ -6361,8 +5986,7 @@
         "icon": "0000_srd_ioun_stone_of_absorption-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ioun_stone_of_agility": {
@@ -6379,8 +6003,7 @@
         "icon": "0000_srd_ioun_stone_of_agility-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ioun_stone_of_awareness": {
@@ -6397,8 +6020,7 @@
         "icon": "0000_srd_ioun_stone_of_awareness-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ioun_stone_of_fortitude": {
@@ -6415,8 +6037,7 @@
         "icon": "0000_srd_ioun_stone_of_fortitude-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ioun_stone_of_greater_absorption": {
@@ -6433,8 +6054,7 @@
         "icon": "0000_srd_ioun_stone_of_greater_absorption-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ioun_stone_of_insight": {
@@ -6451,8 +6071,7 @@
         "icon": "0000_srd_ioun_stone_of_insight-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ioun_stone_of_intellect": {
@@ -6469,8 +6088,7 @@
         "icon": "0000_srd_ioun_stone_of_intellect-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ioun_stone_of_leadership": {
@@ -6487,8 +6105,7 @@
         "icon": "0000_srd_ioun_stone_of_leadership-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ioun_stone_of_mastery": {
@@ -6505,8 +6122,7 @@
         "icon": "0000_srd_ioun_stone_of_mastery-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ioun_stone_of_protection": {
@@ -6523,8 +6139,7 @@
         "icon": "0000_srd_ioun_stone_of_protection-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ioun_stone_of_regeneration": {
@@ -6541,8 +6156,7 @@
         "icon": "0000_srd_ioun_stone_of_regeneration-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ioun_stone_of_reserve": {
@@ -6559,8 +6173,7 @@
         "icon": "0000_srd_ioun_stone_of_reserve-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ioun_stone_of_strength": {
@@ -6577,8 +6190,7 @@
         "icon": "0000_srd_ioun_stone_of_strength-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ioun_stone_of_sustenance": {
@@ -6595,8 +6207,7 @@
         "icon": "0000_srd_ioun_stone_of_sustenance-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_iron_bands": {
@@ -6613,8 +6224,7 @@
         "icon": "0000_srd_iron_bands-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_iron_flask": {
@@ -6631,8 +6241,7 @@
         "icon": "0000_srd_iron_flask-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_iron_horn_of_valhalla": {
@@ -6649,8 +6258,7 @@
         "icon": "0000_srd_iron_horn_of_valhalla-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ivory_goats": {
@@ -6667,8 +6275,7 @@
         "icon": "0000_srd_ivory_goats-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_javelin": {
@@ -6685,8 +6292,7 @@
         "icon": "0000_srd_javelin-icon.webp",
         "hidden_tags": [
           "thr"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_javelin_of_lightning": {
@@ -6705,8 +6311,7 @@
           "mgc",
           "ret",
           "thr"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_jester": {
@@ -6723,8 +6328,7 @@
         "icon": "0000_srd_jester-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_jewelers_tools": {
@@ -6739,8 +6343,7 @@
         "tier": 1,
         "price": "25",
         "icon": "0000_srd_jewelers_tools-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_jug": {
@@ -6755,8 +6358,7 @@
         "tier": 1,
         "price": "2",
         "icon": "0000_srd_jug-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_key": {
@@ -6773,8 +6375,7 @@
         "icon": "0000_srd_key-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_knight": {
@@ -6791,8 +6392,7 @@
         "icon": "0000_srd_knight-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ladder": {
@@ -6807,8 +6407,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_ladder-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_lamp": {
@@ -6823,8 +6422,7 @@
         "tier": 1,
         "price": "5",
         "icon": "0000_srd_lamp-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_lance": {
@@ -6843,8 +6441,7 @@
           "hvy",
           "rch",
           "two"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_lantern_bullseye": {
@@ -6859,8 +6456,7 @@
         "tier": 1,
         "price": "10",
         "icon": "0000_srd_lantern_bullseye-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_lantern_hooded": {
@@ -6875,8 +6471,7 @@
         "tier": 1,
         "price": "5",
         "icon": "0000_srd_lantern_hooded-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_lantern_of_revealing": {
@@ -6893,8 +6488,7 @@
         "icon": "0000_srd_lantern_of_revealing-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_leather_armor": {
@@ -6909,8 +6503,7 @@
         "tier": 1,
         "price": "10",
         "icon": "0000_srd_leather_armor-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_leatherworkers_tools": {
@@ -6925,8 +6518,7 @@
         "tier": 1,
         "price": "5",
         "icon": "0000_srd_leatherworkers_tools-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_left_pouch": {
@@ -6943,8 +6535,7 @@
         "icon": "0000_srd_left_pouch-icon.webp",
         "hidden_tags": [
           "weightlessContents"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_light_crossbow": {
@@ -6963,8 +6554,7 @@
           "amm",
           "lod",
           "two"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_light_hammer": {
@@ -6982,8 +6572,7 @@
         "hidden_tags": [
           "lgt",
           "thr"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_lock": {
@@ -6998,8 +6587,7 @@
         "tier": 1,
         "price": "10",
         "icon": "0000_srd_lock-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_long_compartment": {
@@ -7016,8 +6604,7 @@
         "icon": "0000_srd_long_compartment-icon.webp",
         "hidden_tags": [
           "weightlessContents"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_longbow": {
@@ -7036,8 +6623,7 @@
           "amm",
           "hvy",
           "two"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_longsword": {
@@ -7054,8 +6640,7 @@
         "icon": "0000_srd_longsword-icon.webp",
         "hidden_tags": [
           "ver"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_luck_blade": {
@@ -7072,8 +6657,7 @@
         "icon": "0000_srd_luck_blade-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_lute": {
@@ -7088,8 +6672,7 @@
         "tier": 1,
         "price": "35",
         "icon": "0000_srd_lute-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_lyre": {
@@ -7104,8 +6687,7 @@
         "tier": 1,
         "price": "30",
         "icon": "0000_srd_lyre-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_mace": {
@@ -7120,8 +6702,7 @@
         "tier": 1,
         "price": "5",
         "icon": "0000_srd_mace-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_mace_of_disruption": {
@@ -7138,8 +6719,7 @@
         "icon": "0000_srd_mace_of_disruption-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_mace_of_smiting": {
@@ -7156,8 +6736,7 @@
         "icon": "0000_srd_mace_of_smiting-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_mace_of_terror": {
@@ -7174,8 +6753,7 @@
         "icon": "0000_srd_mace_of_terror-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_magical_berries": {
@@ -7192,8 +6770,7 @@
         "icon": "0000_srd_magical_berries-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_magnifying_glass": {
@@ -7208,8 +6785,7 @@
         "tier": 1,
         "price": "100",
         "icon": "0000_srd_magnifying_glass-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_malice": {
@@ -7224,8 +6800,7 @@
         "tier": 1,
         "price": "250",
         "icon": "0000_srd_malice-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_manacles": {
@@ -7240,8 +6815,7 @@
         "tier": 1,
         "price": "2",
         "icon": "0000_srd_manacles-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_mantle_of_spell_resistance": {
@@ -7258,8 +6832,7 @@
         "icon": "0000_srd_mantle_of_spell_resistance-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_manual_of_bodily_health": {
@@ -7276,8 +6849,7 @@
         "icon": "0000_srd_manual_of_bodily_health-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_manual_of_gainful_exercise": {
@@ -7294,8 +6866,7 @@
         "icon": "0000_srd_manual_of_gainful_exercise-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_manual_of_golems": {
@@ -7312,8 +6883,7 @@
         "icon": "0000_srd_manual_of_golems-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_manual_of_quickness_of_action": {
@@ -7330,8 +6900,7 @@
         "icon": "0000_srd_manual_of_quickness_of_action-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_map": {
@@ -7346,8 +6915,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_map-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_map_or_scroll_case": {
@@ -7362,8 +6930,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_map_or_scroll_case-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_marble_elephant": {
@@ -7380,8 +6947,7 @@
         "icon": "0000_srd_marble_elephant-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_marvelous_pigments": {
@@ -7398,8 +6964,7 @@
         "icon": "0000_srd_marvelous_pigments-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_masons_tools": {
@@ -7414,8 +6979,7 @@
         "tier": 1,
         "price": "10",
         "icon": "0000_srd_masons_tools-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_maul": {
@@ -7433,8 +6997,7 @@
         "hidden_tags": [
           "hvy",
           "two"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_medallion_of_thoughts": {
@@ -7451,8 +7014,7 @@
         "icon": "0000_srd_medallion_of_thoughts-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_midnight_tears": {
@@ -7467,8 +7029,7 @@
         "tier": 1,
         "price": "1500",
         "icon": "0000_srd_midnight_tears-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_midsize_compartment": {
@@ -7485,8 +7046,7 @@
         "icon": "0000_srd_midsize_compartment-icon.webp",
         "hidden_tags": [
           "weightlessContents"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_mirror": {
@@ -7501,8 +7061,7 @@
         "tier": 1,
         "price": "5",
         "icon": "0000_srd_mirror-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_mirror_of_life_trapping": {
@@ -7519,8 +7078,7 @@
         "icon": "0000_srd_mirror_of_life_trapping-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_mithral_armor": {
@@ -7537,8 +7095,7 @@
         "icon": "0000_srd_mithral_armor-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_moon": {
@@ -7555,8 +7112,7 @@
         "icon": "0000_srd_moon-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_morningstar": {
@@ -7571,8 +7127,7 @@
         "tier": 1,
         "price": "15",
         "icon": "0000_srd_morningstar-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_musket": {
@@ -7591,8 +7146,7 @@
           "amm",
           "lod",
           "two"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_mysterious_deck": {
@@ -7609,8 +7163,7 @@
         "icon": "0000_srd_mysterious_deck-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_navigators_tools": {
@@ -7625,8 +7178,7 @@
         "tier": 1,
         "price": "25",
         "icon": "0000_srd_navigators_tools-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_necklace_of_adaptation": {
@@ -7643,8 +7195,7 @@
         "icon": "0000_srd_necklace_of_adaptation-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_necklace_of_fireballs": {
@@ -7661,8 +7212,7 @@
         "icon": "0000_srd_necklace_of_fireballs-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_necklace_of_prayer_beads": {
@@ -7679,8 +7229,7 @@
         "icon": "0000_srd_necklace_of_prayer_beads-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_needles": {
@@ -7695,8 +7244,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_needles-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_net": {
@@ -7711,8 +7259,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_net-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_nine_lives_stealer": {
@@ -7729,8 +7276,7 @@
         "icon": "0000_srd_nine_lives_stealer-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_oathbow": {
@@ -7747,8 +7293,7 @@
         "icon": "0000_srd_oathbow-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_obsidian_steed": {
@@ -7765,8 +7310,7 @@
         "icon": "0000_srd_obsidian_steed-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_oil": {
@@ -7781,8 +7325,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_oil-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_oil_of_etherealness": {
@@ -7799,8 +7342,7 @@
         "icon": "0000_srd_oil_of_etherealness-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_oil_of_sharpness": {
@@ -7817,8 +7359,7 @@
         "icon": "0000_srd_oil_of_sharpness-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_oil_of_slipperiness": {
@@ -7835,8 +7376,7 @@
         "icon": "0000_srd_oil_of_slipperiness-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_oil_of_taggit": {
@@ -7851,8 +7391,7 @@
         "tier": 1,
         "price": "400",
         "icon": "0000_srd_oil_of_taggit-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_onyx_dog": {
@@ -7869,8 +7408,7 @@
         "icon": "0000_srd_onyx_dog-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_orb": {
@@ -7885,8 +7423,7 @@
         "tier": 1,
         "price": "20",
         "icon": "0000_srd_orb-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_padded_armor": {
@@ -7903,8 +7440,7 @@
         "icon": "0000_srd_padded_armor-icon.webp",
         "hidden_tags": [
           "stealthDisadvantage"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_painters_supplies": {
@@ -7919,8 +7455,7 @@
         "tier": 1,
         "price": "10",
         "icon": "0000_srd_painters_supplies-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_pale_tincture": {
@@ -7935,8 +7470,7 @@
         "tier": 1,
         "price": "250",
         "icon": "0000_srd_pale_tincture-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_pan_flute": {
@@ -7951,8 +7485,7 @@
         "tier": 1,
         "price": "12",
         "icon": "0000_srd_pan_flute-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_paper": {
@@ -7967,8 +7500,7 @@
         "tier": 1,
         "price": "2",
         "icon": "0000_srd_paper-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_parchment": {
@@ -7983,8 +7515,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_parchment-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_pearl_of_power": {
@@ -8001,8 +7532,7 @@
         "icon": "0000_srd_pearl_of_power-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_perfume": {
@@ -8017,8 +7547,7 @@
         "tier": 1,
         "price": "5",
         "icon": "0000_srd_perfume-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_periapt_of_health": {
@@ -8035,8 +7564,7 @@
         "icon": "0000_srd_periapt_of_health-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_periapt_of_proof_against_poison": {
@@ -8053,8 +7581,7 @@
         "icon": "0000_srd_periapt_of_proof_against_poison-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_periapt_of_wound_closure": {
@@ -8071,8 +7598,7 @@
         "icon": "0000_srd_periapt_of_wound_closure-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_philter_of_love": {
@@ -8089,8 +7615,7 @@
         "icon": "0000_srd_philter_of_love-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_pike": {
@@ -8109,8 +7634,7 @@
           "hvy",
           "rch",
           "two"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_pipe_of_smoke_monsters": {
@@ -8125,8 +7649,7 @@
         "tier": 1,
         "price": "100",
         "icon": "0000_srd_pipe_of_smoke_monsters-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_pipes_of_haunting": {
@@ -8143,8 +7666,7 @@
         "icon": "0000_srd_pipes_of_haunting-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_pipes_of_the_sewers": {
@@ -8161,8 +7683,7 @@
         "icon": "0000_srd_pipes_of_the_sewers-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_pistol": {
@@ -8180,8 +7701,7 @@
         "hidden_tags": [
           "amm",
           "lod"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_plate_armor": {
@@ -8198,8 +7718,7 @@
         "icon": "0000_srd_plate_armor-icon.webp",
         "hidden_tags": [
           "stealthDisadvantage"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_plate_armor_of_etherealness": {
@@ -8216,8 +7735,7 @@
         "icon": "0000_srd_plate_armor_of_etherealness-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_playing_cards": {
@@ -8232,8 +7750,7 @@
         "tier": 1,
         "price": "5",
         "icon": "0000_srd_playing_cards-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_poison_basic": {
@@ -8248,8 +7765,7 @@
         "tier": 1,
         "price": "100",
         "icon": "0000_srd_poison_basic-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_poisoned_darts": {
@@ -8264,8 +7780,7 @@
         "tier": 1,
         "price": "0",
         "icon": "0000_srd_poisoned_darts-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_poisoned_needle": {
@@ -8280,8 +7795,7 @@
         "tier": 1,
         "price": "0",
         "icon": "0000_srd_poisoned_needle-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_poisoners_kit": {
@@ -8296,8 +7810,7 @@
         "tier": 1,
         "price": "50",
         "icon": "0000_srd_poisoners_kit-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_pole": {
@@ -8312,8 +7825,7 @@
         "tier": 1,
         "price": "5",
         "icon": "0000_srd_pole-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_portable_hole": {
@@ -8330,8 +7842,7 @@
         "icon": "0000_srd_portable_hole-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_pot_iron": {
@@ -8346,8 +7857,7 @@
         "tier": 1,
         "price": "2",
         "icon": "0000_srd_pot_iron-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_potion_of_animal_friendship": {
@@ -8364,8 +7874,7 @@
         "icon": "0000_srd_potion_of_animal_friendship-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_clairvoyance": {
@@ -8382,8 +7891,7 @@
         "icon": "0000_srd_potion_of_clairvoyance-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_climbing": {
@@ -8400,8 +7908,7 @@
         "icon": "0000_srd_potion_of_climbing-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_diminution": {
@@ -8418,8 +7925,7 @@
         "icon": "0000_srd_potion_of_diminution-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_flying": {
@@ -8436,8 +7942,7 @@
         "icon": "0000_srd_potion_of_flying-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_gaseous_form": {
@@ -8454,8 +7959,7 @@
         "icon": "0000_srd_potion_of_gaseous_form-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_giant_strength_cloud": {
@@ -8472,8 +7976,7 @@
         "icon": "0000_srd_potion_of_giant_strength_cloud-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_giant_strength_fire": {
@@ -8490,8 +7993,7 @@
         "icon": "0000_srd_potion_of_giant_strength_fire-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_giant_strength_frost": {
@@ -8508,8 +8010,7 @@
         "icon": "0000_srd_potion_of_giant_strength_frost-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_giant_strength_hill": {
@@ -8526,8 +8027,7 @@
         "icon": "0000_srd_potion_of_giant_strength_hill-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_giant_strength_stone": {
@@ -8544,8 +8044,7 @@
         "icon": "0000_srd_potion_of_giant_strength_stone-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_giant_strength_storm": {
@@ -8562,8 +8061,7 @@
         "icon": "0000_srd_potion_of_giant_strength_storm-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_giant_strength": {
@@ -8580,8 +8078,7 @@
         "icon": "0000_srd_potion_of_giant_strength-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_growth": {
@@ -8598,8 +8095,7 @@
         "icon": "0000_srd_potion_of_growth-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_healing_greater": {
@@ -8616,8 +8112,7 @@
         "icon": "0000_srd_potion_of_healing_greater-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_healing_superior": {
@@ -8634,8 +8129,7 @@
         "icon": "0000_srd_potion_of_healing_superior-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_healing_supreme": {
@@ -8652,8 +8146,7 @@
         "icon": "0000_srd_potion_of_healing_supreme-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_healing": {
@@ -8670,8 +8163,7 @@
         "icon": "0000_srd_potion_of_healing-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_heroism": {
@@ -8688,8 +8180,7 @@
         "icon": "0000_srd_potion_of_heroism-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_invisibility": {
@@ -8706,8 +8197,7 @@
         "icon": "0000_srd_potion_of_invisibility-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_invulnerability": {
@@ -8724,8 +8214,7 @@
         "icon": "0000_srd_potion_of_invulnerability-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_longevity": {
@@ -8742,8 +8231,7 @@
         "icon": "0000_srd_potion_of_longevity-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_mind_reading": {
@@ -8760,8 +8248,7 @@
         "icon": "0000_srd_potion_of_mind_reading-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_poison": {
@@ -8778,8 +8265,7 @@
         "icon": "0000_srd_potion_of_poison-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_resistance": {
@@ -8796,8 +8282,7 @@
         "icon": "0000_srd_potion_of_resistance-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_speed": {
@@ -8814,8 +8299,7 @@
         "icon": "0000_srd_potion_of_speed-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_vitality": {
@@ -8832,8 +8316,7 @@
         "icon": "0000_srd_potion_of_vitality-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potion_of_water_breathing": {
@@ -8850,8 +8333,7 @@
         "icon": "0000_srd_potion_of_water_breathing-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_potters_tools": {
@@ -8866,8 +8348,7 @@
         "tier": 1,
         "price": "10",
         "icon": "0000_srd_potters_tools-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_pouch": {
@@ -8882,8 +8363,7 @@
         "tier": 1,
         "price": "5",
         "icon": "0000_srd_pouch-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_priests_pack": {
@@ -8898,8 +8378,7 @@
         "tier": 1,
         "price": "33",
         "icon": "0000_srd_priests_pack-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_purple_worm_poison": {
@@ -8914,8 +8393,7 @@
         "tier": 1,
         "price": "2000",
         "icon": "0000_srd_purple_worm_poison-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_puzzle": {
@@ -8932,8 +8410,7 @@
         "icon": "0000_srd_puzzle-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_quarterstaff": {
@@ -8950,8 +8427,7 @@
         "icon": "0000_srd_quarterstaff-icon.webp",
         "hidden_tags": [
           "ver"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_quarterstaff_of_the_acrobat": {
@@ -8971,8 +8447,7 @@
           "ret",
           "thr",
           "ver"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_quiver": {
@@ -8987,8 +8462,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_quiver-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_ram_portable": {
@@ -9003,8 +8477,7 @@
         "tier": 1,
         "price": "4",
         "icon": "0000_srd_ram_portable-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_rapier": {
@@ -9021,8 +8494,7 @@
         "icon": "0000_srd_rapier-icon.webp",
         "hidden_tags": [
           "fin"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_rations": {
@@ -9037,8 +8509,7 @@
         "tier": 1,
         "price": "5",
         "icon": "0000_srd_rations-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_reliquary": {
@@ -9053,8 +8524,7 @@
         "tier": 1,
         "price": "5",
         "icon": "0000_srd_reliquary-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_right_pouch": {
@@ -9071,8 +8541,7 @@
         "icon": "0000_srd_right_pouch-icon.webp",
         "hidden_tags": [
           "weightlessContents"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ring_mail": {
@@ -9089,8 +8558,7 @@
         "icon": "0000_srd_ring_mail-icon.webp",
         "hidden_tags": [
           "stealthDisadvantage"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ring": {
@@ -9105,8 +8573,7 @@
         "tier": 1,
         "price": "0",
         "icon": "0000_srd_ring-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_ring_of_animal_influence": {
@@ -9123,8 +8590,7 @@
         "icon": "0000_srd_ring_of_animal_influence-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ring_of_djinni_summoning": {
@@ -9141,8 +8607,7 @@
         "icon": "0000_srd_ring_of_djinni_summoning-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ring_of_elemental_command": {
@@ -9159,8 +8624,7 @@
         "icon": "0000_srd_ring_of_elemental_command-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ring_of_evasion": {
@@ -9177,8 +8641,7 @@
         "icon": "0000_srd_ring_of_evasion-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ring_of_feather_falling": {
@@ -9195,8 +8658,7 @@
         "icon": "0000_srd_ring_of_feather_falling-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ring_of_free_action": {
@@ -9213,8 +8675,7 @@
         "icon": "0000_srd_ring_of_free_action-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ring_of_invisibility": {
@@ -9231,8 +8692,7 @@
         "icon": "0000_srd_ring_of_invisibility-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ring_of_jumping": {
@@ -9249,8 +8709,7 @@
         "icon": "0000_srd_ring_of_jumping-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ring_of_mind_shielding": {
@@ -9267,8 +8726,7 @@
         "icon": "0000_srd_ring_of_mind_shielding-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ring_of_protection": {
@@ -9285,8 +8743,7 @@
         "icon": "0000_srd_ring_of_protection-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ring_of_regeneration": {
@@ -9303,8 +8760,7 @@
         "icon": "0000_srd_ring_of_regeneration-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ring_of_resistance": {
@@ -9321,8 +8777,7 @@
         "icon": "0000_srd_ring_of_resistance-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ring_of_shooting_stars": {
@@ -9339,8 +8794,7 @@
         "icon": "0000_srd_ring_of_shooting_stars-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ring_of_spell_storing": {
@@ -9357,8 +8811,7 @@
         "icon": "0000_srd_ring_of_spell_storing-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ring_of_spell_turning": {
@@ -9375,8 +8828,7 @@
         "icon": "0000_srd_ring_of_spell_turning-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ring_of_swimming": {
@@ -9393,8 +8845,7 @@
         "icon": "0000_srd_ring_of_swimming-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ring_of_telekinesis": {
@@ -9411,8 +8862,7 @@
         "icon": "0000_srd_ring_of_telekinesis-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ring_of_the_ram": {
@@ -9429,8 +8879,7 @@
         "icon": "0000_srd_ring_of_the_ram-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ring_of_three_wishes": {
@@ -9447,8 +8896,7 @@
         "icon": "0000_srd_ring_of_three_wishes-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ring_of_warmth": {
@@ -9465,8 +8913,7 @@
         "icon": "0000_srd_ring_of_warmth-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ring_of_water_walking": {
@@ -9483,8 +8930,7 @@
         "icon": "0000_srd_ring_of_water_walking-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ring_of_x_ray_vision": {
@@ -9501,8 +8947,7 @@
         "icon": "0000_srd_ring_of_x_ray_vision-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_robe": {
@@ -9517,8 +8962,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_robe-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_robe_of_eyes": {
@@ -9535,8 +8979,7 @@
         "icon": "0000_srd_robe_of_eyes-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_robe_of_scintillating_colors": {
@@ -9553,8 +8996,7 @@
         "icon": "0000_srd_robe_of_scintillating_colors-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_robe_of_stars": {
@@ -9571,8 +9013,7 @@
         "icon": "0000_srd_robe_of_stars-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_robe_of_the_archmagi": {
@@ -9589,8 +9030,7 @@
         "icon": "0000_srd_robe_of_the_archmagi-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_robe_of_useful_items": {
@@ -9607,8 +9047,7 @@
         "icon": "0000_srd_robe_of_useful_items-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_rod": {
@@ -9623,8 +9062,7 @@
         "tier": 1,
         "price": "10",
         "icon": "0000_srd_rod-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_rod_of_absorption": {
@@ -9642,8 +9080,7 @@
         "hidden_tags": [
           "foc",
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_rod_of_alertness": {
@@ -9661,8 +9098,7 @@
         "hidden_tags": [
           "foc",
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_rod_of_lordly_might": {
@@ -9680,8 +9116,7 @@
         "hidden_tags": [
           "foc",
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_rod_of_resurrection": {
@@ -9699,8 +9134,7 @@
         "hidden_tags": [
           "foc",
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_rod_of_rulership": {
@@ -9718,8 +9152,7 @@
         "hidden_tags": [
           "foc",
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_rod_of_security": {
@@ -9737,8 +9170,7 @@
         "hidden_tags": [
           "foc",
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_rogue": {
@@ -9755,8 +9187,7 @@
         "icon": "0000_srd_rogue-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_rolling_stone": {
@@ -9771,8 +9202,7 @@
         "tier": 1,
         "price": "0",
         "icon": "0000_srd_rolling_stone-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_rope": {
@@ -9787,8 +9217,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_rope-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_rope_of_climbing": {
@@ -9805,8 +9234,7 @@
         "icon": "0000_srd_rope_of_climbing-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_rope_of_entanglement": {
@@ -9823,8 +9251,7 @@
         "icon": "0000_srd_rope_of_entanglement-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_ruin": {
@@ -9841,8 +9268,7 @@
         "icon": "0000_srd_ruin-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_rust_bag_of_tricks": {
@@ -9859,8 +9285,7 @@
         "icon": "0000_srd_rust_bag_of_tricks-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_sack": {
@@ -9875,8 +9300,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_sack-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_sage": {
@@ -9893,8 +9317,7 @@
         "icon": "0000_srd_sage-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_scale_mail": {
@@ -9911,8 +9334,7 @@
         "icon": "0000_srd_scale_mail-icon.webp",
         "hidden_tags": [
           "stealthDisadvantage"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_scarab_of_protection": {
@@ -9929,8 +9351,7 @@
         "icon": "0000_srd_scarab_of_protection-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_scholars_pack": {
@@ -9945,8 +9366,7 @@
         "tier": 1,
         "price": "40",
         "icon": "0000_srd_scholars_pack-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_scimitar_of_speed": {
@@ -9965,8 +9385,7 @@
           "fin",
           "lgt",
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_scimitar": {
@@ -9984,8 +9403,7 @@
         "hidden_tags": [
           "fin",
           "lgt"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_scroll": {
@@ -10002,8 +9420,7 @@
         "icon": "0000_srd_scroll-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_sending_stones": {
@@ -10020,8 +9437,7 @@
         "icon": "0000_srd_sending_stones-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_sentinel_shield": {
@@ -10038,8 +9454,7 @@
         "icon": "0000_srd_sentinel_shield-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_serpent_venom": {
@@ -10054,8 +9469,7 @@
         "tier": 1,
         "price": "200",
         "icon": "0000_srd_serpent_venom-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_serpentine_owl": {
@@ -10072,8 +9486,7 @@
         "icon": "0000_srd_serpentine_owl-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_shawm": {
@@ -10088,8 +9501,7 @@
         "tier": 1,
         "price": "2",
         "icon": "0000_srd_shawm-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_shield_1_2_or_3": {
@@ -10106,8 +9518,7 @@
         "icon": "0000_srd_shield_1_2_or_3-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_shield_of_missile_attraction": {
@@ -10124,8 +9535,7 @@
         "icon": "0000_srd_shield_of_missile_attraction-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_shield_of_the_cavalier": {
@@ -10142,8 +9552,7 @@
         "icon": "0000_srd_shield_of_the_cavalier-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_shield": {
@@ -10158,8 +9567,7 @@
         "tier": 1,
         "price": "10",
         "icon": "0000_srd_shield-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_short_compartment": {
@@ -10176,8 +9584,7 @@
         "icon": "0000_srd_short_compartment-icon.webp",
         "hidden_tags": [
           "weightlessContents"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_shortbow": {
@@ -10195,8 +9602,7 @@
         "hidden_tags": [
           "amm",
           "two"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_shortsword": {
@@ -10214,8 +9620,7 @@
         "hidden_tags": [
           "fin",
           "lgt"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_shovel": {
@@ -10230,8 +9635,7 @@
         "tier": 1,
         "price": "2",
         "icon": "0000_srd_shovel-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_sickle": {
@@ -10248,8 +9652,7 @@
         "icon": "0000_srd_sickle-icon.webp",
         "hidden_tags": [
           "lgt"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_signal_whistle": {
@@ -10264,8 +9667,7 @@
         "tier": 1,
         "price": "5",
         "icon": "0000_srd_signal_whistle-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_silver_horn_of_valhalla": {
@@ -10282,8 +9684,7 @@
         "icon": "0000_srd_silver_horn_of_valhalla-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_silver_raven": {
@@ -10300,8 +9701,7 @@
         "icon": "0000_srd_silver_raven-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_skull": {
@@ -10318,8 +9718,7 @@
         "icon": "0000_srd_skull-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_sling": {
@@ -10336,8 +9735,7 @@
         "icon": "0000_srd_sling-icon.webp",
         "hidden_tags": [
           "amm"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_slippers_of_spider_climbing": {
@@ -10354,8 +9752,7 @@
         "icon": "0000_srd_slippers_of_spider_climbing-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_smiths_tools": {
@@ -10370,8 +9767,7 @@
         "tier": 1,
         "price": "20",
         "icon": "0000_srd_smiths_tools-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_sovereign_glue": {
@@ -10388,8 +9784,7 @@
         "icon": "0000_srd_sovereign_glue-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_spear": {
@@ -10407,8 +9802,7 @@
         "hidden_tags": [
           "thr",
           "ver"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_spell_scroll_1st_level": {
@@ -10425,8 +9819,7 @@
         "icon": "0000_srd_spell_scroll_1st_level-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_spell_scroll_2nd_level": {
@@ -10443,8 +9836,7 @@
         "icon": "0000_srd_spell_scroll_2nd_level-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_spell_scroll_3rd_level": {
@@ -10461,8 +9853,7 @@
         "icon": "0000_srd_spell_scroll_3rd_level-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_spell_scroll_4th_level": {
@@ -10479,8 +9870,7 @@
         "icon": "0000_srd_spell_scroll_4th_level-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_spell_scroll_5th_level": {
@@ -10497,8 +9887,7 @@
         "icon": "0000_srd_spell_scroll_5th_level-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_spell_scroll_6th_level": {
@@ -10515,8 +9904,7 @@
         "icon": "0000_srd_spell_scroll_6th_level-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_spell_scroll_7th_level": {
@@ -10533,8 +9921,7 @@
         "icon": "0000_srd_spell_scroll_7th_level-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_spell_scroll_8th_level": {
@@ -10551,8 +9938,7 @@
         "icon": "0000_srd_spell_scroll_8th_level-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_spell_scroll_9th_level": {
@@ -10569,8 +9955,7 @@
         "icon": "0000_srd_spell_scroll_9th_level-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_spell_scroll_cantrip": {
@@ -10587,8 +9972,7 @@
         "icon": "0000_srd_spell_scroll_cantrip-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_spell_scroll_level_1": {
@@ -10605,8 +9989,7 @@
         "icon": "0000_srd_spell_scroll_level_1-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_spell_scroll": {
@@ -10621,8 +10004,7 @@
         "tier": 1,
         "price": "0",
         "icon": "0000_srd_spell_scroll-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_spellguard_shield": {
@@ -10639,8 +10021,7 @@
         "icon": "0000_srd_spellguard_shield-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_sphere_of_annihilation": {
@@ -10657,8 +10038,7 @@
         "icon": "0000_srd_sphere_of_annihilation-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_spiders_sting": {
@@ -10673,8 +10053,7 @@
         "tier": 1,
         "price": "200",
         "icon": "0000_srd_spiders_sting-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_spiked_pit": {
@@ -10689,8 +10068,7 @@
         "tier": 1,
         "price": "0",
         "icon": "0000_srd_spiked_pit-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_spikes_iron": {
@@ -10705,8 +10083,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_spikes_iron-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_splint_armor": {
@@ -10723,8 +10100,7 @@
         "icon": "0000_srd_splint_armor-icon.webp",
         "hidden_tags": [
           "stealthDisadvantage"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_sprig_of_mistletoe": {
@@ -10739,8 +10115,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_sprig_of_mistletoe-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_spyglass": {
@@ -10755,8 +10130,7 @@
         "tier": 1,
         "price": "1000",
         "icon": "0000_srd_spyglass-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_staff": {
@@ -10774,8 +10148,7 @@
         "hidden_tags": [
           "foc",
           "ver"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_staff_of_charming": {
@@ -10793,8 +10166,7 @@
         "hidden_tags": [
           "mgc",
           "ver"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_staff_of_fire": {
@@ -10812,8 +10184,7 @@
         "hidden_tags": [
           "mgc",
           "ver"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_staff_of_frost": {
@@ -10831,8 +10202,7 @@
         "hidden_tags": [
           "mgc",
           "ver"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_staff_of_healing": {
@@ -10850,8 +10220,7 @@
         "hidden_tags": [
           "mgc",
           "ver"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_staff_of_power": {
@@ -10869,8 +10238,7 @@
         "hidden_tags": [
           "mgc",
           "ver"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_staff_of_striking": {
@@ -10888,8 +10256,7 @@
         "hidden_tags": [
           "mgc",
           "ver"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_staff_of_swarming_insects": {
@@ -10907,8 +10274,7 @@
         "hidden_tags": [
           "mgc",
           "ver"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_staff_of_the_magi": {
@@ -10926,8 +10292,7 @@
         "hidden_tags": [
           "mgc",
           "ver"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_staff_of_the_python": {
@@ -10944,8 +10309,7 @@
         "icon": "0000_srd_staff_of_the_python-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_staff_of_the_woodlands": {
@@ -10963,8 +10327,7 @@
         "hidden_tags": [
           "mgc",
           "ver"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_staff_of_thunder_and_lightning": {
@@ -10982,8 +10345,7 @@
         "hidden_tags": [
           "mgc",
           "ver"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_staff_of_withering": {
@@ -11001,8 +10363,7 @@
         "hidden_tags": [
           "mgc",
           "ver"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_star": {
@@ -11019,8 +10380,7 @@
         "icon": "0000_srd_star-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_stone_of_controlling_earth_elementals": {
@@ -11037,8 +10397,7 @@
         "icon": "0000_srd_stone_of_controlling_earth_elementals-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_stone_of_good_luck_luckstone": {
@@ -11055,8 +10414,7 @@
         "icon": "0000_srd_stone_of_good_luck_luckstone-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_string": {
@@ -11071,8 +10429,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_string-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_studded_leather_armor": {
@@ -11087,8 +10444,7 @@
         "tier": 1,
         "price": "45",
         "icon": "0000_srd_studded_leather_armor-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_sun_blade": {
@@ -11107,8 +10463,7 @@
           "fin",
           "mgc",
           "ver"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_sun": {
@@ -11125,8 +10480,7 @@
         "icon": "0000_srd_sun-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_sword_of_life_stealing": {
@@ -11143,8 +10497,7 @@
         "icon": "0000_srd_sword_of_life_stealing-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_sword_of_sharpness": {
@@ -11161,8 +10514,7 @@
         "icon": "0000_srd_sword_of_sharpness-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_sword_of_wounding": {
@@ -11179,8 +10531,7 @@
         "icon": "0000_srd_sword_of_wounding-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_talisman_of_pure_good": {
@@ -11197,8 +10548,7 @@
         "icon": "0000_srd_talisman_of_pure_good-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_talisman_of_the_sphere": {
@@ -11215,8 +10565,7 @@
         "icon": "0000_srd_talisman_of_the_sphere-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_talisman_of_ultimate_evil": {
@@ -11234,8 +10583,7 @@
         "hidden_tags": [
           "foc",
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_talons": {
@@ -11252,8 +10600,7 @@
         "icon": "0000_srd_talons-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_tan_bag_of_tricks": {
@@ -11270,8 +10617,7 @@
         "icon": "0000_srd_tan_bag_of_tricks-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_tent": {
@@ -11286,8 +10632,7 @@
         "tier": 1,
         "price": "2",
         "icon": "0000_srd_tent-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_thieves_tools": {
@@ -11302,8 +10647,7 @@
         "tier": 1,
         "price": "25",
         "icon": "0000_srd_thieves_tools-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_three_dragon_ante": {
@@ -11318,8 +10662,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_three_dragon_ante-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_throne": {
@@ -11336,8 +10679,7 @@
         "icon": "0000_srd_throne-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_thunderous_greatclub": {
@@ -11355,8 +10697,7 @@
         "hidden_tags": [
           "mgc",
           "two"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_tinderbox": {
@@ -11371,8 +10712,7 @@
         "tier": 1,
         "price": "5",
         "icon": "0000_srd_tinderbox-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_tinkers_tools": {
@@ -11387,8 +10727,7 @@
         "tier": 1,
         "price": "50",
         "icon": "0000_srd_tinkers_tools-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_tome_of_clear_thought": {
@@ -11405,8 +10744,7 @@
         "icon": "0000_srd_tome_of_clear_thought-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_tome_of_leadership_and_influence": {
@@ -11423,8 +10761,7 @@
         "icon": "0000_srd_tome_of_leadership_and_influence-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_tome_of_understanding": {
@@ -11441,8 +10778,7 @@
         "icon": "0000_srd_tome_of_understanding-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_torch": {
@@ -11457,8 +10793,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_torch-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_torpor": {
@@ -11473,8 +10808,7 @@
         "tier": 1,
         "price": "600",
         "icon": "0000_srd_torpor-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_trident_of_fish_command": {
@@ -11493,8 +10827,7 @@
           "mgc",
           "thr",
           "ver"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_trident": {
@@ -11512,8 +10845,7 @@
         "hidden_tags": [
           "thr",
           "ver"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_truth_serum": {
@@ -11528,8 +10860,7 @@
         "tier": 1,
         "price": "150",
         "icon": "0000_srd_truth_serum-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_unarmed_strike": {
@@ -11544,8 +10875,7 @@
         "tier": 1,
         "price": "0",
         "icon": "0000_srd_unarmed_strike-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_universal_solvent": {
@@ -11562,8 +10892,7 @@
         "icon": "0000_srd_universal_solvent-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_vial": {
@@ -11578,8 +10907,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_vial-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_vicious_weapon": {
@@ -11596,8 +10924,7 @@
         "icon": "0000_srd_vicious_weapon-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_viol": {
@@ -11612,8 +10939,7 @@
         "tier": 1,
         "price": "30",
         "icon": "0000_srd_viol-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_void": {
@@ -11630,8 +10956,7 @@
         "icon": "0000_srd_void-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_vorpal_sword": {
@@ -11648,8 +10973,7 @@
         "icon": "0000_srd_vorpal_sword-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_wand_of_binding": {
@@ -11667,8 +10991,7 @@
         "hidden_tags": [
           "foc",
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_wand_of_enemy_detection": {
@@ -11686,8 +11009,7 @@
         "hidden_tags": [
           "foc",
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_wand_of_fear": {
@@ -11705,8 +11027,7 @@
         "hidden_tags": [
           "foc",
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_wand_of_fireballs": {
@@ -11724,8 +11045,7 @@
         "hidden_tags": [
           "foc",
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_wand_of_lightning_bolts": {
@@ -11743,8 +11063,7 @@
         "hidden_tags": [
           "foc",
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_wand_of_magic_detection": {
@@ -11762,8 +11081,7 @@
         "hidden_tags": [
           "foc",
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_wand_of_magic_missiles": {
@@ -11781,8 +11099,7 @@
         "hidden_tags": [
           "foc",
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_wand_of_paralysis": {
@@ -11800,8 +11117,7 @@
         "hidden_tags": [
           "foc",
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_wand_of_polymorph": {
@@ -11819,8 +11135,7 @@
         "hidden_tags": [
           "foc",
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_wand_of_secrets": {
@@ -11838,8 +11153,7 @@
         "hidden_tags": [
           "foc",
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_wand_of_the_war_mage_1_2_or_3": {
@@ -11857,8 +11171,7 @@
         "hidden_tags": [
           "foc",
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_wand_of_web": {
@@ -11876,8 +11189,7 @@
         "hidden_tags": [
           "foc",
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_wand_of_wonder": {
@@ -11895,8 +11207,7 @@
         "hidden_tags": [
           "foc",
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_wand": {
@@ -11911,8 +11222,7 @@
         "tier": 1,
         "price": "10",
         "icon": "0000_srd_wand-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_war_pick": {
@@ -11929,8 +11239,7 @@
         "icon": "0000_srd_war_pick-icon.webp",
         "hidden_tags": [
           "ver"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_warhammer": {
@@ -11947,8 +11256,7 @@
         "icon": "0000_srd_warhammer-icon.webp",
         "hidden_tags": [
           "ver"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_water_fresh_pint": {
@@ -11963,8 +11271,7 @@
         "tier": 1,
         "price": "0",
         "icon": "0000_srd_water_fresh_pint-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_water_pint": {
@@ -11979,8 +11286,7 @@
         "tier": 1,
         "price": "0",
         "icon": "0000_srd_water_pint-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_water_salt_pint": {
@@ -11995,8 +11301,7 @@
         "tier": 1,
         "price": "0",
         "icon": "0000_srd_water_salt_pint-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_water_ring_of_elemental_command": {
@@ -12013,8 +11318,7 @@
         "icon": "0000_srd_water_ring_of_elemental_command-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_waterskin": {
@@ -12029,8 +11333,7 @@
         "tier": 1,
         "price": "2",
         "icon": "0000_srd_waterskin-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_weapon_1_2_or_3": {
@@ -12047,8 +11350,7 @@
         "icon": "0000_srd_weapon_1_2_or_3-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_weapon_of_warning": {
@@ -12065,8 +11367,7 @@
         "icon": "0000_srd_weapon_of_warning-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_weavers_tools": {
@@ -12081,8 +11382,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_weavers_tools-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_well_of_many_worlds": {
@@ -12099,8 +11399,7 @@
         "icon": "0000_srd_well_of_many_worlds-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_whip": {
@@ -12118,8 +11417,7 @@
         "hidden_tags": [
           "fin",
           "rch"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_wind_fan": {
@@ -12136,8 +11434,7 @@
         "icon": "0000_srd_wind_fan-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_winged_boots": {
@@ -12154,8 +11451,7 @@
         "icon": "0000_srd_winged_boots-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_wings_of_flying": {
@@ -12172,8 +11468,7 @@
         "icon": "0000_srd_wings_of_flying-icon.webp",
         "hidden_tags": [
           "mgc"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_woodcarvers_tools": {
@@ -12188,8 +11483,7 @@
         "tier": 1,
         "price": "1",
         "icon": "0000_srd_woodcarvers_tools-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_wooden_staff": {
@@ -12207,8 +11501,7 @@
         "hidden_tags": [
           "foc",
           "ver"
-        ],
-        "free_content": false
+        ]
       }
     },
     "0000_srd_wyvern_poison": {
@@ -12223,8 +11516,7 @@
         "tier": 1,
         "price": "1200",
         "icon": "0000_srd_wyvern_poison-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     },
     "0000_srd_yew_wand": {
@@ -12239,8 +11531,7 @@
         "tier": 1,
         "price": "10",
         "icon": "0000_srd_yew_wand-icon.webp",
-        "hidden_tags": [],
-        "free_content": false
+        "hidden_tags": []
       }
     }
   }
