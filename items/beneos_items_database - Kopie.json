@@ -15,14 +15,7 @@
         "tier": 3,
         "price": "52800",
         "icon": "0001_nightfall-icon.webp",
-        "hidden_tags": [
-          "darkness",
-          "stealth",
-          "night vision",
-          "shadow",
-          "evasion",
-          "protection"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -38,15 +31,7 @@
         "tier": 1,
         "price": "3400",
         "icon": "0003_shamblevault_coffin-icon.webp",
-        "hidden_tags": [
-          "undead",
-          "necrotic damage",
-          "armor",
-          "vulnerability",
-          "necromancy",
-          "cleric",
-          "wizard"
-        ],
+        "hidden_tags": [],
         "free_content": true
       }
     },
@@ -62,16 +47,7 @@
         "tier": 2,
         "price": "4300",
         "icon": "0004_harrowshrike_deathmask-icon.webp",
-        "hidden_tags": [
-          "wizard",
-          "necromancy",
-          "spellcasting focus",
-          "undead",
-          "concentration",
-          "aura",
-          "cold damage",
-          "debuff"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -87,16 +63,7 @@
         "tier": 2,
         "price": "5800",
         "icon": "0006_sea_tyrants_scales-icon.webp",
-        "hidden_tags": [
-          "armor",
-          "water",
-          "vulnerability",
-          "resistance",
-          "aquatic",
-          "paladin",
-          "fighter",
-          "cleric"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -112,15 +79,7 @@
         "tier": 1,
         "price": "2900",
         "icon": "0008_scythe_of_the_long_march-icon.webp",
-        "hidden_tags": [
-          "harvesting",
-          "reaping",
-          "death",
-          "necrotic damage",
-          "undead",
-          "movement",
-          "debuff"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -136,14 +95,7 @@
         "tier": 1,
         "price": "900",
         "icon": "0009_blood_toll_bracers-icon.webp",
-        "hidden_tags": [
-          "blood magic",
-          "damage",
-          "sacrifice",
-          "fighter",
-          "barbarian",
-          "warlock"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -159,14 +111,7 @@
         "tier": 4,
         "price": "108000",
         "icon": "0010_eye_of_obliteration-icon.webp",
-        "hidden_tags": [
-          "bow",
-          "magic weapon",
-          "damage bonus",
-          "attack bonus",
-          "ranger",
-          "fighter"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -182,14 +127,7 @@
         "tier": 2,
         "price": "5400",
         "icon": "0012_defuser_harness-icon.webp",
-        "hidden_tags": [
-          "trap",
-          "damage reduction",
-          "protective",
-          "reaction",
-          "rogue",
-          "artificer"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -205,13 +143,7 @@
         "tier": 1,
         "price": "1800",
         "icon": "0013_shoreclaimer-icon.webp",
-        "hidden_tags": [
-          "water",
-          "aquatic",
-          "elemental",
-          "ranger",
-          "druid"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -227,16 +159,7 @@
         "tier": 2,
         "price": "2600",
         "icon": "0014_dreamers_prison-icon.webp",
-        "hidden_tags": [
-          "armor",
-          "vulnerability",
-          "psychic",
-          "dreams",
-          "control",
-          "debuff",
-          "wizard",
-          "sorcerer"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -252,15 +175,7 @@
         "tier": 2,
         "price": "4400",
         "icon": "0015_sunflower_scepter-icon.webp",
-        "hidden_tags": [
-          "light",
-          "healing",
-          "nature",
-          "radiance",
-          "support",
-          "buff",
-          "growth"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -276,13 +191,7 @@
         "tier": 1,
         "price": "1600",
         "icon": "0016_harrowshrike_harness-icon.webp",
-        "hidden_tags": [
-          "armor",
-          "vulnerability",
-          "debuff",
-          "rogue",
-          "wizard"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -298,16 +207,7 @@
         "tier": 2,
         "price": "6200",
         "icon": "0017_griefplate-icon.webp",
-        "hidden_tags": [
-          "wizard",
-          "spellcasting focus",
-          "concentration",
-          "damage",
-          "aura",
-          "necromancy",
-          "haunting",
-          "somatic component"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -323,14 +223,7 @@
         "tier": 3,
         "price": "28800",
         "icon": "0018_gatebreaker_gauntlets-icon.webp",
-        "hidden_tags": [
-          "strength",
-          "combat",
-          "melee",
-          "protection",
-          "barrier",
-          "defensive"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -346,15 +239,7 @@
         "tier": 1,
         "price": "2500",
         "icon": "0019_osseous_mask-icon.webp",
-        "hidden_tags": [
-          "undead",
-          "fear",
-          "illusion",
-          "necrotic",
-          "aura",
-          "cleric",
-          "wizard"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -370,14 +255,7 @@
         "tier": 2,
         "price": "6600",
         "icon": "0020_stormstrider_boots-icon.webp",
-        "hidden_tags": [
-          "movement",
-          "lightning",
-          "speed",
-          "storm",
-          "evasion",
-          "travel"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -393,13 +271,7 @@
         "tier": 1,
         "price": "2700",
         "icon": "0022_ossian_crown-icon.webp",
-        "hidden_tags": [
-          "champion",
-          "chivalry",
-          "headwear",
-          "buff",
-          "strength"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -415,14 +287,7 @@
         "tier": 2,
         "price": "2100",
         "icon": "0024_ancestral_fragment-icon.webp",
-        "hidden_tags": [
-          "ancestral",
-          "aura",
-          "connection",
-          "spirit",
-          "cleric",
-          "druid"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -438,13 +303,7 @@
         "tier": 2,
         "price": "4600",
         "icon": "0025_lightbringer_torch-icon.webp",
-        "hidden_tags": [
-          "light",
-          "illumination",
-          "fire damage",
-          "cleric",
-          "paladin"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -460,14 +319,7 @@
         "tier": 2,
         "price": "4800",
         "icon": "0026_molten_core-icon.webp",
-        "hidden_tags": [
-          "fire damage",
-          "heat",
-          "burning",
-          "damage",
-          "combat",
-          "weapon"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -483,13 +335,7 @@
         "tier": 2,
         "price": "3100",
         "icon": "0002_devils_deck_sweeper-icon.webp",
-        "hidden_tags": [
-          "gambling",
-          "luck",
-          "cards",
-          "rogue",
-          "trickster"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -505,14 +351,7 @@
         "tier": 1,
         "price": "750",
         "icon": "0031_gravewardens_bell-icon.webp",
-        "hidden_tags": [
-          "undead",
-          "aura",
-          "necrotic damage",
-          "control",
-          "cleric",
-          "paladin"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -528,13 +367,7 @@
         "tier": 2,
         "price": "4400",
         "icon": "0032_crescent_moon-icon.webp",
-        "hidden_tags": [
-          "radiant damage",
-          "blade",
-          "paladin",
-          "cleric",
-          "fighter"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -550,14 +383,7 @@
         "tier": 3,
         "price": "48000",
         "icon": "0034_cloak_of_billowing_ash-icon.webp",
-        "hidden_tags": [
-          "ash",
-          "elemental",
-          "concealment",
-          "dexterity",
-          "rogue",
-          "ranger"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -573,11 +399,7 @@
         "tier": 1,
         "price": "800",
         "icon": "0033_wiredevil-icon.webp",
-        "hidden_tags": [
-          "armor",
-          "vulnerability",
-          "rare"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -593,15 +415,7 @@
         "tier": 2,
         "price": "6600",
         "icon": "0035_dreamraker-icon.webp",
-        "hidden_tags": [
-          "dreams",
-          "illusion",
-          "psychic damage",
-          "control",
-          "wizard",
-          "sorcerer",
-          "warlock"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -617,15 +431,7 @@
         "tier": 1,
         "price": "2200",
         "icon": "0036_vermin_crown-icon.webp",
-        "hidden_tags": [
-          "insects",
-          "swarm",
-          "control",
-          "summoning",
-          "hivemind",
-          "buff",
-          "charm"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -641,15 +447,7 @@
         "tier": 2,
         "price": "5600",
         "icon": "0037_grovekeepers_promise-icon.webp",
-        "hidden_tags": [
-          "nature",
-          "healing",
-          "radiant damage",
-          "buff",
-          "druid",
-          "cleric",
-          "ranger"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -665,14 +463,7 @@
         "tier": 1,
         "price": "3200",
         "icon": "0038_seed_of_renewal-icon.webp",
-        "hidden_tags": [
-          "healing",
-          "renewal",
-          "restoration",
-          "nature",
-          "buff",
-          "life"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -688,14 +479,7 @@
         "tier": 1,
         "price": "3800",
         "icon": "0039_blade_sage_scroll-icon.webp",
-        "hidden_tags": [
-          "arcane knowledge",
-          "wizard",
-          "sorcerer",
-          "magic items",
-          "scroll",
-          "spell"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -711,16 +495,7 @@
         "tier": 2,
         "price": "3600",
         "icon": "0040_jungle_monarch-icon.webp",
-        "hidden_tags": [
-          "ranger",
-          "druid",
-          "animal companion",
-          "nature",
-          "jungle",
-          "exploration",
-          "stealth",
-          "bonus action"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -736,16 +511,7 @@
         "tier": 1,
         "price": "2700",
         "icon": "0041_lantern_of_waning_hope-icon.webp",
-        "hidden_tags": [
-          "despair",
-          "darkness",
-          "shadow",
-          "control",
-          "debuff",
-          "curse",
-          "morale",
-          "mental"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -761,14 +527,7 @@
         "tier": 1,
         "price": "1400",
         "icon": "0042_rothail_shortbow-icon.webp",
-        "hidden_tags": [
-          "archery",
-          "ranger",
-          "fighter",
-          "rogue",
-          "weapon",
-          "bonus action"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -784,14 +543,7 @@
         "tier": 1,
         "price": "2100",
         "icon": "0043_conquerors_chalice-icon.webp",
-        "hidden_tags": [
-          "buff",
-          "aura",
-          "control",
-          "paladin",
-          "fighter",
-          "cleric"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -807,13 +559,7 @@
         "tier": 1,
         "price": "1700",
         "icon": "0044_ghoulskin_gloves-icon.webp",
-        "hidden_tags": [
-          "undead",
-          "necrotic damage",
-          "armor",
-          "rogue",
-          "ranger"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -845,14 +591,7 @@
         "tier": 2,
         "price": "4700",
         "icon": "0046_mourners_frock-icon.webp",
-        "hidden_tags": [
-          "death",
-          "necromancy",
-          "grief",
-          "undead",
-          "ritual",
-          "cleric"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -868,12 +607,7 @@
         "tier": 1,
         "price": "1700",
         "icon": "0049_foremans_flask-icon.webp",
-        "hidden_tags": [
-          "utility",
-          "crafting",
-          "buff",
-          "artificer"
-        ],
+        "hidden_tags": [],
         "free_content": true
       }
     },
@@ -889,13 +623,7 @@
         "tier": 2,
         "price": "2200",
         "icon": "0047_beast_hunters_cowl-icon.webp",
-        "hidden_tags": [
-          "beast",
-          "hunting",
-          "tracking",
-          "ranger",
-          "fighter"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -911,13 +639,7 @@
         "tier": 2,
         "price": "3200",
         "icon": "0048_fadesilk_shroud-icon.webp",
-        "hidden_tags": [
-          "invisibility",
-          "stealth",
-          "evasion",
-          "rogue",
-          "monk"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -933,15 +655,7 @@
         "tier": 1,
         "price": "700",
         "icon": "0050_brawlers_eagerness-icon.webp",
-        "hidden_tags": [
-          "unarmed combat",
-          "melee",
-          "damage boost",
-          "strength",
-          "barbarian",
-          "monk",
-          "fighter"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -957,13 +671,7 @@
         "tier": 1,
         "price": "350",
         "icon": "0051_blessed_bindings-icon.webp",
-        "hidden_tags": [
-          "restraint",
-          "control",
-          "binding",
-          "cleric",
-          "paladin"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -979,13 +687,7 @@
         "tier": 1,
         "price": "900",
         "icon": "0053_robes_of_reflection-icon.webp",
-        "hidden_tags": [
-          "reflection",
-          "protection",
-          "mirror",
-          "wizard",
-          "sorcerer"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1001,15 +703,7 @@
         "tier": 2,
         "price": "4200",
         "icon": "0052_dark_shepherd_cursed-icon.webp",
-        "hidden_tags": [
-          "undead",
-          "necromancy",
-          "control",
-          "curse",
-          "cleric",
-          "wizard",
-          "warlock"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1025,15 +719,7 @@
         "tier": 2,
         "price": "4200",
         "icon": "0052_dark_shepherd-icon.webp",
-        "hidden_tags": [
-          "undead",
-          "necrotic damage",
-          "control",
-          "summoning",
-          "cleric",
-          "wizard",
-          "warlock"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1049,12 +735,7 @@
         "tier": 2,
         "price": "3600",
         "icon": "0054_slumbering_huskblade-icon.webp",
-        "hidden_tags": [
-          "climbing",
-          "movement",
-          "strength",
-          "buff"
-        ],
+        "hidden_tags": [],
         "free_content": true
       }
     },
@@ -1070,14 +751,7 @@
         "tier": 2,
         "price": "5800",
         "icon": "0055_awoken_huskblade-icon.webp",
-        "hidden_tags": [
-          "weapon enhancement",
-          "transformation",
-          "damage scaling",
-          "fighter",
-          "barbarian",
-          "ranger"
-        ],
+        "hidden_tags": [],
         "free_content": true
       }
     },
@@ -1093,15 +767,7 @@
         "tier": 2,
         "price": "5000",
         "icon": "0056_hiveheart-icon.webp",
-        "hidden_tags": [
-          "summoning",
-          "swarm",
-          "insect",
-          "conjuration",
-          "control",
-          "wizard",
-          "sorcerer"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1117,13 +783,7 @@
         "tier": 1,
         "price": "2700",
         "icon": "0057_sullen_knights_helmet-icon.webp",
-        "hidden_tags": [
-          "armor",
-          "vulnerability",
-          "defense",
-          "fighter",
-          "paladin"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1139,12 +799,7 @@
         "tier": 2,
         "price": "12500",
         "icon": "0058_bascinet_of_ancient_tactica-icon.webp",
-        "hidden_tags": [
-          "armor",
-          "protection",
-          "fighter",
-          "paladin"
-        ],
+        "hidden_tags": [],
         "free_content": true
       }
     },
@@ -1160,15 +815,7 @@
         "tier": 1,
         "price": "2600",
         "icon": "0059_bottlesnatcher_imp-icon.webp",
-        "hidden_tags": [
-          "stealing",
-          "mischief",
-          "trickery",
-          "summoning",
-          "imp",
-          "rogue",
-          "warlock"
-        ],
+        "hidden_tags": [],
         "free_content": true
       }
     },
@@ -1184,14 +831,7 @@
         "tier": 2,
         "price": "13600",
         "icon": "0060_heart_of_iron-icon.webp",
-        "hidden_tags": [
-          "wizard",
-          "spellcasting focus",
-          "undead",
-          "cold damage",
-          "aura",
-          "concentration"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1207,14 +847,7 @@
         "tier": 2,
         "price": "3900",
         "icon": "0061_spelldrinker_scroll-icon.webp",
-        "hidden_tags": [
-          "spellcasting",
-          "magic",
-          "scroll",
-          "wizard",
-          "sorcerer",
-          "cleric"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1230,14 +863,7 @@
         "tier": 1,
         "price": "2900",
         "icon": "0063_nightbloom_chalice-icon.webp",
-        "hidden_tags": [
-          "poison",
-          "vulnerability",
-          "debuff",
-          "necrotic damage",
-          "rogue",
-          "wizard"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1269,15 +895,7 @@
         "tier": 2,
         "price": "3200",
         "icon": "0065_duskdreamers_diadem-icon.webp",
-        "hidden_tags": [
-          "illusion",
-          "concentration",
-          "sorcerer",
-          "wizard",
-          "bard",
-          "dream",
-          "psychic damage"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1293,15 +911,7 @@
         "tier": 3,
         "price": "18000",
         "icon": "0066_death_ink-icon.webp",
-        "hidden_tags": [
-          "necromancy",
-          "curse",
-          "undead",
-          "dark magic",
-          "debuff",
-          "wizard",
-          "warlock"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1317,13 +927,7 @@
         "tier": 3,
         "price": "14200",
         "icon": "0067_whispermaw_strain-icon.webp",
-        "hidden_tags": [
-          "poison",
-          "debuff",
-          "control",
-          "rogue",
-          "ranger"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1339,12 +943,7 @@
         "tier": 2,
         "price": "2800",
         "icon": "0068_magmatic_molasses-icon.webp",
-        "hidden_tags": [
-          "fire damage",
-          "vulnerability",
-          "armor",
-          "rare"
-        ],
+        "hidden_tags": [],
         "free_content": true
       }
     },
@@ -1360,15 +959,7 @@
         "tier": 2,
         "price": "6000",
         "icon": "0069_drought_draught-icon.webp",
-        "hidden_tags": [
-          "poison",
-          "debuff",
-          "curse",
-          "necrotic damage",
-          "undead",
-          "wizard",
-          "cleric"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1384,16 +975,7 @@
         "tier": 3,
         "price": "100000",
         "icon": "0070_crown_of_defiance-icon.webp",
-        "hidden_tags": [
-          "resistance",
-          "buff",
-          "protection",
-          "defiance",
-          "aura",
-          "fighter",
-          "paladin",
-          "cleric"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1409,14 +991,7 @@
         "tier": 1,
         "price": "1900",
         "icon": "0071_hags_due-icon.webp",
-        "hidden_tags": [
-          "curse",
-          "magic item",
-          "bargain",
-          "dark pact",
-          "warlock",
-          "sorcerer"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1432,13 +1007,7 @@
         "tier": 1,
         "price": "2100",
         "icon": "0072_slimesword-icon.webp",
-        "hidden_tags": [
-          "slime",
-          "acid damage",
-          "melee",
-          "rogue",
-          "fighter"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1454,14 +1023,7 @@
         "tier": 2,
         "price": "5700",
         "icon": "0073_visage_of_dismay-icon.webp",
-        "hidden_tags": [
-          "fear",
-          "illusion",
-          "aura",
-          "debuff",
-          "paladin",
-          "cleric"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1477,16 +1039,7 @@
         "tier": 3,
         "price": "25700",
         "icon": "0074_dawnmartyr_pelerine-icon.webp",
-        "hidden_tags": [
-          "radiant damage",
-          "healing",
-          "paladin",
-          "cleric",
-          "light",
-          "aura",
-          "buff",
-          "protection"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1502,15 +1055,7 @@
         "tier": 3,
         "price": "44800",
         "icon": "0075_grace_of_the_shade_court-icon.webp",
-        "hidden_tags": [
-          "shadow",
-          "stealth",
-          "debuff",
-          "curse",
-          "necrotic damage",
-          "rogue",
-          "warlock"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1526,14 +1071,7 @@
         "tier": 2,
         "price": "189000",
         "icon": "0076_mask_of_the_third_eye-icon.webp",
-        "hidden_tags": [
-          "darkvision",
-          "truesight",
-          "perception",
-          "wizard",
-          "cleric",
-          "rogue"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1549,13 +1087,7 @@
         "tier": 2,
         "price": "5200",
         "icon": "0077_windup_key-icon.webp",
-        "hidden_tags": [
-          "mechanical",
-          "utility",
-          "puzzle",
-          "magical device",
-          "bonus action"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1571,14 +1103,7 @@
         "tier": 1,
         "price": "2600",
         "icon": "0078_enslaver_stake-icon.webp",
-        "hidden_tags": [
-          "vulnerability",
-          "armor",
-          "curse",
-          "control",
-          "enchantment",
-          "debuff"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1594,14 +1119,7 @@
         "tier": 1,
         "price": "2600",
         "icon": "0079_martyrs_ash-icon.webp",
-        "hidden_tags": [
-          "vulnerability",
-          "armor",
-          "rare",
-          "defensive",
-          "cleric",
-          "paladin"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1617,14 +1135,7 @@
         "tier": 2,
         "price": "13700",
         "icon": "0080_mind_tyrant-icon.webp",
-        "hidden_tags": [
-          "mind control",
-          "telepathy",
-          "concentration",
-          "wizard",
-          "warlock",
-          "sorcerer"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1640,15 +1151,7 @@
         "tier": 3,
         "price": "37200",
         "icon": "0082_convergence_crest-icon.webp",
-        "hidden_tags": [
-          "radiant damage",
-          "aura",
-          "control",
-          "paladin",
-          "cleric",
-          "buff",
-          "concentration"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1664,12 +1167,7 @@
         "tier": 2,
         "price": "5200",
         "icon": "0083_ghostflicker_habit-icon.webp",
-        "hidden_tags": [
-          "armor",
-          "vulnerability",
-          "rare",
-          "defense"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1685,14 +1183,7 @@
         "tier": 2,
         "price": "4750",
         "icon": "0084_reefs_splendour-icon.webp",
-        "hidden_tags": [
-          "water",
-          "elemental",
-          "aura",
-          "resistance",
-          "ranger",
-          "druid"
-        ],
+        "hidden_tags": [],
         "free_content": true
       }
     },
@@ -1708,14 +1199,7 @@
         "tier": 2,
         "price": "8200",
         "icon": "0085_shield_of_the_sepulchral_saint-icon.webp",
-        "hidden_tags": [
-          "undead",
-          "necrotic damage",
-          "aura",
-          "protection",
-          "cleric",
-          "paladin"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1731,13 +1215,7 @@
         "tier": 2,
         "price": "4600",
         "icon": "0087_irontide_raidmask-icon.webp",
-        "hidden_tags": [
-          "armor",
-          "vulnerability",
-          "debuff",
-          "rogue",
-          "fighter"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1753,13 +1231,7 @@
         "tier": 1,
         "price": "1750",
         "icon": "0088_fluttershade_habit-icon.webp",
-        "hidden_tags": [
-          "stealth",
-          "monk",
-          "rogue",
-          "movement",
-          "bonus action"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1775,15 +1247,7 @@
         "tier": 3,
         "price": "17500",
         "icon": "0086_gravelord_scepter-icon.webp",
-        "hidden_tags": [
-          "undead",
-          "control",
-          "necrotic damage",
-          "aura",
-          "cleric",
-          "paladin",
-          "wizard"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1799,14 +1263,7 @@
         "tier": 3,
         "price": "24700",
         "icon": "0089_staff_of_multiple_minds-icon.webp",
-        "hidden_tags": [
-          "telepathy",
-          "mind control",
-          "concentration",
-          "wizard",
-          "sorcerer",
-          "warlock"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1822,13 +1279,7 @@
         "tier": 2,
         "price": "6700",
         "icon": "0090_lightning_shrike-icon.webp",
-        "hidden_tags": [
-          "lightning damage",
-          "weapon",
-          "attack",
-          "fighter",
-          "ranger"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1844,16 +1295,7 @@
         "tier": 3,
         "price": "44800",
         "icon": "0091_dark_promise-icon.webp",
-        "hidden_tags": [
-          "curse",
-          "shadow",
-          "dark damage",
-          "necrotic damage",
-          "warlock",
-          "paladin",
-          "debuff",
-          "control"
-        ],
+        "hidden_tags": [],
         "free_content": true
       }
     },
@@ -1869,14 +1311,7 @@
         "tier": 3,
         "price": "32000",
         "icon": "0092_rod_of_the_silent_saint-icon.webp",
-        "hidden_tags": [
-          "silence",
-          "control",
-          "concentration",
-          "aura",
-          "cleric",
-          "paladin"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1892,15 +1327,7 @@
         "tier": 2,
         "price": "3800",
         "icon": "0093_sunscorched_shield-icon.webp",
-        "hidden_tags": [
-          "fire damage",
-          "shield",
-          "protection",
-          "aura",
-          "paladin",
-          "cleric",
-          "fighter"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1916,15 +1343,7 @@
         "tier": 1,
         "price": "2850",
         "icon": "0098_sphinx_key-icon.webp",
-        "hidden_tags": [
-          "puzzle",
-          "riddle",
-          "knowledge",
-          "secret",
-          "divination",
-          "wizard",
-          "intelligence"
-        ],
+        "hidden_tags": [],
         "free_content": true
       }
     },
@@ -1940,14 +1359,7 @@
         "tier": 2,
         "price": "1250",
         "icon": "0099_killing_thought-icon.webp",
-        "hidden_tags": [
-          "psychic damage",
-          "intelligence",
-          "mind",
-          "wizard",
-          "sorcerer",
-          "warlock"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -1979,15 +1391,7 @@
         "tier": 2,
         "price": "13001",
         "icon": "0101_spookshroud-icon.webp",
-        "hidden_tags": [
-          "illusion",
-          "fear",
-          "stealth",
-          "undead",
-          "evasion",
-          "rogue",
-          "ranger"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2003,13 +1407,7 @@
         "tier": 1,
         "price": "1800",
         "icon": "0081_truthtaker-icon.webp",
-        "hidden_tags": [
-          "vulnerability",
-          "armor",
-          "debuff",
-          "paladin",
-          "cleric"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2025,15 +1423,7 @@
         "tier": 1,
         "price": "1800",
         "icon": "0095_muspelhammer-icon.webp",
-        "hidden_tags": [
-          "fire damage",
-          "melee weapon",
-          "magical hammer",
-          "strength",
-          "fighter",
-          "barbarian",
-          "paladin"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2049,13 +1439,7 @@
         "tier": 2,
         "price": "3100",
         "icon": "0094_trench_digger-icon.webp",
-        "hidden_tags": [
-          "digging",
-          "movement",
-          "excavation",
-          "utility",
-          "fighter"
-        ],
+        "hidden_tags": [],
         "free_content": true
       }
     },
@@ -2071,14 +1455,7 @@
         "tier": 1,
         "price": "2200",
         "icon": "0096_overseers_hardhat-icon.webp",
-        "hidden_tags": [
-          "armor",
-          "intelligence",
-          "command",
-          "control",
-          "detection",
-          "advantage"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2094,11 +1471,7 @@
         "tier": 1,
         "price": "50",
         "icon": "0097_potion_of_healing-icon.webp",
-        "hidden_tags": [
-          "healing",
-          "restoration",
-          "buff"
-        ],
+        "hidden_tags": [],
         "free_content": true
       }
     },
@@ -2114,11 +1487,7 @@
         "tier": 1,
         "price": "100",
         "icon": "0097_potion_of_greater_healing-icon.webp",
-        "hidden_tags": [
-          "healing",
-          "potion",
-          "restoration"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2134,11 +1503,7 @@
         "tier": 1,
         "price": "250",
         "icon": "0097_potion_of_superior_healing-icon.webp",
-        "hidden_tags": [
-          "healing",
-          "potion",
-          "restoration"
-        ],
+        "hidden_tags": [],
         "free_content": true
       }
     },
@@ -2154,11 +1519,7 @@
         "tier": 2,
         "price": "3500",
         "icon": "0097_potion_of_supreme_healing-icon.webp",
-        "hidden_tags": [
-          "healing",
-          "potion",
-          "restoration"
-        ],
+        "hidden_tags": [],
         "free_content": true
       }
     },
@@ -2174,14 +1535,7 @@
         "tier": 2,
         "price": "1800",
         "icon": "0029_the_pilgrims_plate-icon.webp",
-        "hidden_tags": [
-          "plate armor",
-          "armor",
-          "protection",
-          "fighter",
-          "paladin",
-          "cleric"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2197,14 +1551,7 @@
         "tier": 2,
         "price": "4000",
         "icon": "0104_crows_perch-icon.webp",
-        "hidden_tags": [
-          "armor",
-          "protection",
-          "raven",
-          "companion",
-          "ranger",
-          "druid"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2220,14 +1567,7 @@
         "tier": 2,
         "price": "3750",
         "icon": "0103_hellwrights_hexcoil-icon.webp",
-        "hidden_tags": [
-          "hexing",
-          "curse",
-          "vulnerability",
-          "debuff",
-          "warlock",
-          "sorcerer"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2243,13 +1583,7 @@
         "tier": 1,
         "price": "2800",
         "icon": "0102_serpents_scales-icon.webp",
-        "hidden_tags": [
-          "armor",
-          "vulnerability",
-          "resistance",
-          "protection",
-          "reptilian"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2265,15 +1599,7 @@
         "tier": 2,
         "price": "2300",
         "icon": "0105_consciousmist_disperser-icon.webp",
-        "hidden_tags": [
-          "vulnerability",
-          "armor",
-          "debuff",
-          "control",
-          "aura",
-          "rogue",
-          "wizard"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2289,13 +1615,7 @@
         "tier": 2,
         "price": "380",
         "icon": "0105_consciousmist_potion-icon.webp",
-        "hidden_tags": [
-          "potion",
-          "buff",
-          "concentration",
-          "wizard",
-          "cleric"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2311,16 +1631,7 @@
         "tier": 2,
         "price": "8700",
         "icon": "0106_a_drink_of_despair-icon.webp",
-        "hidden_tags": [
-          "despair",
-          "debuff",
-          "psychic",
-          "curse",
-          "fear",
-          "mental",
-          "warlock",
-          "sorcerer"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2336,13 +1647,7 @@
         "tier": 1,
         "price": "1870",
         "icon": "0107_teethsmasher_tankard-icon.webp",
-        "hidden_tags": [
-          "strength",
-          "constitution",
-          "buff",
-          "barbarian",
-          "fighter"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2358,16 +1663,7 @@
         "tier": 2,
         "price": "2700",
         "icon": "0108_proliferating_plate-icon.webp",
-        "hidden_tags": [
-          "armor",
-          "vulnerability",
-          "rare",
-          "defense",
-          "melee",
-          "fighter",
-          "paladin",
-          "cleric"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2383,14 +1679,7 @@
         "tier": 1,
         "price": "2550",
         "icon": "0109_festering_blade-icon.webp",
-        "hidden_tags": [
-          "poison",
-          "necrotic damage",
-          "undead",
-          "rogue",
-          "ranger",
-          "lifesteal"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2406,16 +1695,7 @@
         "tier": 2,
         "price": "2850",
         "icon": "0110_bleak_reef_talisman-icon.webp",
-        "free_content": false,
-        "hidden_tags": [
-          "water",
-          "elemental",
-          "control",
-          "aura",
-          "druid",
-          "cleric",
-          "ranger"
-        ]
+        "free_content": false
       }
     },
     "0112_conquerors_crown": {
@@ -2430,16 +1710,7 @@
         "tier": 3,
         "price": "35600",
         "icon": "0112_conquerors_crown-icon.webp",
-        "free_content": false,
-        "hidden_tags": [
-          "leadership",
-          "buff",
-          "aura",
-          "command",
-          "paladin",
-          "fighter",
-          "cleric"
-        ]
+        "free_content": false
       }
     },
     "0113_crownbreakers_defiance": {
@@ -2454,17 +1725,7 @@
         "tier": 2,
         "price": "3600",
         "icon": "0113_crownbreakers_defiance-icon.webp",
-        "free_content": false,
-        "hidden_tags": [
-          "armor",
-          "resistance",
-          "protection",
-          "vulnerability",
-          "defense",
-          "fighter",
-          "paladin",
-          "cleric"
-        ]
+        "free_content": false
       }
     },
     "0111_iron_chin_talisman": {
@@ -2479,16 +1740,7 @@
         "tier": 2,
         "price": "3400",
         "icon": "0111_iron_chin_talisman-icon.webp",
-        "free_content": false,
-        "hidden_tags": [
-          "constitution",
-          "protection",
-          "buff",
-          "amulet",
-          "paladin",
-          "barbarian",
-          "fighter"
-        ]
+        "free_content": false
       }
     },
     "0117_balefire_scepter": {
@@ -2503,14 +1755,7 @@
         "tier": 3,
         "price": "17600",
         "icon": "0117_balefire_scepter-icon.webp",
-        "hidden_tags": [
-          "fire damage",
-          "necrotic damage",
-          "damage",
-          "arcane",
-          "wizard",
-          "sorcerer"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2526,15 +1771,7 @@
         "tier": 2,
         "price": "7000",
         "icon": "0116_helmet_of_the_wrathful_champion-icon.webp",
-        "hidden_tags": [
-          "rage",
-          "buff",
-          "strength",
-          "combat",
-          "fighter",
-          "paladin",
-          "barbarian"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2550,15 +1787,7 @@
         "tier": 2,
         "price": "7000",
         "icon": "0115_helmet_of_the_chivalric_champion-icon.webp",
-        "hidden_tags": [
-          "armor",
-          "strength",
-          "buff",
-          "melee",
-          "fighter",
-          "paladin",
-          "barbarian"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2574,14 +1803,7 @@
         "tier": 1,
         "price": "1350",
         "icon": "0114_craven_cutlass-icon.webp",
-        "hidden_tags": [
-          "melee",
-          "fear",
-          "cowardice",
-          "debuff",
-          "rogue",
-          "fighter"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2597,15 +1819,7 @@
         "tier": 3,
         "price": "35500",
         "icon": "0119_blade_of_the_radiant_rout-icon.webp",
-        "hidden_tags": [
-          "radiant damage",
-          "aura",
-          "control",
-          "undead",
-          "paladin",
-          "cleric",
-          "fighter"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2637,17 +1851,7 @@
         "tier": 3,
         "price": "43200",
         "icon": "0121_snake_eyes-icon.webp",
-        "hidden_tags": [
-          "lifesteal",
-          "necrotic damage",
-          "melee weapon",
-          "constitution save",
-          "paralyze",
-          "wondrous item",
-          "legendary",
-          "barbarian",
-          "fighter"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2663,13 +1867,7 @@
         "tier": 3,
         "price": "33600",
         "icon": "0118_thornbloom_bow-icon.webp",
-        "hidden_tags": [
-          "piercing damage",
-          "nature",
-          "plants",
-          "ranger",
-          "rogue"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2685,12 +1883,7 @@
         "tier": 3,
         "price": "49600",
         "icon": "0125_rain_dancer-icon.webp",
-        "hidden_tags": [
-          "movement",
-          "weather",
-          "ranger",
-          "druid"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2706,13 +1899,7 @@
         "tier": 2,
         "price": "4700",
         "icon": "0124_sufferers_skull-icon.webp",
-        "hidden_tags": [
-          "undead",
-          "fear",
-          "necrotic damage",
-          "dark magic",
-          "aura"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2728,14 +1915,7 @@
         "tier": 2,
         "price": "2750",
         "icon": "0122_graveplate_armor-icon.webp",
-        "hidden_tags": [
-          "undead",
-          "necrotic damage",
-          "armor",
-          "vulnerability",
-          "paladin",
-          "cleric"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2751,14 +1931,7 @@
         "tier": 2,
         "price": "8888",
         "icon": "0123_carnyx_of_sacred_slaughter-icon.webp",
-        "hidden_tags": [
-          "war",
-          "melee",
-          "damage",
-          "fighter",
-          "barbarian",
-          "paladin"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2774,12 +1947,7 @@
         "tier": 1,
         "price": "450",
         "icon": "0126_bladewhisper_tattoo-icon.webp",
-        "hidden_tags": [
-          "climbing",
-          "movement",
-          "buff",
-          "strength"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2795,14 +1963,7 @@
         "tier": 2,
         "price": "2700",
         "icon": "0127_leaf_of_promised_return-icon.webp",
-        "hidden_tags": [
-          "healing",
-          "resurrection",
-          "nature",
-          "redemption",
-          "druid",
-          "cleric"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2818,14 +1979,7 @@
         "tier": 1,
         "price": "2400",
         "icon": "0128_headtaker_pincerscythe-icon.webp",
-        "hidden_tags": [
-          "melee",
-          "damage",
-          "martial",
-          "barbarian",
-          "fighter",
-          "rogue"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2841,14 +1995,7 @@
         "tier": 1,
         "price": "5600",
         "icon": "0129_harrowing_gutpipes-icon.webp",
-        "hidden_tags": [
-          "armor",
-          "vulnerability",
-          "debuff",
-          "aura",
-          "paladin",
-          "cleric"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2864,15 +2011,7 @@
         "tier": 1,
         "price": "2350",
         "icon": "0130_bandana_of_bravado-icon.webp",
-        "hidden_tags": [
-          "buff",
-          "charisma",
-          "confidence",
-          "morale",
-          "bard",
-          "paladin",
-          "rogue"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2888,14 +2027,7 @@
         "tier": 3,
         "price": "17500",
         "icon": "0131_blessing_of_the_vaettir-icon.webp",
-        "hidden_tags": [
-          "strength",
-          "summoning",
-          "buff",
-          "fighter",
-          "barbarian",
-          "paladin"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2911,14 +2043,7 @@
         "tier": 1,
         "price": "3100",
         "icon": "0132_gloomspore_cap-icon.webp",
-        "hidden_tags": [
-          "fungal",
-          "poison",
-          "spore",
-          "debuff",
-          "druid",
-          "ranger"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2934,15 +2059,7 @@
         "tier": 3,
         "price": "14500",
         "icon": "0133_voltgheist_shroud-icon.webp",
-        "hidden_tags": [
-          "lightning",
-          "electricity",
-          "damage",
-          "undead",
-          "necromancy",
-          "wizard",
-          "sorcerer"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -2958,14 +2075,7 @@
         "tier": 2,
         "price": "2800",
         "icon": "0062_three_feather_tricorne-icon.webp",
-        "hidden_tags": [
-          "dexterity",
-          "acrobatics",
-          "movement",
-          "rogue",
-          "ranger",
-          "monk"
-        ],
+        "hidden_tags": [],
         "free_content": true
       }
     },
@@ -2981,15 +2091,7 @@
         "tier": 3,
         "price": "4400",
         "icon": "0011_graveblade-icon.webp",
-        "hidden_tags": [
-          "necrotic damage",
-          "undead",
-          "melee",
-          "darkness",
-          "paladin",
-          "fighter",
-          "rogue"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -3005,14 +2107,7 @@
         "tier": 2,
         "price": "3800",
         "icon": "0021_wrathfire_talisman-icon.webp",
-        "hidden_tags": [
-          "fire damage",
-          "rage synergy",
-          "wrath",
-          "aura",
-          "barbarian",
-          "paladin"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -3028,15 +2123,7 @@
         "tier": 1,
         "price": "1950",
         "icon": "0141_magebane_injector-icon.webp",
-        "hidden_tags": [
-          "magic immunity",
-          "antimagic",
-          "spellcasting",
-          "debuff",
-          "wizard",
-          "sorcerer",
-          "warlock"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -3052,13 +2139,7 @@
         "tier": 2,
         "price": "6300",
         "icon": "0146_suppressor_shackles-icon.webp",
-        "hidden_tags": [
-          "restraint",
-          "control",
-          "debuff",
-          "imprisonment",
-          "magic suppression"
-        ],
+        "hidden_tags": [],
         "free_content": false
       }
     },
@@ -9588,9 +8669,7 @@
         "price": "50",
         "icon": "0000_srd_potion_of_healing-icon.webp",
         "hidden_tags": [
-          "healing",
-          "restoration",
-          "buff"
+          "mgc"
         ],
         "free_content": false
       }
