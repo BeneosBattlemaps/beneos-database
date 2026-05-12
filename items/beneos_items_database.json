@@ -3088,7 +3088,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "5000",
         "icon": "0000_srd_activate_folding_boat-icon.webp",
         "hidden_tags": [],
         "free_content": false
@@ -3347,7 +3347,7 @@
         "origin": "srd",
         "item_type": "Gear",
         "tier": 1,
-        "price": "0",
+        "price": "20",
         "icon": "0000_srd_arcane_focus_varies-icon.webp",
         "hidden_tags": [],
         "free_content": false
@@ -3363,7 +3363,7 @@
         "origin": "srd",
         "item_type": "Equipment",
         "tier": 1,
-        "price": "0",
+        "price": "4000",
         "icon": "0000_srd_armor_1_2_or_3-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -3575,7 +3575,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "1000",
         "icon": "0000_srd_balance-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -3853,7 +3853,7 @@
         "origin": "srd",
         "item_type": "Equipment",
         "tier": 1,
-        "price": "0",
+        "price": "10000",
         "icon": "0000_srd_belt_of_giant_strength-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -4552,7 +4552,7 @@
         "origin": "srd",
         "item_type": "Container",
         "tier": 1,
-        "price": "0",
+        "price": "50",
         "icon": "0000_srd_central_pouch-icon.webp",
         "hidden_tags": [
           "weightlessContents"
@@ -4672,7 +4672,7 @@
         "origin": "srd",
         "item_type": "Natural Weapon",
         "tier": 4,
-        "price": "0",
+        "price": "30000",
         "icon": "0000_srd_clawed_gauntlet-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -4898,7 +4898,7 @@
         "origin": "srd",
         "item_type": "Equipment",
         "tier": 1,
-        "price": "0",
+        "price": "200",
         "icon": "0000_srd_collapsing_roof-icon.webp",
         "hidden_tags": [],
         "free_content": false
@@ -4914,7 +4914,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "1000",
         "icon": "0000_srd_comet-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -5352,7 +5352,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "1000",
         "icon": "0000_srd_donjon-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -5370,7 +5370,7 @@
         "origin": "srd",
         "item_type": "Equipment",
         "tier": 5,
-        "price": "0",
+        "price": "200000",
         "icon": "0000_srd_dragon_orb-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -5441,7 +5441,7 @@
         "origin": "srd",
         "item_type": "Gear",
         "tier": 1,
-        "price": "0",
+        "price": "10",
         "icon": "0000_srd_druidic_focus_varies-icon.webp",
         "hidden_tags": [],
         "free_content": false
@@ -5598,7 +5598,7 @@
         "origin": "srd",
         "item_type": "Equipment",
         "tier": 5,
-        "price": "0",
+        "price": "40000",
         "icon": "0000_srd_earth_ring_of_elemental_command-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -5881,7 +5881,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "1000",
         "icon": "0000_srd_euryale-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -5987,7 +5987,7 @@
         "origin": "srd",
         "item_type": "Equipment",
         "tier": 1,
-        "price": "0",
+        "price": "100",
         "icon": "0000_srd_falling_net-icon.webp",
         "hidden_tags": [],
         "free_content": false
@@ -6003,7 +6003,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "1000",
         "icon": "0000_srd_fates-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -6129,7 +6129,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "500",
         "icon": "0000_srd_feather_token-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -6147,7 +6147,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "10000",
         "icon": "0000_srd_figurine_of_wondrous_power-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -6181,7 +6181,7 @@
         "origin": "srd",
         "item_type": "Equipment",
         "tier": 1,
-        "price": "0",
+        "price": "500",
         "icon": "0000_srd_fire_casting_statue-icon.webp",
         "hidden_tags": [],
         "free_content": false
@@ -6249,7 +6249,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "1000",
         "icon": "0000_srd_flames-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -6317,7 +6317,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "1000",
         "icon": "0000_srd_fool-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -6387,7 +6387,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "1000",
         "icon": "0000_srd_gem-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -6479,7 +6479,7 @@
         "origin": "srd",
         "item_type": "Light Armor",
         "tier": 3,
-        "price": "0",
+        "price": "6000",
         "icon": "0000_srd_glamoured_studded_leather-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -6844,7 +6844,7 @@
         "origin": "srd",
         "item_type": "Equipment",
         "tier": 2,
-        "price": "0",
+        "price": "8000",
         "icon": "0000_srd_headband_of_intellect-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -6899,7 +6899,7 @@
         "origin": "srd",
         "item_type": "Light Armor",
         "tier": 4,
-        "price": "0",
+        "price": "30000",
         "icon": "0000_srd_helm_of_brilliance-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -6987,7 +6987,7 @@
         "origin": "srd",
         "item_type": "Equipment",
         "tier": 1,
-        "price": "0",
+        "price": "150",
         "icon": "0000_srd_hidden_pit-icon.webp",
         "hidden_tags": [],
         "free_content": false
@@ -7037,7 +7037,7 @@
         "origin": "srd",
         "item_type": "Gear",
         "tier": 1,
-        "price": "0",
+        "price": "5",
         "icon": "0000_srd_holy_symbol_varies-icon.webp",
         "hidden_tags": [],
         "free_content": false
@@ -7119,7 +7119,7 @@
         "origin": "srd",
         "item_type": "Equipment",
         "tier": 1,
-        "price": "0",
+        "price": "16000",
         "icon": "0000_srd_horn_of_valhalla-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -7189,7 +7189,7 @@
         "origin": "srd",
         "item_type": "Equipment",
         "tier": 2,
-        "price": "0",
+        "price": "5000",
         "icon": "0000_srd_immovable_rod-icon.webp",
         "hidden_tags": [
           "foc",
@@ -7258,7 +7258,7 @@
         "origin": "srd",
         "item_type": "Equipment",
         "tier": 1,
-        "price": "0",
+        "price": "8000",
         "icon": "0000_srd_ioun_stone-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -7638,7 +7638,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "1000",
         "icon": "0000_srd_jester-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -7688,7 +7688,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "1000",
         "icon": "0000_srd_key-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -7706,7 +7706,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "1000",
         "icon": "0000_srd_knight-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -7858,7 +7858,7 @@
         "origin": "srd",
         "item_type": "Container",
         "tier": 1,
-        "price": "0",
+        "price": "50",
         "icon": "0000_srd_left_pouch-icon.webp",
         "hidden_tags": [
           "weightlessContents"
@@ -7931,7 +7931,7 @@
         "origin": "srd",
         "item_type": "Container",
         "tier": 1,
-        "price": "0",
+        "price": "50",
         "icon": "0000_srd_long_compartment-icon.webp",
         "hidden_tags": [
           "weightlessContents"
@@ -8089,7 +8089,7 @@
         "origin": "srd",
         "item_type": "Simple Melee Weapon",
         "tier": 3,
-        "price": "0",
+        "price": "8000",
         "icon": "0000_srd_mace_of_terror-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -8191,7 +8191,7 @@
         "origin": "srd",
         "item_type": "Equipment",
         "tier": 4,
-        "price": "0",
+        "price": "50000",
         "icon": "0000_srd_manual_of_bodily_health-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -8245,7 +8245,7 @@
         "origin": "srd",
         "item_type": "Equipment",
         "tier": 4,
-        "price": "0",
+        "price": "50000",
         "icon": "0000_srd_manual_of_quickness_of_action-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -8400,7 +8400,7 @@
         "origin": "srd",
         "item_type": "Container",
         "tier": 1,
-        "price": "0",
+        "price": "50",
         "icon": "0000_srd_midsize_compartment-icon.webp",
         "hidden_tags": [
           "weightlessContents"
@@ -8470,7 +8470,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "1000",
         "icon": "0000_srd_moon-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -9181,7 +9181,7 @@
         "origin": "srd",
         "item_type": "Equipment",
         "tier": 1,
-        "price": "0",
+        "price": "100",
         "icon": "0000_srd_poisoned_darts-icon.webp",
         "hidden_tags": [],
         "free_content": false
@@ -9197,7 +9197,7 @@
         "origin": "srd",
         "item_type": "Equipment",
         "tier": 1,
-        "price": "0",
+        "price": "50",
         "icon": "0000_srd_poisoned_needle-icon.webp",
         "hidden_tags": [],
         "free_content": false
@@ -9495,7 +9495,7 @@
         "origin": "srd",
         "item_type": "Potion",
         "tier": 1,
-        "price": "0",
+        "price": "500",
         "icon": "0000_srd_potion_of_giant_strength-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -9849,7 +9849,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "1000",
         "icon": "0000_srd_puzzle-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -9988,7 +9988,7 @@
         "origin": "srd",
         "item_type": "Container",
         "tier": 1,
-        "price": "0",
+        "price": "50",
         "icon": "0000_srd_right_pouch-icon.webp",
         "hidden_tags": [
           "weightlessContents"
@@ -10024,7 +10024,7 @@
         "origin": "srd",
         "item_type": "Equipment",
         "tier": 1,
-        "price": "0",
+        "price": "1000",
         "icon": "0000_srd_ring-icon.webp",
         "hidden_tags": [],
         "free_content": false
@@ -10076,7 +10076,7 @@
         "origin": "srd",
         "item_type": "Equipment",
         "tier": 5,
-        "price": "0",
+        "price": "40000",
         "icon": "0000_srd_ring_of_elemental_command-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -10238,7 +10238,7 @@
         "origin": "srd",
         "item_type": "Equipment",
         "tier": 3,
-        "price": "0",
+        "price": "8000",
         "icon": "0000_srd_ring_of_resistance-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -10672,7 +10672,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "1000",
         "icon": "0000_srd_rogue-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -10690,7 +10690,7 @@
         "origin": "srd",
         "item_type": "Equipment",
         "tier": 1,
-        "price": "0",
+        "price": "200",
         "icon": "0000_srd_rolling_stone-icon.webp",
         "hidden_tags": [],
         "free_content": false
@@ -10758,7 +10758,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "1000",
         "icon": "0000_srd_ruin-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -10810,7 +10810,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "1000",
         "icon": "0000_srd_sage-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -10919,7 +10919,7 @@
         "origin": "srd",
         "item_type": "Scroll",
         "tier": 1,
-        "price": "0",
+        "price": "10",
         "icon": "0000_srd_scroll-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -10955,7 +10955,7 @@
         "origin": "srd",
         "item_type": "Shield",
         "tier": 2,
-        "price": "0",
+        "price": "2000",
         "icon": "0000_srd_sentinel_shield-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -11023,7 +11023,7 @@
         "origin": "srd",
         "item_type": "Shield",
         "tier": 1,
-        "price": "0",
+        "price": "2000",
         "icon": "0000_srd_shield_1_2_or_3-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -11041,7 +11041,7 @@
         "origin": "srd",
         "item_type": "Shield",
         "tier": 3,
-        "price": "0",
+        "price": "16000",
         "icon": "0000_srd_shield_of_missile_attraction-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -11059,7 +11059,7 @@
         "origin": "srd",
         "item_type": "Shield",
         "tier": 4,
-        "price": "0",
+        "price": "30000",
         "icon": "0000_srd_shield_of_the_cavalier-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -11093,7 +11093,7 @@
         "origin": "srd",
         "item_type": "Container",
         "tier": 1,
-        "price": "0",
+        "price": "50",
         "icon": "0000_srd_short_compartment-icon.webp",
         "hidden_tags": [
           "weightlessContents"
@@ -11217,7 +11217,7 @@
         "origin": "srd",
         "item_type": "Equipment",
         "tier": 2,
-        "price": "0",
+        "price": "5000",
         "icon": "0000_srd_silver_raven-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -11235,7 +11235,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "1000",
         "icon": "0000_srd_skull-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -11540,7 +11540,7 @@
         "origin": "srd",
         "item_type": "Scroll",
         "tier": 1,
-        "price": "0",
+        "price": "50",
         "icon": "0000_srd_spell_scroll-icon.webp",
         "hidden_tags": [],
         "free_content": false
@@ -11556,7 +11556,7 @@
         "origin": "srd",
         "item_type": "Shield",
         "tier": 4,
-        "price": "0",
+        "price": "50000",
         "icon": "0000_srd_spellguard_shield-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -11608,7 +11608,7 @@
         "origin": "srd",
         "item_type": "Equipment",
         "tier": 1,
-        "price": "0",
+        "price": "150",
         "icon": "0000_srd_spiked_pit-icon.webp",
         "hidden_tags": [],
         "free_content": false
@@ -11936,7 +11936,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "1000",
         "icon": "0000_srd_star-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -12042,7 +12042,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "1000",
         "icon": "0000_srd_sun-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -12169,7 +12169,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "1000",
         "icon": "0000_srd_talons-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -12253,7 +12253,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "1000",
         "icon": "0000_srd_throne-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -12547,7 +12547,7 @@
         "origin": "srd",
         "item_type": "Trinket",
         "tier": 1,
-        "price": "0",
+        "price": "1000",
         "icon": "0000_srd_void-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -12773,7 +12773,7 @@
         "origin": "srd",
         "item_type": "Equipment",
         "tier": 1,
-        "price": "0",
+        "price": "2000",
         "icon": "0000_srd_wand_of_the_war_mage_1_2_or_3-icon.webp",
         "hidden_tags": [
           "foc",
@@ -12964,7 +12964,7 @@
         "origin": "srd",
         "item_type": "Weapon",
         "tier": 1,
-        "price": "0",
+        "price": "2000",
         "icon": "0000_srd_weapon_1_2_or_3-icon.webp",
         "hidden_tags": [
           "mgc"
