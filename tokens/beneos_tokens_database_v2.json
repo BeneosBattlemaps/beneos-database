@@ -32022,7 +32022,7 @@
         "videourl": "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
         "nb_variants": 3,
         "shortdesc": "Boosts friendly Infernal War Machines, while cursing hostile ones.",
-        "faction": [],
+        "faction": ["Hellracer"],
         "source": "Patreon",
         "campaign": [
           "Descent into Avernus"

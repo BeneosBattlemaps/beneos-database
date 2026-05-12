@@ -3173,7 +3173,7 @@
         "origin": "srd",
         "item_type": "Ammo",
         "tier": 1,
-        "price": "0",
+        "price": "500",
         "icon": "0000_srd_ammunition_1_2_or_3-icon.webp",
         "hidden_tags": [
           "mgc"
@@ -3191,7 +3191,7 @@
         "origin": "srd",
         "item_type": "Gear",
         "tier": 1,
-        "price": "0",
+        "price": "1",
         "icon": "0000_srd_ammunition_varies-icon.webp",
         "hidden_tags": [],
         "free_content": false
@@ -3207,7 +3207,7 @@
         "origin": "srd",
         "item_type": "Ammo",
         "tier": 4,
-        "price": "0",
+        "price": "30000",
         "icon": "0000_srd_ammunition_of_slaying-icon.webp",
         "hidden_tags": [
           "mgc"
