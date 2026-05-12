@@ -4025,6 +4025,7 @@
           "V",
           "S"
         ],
+<<<<<<< Updated upstream
         "icon": "0000_srd_arcane_vigor-icon.webp",
         "hidden_tags": [],
         "free_content": false
@@ -4192,11 +4193,37 @@
         "ritual": false,
         "spell_type": "Buff/Debuff",
         "classes": [],
+=======
+        "icon": "0000_guidance-icon.webp",
+        "hidden_tags": []
+      },
+      "beneosDatabasePath": "J:/Beneos_Webservice/Online_Search/beneos-database"
+    },
+    "0129_hearty_brew": {
+      "key": "0129_hearty_brew",
+      "description": "",
+      "name": "Hearty Brew",
+      "properties": {
+        "level": "2",
+        "school": "Enchantment",
+        "casting_time": "Bonus Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Bard",
+          "Cleric",
+          "Druid",
+          "Paladin",
+          "Ranger"
+        ],
+>>>>>>> Stashed changes
         "components": [
           "V",
           "S",
           "M"
         ],
+<<<<<<< Updated upstream
         "icon": "0000_srd_barkskin-icon.webp",
         "hidden_tags": [],
         "free_content": false
@@ -5140,11 +5167,34 @@
         "ritual": false,
         "spell_type": "Area Effect",
         "classes": [],
+=======
+        "icon": "0129_hearty_brew-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0130_mirror_strike": {
+      "key": "0130_mirror_strike",
+      "description": "",
+      "name": "Mirror Strike",
+      "properties": {
+        "level": "2",
+        "school": "Conjuration",
+        "casting_time": "Reaction",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Bard",
+          "Sorcerer",
+          "Wizard"
+        ],
+>>>>>>> Stashed changes
         "components": [
           "V",
           "S",
           "M"
         ],
+<<<<<<< Updated upstream
         "icon": "0000_srd_create_or_destroy_water-icon.webp",
         "hidden_tags": [],
         "free_content": false
@@ -5156,10 +5206,43 @@
       "name": "Create Undead",
       "properties": {
         "level": "6",
+=======
+        "icon": "0130_mirror_strike-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0131_imitate": {
+      "key": "0131_imitate",
+      "description": "",
+      "name": "Imitate",
+      "properties": {
+        "level": "1",
+        "school": "Illusion",
+        "casting_time": "1 Minute",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Bard",
+          "Sorcerer"
+        ],
+        "components": [],
+        "icon": "0131_imitate-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0000_depose_the_dead": {
+      "key": "0000_depose_the_dead",
+      "description": "",
+      "name": "Depose the Dead",
+      "properties": {
+        "level": "5",
+>>>>>>> Stashed changes
         "school": "Necromancy",
         "casting_time": "1 Minute",
         "concentration": false,
         "ritual": false,
+<<<<<<< Updated upstream
         "spell_type": "Summon",
         "classes": [],
         "components": [
@@ -5198,10 +5281,82 @@
       "key": "0000_srd_cure_wounds",
       "description": "A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier.Using a Higher-Level Spell Slot. The healing increases by 2d8 for each spell slot level above 1.",
       "name": "Cure Wounds",
+=======
+        "spell_type": "",
+        "classes": [
+          "Bard",
+          "Cleric",
+          "Paladin"
+        ],
+        "components": [],
+        "icon": "0000_depose_the_dead-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0133_elongate": {
+      "key": "0133_elongate",
+      "description": "",
+      "name": "Elongate",
+      "properties": {
+        "level": "0",
+        "school": "Transmutation",
+        "casting_time": "Bonus Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Bard",
+          "Druid",
+          "Sorcerer",
+          "Warlock",
+          "Wizard"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0133_elongate-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0134_lucky_charm": {
+      "key": "0134_lucky_charm",
+      "description": "",
+      "name": "Lucky Charm",
+      "properties": {
+        "level": "0",
+        "school": "Divination",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Bard",
+          "Cleric",
+          "Druid",
+          "Ranger",
+          "Sorcerer",
+          "Warlock",
+          "Wizard"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0134_lucky_charm-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0135_delvers_lantern": {
+      "key": "0135_delvers_lantern",
+      "description": "",
+      "name": "Delver's Lantern",
+>>>>>>> Stashed changes
       "properties": {
         "level": "1",
         "school": "Abjuration",
         "casting_time": "Action",
+<<<<<<< Updated upstream
         "concentration": false,
         "ritual": false,
         "spell_type": "Healing",
@@ -5993,10 +6148,36 @@
       "name": "Eyebite",
       "properties": {
         "level": "6",
+=======
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Artificer",
+          "Bard",
+          "Ranger"
+        ],
+        "components": [
+          "V",
+          "S",
+          "M"
+        ],
+        "icon": "0135_delvers_lantern-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0136_lifeshare_leech": {
+      "key": "0136_lifeshare_leech",
+      "description": "",
+      "name": "Lifeshare Leech",
+      "properties": {
+        "level": "0",
+>>>>>>> Stashed changes
         "school": "Necromancy",
         "casting_time": "Action",
         "concentration": true,
         "ritual": false,
+<<<<<<< Updated upstream
         "spell_type": "Damage",
         "classes": [],
         "components": [
@@ -10330,11 +10511,139 @@
         "ritual": false,
         "spell_type": "Buff/Debuff",
         "classes": [],
+=======
+        "spell_type": "",
+        "classes": [
+          "Druid",
+          "Ranger"
+        ],
         "components": [
           "V",
           "S",
           "M"
         ],
+        "icon": "0136_lifeshare_leech-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0137_last_ditch": {
+      "key": "0137_last_ditch",
+      "description": "",
+      "name": "Last Ditch",
+      "properties": {
+        "level": "3",
+        "school": "Abjuration",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Artificer",
+          "Cleric",
+          "Druid",
+          "Paladin",
+          "Ranger"
+        ],
+        "components": [
+          "V",
+          "S",
+          "M"
+        ],
+        "icon": "0137_last_ditch-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0132_depose_the_dead": {
+      "key": "0132_depose_the_dead",
+      "description": "",
+      "name": "Depose the Dead",
+      "properties": {
+        "level": "5",
+        "school": "Necromancy",
+        "casting_time": "1 Minute",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Bard",
+          "Cleric",
+          "Paladin"
+        ],
+        "components": [],
+        "icon": "0132_depose_the_dead-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0131_minor_mimicry": {
+      "key": "0131_minor_mimicry",
+      "description": "",
+      "name": "Minor Mimicry",
+      "properties": {
+        "level": "1",
+        "school": "Illusion",
+        "casting_time": "1 Minute",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Bard",
+          "Sorcerer"
+        ],
+        "components": [],
+        "icon": "0131_minor_mimicry-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0127_last_ditch": {
+      "key": "0127_last_ditch",
+      "description": "",
+      "name": "Last Ditch",
+      "properties": {
+        "level": "3",
+        "school": "Abjuration",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Artificer",
+          "Cleric",
+          "Druid",
+          "Paladin",
+          "Ranger"
+        ],
+        "components": [
+          "V",
+          "S",
+          "M"
+        ],
+        "icon": "0127_last_ditch-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0137_arise": {
+      "key": "0137_arise",
+      "description": "",
+      "name": "Arise!",
+      "properties": {
+        "level": "9",
+        "school": "Necromancy",
+        "casting_time": "10 Minutes",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Cleric",
+          "Sorcerer",
+          "Wizard"
+        ],
+>>>>>>> Stashed changes
+        "components": [
+          "V",
+          "S",
+          "M"
+        ],
+<<<<<<< Updated upstream
         "icon": "0000_srd_true_seeing-icon.webp",
         "hidden_tags": [],
         "free_content": false
@@ -10344,12 +10653,23 @@
       "key": "0000_srd_true_strike",
       "description": "Guided by a flash of magical insight, you make one attack with the weapon used in the spell's casting. The attack uses your spellcasting ability for the attack and damage rolls instead of using Strength or Dexterity. If the attack deals damage, it can be Radiant damage or the weapon's normal damage type (your choice).Cantrip Upgrade. Whether you deal Radiant damage or the weapon's normal damage type, the attack deals extra Radiant damage when you reach levels 5 (1d6), 11 (2d6), and 17 (3d6).",
       "name": "True Strike",
+=======
+        "icon": "0137_arise-icon.webp",
+        "hidden_tags": []
+      }
+    },
+    "0128_lucky_charm": {
+      "key": "0128_lucky_charm",
+      "description": "",
+      "name": "Lucky Charm",
+>>>>>>> Stashed changes
       "properties": {
         "level": "0",
         "school": "Divination",
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
+<<<<<<< Updated upstream
         "spell_type": "Damage",
         "classes": [],
         "components": [
@@ -10373,10 +10693,24 @@
         "ritual": false,
         "spell_type": "Area Effect",
         "classes": [],
+=======
+        "spell_type": "",
+        "classes": [
+          "Artificer",
+          "Bard",
+          "Cleric",
+          "Druid",
+          "Ranger",
+          "Sorcerer",
+          "Warlock",
+          "Wizard"
+        ],
+>>>>>>> Stashed changes
         "components": [
           "V",
           "S"
         ],
+<<<<<<< Updated upstream
         "icon": "0000_srd_tsunami-icon.webp",
         "hidden_tags": [],
         "free_content": false
@@ -10783,6 +11117,10 @@
         "icon": "0000_srd_zone_of_truth-icon.webp",
         "hidden_tags": [],
         "free_content": false
+=======
+        "icon": "0128_lucky_charm-icon.webp",
+        "hidden_tags": []
+>>>>>>> Stashed changes
       }
     }
   }
