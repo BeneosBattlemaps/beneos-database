@@ -10304,6 +10304,110 @@
         "icon": "0000_srd_zone_of_truth-icon.webp",
         "hidden_tags": []
       }
+    },
+    "0128_lucky_charm": {
+      "key": "0128_lucky_charm",
+      "name": "Lucky Charm",
+      "description": "You enchant an object with with a hint of magical fortune.",
+      "properties": {
+        "level": "0",
+        "school": "Divination",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Artificer",
+          "Bard",
+          "Cleric",
+          "Druid",
+          "Ranger",
+          "Sorcerer",
+          "Warlock",
+          "Wizard"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0128_lucky_charm-icon.webp"
+      }
+    },
+    "0127_last_ditch": {
+      "key": "0127_last_ditch",
+      "name": "Last Ditch",
+      "description": "Fortify your position by conjuring a protective trench.",
+      "properties": {
+        "level": "3",
+        "school": "Abjuration",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Artificer",
+          "Cleric",
+          "Druid",
+          "Paladin",
+          "Ranger"
+        ],
+        "components": [
+          "V",
+          "S",
+          "M"
+        ],
+        "icon": "0127_last_ditch-icon.webp"
+      }
+    },
+    "0130_mirror_strike": {
+      "key": "0130_mirror_strike",
+      "name": "Mirror Strike",
+      "description": "Increase an ally's effective range by thinking with portals.",
+      "properties": {
+        "level": "2",
+        "school": "Conjuration",
+        "casting_time": "Reaction",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Bard",
+          "Sorcerer",
+          "Wizard"
+        ],
+        "components": [
+          "V",
+          "S",
+          "M"
+        ],
+        "icon": "0130_mirror_strike-icon.webp"
+      }
+    },
+    "0129_hearty_brew": {
+      "key": "0129_hearty_brew",
+      "name": "Hearty Brew",
+      "description": "Imbue a beverage to provide a set of buffs upon being consumed.",
+      "properties": {
+        "level": "2",
+        "school": "Enchantment",
+        "casting_time": "Bonus Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Bard",
+          "Cleric",
+          "Druid",
+          "Paladin",
+          "Ranger"
+        ],
+        "components": [
+          "V",
+          "S",
+          "M"
+        ],
+        "icon": "0129_hearty_brew-icon.webp"
+      }
     }
   }
 }
