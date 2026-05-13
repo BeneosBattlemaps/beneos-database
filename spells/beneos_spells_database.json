@@ -187,19 +187,20 @@
     },
     "0013_deathrite_shroud": {
       "key": "0013_deathrite_shroud",
-      "description": "Summon a cursed shroud that silences a creature and slowly tears at its physical body.",
+      "description": "Curse a creature with silence and deafness.",
       "name": "Deathrite Shroud",
       "properties": {
         "level": "2",
-        "school": "Enchantment",
+        "school": "Conjuration",
         "casting_time": "Action",
         "concentration": true,
         "ritual": false,
         "spell_type": "Debuff",
         "classes": [
-          "Warlock",
+          "Bard",
           "Cleric",
-          "Paladin"
+          "Sorcerer",
+          "Warlock"
         ],
         "components": [
           "V",
