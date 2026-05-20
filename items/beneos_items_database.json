@@ -13164,20 +13164,142 @@
         "free_content": false
       }
     },
-    "0600_ancient_rapier": {
-      "key": "0600_ancient_rapier",
-      "name": "Ancient Rapier",
-      "description": "",
+    "0138_false_idol": {
+      "key": "0138_false_idol",
+      "name": "False Idol",
+      "description": "Grants strong buffs revolving around utilizing and maintaining invsibility.",
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
-        "origin": "ancient",
-        "item_type": "Rapier",
+        "origin": "relic",
+        "item_type": "Trinket",
         "tier": 3,
-        "price": "17500",
-        "icon": "0600_ancient_rapier-icon.webp",
+        "price": "54000",
+        "icon": "0138_false_idol-icon.webp",
+        "shop": [
+          "mysterious_merchant",
+          "black_market"
+        ],
+        "biome": [
+          "cultist_hideout",
+          "dragon_hoard",
+          "undead_lair",
+          "ancient_temple"
+        ]
+      }
+    },
+    "0136_spear_of_truth": {
+      "key": "0136_spear_of_truth",
+      "name": "Spear of Truth",
+      "description": "Pierce creatures to gain insight into their very being, amassing powerful buffs.",
+      "properties": {
+        "rarity": "Legendary",
+        "attunement": true,
+        "origin": "sanctified",
+        "item_type": "Spear",
+        "tier": 4,
+        "price": "360000",
+        "icon": "0136_spear_of_truth-icon.webp",
         "shop": [],
-        "biome": []
+        "biome": [
+          "ancient_temple",
+          "dragon_hoard",
+          "reliquary"
+        ]
+      }
+    },
+    "0135_scryepatch": {
+      "key": "0135_scryepatch",
+      "name": "Scryepatch",
+      "description": "Grants a bonus to attack rolls and a free cast of scrying, but at a price.",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "arcane",
+        "item_type": "Trinket",
+        "tier": 2,
+        "price": "4700",
+        "icon": "0135_scryepatch-icon.webp",
+        "shop": [
+          "magic_shop",
+          "mysterious_merchant",
+          "black_market"
+        ],
+        "biome": [
+          "shipwreck"
+        ]
+      }
+    },
+    "0134_defiance_injector": {
+      "key": "0134_defiance_injector",
+      "name": "Defiance Injector",
+      "description": "Administers a very powerful healing and buff effect one time.",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": false,
+        "origin": "techno_arcane",
+        "item_type": "Consumable",
+        "tier": 2,
+        "price": "1800",
+        "icon": "0134_defiance_injector-icon.webp",
+        "shop": [
+          "healer",
+          "alchemist",
+          "magic_shop",
+          "monster_hunter_guild",
+          "traveling_merchant",
+          "crafting_guild"
+        ],
+        "biome": [
+          "military_base",
+          "treasure_vault"
+        ]
+      }
+    },
+    "0139_puppeteers_plaything": {
+      "key": "0139_puppeteers_plaything",
+      "name": "Puppeteer's Plaything",
+      "description": "Turn grappled targets into your personal puppets, using them to atttack and defend.",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "infernal",
+        "item_type": "Whip",
+        "tier": 3,
+        "price": "13700",
+        "icon": "0139_puppeteers_plaything-icon.webp",
+        "shop": [
+          "black_market",
+          "mysterious_merchant"
+        ],
+        "biome": [
+          "cultist_hideout",
+          "infernal_forge",
+          "dungeon"
+        ]
+      }
+    },
+    "0140_waxsimilie_mask": {
+      "key": "0140_waxsimilie_mask",
+      "name": "Waxsimilie Mask",
+      "description": "Can be magically shaped to mimic any creature's face.",
+      "properties": {
+        "rarity": "Legendary",
+        "attunement": true,
+        "origin": "blessed",
+        "item_type": "Mask",
+        "tier": 3,
+        "price": "48500",
+        "icon": "0140_waxsimilie_mask-icon.webp",
+        "shop": [
+          "mysterious_merchant",
+          "black_market"
+        ],
+        "biome": [
+          "dragon_hoard",
+          "ancient_temple",
+          "reliquary"
+        ]
       }
     }
   }
