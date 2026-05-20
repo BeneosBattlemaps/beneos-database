@@ -13255,52 +13255,5 @@
           "treasure_vault"
         ]
       }
-    },
-    "0139_puppeteers_plaything": {
-      "key": "0139_puppeteers_plaything",
-      "name": "Puppeteer's Plaything",
-      "description": "Turn grappled targets into your personal puppets, using them to atttack and defend.",
-      "properties": {
-        "rarity": "Very Rare",
-        "attunement": true,
-        "origin": "infernal",
-        "item_type": "Whip",
-        "tier": 3,
-        "price": "13700",
-        "icon": "0139_puppeteers_plaything-icon.webp",
-        "shop": [
-          "black_market",
-          "mysterious_merchant"
-        ],
-        "biome": [
-          "cultist_hideout",
-          "infernal_forge",
-          "dungeon"
-        ]
       }
-    },
-    "0140_waxsimilie_mask": {
-      "key": "0140_waxsimilie_mask",
-      "name": "Waxsimilie Mask",
-      "description": "Can be magically shaped to mimic any creature's face.",
-      "properties": {
-        "rarity": "Legendary",
-        "attunement": true,
-        "origin": "blessed",
-        "item_type": "Mask",
-        "tier": 3,
-        "price": "48500",
-        "icon": "0140_waxsimilie_mask-icon.webp",
-        "shop": [
-          "mysterious_merchant",
-          "black_market"
-        ],
-        "biome": [
-          "dragon_hoard",
-          "ancient_temple",
-          "reliquary"
-        ]
-      }
-    }
-  }
-}
+    }}
