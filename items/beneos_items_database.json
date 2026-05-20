@@ -13163,6 +13163,22 @@
         "hidden_tags": [],
         "free_content": false
       }
+    },
+    "0600_ancient_rapier": {
+      "key": "0600_ancient_rapier",
+      "name": "Ancient Rapier",
+      "description": "",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "ancient",
+        "item_type": "Rapier",
+        "tier": 3,
+        "price": "17500",
+        "icon": "0600_ancient_rapier-icon.webp",
+        "shop": [],
+        "biome": []
+      }
     }
   }
 }
