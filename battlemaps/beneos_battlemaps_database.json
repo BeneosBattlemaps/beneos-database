@@ -50684,6 +50684,48 @@
         "download_creator": "Beneos Battlemaps",
         "hidden_tags": []
       }
-    }
-  }
-}
+                    },
+                    "110-01_cave_entry-4k_BM":{
+                        "name":"cave entry",
+                        "description":"",
+                        "properties":{
+                        "adventure":["Descent into Avernus"],
+                        "biom":["Hell","Cave","Mountain", "Desert","Exteriour"],
+                        "brightness":"Medium",
+                        "grid":"35x25",
+                        "pack":"110_Modular_Hellish_Landscape",
+                        "releaseurl":"WIP",
+                        "sibling":"110-01_cave_entry-4k_Scen",
+                        "type":"Battlemap",
+                        "thumbnail":"110-01_cave_entry-4k_bm.webp",
+                        "videourl":"WIP",
+                        "download_pack": "Modular Hellish Landscape - 110",
+                        "download_terms": "BM: cave entry",
+                        "download_creator": "Beneos Battlemaps",
+                        "hidden_tags": [],
+                        "free_content": false
+                        }
+                            },
+                            "110-01_cave_entry-4k_Scen":{
+                                "name":"cave entry",
+                                "description":"",
+                                "properties":{
+                                "adventure":["Descent into Avernus"],
+                                "biom":["Hell","Cave","Mountain", "Desert","Exteriour"],
+                                "brightness":"Medium",
+                                "grid":"35x25",
+                                "pack":"110_Modular_Hellish_Landscape",
+                                "releaseurl":"WIP",
+                                "sibling":"110-01_cave_entry-4k_BM",
+                                "type":"Scenery",
+                                "thumbnail":"110-01_cave_entry-4k_scen.webp",
+                                "videourl":"WIP",
+                                "download_pack": "Modular Hellish Landscape - 110",
+                                "download_terms": "Overview",
+                                "download_creator": "Beneos Battlemaps",
+                                "hidden_tags": [],
+                                "free_content": false
+                                }
+                            }
+                        }
+                    }

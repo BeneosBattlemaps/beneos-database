@@ -667,23 +667,20 @@
     },
     "0042_rothail_shortbow": {
       "key": "0042_rothail_shortbow",
-      "description": "Mud-dripping short bow infecting targets with Bog Rot, dealing necrotic damage over time.",
+      "description": "",
       "name": "Rothail Shortbow",
       "properties": {
         "rarity": "Uncommon",
         "attunement": true,
         "origin": "awoken",
-        "item_type": "Range Weapon",
+        "item_type": "Shortbow",
         "tier": 1,
         "price": "1400",
         "icon": "0042_rothail_shortbow-icon.webp",
         "hidden_tags": [],
         "free_content": false,
-        "shop": [
-          "magic_shop",
-          "weapon_shop",
-          "blacksmith"
-        ]
+        "shop": [],
+        "biome": []
       }
     },
     "0043_conquerors_chalice": {

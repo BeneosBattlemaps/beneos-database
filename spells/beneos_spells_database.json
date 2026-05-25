@@ -1401,8 +1401,8 @@
         "free_content": false
       }
     },
-    "0000_paladin_pack_1_bladevow": {
-      "key": "0000_paladin_pack_1_bladevow",
+    "0000_bladevow": {
+      "key": "0000_bladevow",
       "description": "Vow to make a number of attacks, each one increasing your chance to hit, but forcing you to only attack and possibly meditate on your failings if do not uphold your vow.",
       "name": "Bladevow",
       "properties": {
@@ -1418,13 +1418,13 @@
         "components": [
           "V M"
         ],
-        "icon": "0000_paladin_pack_1_bladevow-icon.webp",
+        "icon": "0000_bladevow-icon.webp",
         "hidden_tags": [],
         "free_content": false
       }
     },
-    "0000_paladin_pack_1_blessed_battlegrounds": {
-      "key": "0000_paladin_pack_1_blessed_battlegrounds",
+    "0000_blessed_battlegrounds": {
+      "key": "0000_blessed_battlegrounds",
       "description": "This sanctified space grants magical potency to non-magical weapon attacks against fiends and undead, weakening their vitality and hindering their ability to resist death.",
       "name": "Blessed Battlegrounds",
       "properties": {
@@ -1441,13 +1441,13 @@
         "components": [
           "V S M"
         ],
-        "icon": "0000_paladin_pack_1_blessed_battlegrounds-icon.webp",
+        "icon": "0000_blessed_battlegrounds-icon.webp",
         "hidden_tags": [],
         "free_content": false
       }
     },
-    "0000_paladin_pack_1_bloodrain": {
-      "key": "0000_paladin_pack_1_bloodrain",
+    "0000_bloodrain": {
+      "key": "0000_bloodrain",
       "description": "Sacrifice your own life force to either deal damage or heal creatures within an area, at the cost of reducing your maximum hit points until you rest.",
       "name": "Bloodrain",
       "properties": {
@@ -1464,13 +1464,13 @@
         "components": [
           "V S"
         ],
-        "icon": "0000_paladin_pack_1_bloodrain-icon.webp",
+        "icon": "0000_bloodrain-icon.webp",
         "hidden_tags": [],
         "free_content": false
       }
     },
-    "0000_paladin_pack_1_cavalcade": {
-      "key": "0000_paladin_pack_1_cavalcade",
+    "0000_cavalcade": {
+      "key": "0000_cavalcade",
       "description": "This spell summons spectral mounts for you and your allies,  granting a bonus move and attack, when beginning combat in formation.",
       "name": "Cavalcade",
       "properties": {
@@ -1486,13 +1486,13 @@
         "components": [
           "V S M"
         ],
-        "icon": "0000_paladin_pack_1_cavalcade-icon.webp",
+        "icon": "0000_cavalcade-icon.webp",
         "hidden_tags": [],
         "free_content": false
       }
     },
-    "0000_paladin_pack_1_chalice_of_charity": {
-      "key": "0000_paladin_pack_1_chalice_of_charity",
+    "0000_chalice_of_charity": {
+      "key": "0000_chalice_of_charity",
       "description": "Fill a chalice with healing nectar from your lay on hands pool, which can be consumed to regain hit points by drinking or pouring into another creature's mouth.",
       "name": "Chalice Of Charity",
       "properties": {
@@ -1508,13 +1508,13 @@
         "components": [
           "V S M"
         ],
-        "icon": "0000_paladin_pack_1_chalice_of_charity-icon.webp",
+        "icon": "0000_chalice_of_charity-icon.webp",
         "hidden_tags": [],
         "free_content": false
       }
     },
-    "0000_paladin_pack_1_death_oath": {
-      "key": "0000_paladin_pack_1_death_oath",
+    "0000_death_oath": {
+      "key": "0000_death_oath",
       "description": "You return to consciousness with 1 hit point after being reduced to 0 hit points, with the condition that you must confront the creature responsible, up to three times.",
       "name": "Death Oath",
       "properties": {
@@ -1531,13 +1531,13 @@
         "components": [
           "V"
         ],
-        "icon": "0000_paladin_pack_1_death_oath-icon.webp",
+        "icon": "0000_death_oath-icon.webp",
         "hidden_tags": [],
         "free_content": false
       }
     },
-    "0000_paladin_pack_1_ironclad": {
-      "key": "0000_paladin_pack_1_ironclad",
+    "0000_ironclad": {
+      "key": "0000_ironclad",
       "description": "Once you've ritually bound a suit of armor to you, you can instantly equip it using this spell, conjuring it up from thin air.",
       "name": "Ironclad",
       "properties": {
@@ -1553,13 +1553,13 @@
         "components": [
           "V S"
         ],
-        "icon": "0000_paladin_pack_1_ironclad-icon.webp",
+        "icon": "0000_ironclad-icon.webp",
         "hidden_tags": [],
         "free_content": false
       }
     },
-    "0000_paladin_pack_1_onwards": {
-      "key": "0000_paladin_pack_1_onwards",
+    "0000_onwards": {
+      "key": "0000_onwards",
       "description": "Using a reaction triggered by your war cry, allies within range can move freely and swiftly towards you, unaffected by obstacles or attacks of opportunity.",
       "name": "Onwards",
       "properties": {
@@ -1577,13 +1577,13 @@
           "S",
           "M"
         ],
-        "icon": "0000_paladin_pack_1_onwards-icon.webp",
+        "icon": "0000_onwards-icon.webp",
         "hidden_tags": [],
         "free_content": false
       }
     },
-    "0000_paladin_pack_1_raise_banner": {
-      "key": "0000_paladin_pack_1_raise_banner",
+    "0000_raise_banner": {
+      "key": "0000_raise_banner",
       "description": "Plant your banner, allowing your allies to benefit from your Aura of Protection while within range.",
       "name": "Raise Banner",
       "properties": {
@@ -1600,13 +1600,13 @@
           "V",
           "S"
         ],
-        "icon": "0000_paladin_pack_1_raise_banner-icon.webp",
+        "icon": "0000_raise_banner-icon.webp",
         "hidden_tags": [],
         "free_content": false
       }
     },
-    "0000_paladin_pack_1_shieldwall": {
-      "key": "0000_paladin_pack_1_shieldwall",
+    "0000_shieldwall": {
+      "key": "0000_shieldwall",
       "description": "Become part of a spectral shield wall, bolstering your defenses and providing cover for allies while blocking and dealing radiant damage to nearby enemies.",
       "name": "Shieldwall",
       "properties": {
@@ -1624,7 +1624,7 @@
           "S",
           "M"
         ],
-        "icon": "0000_paladin_pack_1_shieldwall-icon.webp",
+        "icon": "0000_shieldwall-icon.webp",
         "hidden_tags": [],
         "free_content": false
       }
@@ -2859,8 +2859,8 @@
         "free_content": false
       }
     },
-    "0000_paladin_pack_1_desperate_plea": {
-      "key": "0000_paladin_pack_1_desperate_plea",
+    "0000_desperate_plea": {
+      "key": "0000_desperate_plea",
       "description": "Instantly prepare an unprepared spell.",
       "name": "Desperate Plea",
       "properties": {
@@ -2878,13 +2878,13 @@
           "S",
           "M"
         ],
-        "icon": "0000_paladin_pack_1_desperate_plea-icon.webp",
+        "icon": "0000_desperate_plea-icon.webp",
         "hidden_tags": [],
         "free_content": false
       }
     },
-    "0000_paladin_pack_1_shoulder_the_burden": {
-      "key": "0000_paladin_pack_1_shoulder_the_burden",
+    "0000_shoulder_the_burden": {
+      "key": "0000_shoulder_the_burden",
       "description": "Make Death Saving throws to prevent nearby allies from falling unconscious.",
       "name": "Shoulder the Burden",
       "properties": {
@@ -2900,7 +2900,7 @@
         "components": [
           "V"
         ],
-        "icon": "0000_paladin_pack_1_shoulder_the_burden-icon.webp",
+        "icon": "0000_shoulder_the_burden-icon.webp",
         "hidden_tags": [],
         "free_content": false
       }
