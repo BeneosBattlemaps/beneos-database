@@ -13169,6 +13169,7 @@
       "name": "False Idol",
       "description": "Grants strong buffs revolving around utilizing and maintaining invsibility.",
       "properties": {
+        "free_content": false,
         "rarity": "Very Rare",
         "attunement": true,
         "origin": "relic",
@@ -13193,6 +13194,7 @@
       "name": "Spear of Truth",
       "description": "Pierce creatures to gain insight into their very being, amassing powerful buffs.",
       "properties": {
+        "free_content": false,
         "rarity": "Legendary",
         "attunement": true,
         "origin": "sanctified",
@@ -13213,6 +13215,7 @@
       "name": "Scryepatch",
       "description": "Grants a bonus to attack rolls and a free cast of scrying, but at a price.",
       "properties": {
+        "free_content": false,
         "rarity": "Rare",
         "attunement": true,
         "origin": "arcane",
@@ -13235,6 +13238,7 @@
       "name": "Defiance Injector",
       "description": "Administers a very powerful healing and buff effect one time.",
       "properties": {
+        "free_content": false,
         "rarity": "Very Rare",
         "attunement": false,
         "origin": "technoarcane",
