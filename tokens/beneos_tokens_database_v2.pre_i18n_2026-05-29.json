@@ -8,7 +8,7 @@
                                           "name":  "range",
                                           "description":  "This creature attacks from afar and has limited or no Melee combat capabilities."
                                       },
-                            "Ambush":  {
+                            "ambush":  {
                                            "name":  "Ambush",
                                            "description":  "This creature ideally starts combat from a hidden position and waits for the optimal moment to attack."
                                        },
@@ -16,15 +16,15 @@
                                              "name":  "Airborne",
                                              "description":  "This creature has a flying speed and can continuously stay at a distance."
                                          },
-                            "Charge":  {
+                            "charge":  {
                                            "name":  "Charge",
                                            "description":  "This creature seeks close combat from the get-go and will continue to do so."
                                        },
-                            "Predator":  {
+                            "predator":  {
                                              "name":  "Predator",
                                              "description":  "This creature stalks its prey and will withdraw from combat to attack again later. "
                                          },
-                            "Pack":  {
+                            "pack":  {
                                          "name":  "Pack",
                                          "description":  "This creature is best utilized as part of a larger group of similar creatures."
                                      },
@@ -32,15 +32,15 @@
                                                  "name":  "Regeneration",
                                                  "description":  "This creature has abilities allowing it to regenerate hit points during combat."
                                              },
-                            "Mobile":  {
+                            "mobile":  {
                                            "name":  "Mobile",
                                            "description":  "This creature boasts superior speed and mobility, allowing it to quickly reposition itself or give chase to enemies. "
                                        },
-                            "Tactical":  {
+                            "tactical":  {
                                              "name":  "Tactical",
                                              "description":  "This creature\u0027s abilities facilitate powerful synergies, increasing its effectiveness. "
                                          },
-                            "Shock":  {
+                            "shock":  {
                                           "name":  "Shock",
                                           "description":  "This creature is most effective during the first turns of combat."
                                       },
@@ -76,7 +76,7 @@
                                               "name":  "Bodyguard",
                                               "description":  "This creature aims to protect another creature, rarely leaving its side and acting in the interest of keeping danger from it."
                                           },
-                            "Debuff":  {
+                            "debuff":  {
                                            "name":  "Debuff",
                                            "description":  "This creature weakens or hinders its enemies."
                                        },
@@ -92,7 +92,7 @@
                                            "name":  "Minion",
                                            "description":  "This creature is relatively harmless on its own and its strength lies in numbers."
                                        },
-                            "Damage":  {
+                            "damage":  {
                                            "name":  "Damage",
                                            "description":  "This creature can be utilized as a reliable source of damage."
                                        },
@@ -112,7 +112,7 @@
                                            "name":  "Hunter",
                                            "description":  "This creature concentrates its attention on single targets."
                                        },
-                            "Leader":  {
+                            "leader":  {
                                            "name":  "Leader",
                                            "description":  "This creature is best utilized as the leader of a group of enemies, acting as a lynchpin for the encounter."
                                        },
@@ -330,7 +330,7 @@
                                                                                            "Boss"
                                                                                        ],
                                                                            "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                           "size":  "Large",
+                                                                           "size":  "large",
                                                                            "stat_ac":  20,
                                                                            "stat_cha":  20,
                                                                            "stat_con":  18,
@@ -730,7 +730,7 @@
                                                                                     "Classic"
                                                                                 ],
                                                                     "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                    "size":  "Medium",
+                                                                    "size":  "medium",
                                                                     "stat_ac":  20,
                                                                     "stat_cha":  8,
                                                                     "stat_con":  20,
@@ -1384,7 +1384,7 @@
                                                                                   "Classic"
                                                                               ],
                                                                   "releaseurl":  "https://www.patreon.com/posts/undead-pikeman-71971206",
-                                                                  "size":  "Medium",
+                                                                  "size":  "medium",
                                                                   "stat_ac":  15,
                                                                   "stat_cha":  4,
                                                                   "stat_con":  16,
@@ -1437,7 +1437,7 @@
                                                                                                      "Duelist"
                                                                                                  ],
                                                                                      "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                                     "size":  "Medium",
+                                                                                     "size":  "medium",
                                                                                      "stat_ac":  18,
                                                                                      "stat_cha":  14,
                                                                                      "stat_con":  15,
@@ -1496,7 +1496,7 @@
                                                                                "Pressure"
                                                                            ],
                                                                "releaseurl":  "https://www.patreon.com/posts/stormwyvern-63841777",
-                                                               "size":  "Large",
+                                                               "size":  "large",
                                                                "stat_ac":  13,
                                                                "stat_cha":  7,
                                                                "stat_con":  17,
@@ -1598,7 +1598,7 @@
                                                                                        "Hunter"
                                                                                    ],
                                                                        "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                       "size":  "Small",
+                                                                       "size":  "small",
                                                                        "stat_ac":  14,
                                                                        "stat_cha":  6,
                                                                        "stat_con":  15,
@@ -1953,7 +1953,7 @@
                                                                                "Damage"
                                                                            ],
                                                                "releaseurl":  "https://www.patreon.com/posts/bog-strider-65662794",
-                                                               "size":  "Large",
+                                                               "size":  "large",
                                                                "stat_ac":  14,
                                                                "stat_cha":  1,
                                                                "stat_con":  12,
@@ -2057,7 +2057,7 @@
                                                                               "Leader"
                                                                           ],
                                                               "releaseurl":  "https://www.patreon.com/posts/orc-shaman-56073315",
-                                                              "size":  "Medium",
+                                                              "size":  "medium",
                                                               "stat_ac":  14,
                                                               "stat_cha":  14,
                                                               "stat_con":  16,
@@ -2263,7 +2263,7 @@
                                                                             "Mount"
                                                                         ],
                                                             "releaseurl":  "https://www.patreon.com/posts/special-creature-53233232",
-                                                            "size":  "Large",
+                                                            "size":  "large",
                                                             "stat_ac":  40,
                                                             "stat_cha":  7,
                                                             "stat_con":  16,
@@ -2760,7 +2760,7 @@
                                                                               "Tank"
                                                                           ],
                                                               "releaseurl":  "https://www.patreon.com/posts/amber-idol-64420736",
-                                                              "size":  "Large",
+                                                              "size":  "large",
                                                               "stat_ac":  17,
                                                               "stat_cha":  1,
                                                               "stat_con":  20,
@@ -3229,7 +3229,7 @@
                                                                                 "Classic"
                                                                             ],
                                                                 "releaseurl":  "https://www.patreon.com/posts/basic-creature-54945272",
-                                                                "size":  "Large",
+                                                                "size":  "large",
                                                                 "stat_ac":  14,
                                                                 "stat_cha":  3,
                                                                 "stat_con":  13,
@@ -3686,7 +3686,7 @@
                                                                                       "Duelist"
                                                                                   ],
                                                                       "releaseurl":  "https://www.patreon.com/posts/gladiators-67230626",
-                                                                      "size":  "Medium",
+                                                                      "size":  "medium",
                                                                       "stat_ac":  17,
                                                                       "stat_cha":  14,
                                                                       "stat_con":  18,
@@ -3885,7 +3885,7 @@
                                                                                "Ally"
                                                                            ],
                                                                "releaseurl":  "https://www.patreon.com/posts/special-creature-55213338",
-                                                               "size":  "Medium",
+                                                               "size":  "medium",
                                                                "stat_ac":  10,
                                                                "stat_cha":  3,
                                                                "stat_con":  16,
@@ -4145,7 +4145,7 @@
                                                                                         "Gimmick"
                                                                                     ],
                                                                         "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                        "size":  "Large",
+                                                                        "size":  "large",
                                                                         "stat_ac":  93,
                                                                         "stat_cha":  94,
                                                                         "stat_con":  95,
@@ -4205,7 +4205,7 @@
                                                                                    "Leader"
                                                                                ],
                                                                    "releaseurl":  "https://www.patreon.com/posts/68408269",
-                                                                   "size":  "Large",
+                                                                   "size":  "large",
                                                                    "stat_ac":  15,
                                                                    "stat_cha":  20,
                                                                    "stat_con":  13,
@@ -4306,7 +4306,7 @@
                                                                                      "Damage"
                                                                                  ],
                                                                      "releaseurl":  "https://www.patreon.com/posts/magmatic-65371189",
-                                                                     "size":  "Huge",
+                                                                     "size":  "huge",
                                                                      "stat_ac":  18,
                                                                      "stat_cha":  7,
                                                                      "stat_con":  24,
@@ -4607,7 +4607,7 @@
                                                                             "Classic"
                                                                         ],
                                                             "releaseurl":  "https://www.patreon.com/posts/basic-creature-54042065",
-                                                            "size":  "Medium",
+                                                            "size":  "medium",
                                                             "stat_ac":  14,
                                                             "stat_cha":  11,
                                                             "stat_con":  15,
@@ -5075,7 +5075,7 @@
                                                                                  "Classic"
                                                                              ],
                                                                  "releaseurl":  "https://www.patreon.com/posts/klabautermann-66017529",
-                                                                 "size":  "Medium",
+                                                                 "size":  "medium",
                                                                  "stat_ac":  16,
                                                                  "stat_cha":  20,
                                                                  "stat_con":  15,
@@ -5129,7 +5129,7 @@
                                                                                 "Damage"
                                                                             ],
                                                                 "releaseurl":  "https://www.patreon.com/posts/orc-warchief-and-56356150",
-                                                                "size":  "Medium",
+                                                                "size":  "medium",
                                                                 "stat_ac":  16,
                                                                 "stat_cha":  16,
                                                                 "stat_con":  8,
@@ -5237,7 +5237,7 @@
                                                                             "Classic"
                                                                         ],
                                                             "releaseurl":  "https://www.patreon.com/posts/crusader-74184786",
-                                                            "size":  "Medium",
+                                                            "size":  "medium",
                                                             "stat_ac":  18,
                                                             "stat_cha":  18,
                                                             "stat_con":  16,
@@ -5526,29 +5526,29 @@
                                                             "name":  "Pyre Wyvern Knight",
                                                             "properties":  {
                                                                                "biom":  [
-                                                                                            "Mountain",
-                                                                                            "Volcano",
-                                                                                            "Lair",
-                                                                                            "Sky",
-                                                                                            "Wasteland",
-                                                                                            "Dungeon",
-                                                                                            "Castle",
-                                                                                            "Urban",
-                                                                                            "Coast"
+                                                                                            "mountain",
+                                                                                            "volcano",
+                                                                                            "lair",
+                                                                                            "sky",
+                                                                                            "wasteland",
+                                                                                            "dungeon",
+                                                                                            "castle",
+                                                                                            "urban",
+                                                                                            "coast"
                                                                                         ],
                                                                                "cr":  "9",
                                                                                "fightingstyle":  [
-                                                                                                     "Charge",
-                                                                                                     "Mobile",
-                                                                                                     "Tactical"
+                                                                                                     "charge",
+                                                                                                     "mobile",
+                                                                                                     "tactical"
                                                                                                  ],
-                                                                               "movement":  "Fly",
+                                                                               "movement":  "fly",
                                                                                "purpose":  [
-                                                                                               "Damage",
-                                                                                               "Shock"
+                                                                                               "damage",
+                                                                                               "shock"
                                                                                            ],
                                                                                "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                               "size":  "Huge",
+                                                                               "size":  "huge",
                                                                                "stat_ac":  93,
                                                                                "stat_cha":  94,
                                                                                "stat_con":  95,
@@ -5591,7 +5591,7 @@
                                                                                "Anti Caster"
                                                                            ],
                                                                "releaseurl":  "https://www.patreon.com/posts/boss-creature-51753670",
-                                                               "size":  "Huge",
+                                                               "size":  "huge",
                                                                "stat_ac":  17,
                                                                "stat_cha":  22,
                                                                "stat_con":  16,
@@ -5797,7 +5797,7 @@
                                                                                      "Minion"
                                                                                  ],
                                                                      "releaseurl":  "https://www.patreon.com/posts/swifttalon-is-63666888",
-                                                                     "size":  "Medium",
+                                                                     "size":  "medium",
                                                                      "stat_ac":  13,
                                                                      "stat_cha":  6,
                                                                      "stat_con":  10,
@@ -7090,7 +7090,7 @@
                                                                          "Classic"
                                                                      ],
                                                          "releaseurl":  "https://www.patreon.com/posts/mummy-73546671",
-                                                         "size":  "Medium",
+                                                         "size":  "medium",
                                                          "stat_ac":  12,
                                                          "stat_cha":  12,
                                                          "stat_con":  16,
@@ -7392,7 +7392,7 @@
                                                                                        "Duelist"
                                                                                    ],
                                                                        "releaseurl":  "https://www.patreon.com/posts/gladiators-67230626",
-                                                                       "size":  "Medium",
+                                                                       "size":  "medium",
                                                                        "stat_ac":  16,
                                                                        "stat_cha":  15,
                                                                        "stat_con":  16,
@@ -7698,7 +7698,7 @@
                                                                              "Pressure"
                                                                          ],
                                                              "releaseurl":  "https://www.patreon.com/posts/night-hag-58981560",
-                                                             "size":  "Medium",
+                                                             "size":  "medium",
                                                              "stat_ac":  17,
                                                              "stat_cha":  16,
                                                              "stat_con":  16,
@@ -8835,7 +8835,7 @@
                                                                          "Classic"
                                                                      ],
                                                          "releaseurl":  "https://www.patreon.com/posts/hydra-74810995",
-                                                         "size":  "Gargantuan",
+                                                         "size":  "gargantuan",
                                                          "stat_ac":  16,
                                                          "stat_cha":  7,
                                                          "stat_con":  20,
@@ -8885,7 +8885,7 @@
                                                                                     "Minion"
                                                                                 ],
                                                                     "releaseurl":  "https://www.patreon.com/posts/new-cultist-138520141",
-                                                                    "size":  "Medium",
+                                                                    "size":  "medium",
                                                                     "stat_ac":  14,
                                                                     "stat_cha":  14,
                                                                     "stat_con":  12,
@@ -9451,7 +9451,7 @@
                                                                                         "Classic"
                                                                                     ],
                                                                         "releaseurl":  "https://www.patreon.com/posts/135318396",
-                                                                        "size":  "Medium",
+                                                                        "size":  "medium",
                                                                         "stat_ac":  15,
                                                                         "stat_cha":  16,
                                                                         "stat_con":  10,
@@ -9708,7 +9708,7 @@
                                                                                  "Classic"
                                                                              ],
                                                                  "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                 "size":  "Medium",
+                                                                 "size":  "medium",
                                                                  "stat_ac":  18,
                                                                  "stat_cha":  16,
                                                                  "stat_con":  18,
@@ -9906,7 +9906,7 @@
                                                                            "Minion"
                                                                        ],
                                                            "releaseurl":  "https://www.patreon.com/posts/basic-creature-53489969",
-                                                           "size":  "Medium",
+                                                           "size":  "medium",
                                                            "stat_ac":  12,
                                                            "stat_cha":  8,
                                                            "stat_con":  12,
@@ -10418,7 +10418,7 @@
                                                                                          "Classic"
                                                                                      ],
                                                                          "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                         "size":  "Medium",
+                                                                         "size":  "medium",
                                                                          "stat_ac":  14,
                                                                          "stat_cha":  10,
                                                                          "stat_con":  13,
@@ -10452,22 +10452,22 @@
                                               "name":  "Strike Zealot",
                                               "properties":  {
                                                                  "biom":  [
-                                                                              "Urban",
-                                                                              "Sacral",
-                                                                              "Civilized"
+                                                                              "urban",
+                                                                              "sacral",
+                                                                              "civilized"
                                                                           ],
                                                                  "cr":  "2",
                                                                  "fightingstyle":  [
-                                                                                       "Shock",
-                                                                                       "Pack"
+                                                                                       "shock",
+                                                                                       "pack"
                                                                                    ],
-                                                                 "movement":  "Walk",
+                                                                 "movement":  "walk",
                                                                  "purpose":  [
-                                                                                 "Debuff",
-                                                                                 "Damage"
+                                                                                 "debuff",
+                                                                                 "damage"
                                                                              ],
                                                                  "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                 "size":  "Medium",
+                                                                 "size":  "medium",
                                                                  "stat_ac":  17,
                                                                  "stat_cha":  11,
                                                                  "stat_con":  16,
@@ -10757,7 +10757,7 @@
                                                                                        "Tank"
                                                                                    ],
                                                                        "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                       "size":  "Medium",
+                                                                       "size":  "medium",
                                                                        "stat_ac":  14,
                                                                        "stat_cha":  94,
                                                                        "stat_con":  95,
@@ -11001,7 +11001,7 @@
                                                                                            "Tank"
                                                                                        ],
                                                                            "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                           "size":  "Huge",
+                                                                           "size":  "huge",
                                                                            "stat_ac":  93,
                                                                            "stat_cha":  94,
                                                                            "stat_con":  95,
@@ -11200,7 +11200,7 @@
                                                                                  "Classic"
                                                                              ],
                                                                  "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                 "size":  "Large",
+                                                                 "size":  "large",
                                                                  "stat_ac":  93,
                                                                  "stat_cha":  94,
                                                                  "stat_con":  95,
@@ -11351,7 +11351,7 @@
                                                                                    "Gimmick"
                                                                                ],
                                                                    "releaseurl":  "https://www.patreon.com/posts/unchained-armor-57886127",
-                                                                   "size":  "Medium",
+                                                                   "size":  "medium",
                                                                    "stat_ac":  21,
                                                                    "stat_cha":  9,
                                                                    "stat_con":  16,
@@ -11551,7 +11551,7 @@
                                                                                     "Classic"
                                                                                 ],
                                                                     "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                    "size":  "Medium",
+                                                                    "size":  "medium",
                                                                     "stat_ac":  20,
                                                                     "stat_cha":  14,
                                                                     "stat_con":  15,
@@ -11759,7 +11759,7 @@
                                                                                         "Pressure"
                                                                                     ],
                                                                         "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                        "size":  "Gargantuan",
+                                                                        "size":  "gargantuan",
                                                                         "stat_ac":  18,
                                                                         "stat_cha":  94,
                                                                         "stat_con":  95,
@@ -11807,7 +11807,7 @@
                                                                                     "Pressure"
                                                                                 ],
                                                                     "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                    "size":  "Small",
+                                                                    "size":  "small",
                                                                     "stat_ac":  93,
                                                                     "stat_cha":  94,
                                                                     "stat_con":  95,
@@ -12200,27 +12200,27 @@
                                                  "name":  "Barovian Owlbear",
                                                  "properties":  {
                                                                     "biom":  [
-                                                                                 "Forest",
-                                                                                 "Dungeon",
-                                                                                 "Ruin",
-                                                                                 "Swamp",
-																				 "Wilderness"
+                                                                                 "forest",
+                                                                                 "dungeon",
+                                                                                 "ruins",
+                                                                                 "swamp",
+																				 "wilderness"
                                                                              ],
                                                                     "cr":  "4",
                                                                     "fightingstyle":  [
-                                                                                          "Ambush",
-                                                                                          "Predator"
+                                                                                          "ambush",
+                                                                                          "predator"
                                                                                       ],
                                                                     "movement":  [
-                                                                                     "Walk",
-                                                                                     "Climb"
+                                                                                     "walk",
+                                                                                     "climb"
                                                                                  ],
                                                                     "purpose":  [
-                                                                                    "Shock",
-                                                                                    "Damage"
+                                                                                    "shock",
+                                                                                    "damage"
                                                                                 ],
                                                                     "releaseurl":  "https://www.patreon.com/posts/159220321",
-                                                                    "size":  "Large",
+                                                                    "size":  "large",
                                                                     "stat_ac":  14,
                                                                     "stat_cha":  3,
                                                                     "stat_con":  17,
@@ -12265,7 +12265,7 @@
                                                                                     "Gimmick"
                                                                                 ],
                                                                     "releaseurl":  "https://www.patreon.com/posts/197-soulgrasp-125973747",
-                                                                    "size":  "Medium",
+                                                                    "size":  "medium",
                                                                     "stat_ac":  16,
                                                                     "stat_cha":  18,
                                                                     "stat_con":  13,
@@ -12533,7 +12533,7 @@
                                                                                  "Damage"
                                                                              ],
                                                                  "releaseurl":  "https://www.patreon.com/posts/clangorsaurus-67848743",
-                                                                 "size":  "Large",
+                                                                 "size":  "large",
                                                                  "stat_ac":  15,
                                                                  "stat_cha":  6,
                                                                  "stat_con":  18,
@@ -12681,7 +12681,7 @@
 
                                                                            ],
                                                                "releaseurl":  "https://www.patreon.com/posts/204-nightmaiden-129904124",
-                                                               "size":  "Medium",
+                                                               "size":  "medium",
                                                                "stat_ac":  15,
                                                                "stat_cha":  16,
                                                                "stat_con":  14,
@@ -12734,7 +12734,7 @@
                                                                              "Classic"
                                                                          ],
                                                              "releaseurl":  "https://www.patreon.com/posts/122479668",
-                                                             "size":  "Medium",
+                                                             "size":  "medium",
                                                              "stat_ac":  13,
                                                              "stat_cha":  11,
                                                              "stat_con":  15,
@@ -13032,7 +13032,7 @@
                                                                                  "Gimmick"
                                                                              ],
                                                                  "releaseurl":  "https://www.patreon.com/posts/toxic-gobbler-64773211",
-                                                                 "size":  "Small",
+                                                                 "size":  "small",
                                                                  "stat_ac":  12,
                                                                  "stat_cha":  7,
                                                                  "stat_con":  12,
@@ -13179,7 +13179,7 @@
                                                                                         "Debuff"
                                                                                     ],
                                                                         "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                        "size":  "Medium",
+                                                                        "size":  "medium",
                                                                         "stat_ac":  93,
                                                                         "stat_cha":  94,
                                                                         "stat_con":  95,
@@ -13544,7 +13544,7 @@
                                                                                           "Minion"
                                                                                       ],
                                                                           "releaseurl":  "https://www.patreon.com/posts/necrovolt-73248375",
-                                                                          "size":  "Medium",
+                                                                          "size":  "medium",
                                                                           "stat_ac":  12,
                                                                           "stat_cha":  4,
                                                                           "stat_con":  16,
@@ -13646,7 +13646,7 @@
                                                                                    "Hunter"
                                                                                ],
                                                                    "releaseurl":  "https://www.patreon.com/posts/arcane-incursor-60722159",
-                                                                   "size":  "Large",
+                                                                   "size":  "large",
                                                                    "stat_ac":  15,
                                                                    "stat_cha":  16,
                                                                    "stat_con":  13,
@@ -13753,7 +13753,7 @@
                                                                              "Classic"
                                                                          ],
                                                              "releaseurl":  "https://www.patreon.com/posts/sharakhul-flayed-73927441",
-                                                             "size":  "Gargantuan",
+                                                             "size":  "gargantuan",
                                                              "stat_ac":  18,
                                                              "stat_cha":  18,
                                                              "stat_con":  22,
@@ -13809,7 +13809,7 @@
                                                                              "Damage"
                                                                          ],
                                                              "releaseurl":  "https://www.patreon.com/posts/berserker-76114406",
-                                                             "size":  "Medium",
+                                                             "size":  "medium",
                                                              "stat_ac":  17,
                                                              "stat_cha":  7,
                                                              "stat_con":  18,
@@ -13912,7 +13912,7 @@
                                                                                    "Leader"
                                                                                ],
                                                                    "releaseurl":  "https://www.patreon.com/posts/elder-curseroot-60897390",
-                                                                   "size":  "Huge",
+                                                                   "size":  "huge",
                                                                    "stat_ac":  16,
                                                                    "stat_cha":  3,
                                                                    "stat_con":  20,
@@ -13967,7 +13967,7 @@
                                                                                  "Ally"
                                                                              ],
                                                                  "releaseurl":  "https://www.patreon.com/posts/huge-commoner-58412129",
-                                                                 "size":  "Medium",
+                                                                 "size":  "medium",
                                                                  "stat_ac":  7,
                                                                  "stat_cha":  10,
                                                                  "stat_con":  11,
@@ -14413,7 +14413,7 @@
                                                                                  "Classic"
                                                                              ],
                                                                  "releaseurl":  "https://www.patreon.com/posts/205-torn-titan-131510974",
-                                                                 "size":  "Large",
+                                                                 "size":  "large",
                                                                  "stat_ac":  13,
                                                                  "stat_cha":  18,
                                                                  "stat_con":  13,
@@ -14512,7 +14512,7 @@
                                                                                         "Debuff"
                                                                                     ],
                                                                         "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                        "size":  "Large",
+                                                                        "size":  "large",
                                                                         "stat_ac":  93,
                                                                         "stat_cha":  94,
                                                                         "stat_con":  95,
@@ -14803,7 +14803,7 @@
                                                                                          "Anti Caster"
                                                                                      ],
                                                                          "releaseurl":  "https://www.patreon.com/posts/ossian-debt-61274297",
-                                                                         "size":  "Medium",
+                                                                         "size":  "medium",
                                                                          "stat_ac":  18,
                                                                          "stat_cha":  18,
                                                                          "stat_con":  17,
@@ -15010,7 +15010,7 @@
                                                                               "Gimmick"
                                                                           ],
                                                               "releaseurl":  "https://www.patreon.com/posts/mournbride-62015180",
-                                                              "size":  "Medium",
+                                                              "size":  "medium",
                                                               "stat_ac":  12,
                                                               "stat_cha":  16,
                                                               "stat_con":  13,
@@ -15171,7 +15171,7 @@
                                                                                     "Minion"
                                                                                 ],
                                                                     "releaseurl":  "https://www.patreon.com/posts/basic-creature-55799053",
-                                                                    "size":  "Small",
+                                                                    "size":  "small",
                                                                     "stat_ac":  11,
                                                                     "stat_cha":  2,
                                                                     "stat_con":  11,
@@ -15372,7 +15372,7 @@
                                                                                   "Classic"
                                                                               ],
                                                                   "releaseurl":  "https://www.patreon.com/posts/205-torn-titan-131510974",
-                                                                  "size":  "Large",
+                                                                  "size":  "large",
                                                                   "stat_ac":  15,
                                                                   "stat_cha":  8,
                                                                   "stat_con":  15,
@@ -15630,7 +15630,7 @@
                                                                                       "Debuff"
                                                                                   ],
                                                                       "releaseurl":  "https://www.patreon.com/posts/new-champion-143576712",
-                                                                      "size":  "Large",
+                                                                      "size":  "large",
                                                                       "stat_ac":  18,
                                                                       "stat_cha":  94,
                                                                       "stat_con":  95,
@@ -15737,7 +15737,7 @@
                                                                                  "Classic"
                                                                              ],
                                                                  "releaseurl":  "https://www.patreon.com/posts/vampire-spawn-57268303",
-                                                                 "size":  "Medium",
+                                                                 "size":  "medium",
                                                                  "stat_ac":  14,
                                                                  "stat_cha":  16,
                                                                  "stat_con":  16,
@@ -15948,7 +15948,7 @@
                                                                                "Minion"
                                                                            ],
                                                                "releaseurl":  "https://www.patreon.com/posts/blade-slave-70982216",
-                                                               "size":  "Medium",
+                                                               "size":  "medium",
                                                                "stat_ac":  12,
                                                                "stat_cha":  3,
                                                                "stat_con":  16,
@@ -16105,7 +16105,7 @@
                                                                             "Hunter"
                                                                         ],
                                                             "releaseurl":  "https://www.patreon.com/posts/garGhoul-63222139",
-                                                            "size":  "Medium",
+                                                            "size":  "medium",
                                                             "stat_ac":  14,
                                                             "stat_cha":  6,
                                                             "stat_con":  10,
@@ -16763,7 +16763,7 @@
                                                                                        "Hunter"
                                                                                    ],
                                                                        "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                       "size":  "Medium",
+                                                                       "size":  "medium",
                                                                        "stat_ac":  16,
                                                                        "stat_cha":  94,
                                                                        "stat_con":  95,
@@ -16813,7 +16813,7 @@
                                                                                        "Pressure"
                                                                                    ],
                                                                        "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                       "size":  "Gargantuan",
+                                                                       "size":  "gargantuan",
                                                                        "stat_ac":  18,
                                                                        "stat_cha":  94,
                                                                        "stat_con":  95,
@@ -17473,7 +17473,7 @@
                                                                                           "Support"
                                                                                       ],
                                                                           "releaseurl":  "https://www.patreon.com/posts/189-hellspawned-120869662",
-                                                                          "size":  "Medium",
+                                                                          "size":  "medium",
                                                                           "stat_ac":  12,
                                                                           "stat_cha":  1,
                                                                           "stat_con":  14,
@@ -17629,7 +17629,7 @@
                                                                         "Debuff"
                                                                     ],
                                                         "releaseurl":  "https://www.patreon.com/posts/yeti-59381193",
-                                                        "size":  "Huge",
+                                                        "size":  "huge",
                                                         "stat_ac":  15,
                                                         "stat_cha":  16,
                                                         "stat_con":  24,
@@ -17727,7 +17727,7 @@
                                                                                         "Pressure"
                                                                                     ],
                                                                         "releaseurl":  "https://www.patreon.com/posts/special-creature-51753197",
-                                                                        "size":  "Large",
+                                                                        "size":  "large",
                                                                         "stat_ac":  16,
                                                                         "stat_cha":  7,
                                                                         "stat_con":  18,
@@ -17780,7 +17780,7 @@
                                                                             "Legendary"
                                                                         ],
                                                             "releaseurl":  "https://www.patreon.com/posts/boss-creature-51753486",
-                                                            "size":  "Huge",
+                                                            "size":  "huge",
                                                             "stat_ac":  15,
                                                             "stat_cha":  16,
                                                             "stat_con":  24,
@@ -18032,7 +18032,7 @@
                                                                                                "Minion"
                                                                                            ],
                                                                                "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                               "size":  "Medium",
+                                                                               "size":  "medium",
                                                                                "stat_ac":  15,
                                                                                "stat_cha":  0,
                                                                                "stat_con":  0,
@@ -18301,7 +18301,7 @@
                                                                                          "Hunter"
                                                                                      ],
                                                                          "releaseurl":  "https://www.patreon.com/posts/slipstream-71360477",
-                                                                         "size":  "Medium",
+                                                                         "size":  "medium",
                                                                          "stat_ac":  20,
                                                                          "stat_cha":  10,
                                                                          "stat_con":  13,
@@ -18352,7 +18352,7 @@
                                                                                 "Debuff"
                                                                             ],
                                                                 "releaseurl":  "https://www.patreon.com/posts/150985233",
-                                                                "size":  "Large",
+                                                                "size":  "large",
                                                                 "stat_ac":  93,
                                                                 "stat_cha":  94,
                                                                 "stat_con":  95,
@@ -18404,7 +18404,7 @@
                                                                             "Mount"
                                                                         ],
                                                             "releaseurl":  "https://www.patreon.com/posts/elephant-61535194",
-                                                            "size":  "Huge",
+                                                            "size":  "huge",
                                                             "stat_ac":  12,
                                                             "stat_cha":  8,
                                                             "stat_con":  17,
@@ -18559,7 +18559,7 @@
                                                                                         "Leader"
                                                                                     ],
                                                                         "releaseurl":  "https://www.patreon.com/posts/necrovolt-73248375",
-                                                                        "size":  "Medium",
+                                                                        "size":  "medium",
                                                                         "stat_ac":  16,
                                                                         "stat_cha":  17,
                                                                         "stat_con":  16,
@@ -18611,7 +18611,7 @@
                                                                             "Classic"
                                                                         ],
                                                             "releaseurl":  "https://www.patreon.com/posts/basic-creature-51753769",
-                                                            "size":  "Medium",
+                                                            "size":  "medium",
                                                             "stat_ac":  16,
                                                             "stat_cha":  12,
                                                             "stat_con":  13,
@@ -18877,7 +18877,7 @@
                                                                                "Classic"
                                                                            ],
                                                                "releaseurl":  "https://www.patreon.com/posts/193-grave-golem-123141614",
-                                                               "size":  "Gargantuan",
+                                                               "size":  "gargantuan",
                                                                "stat_ac":  18,
                                                                "stat_cha":  12,
                                                                "stat_con":  20,
@@ -19085,7 +19085,7 @@
                                                                               "Duelist"
                                                                           ],
                                                               "releaseurl":  "https://www.patreon.com/posts/poison-fang-64208373",
-                                                              "size":  "Medium",
+                                                              "size":  "medium",
                                                               "stat_ac":  16,
                                                               "stat_cha":  16,
                                                               "stat_con":  12,
@@ -19343,7 +19343,7 @@
                                                                             "Debuff"
                                                                         ],
                                                             "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                            "size":  "Large",
+                                                            "size":  "large",
                                                             "stat_ac":  93,
                                                             "stat_cha":  94,
                                                             "stat_con":  95,
@@ -19639,7 +19639,7 @@
                                                                                       "Support"
                                                                                   ],
                                                                       "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                      "size":  "Huge",
+                                                                      "size":  "huge",
                                                                       "stat_ac":  93,
                                                                       "stat_cha":  94,
                                                                       "stat_con":  95,
@@ -19691,7 +19691,7 @@
                                                                                                         "Damage"
                                                                                                     ],
                                                                                         "releaseurl":  "https://beneos-battlemaps.com/collections/2-5d-tokens/products/beneos-tokens-living-fossils",
-                                                                                        "size":  "Huge",
+                                                                                        "size":  "huge",
                                                                                         "stat_ac":  16,
                                                                                         "stat_cha":  9,
                                                                                         "stat_con":  19,
@@ -19902,7 +19902,7 @@
                                                                                 "Damage"
                                                                             ],
                                                                 "releaseurl":  "https://www.patreon.com/posts/special-creature-54675823",
-                                                                "size":  "Medium",
+                                                                "size":  "medium",
                                                                 "stat_ac":  19,
                                                                 "stat_cha":  18,
                                                                 "stat_con":  19,
@@ -20058,7 +20058,7 @@
                                                                           "Debuff"
                                                                       ],
                                                           "releaseurl":  "https://www.patreon.com/posts/148615451",
-                                                          "size":  "Tiny",
+                                                          "size":  "tiny",
                                                           "stat_ac":  93,
                                                           "stat_cha":  94,
                                                           "stat_con":  95,
@@ -20163,7 +20163,7 @@
                                                                                            "Classic"
                                                                                        ],
                                                                            "releaseurl":  "https://www.patreon.com/posts/126957654",
-                                                                           "size":  "Medium",
+                                                                           "size":  "medium",
                                                                            "stat_ac":  17,
                                                                            "stat_cha":  18,
                                                                            "stat_con":  16,
@@ -20277,7 +20277,7 @@
                                                                               "Tank"
                                                                           ],
                                                               "releaseurl":  "https://www.patreon.com/posts/shell-sage-74472629",
-                                                              "size":  "Medium",
+                                                              "size":  "medium",
                                                               "stat_ac":  18,
                                                               "stat_cha":  18,
                                                               "stat_con":  20,
@@ -20460,22 +20460,22 @@
                                               "name":  "Strike Priest",
                                               "properties":  {
                                                                  "biom":  [
-                                                                              "Urban",
-                                                                              "Civilized",
-                                                                              "Sacral"
+                                                                              "urban",
+                                                                              "civilized",
+                                                                              "sacral"
                                                                           ],
                                                                  "cr":  "6",
                                                                  "fightingstyle":  [
-                                                                                       "Shock",
-                                                                                       "Tactical"
+                                                                                       "shock",
+                                                                                       "tactical"
                                                                                    ],
-                                                                 "movement":  "Walk",
+                                                                 "movement":  "walk",
                                                                  "purpose":  [
-                                                                                 "Leader",
-                                                                                 "Support"
+                                                                                 "leader",
+                                                                                 "support"
                                                                              ],
                                                                  "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                 "size":  "Medium",
+                                                                 "size":  "medium",
                                                                  "stat_ac":  17,
                                                                  "stat_cha":  11,
                                                                  "stat_con":  16,
@@ -20732,7 +20732,7 @@
                                                                                    "Debuff"
                                                                                ],
                                                                    "releaseurl":  "https://www.patreon.com/posts/revenant-knight-57567686",
-                                                                   "size":  "Medium",
+                                                                   "size":  "medium",
                                                                    "stat_ac":  13,
                                                                    "stat_cha":  18,
                                                                    "stat_con":  18,
@@ -20888,7 +20888,7 @@
                                                                                    "Classic"
                                                                                ],
                                                                    "releaseurl":  "https://www.patreon.com/posts/basic-creature-52930930",
-                                                                   "size":  "Medium",
+                                                                   "size":  "medium",
                                                                    "stat_ac":  15,
                                                                    "stat_cha":  10,
                                                                    "stat_con":  16,
@@ -21341,7 +21341,7 @@
                                                                                          "Tank"
                                                                                      ],
                                                                          "releaseurl":  "https://www.patreon.com/posts/209-living-134274790",
-                                                                         "size":  "Huge",
+                                                                         "size":  "huge",
                                                                          "stat_ac":  16,
                                                                          "stat_cha":  8,
                                                                          "stat_con":  16,
@@ -21397,7 +21397,7 @@
                                                                                    "Ally"
                                                                                ],
                                                                    "releaseurl":  "https://www.patreon.com/posts/huge-commoner-58412129",
-                                                                   "size":  "Medium",
+                                                                   "size":  "medium",
                                                                    "stat_ac":  7,
                                                                    "stat_cha":  10,
                                                                    "stat_con":  11,
@@ -21450,7 +21450,7 @@
                                                                                    "Support"
                                                                                ],
                                                                    "releaseurl":  "https://www.patreon.com/posts/68140681",
-                                                                   "size":  "Medium",
+                                                                   "size":  "medium",
                                                                    "stat_ac":  15,
                                                                    "stat_cha":  20,
                                                                    "stat_con":  19,
@@ -21504,7 +21504,7 @@
                                                                                                       "Duelist"
                                                                                                   ],
                                                                                       "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                                      "size":  "Medium",
+                                                                                      "size":  "medium",
                                                                                       "stat_ac":  18,
                                                                                       "stat_cha":  14,
                                                                                       "stat_con":  15,
@@ -21556,7 +21556,7 @@
                                                                               "Tank"
                                                                           ],
                                                               "releaseurl":  "https://www.patreon.com/posts/205-torn-titan-131510974",
-                                                              "size":  "Gargantuan",
+                                                              "size":  "gargantuan",
                                                               "stat_ac":  15,
                                                               "stat_cha":  2,
                                                               "stat_con":  20,
@@ -21811,7 +21811,7 @@
                                                                                                          "Duelist"
                                                                                                      ],
                                                                                          "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                                         "size":  "Medium",
+                                                                                         "size":  "medium",
                                                                                          "stat_ac":  18,
                                                                                          "stat_cha":  14,
                                                                                          "stat_con":  16,
@@ -21911,7 +21911,7 @@
                                                                                         "Debuff"
                                                                                     ],
                                                                         "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                        "size":  "Large",
+                                                                        "size":  "large",
                                                                         "stat_ac":  18,
                                                                         "stat_cha":  94,
                                                                         "stat_con":  95,
@@ -22175,7 +22175,7 @@
                                                                                      "Minion"
                                                                                  ],
                                                                      "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                     "size":  "Medium",
+                                                                     "size":  "medium",
                                                                      "stat_ac":  16,
                                                                      "stat_cha":  6,
                                                                      "stat_con":  15,
@@ -22784,7 +22784,7 @@
                                                                                "Gimmick"
                                                                            ],
                                                                "releaseurl":  "https://www.patreon.com/posts/gorgeleaper-71641897",
-                                                               "size":  "Large",
+                                                               "size":  "large",
                                                                "stat_ac":  14,
                                                                "stat_cha":  4,
                                                                "stat_con":  14,
@@ -22989,7 +22989,7 @@
                                                                              "Classic"
                                                                          ],
                                                              "releaseurl":  "https://www.patreon.com/posts/war-troll-59470079",
-                                                             "size":  "Large",
+                                                             "size":  "large",
                                                              "stat_ac":  15,
                                                              "stat_cha":  7,
                                                              "stat_con":  20,
@@ -23244,7 +23244,7 @@
                                                                                                    "Hunter"
                                                                                                ],
                                                                                    "releaseurl":  "https://beneos-battlemaps.com/collections/2-5d-tokens/products/beneos-tokens-living-fossils",
-                                                                                   "size":  "Large",
+                                                                                   "size":  "large",
                                                                                    "stat_ac":  16,
                                                                                    "stat_cha":  6,
                                                                                    "stat_con":  16,
@@ -23295,7 +23295,7 @@
                                                                                    "Debuff"
                                                                                ],
                                                                    "releaseurl":  "https://www.patreon.com/posts/128770222",
-                                                                   "size":  "Huge",
+                                                                   "size":  "huge",
                                                                    "stat_ac":  17,
                                                                    "stat_cha":  6,
                                                                    "stat_con":  24,
@@ -23399,7 +23399,7 @@
                                                                                              "Debuff"
                                                                                          ],
                                                                              "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                             "size":  "Huge",
+                                                                             "size":  "huge",
                                                                              "stat_ac":  16,
                                                                              "stat_cha":  0,
                                                                              "stat_con":  0,
@@ -23753,7 +23753,7 @@
                                                                                   "Support"
                                                                               ],
                                                                   "releaseurl":  "https://www.patreon.com/posts/190-casket-121394891",
-                                                                  "size":  "Large",
+                                                                  "size":  "large",
                                                                   "stat_ac":  12,
                                                                   "stat_cha":  1,
                                                                   "stat_con":  16,
@@ -23804,7 +23804,7 @@
                                                                                            "Classic"
                                                                                        ],
                                                                            "releaseurl":  "https://www.patreon.com/posts/126770917",
-                                                                           "size":  "Huge",
+                                                                           "size":  "huge",
                                                                            "stat_ac":  15,
                                                                            "stat_cha":  16,
                                                                            "stat_con":  13,
@@ -23962,7 +23962,7 @@
                                                                                     "Debuff"
                                                                                 ],
                                                                     "releaseurl":  "https://www.patreon.com/posts/148615451",
-                                                                    "size":  "Medium",
+                                                                    "size":  "medium",
                                                                     "stat_ac":  93,
                                                                     "stat_cha":  94,
                                                                     "stat_con":  95,
@@ -24012,7 +24012,7 @@
                                                                           "Gimmick"
                                                                       ],
                                                           "releaseurl":  "https://www.patreon.com/posts/vrubel-66888868",
-                                                          "size":  "Large",
+                                                          "size":  "large",
                                                           "stat_ac":  14,
                                                           "stat_cha":  16,
                                                           "stat_con":  14,
@@ -24162,7 +24162,7 @@
                                                                                "Minion"
                                                                            ],
                                                                "releaseurl":  "https://www.patreon.com/posts/193-grave-golem-123141614",
-                                                               "size":  "Medium",
+                                                               "size":  "medium",
                                                                "stat_ac":  12,
                                                                "stat_cha":  1,
                                                                "stat_con":  1,
@@ -24218,7 +24218,7 @@
                                                                                     "Support"
                                                                                 ],
                                                                     "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                    "size":  "Medium",
+                                                                    "size":  "medium",
                                                                     "stat_ac":  15,
                                                                     "stat_cha":  7,
                                                                     "stat_con":  14,
@@ -24373,7 +24373,7 @@
                                                                                "Classic"
                                                                            ],
                                                                "releaseurl":  "https://www.patreon.com/posts/necromancer-72923802",
-                                                               "size":  "Medium",
+                                                               "size":  "medium",
                                                                "stat_ac":  16,
                                                                "stat_cha":  18,
                                                                "stat_con":  16,
@@ -24665,7 +24665,7 @@
                                                                                    "Damage"
                                                                                ],
                                                                    "releaseurl":  "https://www.patreon.com/posts/special-creature-51753864",
-                                                                   "size":  "Large",
+                                                                   "size":  "large",
                                                                    "stat_ac":  17,
                                                                    "stat_cha":  5,
                                                                    "stat_con":  18,
@@ -24924,7 +24924,7 @@
                                                                                    "Gimmick"
                                                                                ],
                                                                    "releaseurl":  "https://www.patreon.com/posts/dollmaker-devil-70327086",
-                                                                   "size":  "Large",
+                                                                   "size":  "large",
                                                                    "stat_ac":  15,
                                                                    "stat_cha":  19,
                                                                    "stat_con":  15,
@@ -24977,7 +24977,7 @@
                                                                                         "Minion"
                                                                                     ],
                                                                         "releaseurl":  "",
-                                                                        "size":  "Medium",
+                                                                        "size":  "medium",
                                                                         "stat_ac":  15,
                                                                         "stat_cha":  10,
                                                                         "stat_con":  14,
@@ -25027,7 +25027,7 @@
                                                                                     "Minion"
                                                                                 ],
                                                                     "releaseurl":  "https://www.patreon.com/posts/boss-creature-51753486",
-                                                                    "size":  "Small",
+                                                                    "size":  "small",
                                                                     "stat_ac":  9,
                                                                     "stat_cha":  6,
                                                                     "stat_con":  18,
@@ -25234,7 +25234,7 @@
                                                                                                          "Debuff"
                                                                                                      ],
                                                                                          "releaseurl":  "https://beneos-battlemaps.com/collections/2-5d-tokens/products/beneos-tokens-living-fossils",
-                                                                                         "size":  "Huge",
+                                                                                         "size":  "huge",
                                                                                          "stat_ac":  16,
                                                                                          "stat_cha":  8,
                                                                                          "stat_con":  16,
@@ -25340,7 +25340,7 @@
                                                                               "Classic"
                                                                           ],
                                                               "releaseurl":  "https://www.patreon.com/posts/mind-golem-62285535",
-                                                              "size":  "Large",
+                                                              "size":  "large",
                                                               "stat_ac":  16,
                                                               "stat_cha":  11,
                                                               "stat_con":  20,
@@ -25391,7 +25391,7 @@
                                                                                             "Minion"
                                                                                         ],
                                                                             "releaseurl":  "https://www.patreon.com/posts/airship-sentry-70643495",
-                                                                            "size":  "Medium",
+                                                                            "size":  "medium",
                                                                             "stat_ac":  16,
                                                                             "stat_cha":  5,
                                                                             "stat_con":  18,
@@ -25611,7 +25611,7 @@
                                                                                          "Debuff"
                                                                                      ],
                                                                          "releaseurl":  "https://www.patreon.com/posts/203-curseroot-129903613",
-                                                                         "size":  "Huge",
+                                                                         "size":  "huge",
                                                                          "stat_ac":  15,
                                                                          "stat_cha":  3,
                                                                          "stat_con":  18,
@@ -26041,7 +26041,7 @@
                                                                             "Damage"
                                                                         ],
                                                             "releaseurl":  "https://www.patreon.com/posts/wereboar-70000773",
-                                                            "size":  "Medium",
+                                                            "size":  "medium",
                                                             "stat_ac":  14,
                                                             "stat_cha":  7,
                                                             "stat_con":  20,
@@ -26137,7 +26137,7 @@
                                                                                  "Debuff"
                                                                              ],
                                                                  "releaseurl":  "https://www.patreon.com/posts/special-creature-52102315",
-                                                                 "size":  "Medium",
+                                                                 "size":  "medium",
                                                                  "stat_ac":  14,
                                                                  "stat_cha":  5,
                                                                  "stat_con":  15,
@@ -26495,7 +26495,7 @@
                                                                                          "Pressure"
                                                                                      ],
                                                                          "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                         "size":  "Gargantuan",
+                                                                         "size":  "gargantuan",
                                                                          "stat_ac":  18,
                                                                          "stat_cha":  94,
                                                                          "stat_con":  95,
@@ -26689,7 +26689,7 @@
                                                                                   "Duelist"
                                                                               ],
                                                                   "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                  "size":  "Large",
+                                                                  "size":  "large",
                                                                   "stat_ac":  20,
                                                                   "stat_cha":  14,
                                                                   "stat_con":  15,
@@ -27142,7 +27142,7 @@
                                                                                   "Classic"
                                                                               ],
                                                                   "releaseurl":  "https://www.patreon.com/posts/trained-archer-56943791",
-                                                                  "size":  "Medium",
+                                                                  "size":  "medium",
                                                                   "stat_ac":  15,
                                                                   "stat_cha":  11,
                                                                   "stat_con":  12,
@@ -27245,7 +27245,7 @@
                                                                              "Pressure"
                                                                          ],
                                                              "releaseurl":  "https://www.patreon.com/posts/centaur-56629774",
-                                                             "size":  "Large",
+                                                             "size":  "large",
                                                              "stat_ac":  12,
                                                              "stat_cha":  8,
                                                              "stat_con":  16,
@@ -27396,7 +27396,7 @@
                                                                                     "Duelist"
                                                                                 ],
                                                                     "releaseurl":  "https://www.patreon.com/posts/sovereigns-guard-69050786",
-                                                                    "size":  "Medium",
+                                                                    "size":  "medium",
                                                                     "stat_ac":  19,
                                                                     "stat_cha":  13,
                                                                     "stat_con":  16,
@@ -27509,7 +27509,7 @@
                                                                              "Pressure"
                                                                          ],
                                                              "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                             "size":  "Huge",
+                                                             "size":  "huge",
                                                              "stat_ac":  17,
                                                              "stat_cha":  9,
                                                              "stat_con":  16,
@@ -28737,7 +28737,7 @@
                                                                                           "Hunter"
                                                                                       ],
                                                                           "releaseurl":  "https://www.patreon.com/posts/special-creature-51753582",
-                                                                          "size":  "Large",
+                                                                          "size":  "large",
                                                                           "stat_ac":  16,
                                                                           "stat_cha":  18,
                                                                           "stat_con":  12,
@@ -29206,7 +29206,7 @@
                                                                                              "Debuff"
                                                                                          ],
                                                                              "releaseurl":  "https://www.patreon.com/posts/142982420",
-                                                                             "size":  "Gargantuan",
+                                                                             "size":  "gargantuan",
                                                                              "stat_ac":  22,
                                                                              "stat_cha":  94,
                                                                              "stat_con":  95,
@@ -29307,7 +29307,7 @@
                                                                            "Debuff"
                                                                        ],
                                                            "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                           "size":  "Large",
+                                                           "size":  "large",
                                                            "stat_ac":  16,
                                                            "stat_cha":  94,
                                                            "stat_con":  95,
@@ -29453,7 +29453,7 @@
                                                                                   "Legendary"
                                                                               ],
                                                                   "releaseurl":  "https://www.patreon.com/posts/winter-empress-60103806",
-                                                                  "size":  "Medium",
+                                                                  "size":  "medium",
                                                                   "stat_ac":  18,
                                                                   "stat_cha":  22,
                                                                   "stat_con":  18,
@@ -29507,7 +29507,7 @@
                                                                               "Debuff"
                                                                           ],
                                                               "releaseurl":  "https://www.patreon.com/posts/amygdalyan-62903185",
-                                                              "size":  "Medium",
+                                                              "size":  "medium",
                                                               "stat_ac":  15,
                                                               "stat_cha":  19,
                                                               "stat_con":  12,
@@ -29718,7 +29718,7 @@
                                                                        "Boss"
                                                                    ],
                                                        "releaseurl":  "https://www.patreon.com/posts/roc-59825905",
-                                                       "size":  "Gargantuan",
+                                                       "size":  "gargantuan",
                                                        "stat_ac":  15,
                                                        "stat_cha":  9,
                                                        "stat_con":  20,
@@ -29773,7 +29773,7 @@
                                                                                                    "Damage"
                                                                                                ],
                                                                                    "releaseurl":  "https://www.patreon.com/posts/new-champion-155268262",
-                                                                                   "size":  "Huge",
+                                                                                   "size":  "huge",
                                                                                    "stat_ac":  93,
                                                                                    "stat_cha":  94,
                                                                                    "stat_con":  95,
@@ -29927,7 +29927,7 @@
                                                                                "Debuff"
                                                                            ],
                                                                "releaseurl":  "https://www.patreon.com/posts/156035943",
-                                                               "size":  "Huge",
+                                                               "size":  "huge",
                                                                "stat_ac":  93,
                                                                "stat_cha":  94,
                                                                "stat_con":  95,
@@ -30029,7 +30029,7 @@
                                                                                          "Mount"
                                                                                      ],
                                                                          "releaseurl":  "https://www.patreon.com/posts/ridgeback-66577201",
-                                                                         "size":  "Gargantuan",
+                                                                         "size":  "gargantuan",
                                                                          "stat_ac":  20,
                                                                          "stat_cha":  3,
                                                                          "stat_con":  24,
@@ -30297,7 +30297,7 @@
                                                                                           "Classic"
                                                                                       ],
                                                                           "releaseurl":  "https://www.patreon.com/posts/205-torn-titan-131510974",
-                                                                          "size":  "Medium",
+                                                                          "size":  "medium",
                                                                           "stat_ac":  16,
                                                                           "stat_cha":  17,
                                                                           "stat_con":  14,
@@ -30353,7 +30353,7 @@
                                                                                  "Mount"
                                                                              ],
                                                                  "releaseurl":  "https://www.patreon.com/posts/royal-griffon-60350104",
-                                                                 "size":  "Large",
+                                                                 "size":  "large",
                                                                  "stat_ac":  13,
                                                                  "stat_cha":  8,
                                                                  "stat_con":  16,
@@ -30868,7 +30868,7 @@
                                                                                   "Bodyguard"
                                                                               ],
                                                                   "releaseurl":  "https://www.patreon.com/posts/sword-guardian-66289434",
-                                                                  "size":  "Medium",
+                                                                  "size":  "medium",
                                                                   "stat_ac":  17,
                                                                   "stat_cha":  3,
                                                                   "stat_con":  16,
@@ -30970,7 +30970,7 @@
                                                                                      "Damage"
                                                                                  ],
                                                                      "releaseurl":  "https://www.patreon.com/posts/guild-72297874",
-                                                                     "size":  "Medium",
+                                                                     "size":  "medium",
                                                                      "stat_ac":  15,
                                                                      "stat_cha":  10,
                                                                      "stat_con":  15,
@@ -31318,7 +31318,7 @@
                                                                          "Classic"
                                                                      ],
                                                          "releaseurl":  "https://www.patreon.com/posts/basic-creature-52647466",
-                                                         "size":  "Large",
+                                                         "size":  "large",
                                                          "stat_ac":  16,
                                                          "stat_cha":  10,
                                                          "stat_con":  14,
@@ -31464,7 +31464,7 @@
                                                                               "Damage"
                                                                           ],
                                                               "releaseurl":  "https://www.patreon.com/posts/wereboar-70000773",
-                                                              "size":  "Medium",
+                                                              "size":  "medium",
                                                               "stat_ac":  14,
                                                               "stat_cha":  7,
                                                               "stat_con":  20,
@@ -31672,7 +31672,7 @@
                                                                                           "Debuff"
                                                                                       ],
                                                                           "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                          "size":  "Small",
+                                                                          "size":  "small",
                                                                           "stat_ac":  93,
                                                                           "stat_cha":  94,
                                                                           "stat_con":  95,
@@ -31720,7 +31720,7 @@
                                                                                        "Debuff"
                                                                                    ],
                                                                        "releaseurl":  "https://www.patreon.com/posts/188-conflagrator-120868369",
-                                                                       "size":  "Huge",
+                                                                       "size":  "huge",
                                                                        "stat_ac":  17,
                                                                        "stat_cha":  16,
                                                                        "stat_con":  16,
@@ -31876,7 +31876,7 @@
                                                                                    "Minion"
                                                                                ],
                                                                    "releaseurl":  "https://www.patreon.com/posts/rustmire-gadfly-69643596",
-                                                                   "size":  "Medium",
+                                                                   "size":  "medium",
                                                                    "stat_ac":  14,
                                                                    "stat_cha":  1,
                                                                    "stat_con":  12,
@@ -32182,7 +32182,7 @@
                                                                                 "Ally"
                                                                             ],
                                                                 "releaseurl":  "https://www.patreon.com/posts/grey-pilgrim-68772626",
-                                                                "size":  "Large",
+                                                                "size":  "large",
                                                                 "stat_ac":  18,
                                                                 "stat_cha":  18,
                                                                 "stat_con":  18,
@@ -32451,7 +32451,7 @@
                                                                                                        "Debuff"
                                                                                                    ],
                                                                                        "releaseurl":  "https://beneos-battlemaps.com/collections/2-5d-tokens/products/beneos-tokens-living-fossils",
-                                                                                       "size":  "Huge",
+                                                                                       "size":  "huge",
                                                                                        "stat_ac":  17,
                                                                                        "stat_cha":  6,
                                                                                        "stat_con":  18,
@@ -32564,7 +32564,7 @@
                                                                                          "Critter"
                                                                                      ],
                                                                          "releaseurl":  "https://www.patreon.com/posts/vampire-bat-58786013",
-                                                                         "size":  "Large",
+                                                                         "size":  "large",
                                                                          "stat_ac":  12,
                                                                          "stat_cha":  4,
                                                                          "stat_con":  10,
@@ -32830,7 +32830,7 @@
                                                                                            "Classic"
                                                                                        ],
                                                                            "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                           "size":  "Gargantuan",
+                                                                           "size":  "gargantuan",
                                                                            "stat_ac":  93,
                                                                            "stat_cha":  94,
                                                                            "stat_con":  95,
@@ -33038,7 +33038,7 @@
                                                                                          "Duelist"
                                                                                      ],
                                                                          "releaseurl":  "https://www.patreon.com/posts/gladiators-67230626",
-                                                                         "size":  "Medium",
+                                                                         "size":  "medium",
                                                                          "stat_ac":  17,
                                                                          "stat_cha":  15,
                                                                          "stat_con":  16,
@@ -33355,7 +33355,7 @@
                                                                                   "Damage"
                                                                               ],
                                                                   "releaseurl":  "https://www.patreon.com/posts/Infernal-steed-58171308",
-                                                                  "size":  "Large",
+                                                                  "size":  "large",
                                                                   "stat_ac":  14,
                                                                   "stat_cha":  14,
                                                                   "stat_con":  16,
@@ -33712,7 +33712,7 @@
                                                                            "Hunter"
                                                                        ],
                                                            "releaseurl":  "https://www.patreon.com/posts/wendigo-65132787",
-                                                           "size":  "Medium",
+                                                           "size":  "medium",
                                                            "stat_ac":  17,
                                                            "stat_cha":  7,
                                                            "stat_con":  16,
@@ -33762,7 +33762,7 @@
                                                                                      "Classic"
                                                                                  ],
                                                                      "releaseurl":  "https://www.patreon.com/posts/basic-creature-52379988",
-                                                                     "size":  "Medium",
+                                                                     "size":  "medium",
                                                                      "stat_ac":  14,
                                                                      "stat_cha":  6,
                                                                      "stat_con":  16,
@@ -33915,7 +33915,7 @@
                                                                                            "Debuff"
                                                                                        ],
                                                                            "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                                           "size":  "Huge",
+                                                                           "size":  "huge",
                                                                            "stat_ac":  93,
                                                                            "stat_cha":  94,
                                                                            "stat_con":  95,
@@ -34166,7 +34166,7 @@
                                                                                  "Damage"
                                                                              ],
                                                                  "releaseurl":  "https://www.patreon.com/posts/crazed-reaper-67525115",
-                                                                 "size":  "Large",
+                                                                 "size":  "large",
                                                                  "stat_ac":  16,
                                                                  "stat_cha":  1,
                                                                  "stat_con":  16,
@@ -34273,7 +34273,7 @@
                                                                                        "Minion"
                                                                                    ],
                                                                        "releaseurl":  "https://beneos-battlemaps.com/de/collections/2-5d-tokens/products/beneos-tokens-shamblevault-casket-bearer-kopie",
-                                                                       "size":  "Medium",
+                                                                       "size":  "medium",
                                                                        "stat_ac":  22,
                                                                        "stat_cha":  1,
                                                                        "stat_con":  10,
@@ -34387,7 +34387,7 @@
                                                                           "Classic"
                                                                       ],
                                                           "releaseurl":  "https://www.patreon.com/posts/basic-creature-53778634",
-                                                          "size":  "Gargantuan",
+                                                          "size":  "gargantuan",
                                                           "stat_ac":  20,
                                                           "stat_cha":  25,
                                                           "stat_con":  24,
@@ -34488,7 +34488,7 @@
                                                                                           "Minion"
                                                                                       ],
                                                                           "releaseurl":  "https://www.patreon.com/posts/137159709",
-                                                                          "size":  "Huge",
+                                                                          "size":  "huge",
                                                                           "stat_ac":  14,
                                                                           "stat_cha":  7,
                                                                           "stat_con":  13,
@@ -34544,7 +34544,7 @@
                                                                           "Debuff"
                                                                       ],
                                                           "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                          "size":  "Large",
+                                                          "size":  "large",
                                                           "stat_ac":  93,
                                                           "stat_cha":  94,
                                                           "stat_con":  95,
@@ -34993,7 +34993,7 @@
                                                                               "Damage"
                                                                           ],
                                                               "releaseurl":  "",
-                                                              "size":  "Medium",
+                                                              "size":  "medium",
                                                               "stat_ac":  16,
                                                               "stat_cha":  12,
                                                               "stat_con":  15,
@@ -35248,7 +35248,7 @@
                                                                               "Damage"
                                                                           ],
                                                               "releaseurl":  "https://www.patreon.com/posts/special-creature-55495677",
-                                                              "size":  "Medium",
+                                                              "size":  "medium",
                                                               "stat_ac":  14,
                                                               "stat_cha":  16,
                                                               "stat_con":  14,
@@ -35395,7 +35395,7 @@
                                                                               "Tank"
                                                                           ],
                                                               "releaseurl":  "https://www.patreon.com/posts/shattermaw-62911527",
-                                                              "size":  "Huge",
+                                                              "size":  "huge",
                                                               "stat_ac":  19,
                                                               "stat_cha":  6,
                                                               "stat_con":  22,
@@ -35505,7 +35505,7 @@
                                                                                    "Damage"
                                                                                ],
                                                                    "releaseurl":  "https://www.patreon.com/posts/68140681",
-                                                                   "size":  "Gargantuan",
+                                                                   "size":  "gargantuan",
                                                                    "stat_ac":  19,
                                                                    "stat_cha":  1,
                                                                    "stat_con":  22,
@@ -35867,7 +35867,7 @@
                                                                                       "Minion"
                                                                                   ],
                                                                       "releaseurl":  "https://www.patreon.com/posts/scorched-69345931",
-                                                                      "size":  "Medium",
+                                                                      "size":  "medium",
                                                                       "stat_ac":  17,
                                                                       "stat_cha":  7,
                                                                       "stat_con":  18,
@@ -36819,7 +36819,7 @@
                                                                                "Damage"
                                                                            ],
                                                                "releaseurl":  "https://www.patreon.com/c/beneostokens",
-                                                               "size":  "Huge",
+                                                               "size":  "huge",
                                                                "stat_ac":  17,
                                                                "stat_cha":  5,
                                                                "stat_con":  20,

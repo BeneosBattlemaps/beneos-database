@@ -668,7 +668,7 @@
         "spell_type": "Immobilization",
         "classes": [
           "Druid",
-          "Sorcerer",
+          "Sorcer",
           "Warlock",
           "Wizard"
         ],
@@ -2082,7 +2082,7 @@
       "properties": {
         "level": "1",
         "school": "Enchantment",
-        "casting_time": "1 Minute",
+        "casting_time": "Minute",
         "concentration": false,
         "ritual": false,
         "spell_type": "Utility",
@@ -2591,7 +2591,7 @@
         "ritual": false,
         "spell_type": "Ranged Damage",
         "classes": [
-          "Bard", "Druid", "Ranger", "Sorcerer", "Warlock", "Wizard"
+          "bard,druid,ranger,sorcerer,warlock,wizard"
         ],
         "components": [
           "v,s,m"
@@ -2612,7 +2612,7 @@
         "ritual": false,
         "spell_type": "Mobility",
         "classes": [
-          "Bard", "Druid", "Ranger", "Sorcerer", "Warlock", "Wizard"
+          "bard,druid,ranger,sorcerer,warlock,wizard"
         ],
         "components": [
           "v,s"
@@ -2633,7 +2633,7 @@
         "ritual": false,
         "spell_type": "Curse",
         "classes": [
-          "Bard", "Cleric", "Druid", "Paladin", "Ranger", "Sorcerer", "Warlock"
+          "bard,cleric,druid,paladin,ranger,sorcerer,warlock"
         ],
         "components": [
           "v,s"
@@ -2654,7 +2654,7 @@
         "ritual": false,
         "spell_type": "Restoration",
         "classes": [
-          "Bard", "Druid", "Ranger", "Sorcerer", "Warlock", "Wizard"
+          "bard,druid,ranger,sorcerer,warlock,wizard"
         ],
         "components": [
           "v,s,m"
@@ -2675,7 +2675,7 @@
         "ritual": false,
         "spell_type": "Buff",
         "classes": [
-          "Bard", "Druid", "Ranger", "Sorcerer", "Warlock", "Wizard"
+          "bard, druid, ranger, sorcerer, warlock, wizard"
         ],
         "components": [
           "s"
@@ -2696,7 +2696,7 @@
         "ritual": false,
         "spell_type": "Regeneration",
         "classes": [
-          "Bard", "Cleric", "Druid", "Paladin", "Sorcerer", "Warlock", "Wizard"
+          "bard, cleric, druid, paladin, sorcerer, warlock, wizard"
         ],
         "components": [
           "v,s,m"
@@ -2717,7 +2717,7 @@
         "ritual": false,
         "spell_type": "Buff",
         "classes": [
-          "Bard", "Cleric", "Paladin"
+          "bard, cleric, paladin"
         ],
         "components": [
           "v,s"
@@ -2738,7 +2738,7 @@
         "ritual": false,
         "spell_type": "Buff",
         "classes": [
-          "Bard", "Cleric", "Druid", "Paladin", "Ranger", "Sorcerer", "Warlock", "Wizard"
+          "bard, cleric, druid, paladin, ranger, sorcerer, warlock, wizard"
         ],
         "components": [
           "v,s"

@@ -1613,7 +1613,7 @@
         "rarity": "Very Rare",
         "attunement": true,
         "origin": "occult",
-        "item_type": "Spell Focus",
+        "item_type": "Spellfocus",
         "tier": 2,
         "price": "13700",
         "icon": "0080_mind_tyrant-icon.webp",
@@ -2216,7 +2216,7 @@
         "rarity": "Rare",
         "attunement": true,
         "origin": "infernal",
-        "item_type": "Spell Focus",
+        "item_type": "Spellfocus",
         "tier": 2,
         "price": "3750",
         "icon": "0103_hellwrights_hexcoil-icon.webp",
@@ -2331,7 +2331,7 @@
       "properties": {
         "rarity": "Rare",
         "attunement": true,
-        "origin": "dwarvenforged",
+        "origin": "dwarven_forged",
         "item_type": "Impr. Weapon",
         "tier": 1,
         "price": "1870",
@@ -3023,7 +3023,7 @@
       "properties": {
         "rarity": "Rare",
         "attunement": false,
-        "origin": "technoarcane",
+        "origin": "techno_arcane",
         "item_type": "Consumable",
         "tier": 1,
         "price": "1950",
@@ -3202,7 +3202,7 @@
       "description": "This magic ammunition is meant to slay creatures of a particular type, which the GM chooses or determines randomly by rolling on the table below. If a creature of that type takes damage from the ammunition, the creature makes a DC 17 Constitution saving throw, taking an extra 6d10 Force damage on a failed save or half as much extra damage on a successful one.After dealing its extra damage to a creature, the ammunition becomes nonmagical.Creature Type Table (click to expand)...",
       "name": "Ammunition of Slaying",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Ammo",
@@ -3256,7 +3256,7 @@
       "description": "Wondrous Item, Very Rare (Requires Attunement)While wearing this amulet, you can take a Magic action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence (Arcana) check. On a successful check, you cast Plane Shift . On a failed check, you and each creature and object within 15 feet of you travel to a random destination determined by rolling 1d100 and consulting the following table.@E...",
       "name": "Amulet of the Planes",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Equipment",
@@ -3290,7 +3290,7 @@
       "description": "Armor (Shield), Very Rare (Requires Attunement)While holding this Shield, you can take a Bonus Action to cause it to animate. The Shield leaps into the air and hovers in your space to protect you as if you were wielding it, leaving your hands free. The Shield remains animate for 1 minute, until you take a Bonus Action to end this effect, or until you die or have the incapacitated condition, at which point the Shield falls to the ground or into your hand if you have...",
       "name": "Animated Shield",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Shield",
@@ -3516,7 +3516,7 @@
       "description": "This bag resembles a Bag of Holding but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.The extradimensional creature attached to the bag can sense whatever is placed inside the bag. Animal or vegetable matter placed wholly in the bag is devoured and lost forever. When part of a living creature is placed in the bag, as happens when someone reaches inside it, there is a [[/r ...",
       "name": "Bag of Devouring",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Container",
@@ -3758,7 +3758,7 @@
       "description": "See: dmg $0elt $0f $0iant $0tWhile wearing this belt, your Strength changes to 25. The type of giant determines the score. The item has no effect on you if your Strength without the belt is equal to or greater than 25.",
       "name": "Belt of Giant Strength (fire)",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Equipment",
@@ -3776,7 +3776,7 @@
       "description": "See: dmg $0elt $0f $0iant $0tWhile wearing this belt, your Strength changes to 23. The type of giant determines the score. The item has no effect on you if your Strength without the belt is equal to or greater than 23.",
       "name": "Belt of Giant Strength (frost)",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Equipment",
@@ -3812,7 +3812,7 @@
       "description": "See: dmg $0elt $0f $0iant $0tWhile wearing this belt, your Strength changes to 23. The type of giant determines the score. The item has no effect on you if your Strength without the belt is equal to or greater than 23.",
       "name": "Belt of Giant Strength (stone)",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Equipment",
@@ -4213,7 +4213,7 @@
       "description": "See: Horn of ValhallaRequirement: Training with all Medium armorSpirits: 4You can take a Magic action to blow this horn. In response, warrior spirits from the plane of Ysgard appear in unoccupied spaces within 60 feet of you. Each spirit uses the Berserker stat block and returns to Ysgard after 1 hour or when it drops to 0 Hit Points. The spirits look like living, breathing warr...",
       "name": "Bronze Horn of Valhalla",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Equipment",
@@ -4411,7 +4411,7 @@
       "description": "Wondrous Item, Very Rare (Requires Attunement)This candle's magic is activated when the candle is lit, which requires a Magic action. After burning for 4 hours, the candle is destroyed. You can snuff it out early for use at a later time. Deduct the time it burned in increments of 1 minute from its total burn time.While lit, the candle sheds Dim Light in a 30-foot radius. While you are within that light, you have Advantage on D20 Tests. In addition, a Cleric or Druid in the light can cast leve...",
       "name": "Candle of Invocation",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Trinket",
@@ -4463,7 +4463,7 @@
       "description": "Wondrous Item, Very RareYou can make this carpet hover and fly by taking a Magic action and using the carpet's command word. It moves according to your directions if you are within 30 feet of it.Four sizes of Carpet of Flying exist. The GM chooses the size of a given carpet or determines it randomly by rolling on the following table. A carpet can carry up to twice the weight shown on the table, but its Fly Speed is halved if it carries more than its normal capacity....",
       "name": "Carpet of Flying",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Equipment",
@@ -4667,7 +4667,7 @@
       "description": "See: dmg $0emon $0rmor000The armor's clawed gauntlets allow your Unarmed Strikes to deal 1d8 Slashing damage instead of the usual Bludgeoning damage, and you gain a +1 bonus to the attack and damage rolls of your Unarmed Strikes.",
       "name": "Clawed Gauntlet",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Natural Weapon",
@@ -4701,7 +4701,7 @@
       "description": "Wondrous Item, Very Rare (Requires Attunement)This fine garment is made of black silk interwoven with faint, silvery threads. While wearing it, you gain the following benefits.Poison Resistance. You have Resistance to Poison damage.Spider Climb. You have a Climb Speed equal to your Speed and can move up, down, and across vertical surfaces and along ceilings, while leaving your hands free.Spider Walk. You can't be caught in webs of any sort and can move through webs as if they were Difficult T...",
       "name": "Cloak of Arachnida",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Equipment",
@@ -5007,7 +5007,7 @@
       "description": "Wondrous Item, Very Rare (Requires Attunement)While touching this crystal orb, you can cast Scrying (save DC 17) with it.",
       "name": "Crystal Ball",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Equipment",
@@ -5172,7 +5172,7 @@
       "description": "Weapon (Greatsword, Longsword, Rapier, Scimitar, or Shortsword), Very Rare (Requires Attunement)You can take a Bonus Action to toss this magic weapon into the air. When you do so, the weapon begins to h...",
       "name": "Dancing Sword",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Martial Melee Weapon",
@@ -5263,7 +5263,7 @@
       "description": "Armor (Any Light, Medium, or Heavy), Very Rare (Requires Attunement)While wearing this armor, you gain a +1 bonus to Armor Class, and you know Abyssal. In addition, the armor's clawed gauntlets allow your Unarmed Strikes to deal 1d8 Slashing damage instead of the usual Bludgeoning damage, and you gain a +1 bonus to the attack and damage rolls of your Unarmed Strikes.Curse. Once you don this cursed armor, you can't doff it unless you are targeted by a Remove Curse spell or similar magic. While...",
       "name": "Demon Armor",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Equipment",
@@ -5383,7 +5383,7 @@
       "description": "Armor (Scale Mail), Very Rare (Requires Attunement)Dragon Scale Mail is made of the scales of one kind of dragon. Sometimes dragons collect their cast-off scales and gift them. Other times, hunters carefully preserve the hide of a dead dragon. In either case, Dragon Scale Mail is highly valued.While wearing this armor, you gain a +1 bonus to Armor Class, you have Advantage on saving throws against the breath weapons of Dragons, and you have Resistance to one damage type determined by the kind...",
       "name": "Dragon Scale Mail",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Medium Armor",
@@ -5554,7 +5554,7 @@
       "description": "Armor (Half Plate or Plate Armor), Very RareWhile wearing this armor, you gain a +2 bonus to Armor Class. In addition, if an effect moves you against your will along the ground, you can take a Reaction to reduce the distance you are moved by up to 10 feet....",
       "name": "Dwarven Plate",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Equipment",
@@ -5572,7 +5572,7 @@
       "description": "Weapon (Warhammer), Very Rare (Requires Attunement by a Dwarf or a Creature Attuned to a Belt of Dwarvenkind)You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. It has the Thrown property with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged attack using this weapon, it deals an extra 1d8 force damage dam...",
       "name": "Dwarven Thrower",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Martial Melee Weapon",
@@ -5648,7 +5648,7 @@
       "description": "Wondrous Item, Very RareWhen you take a Magic action to remove the stopper of this painted brass bottle, a cloud of thick smoke flows out of it. At the end of your turn, the smoke disappears with a flash of harmless fire, and an Efreeti appears in an unoccupied space within 30 feet of you.",
       "name": "Efreeti Bottle",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Trinket",
@@ -5826,7 +5826,7 @@
       "description": "Weapon (Longbow or Shortbow), Very Rare (Requires Attunement)You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon, which has no string. Each time you pull your arm back in a firing motion, a magical arrow made of golden energy appears nocked and ready to fire. An arrow produced by this weapon deals Force damage instead of Piercing damage on a hit, a...",
       "name": "Energy Bow",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Weapon",
@@ -6346,7 +6346,7 @@
       "description": "Weapon (Glaive, Greatsword, Longsword, Rapier, Scimitar, or Shortsword), Very Rare (Requires Attunement)When you hit with an attack roll using ...",
       "name": "Frost Brand",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Martial Melee Weapon",
@@ -6820,7 +6820,7 @@
       "description": "Wondrous Item, Very Rare (Requires Attunement by a Wizard)This pointed hat has the following properties.Spellcasting Focus. While holding the hat, you can use it as a Spellcasting Focus for your Wizard spells. Any spell you cast using the hat gains a special Somatic component: you must reach into the hat and \"pull\" the spell out of it.Unknown Spell. While holding the hat, you can try to cast a level 1+ spell you don't know. The spell must be on the Wizard spell list, it must be of a level you...",
       "name": "Hat of Many Spells",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Equipment",
@@ -6894,7 +6894,7 @@
       "description": "Wondrous Item, Very Rare (Requires Attunement)This helm is set with 1d10 # Diamonds diamonds, 2d10 # Rubies rubies, 3d10 # Fire Opals fire opals, and 4d10 # Opals opals. Any gem pried from the helm crumbles to dust. When all the gems are removed or destroyed, the helm loses its magic.You gain the following benefits while wearing the helm.Diamond Light. As long as it has at least one diamond, the helm emits a 30-foot Emanation. When at least one Undead is within tha...",
       "name": "Helm of Brilliance",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Light Armor",
@@ -7132,7 +7132,7 @@
       "description": "Wondrous Item, Very RareThese horseshoes come in a set of four. As a Magic action, you can touch one of the horseshoes to the hoof of a horse or similar creature, whereupon the horseshoe affixes itself to the hoof. Removing a horseshoe also takes a Magic action.While all four shoes are affixed to the hooves of a horse or similar creature, they allow the creature to move normally while floating 4 inches above a surface. This effect means the creature can cross or stand above nonsolid or unstab...",
       "name": "Horseshoes of a Zephyr",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Equipment",
@@ -7271,7 +7271,7 @@
       "description": "See: Ioun StoneWhen you take a Magic action to toss an Ioun Stone into the air, the stone orbits your head at a distance of 1d3 feet, conferring its benefit to you while doing so. You can have up to three Ioun Stones orbiting your head at the same time.As a Utilize action, you can seize and stow any number of Ioun Stones orbiting your head. If your Attunement to an Ioun Stone ends while it's orbiting your head, the stone falls as thou...",
       "name": "Ioun Stone of Absorption",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Equipment",
@@ -7289,7 +7289,7 @@
       "description": "See: Ioun StoneWhen you take a Magic action to toss an Ioun Stone into the air, the stone orbits your head at a distance of 1d3 feet, conferring its benefit to you while doing so. You can have up to three Ioun Stones orbiting your head at the same time.As a Utilize action, you can seize and stow any number of Ioun Stones orbiting your head. If your Attunement to an Ioun Stone ends while it's orbiting your head, the stone falls as thou...",
       "name": "Ioun Stone of Agility",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Equipment",
@@ -7325,7 +7325,7 @@
       "description": "See: Ioun StoneWhen you take a Magic action to toss an Ioun Stone into the air, the stone orbits your head at a distance of 1d3 feet, conferring its benefit to you while doing so. You can have up to three Ioun Stones orbiting your head at the same time.As a Utilize action, you can seize and stow any number of Ioun Stones orbiting your head. If your Attunement to an Ioun Stone ends while it's orbiting your head, the stone falls as thou...",
       "name": "Ioun Stone of Fortitude",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Equipment",
@@ -7361,7 +7361,7 @@
       "description": "See: Ioun StoneWhen you take a Magic action to toss an Ioun Stone into the air, the stone orbits your head at a distance of 1d3 feet, conferring its benefit to you while doing so. You can have up to three Ioun Stones orbiting your head at the same time.As a Utilize action, you can seize and stow any number of Ioun Stones orbiting your head. If your Attunement to an Ioun Stone ends while it's orbiting your head, the stone falls as thou...",
       "name": "Ioun Stone of Insight",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Equipment",
@@ -7379,7 +7379,7 @@
       "description": "See: Ioun StoneWhen you take a Magic action to toss an Ioun Stone into the air, the stone orbits your head at a distance of 1d3 feet, conferring its benefit to you while doing so. You can have up to three Ioun Stones orbiting your head at the same time.As a Utilize action, you can seize and stow any number of Ioun Stones orbiting your head. If your Attunement to an Ioun Stone ends while it's orbiting your head, the stone falls as thou...",
       "name": "Ioun Stone of Intellect",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Equipment",
@@ -7397,7 +7397,7 @@
       "description": "See: Ioun StoneWhen you take a Magic action to toss an Ioun Stone into the air, the stone orbits your head at a distance of 1d3 feet, conferring its benefit to you while doing so. You can have up to three Ioun Stones orbiting your head at the same time.As a Utilize action, you can seize and stow any number of Ioun Stones orbiting your head. If your Attunement to an Ioun Stone ends while it's orbiting your head, the stone falls as thou...",
       "name": "Ioun Stone of Leadership",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Equipment",
@@ -7487,7 +7487,7 @@
       "description": "See: Ioun StoneWhen you take a Magic action to toss an Ioun Stone into the air, the stone orbits your head at a distance of 1d3 feet, conferring its benefit to you while doing so. You can have up to three Ioun Stones orbiting your head at the same time.As a Utilize action, you can seize and stow any number of Ioun Stones orbiting your head. If your Attunement to an Ioun Stone ends while it's orbiting your head, the stone falls as thou...",
       "name": "Ioun Stone of Strength",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Equipment",
@@ -8186,7 +8186,7 @@
       "description": "Wondrous Item, Very RareThis book contains health and nutrition tips, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Constitution increases by 2, to a maximum of 30. The manual then loses its magic but regains it in a century.Foundry NoteThis item includes 48 max uses for tracking hours read.The Read activity includes a scaling value that lets you enter the amount of hours you've rea...",
       "name": "Manual of Bodily Health",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Equipment",
@@ -8204,7 +8204,7 @@
       "description": "Wondrous Item, Very RareThis book describes fitness exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Strength increases by 2, to a maximum of 30. The manual then loses its magic but regains it in a century.Foundry NoteThis item includes 48 max uses for tracking hours read.The Read activity includes a scaling value that lets you enter the amount of hours you've read. Once you...",
       "name": "Manual of Gainful Exercise",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Equipment",
@@ -8222,7 +8222,7 @@
       "description": "Wondrous Item, Very RareThis tome contains information and incantations necessary to make a particular type of golem. The DM chooses the type or determines it randomly by rolling on the accompanying table. To decipher and use the manual, you must be a spellcaster with at least two level 5 spell slots. A creature that can't use a Manual of Golems and attempts to read it takes 6d6 psychic damage damage.To create a golem, you must spend the time shown on the table, working without inte...",
       "name": "Manual of Golems",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Equipment",
@@ -8240,7 +8240,7 @@
       "description": "Wondrous Item, Very RareThis book contains coordination and balance exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Dexterity increases by 2, to a maximum of 30. The manual then loses its magic but regains it in a century.Foundry NoteThis item includes 48 max uses for tracking hours read.The Read activity includes a scaling value that lets you enter the amount of hours you'...",
       "name": "Manual of Quickness of Action",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Equipment",
@@ -8308,7 +8308,7 @@
       "description": "Wondrous Item, Very RareThis fine wooden box contains 1d4 pots of pigment and a brush (weighing 1 pound in total).Using the brush and expending 1 pot of pigment, you can paint any number of three-dimensional objects and terrain features (such as walls, doors, trees, flowers, weapons, webs, and pits), provided these elements are all confined to a 20-foot Cube. The effort takes 10 minutes (regardless of the number of elements you create), during which time you must remain in the Cube, and requi...",
       "name": "Marvelous Pigments",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Equipment",
@@ -8429,7 +8429,7 @@
       "description": "Wondrous Item, Very RareWhen this 4-foot-tall, 2-foot-wide mirror is viewed indirectly, its surface shows faint images of creatures. The mirror weighs 50 pounds, and it has AC 11, HP 10, Immunity to Poison and Psychic damage, and Vulnerability to Bludgeoning damage. It shatters and is destroyed when reduced to 0 Hit Points.If the mirror is hanging on a vertical surface and you are within 5 feet of it, you can take a Magic action and use a command word to activate it. It remains activated unti...",
       "name": "Mirror of Life Trapping",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Equipment",
@@ -8639,7 +8639,7 @@
       "description": "Weapon (Any Simple or Martial), Very Rare (Requires Attunement)You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.Life Stealing. The weapon has 1d8 + 1 charges. When you attack a creature that has fewer than 100 Hit Points with this weapon and roll a 20 on the d20 for the attack roll, the creature must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body. Constructs and Undead succeed on the sav...",
       "name": "Nine Lives Stealer",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Weapon",
@@ -8657,7 +8657,7 @@
       "description": "Weapon (Longbow or Shortbow), Very Rare (Requires Attunement)When you nock an arrow on this bow, it whispers in Elvish, \"Swift defeat to my enemies.\" When you use this weapon to make a ranged attack, you can utter or sign the following command words: \"Swift death to you who have wronged me.\" The target of your attack becomes your sworn enemy until it dies or until dawn 7 days ...",
       "name": "Oathbow",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Weapon",
@@ -8675,7 +8675,7 @@
       "description": "See Figurine of Wondrous PowerThis polished obsidian horse can become a Nightmare for up to 24 hours. The nightmare fights only to defend itself. Once it has been used, it can't be used again until 5 days have passed.The figurine has a 1d10cs1{10 percent chance} each time you use it to ignore your orders, including a command to revert to figurine form. If you mount the ni...",
       "name": "Obsidian Steed",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Equipment",
@@ -8727,7 +8727,7 @@
       "description": "Potion, Very RareOne vial of this oil can coat one Melee weapon or twenty pieces of ammunition, but only ammunition and Melee weapons that are nonmagical and deal Slashing or Piercing damage are affected. Applying the oil takes 1 minute, after which the oil magically seeps into whatever it coats, turning the coated weapon into a +3 Weapon or the coated ammunition into +3 Ammunition.This clear, gelatinous oil sparkles with tiny, ultrathin silver shards.",
       "name": "Oil of Sharpness",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Potion",
@@ -9346,7 +9346,7 @@
       "description": "Potion, Very RareWhen you drink this potion, you gain a Fly Speed equal to your Speed for 1 hour and can hover. If you're in the air when the potion wears off, you fall unless you have some other means of staying aloft.This potion's clear liquid floats at the top of its container and has cloudy white impurities drifting in it.",
       "name": "Potion of Flying",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Potion",
@@ -9382,7 +9382,7 @@
       "description": "Potion, Very RareWhen you drink this potion, your Strength score changes for 1 hour to 27. The type of giant determines the score. The potion has no effect on you if your Strength is equal to or greater than that score.This potion's transparent liquid has floating in it a sliver of light resembling a giant's fingernail.",
       "name": "Potion of Giant Strength (Cloud)",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Potion",
@@ -9562,7 +9562,7 @@
       "description": "Potion, Very RareYou regain 10d4 + 20 Hit Points when you drink this potion.Whatever its potency, the potion's red liquid glimmers when agitated.",
       "name": "Potion of Healing (Supreme)",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Potion",
@@ -9654,7 +9654,7 @@
       "description": "Potion, Very RareWhen you drink this potion, your physical age is reduced by 1d6 + 6 years, to a minimum of 13 years. Each time you subsequently drink a Potion of Longevity, there is 10 percent cumulative chance that you instead age by 1d6 + 6 years.Suspended in this amber liquid is a tiny heart that, against all reason, is still beating. These ingredients vanish when the potion is opened.",
       "name": "Potion of Longevity",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Potion",
@@ -9726,7 +9726,7 @@
       "description": "Potion, Very RareWhen you drink this potion, you gain the effect of the Haste spell for 1 minute (no Concentration required) without suffering the wave of lethargy that typically occurs when the effect ends.This potion's yellow fluid is streaked with black and swirls on its own.",
       "name": "Potion of Speed",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Potion",
@@ -9744,7 +9744,7 @@
       "description": "Potion, Very RareWhen you drink this potion, it removes any exhaustion levels you have and ends the poisoned condition on you. For the next 24 hours, you regain the maximum number of Hit Points for any Hit Point Die you spend.This potion's crimson liquid regularly pulses with dull light, calling to mind a heartbeat.Foundry NoteThe Full of Vitality Active Effect can be used for tracking.",
       "name": "Potion of Vitality",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Potion",
@@ -9880,7 +9880,7 @@
       "description": "Weapon (Quarterstaff), Very Rare (Requires Attunement)You have a +2 bonus to attack rolls and damage rolls made with this magic weapon.While holding this weapon, you can cause it to emit green Dim Light out to 10 feet, either as a Bonus Action or after you roll Initiative, or you can extinguish the light as a Bonus Action.While holding this weapon, you can take a Bonus Action to alter its form, turning it into a 6-inch rod (for ease o...",
       "name": "Quarterstaff of the Acrobat",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Simple Melee Weapon",
@@ -10215,7 +10215,7 @@
       "description": "Ring, Very Rare (Requires Attunement)While wearing this ring, you regain 1d6 Hit Points every 10 minutes if you have at least 1 Hit Point. If you lose a body part, the ring causes the missing part to regrow and return to full functionality after 1d6 + 1 days if you have at least 1 Hit Point the whole time.Foundry NoteThe Heal activity allows you to enter the number of 10 minute increments that have passed and will automatically scale the healing formula. For example, if it's been an ho...",
       "name": "Ring of Regeneration",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Equipment",
@@ -10251,7 +10251,7 @@
       "description": "Ring, Very Rare (Requires Attunement)You can cast Dancing Lights or Light from the ring.The ring has 6 charges and regains 1d6 expended charges daily at dawn. You can expend its charges to use the properties below.Faerie Fire. You can expend 1 charge to cast Faerie Fire from the ring.Lightning Spheres. You can expend 2 charges as a Magic action to create up to four 3-foot-diameter spheres of lightning.Each sphere appears in an unoccupied...",
       "name": "Ring of Shooting Stars",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Equipment",
@@ -10323,7 +10323,7 @@
       "description": "Ring, Very Rare (Requires Attunement)While wearing this ring, you can cast Telekinesis from it.",
       "name": "Ring of Telekinesis",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Equipment",
@@ -10465,7 +10465,7 @@
       "description": "Wondrous Item, Very Rare (Requires Attunement)This robe has 3 charges, and it regains 1d3 expended charges daily at dawn. While you wear it, you can take a Magic action and expend 1 charge to cause the garment to display a shifting pattern of dazzling hues until the end of your next turn.During this time, the robe sheds Bright Light in a 30-foot radius and Dim Light for an additional 30 feet, and creatures that can see you have Disadvantage on attack rolls against you. Any creature in the Bri...",
       "name": "Robe of Scintillating Colors",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Equipment",
@@ -10483,7 +10483,7 @@
       "description": "Wondrous Item, Very Rare (Requires Attunement)This black or dark-blue robe is embroidered with small white or silver stars. You gain a +1 bonus to saving throws while you wear it.Six stars, located on the robe's upper-front portion, are particularly large. While wearing this robe, you can take a Magic action to remove one of the stars and expend it to cast the level 5 version of Magic Missile. Daily at dusk, 1d6 removed stars reappear on...",
       "name": "Robe of Stars",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Equipment",
@@ -10553,7 +10553,7 @@
       "description": "Rod, Very Rare (Requires Attunement)While holding this rod, you can take a Reaction to absorb a spell that is targeting only you and doesn't create an area of effect. The absorbed spell's effect is canceled, and the spell's energy—not the spell itself—is stored in the rod. The energy has the same level as the spell when it was cast. A canceled spell dissipates with no effect, and any resources used to cast it are wasted. The rod can absorb and store up to 50 levels of energy over the course o...",
       "name": "Rod of Absorption",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Equipment",
@@ -10572,7 +10572,7 @@
       "description": "Rod, Very Rare (Requires Attunement)This rod has the following properties.Alertness. While holding the rod, you have Advantage on Wisdom (Perception) checks and on Initiative rolls.Spells. While holding the rod, you can cast the following spells from it:Detect Evil and GoodDetect MagicDetect Poison and Disease...",
       "name": "Rod of Alertness",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Equipment",
@@ -10648,7 +10648,7 @@
       "description": "Rod, Very RareWhile holding this rod, you can take a Magic action to activate it. The rod then instantly transports you and up to 199 other willing creatures you can see to a demiplane. You choose the form the demiplane takes. It could be a tranquil garden, a cheery tavern, an immense palace, a tropical island, a fantastic carnival, or whatever else you can imagine. Regardless of its nature, the demiplane contains enough water and food to sustain its visitors, and the demiplane's environment ...",
       "name": "Rod of Security",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Equipment",
@@ -10875,7 +10875,7 @@
       "description": "Weapon (Scimitar), Very Rare (Requires Attunement)You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon. In addition, you can make one attack with it as a Bonus Action on each of your turns.",
       "name": "Scimitar of Speed",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Martial Melee Weapon",
@@ -11054,7 +11054,7 @@
       "description": "Armor (Shield), Very Rare (Requires Attunement)While holding this Shield, you have a +2 bonus to Armor Class. This bonus is in addition to the Shield's normal bonus to AC.The Shield has the following additional properties that you can use while holding it.Forceful Bash. When you take the Attack action, you can make one of the attack rolls using the Shield against a target within 5 feet of yourself. Apply your Proficiency Bonus and Strength modifier to the attack roll. On a hit, the Shield dea...",
       "name": "Shield of the Cavalier",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Shield",
@@ -11427,7 +11427,7 @@
       "description": "",
       "name": "Spell Scroll, 6th Level",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Scroll",
@@ -11445,7 +11445,7 @@
       "description": "",
       "name": "Spell Scroll, 7th Level",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Scroll",
@@ -11463,7 +11463,7 @@
       "description": "",
       "name": "Spell Scroll, 8th Level",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Scroll",
@@ -11551,7 +11551,7 @@
       "description": "Armor (Shield), Very Rare (Requires Attunement)While holding this Shield, you have Advantage on saving throws against spells and other magical effects, and spell attack rolls have Disadvantage against you.",
       "name": "Spellguard Shield",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Shield",
@@ -11723,7 +11723,7 @@
       "description": "Staff, Very Rare (Requires Attunement by a Druid, Sorcerer, Warlock, or Wizard)You have Resistance to Fire damage while you hold this staff.Spells. The staff has 10 charges. While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell.SpellCharge Costphbspl $0urning $0an{Burning ...",
       "name": "Staff of Fire",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Simple Melee Weapon",
@@ -11742,7 +11742,7 @@
       "description": "Staff, Very Rare (Requires Attunement by a Druid, Sorcerer, Warlock, or Wizard)You have Resistance to Cold damage while you hold this staff.Spells. The staff has 10 charges. While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell.SpellCharge Costphbspl $0oneof $0old{Cone of ...",
       "name": "Staff of Frost",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Simple Melee Weapon",
@@ -11780,7 +11780,7 @@
       "description": "Staff, Very Rare (Requires Attunement by a Sorcerer, Warlock, or Wizard)This staff has 20 charges and can be wielded as a magic Quarterstaff that grants a +2 bonus to attack rolls and damage rolls made with it. While holding it, you gain a +2 bonus to Armor Class, saving throws, and spell attack rolls.Spells. While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC. The table ind...",
       "name": "Staff of Power",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Simple Melee Weapon",
@@ -11799,7 +11799,7 @@
       "description": "Staff, Very Rare (Requires Attunement)This staff can be wielded as a magic Quarterstaff that grants a +3 bonus to attack rolls and damage rolls made with it.The staff has 10 charges. When you hit with a melee attack using it, you can expend up to 3 charges. For each charge you expend, the target takes an extra 1d6 Force damage.Regaining Charges. The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, r...",
       "name": "Staff of Striking",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Simple Melee Weapon",
@@ -11893,7 +11893,7 @@
       "description": "Staff, Very Rare (Requires Attunement)This staff can be wielded as a magic Quarterstaff that grants a +2 bonus to attack rolls and damage rolls made with it. It also has the following additional properties. Once one of these properties is used, it can't be used again until the next dawn.Lightning. When you hit with a melee attack using the staff, you can cause the target to take an extra 2d6 Lightning damage (no action required).Thund...",
       "name": "Staff of Thunder and Lightning",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Simple Melee Weapon",
@@ -12073,7 +12073,7 @@
       "description": "Weapon (Glaive, Greatsword, Longsword, or Scimitar), Very Rare (Requires Attunement)When you attack an object with this magic weapon and hit, maximize your weapon damage dice against the target.When you attack a creature with this weapon and roll a 20 on the d2...",
       "name": "Sword of Sharpness",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Martial Melee Weapon",
@@ -12266,7 +12266,7 @@
       "description": "Weapon (Greatclub), Very Rare (Requires Attunement)While you are attuned to this magic weapon, your Strength is 20 unless your Strength is already equal to or greater than that score. The weapon deals an extra 1d8 Thunder damage to any creature it hits and an extra 3d8 Thunder damage to objects it hits that aren't being worn or carried.The weapon has the following additional properties.Clap of Thunder. As a Magic action, you can strik...",
       "name": "Thunderous Greatclub",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Simple Melee Weapon",
@@ -12317,7 +12317,7 @@
       "description": "Wondrous Item, Very RareThis book contains memory and logic exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Intelligence increases by 2, to a maximum of 30. The manual then loses its magic but regains it in a century.Foundry NoteThis item includes 48 max uses for tracking hours read.The Read activity includes a scaling value that lets you enter the amount of hours you've re...",
       "name": "Tome of Clear Thought",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Equipment",
@@ -12335,7 +12335,7 @@
       "description": "Wondrous Item, Very RareThis book contains guidelines for influencing and charming others, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Charisma increases by 2, to a maximum of 30. The manual then loses its magic but regains it in a century.Foundry NoteThis item includes 48 max uses for tracking hours read.The Read activity includes a scaling value that lets you enter the amount of...",
       "name": "Tome of Leadership and Influence",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Equipment",
@@ -12353,7 +12353,7 @@
       "description": "Wondrous Item, Very RareThis book contains intuition and insight exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Wisdom increases by 2, to a maximum of 30. The manual then loses its magic, but regains it in a century.Foundry NoteThis item includes 48 max uses for tracking hours read.The Read activity includes a scaling value that lets you enter the amount of hours you've re...",
       "name": "Tome of Understanding",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": false,
         "origin": "srd",
         "item_type": "Equipment",
@@ -12730,7 +12730,7 @@
       "description": "Wand, Very Rare (Requires Attunement by a Spellcaster)This wand has 7 charges. While holding it, you can expend 1 charge to cast Polymorph (save DC 15) from it.Regaining Charges. The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll 1d20. On a 1, the wand crumbles into ashes and is destroyed.",
       "name": "Wand of Polymorph",
       "properties": {
-        "rarity": "Very Rare",
+        "rarity": "Veryrare",
         "attunement": true,
         "origin": "srd",
         "item_type": "Equipment",
@@ -13237,7 +13237,7 @@
       "properties": {
         "rarity": "Very Rare",
         "attunement": false,
-        "origin": "technoarcane",
+        "origin": "techno_arcane",
         "item_type": "Consumable",
         "tier": 2,
         "price": "1800",
