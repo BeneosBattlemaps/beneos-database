@@ -158,8 +158,8 @@
     },
     "battlemap": {
       "type": {
-        "Battlemap": {"en":"Battlemap","de":"Kampfkarte","fr":"Carte de combat","pt-BR":"Mapa de batalha"},
-        "Scenery": {"en":"Scenery","de":"Szenerie","fr":"Décor","pt-BR":"Cenário"}
+        "Battlemap": {"en":"Battlemap","de":"Battlemap","fr":"Battlemap","pt-BR":"Battlemap"},
+        "Scenery": {"en":"Scenery","de":"Scenery","fr":"Scenery","pt-BR":"Scenery"}
       },
       "brightness": {
         "Bright": {"en":"Bright","de":"Hell","fr":"Lumineux","pt-BR":"Claro"},
@@ -280,7 +280,7 @@
         "Gargantuan": {"en":"Gargantuan","de":"Gigantisch","fr":"Gigantesque","pt-BR":"Imenso"}
       },
       "source": {
-        "Loyalty Token": {"en":"Loyalty Token","de":"Treue-Token","fr":"Jeton de fidélité","pt-BR":"Token de Fidelidade"},
+        "Loyalty Token": {"en":"Loyalty Token","de":"Treue-Bonus","fr":"Jeton de fidélité","pt-BR":"Token de Fidelidade"},
         "Patreon": {"en":"Patreon","de":"Patreon","fr":"Patreon","pt-BR":"Patreon"},
         "SRD": {"en":"SRD","de":"SRD","fr":"SRD","pt-BR":"SRD"},
         "Webshop": {"en":"Webshop","de":"Webshop","fr":"Boutique en ligne","pt-BR":"Loja online"}
