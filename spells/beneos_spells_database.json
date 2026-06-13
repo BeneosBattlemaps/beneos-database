@@ -10408,7 +10408,104 @@
           "M"
         ],
         "icon": "0129_hearty_brew-icon.webp"
-
+      }
+    },
+    "0131_minor_mimicry": {
+      "key": "0131_minor_mimicry",
+      "name": "Minor Mimicry",
+      "description": "After studying a humanoid creature, you can imitate its voice and mannerisms.",
+      "properties": {
+        "level": "1",
+        "school": "Illusion",
+        "casting_time": "1 Minute",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Bard",
+          "Sorcerer"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0131_minor_mimicry-icon.webp",
+        "shop_pack": ""
+      }
+    },
+    "0132_depose_the_dead": {
+      "key": "0132_depose_the_dead",
+      "name": "Depose the Dead",
+      "description": "Force a dead creature to answer your questions truthfully.",
+      "properties": {
+        "level": "5",
+        "school": "Necromancy",
+        "casting_time": "1 Minute",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Bard",
+          "Cleric",
+          "Paladin"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0132_depose_the_dead-icon.webp",
+        "shop_pack": ""
+      }
+    },
+    "0133_elongate": {
+      "key": "0133_elongate",
+      "name": "Elongate",
+      "description": "Your digit or arm stretches to thrice its length, granting reach and dexterity.",
+      "properties": {
+        "level": "0",
+        "school": "Transmutation",
+        "casting_time": "Bonus Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Bard",
+          "Druid",
+          "Sorcerer",
+          "Warlock",
+          "Wizard"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0133_elongate-icon.webp",
+        "shop_pack": ""
+      }
+    },
+    "0135_delvers_lantern": {
+      "key": "0135_delvers_lantern",
+      "name": "Delver's Lantern",
+      "description": "Sheds light only you perceive, helpful to detect traps and rummage through ruins.",
+      "properties": {
+        "level": "1",
+        "school": "Abjuration",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Artificer",
+          "Bard",
+          "Ranger"
+        ],
+        "components": [
+          "V",
+          "S",
+          "M"
+        ],
+        "icon": "0135_delvers_lantern-icon.webp",
+        "shop_pack": ""
       }
     }
   }
