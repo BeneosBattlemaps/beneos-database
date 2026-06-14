@@ -8414,7 +8414,7 @@
                                                                           }
                                                        },
                     "179-rime_wyvern":  {
-                                            "description":  "Powerful Wyverns imbued with magical frost, harrowing snow storms following in their wake.",
+                                            "description":  "White Dragons adore the hunt, pursuing feral delight in seeking out and overpowering greater and greater prey. Powerful White Dragons are able to infuse Wyverns with a portion of their essence, bestowing a semblance of their master’s elemental affinity and draconic might upon them. These Rime Wyverns serve as heralds and hounds, often initiating a hunt and harrowing the target relentlessly, before their master appears and delivers the finishing blow. If the dragon has devotees or subordinates, a Rime Wyvern might lead a portion of these forces into battle or serve as the great dragon’s emissary, speaking on their behalf.",
                                             "name":  " Rime Wyvern",
                                             "properties":  {
                                                                "free_content":  false,
@@ -8524,7 +8524,7 @@
                                                                }
                                             },
                     "144-tactician":  {
-                                          "description":  "Strong base template for any tactically versed NPC, has diverse set of Support abilities to influence an encounter.",
+                                          "description":  "No strategy survives first enemy contact, a statement that is tried and tested. Those taking to the field themselves to make sure that a mind equal to those devising strategy will see it adapted to the flow of the encounter are strategists no longer, but Tacticians. Tutored in all manners of practical warfare by military academies or veterans, these Tacticians are effective force multipliers on the battlefield, assessing threats, relaying immediate orders and acting as the tactical lynchpin for small to medium-scale fighting forces.",
                                           "name":  "Tactician",
                                           "properties":  {
                                                              "free_content":  true,
@@ -8563,7 +8563,7 @@
                                                                       ],
                                                              "videourl":  "https://youtu.be/fpjN3EN2gjc?si=0Ct8uKdXVEAkLtRj",
                                                              "nb_variants":  1,
-                                                             "shortdesc":  "Strong base template for any tactically versed NPC, has diverse set of Support...",
+                                                             "shortdesc":  "Strong base template for any tactically versed NPC, has diverse set of Support abilities to influence an encounter.",
                                                              "faction":  [
                                                                              "City Guard"
                                                                          ],
@@ -8578,7 +8578,7 @@
                                       },
                     "000-srd_troll":  {
                                           "name":  "Troll",
-                                          "description":  "Its voracious hunger matched only by its uncanny healing.",
+                                          "description":  "Use War Troll instead.",
                                           "properties":  {
                                                              "free_content":  false,
                                                              "size":  "Large",
@@ -8618,7 +8618,7 @@
                                                                       ],
                                                              "nb_variants":  1,
                                                              "thumbnail":  "000-srd_troll-1-db.webp",
-                                                             "shortdesc":  "Its voracious hunger matched only by its uncanny healing.",
+                                                             "shortdesc":  "Use War Troll instead.",
                                                              "faction":  [
 
                                                                          ],
@@ -8681,7 +8681,7 @@
                                                                   ],
                                                          "videourl":  "https://youtu.be/zB4-ZgQPqrY",
                                                          "nb_variants":  1,
-                                                         "shortdesc":  "The Hydra is an ancient nightmare given form, coiling serpent heads, their curved fangs...",
+                                                         "shortdesc":  "Powerful and complex monster with each head acting independently.",
                                                          "faction":  [
 
                                                                      ],
@@ -8747,7 +8747,7 @@
                                              },
                     "000-srd_vampire_familiar":  {
                                                      "name":  "Vampire Familiar",
-                                                     "description":  "Serves its vampire master as both spy and predator.",
+                                                     "description":  "Serves its vampire master as both spy and procurer of nourishment",
                                                      "properties":  {
                                                                         "free_content":  false,
                                                                         "size":  "Medium",
@@ -8780,7 +8780,7 @@
                                                                                  ],
                                                                         "nb_variants":  1,
                                                                         "thumbnail":  "000-srd_vampire_familiar-1-db.webp",
-                                                                        "shortdesc":  "Serves its vampire master as both spy and predator.",
+                                                                        "shortdesc":  "Serves its vampire master as both spy and procurer of nourishment.",
                                                                         "faction":  [
 
                                                                                     ],
@@ -8795,7 +8795,7 @@
                                                  },
                     "000-srd_giant_bat":  {
                                               "name":  "Giant Bat",
-                                              "description":  "Its wings span wide as it swoops silently through darkness.",
+                                              "description":  "Bat, but big.",
                                               "properties":  {
                                                                  "free_content":  false,
                                                                  "size":  "Large",
@@ -8830,7 +8830,7 @@
                                                                           ],
                                                                  "nb_variants":  1,
                                                                  "thumbnail":  "000-srd_giant_bat-1-db.webp",
-                                                                 "shortdesc":  "Its wings span wide as it swoops silently through darkness.",
+                                                                 "shortdesc":  "Bat, but big.",
                                                                  "faction":  [
 
                                                                              ],
@@ -8889,7 +8889,7 @@
                                                                         ],
                                                                "videourl":  "https://youtu.be/Wq-m7bl75Rs",
                                                                "nb_variants":  3,
-                                                               "shortdesc":  "In stark contrast to their domineering and tyrannical brethren, these travel sized...",
+                                                               "shortdesc":  "Jovial and amicable pocket-sized dragon that loves playing pranks.",
                                                                "faction":  [
 
                                                                            ],
@@ -8904,7 +8904,7 @@
                                         },
                     "000-srd_drow":  {
                                          "name":  "Drow",
-                                         "description":  "Strikes swiftly from the shadows with poisoned blade and spellcasting.",
+                                         "description":  "Dark elf relying on subterfuge and poison.",
                                          "properties":  {
                                                             "free_content":  false,
                                                             "size":  "Medium",
@@ -8936,7 +8936,7 @@
                                                                      ],
                                                             "nb_variants":  1,
                                                             "thumbnail":  "000-srd_drow-1-db.webp",
-                                                            "shortdesc":  "Strikes swiftly from the shadows with poisoned blade and spellcasting.",
+                                                            "shortdesc":  "Dark elf relying on subterfuge and poison.",
                                                             "faction":  [
 
                                                                         ],
@@ -8950,7 +8950,7 @@
                                                         }
                                      },
                     "000-month_20_shade_tyrant":  {
-                                                      "description":  "Fallen knights, oathbroken and consumed by shadows, return as dreaded Shade Tyrants.",
+                                                      "description":  "Shade Tyrants once were powerful knights who, after breaking their chivalrous oaths, instead of embracing just punishment or seeking penance, fled and were swallowed by the shadows of anonymity and despair, their names, deeds and crest erased from history. Some of these knights are debauched enough to gain mastery over these shadows; they return as Shade Tyrants, now utterly devoid of honor or mercy, intent only on conquering, destroying, and subjugating, commanding the very powers of darkness that caused their downfall.",
                                                       "name":  "Shade Tyrant",
                                                       "properties":  {
                                                                          "free_content":  false,
@@ -8990,7 +8990,7 @@
                                                                                   ],
                                                                          "videourl":  "https://youtu.be/e0lnDcV-5L0",
                                                                          "nb_variants":  2,
-                                                                         "shortdesc":  "Fallen knights, oathbroken and consumed by shadows, return as dreaded Shade Tyrants.",
+                                                                         "shortdesc":  "Steals shadows and shapes them into weapons and slaves.",
                                                                          "faction":  [
                                                                                          "Knights of the Realm"
                                                                                      ],
@@ -9004,7 +9004,7 @@
                                                                      }
                                                   },
                     "146-bard":  {
-                                     "description":  "Great template for Bard NPC, has creative set of abilities to perfectly embody the archetype.",
+                                     "description":  "Few things are as impactful as music, mere sound touching creatures’ souls, inspiring them, soothing or even frightening them. Within music itself resides an inherent power that can act as a catalyst, unleashing both subtle glamours or earth shattering spells. Not everyone can actively harness this special magic, but those who can, be it through the power of their genius, a grand personality or a deep understanding of the intricacies of the acoustic arcana, possess great power, whether in social situations or on the battlefield.",
                                      "name":  "Bard",
                                      "properties":  {
                                                         "free_content":  false,
@@ -9049,7 +9049,7 @@
                                                                  ],
                                                         "videourl":  "https://youtu.be/OhCqlIvInEc?si=kP0js4C2yZcHLuTf",
                                                         "nb_variants":  4,
-                                                        "shortdesc":  "Great template for Bard NPC, has creative set of abilities to perfectly embody the...",
+                                                        "shortdesc":  "Great template for Bard NPC, has creative set of abilities to perfectly embody the archetype.",
                                                         "faction":  [
 
                                                                     ],
@@ -9103,7 +9103,7 @@
                                                                                   ],
                                                                          "videourl":  "https://youtu.be/1bHvK0Kftvg?si=AVXfCrrA71cjkIRm",
                                                                          "nb_variants":  2,
-                                                                         "shortdesc":  "Life at sea is perilous and offers myriad ways to meet an untimely demise be it...",
+                                                                         "shortdesc":  "Executes daredevil maneuvers to enjoy unlife to the fullest.",
                                                                          "faction":  [
                                                                                          "Bleak Reef"
                                                                                      ],
@@ -9167,7 +9167,7 @@
                                             },
                     "000-srd_drider":  {
                                            "name":  "Drider",
-                                           "description":  "Weaves webs in the Underdark, ambushing foes with venomous strikes.",
+                                           "description":  "Cursed member of drow society, transformed by his cruel mother's touch.",
                                            "properties":  {
                                                               "free_content":  false,
                                                               "size":  "Large",
@@ -9202,7 +9202,7 @@
                                                                        ],
                                                               "nb_variants":  1,
                                                               "thumbnail":  "000-srd_drider-1-db.webp",
-                                                              "shortdesc":  "Weaves webs in the Underdark, ambushing foes with venomous strikes.",
+                                                              "shortdesc":  "Cursed member of drow society, transformed by his cruel mother's touch.",
                                                               "faction":  [
 
                                                                           ],
@@ -9256,7 +9256,7 @@
                                                                                ],
                                                                       "nb_variants":  1,
                                                                       "thumbnail":  "000-srd_goblin_warrior-1-db.webp",
-                                                                      "shortdesc":  "Suspiciously unwilling to divulge what exactly makes him a warrior, rather than just a...",
+                                                                      "shortdesc":  "Suspiciously unwilling to divulge what exactly makes him a warrior, rather than just a minion.",
                                                                       "faction":  [
 
                                                                                   ],
@@ -9270,7 +9270,7 @@
                                                                   }
                                                },
                     "210-awakened_instruments":  {
-                                                     "description":  "Awakened musical instruments wield magical songs, often yearning for their own artistic freedom.",
+                                                     "description":  "What is left to say about mundane objects being imbued with a semblance of life? When this is done with musical instruments, it grants access to the inherent power of song—magic capable of weaving subtle glamours or unleashing earth-shattering spells. Constructs that can use magic themselves often become more independent over time, as if they are merely conduits for the forces coursing through them. It is not unusual for a magical instrument to eventually seek an artistic existence of its own, rather than remain enslaved to its original purpose.",
                                                      "name":  "Awakened Instruments",
                                                      "properties":  {
                                                                         "free_content":  false,
@@ -9309,7 +9309,7 @@
                                                                                  ],
                                                                         "videourl":  "https://youtu.be/38vwtlph9no",
                                                                         "nb_variants":  4,
-                                                                        "shortdesc":  "Awakened musical instruments wield magical songs, often yearning for their own artistic...",
+                                                                        "shortdesc":  "Awakened musical instruments wield magical songs, often yearning for their own artistic freedom.",
                                                                         "faction":  [
                                                                                         "Awakened Objects"
                                                                                     ],
@@ -9324,7 +9324,7 @@
                                                  },
                     "000-srd_air_elemental":  {
                                                   "name":  "Air Elemental",
-                                                  "description":  "A roaring vortex of wind and fury.",
+                                                  "description":  "A howling manifestation of elemental fury.",
                                                   "properties":  {
                                                                      "free_content":  false,
                                                                      "size":  "Large",
@@ -9361,7 +9361,7 @@
                                                                               ],
                                                                      "nb_variants":  1,
                                                                      "thumbnail":  "000-srd_air_elemental-1-db.webp",
-                                                                     "shortdesc":  "A roaring vortex of wind and fury.",
+                                                                     "shortdesc":  "A howling manifestation of elemental fury.",
                                                                      "faction":  [
 
                                                                                  ],
@@ -9476,7 +9476,7 @@
                                                   },
                     "000-srd_stone_golem":  {
                                                 "name":  "Stone Golem",
-                                                "description":  "A hulking construct of living rock.",
+                                                "description":  "Use Rock Golem instead.",
                                                 "properties":  {
                                                                    "free_content":  false,
                                                                    "size":  "Large",
@@ -9512,7 +9512,7 @@
                                                                             ],
                                                                    "nb_variants":  1,
                                                                    "thumbnail":  "000-srd_stone_golem-1-db.webp",
-                                                                   "shortdesc":  "A hulking construct of living rock.",
+                                                                   "shortdesc":  "Use Rock Golem instead.",
                                                                    "faction":  [
 
                                                                                ],
@@ -9526,7 +9526,7 @@
                                                                }
                                             },
                     "196-orc_chieftain":  {
-                                              "description":  "Actively seeks out strong opponents and becomes more powerful by defeating them in challenges.",
+                                              "description":  "Chieftains are an informal formation within the upper ranks of the Iron Fist, with a War Tyrant assembling promising warriors around him to act as both an honour guard and advisory council - as well as to keep both tabs on their conduct during combat and their ambitions in check. In the thick of it, Chieftains seek out strong opponents both to rip holes into the enemy formations by disposing of their leaders and to strengthen their own position within the Iron Fist’s hierarchy.",
                                               "name":  "Orc Chieftain",
                                               "properties":  {
                                                                  "free_content":  true,
@@ -9572,7 +9572,7 @@
                                                                           ],
                                                                  "videourl":  "https://youtu.be/ivlza_oof7a",
                                                                  "nb_variants":  1,
-                                                                 "shortdesc":  "Actively seeks out strong opponents and becomes more powerful by defeating them in...",
+                                                                 "shortdesc":  "Actively seeks out strong opponents and becomes more powerful by defeating them in challenges.",
                                                                  "faction":  [
                                                                                  "Iron Fists"
                                                                              ],
@@ -9587,7 +9587,7 @@
                                           },
                     "000-srd_conjured_fire_elemental":  {
                                                             "name":  "Conjured Fire Elemental",
-                                                            "description":  "Its fiery presence incinerates obstacles in its path.",
+                                                            "description":  "Use Fire Manifestation instead.",
                                                             "properties":  {
                                                                                "free_content":  false,
                                                                                "size":  "Large",
@@ -9621,7 +9621,7 @@
                                                                                         ],
                                                                                "nb_variants":  1,
                                                                                "thumbnail":  "000-srd_conjured_fire_elemental-1-db.webp",
-                                                                               "shortdesc":  "Its fiery presence incinerates obstacles in its path.",
+                                                                               "shortdesc":  "Use Fire Manifestation instead.",
                                                                                "faction":  [
 
                                                                                            ],
@@ -9774,7 +9774,7 @@
                                                                     ],
                                                            "videourl":  "https://www.youtube.com/watch?v=INKJw3Ha0tc",
                                                            "nb_variants":  1,
-                                                           "shortdesc":  "Not many a creature is as unjustly feared and detested as the Harpyia.",
+                                                           "shortdesc":  "Uses wind- and lightning-based abilities to defend its territory.",
                                                            "faction":  [
 
                                                                        ],
@@ -9886,7 +9886,7 @@
                                                                   }
                                                },
                     "162-brigand":  {
-                                        "description":  "Rugged armed peasants relying on creative ambush tactics to even the odds.",
+                                        "description":  "Brigands, cast out or withdrawn from society, have forged a new home within the harsh spaces between cities and villages. Gathered into loose bands, they seek refuge in castle ruins or caverns, from which they launch coordinated raids and ambushes. Despite their ragtag weaponry and lack of military experience, these outcasts are not to be trifled with, for the harsh frontiers forge hardened men and women, most of whom know there is no turning back for them.",
                                         "name":  "Brigand",
                                         "properties":  {
                                                            "free_content":  false,
@@ -9984,7 +9984,7 @@
                                                                      ],
                                                             "videourl":  "https://youtu.be/iLW-58Ya11w",
                                                             "nb_variants":  1,
-                                                            "shortdesc":  "Faceless are demons of murder, summoned by ritual and bound to a worldy anchor by its...",
+                                                            "shortdesc":  "Demonic assassin bound to a single target.",
                                                             "faction":  [
 
                                                                         ],
@@ -10048,7 +10048,7 @@
                                                                 }
                                              },
                     "164-rustblight_skeleton":  {
-                                                    "description":  "Ravaged by Ruinous energies, capable of destroying players' equipment.",
+                                                    "description":  "Rustblights rise from the ancient sites of long-forgotten battles. Clad in the remnants of corroded armor and wielding rust-eaten weapons, they are embodiments of ruin and decay. Born of rust and rot, they stalk places marked by death and decline, ruthlessly attacking all that lives, as flesh, wood, and steel alike crumble under their unfeeling assault.",
                                                     "name":  "Rustblight Skeleton",
                                                     "properties":  {
                                                                        "free_content":  false,
@@ -10090,7 +10090,7 @@
                                                                                 ],
                                                                        "videourl":  "https://youtu.be/n6hLF30zNtA?si=_TLuDmnT8IzKmj6I",
                                                                        "nb_variants":  3,
-                                                                       "shortdesc":  "Ravaged by Ruinous energies, capable of destroying players' equipment.",
+                                                                       "shortdesc":  "Ravaged by ruinous energies, capable of destroying players' equipment.",
                                                                        "faction":  [
 
                                                                                    ],
@@ -10105,7 +10105,7 @@
                                                 },
                     "000-srd_fiend_steed":  {
                                                 "name":  "Fiend Steed",
-                                                "description":  "Gallops across hellish plains.",
+                                                "description":  "Use Infernal Steed instead.",
                                                 "properties":  {
                                                                    "free_content":  false,
                                                                    "size":  "Large",
@@ -10138,7 +10138,7 @@
                                                                             ],
                                                                    "nb_variants":  1,
                                                                    "thumbnail":  "000-srd_fiend_steed-1-db.webp",
-                                                                   "shortdesc":  "Gallops across hellish plains.",
+                                                                   "shortdesc":  "Use Infernal Steed instead.",
                                                                    "faction":  [
 
                                                                                ],
@@ -10152,7 +10152,7 @@
                                                                }
                                             },
                     "137-cannonade_crawler":  {
-                                                  "description":  "Living ordnance capable of covering a wide area in heavy artillery bombardments.",
+                                                  "description":  "Cannonade Crawlers, colossal mega-arthopods renowned for their potent acid bombardments, possess a unique physiology fueled by arcane influences and distinctive biochemical compounds provided by their diet. They live a symbiotic lifestyle, traveling in clusters called regiments, and often engage in battles for other creatures in exchange for sustenance. This mutual relationship has raised questions about a possible feralization from a previously domesticated state. Typically, these agreements involve the Crawlers defending hives, dens, or even villages in exchange for food resources from their 'employers'. This strategic approach secures their survival while allowing them to utilize their specialized defense mechanisms as living artillery.",
                                                   "name":  "Cannonade Crawler",
                                                   "properties":  {
                                                                      "free_content":  false,
@@ -28562,7 +28562,7 @@
                                            },
                     "000-srd_giant_venomous_snake":  {
                                                          "name":  "Giant Venomous Snake",
-                                                         "description":  "Lurks in hiding, strikes fast, injects venom.",
+                                                         "description":  "Strikes fast, injects venom.",
                                                          "properties":  {
                                                                             "free_content":  false,
                                                                             "size":  "Medium",
@@ -28600,7 +28600,7 @@
                                                                                      ],
                                                                             "nb_variants":  1,
                                                                             "thumbnail":  "000-srd_giant_venomous_snake-1-db.webp",
-                                                                            "shortdesc":  "Lurks in hiding, strikes fast, injects venom.",
+                                                                            "shortdesc":  "Strikes fast, injects venom.",
                                                                             "faction":  [
 
                                                                                         ],
@@ -28926,7 +28926,7 @@
                                                                                 ],
                                                                        "nb_variants":  1,
                                                                        "thumbnail":  "000-srd_earth_elemental-1-db.webp",
-                                                                       "shortdesc":  "A towering colossus of rock and soil.",
+                                                                       "shortdesc":  "Use the Greater Earth Elemental instead.",
                                                                        "faction":  [
 
                                                                                    ],
@@ -29127,7 +29127,7 @@
                                                                            ],
                                                                   "videourl":  "https://youtu.be/Kv4Iy1BW7Qg",
                                                                   "nb_variants":  2,
-                                                                  "shortdesc":  "The Winter Empress is a fey creature, the regent of a frost-wreathed realm of eternal ice.",
+                                                                  "shortdesc":  "Wields powerful ice magic, draws strength from her crown and blade.",
                                                                   "faction":  [
 
                                                                               ],
@@ -29235,7 +29235,7 @@
                                                                                ],
                                                                       "videourl":  "https://youtu.be/rUq8gDMJkvg",
                                                                       "nb_variants":  2,
-                                                                      "shortdesc":  "Cultivated by the arcano-botanists of Ferdeaux as befitting guardians for their...",
+                                                                      "shortdesc":  "Spawns Creeplings, strangles and swallows enemies.",
                                                                       "faction":  [
 
                                                                                   ],
@@ -29397,7 +29397,7 @@
                                                                 ],
                                                        "videourl":  "https://youtu.be/tuZkcDQJCEc",
                                                        "nb_variants":  1,
-                                                       "shortdesc":  "To describe Rocs as 'gigantic birds of prey' is accurate but vastly understates the...",
+                                                       "shortdesc":  "Scaled up bird with a few gimmicks.",
                                                        "faction":  [
 
                                                                    ],
@@ -29453,7 +29453,7 @@
                                                                                             ],
                                                                                    "videourl":  "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
                                                                                    "nb_variants":  1,
-                                                                                   "shortdesc":  "Combines powerful melee attacks with mobility and lightning-based area damage.",
+                                                                                   "shortdesc":  "Powerful melee attacks, high mobility and lightning-based area damage.",
                                                                                    "faction":  [
                                                                                                    "Irontide Raiders"
                                                                                                ],
@@ -29503,7 +29503,7 @@
                                                                                   ],
                                                                          "videourl":  "https://youtu.be/H37vgZ45Rwg?si=NWolQ3G9piMj1afa",
                                                                          "nb_variants":  1,
-                                                                         "shortdesc":  "Heavy shock troops of a well-equipped City guard.",
+                                                                         "shortdesc":  "Especially dangerous during the first rounds of combat.",
                                                                          "faction":  [
                                                                                          "City Guard"
                                                                                      ],
@@ -29677,7 +29677,7 @@
                                                                          }
                                                       },
                     "000-month_31_hellfire_hydra":  {
-                                                        "description":  "Living fire given the shape of a many-headed, serpentine monstrosity. the heads exist in constant competition with one another, perpetually wrestling for dominance, which makes the hellfire hydra as unpredictable and impulsive as its element. severed heads do not regrow directly but become pulsing vents, discharging liquid fire from the creature's magmatic core into the air, so that a heavily wounded hellfire hydra resembles a living volcano.",
+                                                        "description":  "Living fire given the shape of a many-headed, serpentine monstrosity. the heads exist in constant competition with one another, perpetually wrestling for dominance, which makes the Hellfire Hydra as unpredictable and impulsive as its element. severed heads do not regrow directly but become pulsing vents, discharging liquid fire from the creature's magmatic core into the air, so that a heavily wounded hellfire hydra resembles a living volcano.",
                                                         "name":  "Hellfire Hydra",
                                                         "properties":  {
                                                                            "biom":  [
