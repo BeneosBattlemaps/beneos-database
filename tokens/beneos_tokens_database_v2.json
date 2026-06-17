@@ -4912,7 +4912,7 @@
                                                              }
                                           },
                     "023-orc_warchief":  {
-                                             "description":  "The Warchief is the single greatest authority within the ranks of a war host - an inspiring, or at least intimidating, leader, a successful commander and a powerful warrior. If they set foot onto a battlefield, their troops throw themselves every more recklessly at the enemy ranks, seeking the approval of their sovereign. Every trace of weakness must purged and every defeat could spell doom for an aspiring conqueror. This realisation often leaves War Chiefs paranoid and choleric, while their constant need to prove their might and tactical acumen drives them to ever greater bloodshed and destruction.",
+                                             "description":  "If it weren't for the War Tyrant, the Warchief would be the single greatest authority within the ranks of a war host - an inspiring, or at least intimidating, leader, a successful commander and a powerful warrior. If they set foot onto a battlefield, their troops throw themselves every more recklessly at the enemy ranks, seeking the approval of their sovereign. Every trace of weakness must purged and every defeat could spell doom for an aspiring conqueror. This realisation often leaves War Chiefs paranoid and choleric, while their constant need to prove their might and tactical acumen drives them to ever greater bloodshed and destruction.",
                                              "name":  "Orc Warchief",
                                              "properties":  {
                                                                 "free_content":  false,
@@ -9571,7 +9571,7 @@
                                                                               "orc"
                                                                           ],
                                                                  "videourl":  "https://youtu.be/ivlza_oof7a",
-                                                                 "nb_variants":  1,
+                                                                 "nb_variants":  2,
                                                                  "shortdesc":  "Actively seeks out strong opponents and becomes more powerful by defeating them in challenges.",
                                                                  "faction":  [
                                                                                  "Iron Fists"
@@ -13450,7 +13450,7 @@
                                                                                      "devil"
                                                                                  ],
                                                                         "videourl":  "https://youtu.be/COTI8mCMCEk?si=P0mev5udsJlc2vvs",
-                                                                        "nb_variants":  1,
+                                                                        "nb_variants":  4,
                                                                         "shortdesc":  "Infernal champion wielding a possessed axe, summons blood rain to to whip the whole...",
                                                                         "faction":  [
                                                                                         "Infernal Legions"
