@@ -3269,7 +3269,7 @@
                                                                        "stat_str":  16,
                                                                        "stat_wis":  14,
                                                                        "thumbnail":  "235-infernal_bladefiend-1-db.webp",
-                                                                       "type":  "fiend",
+                                                                       "type":  ["fiend", "devil"],
                                                                        "videourl":  "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
                                                                        "nb_variants":  1,
                                                                        "shortdesc":  "Melee specialist, grows in power with each defeated opponent.",

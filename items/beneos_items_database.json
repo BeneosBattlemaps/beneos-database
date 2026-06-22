@@ -13259,5 +13259,189 @@
           "treasure_vault"
         ]
       }
+    },
+    "0141_immolator_mask": {
+      "key": "0141_immolator_mask",
+      "name": "Immolator Mask",
+      "description": "Sacrifice health to increase fire damage.",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "infernal",
+        "item_type": "Mask",
+        "tier": 1,
+        "price": "1700",
+        "icon": "0141_immolator_mask-icon.webp",
+        "shop": [
+          "planar_merchant",
+          "infernal_shop"
+        ],
+        "biome": [
+          "infernal_fortress",
+          "dragon_hoard",
+          "cultist_hideout",
+          "defiled_temple"
+        ]
       }
-    }}
+    },
+    "0000_mirrorgate_shield": {
+      "key": "0000_mirrorgate_shield",
+      "name": "Mirrorgate Shield",
+      "description": "Can be used to teleport creatures short distances or redirect projectiles.",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "crystalline",
+        "item_type": "Shield +1",
+        "tier": 3,
+        "price": "24000",
+        "icon": "0000_mirrorgate_shield-icon.webp",
+        "shop": [
+          "magic_shop",
+          "planar_merchant"
+        ],
+        "biome": [
+          "crystal_cave"
+        ]
+      }
+    },
+    "0142_mirrorgate_shield": {
+      "key": "0142_mirrorgate_shield",
+      "name": "Mirrorgate Shield",
+      "description": "Can be used to teleport creatures short distances or redirect projectiles.",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "crystalline",
+        "item_type": "Shield +1",
+        "tier": 3,
+        "price": "24000",
+        "icon": "0142_mirrorgate_shield-icon.webp",
+        "shop": [
+          "magic_shop",
+          "planar_merchant"
+        ],
+        "biome": [
+          "crystal_cave"
+        ]
+      }
+    },
+    "0143_gatekeeper": {
+      "key": "0143_gatekeeper",
+      "name": "Gatekeeper",
+      "description": "Becomes stronger when actually fulfilling its purpose.",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "ancient",
+        "item_type": "Halberd",
+        "tier": 2,
+        "price": "5200",
+        "icon": "0143_gatekeeper-icon.webp",
+        "shop": [
+          "magic_shop",
+          "legendary_merchant",
+          "arcane_smith"
+        ],
+        "biome": [
+          "dungeon",
+          "heros_grave",
+          "castle",
+          "military_base"
+        ]
+      }
+    },
+    "0144_universal_permit": {
+      "key": "0144_universal_permit",
+      "name": "Universal Permit",
+      "description": "Compels its recipient to grant whatever it demands.",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": false,
+        "origin": "blessed",
+        "item_type": "Consumable",
+        "tier": 2,
+        "price": "8250",
+        "icon": "0144_universal_permit-icon.webp",
+        "shop": [
+          "hag",
+          "mysterious_merchant",
+          "planar_merchant"
+        ],
+        "biome": [
+          "feywild",
+          "archive",
+          "library"
+        ]
+      }
+    },
+    "0145_lantern_of_transmutation": {
+      "key": "0145_lantern_of_transmutation",
+      "name": "Lantern of Transmutation",
+      "description": "Increased effectiveness of transmutation spells and a few other benefits.",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "techno_arcane",
+        "item_type": "Spellfocus +1",
+        "tier": 2,
+        "price": "5600",
+        "icon": "0145_lantern_of_transmutation-icon.webp",
+        "shop": [
+          "magic_shop",
+          "alchemist"
+        ],
+        "biome": [
+          "wizards_tower",
+          "laboratory"
+        ]
+      }
+    },
+    "0146_skitterstalk_strain": {
+      "key": "0146_skitterstalk_strain",
+      "name": "Skitterstalk Strain",
+      "description": "Grants you a mutation that increases your mobility.",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "mutation",
+        "item_type": "Mutation",
+        "tier": 2,
+        "price": "3600",
+        "icon": "0146_skitterstalk_strain-icon.webp",
+        "shop": [
+          "mysterious_merchant",
+          "planar_merchant",
+          "alchemist"
+        ],
+        "biome": [
+          "laboratory"
+        ]
+      }
+    },
+    "0147_hallowblight_strain": {
+      "key": "0147_hallowblight_strain",
+      "name": "Hallowblight Strain",
+      "description": "Turns you into a carrier of a disease that negatively affects undead.",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": false,
+        "origin": "sanctified",
+        "item_type": "Consumable",
+        "tier": 2,
+        "price": "3400",
+        "icon": "0147_hallowblight_strain-icon.webp",
+        "shop": [
+          "monster_hunter_guild",
+          "alchemist"
+        ],
+        "biome": [
+          "archive",
+          "laboratory",
+          "ancient_temple",
+          "reliquary"
+        ]
+      }
+    }
+  }
+}
