@@ -13284,27 +13284,6 @@
         ]
       }
     },
-    "0000_mirrorgate_shield": {
-      "key": "0000_mirrorgate_shield",
-      "name": "Mirrorgate Shield",
-      "description": "Can be used to teleport creatures short distances or redirect projectiles.",
-      "properties": {
-        "rarity": "Very Rare",
-        "attunement": true,
-        "origin": "crystalline",
-        "item_type": "Shield +1",
-        "tier": 3,
-        "price": "24000",
-        "icon": "0000_mirrorgate_shield-icon.webp",
-        "shop": [
-          "magic_shop",
-          "planar_merchant"
-        ],
-        "biome": [
-          "crystal_cave"
-        ]
-      }
-    },
     "0142_mirrorgate_shield": {
       "key": "0142_mirrorgate_shield",
       "name": "Mirrorgate Shield",
