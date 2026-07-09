@@ -33173,6 +33173,16 @@
         "campaign": [],
         "hidden_tags": []
       }
+    },
+    "237-greater_ice_devil_renametest": {
+      "name": "Greater Ice Devil",
+      "description": "RENAME-TEST",
+      "properties": {
+        "size": "Huge",
+        "cr": 14,
+        "thumbnail": "237-greater_ice_devil_renametest-1-db.webp",
+        "free_content": false
+      }
     }
   }
 }

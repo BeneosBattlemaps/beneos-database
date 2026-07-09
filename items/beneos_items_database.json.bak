@@ -1534,7 +1534,7 @@
     "0067_whispermaw_strain": {
       "key": "0067_whispermaw_strain",
       "name": "Whispermaw Strain",
-      "description": "test",
+      "description": "",
       "properties": {
         "rarity": "Very Rare",
         "attunement": false,
