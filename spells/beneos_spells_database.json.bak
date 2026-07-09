@@ -6832,7 +6832,9 @@
           "M"
         ],
         "icon": "0000_srd_fireball-icon.webp",
-        "hidden_tags": [],
+        "hidden_tags": [
+          "stempel-test"
+        ],
         "shop_pack": "",
         "release_date": "2026-07-08",
         "updated_date": "2026-07-08"
@@ -12255,6 +12257,25 @@
         ],
         "icon": "0135_delvers_lantern-icon.webp",
         "shop_pack": ""
+      }
+    },
+    "9999_stempel_neu": {
+      "key": "9999_stempel_neu",
+      "name": "Stempel Neu",
+      "description": "x",
+      "properties": {
+        "level": "1",
+        "school": "Evocation",
+        "casting_time": "Action",
+        "classes": [
+          "Wizard"
+        ],
+        "components": [
+          "V"
+        ],
+        "icon": "x.webp",
+        "release_date": "2026-07-08",
+        "updated_date": "2026-07-08"
       }
     }
   }

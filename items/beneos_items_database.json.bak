@@ -1534,7 +1534,7 @@
     "0067_whispermaw_strain": {
       "key": "0067_whispermaw_strain",
       "name": "Whispermaw Strain",
-      "description": "test",
+      "description": "",
       "properties": {
         "rarity": "Very Rare",
         "attunement": false,
@@ -16092,6 +16092,108 @@
           "laboratory",
           "ancient_temple",
           "reliquary"
+        ]
+      }
+    },
+    "0148_flail_of_frustration": {
+      "key": "0148_flail_of_frustration",
+      "name": "Flail of Frustration",
+      "description": "Grows in power when the user keeps missing in desperate situations.",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "relic",
+        "item_type": "Flail",
+        "tier": 1,
+        "price": "3100",
+        "icon": "0148_flail_of_frustration-icon.webp",
+        "shop": [
+          "mysterious_merchant",
+          "black_market",
+          "arcane_smith"
+        ],
+        "biome": [
+          "dungeon",
+          "dragon_hoard",
+          "cultist_hideout",
+          "defiled_temple",
+          "military_base"
+        ]
+      }
+    },
+    "0149_hungering_hood": {
+      "key": "0149_hungering_hood",
+      "name": "Hungering Hood",
+      "description": "Defeating creatures Aallows you to surge forth and attack.",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "beastforged",
+        "item_type": "Cloak",
+        "tier": 1,
+        "price": "2200",
+        "icon": "0149_hungering_hood-icon.webp",
+        "shop": [
+          "monster_hunter_guild",
+          "black_market",
+          "mysterious_merchant"
+        ],
+        "biome": [
+          "dungeon",
+          "monster_hoard",
+          "trophy_chamber",
+          "battlefield",
+          "monster_camp"
+        ]
+      }
+    },
+    "0149_curserot_skewer": {
+      "key": "0149_curserot_skewer",
+      "name": "Curserot Skewer",
+      "description": "Critical hits weaken the target's attack rolls and saving throws.",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "mutation",
+        "item_type": "Spear",
+        "tier": 1,
+        "price": "2400",
+        "icon": "0149_curserot_skewer-icon.webp",
+        "shop": [
+          "hag",
+          "mysterious_merchant"
+        ],
+        "biome": [
+          "defiled_temple",
+          "cultist_hideout",
+          "battlefield",
+          "corrupted_lands",
+          "monster_camp",
+          "undead_lair"
+        ]
+      }
+    },
+    "0150_ledger_of_a_thousand_tabs": {
+      "key": "0150_ledger_of_a_thousand_tabs",
+      "name": "Ledger of a Thousand Tabs",
+      "description": "Curate a list of debtors and make their life hell.",
+      "properties": {
+        "rarity": "Legendary",
+        "attunement": true,
+        "origin": "infernal",
+        "item_type": "Book",
+        "tier": 3,
+        "price": "35200",
+        "icon": "0150_ledger_of_a_thousand_tabs-icon.webp",
+        "shop": [
+          "infernal_shop",
+          "mysterious_merchant"
+        ],
+        "biome": [
+          "archive",
+          "library",
+          "wizards_tower",
+          "devil_lair"
         ]
       }
     }
