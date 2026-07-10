@@ -8294,7 +8294,7 @@
       }
     },
     "214-draconic_devotee": {
-      "description": "Fanatical cultists able defy death and empower their patron through acts of faith.",
+      "description": "Dragons have been subjects of worship for ages, god-like in their benevolence and wrath as they are. The most fanatical followers of these scaled tyrants are the foundation upon which a dragon can truly expand its influence in a way to establish a lasting rule, as the great and terrible lizards quickly discover that running everything larger than a minor cult to stock up on treasures requires quite a bit of time investment and legwork to become a worthwhile endeavour. Luckily, most dragons are too self absorbed to realize this and those who do are wise enough to not admit this to their subjects.",
       "name": "Draconic Devotee",
       "properties": {
         "free_content": false,
@@ -8334,8 +8334,14 @@
         "shortdesc": "Fanatical cultists able defy death and empower their patron through acts of faith.",
         "faction": [],
         "source": "Patreon",
-        "campaign": [],
-        "hidden_tags": [],
+        "campaign": [
+          "Tyranny of Dragons",
+          "Rise of Tiamat"
+        ],
+        "hidden_tags": [
+          "cultist",
+          "acoylte"
+        ],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -34573,7 +34579,7 @@
       }
     },
     "236-orc_arbalest": {
-      "name": "Iron Fist Arbalest",
+      "name": "Orc Arbalest",
       "description": "In the course of an engagement with the Iron Fists' war bands, it quickly becomes apparent that the true danger rarely comes from the Iron Bulwarks or the Chieftains, but from the regular salvos fired from the disciplined lines of the Arbalests. Once the heavy Platebreaker crossbows are brought to bear, the reinforced bolts punch considerable holes through virtually any form of armor. The Arbalests excel both in ordered volleys against concentrations of enemies and in the Slayer Stance, which they eagerly await orders to adopt: a formation that permits each marksman to independently identify and engage their own targets, provided they do not break ranks.",
       "properties": {
         "size": "Medium",

@@ -34579,7 +34579,7 @@
       }
     },
     "236-orc_arbalest": {
-      "name": "Iron Fist Arbalest",
+      "name": "Orc Arbalest",
       "description": "In the course of an engagement with the Iron Fists' war bands, it quickly becomes apparent that the true danger rarely comes from the Iron Bulwarks or the Chieftains, but from the regular salvos fired from the disciplined lines of the Arbalests. Once the heavy Platebreaker crossbows are brought to bear, the reinforced bolts punch considerable holes through virtually any form of armor. The Arbalests excel both in ordered volleys against concentrations of enemies and in the Slayer Stance, which they eagerly await orders to adopt: a formation that permits each marksman to independently identify and engage their own targets, provided they do not break ranks.",
       "properties": {
         "size": "Medium",
