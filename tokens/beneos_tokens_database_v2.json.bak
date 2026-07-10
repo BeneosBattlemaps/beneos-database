@@ -18689,7 +18689,7 @@
       }
     },
     "226-stirge": {
-      "description": "Attacks in swarms to drain blood, carrier of disease.",
+      "description": "In contrast to the incrompehensible horrors native to the infernal planes, an oversized mosquito might seem relatively harmless. But Stirges aren't mere nuisances, they are yet another cog in the great mechanism designed to grind any semblance of hope from the bodies and minds of those wandering the hells. They descend upon their prey, which includes anything with blood or a sufficiently blood-like liquid flowing through its veins, in loose packs or frenzied swarms, striking, retreating and returning as many times as is necessary to outlast their targets' willpower and finish their gruesome meal. They also carry the aptly named Stirgeblight, a bloodborne disease further making those suffering from it even more susceptile to life-draining effects.",
       "name": "Stirge",
       "properties": {
         "free_content": false,
@@ -22220,7 +22220,7 @@
       }
     },
     "226-swarm_of_stirges": {
-      "description": "attacks in swarms to drain blood, carrier of disease.",
+      "description": "In contrast to the incrompehensible horrors native to the infernal planes, an oversized mosquito might seem relatively harmless. But Stirges aren't mere nuisances, they are yet another cog in the great mechanism designed to grind any semblance of hope from the bodies and minds of those wandering the hells. They descend upon their prey, which includes anything with blood or a sufficiently blood-like liquid flowing through its veins, in loose packs or frenzied swarms, striking, retreating and returning as many times as is necessary to outlast their targets' willpower and finish their gruesome meal. They also carry the aptly named Stirgeblight, a bloodborne disease further making those suffering from it even more susceptile to life-draining effects.",
       "name": "Swarm Of Stirges",
       "properties": {
         "free_content": false,
@@ -34615,12 +34615,15 @@
         ],
         "source": "Patreon",
         "nb_variants": 2,
-        "thumbnail": "",
+        "thumbnail": "236-iron_fist_arbalest-1-db.webp",
         "faction": [
           "Iron Fists"
         ],
         "release_date": "2026-07-10",
-        "updated_date": "2026-07-10"
+        "updated_date": "2026-07-10",
+        "shortdesc": "Anti-armour specialist, remains stationary to apply buffs.",
+        "releaseurl": "https://beneos-battlemaps.com/",
+        "videourl": "https://www.youtube.com/@beneos_battlemaps"
       }
     }
   }

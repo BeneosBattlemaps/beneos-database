@@ -8294,7 +8294,7 @@
       }
     },
     "214-draconic_devotee": {
-      "description": "Fanatical cultists able defy death and empower their patron through acts of faith.",
+      "description": "Dragons have been subjects of worship for ages, god-like in their benevolence and wrath as they are. The most fanatical followers of these scaled tyrants are the foundation upon which a dragon can truly expand its influence in a way to establish a lasting rule, as the great and terrible lizards quickly discover that running everything larger than a minor cult to stock up on treasures requires quite a bit of time investment and legwork to become a worthwhile endeavour. Luckily, most dragons are too self absorbed to realize this and those who do are wise enough to not admit this to their subjects.",
       "name": "Draconic Devotee",
       "properties": {
         "free_content": false,
@@ -8334,8 +8334,14 @@
         "shortdesc": "Fanatical cultists able defy death and empower their patron through acts of faith.",
         "faction": [],
         "source": "Patreon",
-        "campaign": [],
-        "hidden_tags": [],
+        "campaign": [
+          "Tyranny of Dragons",
+          "Rise of Tiamat"
+        ],
+        "hidden_tags": [
+          "cultist",
+          "acoylte"
+        ],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -18689,7 +18695,7 @@
       }
     },
     "226-stirge": {
-      "description": "Attacks in swarms to drain blood, carrier of disease.",
+      "description": "In contrast to the incrompehensible horrors native to the infernal planes, an oversized mosquito might seem relatively harmless. But Stirges aren't mere nuisances, they are yet another cog in the great mechanism designed to grind any semblance of hope from the bodies and minds of those wandering the hells. They descend upon their prey, which includes anything with blood or a sufficiently blood-like liquid flowing through its veins, in loose packs or frenzied swarms, striking, retreating and returning as many times as is necessary to outlast their targets' willpower and finish their gruesome meal. They also carry the aptly named Stirgeblight, a bloodborne disease further making those suffering from it even more susceptile to life-draining effects.",
       "name": "Stirge",
       "properties": {
         "free_content": false,
@@ -22220,7 +22226,7 @@
       }
     },
     "226-swarm_of_stirges": {
-      "description": "attacks in swarms to drain blood, carrier of disease.",
+      "description": "In contrast to the incrompehensible horrors native to the infernal planes, an oversized mosquito might seem relatively harmless. But Stirges aren't mere nuisances, they are yet another cog in the great mechanism designed to grind any semblance of hope from the bodies and minds of those wandering the hells. They descend upon their prey, which includes anything with blood or a sufficiently blood-like liquid flowing through its veins, in loose packs or frenzied swarms, striking, retreating and returning as many times as is necessary to outlast their targets' willpower and finish their gruesome meal. They also carry the aptly named Stirgeblight, a bloodborne disease further making those suffering from it even more susceptile to life-draining effects.",
       "name": "Swarm Of Stirges",
       "properties": {
         "free_content": false,
