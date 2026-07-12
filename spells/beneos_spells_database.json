@@ -12340,6 +12340,33 @@
         "release_date": "2026-07-12",
         "updated_date": "2026-07-12"
       }
+    },
+    "0099_ditchblight": {
+      "key": "0099_ditchblight",
+      "name": "Ditchblight",
+      "description": "Curse a creature, rendering the sun’s loving rays poisonous for it.",
+      "properties": {
+        "level": "3",
+        "school": "Enchantment",
+        "casting_time": "Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Artificer",
+          "Bard",
+          "Cleric",
+          "Druid"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0099_ditchblight-icon.webp",
+        "shop_pack": "",
+        "release_date": "2026-07-12",
+        "updated_date": "2026-07-12"
+      }
     }
   }
 }
