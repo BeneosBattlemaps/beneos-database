@@ -12367,6 +12367,31 @@
         "release_date": "2026-07-12",
         "updated_date": "2026-07-12"
       }
+    },
+    "0098_heart_of_iron": {
+      "key": "0098_heart_of_iron",
+      "name": "Heart of Iron",
+      "description": "Harden your body and steel your soul against damage and influence.",
+      "properties": {
+        "level": "4",
+        "school": "Transmutation",
+        "casting_time": "Bonus Action",
+        "concentration": true,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Cleric",
+          "Paladin"
+        ],
+        "components": [
+          "V",
+          "S"
+        ],
+        "icon": "0098_heart_of_iron-icon.webp",
+        "shop_pack": "",
+        "release_date": "2026-07-12",
+        "updated_date": "2026-07-12"
+      }
     }
   }
 }
