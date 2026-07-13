@@ -9951,8 +9951,8 @@
       }
     },
     "221-hellracer_roadrager": {
-      "description": "these devils are cursed with Roadrage, a mysterious compulsion afflicting those who spend too much time near the soul-fueled war machines of the Infernal planes. once they take the helm of a vehicle, their aggression spikes, escalating with every passing moment until it erupts into mindless, self-destructive fury. though they should be solitary creatures, some unknown compulsion drives them to tolerate each other just long enough to form volatile packs. when loosed upon the Infernal Wasteland, these collectives become one more looming danger, packs of frenzied fiends venting their rage on anything that crosses their path, be it locals, travelers, or a rival gang.",
-      "name": "Hellracer roadrager",
+      "description": "These devils are cursed with Roadrage, a mysterious compulsion afflicting those who spend too much time near the soul-fueled war machines of the Infernal planes. once they take the helm of a vehicle, their aggression spikes, escalating with every passing moment until it erupts into mindless, self-destructive fury. though they should be solitary creatures, some unknown compulsion drives them to tolerate each other just long enough to form volatile packs. when loosed upon the Infernal Wasteland, these collectives become one more looming danger, packs of frenzied fiends venting their rage on anything that crosses their path, be it locals, travelers, or a rival gang.",
+      "name": "Hellracer Roadrager",
       "properties": {
         "free_content": false,
         "biom": [
@@ -34621,7 +34621,7 @@
         ],
         "source": "Patreon",
         "nb_variants": 2,
-        "thumbnail": "236-iron_fist_arbalest-1-db.webp",
+        "thumbnail": "236-orc_arbalest-1-db.webp",
         "faction": [
           "Iron Fists"
         ],
@@ -34632,7 +34632,7 @@
         "videourl": "https://www.youtube.com/@beneos_battlemaps"
       }
     },
-    "239-imp_of_the_eighth_circle": {
+    "239-imp_eighth": {
       "name": "Imp of the Eighth Circle",
       "description": "Imps are as numerous as blowflies, and many a creature would sooner endure the company of one (or hundreds) of those. To secure an intact existence, and perhaps even the prospect of advancement, imps must constantly stay alert, carefully calculating how much praise and reward they can extract for the least possible risk. On the other hand, a great many imps have little interest in self-preservation at all, hurling themselves suicidally into the fray in service of their masters in hopes of earning favor through sheer sacrifice. Like many creatures at the bottom of a pecking order, imps are extraordinarily sadistic and take genuine delight in any opportunity to further humiliate those they perceive as beneath them, able to switch between gleefully cackling, pathetically groveling and murderous intent in the blink of an eye.",
       "properties": {
@@ -34663,7 +34663,7 @@
         "stat_int": 11,
         "stat_str": 6,
         "stat_wis": 12,
-        "thumbnail": "239-imp_of_the_eighth_circle-1-db.webp",
+        "thumbnail": "239-imp_eighth-1-db.webp",
         "type": [
           "fiend",
           "devil"
@@ -34683,7 +34683,7 @@
         "updated_date": "2026-07-10"
       }
     },
-    "238-cambion_courtier_of_the_eighth_circle": {
+    "238-cambion_courtier_eighth": {
       "name": "Cambion Courtier of the Eighth Circle",
       "description": "Cambions are half-devils who, by virtue of their divided heritage, are strangers in both worlds. Feared and despised among mortals, mocked and disadvantaged in the hells, cambions must either begin climbing quickly or be left behind. This makes them extraordinarily ambitious, strong-willed, and dangerous; they are conditioned to use everything and everyone as a weapon, whether to carve their way upward or clear space below them. Their charm, owing to their mixed blood, proves particularly effective against mortals, subtler and more devious than the raw otherworldly dominance exuded by true devils. Those Courtiers who hail from the Eighth Circle have clawed, schemed, and lied their way to whatever place they occupy in the infernal hierarchy, pursuing with particular zeal the acquisition of prized lore for their master's arcane collection.",
       "properties": {
@@ -34716,7 +34716,7 @@
         "stat_int": 14,
         "stat_str": 18,
         "stat_wis": 12,
-        "thumbnail": "238-cambion_courtier_of_the_eighth_circle-1-db.webp",
+        "thumbnail": "238-cambion_courtier_eighth-1-db.webp",
         "type": [
           "fiend",
           "half devil"
