@@ -34631,6 +34631,162 @@
         "releaseurl": "https://beneos-battlemaps.com/",
         "videourl": "https://www.youtube.com/@beneos_battlemaps"
       }
+    },
+    "239-imp_of_the_eighth_circle": {
+      "name": "Imp of the Eighth Circle",
+      "description": "Imps are as numerous as blowflies, and many a creature would sooner endure the company of one (or hundreds) of those. To secure an intact existence, and perhaps even the prospect of advancement, imps must constantly stay alert, carefully calculating how much praise and reward they can extract for the least possible risk. On the other hand, a great many imps have little interest in self-preservation at all, hurling themselves suicidally into the fray in service of their masters in hopes of earning favor through sheer sacrifice. Like many creatures at the bottom of a pecking order, imps are extraordinarily sadistic and take genuine delight in any opportunity to further humiliate those they perceive as beneath them, able to switch between gleefully cackling, pathetically groveling and murderous intent in the blink of an eye.",
+      "properties": {
+        "free_content": false,
+        "biom": [
+          "planar",
+          "dungeon",
+          "urban"
+        ],
+        "cr": "1",
+        "fightingstyle": [
+          "Simple"
+        ],
+        "movement": [
+          "walk",
+          "fly"
+        ],
+        "purpose": [
+          "Minion"
+        ],
+        "releaseurl": "https://www.patreon.com/c/BeneosTokens",
+        "size": "small",
+        "stat_ac": 13,
+        "stat_cha": 14,
+        "stat_con": 13,
+        "stat_dex": 17,
+        "stat_hp": 10,
+        "stat_int": 11,
+        "stat_str": 6,
+        "stat_wis": 12,
+        "thumbnail": "239-imp_of_the_eighth_circle-1-db.webp",
+        "type": [
+          "fiend",
+          "devil"
+        ],
+        "videourl": "https://www.youtube.com/channel/UCmrohObg7fLr1M9KqOWYLCQ",
+        "nb_variants": 1,
+        "shortdesc": "Sneaky minor devil that can steal spells.",
+        "faction": [
+          "Infernal Legions"
+        ],
+        "source": "Patreon",
+        "campaign": [
+          "Descent into Avernus"
+        ],
+        "hidden_tags": [],
+        "release_date": "2026-07-10",
+        "updated_date": "2026-07-10"
+      }
+    },
+    "238-cambion_courtier_of_the_eighth_circle": {
+      "name": "Cambion Courtier of the Eighth Circle",
+      "description": "Cambions are half-devils who, by virtue of their divided heritage, are strangers in both worlds. Feared and despised among mortals, mocked and disadvantaged in the hells, cambions must either begin climbing quickly or be left behind. This makes them extraordinarily ambitious, strong-willed, and dangerous; they are conditioned to use everything and everyone as a weapon, whether to carve their way upward or clear space below them. Their charm, owing to their mixed blood, proves particularly effective against mortals, subtler and more devious than the raw otherworldly dominance exuded by true devils. Those Courtiers who hail from the Eighth Circle have clawed, schemed, and lied their way to whatever place they occupy in the infernal hierarchy, pursuing with particular zeal the acquisition of prized lore for their master's arcane collection.",
+      "properties": {
+        "free_content": false,
+        "biom": [
+          "planar",
+          "dungeon",
+          "urban"
+        ],
+        "cr": "6",
+        "fightingstyle": [
+          "Demanding",
+          "Tactical",
+          "Spellcasting"
+        ],
+        "purpose": [
+          "Debuff"
+        ],
+        "movement": [
+          "walk",
+          "fly"
+        ],
+        "releaseurl": "https://www.patreon.com/c/BeneosTokens",
+        "size": "medium",
+        "stat_ac": 19,
+        "stat_cha": 16,
+        "stat_con": 16,
+        "stat_dex": 18,
+        "stat_hp": 82,
+        "stat_int": 14,
+        "stat_str": 18,
+        "stat_wis": 12,
+        "thumbnail": "238-cambion_courtier_of_the_eighth_circle-1-db.webp",
+        "type": [
+          "fiend",
+          "half devil"
+        ],
+        "videourl": "https://www.youtube.com/channel/UCmrohObg7fLr1M9KqOWYLCQ",
+        "nb_variants": 1,
+        "shortdesc": "Its charm is as deadly as its weaponry.",
+        "faction": [
+          "Infernal Courts"
+        ],
+        "source": "Patreon",
+        "campaign": [
+          "Descent into Avernus"
+        ],
+        "hidden_tags": [],
+        "release_date": "2026-07-10",
+        "updated_date": "2026-07-10"
+      }
+    },
+    "237-greater_ice_devil": {
+      "name": "Greater Ice Devil",
+      "description": "Ice Devils embody the detached arrogance of evil, murderous calculation, and a deep contempt for mortal life. Despite the general dominance of fire throughout the infernal legions, it is precisely in the upper echelons that one repeatedly encounters these denizens of the Eighth Circle, who, depending on individual disposition, may command anything from a single Torment to entire campaigns. What has for many centuries been labeled a generic \"Ice Devil\" represents only a fraction of the true power these calculating killers possess, either because the specimens encountered were exiles or cast-out weaklings of their kind, or because the rumors were deliberately seeded by the intriguing ice devils themselves to profit from being underestimated. Those who stand in full possession of their power are commonly referred to as \"Greater\" Ice Devils, though in truth, the others ought simply to be called \"lesser.\"",
+      "properties": {
+        "free_content": false,
+        "biom": [
+          "planar",
+          "dungeon",
+          "arctic"
+        ],
+        "cr": "14",
+        "fightingstyle": [
+          "Versatile",
+          "Area of Effect",
+          "Demanding"
+        ],
+        "purpose": [
+          "Debuff"
+        ],
+        "movement": [
+          "walk"
+        ],
+        "releaseurl": "https://www.patreon.com/c/BeneosTokens",
+        "size": "large",
+        "stat_ac": 18,
+        "stat_cha": 18,
+        "stat_con": 18,
+        "stat_dex": 14,
+        "stat_hp": 228,
+        "stat_int": 18,
+        "stat_str": 21,
+        "stat_wis": 15,
+        "thumbnail": "237-greater_ice_devil-1-db.webp",
+        "type": [
+          "fiend",
+          "devil"
+        ],
+        "videourl": "https://www.youtube.com/channel/UCmrohObg7fLr1M9KqOWYLCQ",
+        "nb_variants": 1,
+        "shortdesc": "Elite warrior, exuding the cold of the 8th circle.",
+        "faction": [
+          "Infernal Legions"
+        ],
+        "source": "Patreon",
+        "campaign": [
+          "Descent into Avernus"
+        ],
+        "hidden_tags": [],
+        "release_date": "2026-07-10",
+        "updated_date": "2026-07-10"
+      }
     }
   }
 }
