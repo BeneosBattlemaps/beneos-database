@@ -34787,6 +34787,15 @@
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
+    },
+    "240-monster_hunter": {
+      "key": "240-monster_hunter",
+      "name": "Monster Hunter",
+      "description": "",
+      "properties": {
+        "release_date": "2026-07-16",
+        "updated_date": "2026-07-16"
+      }
     }
   }
 }

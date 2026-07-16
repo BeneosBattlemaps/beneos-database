@@ -12271,7 +12271,7 @@
         "casting_time": "Bonus Action",
         "concentration": true,
         "ritual": false,
-        "spell_type": "",
+        "spell_type": "Protection",
         "classes": [
           "Cleric",
           "Paladin"
@@ -12283,7 +12283,7 @@
         "icon": "0142_heart_of_iron-icon.webp",
         "shop_pack": "",
         "release_date": "2026-07-14",
-        "updated_date": "2026-07-14"
+        "updated_date": "2026-07-16"
       }
     },
     "0141_master_of_magnetism": {
@@ -12296,14 +12296,15 @@
         "casting_time": "Action",
         "concentration": true,
         "ritual": false,
-        "spell_type": "",
+        "spell_type": "Protection",
         "classes": [
           "Bard",
           "Cleric",
           "Druid",
           "Sorcerer",
           "Warlock",
-          "Wizard"
+          "Wizard",
+          "Artificer"
         ],
         "components": [
           "V",
@@ -12312,7 +12313,7 @@
         "icon": "0141_master_of_magnetism-icon.webp",
         "shop_pack": "",
         "release_date": "2026-07-14",
-        "updated_date": "2026-07-14"
+        "updated_date": "2026-07-16"
       }
     },
     "0140_ditchblight": {
@@ -12325,9 +12326,8 @@
         "casting_time": "Action",
         "concentration": true,
         "ritual": false,
-        "spell_type": "",
+        "spell_type": "Debuff",
         "classes": [
-          "Artificer",
           "Bard",
           "Cleric",
           "Druid"
@@ -12339,7 +12339,7 @@
         "icon": "0140_ditchblight-icon.webp",
         "shop_pack": "",
         "release_date": "2026-07-14",
-        "updated_date": "2026-07-14"
+        "updated_date": "2026-07-16"
       }
     },
     "0139_conjure_garghoul": {
