@@ -12059,7 +12059,7 @@
     "0128_lucky_charm": {
       "key": "0128_lucky_charm",
       "name": "Lucky Charm",
-      "description": "You enchant an object with with a hint of magical fortune.",
+      "description": "You imbue an object with a hint of magical fortune.",
       "properties": {
         "free_content": false,
         "level": "0",
@@ -12067,7 +12067,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "Buff",
+        "spell_type": "",
         "classes": [
           "Artificer",
           "Bard",
@@ -12083,8 +12083,9 @@
           "S"
         ],
         "icon": "0128_lucky_charm-icon.webp",
-        "updated_date": "2026-07-16",
-        "release_date": "2026-07-16"
+        "release_date": "2026-07-16",
+        "updated_date": "2026-07-17",
+        "shop_pack": ""
       }
     },
     "0127_last_ditch": {
@@ -12152,7 +12153,7 @@
         "casting_time": "Bonus Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "",
+        "spell_type": "Buff",
         "classes": [
           "Bard",
           "Cleric",
@@ -12165,7 +12166,9 @@
           "S",
           "M"
         ],
-        "icon": "0129_hearty_brew-icon.webp"
+        "icon": "0129_hearty_brew-icon.webp",
+        "updated_date": "2026-07-16",
+        "release_date": "2026-07-16"
       }
     },
     "0131_minor_mimicry": {

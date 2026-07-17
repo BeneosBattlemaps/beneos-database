@@ -12059,7 +12059,7 @@
     "0128_lucky_charm": {
       "key": "0128_lucky_charm",
       "name": "Lucky Charm",
-      "description": "You enchant an object with with a hint of magical fortune.",
+      "description": "You imbue an object with a hint of magical fortune.",
       "properties": {
         "free_content": false,
         "level": "0",
@@ -12084,7 +12084,8 @@
         ],
         "icon": "0128_lucky_charm-icon.webp",
         "release_date": "2026-07-16",
-        "updated_date": "2026-07-16"
+        "updated_date": "2026-07-17",
+        "shop_pack": ""
       }
     },
     "0127_last_ditch": {
