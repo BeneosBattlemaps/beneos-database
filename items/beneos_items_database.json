@@ -3617,7 +3617,7 @@
     "0146_suppressor_shackles": {
       "key": "0146_suppressor_shackles",
       "name": "Suppressor Shackles",
-      "description": "",
+      "description": "Used to subdue spellcasters, as it cuts them off from the source of their magic.",
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
@@ -3635,9 +3635,19 @@
         ],
         "free_content": false,
         "shop": [
-          "temple",
-          "magic_shop"
-        ]
+          "magic_shop",
+          "mysterious_merchant",
+          "monster_hunter_guild",
+          "weirdo_merchant",
+          "arcane_smith"
+        ],
+        "biome": [
+          "infernal_fortress",
+          "military_base",
+          "wizards_tower"
+        ],
+        "updated_date": "2026-07-17",
+        "release_date": "2026-07-17"
       }
     },
     "0000_srd_acid": {
@@ -16093,6 +16103,31 @@
           "ancient_temple",
           "reliquary"
         ]
+      }
+    },
+    "0005_valkyries_will": {
+      "key": "0005_valkyries_will",
+      "name": "Valkyrie's Will",
+      "description": "Grants a set of powers revolving around pummeling opponents with thunder.",
+      "properties": {
+        "rarity": "Legendary",
+        "attunement": true,
+        "origin": "giant_forged",
+        "item_type": "Shield",
+        "tier": 3,
+        "price": "49600",
+        "icon": "0005_valkyries_will-icon.webp",
+        "shop": [
+          "legendary_merchant",
+          "planar_merchant"
+        ],
+        "biome": [
+          "dragon_hoard",
+          "heros_grave",
+          "ancient_temple"
+        ],
+        "release_date": "2026-07-17",
+        "updated_date": "2026-07-17"
       }
     }
   }

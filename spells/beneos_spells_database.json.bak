@@ -384,33 +384,6 @@
         "hidden_tags": []
       }
     },
-    "0011_grim_harvest": {
-      "key": "0011_grim_harvest",
-      "description": "Reap nearby creatures' life force and claim it as your own.",
-      "name": "Reaper's Share",
-      "properties": {
-        "free_content": false,
-        "level": "2",
-        "school": "Necromancy",
-        "casting_time": "Action",
-        "concentration": false,
-        "ritual": false,
-        "spell_type": "Restoration",
-        "classes": [
-          "Wizard",
-          "Sorcerer",
-          "Warlock",
-          "Cleric"
-        ],
-        "components": [
-          "V",
-          "S",
-          "M"
-        ],
-        "icon": "0011_grim_harvest-icon.webp",
-        "hidden_tags": []
-      }
-    },
     "0012_glacial_prison": {
       "key": "0012_glacial_prison",
       "description": "Imprison a creature in ice, draining any warmth from it over time.",
@@ -12067,7 +12040,7 @@
         "casting_time": "Action",
         "concentration": false,
         "ritual": false,
-        "spell_type": "",
+        "spell_type": "Buff",
         "classes": [
           "Artificer",
           "Bard",
@@ -12455,6 +12428,75 @@
         "shop_pack": "",
         "release_date": "2026-07-14",
         "updated_date": "2026-07-16"
+      }
+    },
+    "0143_deaths_touch": {
+      "key": "0143_deaths_touch",
+      "name": "Death's Touch",
+      "description": "The next living creature you touch becomes cursed, dying after 3 days have passed.",
+      "properties": {
+        "level": "9",
+        "school": "Necromancy",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Cleric",
+          "Sorcerer",
+          "Wizard"
+        ],
+        "components": [
+          "S"
+        ],
+        "icon": "0143_deaths_touch-icon.webp",
+        "shop_pack": "",
+        "release_date": "2026-07-17",
+        "updated_date": "2026-07-17"
+      }
+    },
+    "0000_i_had_it_right_here": {
+      "key": "0000_i_had_it_right_here",
+      "name": "I had it right here",
+      "description": "",
+      "properties": {
+        "level": "0",
+        "school": "Abjuration",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [],
+        "components": [],
+        "icon": "0000_i_had_it_right_here-icon.webp",
+        "shop_pack": "",
+        "release_date": "2026-07-17",
+        "updated_date": "2026-07-17"
+      }
+    },
+    "0011_reapers_share": {
+      "key": "0011_reapers_share",
+      "name": "Reaper's Share",
+      "description": "Harvest health from enemy creatures.",
+      "properties": {
+        "level": "2",
+        "school": "Necromancy",
+        "casting_time": "Action",
+        "concentration": false,
+        "ritual": false,
+        "spell_type": "",
+        "classes": [
+          "Cleric",
+          "Druid",
+          "Sorcerer",
+          "Warlock",
+          "Wizard"
+        ],
+        "components": [],
+        "icon": "0011_reapers_share-icon.webp",
+        "shop_pack": "",
+        "release_date": "2026-07-17",
+        "updated_date": "2026-07-17"
       }
     }
   }
