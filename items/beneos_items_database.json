@@ -67,7 +67,7 @@
         "rarity": "Very Rare",
         "attunement": true,
         "origin": "vampiric",
-        "item_type": "Clothing",
+        "item_type": "Light Armor",
         "tier": 2,
         "price": "4300",
         "icon": "0004_harrowshrike_deathmask-icon.webp",
@@ -83,9 +83,13 @@
         ],
         "free_content": false,
         "shop": [
-          "magic_shop",
-          "black_market"
-        ]
+          "black_market",
+          "armorsmith",
+          "weaponsmith"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0006_sea_tyrants_scales": {
@@ -122,12 +126,12 @@
       "description": "A grisly weapon allowing you to endure grave wounds and march on seemingly forever.",
       "name": "Scythe of the Long March",
       "properties": {
-        "rarity": "Rare",
+        "rarity": "Very Rare",
         "attunement": true,
         "origin": "occult",
-        "item_type": "Melee Weapon",
+        "item_type": "Glaive",
         "tier": 1,
-        "price": "2900",
+        "price": "2300",
         "icon": "0008_scythe_of_the_long_march-icon.webp",
         "hidden_tags": [
           "harvesting",
@@ -140,9 +144,13 @@
         ],
         "free_content": false,
         "shop": [
-          "weaponsmith",
-          "black_market"
-        ]
+          "black_market",
+          "magic_shop",
+          "weaponsmith"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0009_blood_toll_bracers": {
@@ -153,7 +161,7 @@
         "rarity": "Uncommon",
         "attunement": true,
         "origin": "ancient",
-        "item_type": "Clothing",
+        "item_type": "Light Armor",
         "tier": 1,
         "price": "900",
         "icon": "0009_blood_toll_bracers-icon.webp",
@@ -167,9 +175,13 @@
         ],
         "free_content": false,
         "shop": [
-          "magic_shop",
-          "black_market"
-        ]
+          "armorsmith",
+          "temple",
+          "arcane_smith"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0010_eye_of_obliteration": {
@@ -257,7 +269,7 @@
       "description": "A morbid artifact allowing you to imprison a creature within the head's dream.",
       "name": "Dreamer's Prison",
       "properties": {
-        "rarity": "Uncommon",
+        "rarity": "Rare",
         "attunement": true,
         "origin": "occult",
         "item_type": "Trinket",
@@ -276,9 +288,13 @@
         ],
         "free_content": false,
         "shop": [
+          "black_market",
           "magic_shop",
-          "black_market"
-        ]
+          "weaponsmith"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0015_sunflower_scepter": {
@@ -371,7 +387,7 @@
       "properties": {
         "rarity": "Legendary",
         "attunement": true,
-        "origin": "blessed",
+        "origin": "relic",
         "item_type": "Heavy Armor",
         "tier": 3,
         "price": "28800",
@@ -386,10 +402,13 @@
         ],
         "free_content": false,
         "shop": [
-          "armorsmith",
-          "temple",
-          "legendary_merchant"
-        ]
+          "magic_shop",
+          "black_market",
+          "temple"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0019_osseous_mask": {
@@ -427,7 +446,7 @@
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
-        "origin": "giantforged",
+        "origin": "giant_forged",
         "item_type": "Medium Armor",
         "tier": 2,
         "price": "6600",
@@ -442,9 +461,13 @@
         ],
         "free_content": false,
         "shop": [
-          "armorsmith",
-          "magic_shop"
-        ]
+          "weaponsmith",
+          "arcane_smith",
+          "crafting_guild"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0022_ossian_crown": {
@@ -482,8 +505,8 @@
         "attunement": true,
         "origin": "primordial",
         "item_type": "Trinket",
-        "tier": 2,
-        "price": "2100",
+        "tier": 1,
+        "price": "1850",
         "icon": "0024_ancestral_fragment-icon.webp",
         "hidden_tags": [
           "ancestral",
@@ -495,9 +518,13 @@
         ],
         "free_content": false,
         "shop": [
+          "planar_merchant",
           "magic_shop",
-          "planar_merchant"
-        ]
+          "legendary_merchant"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0025_lightbringer_torch": {
@@ -507,8 +534,8 @@
       "properties": {
         "rarity": "Rare",
         "attunement": true,
-        "origin": "relic",
-        "item_type": "Trinket",
+        "origin": "blessed",
+        "item_type": "Torch",
         "tier": 2,
         "price": "4600",
         "icon": "0025_lightbringer_torch-icon.webp",
@@ -522,8 +549,12 @@
         "free_content": false,
         "shop": [
           "temple",
+          "magic_shop",
           "healer"
-        ]
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0026_molten_core": {
@@ -533,8 +564,8 @@
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
-        "origin": "primordial",
-        "item_type": "Trinket",
+        "origin": "beastforged",
+        "item_type": "Gemstone",
         "tier": 2,
         "price": "4800",
         "icon": "0026_molten_core-icon.webp",
@@ -548,9 +579,13 @@
         ],
         "free_content": false,
         "shop": [
-          "magic_shop",
-          "planar_merchant"
-        ]
+          "weaponsmith",
+          "monster_hunter_guild",
+          "magic_shop"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0002_devils_deck_sweeper": {
@@ -593,7 +628,7 @@
         "rarity": "Rare",
         "attunement": true,
         "origin": "occult",
-        "item_type": "Trinket",
+        "item_type": "Spellcasting Focus",
         "tier": 1,
         "price": "750",
         "icon": "0031_gravewardens_bell-icon.webp",
@@ -607,9 +642,13 @@
         ],
         "free_content": false,
         "shop": [
-          "temple",
-          "magic_shop"
-        ]
+          "black_market",
+          "magic_shop",
+          "weaponsmith"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0032_crescent_moon": {
@@ -672,7 +711,7 @@
       "properties": {
         "rarity": "Rare",
         "attunement": false,
-        "origin": "technoarcane",
+        "origin": "techno_arcane",
         "item_type": "Consumable",
         "tier": 1,
         "price": "800",
@@ -685,8 +724,12 @@
         "free_content": false,
         "shop": [
           "magic_shop",
+          "arcane_smith",
           "alchemist"
-        ]
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0035_dreamraker": {
@@ -768,9 +811,13 @@
         ],
         "free_content": false,
         "shop": [
-          "armorsmith",
-          "arcane_smith"
-        ]
+          "healer",
+          "magic_shop",
+          "alchemist"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0038_seed_of_renewal": {
@@ -973,15 +1020,27 @@
         "attunement": true,
         "origin": "blessed",
         "item_type": "Heavy Armor",
-        "tier": 2,
+        "tier": 1,
         "price": "5200",
         "icon": "0045_bridgehead-icon.webp",
-        "hidden_tags": [],
+        "hidden_tags": [
+          "damage reduction",
+          "blood magic",
+          "sacrifice",
+          "defensive",
+          "heavy armor",
+          "paladin",
+          "fighter"
+        ],
         "free_content": false,
         "shop": [
           "armorsmith",
-          "temple"
-        ]
+          "temple",
+          "magic_shop"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0046_mourners_frock": {
@@ -1006,9 +1065,13 @@
         ],
         "free_content": false,
         "shop": [
-          "armorsmith",
-          "magic_shop"
-        ]
+          "weaponsmith",
+          "arcane_smith",
+          "black_market"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0049_foremans_flask": {
@@ -1039,12 +1102,12 @@
     "0047_beast_hunters_cowl": {
       "key": "0047_beast_hunters_cowl",
       "description": "Allows you to cast a spell that highlights vulnerable prey and increases your chance of a critical hit against it.",
-      "name": "Beast-Hunter's Cowl",
+      "name": "Beast Hunter's Cowl",
       "properties": {
         "rarity": "Uncommon",
         "attunement": true,
         "origin": "beastforged",
-        "item_type": "Clothing",
+        "item_type": "Cloak",
         "tier": 2,
         "price": "2200",
         "icon": "0047_beast_hunters_cowl-icon.webp",
@@ -1057,9 +1120,13 @@
         ],
         "free_content": false,
         "shop": [
+          "weaponsmith",
           "monster_hunter_guild",
           "magic_shop"
-        ]
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0048_fadesilk_shroud": {
@@ -1069,8 +1136,8 @@
       "properties": {
         "rarity": "Rare",
         "attunement": true,
-        "origin": "arcane",
-        "item_type": "Clothing",
+        "origin": "druidic",
+        "item_type": "Cloak",
         "tier": 2,
         "price": "3200",
         "icon": "0048_fadesilk_shroud-icon.webp",
@@ -1083,9 +1150,13 @@
         ],
         "free_content": false,
         "shop": [
+          "healer",
           "magic_shop",
-          "thieves_guild"
-        ]
+          "alchemist"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0050_brawlers_eagerness": {
@@ -1111,8 +1182,13 @@
         ],
         "free_content": false,
         "shop": [
-          "magic_shop"
-        ]
+          "weaponsmith",
+          "arcane_smith",
+          "black_market"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0051_blessed_bindings": {
@@ -1137,8 +1213,12 @@
         "free_content": false,
         "shop": [
           "temple",
-          "magic_shop"
-        ]
+          "magic_shop",
+          "healer"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0053_robes_of_reflection": {
@@ -1282,7 +1362,7 @@
         "rarity": "Very Rare",
         "attunement": true,
         "origin": "mutation",
-        "item_type": "Trinket",
+        "item_type": "Mutation",
         "tier": 2,
         "price": "5000",
         "icon": "0056_hiveheart-icon.webp",
@@ -1297,9 +1377,13 @@
         ],
         "free_content": false,
         "shop": [
-          "magic_shop",
-          "black_market"
-        ]
+          "black_market",
+          "hag",
+          "alchemist"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0057_sullen_knights_helmet": {
@@ -1310,7 +1394,7 @@
         "rarity": "Rare",
         "attunement": true,
         "origin": "awoken",
-        "item_type": "Clothing",
+        "item_type": "Heavy Armor",
         "tier": 1,
         "price": "2700",
         "icon": "0057_sullen_knights_helmet-icon.webp",
@@ -1323,20 +1407,24 @@
         ],
         "free_content": false,
         "shop": [
-          "magic_shop",
+          "weaponsmith",
+          "arcane_smith",
           "black_market"
-        ]
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0058_bascinet_of_ancient_tactica": {
       "key": "0058_bascinet_of_ancient_tactica",
       "description": "At the start of each combat, you learn two maneuvers and the have option to adapt your fighting style.",
-      "name": "Bascinet Of Ancient Tactica",
+      "name": "Bascinet of Ancient Tactica",
       "properties": {
         "rarity": "Legendary",
         "attunement": true,
         "origin": "awoken",
-        "item_type": "Clothing",
+        "item_type": "Medium Armor",
         "tier": 2,
         "price": "12500",
         "icon": "0058_bascinet_of_ancient_tactica-icon.webp",
@@ -1348,9 +1436,13 @@
         ],
         "free_content": true,
         "shop": [
-          "magic_shop",
-          "legendary_merchant"
-        ]
+          "weaponsmith",
+          "arcane_smith",
+          "black_market"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0059_bottlesnatcher_imp": {
@@ -1384,12 +1476,12 @@
     "0060_heart_of_iron": {
       "key": "0060_heart_of_iron",
       "description": "A mechanical heart that lets you awaken a suit of heavy armor, turning it into a mighty servant.",
-      "name": "Heart Of Iron",
+      "name": "Heart of Iron",
       "properties": {
         "rarity": "Very Rare",
-        "attunement": false,
-        "origin": "technoarcane",
-        "item_type": "Trinket",
+        "attunement": true,
+        "origin": "techno_arcane",
+        "item_type": "Adventuring Gear",
         "tier": 2,
         "price": "13600",
         "icon": "0060_heart_of_iron-icon.webp",
@@ -1404,8 +1496,12 @@
         "free_content": false,
         "shop": [
           "magic_shop",
-          "arcane_smith"
-        ]
+          "arcane_smith",
+          "alchemist"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0061_spelldrinker_scroll": {
@@ -1468,17 +1564,29 @@
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
-        "origin": "giantforged",
+        "origin": "giant_forged",
         "item_type": "Shield",
         "tier": 2,
         "price": "5200",
         "icon": "0064_boreal_bulwark-icon.webp",
-        "hidden_tags": [],
+        "hidden_tags": [
+          "damage negation",
+          "willpower",
+          "fey",
+          "cold damage",
+          "shield",
+          "paladin",
+          "fighter"
+        ],
         "free_content": false,
         "shop": [
-          "armorsmith",
-          "arcane_smith"
-        ]
+          "weaponsmith",
+          "arcane_smith",
+          "crafting_guild"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0065_duskdreamers_diadem": {
@@ -1724,9 +1832,12 @@
         "free_content": false,
         "shop": [
           "armorsmith",
-          "arcane_smith",
-          "temple"
-        ]
+          "temple",
+          "arcane_smith"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0074_dawnmartyr_pelerine": {
@@ -1737,7 +1848,7 @@
         "rarity": "Very Rare",
         "attunement": true,
         "origin": "blessed",
-        "item_type": "Clothing",
+        "item_type": "Cloak",
         "tier": 3,
         "price": "25700",
         "icon": "0074_dawnmartyr_pelerine-icon.webp",
@@ -1754,9 +1865,12 @@
         "free_content": false,
         "shop": [
           "temple",
-          "healer",
-          "magic_shop"
-        ]
+          "magic_shop",
+          "healer"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0075_grace_of_the_shade_court": {
@@ -1767,7 +1881,7 @@
         "rarity": "Very Rare",
         "attunement": true,
         "origin": "feywoven",
-        "item_type": "Clothing",
+        "item_type": "Crown",
         "tier": 3,
         "price": "44800",
         "icon": "0075_grace_of_the_shade_court-icon.webp",
@@ -1782,10 +1896,13 @@
         ],
         "free_content": false,
         "shop": [
-          "planar_merchant",
           "magic_shop",
-          "mysterious_merchant"
-        ]
+          "planar_merchant",
+          "hag"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0076_mask_of_the_third_eye": {
@@ -1892,9 +2009,12 @@
         "free_content": false,
         "shop": [
           "temple",
-          "alchemist",
+          "magic_shop",
           "healer"
-        ]
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0080_mind_tyrant": {
@@ -1962,7 +2082,7 @@
         "rarity": "Rare",
         "attunement": true,
         "origin": "arcane",
-        "item_type": "Clothing",
+        "item_type": "Hat",
         "tier": 2,
         "price": "5200",
         "icon": "0083_ghostflicker_habit-icon.webp",
@@ -1975,8 +2095,12 @@
         "free_content": false,
         "shop": [
           "magic_shop",
-          "arcane_smith"
-        ]
+          "arcane_smith",
+          "healer"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0084_reefs_splendour": {
@@ -2043,7 +2167,7 @@
         "rarity": "Rare",
         "attunement": true,
         "origin": "sanctified",
-        "item_type": "Medium Armor",
+        "item_type": "Mask",
         "tier": 2,
         "price": "4600",
         "icon": "0087_irontide_raidmask-icon.webp",
@@ -2056,10 +2180,13 @@
         ],
         "free_content": false,
         "shop": [
-          "armorsmith",
           "temple",
-          "arcane_smith"
-        ]
+          "magic_shop",
+          "monster_hunter_guild"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0088_fluttershade_habit": {
@@ -2070,7 +2197,7 @@
         "rarity": "Uncommon",
         "attunement": true,
         "origin": "feywoven",
-        "item_type": "Clothing",
+        "item_type": "Hat",
         "tier": 1,
         "price": "1750",
         "icon": "0088_fluttershade_habit-icon.webp",
@@ -2084,8 +2211,12 @@
         "free_content": false,
         "shop": [
           "magic_shop",
-          "planar_merchant"
-        ]
+          "planar_merchant",
+          "hag"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0086_gravelord_scepter": {
@@ -2326,7 +2457,14 @@
         "tier": 1,
         "price": "480",
         "icon": "0100_latchling_vial-icon.webp",
-        "hidden_tags": [],
+        "hidden_tags": [
+          "summoning",
+          "construct",
+          "parasite",
+          "conjuration",
+          "artificer",
+          "wizard"
+        ],
         "free_content": false,
         "shop": [
           "black_market",
@@ -2358,10 +2496,13 @@
         ],
         "free_content": false,
         "shop": [
-          "magic_shop",
           "black_market",
-          "thieves_guild"
-        ]
+          "magic_shop",
+          "weaponsmith"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0081_truthtaker": {
@@ -2685,7 +2826,7 @@
       "properties": {
         "rarity": "Rare",
         "attunement": true,
-        "origin": "technoarcane",
+        "origin": "techno_arcane",
         "item_type": "Adventuring Gear",
         "tier": 2,
         "price": "2300",
@@ -2702,8 +2843,12 @@
         "free_content": false,
         "shop": [
           "magic_shop",
-          "arcane_smith"
-        ]
+          "arcane_smith",
+          "alchemist"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0105_consciousmist_potion": {
@@ -2769,7 +2914,7 @@
       "properties": {
         "rarity": "Rare",
         "attunement": true,
-        "origin": "dwarvenforged",
+        "origin": "dwarven_forged",
         "item_type": "Impr. Weapon",
         "tier": 1,
         "price": "1870",
@@ -2784,8 +2929,12 @@
         "free_content": false,
         "shop": [
           "weaponsmith",
-          "tavern"
-        ]
+          "armorsmith",
+          "arcane_smith"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0108_proliferating_plate": {
@@ -3012,10 +3161,13 @@
         ],
         "free_content": false,
         "shop": [
-          "armorsmith",
-          "magic_shop",
-          "arcane_smith"
-        ]
+          "weaponsmith",
+          "arcane_smith",
+          "black_market"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0115_helmet_of_the_chivalric_champion": {
@@ -3041,10 +3193,13 @@
         ],
         "free_content": false,
         "shop": [
-          "armorsmith",
-          "magic_shop",
-          "arcane_smith"
-        ]
+          "weaponsmith",
+          "arcane_smith",
+          "black_market"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0114_craven_cutlass": {
@@ -3115,7 +3270,14 @@
         "tier": 1,
         "price": "2200",
         "icon": "0120_hjalmars_nifty_apron-icon.webp",
-        "hidden_tags": [],
+        "hidden_tags": [
+          "utility",
+          "summoning",
+          "tools",
+          "storage",
+          "artificer",
+          "rogue"
+        ],
         "free_content": false,
         "shop": [
           "armorsmith",
@@ -3312,8 +3474,12 @@
         "free_content": false,
         "shop": [
           "magic_shop",
-          "arcane_smith"
-        ]
+          "arcane_smith",
+          "healer"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0127_leaf_of_promised_return": {
@@ -3367,8 +3533,12 @@
         "free_content": false,
         "shop": [
           "weaponsmith",
-          "monster_hunter_guild"
-        ]
+          "monster_hunter_guild",
+          "magic_shop"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0129_harrowing_gutpipes": {
@@ -3422,8 +3592,13 @@
         ],
         "free_content": false,
         "shop": [
-          "magic_shop"
-        ]
+          "weaponsmith",
+          "arcane_smith",
+          "black_market"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0131_blessing_of_the_vaettir": {
@@ -3448,9 +3623,13 @@
         ],
         "free_content": false,
         "shop": [
+          "magic_shop",
           "planar_merchant",
-          "magic_shop"
-        ]
+          "alchemist"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0132_gloomspore_cap": {
@@ -3461,7 +3640,7 @@
         "rarity": "Uncommon",
         "attunement": true,
         "origin": "druidic",
-        "item_type": "Clothing",
+        "item_type": "Hat",
         "tier": 1,
         "price": "3100",
         "icon": "0132_gloomspore_cap-icon.webp",
@@ -3475,9 +3654,13 @@
         ],
         "free_content": false,
         "shop": [
-          "alchemist",
-          "magic_shop"
-        ]
+          "healer",
+          "magic_shop",
+          "alchemist"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0133_voltgheist_shroud": {
@@ -3487,7 +3670,7 @@
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
-        "origin": "technoarcane",
+        "origin": "techno_arcane",
         "item_type": "Cloak",
         "tier": 3,
         "price": "14500",
@@ -3504,8 +3687,12 @@
         "free_content": false,
         "shop": [
           "magic_shop",
-          "arcane_smith"
-        ]
+          "arcane_smith",
+          "alchemist"
+        ],
+        "biome": [],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0062_three_feather_tricorne": {
@@ -3613,46 +3800,14 @@
           "warlock"
         ],
         "free_content": false,
-        "shop": [],
+        "shop": [
+          "magic_shop",
+          "arcane_smith",
+          "alchemist"
+        ],
         "biome": [],
         "updated_date": "2026-07-20",
         "release_date": "2026-07-20"
-      }
-    },
-    "0146_suppressor_shackles": {
-      "key": "0146_suppressor_shackles",
-      "name": "Suppressor Shackles",
-      "description": "Used to subdue spellcasters, as it cuts them off from the source of their magic.",
-      "properties": {
-        "rarity": "Very Rare",
-        "attunement": true,
-        "origin": "sanctified",
-        "item_type": "Adventuring Gear",
-        "tier": 2,
-        "price": "6300",
-        "icon": "0146_suppressor_shackles-icon.webp",
-        "hidden_tags": [
-          "restraint",
-          "control",
-          "debuff",
-          "imprisonment",
-          "magic suppression"
-        ],
-        "free_content": false,
-        "shop": [
-          "magic_shop",
-          "mysterious_merchant",
-          "monster_hunter_guild",
-          "weirdo_merchant",
-          "arcane_smith"
-        ],
-        "biome": [
-          "infernal_fortress",
-          "military_base",
-          "wizards_tower"
-        ],
-        "updated_date": "2026-07-17",
-        "release_date": "2026-07-17"
       }
     },
     "0000_srd_acid": {
@@ -15870,6 +16025,15 @@
           "dragon_hoard",
           "undead_lair",
           "ancient_temple"
+        ],
+        "hidden_tags": [
+          "invisibility",
+          "illusion",
+          "duplicate",
+          "evasion",
+          "stealth",
+          "rogue",
+          "wizard"
         ]
       }
     },
@@ -15895,6 +16059,14 @@
           "ancient_temple",
           "dragon_hoard",
           "reliquary"
+        ],
+        "hidden_tags": [
+          "insight",
+          "divination",
+          "buff",
+          "melee weapon",
+          "paladin",
+          "cleric"
         ]
       }
     },
@@ -15918,6 +16090,14 @@
         ],
         "biome": [
           "shipwreck"
+        ],
+        "hidden_tags": [
+          "scrying",
+          "divination",
+          "attack bonus",
+          "trinket",
+          "wizard",
+          "rogue"
         ]
       }
     },
@@ -15945,35 +16125,15 @@
         "biome": [
           "military_base",
           "treasure_vault"
+        ],
+        "hidden_tags": [
+          "healing",
+          "buff",
+          "one-time use",
+          "consumable",
+          "cleric",
+          "fighter"
         ]
-      }
-    },
-    "0141_immolator_mask": {
-      "key": "0141_immolator_mask",
-      "name": "Immolator Mask",
-      "description": "Boosts the potency of fire spells, at a cost.",
-      "properties": {
-        "rarity": "Rare",
-        "attunement": true,
-        "origin": "infernal",
-        "item_type": "Mask",
-        "tier": 1,
-        "price": "1700",
-        "icon": "0141_immolator_mask-icon.webp",
-        "shop": [
-          "infernal_shop",
-          "planar_merchant",
-          "hag",
-          "weirdo_merchant"
-        ],
-        "biome": [
-          "defiled_temple",
-          "cultist_hideout",
-          "infernal_fortress",
-          "wizards_tower"
-        ],
-        "updated_date": "2026-07-20",
-        "release_date": "2026-07-20"
       }
     },
     "0142_mirrorgate_shield": {
@@ -16000,7 +16160,16 @@
           "heros_grave"
         ],
         "updated_date": "2026-07-20",
-        "release_date": "2026-07-20"
+        "release_date": "2026-07-20",
+        "hidden_tags": [
+          "teleportation",
+          "redirection",
+          "reaction",
+          "crystalline",
+          "shield",
+          "fighter",
+          "paladin"
+        ]
       }
     },
     "0143_gatekeeper": {
@@ -16026,7 +16195,15 @@
           "military_base"
         ],
         "updated_date": "2026-07-20",
-        "release_date": "2026-07-20"
+        "release_date": "2026-07-20",
+        "hidden_tags": [
+          "conditional bonus",
+          "zone control",
+          "threshold",
+          "martial weapon",
+          "fighter",
+          "paladin"
+        ]
       }
     },
     "0144_universal_permit": {
@@ -16051,7 +16228,16 @@
           "wizards_tower"
         ],
         "updated_date": "2026-07-20",
-        "release_date": "2026-07-20"
+        "release_date": "2026-07-20",
+        "hidden_tags": [
+          "deception",
+          "persuasion",
+          "compulsion",
+          "social",
+          "consumable",
+          "bard",
+          "rogue"
+        ]
       }
     },
     "0145_lantern_of_transmutation": {
@@ -16079,7 +16265,15 @@
           "treasure_vault"
         ],
         "updated_date": "2026-07-21",
-        "release_date": "2026-07-20"
+        "release_date": "2026-07-20",
+        "hidden_tags": [
+          "spellcasting focus",
+          "transmutation",
+          "damage reduction",
+          "buff",
+          "wizard",
+          "sorcerer"
+        ]
       }
     },
     "0146_skitterstalk_strain": {
@@ -16105,7 +16299,16 @@
           "dungeon"
         ],
         "updated_date": "2026-07-20",
-        "release_date": "2026-07-20"
+        "release_date": "2026-07-20",
+        "hidden_tags": [
+          "mutation",
+          "movement",
+          "climbing",
+          "spider",
+          "buff",
+          "rogue",
+          "ranger"
+        ]
       }
     },
     "0147_hallowblight_strain": {
@@ -16135,7 +16338,15 @@
           "archive"
         ],
         "updated_date": "2026-07-20",
-        "release_date": "2026-07-20"
+        "release_date": "2026-07-20",
+        "hidden_tags": [
+          "disease",
+          "undead",
+          "debuff",
+          "necrotic damage",
+          "cleric",
+          "paladin"
+        ]
       }
     },
     "0005_valkyries_will": {
@@ -16160,7 +16371,16 @@
           "ancient_temple"
         ],
         "release_date": "2026-07-17",
-        "updated_date": "2026-07-17"
+        "updated_date": "2026-07-17",
+        "hidden_tags": [
+          "thunder damage",
+          "melee",
+          "buff",
+          "divine",
+          "paladin",
+          "fighter",
+          "cleric"
+        ]
       }
     },
     "0150_ledger_of_a_thousand_tabs": {
@@ -16187,7 +16407,16 @@
           "wizards_tower"
         ],
         "release_date": "2026-07-20",
-        "updated_date": "2026-07-20"
+        "updated_date": "2026-07-20",
+        "hidden_tags": [
+          "divination",
+          "scrying",
+          "spellcasting",
+          "social",
+          "debt",
+          "warlock",
+          "wizard"
+        ]
       }
     },
     "0149_hungering_hood": {
@@ -16210,33 +16439,16 @@
           "dungeon"
         ],
         "release_date": "2026-07-20",
-        "updated_date": "2026-07-20"
-      }
-    },
-    "0149_curserot_skewer": {
-      "key": "0149_curserot_skewer",
-      "name": "Curserot Skewer",
-      "description": "Critical hits cause splinters to lodge into the target, debuffing it.",
-      "properties": {
-        "rarity": "Rare",
-        "attunement": true,
-        "origin": "mutation",
-        "item_type": "Spear",
-        "tier": 1,
-        "price": "2400",
-        "icon": "0149_curserot_skewer-icon.webp",
-        "shop": [
-          "weirdo_merchant",
-          "hag",
-          "mysterious_merchant"
-        ],
-        "biome": [
-          "defiled_temple",
-          "dungeon",
-          "laboratory"
-        ],
-        "release_date": "2026-07-20",
-        "updated_date": "2026-07-20"
+        "updated_date": "2026-07-20",
+        "hidden_tags": [
+          "reaction",
+          "extra attack",
+          "piercing damage",
+          "movement",
+          "beastforged",
+          "barbarian",
+          "fighter"
+        ]
       }
     },
     "0148_flail_of_frustration": {
@@ -16264,7 +16476,15 @@
           "military_base"
         ],
         "release_date": "2026-07-20",
-        "updated_date": "2026-07-21"
+        "updated_date": "2026-07-21",
+        "hidden_tags": [
+          "charge mechanic",
+          "attack bonus",
+          "martial weapon",
+          "relic",
+          "fighter",
+          "barbarian"
+        ]
       }
     },
     "0139_puppeteers_plaything": {
@@ -16289,7 +16509,16 @@
           "dungeon"
         ],
         "release_date": "2026-07-20",
-        "updated_date": "2026-07-20"
+        "updated_date": "2026-07-20",
+        "hidden_tags": [
+          "grapple",
+          "control",
+          "redirection",
+          "infernal",
+          "martial weapon",
+          "fighter",
+          "warlock"
+        ]
       }
     },
     "0151_immolator_mask": {
@@ -16317,7 +16546,15 @@
           "wizards_tower"
         ],
         "release_date": "2026-07-21",
-        "updated_date": "2026-07-21"
+        "updated_date": "2026-07-21",
+        "hidden_tags": [
+          "fire damage",
+          "spellcasting",
+          "self damage",
+          "infernal",
+          "sorcerer",
+          "warlock"
+        ]
       }
     },
     "0152_suppressor_shackles": {
@@ -16345,7 +16582,15 @@
           "wizards_tower"
         ],
         "release_date": "2026-07-21",
-        "updated_date": "2026-07-21"
+        "updated_date": "2026-07-21",
+        "hidden_tags": [
+          "restrained",
+          "anti-magic",
+          "control",
+          "sanctified",
+          "paladin",
+          "monster hunter"
+        ]
       }
     },
     "0137_curserot_skewer": {
@@ -16371,7 +16616,16 @@
           "laboratory"
         ],
         "release_date": "2026-07-21",
-        "updated_date": "2026-07-21"
+        "updated_date": "2026-07-21",
+        "hidden_tags": [
+          "critical hit",
+          "poison damage",
+          "debuff",
+          "mutation",
+          "melee weapon",
+          "rogue",
+          "ranger"
+        ]
       }
     }
   }
