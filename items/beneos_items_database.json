@@ -16285,6 +16285,62 @@
         "release_date": "2026-07-20",
         "updated_date": "2026-07-20"
       }
+    },
+    "0151_immolator_mask": {
+      "key": "0151_immolator_mask",
+      "name": "Immolator Mask",
+      "description": "Boosts the potency of fire spells, at a cost.",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "infernal",
+        "item_type": "Mask",
+        "tier": 1,
+        "price": "1700",
+        "icon": "0151_immolator_mask-icon.webp",
+        "shop": [
+          "infernal_shop",
+          "planar_merchant",
+          "hag",
+          "weirdo_merchant"
+        ],
+        "biome": [
+          "defiled_temple",
+          "cultist_hideout",
+          "infernal_fortress",
+          "wizards_tower"
+        ],
+        "release_date": "2026-07-21",
+        "updated_date": "2026-07-21"
+      }
+    },
+    "0152_suppressor_shackles": {
+      "key": "0152_suppressor_shackles",
+      "name": "Suppressor Shackles",
+      "description": "Used to subdue spellcasters, as it cuts them off from the source of their magic.",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "sanctified",
+        "item_type": "Adventuring Gear",
+        "tier": 2,
+        "price": "6300",
+        "icon": "0152_suppressor_shackles-icon.webp",
+        "shop": [
+          "magic_shop",
+          "mysterious_merchant",
+          "monster_hunter_guild",
+          "weirdo_merchant",
+          "arcane_smith"
+        ],
+        "biome": [
+          "infernal_fortress",
+          "military_base",
+          "wizards_tower"
+        ],
+        "release_date": "2026-07-21",
+        "updated_date": "2026-07-21"
+      }
     }
   }
 }
