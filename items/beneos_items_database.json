@@ -3592,7 +3592,7 @@
       "properties": {
         "rarity": "Rare",
         "attunement": false,
-        "origin": "technoarcane",
+        "origin": "techno_arcane",
         "item_type": "Consumable",
         "tier": 1,
         "price": "1950",
@@ -3607,11 +3607,10 @@
           "warlock"
         ],
         "free_content": false,
-        "shop": [
-          "alchemist",
-          "black_market",
-          "monster_hunter_guild"
-        ]
+        "shop": [],
+        "biome": [],
+        "updated_date": "2026-07-20",
+        "release_date": "2026-07-20"
       }
     },
     "0146_suppressor_shackles": {
@@ -15946,7 +15945,7 @@
     "0141_immolator_mask": {
       "key": "0141_immolator_mask",
       "name": "Immolator Mask",
-      "description": "Sacrifice health to increase fire damage.",
+      "description": "Boosts the potency of fire spells, at a cost.",
       "properties": {
         "rarity": "Rare",
         "attunement": true,
@@ -15956,15 +15955,19 @@
         "price": "1700",
         "icon": "0141_immolator_mask-icon.webp",
         "shop": [
+          "infernal_shop",
           "planar_merchant",
-          "infernal_shop"
+          "hag",
+          "weirdo_merchant"
         ],
         "biome": [
-          "infernal_fortress",
-          "dragon_hoard",
+          "defiled_temple",
           "cultist_hideout",
-          "defiled_temple"
-        ]
+          "infernal_fortress",
+          "wizards_tower"
+        ],
+        "updated_date": "2026-07-20",
+        "release_date": "2026-07-20"
       }
     },
     "0142_mirrorgate_shield": {
@@ -15975,48 +15978,55 @@
         "rarity": "Very Rare",
         "attunement": true,
         "origin": "crystalline",
-        "item_type": "Shield +1",
-        "tier": 3,
+        "item_type": "Shield",
+        "tier": 1,
         "price": "24000",
         "icon": "0142_mirrorgate_shield-icon.webp",
         "shop": [
-          "magic_shop",
-          "planar_merchant"
+          "arcane_smith",
+          "weaponsmith",
+          "magic_shop"
         ],
         "biome": [
-          "crystal_cave"
-        ]
+          "crystal_cave",
+          "dragon_hoard",
+          "castle",
+          "heros_grave"
+        ],
+        "updated_date": "2026-07-20",
+        "release_date": "2026-07-20"
       }
     },
     "0143_gatekeeper": {
       "key": "0143_gatekeeper",
       "name": "Gatekeeper",
-      "description": "Becomes stronger when actually fulfilling its purpose.",
+      "description": "Increases in power while actually guarding a gate or any threshold.",
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
         "origin": "ancient",
         "item_type": "Halberd",
         "tier": 2,
-        "price": "5200",
+        "price": "6850",
         "icon": "0143_gatekeeper-icon.webp",
         "shop": [
-          "magic_shop",
-          "legendary_merchant",
-          "arcane_smith"
+          "arcane_smith",
+          "weaponsmith",
+          "temple"
         ],
         "biome": [
-          "dungeon",
+          "ancient_temple",
           "heros_grave",
-          "castle",
           "military_base"
-        ]
+        ],
+        "updated_date": "2026-07-20",
+        "release_date": "2026-07-20"
       }
     },
     "0144_universal_permit": {
       "key": "0144_universal_permit",
       "name": "Universal Permit",
-      "description": "Compels its recipient to grant whatever it demands.",
+      "description": "Can be used as a stand-in for any permission slip.",
       "properties": {
         "rarity": "Very Rare",
         "attunement": false,
@@ -16026,43 +16036,50 @@
         "price": "8250",
         "icon": "0144_universal_permit-icon.webp",
         "shop": [
-          "hag",
-          "mysterious_merchant",
           "planar_merchant"
         ],
         "biome": [
           "feywild",
           "archive",
-          "library"
-        ]
+          "library",
+          "wizards_tower"
+        ],
+        "updated_date": "2026-07-20",
+        "release_date": "2026-07-20"
       }
     },
     "0145_lantern_of_transmutation": {
       "key": "0145_lantern_of_transmutation",
       "name": "Lantern of Transmutation",
-      "description": "Increased effectiveness of transmutation spells and a few other benefits.",
+      "description": "Grants varied abilities based on the school of transmutation.",
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
         "origin": "techno_arcane",
-        "item_type": "Spellfocus +1",
+        "item_type": "",
         "tier": 2,
-        "price": "5600",
+        "price": "6600",
         "icon": "0145_lantern_of_transmutation-icon.webp",
         "shop": [
           "magic_shop",
+          "planar_merchant",
           "alchemist"
         ],
         "biome": [
+          "library",
+          "archive",
           "wizards_tower",
-          "laboratory"
-        ]
+          "laboratory",
+          "treasure_vault"
+        ],
+        "updated_date": "2026-07-20",
+        "release_date": "2026-07-20"
       }
     },
     "0146_skitterstalk_strain": {
       "key": "0146_skitterstalk_strain",
       "name": "Skitterstalk Strain",
-      "description": "Grants you a mutation that increases your mobility.",
+      "description": "Sprout spidery stalks from your back to climb walls and ceilings.",
       "properties": {
         "rarity": "Rare",
         "attunement": true,
@@ -16072,37 +16089,47 @@
         "price": "3600",
         "icon": "0146_skitterstalk_strain-icon.webp",
         "shop": [
-          "mysterious_merchant",
-          "planar_merchant",
-          "alchemist"
+          "weirdo_merchant",
+          "alchemist",
+          "hag"
         ],
         "biome": [
-          "laboratory"
-        ]
+          "defiled_temple",
+          "laboratory",
+          "dungeon"
+        ],
+        "updated_date": "2026-07-20",
+        "release_date": "2026-07-20"
       }
     },
     "0147_hallowblight_strain": {
       "key": "0147_hallowblight_strain",
       "name": "Hallowblight Strain",
-      "description": "Turns you into a carrier of a disease that negatively affects undead.",
+      "description": "Turns you into a vector for a plague that weakens undead.",
       "properties": {
         "rarity": "Rare",
-        "attunement": false,
+        "attunement": true,
         "origin": "sanctified",
-        "item_type": "Consumable",
+        "item_type": "Potion",
         "tier": 2,
         "price": "3400",
         "icon": "0147_hallowblight_strain-icon.webp",
         "shop": [
+          "hag",
+          "healer",
           "monster_hunter_guild",
-          "alchemist"
+          "alchemist",
+          "temple",
+          "traveling_merchant"
         ],
         "biome": [
-          "archive",
           "laboratory",
           "ancient_temple",
-          "reliquary"
-        ]
+          "library",
+          "archive"
+        ],
+        "updated_date": "2026-07-20",
+        "release_date": "2026-07-20"
       }
     },
     "0005_valkyries_will": {
@@ -16128,6 +16155,135 @@
         ],
         "release_date": "2026-07-17",
         "updated_date": "2026-07-17"
+      }
+    },
+    "0150_ledger_of_a_thousand_tabs": {
+      "key": "0150_ledger_of_a_thousand_tabs",
+      "name": "Ledger of a Thousand Tabs",
+      "description": "Keep tabs on creatures in your debt.",
+      "properties": {
+        "rarity": "Legendary",
+        "attunement": true,
+        "origin": "infernal",
+        "item_type": "Book",
+        "tier": 2,
+        "price": "35200",
+        "icon": "0150_ledger_of_a_thousand_tabs-icon.webp",
+        "shop": [
+          "infernal_shop",
+          "mysterious_merchant",
+          "weirdo_merchant"
+        ],
+        "biome": [
+          "cultist_hideout",
+          "defiled_temple",
+          "infernal_fortress",
+          "wizards_tower"
+        ],
+        "release_date": "2026-07-20",
+        "updated_date": "2026-07-20"
+      }
+    },
+    "0149_hungering_hood": {
+      "key": "0149_hungering_hood",
+      "name": "Hungering Hood",
+      "description": "Grants a surge move when creatures are killed nearby.",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "beastforged",
+        "item_type": "Cloak",
+        "tier": 1,
+        "price": "2200",
+        "icon": "0149_hungering_hood-icon.webp",
+        "shop": [
+          "monster_hunter_guild",
+          "hag"
+        ],
+        "biome": [
+          "dungeon"
+        ],
+        "release_date": "2026-07-20",
+        "updated_date": "2026-07-20"
+      }
+    },
+    "0149_curserot_skewer": {
+      "key": "0149_curserot_skewer",
+      "name": "Curserot Skewer",
+      "description": "Critical hits cause splinters to lodge into the target, debuffing it.",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "mutation",
+        "item_type": "Spear",
+        "tier": 1,
+        "price": "2400",
+        "icon": "0149_curserot_skewer-icon.webp",
+        "shop": [
+          "weirdo_merchant",
+          "hag",
+          "mysterious_merchant"
+        ],
+        "biome": [
+          "defiled_temple",
+          "dungeon",
+          "laboratory"
+        ],
+        "release_date": "2026-07-20",
+        "updated_date": "2026-07-20"
+      }
+    },
+    "0148_flail_of_frustration": {
+      "key": "0148_flail_of_frustration",
+      "name": "Flail of Frustration",
+      "description": "Repeated misses in desperate situations cause this weapon to grow in power.",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "relic",
+        "item_type": "",
+        "tier": 1,
+        "price": "3100",
+        "icon": "0148_flail_of_frustration-icon.webp",
+        "shop": [
+          "arcane_smith",
+          "temple",
+          "weaponsmith"
+        ],
+        "biome": [
+          "ancient_temple",
+          "dungeon",
+          "heros_grave",
+          "reliquary",
+          "military_base"
+        ],
+        "release_date": "2026-07-20",
+        "updated_date": "2026-07-20"
+      }
+    },
+    "0139_puppeteers_plaything": {
+      "key": "0139_puppeteers_plaything",
+      "name": "Puppeteer's Plaything",
+      "description": "Turn grappled targets into your personal puppets, using them to atttack and defend.",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": true,
+        "origin": "infernal",
+        "item_type": "Whip",
+        "tier": 3,
+        "price": "13700",
+        "icon": "0139_puppeteers_plaything-icon.webp",
+        "shop": [
+          "black_market",
+          "mysterious_merchant"
+        ],
+        "biome": [
+          "cultist_hideout",
+          "infernal_forge",
+          "dungeon"
+        ],
+        "release_date": "2026-07-20",
+        "updated_date": "2026-07-20"
       }
     }
   }
