@@ -574,9 +574,15 @@
         ],
         "free_content": false,
         "shop": [
-          "weaponsmith",
+          "weirdo_merchant",
+          "hag",
           "infernal_shop"
-        ]
+        ],
+        "biome": [
+          "shipwreck"
+        ],
+        "updated_date": "2026-07-21",
+        "release_date": "2026-07-21"
       }
     },
     "0031_gravewardens_bell": {
@@ -16056,7 +16062,7 @@
         "rarity": "Very Rare",
         "attunement": true,
         "origin": "techno_arcane",
-        "item_type": "",
+        "item_type": "Spellfocus",
         "tier": 2,
         "price": "6600",
         "icon": "0145_lantern_of_transmutation-icon.webp",
@@ -16072,7 +16078,7 @@
           "laboratory",
           "treasure_vault"
         ],
-        "updated_date": "2026-07-20",
+        "updated_date": "2026-07-21",
         "release_date": "2026-07-20"
       }
     },
@@ -16241,7 +16247,7 @@
         "rarity": "Very Rare",
         "attunement": true,
         "origin": "relic",
-        "item_type": "",
+        "item_type": "Flail",
         "tier": 1,
         "price": "3100",
         "icon": "0148_flail_of_frustration-icon.webp",
@@ -16258,7 +16264,7 @@
           "military_base"
         ],
         "release_date": "2026-07-20",
-        "updated_date": "2026-07-20"
+        "updated_date": "2026-07-21"
       }
     },
     "0139_puppeteers_plaything": {
@@ -16337,6 +16343,32 @@
           "infernal_fortress",
           "military_base",
           "wizards_tower"
+        ],
+        "release_date": "2026-07-21",
+        "updated_date": "2026-07-21"
+      }
+    },
+    "0137_curserot_skewer": {
+      "key": "0137_curserot_skewer",
+      "name": "Curserot Skewer",
+      "description": "Critical hits cause splinters to lodge into the target, debuffing it.",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "mutation",
+        "item_type": "Spear",
+        "tier": 1,
+        "price": "2400",
+        "icon": "0137_curserot_skewer-icon.webp",
+        "shop": [
+          "weirdo_merchant",
+          "hag",
+          "mysterious_merchant"
+        ],
+        "biome": [
+          "defiled_temple",
+          "dungeon",
+          "laboratory"
         ],
         "release_date": "2026-07-21",
         "updated_date": "2026-07-21"
