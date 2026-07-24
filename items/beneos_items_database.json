@@ -446,7 +446,7 @@
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
-        "origin": "giant_forged",
+        "origin": "giantforged",
         "item_type": "Medium Armor",
         "tier": 2,
         "price": "6600",
@@ -711,7 +711,7 @@
       "properties": {
         "rarity": "Rare",
         "attunement": false,
-        "origin": "techno_arcane",
+        "origin": "technoarcane",
         "item_type": "Consumable",
         "tier": 1,
         "price": "800",
@@ -1480,7 +1480,7 @@
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
-        "origin": "techno_arcane",
+        "origin": "technoarcane",
         "item_type": "Adventuring Gear",
         "tier": 2,
         "price": "13600",
@@ -1564,7 +1564,7 @@
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
-        "origin": "giant_forged",
+        "origin": "giantforged",
         "item_type": "Shield",
         "tier": 2,
         "price": "5200",
@@ -2826,7 +2826,7 @@
       "properties": {
         "rarity": "Rare",
         "attunement": true,
-        "origin": "techno_arcane",
+        "origin": "technoarcane",
         "item_type": "Adventuring Gear",
         "tier": 2,
         "price": "2300",
@@ -2914,7 +2914,7 @@
       "properties": {
         "rarity": "Rare",
         "attunement": true,
-        "origin": "dwarven_forged",
+        "origin": "dwarvenforged",
         "item_type": "Impr. Weapon",
         "tier": 1,
         "price": "1870",
@@ -3670,7 +3670,7 @@
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
-        "origin": "techno_arcane",
+        "origin": "technoarcane",
         "item_type": "Cloak",
         "tier": 3,
         "price": "14500",
@@ -3785,7 +3785,7 @@
       "properties": {
         "rarity": "Rare",
         "attunement": false,
-        "origin": "techno_arcane",
+        "origin": "technoarcane",
         "item_type": "Consumable",
         "tier": 1,
         "price": "1950",
@@ -16247,7 +16247,7 @@
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
-        "origin": "techno_arcane",
+        "origin": "technoarcane",
         "item_type": "Spellfocus",
         "tier": 2,
         "price": "6600",
@@ -16356,7 +16356,7 @@
       "properties": {
         "rarity": "Legendary",
         "attunement": true,
-        "origin": "giant_forged",
+        "origin": "giantforged",
         "item_type": "Shield",
         "tier": 3,
         "price": "49600",
