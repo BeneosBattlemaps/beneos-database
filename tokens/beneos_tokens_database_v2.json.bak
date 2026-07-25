@@ -34787,6 +34787,66 @@
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
+    },
+    "240-monster_hunter": {
+      "key": "240-monster_hunter",
+      "name": "Monster Hunter",
+      "description": "",
+      "properties": {
+        "release_date": "2026-07-16",
+        "updated_date": "2026-07-16"
+      }
+    },
+    "000-month_32_malefic_mastermind": {
+      "name": "Ice Devil Malefic Mastermind",
+      "description": "Ice Devils embody the detached arrogance of evil, cruel calculations, and a deep contempt for mortal life.  Despite the general dominance of fire throughout the infernal legions, it is precisely in the upper echelons that one repeatedly encounters these denizens of the Eighth Circle, who, depending on individual disposition, may command anything from a single Torment to entire campaigns.  Those who stand out even among their own kind — through exceptional tactical skill and strategic foresight — rise to become central figures within the Infernal Legions, known as \"Malefic Masterminds.\"  The standard ability set of a Greater Ice Devil is supplemented with abilities specifically designed to let devils under its command operate more efficiently. Over the course of a fight, the Malefic Mastermind analyzes the flow of battle and shares its insights with its subordinates, gradually improving their accuracy to reflect their increasing efficiency.  Its tactical intellect is so vast that it weaves multiple plans simultaneously, ensuring that at least one is guaranteed to come to fruition. \nAlongside the fight itself, it establishes ritual zones where it channels released energy through ritual work; whether to summon reinforcements or to wreathe its subordinates' blades in the infernal cold of the Eighth Circle.\n",
+      "properties": {
+        "size": "Large",
+        "cr": "14",
+        "stat_ac": 18,
+        "stat_hp": 228,
+        "stat_str": 20,
+        "stat_dex": 14,
+        "stat_con": 16,
+        "stat_int": 20,
+        "stat_wis": 15,
+        "stat_cha": 18,
+        "movement": [
+          "Walk"
+        ],
+        "biom": [
+          "Infernal",
+          "Arctic",
+          "Dungeon",
+          "Planar"
+        ],
+        "fightingstyle": [
+          "Tactical",
+          "Interactive"
+        ],
+        "purpose": [
+          "Leader",
+          "Support"
+        ],
+        "type": [
+          "fiend",
+          "devil"
+        ],
+        "nb_variants": 2,
+        "thumbnail": "000-month_32_malefic_mastermind-1-db.webp",
+        "faction": [
+          "Infernal Legions"
+        ],
+        "campaign": [
+          "Descent into Avernus"
+        ],
+        "videourl": "https://youtu.be/uvrdXx1NsFQ",
+        "releaseurl": "https://beneos-battlemaps.com/",
+        "source": "Loyalty",
+        "release_date": "2026-07-25",
+        "updated_date": "2026-07-25",
+        "shortdesc": ""
+      }
     }
   }
 }
