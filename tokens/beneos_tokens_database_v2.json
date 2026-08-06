@@ -163,7 +163,7 @@
         "stat_int": 20,
         "stat_str": 27,
         "stat_wis": 17,
-        "cr": 21,
+        "cr": "21",
         "movement": [
           "Climb",
           "Fly",
@@ -263,7 +263,7 @@
         "stat_int": 10,
         "stat_str": 19,
         "stat_wis": 15,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Walk"
         ],
@@ -363,7 +363,7 @@
         "stat_int": 10,
         "stat_str": 1,
         "stat_wis": 10,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Fly",
           "Walk"
@@ -409,7 +409,7 @@
         "stat_int": 3,
         "stat_str": 20,
         "stat_wis": 8,
-        "cr": 9,
+        "cr": "9",
         "movement": [
           "Walk"
         ],
@@ -453,7 +453,7 @@
         "stat_int": 8,
         "stat_str": 7,
         "stat_wis": 7,
-        "cr": 0.125,
+        "cr": "0,125",
         "movement": [
           "Walk"
         ],
@@ -539,7 +539,7 @@
         "campaign": [
           "Princes of the Apocalypse"
         ],
-        "hidden_tags": "",
+        "hidden_tags": [],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -558,7 +558,7 @@
         "stat_int": 9,
         "stat_str": 16,
         "stat_wis": 11,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Walk"
         ],
@@ -603,7 +603,7 @@
         "stat_int": 8,
         "stat_str": 22,
         "stat_wis": 12,
-        "cr": 13,
+        "cr": "13",
         "movement": [
           "Burrow",
           "Fly",
@@ -706,7 +706,7 @@
         "stat_int": 2,
         "stat_str": 6,
         "stat_wis": 13,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Fly",
           "Walk"
@@ -752,7 +752,7 @@
         "stat_int": 3,
         "stat_str": 3,
         "stat_wis": 12,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Climb",
           "Walk"
@@ -797,7 +797,7 @@
           "Tavern",
           "Road"
         ],
-        "cr": "0.5",
+        "cr": "0,5",
         "fightingstyle": [
           "Pack",
           "Shock",
@@ -851,7 +851,7 @@
         "stat_int": 17,
         "stat_str": 18,
         "stat_wis": 15,
-        "cr": 13,
+        "cr": "13",
         "movement": [
           "Climb",
           "Walk"
@@ -899,7 +899,7 @@
         "stat_int": 6,
         "stat_str": 18,
         "stat_wis": 11,
-        "cr": 6,
+        "cr": "6",
         "movement": [
           "Burrow",
           "Fly",
@@ -947,7 +947,7 @@
         "stat_int": 2,
         "stat_str": 13,
         "stat_wis": 9,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Walk"
         ],
@@ -993,7 +993,7 @@
         "stat_int": 10,
         "stat_str": 18,
         "stat_wis": 15,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Fly",
           "Walk"
@@ -1041,7 +1041,7 @@
         "stat_int": 16,
         "stat_str": 19,
         "stat_wis": 13,
-        "cr": 8,
+        "cr": "8",
         "movement": [
           "Fly",
           "Swim",
@@ -1090,7 +1090,7 @@
         "stat_int": 1,
         "stat_str": 13,
         "stat_wis": 7,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Swim"
         ],
@@ -1133,7 +1133,7 @@
         "stat_int": 6,
         "stat_str": 18,
         "stat_wis": 12,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -1177,7 +1177,7 @@
         "stat_int": 13,
         "stat_str": 14,
         "stat_wis": 10,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Walk"
         ],
@@ -1222,7 +1222,7 @@
         "stat_int": 10,
         "stat_str": 15,
         "stat_wis": 11,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Fly",
           "Swim",
@@ -1380,7 +1380,7 @@
         "stat_int": 12,
         "stat_str": 12,
         "stat_wis": 10,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Walk"
         ],
@@ -1424,7 +1424,7 @@
           "Cave",
           "Road"
         ],
-        "cr": "0.5",
+        "cr": "0,5",
         "fightingstyle": [
           "Ranged",
           "Predator"
@@ -1478,7 +1478,7 @@
         "stat_int": 0,
         "stat_str": 27,
         "stat_wis": 0,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Fly"
         ],
@@ -1571,7 +1571,7 @@
         "stat_int": 10,
         "stat_str": 14,
         "stat_wis": 14,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Walk"
         ],
@@ -1612,7 +1612,7 @@
           "Wilderness",
           "Mountain"
         ],
-        "cr": "0.25",
+        "cr": "0,25",
         "fightingstyle": [
           "Simple"
         ],
@@ -1716,7 +1716,7 @@
           "Mountain",
           "Wilderness"
         ],
-        "cr": "0.25",
+        "cr": "0,25",
         "fightingstyle": [
           "Simple"
         ],
@@ -1816,7 +1816,7 @@
         "stat_int": 5,
         "stat_str": 2,
         "stat_wis": 13,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Fly",
           "Walk"
@@ -1918,7 +1918,7 @@
           "Swamp",
           "Tropical"
         ],
-        "cr": "0.5",
+        "cr": "0,5",
         "fightingstyle": [
           "Simple",
           "Pack"
@@ -1971,7 +1971,7 @@
         "stat_int": 1,
         "stat_str": 15,
         "stat_wis": 10,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Swim",
           "Walk"
@@ -2018,7 +2018,7 @@
         "stat_int": 1,
         "stat_str": 16,
         "stat_wis": 6,
-        "cr": 4,
+        "cr": "4",
         "movement": [
           "Climb",
           "Walk"
@@ -2111,7 +2111,7 @@
         "stat_int": 10,
         "stat_str": 8,
         "stat_wis": 16,
-        "cr": 4,
+        "cr": "4",
         "movement": [
           "Swim",
           "Walk"
@@ -2156,7 +2156,7 @@
         "stat_int": 1,
         "stat_str": 10,
         "stat_wis": 10,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Fly",
           "Walk"
@@ -2202,7 +2202,7 @@
         "stat_int": 0,
         "stat_str": 0,
         "stat_wis": 0,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -2363,7 +2363,7 @@
         "stat_int": 3,
         "stat_str": 20,
         "stat_wis": 12,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Climb",
           "Walk"
@@ -2409,7 +2409,7 @@
         "stat_int": 2,
         "stat_str": 10,
         "stat_wis": 12,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Burrow",
           "Walk"
@@ -2454,7 +2454,7 @@
         "stat_int": 16,
         "stat_str": 25,
         "stat_wis": 15,
-        "cr": 15,
+        "cr": "15",
         "movement": [
           "Fly",
           "Swim",
@@ -2502,7 +2502,7 @@
         "stat_int": 2,
         "stat_str": 15,
         "stat_wis": 11,
-        "cr": 0.125,
+        "cr": "0,125",
         "movement": [
           "Walk"
         ],
@@ -2599,7 +2599,7 @@
         "stat_int": 10,
         "stat_str": 16,
         "stat_wis": 11,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Walk"
         ],
@@ -2710,7 +2710,7 @@
         "stat_int": 10,
         "stat_str": 18,
         "stat_wis": 13,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Fly",
           "Walk"
@@ -2754,7 +2754,7 @@
         "stat_int": 2,
         "stat_str": 3,
         "stat_wis": 12,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Climb",
           "Walk"
@@ -2800,7 +2800,7 @@
         "stat_int": 10,
         "stat_str": 25,
         "stat_wis": 14,
-        "cr": 9,
+        "cr": "9",
         "movement": [
           "Walk"
         ],
@@ -2845,7 +2845,7 @@
           "Mountain",
           "Desert"
         ],
-        "cr": "0.5",
+        "cr": "0,5",
         "fightingstyle": [
           "Pack",
           "Interactive"
@@ -2956,7 +2956,7 @@
         "stat_int": 2,
         "stat_str": 4,
         "stat_wis": 8,
-        "cr": 0.125,
+        "cr": "0,125",
         "movement": [
           "Fly",
           "Walk"
@@ -3008,7 +3008,7 @@
         "stat_int": 13,
         "stat_str": 1,
         "stat_wis": 14,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Fly",
           "Walk"
@@ -3046,19 +3046,20 @@
       "name": "Infernal Bladefiend",
       "properties": {
         "biom": [
-          "planar",
-          "dungeon",
-          "urban"
+          "Planar",
+          "Dungeon",
+          "Urban"
         ],
         "cr": "6",
         "fightingstyle": [
-          "melee",
-          "interactive"
+          "Melee",
+          "Interactive"
         ],
-        "movement": "walk",
+        "movement": [
+          "Walk"
+        ],
         "purpose": [
-          "champion",
-          "duelist"
+          "Duelist"
         ],
         "releaseurl": "https://www.patreon.com/c/beneostokens",
         "size": "medium",
@@ -3082,8 +3083,10 @@
           "Infernal Legions"
         ],
         "source": "Patreon",
-        "campaign": "Descent into Avernus",
-        "hidden_tags": "",
+        "campaign": [
+          "Descent into Avernus"
+        ],
+        "hidden_tags": [],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -3102,7 +3105,7 @@
         "stat_int": 2,
         "stat_str": 19,
         "stat_wis": 12,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Walk"
         ],
@@ -3147,7 +3150,7 @@
         "stat_int": 2,
         "stat_str": 15,
         "stat_wis": 12,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Swim",
           "Walk"
@@ -3192,7 +3195,7 @@
         "stat_int": 8,
         "stat_str": 13,
         "stat_wis": 11,
-        "cr": 0.125,
+        "cr": "0,125",
         "movement": [
           "Walk"
         ],
@@ -3236,7 +3239,7 @@
         "stat_int": 6,
         "stat_str": 16,
         "stat_wis": 12,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Walk"
         ],
@@ -3283,7 +3286,7 @@
         "stat_int": 16,
         "stat_str": 27,
         "stat_wis": 15,
-        "cr": 20,
+        "cr": "20",
         "movement": [
           "Burrow",
           "Fly",
@@ -3493,7 +3496,7 @@
         "stat_int": 5,
         "stat_str": 19,
         "stat_wis": 12,
-        "cr": 8,
+        "cr": "8",
         "movement": [
           "Walk"
         ],
@@ -3537,7 +3540,7 @@
         "stat_int": 1,
         "stat_str": 16,
         "stat_wis": 9,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Walk"
         ],
@@ -3626,7 +3629,7 @@
         "stat_int": 10,
         "stat_str": 10,
         "stat_wis": 8,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Walk"
         ],
@@ -3676,7 +3679,7 @@
         "stat_int": 4,
         "stat_str": 18,
         "stat_wis": 14,
-        "cr": 4,
+        "cr": "4",
         "movement": [
           "Swim",
           "Walk"
@@ -3719,7 +3722,7 @@
           "Jungle",
           "Tropical"
         ],
-        "cr": "0.25",
+        "cr": "0,25",
         "fightingstyle": [
           "Simple"
         ],
@@ -3881,7 +3884,7 @@
         "stat_int": 9,
         "stat_str": 23,
         "stat_wis": 10,
-        "cr": 8,
+        "cr": "8",
         "movement": [
           "Walk"
         ],
@@ -4031,7 +4034,7 @@
         "stat_int": 12,
         "stat_str": 10,
         "stat_wis": 14,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Climb",
           "Walk"
@@ -4075,7 +4078,7 @@
         "stat_int": 3,
         "stat_str": 17,
         "stat_wis": 12,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Walk"
         ],
@@ -4119,7 +4122,7 @@
         "stat_int": 14,
         "stat_str": 19,
         "stat_wis": 11,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Fly",
           "Swim",
@@ -4169,7 +4172,7 @@
         "stat_int": 6,
         "stat_str": 16,
         "stat_wis": 12,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Climb",
           "Walk"
@@ -4263,7 +4266,7 @@
         "stat_int": 12,
         "stat_str": 19,
         "stat_wis": 11,
-        "cr": 7,
+        "cr": "7",
         "movement": [
           "Fly",
           "Swim",
@@ -4311,7 +4314,7 @@
         "stat_int": 16,
         "stat_str": 27,
         "stat_wis": 13,
-        "cr": 17,
+        "cr": "17",
         "movement": [
           "Climb",
           "Fly",
@@ -4360,7 +4363,7 @@
         "stat_int": 14,
         "stat_str": 23,
         "stat_wis": 11,
-        "cr": 10,
+        "cr": "10",
         "movement": [
           "Climb",
           "Fly",
@@ -4407,7 +4410,7 @@
           "Underground",
           "Desert"
         ],
-        "cr": "0.25",
+        "cr": "0,25",
         "fightingstyle": [
           "Pack",
           "Simple"
@@ -4461,7 +4464,7 @@
           "Horror",
           "Futuristic"
         ],
-        "cr": "0.5",
+        "cr": "0,5",
         "fightingstyle": [
           "Pack",
           "Melee"
@@ -4517,7 +4520,7 @@
         "stat_int": 12,
         "stat_str": 23,
         "stat_wis": 16,
-        "cr": 9,
+        "cr": "9",
         "movement": [
           "Walk"
         ],
@@ -4562,7 +4565,7 @@
         "stat_int": 10,
         "stat_str": 3,
         "stat_wis": 10,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -4606,7 +4609,7 @@
         "stat_int": 16,
         "stat_str": 22,
         "stat_wis": 23,
-        "cr": 17,
+        "cr": "17",
         "movement": [
           "Fly",
           "Walk"
@@ -4866,7 +4869,7 @@
         "stat_int": 8,
         "stat_str": 18,
         "stat_wis": 10,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Swim",
           "Walk"
@@ -4913,7 +4916,7 @@
           "Planar",
           "Abyssal"
         ],
-        "cr": "0.5",
+        "cr": "0,5",
         "fightingstyle": [
           "Pack",
           "Melee"
@@ -4969,7 +4972,7 @@
         "stat_int": 10,
         "stat_str": 12,
         "stat_wis": 13,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Walk"
         ],
@@ -5063,7 +5066,7 @@
         "stat_int": 2,
         "stat_str": 15,
         "stat_wis": 10,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Climb",
           "Walk"
@@ -5119,7 +5122,9 @@
           "Mobile",
           "Tactical"
         ],
-        "movement": "Fly",
+        "movement": [
+          "Fly"
+        ],
         "purpose": [
           "Damage",
           "Shock"
@@ -5145,8 +5150,8 @@
           "Knights of the Realm"
         ],
         "source": "Loyalty Token",
-        "campaign": "",
-        "hidden_tags": "",
+        "campaign": [],
+        "hidden_tags": [],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -5266,7 +5271,7 @@
         "stat_int": 2,
         "stat_str": 15,
         "stat_wis": 10,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Swim",
           "Walk"
@@ -5413,7 +5418,7 @@
         "stat_int": 1,
         "stat_str": 17,
         "stat_wis": 13,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Burrow",
           "Walk"
@@ -5459,7 +5464,7 @@
         "stat_int": 15,
         "stat_str": 8,
         "stat_wis": 12,
-        "cr": 4,
+        "cr": "4",
         "movement": [
           "Fly",
           "Walk"
@@ -5505,7 +5510,7 @@
         "stat_int": 2,
         "stat_str": 15,
         "stat_wis": 11,
-        "cr": 0.125,
+        "cr": "0,125",
         "movement": [
           "Walk"
         ],
@@ -5551,7 +5556,7 @@
         "stat_int": 7,
         "stat_str": 12,
         "stat_wis": 10,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Swim",
           "Walk"
@@ -5596,7 +5601,7 @@
         "stat_int": 10,
         "stat_str": 25,
         "stat_wis": 12,
-        "cr": 17,
+        "cr": "17",
         "movement": [
           "Swim",
           "Walk"
@@ -5701,7 +5706,7 @@
         "stat_int": 2,
         "stat_str": 2,
         "stat_wis": 12,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Fly",
           "Walk"
@@ -5748,7 +5753,7 @@
         "stat_int": 6,
         "stat_str": 18,
         "stat_wis": 16,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Walk"
         ],
@@ -5793,7 +5798,7 @@
         "stat_int": 3,
         "stat_str": 17,
         "stat_wis": 12,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Walk"
         ],
@@ -5837,7 +5842,7 @@
         "stat_int": 2,
         "stat_str": 9,
         "stat_wis": 10,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Climb",
           "Walk"
@@ -6058,7 +6063,7 @@
         "stat_int": 1,
         "stat_str": 12,
         "stat_wis": 5,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Fly",
           "Walk"
@@ -6104,7 +6109,7 @@
         "stat_int": 10,
         "stat_str": 15,
         "stat_wis": 10,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Walk"
         ],
@@ -6148,7 +6153,7 @@
         "stat_int": 7,
         "stat_str": 17,
         "stat_wis": 12,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Fly",
           "Walk"
@@ -6198,7 +6203,7 @@
         "stat_int": 12,
         "stat_str": 6,
         "stat_wis": 14,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Fly",
           "Walk"
@@ -6248,7 +6253,7 @@
         "stat_int": 2,
         "stat_str": 3,
         "stat_wis": 12,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Fly",
           "Walk"
@@ -6295,7 +6300,7 @@
         "stat_int": 16,
         "stat_str": 27,
         "stat_wis": 13,
-        "cr": 16,
+        "cr": "16",
         "movement": [
           "Fly",
           "Walk"
@@ -6403,7 +6408,7 @@
         "stat_int": 19,
         "stat_str": 21,
         "stat_wis": 12,
-        "cr": 13,
+        "cr": "13",
         "movement": [
           "Fly",
           "Walk"
@@ -6450,7 +6455,7 @@
         "stat_int": 5,
         "stat_str": 18,
         "stat_wis": 10,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Swim",
           "Walk"
@@ -6495,7 +6500,7 @@
         "stat_int": 7,
         "stat_str": 16,
         "stat_wis": 11,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Walk"
         ],
@@ -6543,7 +6548,7 @@
         "stat_int": 6,
         "stat_str": 21,
         "stat_wis": 10,
-        "cr": 4,
+        "cr": "4",
         "movement": [
           "Walk"
         ],
@@ -6694,7 +6699,7 @@
         "stat_int": 2,
         "stat_str": 18,
         "stat_wis": 12,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Walk"
         ],
@@ -6738,7 +6743,7 @@
         "stat_int": 10,
         "stat_str": 13,
         "stat_wis": 11,
-        "cr": 0.125,
+        "cr": "0,125",
         "movement": [
           "Walk"
         ],
@@ -6837,7 +6842,7 @@
         "stat_int": 12,
         "stat_str": 17,
         "stat_wis": 13,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Walk"
         ],
@@ -6933,7 +6938,7 @@
         "stat_int": 10,
         "stat_str": 19,
         "stat_wis": 14,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Fly",
           "Swim",
@@ -6981,7 +6986,7 @@
         "stat_int": 12,
         "stat_str": 10,
         "stat_wis": 13,
-        "cr": 6,
+        "cr": "6",
         "movement": [
           "Walk"
         ],
@@ -7026,7 +7031,7 @@
         "stat_int": 9,
         "stat_str": 5,
         "stat_wis": 11,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Fly",
           "Walk"
@@ -7070,7 +7075,7 @@
         "stat_int": 5,
         "stat_str": 23,
         "stat_wis": 12,
-        "cr": 7,
+        "cr": "7",
         "movement": [
           "Climb",
           "Walk"
@@ -7114,7 +7119,7 @@
         "stat_int": 21,
         "stat_str": 11,
         "stat_wis": 14,
-        "cr": 21,
+        "cr": "21",
         "movement": [
           "Walk"
         ],
@@ -7225,7 +7230,7 @@
         "stat_int": 5,
         "stat_str": 6,
         "stat_wis": 12,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Fly",
           "Walk"
@@ -7317,7 +7322,7 @@
         "stat_int": 15,
         "stat_str": 6,
         "stat_wis": 12,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Fly",
           "Walk"
@@ -7364,7 +7369,7 @@
         "stat_int": 4,
         "stat_str": 17,
         "stat_wis": 14,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Climb",
           "Walk"
@@ -7411,7 +7416,7 @@
         "stat_int": 17,
         "stat_str": 18,
         "stat_wis": 20,
-        "cr": 10,
+        "cr": "10",
         "movement": [
           "Fly",
           "Walk"
@@ -7456,7 +7461,7 @@
         "stat_int": 3,
         "stat_str": 28,
         "stat_wis": 10,
-        "cr": 11,
+        "cr": "11",
         "movement": [
           "Fly",
           "Walk"
@@ -7505,7 +7510,7 @@
         "stat_int": 20,
         "stat_str": 26,
         "stat_wis": 16,
-        "cr": 19,
+        "cr": "19",
         "movement": [
           "Fly",
           "Walk"
@@ -7553,7 +7558,7 @@
         "stat_int": 15,
         "stat_str": 8,
         "stat_wis": 12,
-        "cr": 4,
+        "cr": "4",
         "movement": [
           "Fly",
           "Walk"
@@ -7600,7 +7605,7 @@
         "stat_int": 12,
         "stat_str": 18,
         "stat_wis": 14,
-        "cr": 4,
+        "cr": "4",
         "movement": [
           "Walk"
         ],
@@ -7644,7 +7649,7 @@
         "stat_int": 10,
         "stat_str": 6,
         "stat_wis": 12,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Fly",
           "Walk"
@@ -7851,7 +7856,7 @@
         "stat_int": 7,
         "stat_str": 16,
         "stat_wis": 11,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Walk"
         ],
@@ -7897,7 +7902,7 @@
         "stat_int": 3,
         "stat_str": 12,
         "stat_wis": 12,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Climb",
           "Walk"
@@ -7946,7 +7951,7 @@
         "stat_int": 10,
         "stat_str": 10,
         "stat_wis": 10,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -8004,7 +8009,7 @@
           "Debuff",
           "Classic"
         ],
-        "releaseurl": "",
+        "releaseurl": "https://www.beneos-battlemaps.com",
         "size": "Huge",
         "stat_ac": 17,
         "stat_cha": 14,
@@ -8099,7 +8104,7 @@
         "stat_int": 1,
         "stat_str": 28,
         "stat_wis": 8,
-        "cr": 15,
+        "cr": "15",
         "movement": [
           "Burrow"
         ],
@@ -8155,7 +8160,7 @@
           "Leader",
           "Support"
         ],
-        "releaseurl": "",
+        "releaseurl": "https://www.beneos-battlemaps.com",
         "size": "Medium",
         "stat_ac": 17,
         "stat_cha": 16,
@@ -8197,7 +8202,7 @@
         "stat_int": 7,
         "stat_str": 18,
         "stat_wis": 9,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Walk"
         ],
@@ -8360,7 +8365,7 @@
         "stat_int": 10,
         "stat_str": 17,
         "stat_wis": 10,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Climb",
           "Walk"
@@ -8404,7 +8409,7 @@
         "stat_int": 2,
         "stat_str": 15,
         "stat_wis": 12,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Fly",
           "Walk"
@@ -8505,7 +8510,7 @@
         "stat_int": 11,
         "stat_str": 10,
         "stat_wis": 11,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Walk"
         ],
@@ -8713,7 +8718,7 @@
         "stat_int": 2,
         "stat_str": 15,
         "stat_wis": 6,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Climb",
           "Walk"
@@ -8758,7 +8763,7 @@
         "stat_int": 13,
         "stat_str": 16,
         "stat_wis": 16,
-        "cr": 6,
+        "cr": "6",
         "movement": [
           "Climb",
           "Walk"
@@ -8804,7 +8809,7 @@
         "stat_int": 10,
         "stat_str": 8,
         "stat_wis": 8,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Walk"
         ],
@@ -8852,7 +8857,7 @@
           "Tavern",
           "Dungeon"
         ],
-        "cr": "0.5",
+        "cr": "0,5",
         "fightingstyle": [
           "Simple"
         ],
@@ -8905,7 +8910,7 @@
         "stat_int": 6,
         "stat_str": 14,
         "stat_wis": 10,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Fly",
           "Walk"
@@ -8953,7 +8958,7 @@
         "stat_int": 2,
         "stat_str": 14,
         "stat_wis": 10,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Walk"
         ],
@@ -9000,7 +9005,7 @@
         "stat_int": 2,
         "stat_str": 18,
         "stat_wis": 8,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Walk"
         ],
@@ -9045,7 +9050,7 @@
         "stat_int": 3,
         "stat_str": 22,
         "stat_wis": 11,
-        "cr": 10,
+        "cr": "10",
         "movement": [
           "Walk"
         ],
@@ -9150,7 +9155,7 @@
         "stat_int": 0,
         "stat_str": 0,
         "stat_wis": 0,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -9195,7 +9200,7 @@
         "stat_int": 16,
         "stat_str": 22,
         "stat_wis": 15,
-        "cr": 11,
+        "cr": "11",
         "movement": [
           "Fly",
           "Walk"
@@ -9241,7 +9246,7 @@
         "stat_int": 1,
         "stat_str": 18,
         "stat_wis": 10,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Swim",
           "Walk"
@@ -9286,7 +9291,7 @@
         "stat_int": 5,
         "stat_str": 17,
         "stat_wis": 10,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Swim",
           "Walk"
@@ -9332,7 +9337,7 @@
         "stat_int": 10,
         "stat_str": 10,
         "stat_wis": 14,
-        "cr": 6,
+        "cr": "6",
         "movement": [
           "Walk"
         ],
@@ -9484,7 +9489,7 @@
         "stat_int": 11,
         "stat_str": 11,
         "stat_wis": 12,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Walk"
         ],
@@ -9584,7 +9589,7 @@
         "stat_int": 6,
         "stat_str": 18,
         "stat_wis": 12,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -9679,7 +9684,7 @@
           "Road",
           "Tavern"
         ],
-        "cr": "1/4",
+        "cr": "0,25",
         "fightingstyle": [
           "Simple"
         ],
@@ -9733,7 +9738,9 @@
           "Shock",
           "Pack"
         ],
-        "movement": "Walk",
+        "movement": [
+          "Walk"
+        ],
         "purpose": [
           "Debuff",
           "Damage"
@@ -9755,10 +9762,12 @@
         "videourl": "https://www.patreon.com/c/beneostokens",
         "nb_variants": 2,
         "shortdesc": "Religious shock trooper, breach entry specialist.",
-        "faction": "Tribunal",
+        "faction": [
+          "Tribunal"
+        ],
         "source": "Patreon",
-        "campaign": "",
-        "hidden_tags": "",
+        "campaign": [],
+        "hidden_tags": [],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -9777,7 +9786,7 @@
         "stat_int": 18,
         "stat_str": 18,
         "stat_wis": 16,
-        "cr": 16,
+        "cr": "16",
         "movement": [
           "Climb",
           "Walk"
@@ -9823,7 +9832,7 @@
         "stat_int": 14,
         "stat_str": 15,
         "stat_wis": 11,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Climb",
           "Fly",
@@ -9871,7 +9880,7 @@
         "stat_int": 12,
         "stat_str": 17,
         "stat_wis": 11,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Fly",
           "Swim",
@@ -9919,7 +9928,7 @@
         "stat_int": 9,
         "stat_str": 16,
         "stat_wis": 11,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Walk"
         ],
@@ -9996,7 +10005,7 @@
         "campaign": [
           "Descent into Avernus"
         ],
-        "hidden_tags": "",
+        "hidden_tags": [],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -10015,7 +10024,7 @@
         "stat_int": 0,
         "stat_str": 0,
         "stat_wis": 0,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -10058,7 +10067,7 @@
         "stat_int": 22,
         "stat_str": 30,
         "stat_wis": 18,
-        "cr": 23,
+        "cr": "23",
         "movement": [
           "Swim",
           "Walk"
@@ -10107,7 +10116,7 @@
         "stat_int": 0,
         "stat_str": 0,
         "stat_wis": 0,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -10150,7 +10159,7 @@
         "stat_int": 12,
         "stat_str": 13,
         "stat_wis": 13,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Swim",
           "Walk"
@@ -10195,7 +10204,7 @@
         "stat_int": 1,
         "stat_str": 13,
         "stat_wis": 7,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Swim",
           "Walk"
@@ -10239,7 +10248,7 @@
         "stat_int": 14,
         "stat_str": 19,
         "stat_wis": 12,
-        "cr": 7,
+        "cr": "7",
         "movement": [
           "Fly",
           "Walk"
@@ -10298,7 +10307,7 @@
           "Duelist",
           "Damage"
         ],
-        "releaseurl": "",
+        "releaseurl": "https://www.beneos-battlemaps.com",
         "size": "Medium",
         "stat_ac": 16,
         "stat_cha": 12,
@@ -10395,7 +10404,7 @@
         "stat_int": 0,
         "stat_str": 0,
         "stat_wis": 0,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -10439,7 +10448,7 @@
         "stat_int": 2,
         "stat_str": 20,
         "stat_wis": 12,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Walk"
         ],
@@ -10540,7 +10549,7 @@
         "stat_int": 5,
         "stat_str": 14,
         "stat_wis": 10,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Climb",
           "Walk"
@@ -10586,7 +10595,7 @@
         "stat_int": 10,
         "stat_str": 4,
         "stat_wis": 10,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Fly",
           "Walk"
@@ -10633,7 +10642,7 @@
         "stat_int": 10,
         "stat_str": 16,
         "stat_wis": 11,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Walk"
         ],
@@ -10730,7 +10739,7 @@
         "stat_int": 2,
         "stat_str": 14,
         "stat_wis": 10,
-        "cr": 0.125,
+        "cr": "0,125",
         "movement": [
           "Walk"
         ],
@@ -10776,7 +10785,7 @@
         "stat_int": 11,
         "stat_str": 17,
         "stat_wis": 10,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Burrow",
           "Walk"
@@ -10907,7 +10916,7 @@
         "faction": [],
         "source": "Loyalty Token",
         "campaign": [],
-        "hidden_tags": "",
+        "hidden_tags": [],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -10923,7 +10932,7 @@
           "Horror",
           "Lair"
         ],
-        "cr": "0.25",
+        "cr": "0,25",
         "fightingstyle": [
           "Pack",
           "Charge"
@@ -10958,7 +10967,12 @@
         "campaign": [
           "Curse of Strahd"
         ],
-        "hidden_tags": "puppet, doll, marionette, pidlwick",
+        "hidden_tags": [
+          "puppet",
+          "doll",
+          "marionette",
+          "pidlwick"
+        ],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -10977,7 +10991,7 @@
         "stat_int": 8,
         "stat_str": 17,
         "stat_wis": 13,
-        "cr": 6,
+        "cr": "6",
         "movement": [
           "Fly",
           "Walk"
@@ -11024,7 +11038,7 @@
         "stat_int": 18,
         "stat_str": 30,
         "stat_wis": 15,
-        "cr": 24,
+        "cr": "24",
         "movement": [
           "Climb",
           "Fly",
@@ -11129,7 +11143,7 @@
         "stat_int": 1,
         "stat_str": 14,
         "stat_wis": 10,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Swim",
           "Walk"
@@ -11228,7 +11242,7 @@
         "stat_int": 0,
         "stat_str": 0,
         "stat_wis": 0,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -11316,11 +11330,11 @@
       "properties": {
         "free_content": false,
         "biom": [
-          "forest",
-          "dungeon",
-          "ruins",
-          "swamp",
-          "wilderness"
+          "Forest",
+          "Dungeon",
+          "Ruin",
+          "Swamp",
+          "Wilderness"
         ],
         "cr": "4",
         "fightingstyle": [
@@ -11352,12 +11366,12 @@
         "videourl": "https://youtu.be/A9AATiCzM1k",
         "nb_variants": 2,
         "shortdesc": "Invisible when prowling through shadows, disorients with its shriek before striking.",
-        "faction": "",
+        "faction": [],
         "source": "Patreon",
         "campaign": [
           "Curse of Strahd"
         ],
-        "hidden_tags": "",
+        "hidden_tags": [],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -11376,7 +11390,7 @@
         "stat_int": 3,
         "stat_str": 14,
         "stat_wis": 12,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Walk"
         ],
@@ -11584,7 +11598,7 @@
         "stat_int": 0,
         "stat_str": 0,
         "stat_wis": 0,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -11729,7 +11743,7 @@
         "stat_int": 1,
         "stat_str": 2,
         "stat_wis": 8,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Climb",
           "Walk"
@@ -11777,7 +11791,7 @@
         "stat_int": 6,
         "stat_str": 18,
         "stat_wis": 12,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -11822,7 +11836,7 @@
         "stat_int": 10,
         "stat_str": 15,
         "stat_wis": 13,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Walk"
         ],
@@ -11870,7 +11884,7 @@
         "stat_int": 3,
         "stat_str": 4,
         "stat_wis": 10,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Swim",
           "Walk"
@@ -11914,7 +11928,7 @@
         "stat_int": 17,
         "stat_str": 9,
         "stat_wis": 12,
-        "cr": 6,
+        "cr": "6",
         "movement": [
           "Walk"
         ],
@@ -12008,7 +12022,7 @@
         "stat_int": 10,
         "stat_str": 10,
         "stat_wis": 14,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Walk"
         ],
@@ -12053,7 +12067,7 @@
         "stat_int": 16,
         "stat_str": 18,
         "stat_wis": 15,
-        "cr": 8,
+        "cr": "8",
         "movement": [
           "Walk"
         ],
@@ -12149,7 +12163,7 @@
         "stat_int": 1,
         "stat_str": 12,
         "stat_wis": 6,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Climb",
           "Walk"
@@ -12193,7 +12207,7 @@
         "stat_int": 11,
         "stat_str": 10,
         "stat_wis": 10,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Climb",
           "Walk"
@@ -12239,7 +12253,7 @@
         "stat_int": 16,
         "stat_str": 23,
         "stat_wis": 13,
-        "cr": 10,
+        "cr": "10",
         "movement": [
           "Fly",
           "Swim",
@@ -12338,7 +12352,7 @@
         "stat_int": 18,
         "stat_str": 23,
         "stat_wis": 15,
-        "cr": 14,
+        "cr": "14",
         "movement": [
           "Climb",
           "Fly",
@@ -12386,7 +12400,7 @@
         "stat_int": 12,
         "stat_str": 17,
         "stat_wis": 11,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Burrow",
           "Fly",
@@ -12540,7 +12554,7 @@
         "stat_int": 11,
         "stat_str": 5,
         "stat_wis": 10,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Fly",
           "Walk"
@@ -12801,7 +12815,7 @@
         "stat_int": 7,
         "stat_str": 8,
         "stat_wis": 10,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Fly",
           "Walk"
@@ -12901,7 +12915,7 @@
           "Sacral",
           "Urban"
         ],
-        "cr": "0.25",
+        "cr": "0,25",
         "fightingstyle": [
           "Simple"
         ],
@@ -13003,7 +13017,7 @@
         "stat_int": 12,
         "stat_str": 15,
         "stat_wis": 10,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Walk"
         ],
@@ -13047,7 +13061,7 @@
         "stat_int": 8,
         "stat_str": 10,
         "stat_wis": 12,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Walk"
         ],
@@ -13091,7 +13105,7 @@
         "stat_int": 0,
         "stat_str": 10,
         "stat_wis": 0,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -13129,7 +13143,7 @@
           "Road",
           "Civilized"
         ],
-        "cr": "0.25",
+        "cr": "0,25",
         "fightingstyle": [
           "Simple"
         ],
@@ -13178,7 +13192,7 @@
         "stat_int": 10,
         "stat_str": 17,
         "stat_wis": 11,
-        "cr": 4,
+        "cr": "4",
         "movement": [
           "Walk"
         ],
@@ -13327,7 +13341,7 @@
         "stat_int": 2,
         "stat_str": 11,
         "stat_wis": 12,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -13403,7 +13417,7 @@
         "campaign": [
           "Curse of Strahd"
         ],
-        "hidden_tags": "",
+        "hidden_tags": [],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -13422,7 +13436,7 @@
         "stat_int": 2,
         "stat_str": 2,
         "stat_wis": 10,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Climb",
           "Walk"
@@ -13469,7 +13483,7 @@
         "stat_int": 3,
         "stat_str": 22,
         "stat_wis": 11,
-        "cr": 4,
+        "cr": "4",
         "movement": [
           "Walk"
         ],
@@ -13616,7 +13630,7 @@
         "stat_int": 8,
         "stat_str": 15,
         "stat_wis": 11,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Walk"
         ],
@@ -13814,7 +13828,7 @@
         "stat_int": 13,
         "stat_str": 14,
         "stat_wis": 16,
-        "cr": 13,
+        "cr": "13",
         "movement": [
           "Walk"
         ],
@@ -13969,7 +13983,7 @@
         "stat_int": 2,
         "stat_str": 14,
         "stat_wis": 10,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Fly",
           "Walk"
@@ -14071,7 +14085,7 @@
         "stat_int": 6,
         "stat_str": 18,
         "stat_wis": 12,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -14115,7 +14129,7 @@
         "stat_int": 10,
         "stat_str": 11,
         "stat_wis": 11,
-        "cr": 0.125,
+        "cr": "0,125",
         "movement": [
           "Walk"
         ],
@@ -14265,7 +14279,7 @@
         "stat_int": 12,
         "stat_str": 16,
         "stat_wis": 12,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Swim",
           "Walk"
@@ -14362,7 +14376,7 @@
         "stat_int": 3,
         "stat_str": 15,
         "stat_wis": 13,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Walk"
         ],
@@ -14513,7 +14527,7 @@
         "stat_int": 0,
         "stat_str": 40,
         "stat_wis": 0,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Fly"
         ],
@@ -14607,7 +14621,7 @@
         "stat_int": 2,
         "stat_str": 21,
         "stat_wis": 12,
-        "cr": 4,
+        "cr": "4",
         "movement": [
           "Swim",
           "Walk"
@@ -14654,7 +14668,7 @@
         "stat_int": 10,
         "stat_str": 15,
         "stat_wis": 10,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Walk"
         ],
@@ -14809,7 +14823,7 @@
         "stat_int": 7,
         "stat_str": 18,
         "stat_wis": 16,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Climb",
           "Walk"
@@ -14855,7 +14869,7 @@
         "stat_int": 1,
         "stat_str": 5,
         "stat_wis": 7,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Climb",
           "Walk"
@@ -14962,7 +14976,7 @@
         "stat_int": 14,
         "stat_str": 15,
         "stat_wis": 11,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Fly",
           "Swim",
@@ -15009,7 +15023,7 @@
         "stat_int": 2,
         "stat_str": 21,
         "stat_wis": 10,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Swim",
           "Walk"
@@ -15050,7 +15064,7 @@
           "Road",
           "Civilized"
         ],
-        "cr": "0.25",
+        "cr": "0,25",
         "fightingstyle": [
           "Simple"
         ],
@@ -15099,7 +15113,7 @@
         "stat_int": 7,
         "stat_str": 18,
         "stat_wis": 10,
-        "cr": 7,
+        "cr": "7",
         "movement": [
           "Walk"
         ],
@@ -15144,7 +15158,7 @@
         "stat_int": 3,
         "stat_str": 18,
         "stat_wis": 12,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Walk"
         ],
@@ -15188,7 +15202,7 @@
         "stat_int": 12,
         "stat_str": 19,
         "stat_wis": 11,
-        "cr": 4,
+        "cr": "4",
         "movement": [
           "Climb",
           "Fly",
@@ -15292,7 +15306,7 @@
         "stat_int": 3,
         "stat_str": 17,
         "stat_wis": 12,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Walk"
         ],
@@ -15338,7 +15352,7 @@
         "stat_int": 10,
         "stat_str": 13,
         "stat_wis": 10,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Walk"
         ],
@@ -15389,7 +15403,7 @@
         "stat_int": 3,
         "stat_str": 30,
         "stat_wis": 11,
-        "cr": 30,
+        "cr": "30",
         "movement": [
           "Burrow",
           "Climb",
@@ -15438,7 +15452,7 @@
         "stat_int": 2,
         "stat_str": 7,
         "stat_wis": 10,
-        "cr": 0.125,
+        "cr": "0,125",
         "movement": [
           "Climb",
           "Walk"
@@ -15484,7 +15498,7 @@
         "stat_int": 2,
         "stat_str": 12,
         "stat_wis": 9,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Fly"
         ],
@@ -15566,7 +15580,12 @@
         "campaign": [
           "Curse of Strahd"
         ],
-        "hidden_tags": "vampire, bandit, robber, Roadide",
+        "hidden_tags": [
+          "vampire",
+          "bandit",
+          "robber",
+          "Roadide"
+        ],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -15614,7 +15633,7 @@
         "faction": [],
         "source": "Loyalty Token",
         "campaign": [],
-        "hidden_tags": "",
+        "hidden_tags": [],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -15633,7 +15652,7 @@
         "stat_int": 1,
         "stat_str": 14,
         "stat_wis": 6,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Walk"
         ],
@@ -15678,7 +15697,7 @@
         "stat_int": 13,
         "stat_str": 18,
         "stat_wis": 14,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Swim",
           "Walk"
@@ -15727,7 +15746,7 @@
         "stat_int": 5,
         "stat_str": 19,
         "stat_wis": 11,
-        "cr": 4,
+        "cr": "4",
         "movement": [
           "Swim",
           "Walk"
@@ -15775,7 +15794,7 @@
         "stat_int": 18,
         "stat_str": 16,
         "stat_wis": 20,
-        "cr": 4,
+        "cr": "4",
         "movement": [
           "Fly",
           "Walk"
@@ -15824,7 +15843,7 @@
         "stat_int": 1,
         "stat_str": 2,
         "stat_wis": 7,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Swim"
         ],
@@ -15867,7 +15886,7 @@
         "stat_int": 0,
         "stat_str": 10,
         "stat_wis": 0,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Swim"
         ],
@@ -15958,7 +15977,7 @@
         "stat_int": 7,
         "stat_str": 12,
         "stat_wis": 10,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Fly",
           "Walk"
@@ -16007,7 +16026,7 @@
         "stat_int": 1,
         "stat_str": 3,
         "stat_wis": 7,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Fly",
           "Walk"
@@ -16168,7 +16187,7 @@
         "stat_int": 8,
         "stat_str": 13,
         "stat_wis": 11,
-        "cr": 0.125,
+        "cr": "0,125",
         "movement": [
           "Walk"
         ],
@@ -16208,7 +16227,7 @@
           "Infernal",
           "Dungeon"
         ],
-        "cr": "0.5",
+        "cr": "0,5",
         "fightingstyle": [
           "Melee"
         ],
@@ -16264,7 +16283,7 @@
         "stat_int": 10,
         "stat_str": 7,
         "stat_wis": 12,
-        "cr": 4,
+        "cr": "4",
         "movement": [
           "Fly"
         ],
@@ -16311,7 +16330,7 @@
         "stat_int": 14,
         "stat_str": 18,
         "stat_wis": 14,
-        "cr": 12,
+        "cr": "12",
         "movement": [
           "Fly",
           "Walk"
@@ -16409,7 +16428,7 @@
         "stat_int": 10,
         "stat_str": 19,
         "stat_wis": 10,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Walk"
         ],
@@ -16560,7 +16579,7 @@
         "stat_int": 3,
         "stat_str": 10,
         "stat_wis": 10,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Swim",
           "Walk"
@@ -16605,7 +16624,7 @@
         "stat_int": 12,
         "stat_str": 19,
         "stat_wis": 11,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Fly",
           "Walk"
@@ -16652,7 +16671,7 @@
         "stat_int": 10,
         "stat_str": 18,
         "stat_wis": 12,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Walk"
         ],
@@ -16751,7 +16770,7 @@
           "Wilderness",
           "Coast"
         ],
-        "cr": "0.25",
+        "cr": "0,25",
         "fightingstyle": [
           "Simple"
         ],
@@ -16800,7 +16819,7 @@
         "stat_int": 2,
         "stat_str": 18,
         "stat_wis": 13,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Fly",
           "Walk"
@@ -16850,7 +16869,7 @@
         "stat_int": 12,
         "stat_str": 16,
         "stat_wis": 14,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Climb",
           "Walk"
@@ -16959,7 +16978,7 @@
         "stat_int": 5,
         "stat_str": 18,
         "stat_wis": 10,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Swim"
         ],
@@ -17079,7 +17098,7 @@
         "stat_int": 96,
         "stat_str": 98,
         "stat_wis": 99,
-        "thumbnail": "229_gravegrasper-1-db.webp",
+        "thumbnail": "229-gravegrasper-1-db.webp",
         "type": [
           "undead"
         ],
@@ -17093,7 +17112,11 @@
         "campaign": [
           "Curse of Strahd"
         ],
-        "hidden_tags": "[zombie,ghoul,undead]",
+        "hidden_tags": [
+          "zombie",
+          "ghoul",
+          "undead"
+        ],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -17215,7 +17238,7 @@
         "stat_int": 12,
         "stat_str": 22,
         "stat_wis": 16,
-        "cr": 11,
+        "cr": "11",
         "movement": [
           "Fly",
           "Walk"
@@ -17418,7 +17441,7 @@
         "stat_int": 1,
         "stat_str": 3,
         "stat_wis": 7,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Climb",
           "Walk"
@@ -17462,7 +17485,7 @@
           "Planar",
           "Jungle"
         ],
-        "cr": "0.5",
+        "cr": "0,5",
         "fightingstyle": [
           "Ranged",
           "Pack"
@@ -17681,7 +17704,7 @@
         "stat_int": 1,
         "stat_str": 2,
         "stat_wis": 7,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Swim",
           "Walk"
@@ -17726,7 +17749,7 @@
         "stat_int": 11,
         "stat_str": 10,
         "stat_wis": 14,
-        "cr": 0.125,
+        "cr": "0,125",
         "movement": [
           "Swim",
           "Walk"
@@ -17828,7 +17851,7 @@
         "stat_int": 10,
         "stat_str": 26,
         "stat_wis": 13,
-        "cr": 20,
+        "cr": "20",
         "movement": [
           "Burrow",
           "Fly",
@@ -17878,7 +17901,7 @@
         "stat_int": 11,
         "stat_str": 16,
         "stat_wis": 10,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Walk"
         ],
@@ -17926,7 +17949,7 @@
         "stat_int": 6,
         "stat_str": 18,
         "stat_wis": 8,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Walk"
         ],
@@ -17972,7 +17995,7 @@
         "stat_int": 8,
         "stat_str": 16,
         "stat_wis": 14,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Fly",
           "Walk"
@@ -18054,7 +18077,7 @@
         "campaign": [
           "Descent into Avernus"
         ],
-        "hidden_tags": "",
+        "hidden_tags": [],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -18073,7 +18096,7 @@
         "stat_int": 3,
         "stat_str": 8,
         "stat_wis": 12,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -18117,7 +18140,7 @@
         "stat_int": 3,
         "stat_str": 13,
         "stat_wis": 12,
-        "cr": 0.125,
+        "cr": "0,125",
         "movement": [
           "Walk"
         ],
@@ -18163,7 +18186,7 @@
         "stat_int": 14,
         "stat_str": 3,
         "stat_wis": 13,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Fly",
           "Walk"
@@ -18263,7 +18286,7 @@
         "stat_int": 2,
         "stat_str": 7,
         "stat_wis": 12,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Fly",
           "Walk"
@@ -18464,7 +18487,7 @@
         "stat_int": 25,
         "stat_str": 26,
         "stat_wis": 25,
-        "cr": 21,
+        "cr": "21",
         "movement": [
           "Fly",
           "Walk"
@@ -18616,7 +18639,7 @@
         "stat_int": 2,
         "stat_str": 5,
         "stat_wis": 12,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Fly",
           "Walk"
@@ -18663,7 +18686,7 @@
         "stat_int": 1,
         "stat_str": 23,
         "stat_wis": 10,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Swim",
           "Walk"
@@ -18712,7 +18735,7 @@
           "Cave",
           "Underdark"
         ],
-        "cr": "1/8",
+        "cr": "0,125",
         "fightingstyle": [
           "Pack",
           "Airborne"
@@ -18745,7 +18768,7 @@
         "campaign": [
           "Descent into Avernus"
         ],
-        "hidden_tags": "",
+        "hidden_tags": [],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -18871,7 +18894,7 @@
         "stat_int": 20,
         "stat_str": 27,
         "stat_wis": 17,
-        "cr": 22,
+        "cr": "22",
         "movement": [
           "Fly",
           "Swim",
@@ -19031,7 +19054,7 @@
         "stat_int": 7,
         "stat_str": 5,
         "stat_wis": 10,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Walk"
         ],
@@ -19078,7 +19101,9 @@
           "Shock",
           "Tactical"
         ],
-        "movement": "Walk",
+        "movement": [
+          "Walk"
+        ],
         "purpose": [
           "Leader",
           "Support"
@@ -19100,10 +19125,12 @@
         "videourl": "https://www.patreon.com/c/beneostokens",
         "nb_variants": 2,
         "shortdesc": "Coordinates Strike Zealots` breaching operations using Strike Rites.",
-        "faction": "Tribunal",
+        "faction": [
+          "Tribunal"
+        ],
         "source": "Patreon",
-        "campaign": "",
-        "hidden_tags": "",
+        "campaign": [],
+        "hidden_tags": [],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -19120,7 +19147,7 @@
           "Mountain",
           "Wasteland"
         ],
-        "cr": "0.5",
+        "cr": "0,5",
         "fightingstyle": [
           "Melee",
           "Pack",
@@ -19133,7 +19160,7 @@
           "Critter",
           "Classic"
         ],
-        "releaseurl": "",
+        "releaseurl": "https://www.beneos-battlemaps.com",
         "size": "Medium",
         "stat_ac": 12,
         "stat_cha": 6,
@@ -19172,7 +19199,7 @@
         "stat_int": 4,
         "stat_str": 11,
         "stat_wis": 12,
-        "cr": 0.125,
+        "cr": "0,125",
         "movement": [
           "Climb",
           "Walk"
@@ -19218,7 +19245,7 @@
         "stat_int": 11,
         "stat_str": 18,
         "stat_wis": 12,
-        "cr": 8,
+        "cr": "8",
         "movement": [
           "Walk"
         ],
@@ -19277,7 +19304,7 @@
           "Gimmick",
           "Pressure"
         ],
-        "releaseurl": "",
+        "releaseurl": "https://www.beneos-battlemaps.com",
         "size": "Huge",
         "stat_ac": 17,
         "stat_cha": 15,
@@ -19374,7 +19401,7 @@
         "stat_int": 18,
         "stat_str": 18,
         "stat_wis": 18,
-        "cr": 11,
+        "cr": "11",
         "movement": [
           "Fly",
           "Walk"
@@ -19524,7 +19551,7 @@
         "stat_int": 6,
         "stat_str": 15,
         "stat_wis": 11,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Fly",
           "Walk"
@@ -19624,7 +19651,7 @@
         "stat_int": 7,
         "stat_str": 13,
         "stat_wis": 10,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Walk"
         ],
@@ -19672,7 +19699,7 @@
         "stat_int": 0,
         "stat_str": 0,
         "stat_wis": 0,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -19716,7 +19743,7 @@
         "stat_int": 18,
         "stat_str": 29,
         "stat_wis": 17,
-        "cr": 22,
+        "cr": "22",
         "movement": [
           "Fly",
           "Swim",
@@ -19766,7 +19793,7 @@
         "stat_int": 1,
         "stat_str": 13,
         "stat_wis": 9,
-        "cr": 0.125,
+        "cr": "0,125",
         "movement": [
           "Swim",
           "Walk"
@@ -19811,7 +19838,7 @@
         "stat_int": 10,
         "stat_str": 13,
         "stat_wis": 14,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Fly",
           "Walk"
@@ -19907,7 +19934,7 @@
           "Sacral",
           "Urban"
         ],
-        "cr": "0.25",
+        "cr": "0,25",
         "fightingstyle": [
           "Simple"
         ],
@@ -20115,7 +20142,7 @@
         "stat_int": 18,
         "stat_str": 21,
         "stat_wis": 15,
-        "cr": 14,
+        "cr": "14",
         "movement": [
           "Walk"
         ],
@@ -20160,7 +20187,7 @@
         "stat_int": 7,
         "stat_str": 23,
         "stat_wis": 14,
-        "cr": 11,
+        "cr": "11",
         "movement": [
           "Climb",
           "Walk"
@@ -20263,7 +20290,7 @@
         "stat_int": 10,
         "stat_str": 11,
         "stat_wis": 10,
-        "cr": 0.125,
+        "cr": "0,125",
         "movement": [
           "Walk"
         ],
@@ -20361,7 +20388,7 @@
         "stat_int": 11,
         "stat_str": 19,
         "stat_wis": 12,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Walk"
         ],
@@ -20438,7 +20465,11 @@
         "campaign": [
           "Descent into Avernus"
         ],
-        "hidden_tags": "Haruman, Narzugon, Zariel",
+        "hidden_tags": [
+          "Haruman",
+          "Narzugon",
+          "Zariel"
+        ],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -20457,7 +20488,7 @@
         "stat_int": 2,
         "stat_str": 18,
         "stat_wis": 11,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Walk"
         ],
@@ -20609,7 +20640,7 @@
           "Ruin",
           "Civilized"
         ],
-        "cr": "0.5",
+        "cr": "0,5",
         "fightingstyle": [
           "Pack",
           "Ambush"
@@ -20714,7 +20745,7 @@
         "stat_int": 1,
         "stat_str": 19,
         "stat_wis": 10,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Swim",
           "Walk"
@@ -20811,7 +20842,7 @@
         "stat_int": 14,
         "stat_str": 15,
         "stat_wis": 11,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Walk"
         ],
@@ -20856,7 +20887,7 @@
         "stat_int": 11,
         "stat_str": 11,
         "stat_wis": 13,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Walk"
         ],
@@ -20900,7 +20931,7 @@
         "stat_int": 0,
         "stat_str": 0,
         "stat_wis": 0,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -21000,7 +21031,7 @@
         "stat_int": 8,
         "stat_str": 7,
         "stat_wis": 11,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Walk"
         ],
@@ -21102,7 +21133,7 @@
         "stat_int": 18,
         "stat_str": 30,
         "stat_wis": 17,
-        "cr": 24,
+        "cr": "24",
         "movement": [
           "Fly",
           "Swim",
@@ -21156,7 +21187,7 @@
         "stat_int": 16,
         "stat_str": 27,
         "stat_wis": 15,
-        "cr": 17,
+        "cr": "17",
         "movement": [
           "Fly",
           "Swim",
@@ -21205,7 +21236,7 @@
           "Grave",
           "Dungeon"
         ],
-        "cr": "0.5",
+        "cr": "0,5",
         "fightingstyle": [
           "Melee"
         ],
@@ -21257,7 +21288,7 @@
         "stat_int": 1,
         "stat_str": 3,
         "stat_wis": 3,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Walk"
         ],
@@ -21395,7 +21426,7 @@
         "stat_int": 16,
         "stat_str": 25,
         "stat_wis": 15,
-        "cr": 16,
+        "cr": "16",
         "movement": [
           "Burrow",
           "Fly",
@@ -21501,7 +21532,7 @@
         "stat_int": 11,
         "stat_str": 18,
         "stat_wis": 17,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Walk"
         ],
@@ -21599,7 +21630,7 @@
         "stat_int": 16,
         "stat_str": 22,
         "stat_wis": 18,
-        "cr": 17,
+        "cr": "17",
         "movement": [
           "Fly",
           "Walk"
@@ -21646,7 +21677,7 @@
         "stat_int": 18,
         "stat_str": 21,
         "stat_wis": 15,
-        "cr": 10,
+        "cr": "10",
         "movement": [
           "Swim",
           "Walk"
@@ -21946,7 +21977,7 @@
         "stat_int": 2,
         "stat_str": 16,
         "stat_wis": 10,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Walk"
         ],
@@ -21992,7 +22023,7 @@
         "stat_int": 11,
         "stat_str": 17,
         "stat_wis": 12,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Walk"
         ],
@@ -22040,7 +22071,7 @@
         "stat_int": 0,
         "stat_str": 0,
         "stat_wis": 0,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -22084,7 +22115,7 @@
         "stat_int": 16,
         "stat_str": 27,
         "stat_wis": 15,
-        "cr": 21,
+        "cr": "21",
         "movement": [
           "Fly",
           "Swim",
@@ -22243,7 +22274,7 @@
           "Cave",
           "Underdark"
         ],
-        "cr": "1/4",
+        "cr": "0,25",
         "fightingstyle": [
           "Pack",
           "Airborne"
@@ -22277,7 +22308,7 @@
         "campaign": [
           "Descent into Avernus"
         ],
-        "hidden_tags": "",
+        "hidden_tags": [],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -22349,7 +22380,7 @@
         "stat_int": 1,
         "stat_str": 14,
         "stat_wis": 3,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Walk"
         ],
@@ -22394,7 +22425,7 @@
         "stat_int": 1,
         "stat_str": 1,
         "stat_wis": 10,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Swim"
         ],
@@ -22545,7 +22576,7 @@
         "stat_int": 11,
         "stat_str": 16,
         "stat_wis": 11,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Walk"
         ],
@@ -22698,7 +22729,7 @@
         "stat_int": 7,
         "stat_str": 18,
         "stat_wis": 12,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Walk"
         ],
@@ -22743,7 +22774,7 @@
         "stat_int": 6,
         "stat_str": 10,
         "stat_wis": 10,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Walk"
         ],
@@ -22840,7 +22871,7 @@
         "stat_int": 7,
         "stat_str": 19,
         "stat_wis": 14,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Walk"
         ],
@@ -22984,7 +23015,7 @@
         "stat_int": 3,
         "stat_str": 17,
         "stat_wis": 12,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Climb",
           "Walk"
@@ -23031,7 +23062,7 @@
         "stat_int": 5,
         "stat_str": 21,
         "stat_wis": 9,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Walk"
         ],
@@ -23076,7 +23107,7 @@
         "stat_int": 1,
         "stat_str": 2,
         "stat_wis": 10,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Climb",
           "Walk"
@@ -23194,7 +23225,7 @@
           "Duelist",
           "Minion"
         ],
-        "releaseurl": "",
+        "releaseurl": "https://www.beneos-battlemaps.com",
         "size": "Medium",
         "stat_ac": 15,
         "stat_cha": 10,
@@ -23285,7 +23316,7 @@
         "stat_int": 4,
         "stat_str": 8,
         "stat_wis": 12,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Climb",
           "Walk"
@@ -23330,7 +23361,7 @@
         "stat_int": 1,
         "stat_str": 8,
         "stat_wis": 7,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Climb",
           "Walk"
@@ -23702,7 +23733,7 @@
         "stat_int": 1,
         "stat_str": 18,
         "stat_wis": 9,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Walk"
         ],
@@ -23857,7 +23888,7 @@
         "stat_int": 7,
         "stat_str": 15,
         "stat_wis": 12,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Swim",
           "Walk"
@@ -23901,7 +23932,7 @@
         "stat_int": 16,
         "stat_str": 19,
         "stat_wis": 13,
-        "cr": 7,
+        "cr": "7",
         "movement": [
           "Climb",
           "Fly",
@@ -23950,7 +23981,7 @@
         "stat_int": 1,
         "stat_str": 17,
         "stat_wis": 3,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Walk"
         ],
@@ -24230,7 +24261,7 @@
         "stat_int": 2,
         "stat_str": 25,
         "stat_wis": 12,
-        "cr": 8,
+        "cr": "8",
         "movement": [
           "Walk"
         ],
@@ -24324,7 +24355,7 @@
         "stat_int": 10,
         "stat_str": 8,
         "stat_wis": 8,
-        "cr": 0.125,
+        "cr": "0,125",
         "movement": [
           "Walk"
         ],
@@ -24373,7 +24404,7 @@
         "stat_int": 2,
         "stat_str": 22,
         "stat_wis": 11,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Walk"
         ],
@@ -24521,7 +24552,7 @@
         "stat_int": 18,
         "stat_str": 29,
         "stat_wis": 17,
-        "cr": 23,
+        "cr": "23",
         "movement": [
           "Burrow",
           "Fly",
@@ -24571,7 +24602,7 @@
         "stat_int": 2,
         "stat_str": 13,
         "stat_wis": 13,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Walk"
         ],
@@ -24645,7 +24676,7 @@
         "faction": [],
         "source": "Loyalty Token",
         "campaign": [],
-        "hidden_tags": "",
+        "hidden_tags": [],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -24664,7 +24695,7 @@
         "stat_int": 0,
         "stat_str": 0,
         "stat_wis": 0,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -24709,7 +24740,7 @@
         "stat_int": 1,
         "stat_str": 10,
         "stat_wis": 11,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -24749,7 +24780,7 @@
           "Road",
           "Civilized"
         ],
-        "cr": "0.25",
+        "cr": "0,25",
         "fightingstyle": [
           "Simple"
         ],
@@ -24849,7 +24880,7 @@
         "stat_int": 11,
         "stat_str": 18,
         "stat_wis": 19,
-        "cr": 15,
+        "cr": "15",
         "movement": [
           "Walk"
         ],
@@ -24909,7 +24940,7 @@
         "purpose": [
           "Critter"
         ],
-        "releaseurl": "",
+        "releaseurl": "https://www.beneos-battlemaps.com",
         "size": "Medium",
         "stat_ac": 15,
         "stat_cha": 5,
@@ -24948,7 +24979,7 @@
         "stat_int": 18,
         "stat_str": 30,
         "stat_wis": 15,
-        "cr": 23,
+        "cr": "23",
         "movement": [
           "Fly",
           "Walk"
@@ -24999,7 +25030,7 @@
         "stat_int": 16,
         "stat_str": 29,
         "stat_wis": 20,
-        "cr": 13,
+        "cr": "13",
         "movement": [
           "Fly",
           "Swim",
@@ -25045,7 +25076,7 @@
         "stat_int": 2,
         "stat_str": 19,
         "stat_wis": 12,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Walk"
         ],
@@ -25089,7 +25120,7 @@
         "stat_int": 5,
         "stat_str": 12,
         "stat_wis": 8,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Walk"
         ],
@@ -25134,7 +25165,7 @@
         "stat_int": 5,
         "stat_str": 14,
         "stat_wis": 10,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Burrow",
           "Fly",
@@ -25241,7 +25272,7 @@
         "stat_int": 12,
         "stat_str": 10,
         "stat_wis": 16,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Walk"
         ],
@@ -25336,7 +25367,7 @@
         "stat_int": 2,
         "stat_str": 15,
         "stat_wis": 12,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Climb",
           "Swim",
@@ -25381,7 +25412,7 @@
         "stat_int": 3,
         "stat_str": 13,
         "stat_wis": 6,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Walk"
         ],
@@ -25590,7 +25621,7 @@
         "stat_int": 2,
         "stat_str": 20,
         "stat_wis": 10,
-        "cr": 8,
+        "cr": "8",
         "movement": [
           "Swim",
           "Walk"
@@ -25637,7 +25668,7 @@
         "stat_int": 3,
         "stat_str": 19,
         "stat_wis": 6,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Walk"
         ],
@@ -25683,7 +25714,7 @@
         "stat_int": 11,
         "stat_str": 16,
         "stat_wis": 10,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Walk"
         ],
@@ -25729,7 +25760,7 @@
         "stat_int": 2,
         "stat_str": 17,
         "stat_wis": 13,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Climb",
           "Walk"
@@ -25822,7 +25853,7 @@
         "stat_int": 16,
         "stat_str": 18,
         "stat_wis": 14,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Walk"
         ],
@@ -25869,7 +25900,7 @@
         "stat_int": 2,
         "stat_str": 12,
         "stat_wis": 10,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Swim",
           "Walk"
@@ -25922,7 +25953,7 @@
           "Horror",
           "Futuristic"
         ],
-        "cr": "0.5",
+        "cr": "0,5",
         "fightingstyle": [
           "Airborne",
           "Pack"
@@ -25972,7 +26003,7 @@
         "stat_int": 11,
         "stat_str": 14,
         "stat_wis": 10,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Walk"
         ],
@@ -26017,7 +26048,7 @@
         "stat_int": 1,
         "stat_str": 3,
         "stat_wis": 7,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Climb",
           "Walk"
@@ -26116,7 +26147,7 @@
         "stat_int": 2,
         "stat_str": 11,
         "stat_wis": 10,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Climb",
           "Walk"
@@ -26162,7 +26193,7 @@
         "stat_int": 2,
         "stat_str": 17,
         "stat_wis": 7,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Walk"
         ],
@@ -26207,7 +26238,7 @@
         "stat_int": 9,
         "stat_str": 7,
         "stat_wis": 11,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Fly",
           "Walk"
@@ -26253,7 +26284,7 @@
         "stat_int": 2,
         "stat_str": 16,
         "stat_wis": 11,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Walk"
         ],
@@ -26298,7 +26329,7 @@
         "stat_int": 6,
         "stat_str": 14,
         "stat_wis": 10,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Walk"
         ],
@@ -26350,7 +26381,7 @@
           "Horror",
           "Futuristic"
         ],
-        "cr": "0.5",
+        "cr": "0,5",
         "fightingstyle": [
           "Airborne",
           "Pack"
@@ -26451,7 +26482,7 @@
           "Civilized",
           "Tavern"
         ],
-        "cr": "0.5",
+        "cr": "0,5",
         "fightingstyle": [
           "Melee",
           "Ambush",
@@ -26561,7 +26592,7 @@
         "stat_int": 1,
         "stat_str": 1,
         "stat_wis": 8,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Swim",
           "Walk"
@@ -26704,7 +26735,7 @@
         "stat_int": 1,
         "stat_str": 1,
         "stat_wis": 3,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -26748,7 +26779,7 @@
         "stat_int": 10,
         "stat_str": 17,
         "stat_wis": 13,
-        "cr": 4,
+        "cr": "4",
         "movement": [
           "Walk"
         ],
@@ -26795,7 +26826,7 @@
         "stat_int": 11,
         "stat_str": 18,
         "stat_wis": 10,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Climb",
           "Walk"
@@ -26841,7 +26872,7 @@
         "stat_int": 2,
         "stat_str": 10,
         "stat_wis": 10,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Swim",
           "Walk"
@@ -26890,7 +26921,7 @@
         "stat_int": 3,
         "stat_str": 14,
         "stat_wis": 14,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Climb",
           "Walk"
@@ -26935,7 +26966,7 @@
         "stat_int": 3,
         "stat_str": 6,
         "stat_wis": 14,
-        "cr": 0.125,
+        "cr": "0,125",
         "movement": [
           "Fly",
           "Walk"
@@ -27051,7 +27082,7 @@
           "Leader",
           "Hunter"
         ],
-        "releaseurl": "",
+        "releaseurl": "https://www.beneos-battlemaps.com",
         "size": "Large",
         "stat_ac": 16,
         "stat_cha": 16,
@@ -27148,7 +27179,7 @@
         "stat_int": 5,
         "stat_str": 20,
         "stat_wis": 10,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Burrow",
           "Walk"
@@ -27223,7 +27254,15 @@
         "faction": [],
         "source": "Patreon",
         "campaign": [],
-        "hidden_tags": "christmas, oneshot, boss, event, creepy, narrative, athmosphere",
+        "hidden_tags": [
+          "christmas",
+          "oneshot",
+          "boss",
+          "event",
+          "creepy",
+          "narrative",
+          "atmosphere"
+        ],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -27242,7 +27281,7 @@
         "stat_int": 1,
         "stat_str": 6,
         "stat_wis": 8,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Swim",
           "Walk"
@@ -27287,7 +27326,7 @@
         "stat_int": 2,
         "stat_str": 16,
         "stat_wis": 11,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Walk"
         ],
@@ -27481,7 +27520,7 @@
         "stat_int": 1,
         "stat_str": 8,
         "stat_wis": 10,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Swim",
           "Walk"
@@ -27530,7 +27569,7 @@
         "stat_int": 12,
         "stat_str": 19,
         "stat_wis": 11,
-        "cr": 6,
+        "cr": "6",
         "movement": [
           "Burrow",
           "Fly",
@@ -27666,7 +27705,7 @@
         ],
         "source": "Loyalty Token",
         "campaign": [],
-        "hidden_tags": "",
+        "hidden_tags": [],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -27735,7 +27774,7 @@
         "stat_int": 6,
         "stat_str": 10,
         "stat_wis": 8,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Walk"
         ],
@@ -27781,7 +27820,7 @@
         "stat_int": 2,
         "stat_str": 4,
         "stat_wis": 12,
-        "cr": 0.125,
+        "cr": "0,125",
         "movement": [
           "Fly",
           "Swim",
@@ -27864,7 +27903,7 @@
         ],
         "source": "Patreon",
         "campaign": [],
-        "hidden_tags": "",
+        "hidden_tags": [],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -27928,22 +27967,24 @@
       "name": "Hellfire Hydra",
       "properties": {
         "biom": [
-          "volcanic",
-          "planar",
-          "mountain",
-          "underdark"
+          "Volcano",
+          "Planar",
+          "Mountain",
+          "Underdark"
         ],
         "cr": "15",
         "fightingstyle": [
-          "are of effect",
-          "demanding",
-          "interactive"
+          "Area of Effect",
+          "Demanding",
+          "Interactive"
         ],
-        "movement": "walk",
+        "movement": [
+          "Walk"
+        ],
         "purpose": [
-          "boss",
-          "damage",
-          "pressure"
+          "Boss",
+          "Damage",
+          "Pressure"
         ],
         "releaseurl": "https://www.patreon.com/c/beneostokens",
         "size": "huge",
@@ -27962,10 +28003,10 @@
         "videourl": "https://www.youtube.com/channel/ucmrohobg7flr1m9kqowylcq",
         "nb_variants": 1,
         "shortdesc": "Turns into a living volcano over the course of combat.",
-        "faction": "",
-        "source": "Loyalty",
-        "campaign": "",
-        "hidden_tags": "",
+        "faction": [],
+        "source": "Loyalty Token",
+        "campaign": [],
+        "hidden_tags": [],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -28088,7 +28129,7 @@
         "stat_int": 5,
         "stat_str": 19,
         "stat_wis": 12,
-        "cr": 6,
+        "cr": "6",
         "movement": [
           "Fly",
           "Walk"
@@ -28136,7 +28177,7 @@
         "stat_int": 2,
         "stat_str": 16,
         "stat_wis": 12,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Walk"
         ],
@@ -28343,7 +28384,7 @@
         "stat_int": 8,
         "stat_str": 15,
         "stat_wis": 11,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Walk"
         ],
@@ -28392,7 +28433,7 @@
         "stat_int": 14,
         "stat_str": 23,
         "stat_wis": 13,
-        "cr": 13,
+        "cr": "13",
         "movement": [
           "Burrow",
           "Fly",
@@ -28491,7 +28532,7 @@
         "stat_int": 3,
         "stat_str": 19,
         "stat_wis": 12,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Swim",
           "Walk"
@@ -28536,7 +28577,7 @@
         "stat_int": 19,
         "stat_str": 24,
         "stat_wis": 22,
-        "cr": 16,
+        "cr": "16",
         "movement": [
           "Fly",
           "Walk"
@@ -28582,7 +28623,7 @@
         "stat_int": 14,
         "stat_str": 21,
         "stat_wis": 13,
-        "cr": 9,
+        "cr": "9",
         "movement": [
           "Burrow",
           "Fly",
@@ -28685,7 +28726,7 @@
           "Jungle",
           "Swamp"
         ],
-        "cr": "0.5",
+        "cr": "0,5",
         "fightingstyle": [
           "Ambush",
           "Shock"
@@ -28735,7 +28776,7 @@
         "stat_int": 12,
         "stat_str": 15,
         "stat_wis": 10,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Walk"
         ],
@@ -28834,7 +28875,7 @@
         "stat_int": 1,
         "stat_str": 14,
         "stat_wis": 12,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Climb",
           "Walk"
@@ -28934,7 +28975,7 @@
         "stat_int": 3,
         "stat_str": 16,
         "stat_wis": 3,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -28978,7 +29019,7 @@
         "stat_int": 12,
         "stat_str": 27,
         "stat_wis": 16,
-        "cr": 9,
+        "cr": "9",
         "movement": [
           "Fly",
           "Walk"
@@ -29023,7 +29064,7 @@
         "stat_int": 10,
         "stat_str": 11,
         "stat_wis": 14,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Walk"
         ],
@@ -29067,7 +29108,7 @@
         "stat_int": 14,
         "stat_str": 23,
         "stat_wis": 11,
-        "cr": 9,
+        "cr": "9",
         "movement": [
           "Fly",
           "Walk"
@@ -29116,7 +29157,7 @@
         "stat_int": 0,
         "stat_str": 10,
         "stat_wis": 0,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Swim",
           "Walk"
@@ -29261,7 +29302,7 @@
         "stat_int": 6,
         "stat_str": 16,
         "stat_wis": 13,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Walk"
         ],
@@ -29304,7 +29345,7 @@
         "stat_int": 10,
         "stat_str": 16,
         "stat_wis": 11,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Walk"
         ],
@@ -29455,7 +29496,7 @@
         "stat_int": 2,
         "stat_str": 19,
         "stat_wis": 10,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Burrow",
           "Walk"
@@ -29504,7 +29545,7 @@
         "stat_int": 6,
         "stat_str": 6,
         "stat_wis": 10,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Walk"
         ],
@@ -29582,7 +29623,7 @@
         ],
         "source": "Patreon",
         "campaign": [],
-        "hidden_tags": "",
+        "hidden_tags": [],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -29601,7 +29642,7 @@
         "stat_int": 11,
         "stat_str": 6,
         "stat_wis": 12,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Fly",
           "Walk"
@@ -29760,7 +29801,7 @@
         "stat_int": 2,
         "stat_str": 11,
         "stat_wis": 14,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -29804,7 +29845,7 @@
         "stat_int": 10,
         "stat_str": 16,
         "stat_wis": 15,
-        "cr": 6,
+        "cr": "6",
         "movement": [
           "Fly",
           "Walk"
@@ -29898,7 +29939,7 @@
         "stat_int": 1,
         "stat_str": 3,
         "stat_wis": 7,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Burrow",
           "Climb",
@@ -30111,7 +30152,7 @@
         "stat_int": 1,
         "stat_str": 2,
         "stat_wis": 10,
-        "cr": 0.125,
+        "cr": "0,125",
         "movement": [
           "Swim",
           "Walk"
@@ -30160,7 +30201,7 @@
         "stat_int": 9,
         "stat_str": 16,
         "stat_wis": 8,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Climb",
           "Walk"
@@ -30375,7 +30416,7 @@
         "stat_int": 0,
         "stat_str": 0,
         "stat_wis": 0,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -30420,7 +30461,7 @@
         "stat_int": 15,
         "stat_str": 21,
         "stat_wis": 16,
-        "cr": 11,
+        "cr": "11",
         "movement": [
           "Fly",
           "Walk"
@@ -30525,7 +30566,7 @@
         "stat_int": 7,
         "stat_str": 14,
         "stat_wis": 12,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Climb",
           "Walk"
@@ -30637,7 +30678,7 @@
           "Damage",
           "Minion"
         ],
-        "releaseurl": "",
+        "releaseurl": "https://www.beneos-battlemaps.com",
         "size": "Large",
         "stat_ac": 17,
         "stat_cha": 9,
@@ -30732,7 +30773,7 @@
         "stat_int": 2,
         "stat_str": 16,
         "stat_wis": 10,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Fly",
           "Walk"
@@ -30828,7 +30869,7 @@
         "stat_int": 2,
         "stat_str": 17,
         "stat_wis": 12,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Fly",
           "Walk"
@@ -30938,7 +30979,7 @@
         "stat_int": 2,
         "stat_str": 20,
         "stat_wis": 13,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Swim",
           "Walk"
@@ -30983,7 +31024,7 @@
         "stat_int": 2,
         "stat_str": 6,
         "stat_wis": 14,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Fly",
           "Walk"
@@ -31030,7 +31071,7 @@
         "stat_int": 6,
         "stat_str": 15,
         "stat_wis": 12,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Fly",
           "Walk"
@@ -31133,7 +31174,7 @@
         "stat_int": 2,
         "stat_str": 16,
         "stat_wis": 8,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Walk"
         ],
@@ -31181,7 +31222,7 @@
         "stat_int": 2,
         "stat_str": 16,
         "stat_wis": 11,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Walk"
         ],
@@ -31225,7 +31266,7 @@
         "stat_int": 14,
         "stat_str": 16,
         "stat_wis": 15,
-        "cr": 4,
+        "cr": "4",
         "movement": [
           "Walk"
         ],
@@ -31271,7 +31312,7 @@
         "stat_int": 3,
         "stat_str": 24,
         "stat_wis": 11,
-        "cr": 16,
+        "cr": "16",
         "movement": [
           "Walk"
         ],
@@ -31319,7 +31360,7 @@
         "stat_int": 18,
         "stat_str": 23,
         "stat_wis": 15,
-        "cr": 15,
+        "cr": "15",
         "movement": [
           "Fly",
           "Swim",
@@ -31477,7 +31518,7 @@
         "stat_int": 16,
         "stat_str": 11,
         "stat_wis": 11,
-        "cr": 8,
+        "cr": "8",
         "movement": [
           "Walk"
         ],
@@ -31523,7 +31564,7 @@
         "stat_int": 12,
         "stat_str": 11,
         "stat_wis": 14,
-        "cr": 0.125,
+        "cr": "0,125",
         "movement": [
           "Walk"
         ],
@@ -31653,7 +31694,9 @@
         "campaign": [
           "Descent into Avernus"
         ],
-        "hidden_tags": "[hellwasp]",
+        "hidden_tags": [
+          "hellwasp"
+        ],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -31672,7 +31715,7 @@
         "stat_int": 2,
         "stat_str": 18,
         "stat_wis": 12,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Swim",
           "Walk"
@@ -31717,7 +31760,7 @@
           "Sacral",
           "Civilized"
         ],
-        "cr": "0.5",
+        "cr": "0,5",
         "fightingstyle": [
           "Pack"
         ],
@@ -31770,7 +31813,7 @@
         "stat_int": 4,
         "stat_str": 24,
         "stat_wis": 10,
-        "cr": 11,
+        "cr": "11",
         "movement": [
           "Burrow",
           "Walk"
@@ -31820,7 +31863,7 @@
           "Walk"
         ],
         "purpose": [],
-        "releaseurl": "",
+        "releaseurl": "https://www.beneos-battlemaps.com",
         "size": "Huge",
         "stat_ac": 15,
         "stat_cha": 8,
@@ -32123,7 +32166,7 @@
         "stat_int": 19,
         "stat_str": 20,
         "stat_wis": 17,
-        "cr": 9,
+        "cr": "9",
         "movement": [
           "Walk"
         ],
@@ -32258,7 +32301,7 @@
         ],
         "source": "Patreon",
         "campaign": [],
-        "hidden_tags": "",
+        "hidden_tags": [],
         "release_date": "2026-07-10",
         "updated_date": "2026-07-10"
       }
@@ -32331,7 +32374,7 @@
         "stat_int": 2,
         "stat_str": 5,
         "stat_wis": 14,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Fly",
           "Walk"
@@ -32380,7 +32423,7 @@
         "stat_int": 9,
         "stat_str": 18,
         "stat_wis": 13,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Walk"
         ],
@@ -32427,7 +32470,7 @@
         "stat_int": 18,
         "stat_str": 18,
         "stat_wis": 18,
-        "cr": 11,
+        "cr": "11",
         "movement": [
           "Fly",
           "Walk"
@@ -32473,7 +32516,7 @@
         "stat_int": 20,
         "stat_str": 10,
         "stat_wis": 15,
-        "cr": 12,
+        "cr": "12",
         "movement": [
           "Walk"
         ],
@@ -32567,7 +32610,7 @@
         "stat_int": 5,
         "stat_str": 17,
         "stat_wis": 13,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Walk"
         ],
@@ -32612,7 +32655,7 @@
         "stat_int": 0,
         "stat_str": 27,
         "stat_wis": 0,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Fly"
         ],
@@ -32656,7 +32699,7 @@
         "stat_int": 13,
         "stat_str": 18,
         "stat_wis": 14,
-        "cr": 9,
+        "cr": "9",
         "movement": [
           "Fly",
           "Walk"
@@ -32702,7 +32745,7 @@
         "stat_int": 14,
         "stat_str": 21,
         "stat_wis": 13,
-        "cr": 8,
+        "cr": "8",
         "movement": [
           "Fly",
           "Swim",
@@ -32803,7 +32846,7 @@
         "stat_int": 1,
         "stat_str": 3,
         "stat_wis": 7,
-        "cr": 0.5,
+        "cr": "0,5",
         "movement": [
           "Fly",
           "Walk"
@@ -32852,7 +32895,7 @@
         "stat_int": 6,
         "stat_str": 19,
         "stat_wis": 10,
-        "cr": 5,
+        "cr": "5",
         "movement": [
           "Walk"
         ],
@@ -32900,7 +32943,7 @@
         "stat_int": 1,
         "stat_str": 2,
         "stat_wis": 8,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Walk"
         ],
@@ -32994,7 +33037,7 @@
         "stat_int": 10,
         "stat_str": 23,
         "stat_wis": 12,
-        "cr": 7,
+        "cr": "7",
         "movement": [
           "Walk"
         ],
@@ -33038,7 +33081,7 @@
         "stat_int": 2,
         "stat_str": 21,
         "stat_wis": 12,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Walk"
         ],
@@ -33234,7 +33277,7 @@
         "stat_int": 22,
         "stat_str": 26,
         "stat_wis": 18,
-        "cr": 20,
+        "cr": "20",
         "movement": [
           "Fly",
           "Walk"
@@ -33282,7 +33325,7 @@
         "stat_int": 2,
         "stat_str": 15,
         "stat_wis": 10,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Swim",
           "Walk"
@@ -33388,7 +33431,7 @@
         "stat_int": 2,
         "stat_str": 13,
         "stat_wis": 12,
-        "cr": 0.25,
+        "cr": "0,25",
         "movement": [
           "Burrow",
           "Walk"
@@ -33432,7 +33475,7 @@
         "stat_int": 6,
         "stat_str": 18,
         "stat_wis": 16,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Walk"
         ],
@@ -33582,7 +33625,7 @@
         "stat_int": 14,
         "stat_str": 23,
         "stat_wis": 13,
-        "cr": 14,
+        "cr": "14",
         "movement": [
           "Fly",
           "Swim",
@@ -33630,7 +33673,7 @@
         "stat_int": 16,
         "stat_str": 16,
         "stat_wis": 16,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Fly",
           "Walk"
@@ -33677,7 +33720,7 @@
           "Underground",
           "Desert"
         ],
-        "cr": "0.25",
+        "cr": "0,25",
         "fightingstyle": [
           "Simple"
         ],
@@ -33727,7 +33770,7 @@
         "stat_int": 14,
         "stat_str": 10,
         "stat_wis": 15,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Walk"
         ],
@@ -33771,7 +33814,7 @@
         "stat_int": 6,
         "stat_str": 17,
         "stat_wis": 13,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Walk"
         ],
@@ -33817,7 +33860,7 @@
         "stat_int": 10,
         "stat_str": 15,
         "stat_wis": 11,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Burrow",
           "Fly",
@@ -33865,7 +33908,7 @@
         "stat_int": 11,
         "stat_str": 17,
         "stat_wis": 10,
-        "cr": 4,
+        "cr": "4",
         "movement": [
           "Walk"
         ],
@@ -33960,7 +34003,7 @@
         "stat_int": 3,
         "stat_str": 24,
         "stat_wis": 11,
-        "cr": 6,
+        "cr": "6",
         "movement": [
           "Walk"
         ],
@@ -34003,7 +34046,7 @@
         "stat_int": 3,
         "stat_str": 19,
         "stat_wis": 14,
-        "cr": 6,
+        "cr": "6",
         "movement": [
           "Fly",
           "Walk"
@@ -34050,7 +34093,7 @@
         "stat_int": 13,
         "stat_str": 17,
         "stat_wis": 14,
-        "cr": 8,
+        "cr": "8",
         "movement": [
           "Fly",
           "Walk"
@@ -34146,7 +34189,7 @@
         "stat_int": 0,
         "stat_str": 14,
         "stat_wis": 0,
-        "cr": 0,
+        "cr": "0",
         "movement": [
           "Fly"
         ],
@@ -34190,7 +34233,7 @@
         "stat_int": 16,
         "stat_str": 19,
         "stat_wis": 19,
-        "cr": 10,
+        "cr": "10",
         "movement": [
           "Climb",
           "Swim",
@@ -34239,7 +34282,7 @@
         "stat_int": 3,
         "stat_str": 7,
         "stat_wis": 5,
-        "cr": 0.125,
+        "cr": "0,125",
         "movement": [
           "Burrow",
           "Walk"
@@ -34284,7 +34327,7 @@
         "stat_int": 5,
         "stat_str": 19,
         "stat_wis": 7,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Walk"
         ],
@@ -34391,7 +34434,7 @@
         "stat_int": 2,
         "stat_str": 14,
         "stat_wis": 11,
-        "cr": 1,
+        "cr": "1",
         "movement": [
           "Climb",
           "Walk"
@@ -34494,7 +34537,7 @@
         "stat_int": 6,
         "stat_str": 15,
         "stat_wis": 10,
-        "cr": 3,
+        "cr": "3",
         "movement": [
           "Climb",
           "Walk"
@@ -34546,7 +34589,7 @@
         "stat_int": 3,
         "stat_str": 14,
         "stat_wis": 14,
-        "cr": 2,
+        "cr": "2",
         "movement": [
           "Climb",
           "Walk"
@@ -34629,7 +34672,8 @@
         "updated_date": "2026-07-10",
         "shortdesc": "Anti-armour specialist, remains stationary to apply buffs.",
         "releaseurl": "https://beneos-battlemaps.com/",
-        "videourl": "https://www.youtube.com/@beneos_battlemaps"
+        "videourl": "https://www.youtube.com/@beneos_battlemaps",
+        "hidden_tags": []
       }
     },
     "239-imp_eighth": {
@@ -34638,17 +34682,17 @@
       "properties": {
         "free_content": false,
         "biom": [
-          "planar",
-          "dungeon",
-          "urban"
+          "Planar",
+          "Dungeon",
+          "Urban"
         ],
         "cr": "1",
         "fightingstyle": [
           "Simple"
         ],
         "movement": [
-          "walk",
-          "fly"
+          "Walk",
+          "Fly"
         ],
         "purpose": [
           "Minion"
@@ -34689,9 +34733,9 @@
       "properties": {
         "free_content": false,
         "biom": [
-          "planar",
-          "dungeon",
-          "urban"
+          "Planar",
+          "Dungeon",
+          "Urban"
         ],
         "cr": "6",
         "fightingstyle": [
@@ -34703,8 +34747,8 @@
           "Debuff"
         ],
         "movement": [
-          "walk",
-          "fly"
+          "Walk",
+          "Fly"
         ],
         "releaseurl": "https://www.patreon.com/c/BeneosTokens",
         "size": "medium",
@@ -34742,9 +34786,9 @@
       "properties": {
         "free_content": false,
         "biom": [
-          "planar",
-          "dungeon",
-          "arctic"
+          "Planar",
+          "Dungeon",
+          "Arctic"
         ],
         "cr": "14",
         "fightingstyle": [
@@ -34756,7 +34800,7 @@
           "Debuff"
         ],
         "movement": [
-          "walk"
+          "Walk"
         ],
         "releaseurl": "https://www.patreon.com/c/BeneosTokens",
         "size": "large",
@@ -34789,7 +34833,6 @@
       }
     },
     "240-monster_hunter": {
-      "key": "240-monster_hunter",
       "name": "Monster Hunter",
       "description": "",
       "properties": {
@@ -34838,7 +34881,17 @@
           "Curse of Strahd"
         ],
         "videourl": "https://youtu.be/NzCDRNTWpCs",
-        "releaseurl": "https://beneos-battlemaps.com/pages/my-library"
+        "releaseurl": "https://beneos-battlemaps.com/pages/my-library",
+        "hidden_tags": [
+          "van richten",
+          "monster hunter",
+          "ravenloft",
+          "tracker"
+        ],
+        "shortdesc": "Grizzled tracker who lives to fell monstrous prey.",
+        "faction": [
+          "Tribunal"
+        ]
       }
     },
     "000-month_32_malefic_mastermind": {
@@ -34886,14 +34939,14 @@
         ],
         "videourl": "https://youtu.be/uvrdXx1NsFQ",
         "releaseurl": "https://beneos-battlemaps.com/",
-        "source": "Loyalty",
+        "source": "Loyalty Token",
         "release_date": "2026-07-25",
         "updated_date": "2026-07-25",
-        "shortdesc": ""
+        "shortdesc": "",
+        "hidden_tags": []
       }
     },
     "241-armored_war_tiger": {
-      "key": "241-armored_war_tiger",
       "name": "Armored War Tiger",
       "description": "",
       "properties": {
@@ -34924,7 +34977,7 @@
           "Jungle",
           "Lair",
           "Mountain",
-          "swamp",
+          "Swamp",
           "Tavern",
           "Road",
           "Wilderness"
@@ -34942,11 +34995,20 @@
           "Curse of Strahd"
         ],
         "releaseurl": "https://beneos-battlemaps.com/pages/my-library",
-        "videourl": "https://youtu.be/NzCDRNTWpCs"
+        "videourl": "https://youtu.be/NzCDRNTWpCs",
+        "hidden_tags": [
+          "van richten",
+          "hunting beast",
+          "ravenloft",
+          "mount"
+        ],
+        "shortdesc": "Armored tiger bred and trained for the hunt.",
+        "faction": [
+          "Tribunal"
+        ]
       }
     },
     "242-monster_hunter_armored_cart": {
-      "key": "242-monster_hunter_armored_cart",
       "name": "Monster Hunter Armored Cart",
       "description": "",
       "properties": {
@@ -34987,7 +35049,17 @@
         ],
         "cr": "0,5",
         "releaseurl": "https://beneos-battlemaps.com/pages/my-library",
-        "videourl": "https://youtu.be/NzCDRNTWpCs"
+        "videourl": "https://youtu.be/NzCDRNTWpCs",
+        "hidden_tags": [
+          "van richten",
+          "hunting party",
+          "ravenloft",
+          "wagon"
+        ],
+        "shortdesc": "Mobile armory hauling gear for monster hunts.",
+        "faction": [
+          "Tribunal"
+        ]
       }
     }
   }
