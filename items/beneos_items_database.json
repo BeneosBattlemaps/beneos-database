@@ -1889,7 +1889,7 @@
     },
     "0073_visage_of_dismay": {
       "key": "0073_visage_of_dismay",
-      "description": "Draw strength from your allies' failures or chastise them to do better.",
+      "description": "Scowl at your allies' failure to make them stronger.",
       "name": "Visage of Dismay",
       "properties": {
         "rarity": "Rare",
@@ -1910,11 +1910,15 @@
         "free_content": false,
         "shop": [
           "armorsmith",
-          "temple",
-          "arcane_smith"
+          "weaponsmith"
         ],
-        "biome": [],
-        "updated_date": "2026-07-21",
+        "biome": [
+          "ancient_temple",
+          "castle",
+          "heros_grave",
+          "military_base"
+        ],
+        "updated_date": "2026-08-06",
         "release_date": "2026-07-21"
       }
     },
@@ -1959,7 +1963,7 @@
         "rarity": "Very Rare",
         "attunement": true,
         "origin": "feywoven",
-        "item_type": "Crown",
+        "item_type": "Cowl",
         "tier": 3,
         "price": "44800",
         "icon": "0075_grace_of_the_shade_court-icon.webp",
@@ -1974,12 +1978,12 @@
         ],
         "free_content": false,
         "shop": [
-          "magic_shop",
-          "planar_merchant",
-          "hag"
+          "planar_merchant"
         ],
-        "biome": [],
-        "updated_date": "2026-07-21",
+        "biome": [
+          "feywild"
+        ],
+        "updated_date": "2026-08-06",
         "release_date": "2026-07-21"
       }
     },
@@ -2586,7 +2590,7 @@
     "0101_spookshroud": {
       "key": "0101_spookshroud",
       "name": "Spookshroud",
-      "description": "",
+      "description": "Become a ghost and haunt people.",
       "properties": {
         "rarity": "Very Rare",
         "attunement": true,
@@ -2606,12 +2610,11 @@
         ],
         "free_content": false,
         "shop": [
-          "black_market",
           "magic_shop",
-          "weaponsmith"
+          "thieves_guild"
         ],
         "biome": [],
-        "updated_date": "2026-07-21",
+        "updated_date": "2026-08-06",
         "release_date": "2026-07-21"
       }
     },
@@ -2960,7 +2963,7 @@
       "properties": {
         "rarity": "Rare",
         "attunement": true,
-        "origin": "technoarcane",
+        "origin": "techno_arcane",
         "item_type": "Adventuring Gear",
         "tier": 2,
         "price": "2300",
@@ -2975,13 +2978,9 @@
           "wizard"
         ],
         "free_content": false,
-        "shop": [
-          "magic_shop",
-          "arcane_smith",
-          "alchemist"
-        ],
+        "shop": [],
         "biome": [],
-        "updated_date": "2026-07-22",
+        "updated_date": "2026-08-06",
         "release_date": "2026-07-21"
       }
     },
@@ -3674,12 +3673,17 @@
         ],
         "free_content": false,
         "shop": [
-          "temple",
           "healer",
-          "alchemist"
+          "planar_merchant"
         ],
         "release_date": "2026-07-22",
-        "updated_date": "2026-07-22"
+        "updated_date": "2026-08-06",
+        "biome": [
+          "heros_grave",
+          "feywild",
+          "regular_wilderness",
+          "temple"
+        ]
       }
     },
     "0128_headtaker_pincerscythe": {
@@ -3798,11 +3802,14 @@
         "free_content": false,
         "shop": [
           "magic_shop",
-          "planar_merchant",
-          "alchemist"
+          "temple"
         ],
-        "biome": [],
-        "updated_date": "2026-07-21",
+        "biome": [
+          "regular_wilderness",
+          "feywild",
+          "heros_grave"
+        ],
+        "updated_date": "2026-08-06",
         "release_date": "2026-07-21"
       }
     },
@@ -3828,12 +3835,16 @@
         ],
         "free_content": false,
         "shop": [
-          "healer",
+          "hag",
+          "alchemist",
           "magic_shop",
-          "alchemist"
+          "monster_hunter_guild"
         ],
-        "biome": [],
-        "updated_date": "2026-07-21",
+        "biome": [
+          "feywild",
+          "regular_wilderness"
+        ],
+        "updated_date": "2026-08-06",
         "release_date": "2026-07-21"
       }
     },
@@ -17985,6 +17996,133 @@
         "biome": [
           "temple",
           "reliquary"
+        ],
+        "release_date": "2026-08-06",
+        "updated_date": "2026-08-06"
+      }
+    },
+    "0154_hyperfertilizer": {
+      "key": "0154_hyperfertilizer",
+      "name": "Hyperfertilizer",
+      "description": "Use on plant to have it rapidly grow to enormous size.",
+      "properties": {
+        "rarity": "Uncommon",
+        "attunement": false,
+        "origin": "druidic",
+        "item_type": "Potion",
+        "tier": 1,
+        "price": "1850",
+        "icon": "0154_hyperfertilizer-icon.webp",
+        "shop": [
+          "hag",
+          "alchemist"
+        ],
+        "biome": [
+          "laboratory",
+          "wizards_tower"
+        ],
+        "release_date": "2026-08-06",
+        "updated_date": "2026-08-06"
+      }
+    },
+    "0310_hyperfertilizer": {
+      "key": "0310_hyperfertilizer",
+      "name": "Hyperfertilizer",
+      "description": "",
+      "properties": {
+        "rarity": "Common",
+        "attunement": false,
+        "origin": "ancient",
+        "item_type": "Adventuring Gear",
+        "tier": 1,
+        "price": "0",
+        "icon": "0310_hyperfertilizer-icon.webp",
+        "shop": [],
+        "biome": [],
+        "release_date": "2026-08-06",
+        "updated_date": "2026-08-06"
+      }
+    },
+    "0155_protector_shroomcap": {
+      "key": "0155_protector_shroomcap",
+      "name": "Protector Shroomcap",
+      "description": "Forms a protective barrier around you when falling unconscious.",
+      "properties": {
+        "rarity": "Rare",
+        "attunement": true,
+        "origin": "mutation",
+        "item_type": "Mutation",
+        "tier": 2,
+        "price": "3600",
+        "icon": "0155_protector_shroomcap-icon.webp",
+        "shop": [
+          "hag",
+          "alchemist",
+          "healer",
+          "magic_shop",
+          "monster_hunter_guild",
+          "weirdo_merchant"
+        ],
+        "biome": [
+          "feywild",
+          "regular_wilderness"
+        ],
+        "release_date": "2026-08-06",
+        "updated_date": "2026-08-06"
+      }
+    },
+    "0156_crimsonblood_candle": {
+      "key": "0156_crimsonblood_candle",
+      "name": "Crimsonblood Candle",
+      "description": "Use creature's blood and hair to control its actions.",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": false,
+        "origin": "occult",
+        "item_type": "Candle",
+        "tier": 3,
+        "price": "46400",
+        "icon": "0156_crimsonblood_candle-icon.webp",
+        "shop": [
+          "hag",
+          "weirdo_merchant",
+          "black_market",
+          "infernal_shop"
+        ],
+        "biome": [
+          "feywild",
+          "defiled_temple",
+          "cultist_hideout",
+          "undead_lair"
+        ],
+        "release_date": "2026-08-06",
+        "updated_date": "2026-08-06"
+      }
+    },
+    "0155_crimsonblood_candle": {
+      "key": "0155_crimsonblood_candle",
+      "name": "Crimsonblood Candle",
+      "description": "Crafted from a creature's blood and hair to control its actions.",
+      "properties": {
+        "rarity": "Very Rare",
+        "attunement": false,
+        "origin": "occult",
+        "item_type": "Candle",
+        "tier": 3,
+        "price": "44600",
+        "icon": "0155_crimsonblood_candle-icon.webp",
+        "shop": [
+          "hag",
+          "weirdo_merchant",
+          "infernal_shop",
+          "black_market"
+        ],
+        "biome": [
+          "cultist_hideout",
+          "feywild",
+          "infernal_fortress",
+          "undead_lair",
+          "wizards_tower"
         ],
         "release_date": "2026-08-06",
         "updated_date": "2026-08-06"

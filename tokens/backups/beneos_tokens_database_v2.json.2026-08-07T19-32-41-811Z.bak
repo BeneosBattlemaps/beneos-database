@@ -34888,8 +34888,8 @@
         "releaseurl": "https://beneos-battlemaps.com/",
         "source": "Loyalty",
         "release_date": "2026-07-25",
-        "updated_date": "2026-08-07",
-        "shortdesc": "Commands infernal troops with calculated cruelty."
+        "updated_date": "2026-07-25",
+        "shortdesc": ""
       }
     },
     "241-armored_war_tiger": {
@@ -35034,53 +35034,6 @@
           "pudding"
         ],
         "shortdesc": "Improvement upon the SRD Gelatinous Cube or non-descript Ooze."
-      }
-    },
-    "000-month_34_ooze_botchling": {
-      "key": "000-month_34_ooze_botchling",
-      "name": "Ooze Blotchling",
-      "description": "Blotchlings arise in the wake of greater oozes. It remains unclear whether they are split-off fragments of the original creature or new, somehow independent organisms. Some of them stay close together, or seem to actively seek out the proximity of other Blotchlings. Others venture out and may eventually return to the ooze from which they separated, while still others make no attempt whatsoever to rejoin the whole. Whether this is a kind of \"personal\" preference or reflects their actual purpose,  whether one might even speak of a form of reproduction, or view the Blotchling as a kind of spore, remains unclear. In any case, they are dangerous, and their presence points to larger problems.",
-      "properties": {
-        "size": "Medium",
-        "cr": "1/2",
-        "stat_hp": 22,
-        "stat_str": 12,
-        "stat_dex": 8,
-        "stat_con": 12,
-        "stat_int": 1,
-        "stat_wis": 6,
-        "stat_cha": 1,
-        "movement": [
-          "Walk",
-          "Climb"
-        ],
-        "source": "Loyalty",
-        "nb_variants": 2,
-        "thumbnail": "000-month_34_ooze_botchling-1-db.webp",
-        "release_date": "2026-08-07",
-        "updated_date": "2026-08-07",
-        "type": [
-          "ooze"
-        ],
-        "purpose": [
-          "minion",
-          "gimmick"
-        ],
-        "fightingstyle": [
-          "simple",
-          "ambush"
-        ],
-        "biom": [
-          "any"
-        ],
-        "shortdesc": "Hunts on its own or as part of a collective. Highly flammable.",
-        "hidden_tags": [
-          "slime",
-          "pudding",
-          "acid",
-          "ooze"
-        ],
-        "stat_ac": 9
       }
     }
   }
